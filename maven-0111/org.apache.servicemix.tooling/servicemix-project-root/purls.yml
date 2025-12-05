@@ -1,0 +1,14 @@
+- pkg:maven/org.apache.servicemix.tooling/servicemix-project-root@2010.01
+- pkg:maven/org.apache.servicemix.tooling/servicemix-project-root@2010.01?classifier=sources
+- pkg:maven/org.apache.servicemix.tooling/servicemix-project-root@2010.02
+- pkg:maven/org.apache.servicemix.tooling/servicemix-project-root@2010.02?classifier=sources
+- pkg:maven/org.apache.servicemix.tooling/servicemix-project-root@2011.01
+- pkg:maven/org.apache.servicemix.tooling/servicemix-project-root@2011.01?classifier=sources
+- pkg:maven/org.apache.servicemix.tooling/servicemix-project-root@2011.02
+- pkg:maven/org.apache.servicemix.tooling/servicemix-project-root@2011.02?classifier=sources
+- pkg:maven/org.apache.servicemix.tooling/servicemix-project-root@2013.01
+- pkg:maven/org.apache.servicemix.tooling/servicemix-project-root@2013.01?classifier=sources
+- pkg:maven/org.apache.servicemix.tooling/servicemix-project-root@3.2.2
+- pkg:maven/org.apache.servicemix.tooling/servicemix-project-root@3.2.2?classifier=sources
+- pkg:maven/org.apache.servicemix.tooling/servicemix-project-root@3.2.3
+- pkg:maven/org.apache.servicemix.tooling/servicemix-project-root@3.2.3?classifier=sources

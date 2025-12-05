@@ -1,0 +1,3 @@
+- pkg:maven/org.apache.geronimo.samples/DataCDInfo-JTA-ear@2.1.7?classifier=sources
+- pkg:maven/org.apache.geronimo.samples/DataCDInfo-JTA-ear@2.2.1?classifier=sources
+- pkg:maven/org.apache.geronimo.samples/DataCDInfo-JTA-ear@2.2?classifier=sources

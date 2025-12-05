@@ -1,0 +1,2 @@
+- pkg:maven/io.takari.aether/takari-concurrent-localrepo@0.0.7
+- pkg:maven/io.takari.aether/takari-concurrent-localrepo@0.0.7?classifier=sources

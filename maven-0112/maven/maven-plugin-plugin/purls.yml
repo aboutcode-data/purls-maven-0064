@@ -1,0 +1,2 @@
+- pkg:maven/maven/maven-plugin-plugin@1.7.1
+- pkg:maven/maven/maven-plugin-plugin@1.7.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/javax.sip/jain-sip-sctp@1.2.164
+- pkg:maven/javax.sip/jain-sip-sctp@1.2.164?classifier=sources

@@ -1,0 +1,10 @@
+- pkg:maven/org.atmosphere/atmosphere-javascript@1.0.14?type=war
+- pkg:maven/org.atmosphere/atmosphere-javascript@1.0.15?type=war
+- pkg:maven/org.atmosphere/atmosphere-javascript@1.0.16?type=war
+- pkg:maven/org.atmosphere/atmosphere-javascript@1.0.17?type=war
+- pkg:maven/org.atmosphere/atmosphere-javascript@1.0.18?type=war
+- pkg:maven/org.atmosphere/atmosphere-javascript@1.1.0.RC1?type=war
+- pkg:maven/org.atmosphere/atmosphere-javascript@1.1.0.RC2?type=war
+- pkg:maven/org.atmosphere/atmosphere-javascript@1.1.0.RC3?type=war
+- pkg:maven/org.atmosphere/atmosphere-javascript@1.1.0.beta2?type=war
+- pkg:maven/org.atmosphere/atmosphere-javascript@1.1.0.beta3?type=war

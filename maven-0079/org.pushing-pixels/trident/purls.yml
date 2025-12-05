@@ -1,0 +1,2 @@
+- pkg:maven/org.pushing-pixels/trident@1.2
+- pkg:maven/org.pushing-pixels/trident@1.2?classifier=sources

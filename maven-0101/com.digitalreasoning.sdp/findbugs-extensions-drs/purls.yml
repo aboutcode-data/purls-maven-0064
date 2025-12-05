@@ -1,0 +1,2 @@
+- pkg:maven/com.digitalreasoning.sdp/findbugs-extensions-drs@1.0.0
+- pkg:maven/com.digitalreasoning.sdp/findbugs-extensions-drs@1.0.0?classifier=sources

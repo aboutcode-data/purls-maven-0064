@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.commons/commons-skin@1.0
+- pkg:maven/org.apache.commons/commons-skin@1.0?classifier=sources
+- pkg:maven/org.apache.commons/commons-skin@2
+- pkg:maven/org.apache.commons/commons-skin@2?classifier=sources
+- pkg:maven/org.apache.commons/commons-skin@3
+- pkg:maven/org.apache.commons/commons-skin@4

@@ -1,0 +1,2 @@
+- pkg:maven/org.jvnet.opendmk/jmxremote_optional@1.0_01-ea
+- pkg:maven/org.jvnet.opendmk/jmxremote_optional@1.0_01-ea?classifier=sources

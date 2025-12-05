@@ -1,0 +1,2 @@
+- pkg:maven/nl.trivento.albero/albero-repositories-database@0.2
+- pkg:maven/nl.trivento.albero/albero-repositories-database@0.2?classifier=sources

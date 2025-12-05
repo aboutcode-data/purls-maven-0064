@@ -1,0 +1,6 @@
+- pkg:maven/org.jodd/jodd-log@3.5
+- pkg:maven/org.jodd/jodd-log@3.5.1
+- pkg:maven/org.jodd/jodd-log@3.5.1?classifier=sources
+- pkg:maven/org.jodd/jodd-log@3.5.2
+- pkg:maven/org.jodd/jodd-log@3.5.2?classifier=sources
+- pkg:maven/org.jodd/jodd-log@3.5?classifier=sources

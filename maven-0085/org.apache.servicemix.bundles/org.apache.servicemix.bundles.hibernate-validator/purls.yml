@@ -1,0 +1,11 @@
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.hibernate-validator@4.0.2.GA_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.hibernate-validator@4.0.2.GA_2
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.hibernate-validator@4.0.2.GA_3
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.hibernate-validator@4.1.0.Final_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.hibernate-validator@4.1.0.Final_2
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.hibernate-validator@4.1.0.Final_3
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.hibernate-validator@4.1.0.Final_3?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.hibernate-validator@5.0.2.Final_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.hibernate-validator@5.0.2.Final_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.hibernate-validator@5.0.2.Final_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.hibernate-validator@5.0.2.Final_1?classifier=src&type=zip

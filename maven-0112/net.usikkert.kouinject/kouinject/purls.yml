@@ -1,0 +1,12 @@
+- pkg:maven/net.usikkert.kouinject/kouinject@0.5
+- pkg:maven/net.usikkert.kouinject/kouinject@0.5?classifier=sources
+- pkg:maven/net.usikkert.kouinject/kouinject@0.6
+- pkg:maven/net.usikkert.kouinject/kouinject@0.6?classifier=sources
+- pkg:maven/net.usikkert.kouinject/kouinject@0.7
+- pkg:maven/net.usikkert.kouinject/kouinject@0.7?classifier=sources
+- pkg:maven/net.usikkert.kouinject/kouinject@1.0
+- pkg:maven/net.usikkert.kouinject/kouinject@1.0?classifier=sources
+- pkg:maven/net.usikkert.kouinject/kouinject@1.1
+- pkg:maven/net.usikkert.kouinject/kouinject@1.1?classifier=sources
+- pkg:maven/net.usikkert.kouinject/kouinject@1.2
+- pkg:maven/net.usikkert.kouinject/kouinject@1.2?classifier=sources

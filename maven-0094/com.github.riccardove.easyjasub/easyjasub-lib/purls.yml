@@ -1,0 +1,8 @@
+- pkg:maven/com.github.riccardove.easyjasub/easyjasub-lib@0.0.17
+- pkg:maven/com.github.riccardove.easyjasub/easyjasub-lib@0.0.17?classifier=sources
+- pkg:maven/com.github.riccardove.easyjasub/easyjasub-lib@0.1.0
+- pkg:maven/com.github.riccardove.easyjasub/easyjasub-lib@0.1.0?classifier=sources
+- pkg:maven/com.github.riccardove.easyjasub/easyjasub-lib@0.1.1
+- pkg:maven/com.github.riccardove.easyjasub/easyjasub-lib@0.1.1?classifier=sources
+- pkg:maven/com.github.riccardove.easyjasub/easyjasub-lib@0.3.0
+- pkg:maven/com.github.riccardove.easyjasub/easyjasub-lib@0.3.0?classifier=sources

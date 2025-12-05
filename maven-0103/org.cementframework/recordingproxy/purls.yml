@@ -1,0 +1,4 @@
+- pkg:maven/org.cementframework/recordingproxy@0.0.12
+- pkg:maven/org.cementframework/recordingproxy@0.0.12?classifier=sources
+- pkg:maven/org.cementframework/recordingproxy@0.5.3
+- pkg:maven/org.cementframework/recordingproxy@0.5.3?classifier=sources

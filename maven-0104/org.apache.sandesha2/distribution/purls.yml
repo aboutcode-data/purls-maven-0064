@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.sandesha2/distribution@1.2?classifier=src&type=tar.gz
+- pkg:maven/org.apache.sandesha2/distribution@1.2?classifier=src&type=zip

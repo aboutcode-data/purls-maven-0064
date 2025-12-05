@@ -1,0 +1,2 @@
+- pkg:maven/org.smart4j/smart-plugin-template@2.2
+- pkg:maven/org.smart4j/smart-plugin-template@2.2?classifier=sources

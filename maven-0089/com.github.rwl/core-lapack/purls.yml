@@ -1,0 +1,2 @@
+- pkg:maven/com.github.rwl/core-lapack@0.1
+- pkg:maven/com.github.rwl/core-lapack@0.1?classifier=sources

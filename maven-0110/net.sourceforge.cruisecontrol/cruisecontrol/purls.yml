@@ -1,0 +1,4 @@
+- pkg:maven/net.sourceforge.cruisecontrol/cruisecontrol@2.1
+- pkg:maven/net.sourceforge.cruisecontrol/cruisecontrol@2.2.1
+- pkg:maven/net.sourceforge.cruisecontrol/cruisecontrol@2.3.0.1
+- pkg:maven/net.sourceforge.cruisecontrol/cruisecontrol@2.7.2

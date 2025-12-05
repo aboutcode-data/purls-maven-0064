@@ -1,0 +1,2 @@
+- pkg:maven/org.beangle.tomcat/beangle-tomcat-jdbc-encrypt@0.0.1
+- pkg:maven/org.beangle.tomcat/beangle-tomcat-jdbc-encrypt@0.0.1?classifier=sources

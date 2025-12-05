@@ -1,0 +1,4 @@
+- pkg:maven/org.opencms.modules/com.alkacon.opencms.v8.login@8.0.1
+- pkg:maven/org.opencms.modules/com.alkacon.opencms.v8.login@8.0.2
+- pkg:maven/org.opencms.modules/com.alkacon.opencms.v8.login@8.0.4
+- pkg:maven/org.opencms.modules/com.alkacon.opencms.v8.login@8.5.1

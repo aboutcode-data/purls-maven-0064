@@ -1,0 +1,5 @@
+- pkg:maven/org.metawidget.modules.js/metawidget-bootstrap@3.4?type=war
+- pkg:maven/org.metawidget.modules.js/metawidget-bootstrap@3.5?type=war
+- pkg:maven/org.metawidget.modules.js/metawidget-bootstrap@3.6?type=war
+- pkg:maven/org.metawidget.modules.js/metawidget-bootstrap@3.7?type=war
+- pkg:maven/org.metawidget.modules.js/metawidget-bootstrap@3.8?type=war

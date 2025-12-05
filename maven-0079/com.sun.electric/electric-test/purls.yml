@@ -1,0 +1,6 @@
+- pkg:maven/com.sun.electric/electric-test@9.00
+- pkg:maven/com.sun.electric/electric-test@9.00-q
+- pkg:maven/com.sun.electric/electric-test@9.00-q?classifier=sources
+- pkg:maven/com.sun.electric/electric-test@9.01
+- pkg:maven/com.sun.electric/electric-test@9.01-b
+- pkg:maven/com.sun.electric/electric-test@9.01?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.codeartisans.asadmin-maven-plugin/war-example@0.6?classifier=sources
+- pkg:maven/org.codeartisans.asadmin-maven-plugin/war-example@0.6?type=war

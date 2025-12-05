@@ -1,0 +1,10 @@
+- pkg:maven/com.ovea/ovea-js-eventbus@1.5.ga
+- pkg:maven/com.ovea/ovea-js-eventbus@1.5.ga?classifier=sources
+- pkg:maven/com.ovea/ovea-js-eventbus@1.6.ga
+- pkg:maven/com.ovea/ovea-js-eventbus@1.6.ga?classifier=sources
+- pkg:maven/com.ovea/ovea-js-eventbus@1.7.ga
+- pkg:maven/com.ovea/ovea-js-eventbus@1.7.ga?classifier=sources
+- pkg:maven/com.ovea/ovea-js-eventbus@1.8.ga
+- pkg:maven/com.ovea/ovea-js-eventbus@1.8.ga?classifier=sources
+- pkg:maven/com.ovea/ovea-js-eventbus@1.9.ga
+- pkg:maven/com.ovea/ovea-js-eventbus@1.9.ga?classifier=sources

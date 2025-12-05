@@ -1,0 +1,2 @@
+- pkg:maven/de.cubeisland.engine/i18n@1.0.1
+- pkg:maven/de.cubeisland.engine/i18n@1.0.1?classifier=sources

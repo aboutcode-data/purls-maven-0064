@@ -1,0 +1,2 @@
+- pkg:maven/org.objectweb.think.minus/test-tools@1.1-alpha-2
+- pkg:maven/org.objectweb.think.minus/test-tools@1.1-alpha-2?classifier=sources

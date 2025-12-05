@@ -1,0 +1,2 @@
+- pkg:maven/net.awired.js/jquery-ui@1.8.11?classifier=sources
+- pkg:maven/net.awired.js/jquery-ui@1.8.11?type=war

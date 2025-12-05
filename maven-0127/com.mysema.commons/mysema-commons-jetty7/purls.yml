@@ -1,0 +1,2 @@
+- pkg:maven/com.mysema.commons/mysema-commons-jetty7@7.3.1
+- pkg:maven/com.mysema.commons/mysema-commons-jetty7@7.3.1?classifier=sources

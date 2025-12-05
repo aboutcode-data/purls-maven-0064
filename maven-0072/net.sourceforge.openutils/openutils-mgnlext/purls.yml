@@ -1,0 +1,6 @@
+- pkg:maven/net.sourceforge.openutils/openutils-mgnlext@2.1
+- pkg:maven/net.sourceforge.openutils/openutils-mgnlext@2.1?classifier=sources
+- pkg:maven/net.sourceforge.openutils/openutils-mgnlext@2.2
+- pkg:maven/net.sourceforge.openutils/openutils-mgnlext@2.2?classifier=sources
+- pkg:maven/net.sourceforge.openutils/openutils-mgnlext@5.0.10
+- pkg:maven/net.sourceforge.openutils/openutils-mgnlext@5.0.10?classifier=sources

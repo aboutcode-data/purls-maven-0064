@@ -1,0 +1,15 @@
+- pkg:maven/jparsec/jparsec@0.2.2
+- pkg:maven/jparsec/jparsec@0.2.3
+- pkg:maven/jparsec/jparsec@0.2.4
+- pkg:maven/jparsec/jparsec@0.3
+- pkg:maven/jparsec/jparsec@0.4
+- pkg:maven/jparsec/jparsec@0.4.1
+- pkg:maven/jparsec/jparsec@0.5
+- pkg:maven/jparsec/jparsec@0.6
+- pkg:maven/jparsec/jparsec@0.7.1
+- pkg:maven/jparsec/jparsec@1.0
+- pkg:maven/jparsec/jparsec@1.1rc1
+- pkg:maven/jparsec/jparsec@1.2
+- pkg:maven/jparsec/jparsec@2.0
+- pkg:maven/jparsec/jparsec@2.0.1
+- pkg:maven/jparsec/jparsec@2.0.1?classifier=sources

@@ -1,0 +1,3 @@
+- pkg:maven/com.rabbitmq/rabbitmq-client@0.9.1
+- pkg:maven/com.rabbitmq/rabbitmq-client@1.2.0
+- pkg:maven/com.rabbitmq/rabbitmq-client@1.3.0

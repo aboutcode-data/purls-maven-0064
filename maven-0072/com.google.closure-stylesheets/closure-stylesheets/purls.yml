@@ -1,0 +1,2 @@
+- pkg:maven/com.google.closure-stylesheets/closure-stylesheets@20140426
+- pkg:maven/com.google.closure-stylesheets/closure-stylesheets@20140426?classifier=sources

@@ -1,0 +1,13 @@
+- pkg:maven/org.apache.servicemix/servicemix-cxf-bc@2008.01?classifier=sources
+- pkg:maven/org.apache.servicemix/servicemix-cxf-bc@2009.01?classifier=sources
+- pkg:maven/org.apache.servicemix/servicemix-cxf-bc@2009.02?classifier=sources
+- pkg:maven/org.apache.servicemix/servicemix-cxf-bc@2010.01?classifier=sources
+- pkg:maven/org.apache.servicemix/servicemix-cxf-bc@2010.02?classifier=sources
+- pkg:maven/org.apache.servicemix/servicemix-cxf-bc@2011.01?classifier=sources
+- pkg:maven/org.apache.servicemix/servicemix-cxf-bc@2011.02.1?classifier=sources
+- pkg:maven/org.apache.servicemix/servicemix-cxf-bc@2011.02?classifier=sources
+- pkg:maven/org.apache.servicemix/servicemix-cxf-bc@2013.01?classifier=sources
+- pkg:maven/org.apache.servicemix/servicemix-cxf-bc@3.2.1?classifier=sources
+- pkg:maven/org.apache.servicemix/servicemix-cxf-bc@3.2.2?classifier=sources
+- pkg:maven/org.apache.servicemix/servicemix-cxf-bc@3.2.3?classifier=sources
+- pkg:maven/org.apache.servicemix/servicemix-cxf-bc@3.2?classifier=sources

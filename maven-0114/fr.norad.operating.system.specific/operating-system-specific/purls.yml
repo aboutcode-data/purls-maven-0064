@@ -1,0 +1,2 @@
+- pkg:maven/fr.norad.operating.system.specific/operating-system-specific@0.5
+- pkg:maven/fr.norad.operating.system.specific/operating-system-specific@0.5?classifier=sources

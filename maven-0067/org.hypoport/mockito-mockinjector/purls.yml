@@ -1,0 +1,2 @@
+- pkg:maven/org.hypoport/mockito-mockinjector@1.0
+- pkg:maven/org.hypoport/mockito-mockinjector@1.0?classifier=sources

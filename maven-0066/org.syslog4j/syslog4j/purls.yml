@@ -1,0 +1,2 @@
+- pkg:maven/org.syslog4j/syslog4j@0.9.30
+- pkg:maven/org.syslog4j/syslog4j@0.9.30?classifier=sources

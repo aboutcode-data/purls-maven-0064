@@ -1,0 +1,2 @@
+- pkg:maven/net.eusashead.spring/spring-cache-gae@1.0.0.RELEASE
+- pkg:maven/net.eusashead.spring/spring-cache-gae@1.0.0.RELEASE?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.stax-utils@20040917_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.stax-utils@20040917_2
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.stax-utils@20070216_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.stax-utils@20070216_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.stax-utils@20070216_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.stax-utils@20070216_1?classifier=src&type=zip

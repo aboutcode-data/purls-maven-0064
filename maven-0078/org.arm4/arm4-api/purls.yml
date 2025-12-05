@@ -1,0 +1,2 @@
+- pkg:maven/org.arm4/arm4-api@1.0.0
+- pkg:maven/org.arm4/arm4-api@1.0.0?classifier=sources

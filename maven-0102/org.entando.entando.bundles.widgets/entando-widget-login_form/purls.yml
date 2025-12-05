@@ -1,0 +1,2 @@
+- pkg:maven/org.entando.entando.bundles.widgets/entando-widget-login_form@4.0.0?classifier=sources
+- pkg:maven/org.entando.entando.bundles.widgets/entando-widget-login_form@4.0.0?type=war

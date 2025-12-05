@@ -1,0 +1,2 @@
+- pkg:maven/org.ow2.jasmine.jade/org.ow2.jasmine.jade.legacy.apache@2.2.2
+- pkg:maven/org.ow2.jasmine.jade/org.ow2.jasmine.jade.legacy.apache@2.2.2?classifier=sources

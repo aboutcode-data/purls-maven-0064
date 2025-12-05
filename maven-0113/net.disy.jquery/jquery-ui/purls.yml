@@ -1,0 +1,2 @@
+- pkg:maven/net.disy.jquery/jquery-ui@1.8.6
+- pkg:maven/net.disy.jquery/jquery-ui@1.8.6?classifier=sources

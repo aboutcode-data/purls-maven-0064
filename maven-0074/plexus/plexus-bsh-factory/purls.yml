@@ -1,0 +1,3 @@
+- pkg:maven/plexus/plexus-bsh-factory@1.0-alpha-5
+- pkg:maven/plexus/plexus-bsh-factory@1.0-alpha-6
+- pkg:maven/plexus/plexus-bsh-factory@1.0-alpha-6?classifier=sources

@@ -1,0 +1,12 @@
+- pkg:maven/xfire/xfire-aegis@1.0-20050913.004854
+- pkg:maven/xfire/xfire-aegis@1.0-20050917.230734
+- pkg:maven/xfire/xfire-aegis@1.0-20050920.032134
+- pkg:maven/xfire/xfire-aegis@1.0-20050920.034603
+- pkg:maven/xfire/xfire-aegis@1.0-20051009.195836
+- pkg:maven/xfire/xfire-aegis@1.0-M5
+- pkg:maven/xfire/xfire-aegis@1.0-alpha-1?classifier=src&type=tar.gz
+- pkg:maven/xfire/xfire-aegis@1.0-alpha-1?classifier=src&type=zip
+- pkg:maven/xfire/xfire-aegis@1.0-alpha-2?classifier=src&type=tar.gz
+- pkg:maven/xfire/xfire-aegis@1.0-alpha-2?classifier=src&type=zip
+- pkg:maven/xfire/xfire-aegis@20050103.051706
+- pkg:maven/xfire/xfire-aegis@20050202

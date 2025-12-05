@@ -1,0 +1,8 @@
+- pkg:maven/org.amcgala/amcgala@1.0.13
+- pkg:maven/org.amcgala/amcgala@1.0.13?classifier=sources
+- pkg:maven/org.amcgala/amcgala@2.0
+- pkg:maven/org.amcgala/amcgala@2.0-BETA
+- pkg:maven/org.amcgala/amcgala@2.0-BETA?classifier=sources
+- pkg:maven/org.amcgala/amcgala@2.0?classifier=sources
+- pkg:maven/org.amcgala/amcgala@2.1
+- pkg:maven/org.amcgala/amcgala@2.1?classifier=sources

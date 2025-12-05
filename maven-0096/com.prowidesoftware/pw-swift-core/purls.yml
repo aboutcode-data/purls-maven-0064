@@ -1,0 +1,2 @@
+- pkg:maven/com.prowidesoftware/pw-swift-core@SRU2013-7.4
+- pkg:maven/com.prowidesoftware/pw-swift-core@SRU2013-7.4?classifier=sources

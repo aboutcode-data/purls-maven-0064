@@ -1,0 +1,2 @@
+- pkg:maven/net.shambolica.helperl/helperl-core@0.1.0
+- pkg:maven/net.shambolica.helperl/helperl-core@0.1.0?classifier=sources

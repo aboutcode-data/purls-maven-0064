@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.bioutils-proteo/bioutils-proteomics@2.3.1
+- pkg:maven/net.sf.bioutils-proteo/bioutils-proteomics@2.3.1?classifier=sources

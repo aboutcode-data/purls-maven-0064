@@ -1,0 +1,2 @@
+- pkg:maven/be.selckin.util/cxf-php-soap-codegen@0.1
+- pkg:maven/be.selckin.util/cxf-php-soap-codegen@0.1?classifier=sources

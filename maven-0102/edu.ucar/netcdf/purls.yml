@@ -1,0 +1,6 @@
+- pkg:maven/edu.ucar/netcdf@4.2
+- pkg:maven/edu.ucar/netcdf@4.2-min
+- pkg:maven/edu.ucar/netcdf@4.2-min?classifier=sources
+- pkg:maven/edu.ucar/netcdf@4.2.20
+- pkg:maven/edu.ucar/netcdf@4.2.20?classifier=sources
+- pkg:maven/edu.ucar/netcdf@4.2?classifier=sources

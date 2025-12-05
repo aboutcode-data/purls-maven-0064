@@ -1,0 +1,7 @@
+- pkg:maven/net.sourceforge/mpxj@4.0.0
+- pkg:maven/net.sourceforge/mpxj@4.0.0.1
+- pkg:maven/net.sourceforge/mpxj@4.0.0.1?classifier=sources
+- pkg:maven/net.sourceforge/mpxj@4.3.0
+- pkg:maven/net.sourceforge/mpxj@4.3.0?classifier=sources
+- pkg:maven/net.sourceforge/mpxj@4.5.0-rc1
+- pkg:maven/net.sourceforge/mpxj@4.5.0-rc1?classifier=sources

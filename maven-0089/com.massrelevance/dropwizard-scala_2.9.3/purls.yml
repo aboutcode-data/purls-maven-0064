@@ -1,0 +1,2 @@
+- pkg:maven/com.massrelevance/dropwizard-scala_2.9.3@0.7.0
+- pkg:maven/com.massrelevance/dropwizard-scala_2.9.3@0.7.0?classifier=sources

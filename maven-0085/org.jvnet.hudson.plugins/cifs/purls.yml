@@ -1,0 +1,8 @@
+- pkg:maven/org.jvnet.hudson.plugins/cifs@1.0?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/cifs@1.1.10?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/cifs@1.1.2?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/cifs@1.1.3?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/cifs@1.1.4?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/cifs@1.1.8?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/cifs@1.1.9?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/cifs@1.1?classifier=sources

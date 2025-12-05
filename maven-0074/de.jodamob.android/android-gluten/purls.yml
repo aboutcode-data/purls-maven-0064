@@ -1,0 +1,10 @@
+- pkg:maven/de.jodamob.android/android-gluten@0.2-1-g01f4ba1
+- pkg:maven/de.jodamob.android/android-gluten@0.2-1-g01f4ba1?classifier=sources
+- pkg:maven/de.jodamob.android/android-gluten@0.2-11-g787ca31
+- pkg:maven/de.jodamob.android/android-gluten@0.2-11-g787ca31?classifier=sources
+- pkg:maven/de.jodamob.android/android-gluten@0.2-16-gfbf52e4
+- pkg:maven/de.jodamob.android/android-gluten@0.2-16-gfbf52e4?classifier=sources
+- pkg:maven/de.jodamob.android/android-gluten@0.2-4-g2b661b6
+- pkg:maven/de.jodamob.android/android-gluten@0.2-4-g2b661b6?classifier=sources
+- pkg:maven/de.jodamob.android/android-gluten@0.2-6-g39f6922
+- pkg:maven/de.jodamob.android/android-gluten@0.2-6-g39f6922?classifier=sources

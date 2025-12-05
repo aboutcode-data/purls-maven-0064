@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.openejb/openejb-webapp-common@3.1.3
+- pkg:maven/org.apache.openejb/openejb-webapp-common@3.1.3?classifier=sources
+- pkg:maven/org.apache.openejb/openejb-webapp-common@3.1.4
+- pkg:maven/org.apache.openejb/openejb-webapp-common@3.1.4?classifier=sources
+- pkg:maven/org.apache.openejb/openejb-webapp-common@4.0.0-beta-1
+- pkg:maven/org.apache.openejb/openejb-webapp-common@4.0.0-beta-1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.devlab722/logstash-logback-encoder-bundle@0.6.2
+- pkg:maven/net.devlab722/logstash-logback-encoder-bundle@0.6.2?classifier=sources

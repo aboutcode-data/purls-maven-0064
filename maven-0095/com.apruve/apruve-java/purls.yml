@@ -1,0 +1,2 @@
+- pkg:maven/com.apruve/apruve-java@0.3.1
+- pkg:maven/com.apruve/apruve-java@0.3.1?classifier=sources

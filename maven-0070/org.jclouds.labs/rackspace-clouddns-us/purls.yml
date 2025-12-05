@@ -1,0 +1,2 @@
+- pkg:maven/org.jclouds.labs/rackspace-clouddns-us@1.6.0-rc.5
+- pkg:maven/org.jclouds.labs/rackspace-clouddns-us@1.6.0-rc.5?classifier=sources

@@ -1,0 +1,16 @@
+- pkg:maven/com.wadpam.openserver/mvc-boiler@20
+- pkg:maven/com.wadpam.openserver/mvc-boiler@20?classifier=sources
+- pkg:maven/com.wadpam.openserver/mvc-boiler@21
+- pkg:maven/com.wadpam.openserver/mvc-boiler@21?classifier=sources
+- pkg:maven/com.wadpam.openserver/mvc-boiler@22
+- pkg:maven/com.wadpam.openserver/mvc-boiler@22?classifier=sources
+- pkg:maven/com.wadpam.openserver/mvc-boiler@25
+- pkg:maven/com.wadpam.openserver/mvc-boiler@25?classifier=sources
+- pkg:maven/com.wadpam.openserver/mvc-boiler@26
+- pkg:maven/com.wadpam.openserver/mvc-boiler@26?classifier=sources
+- pkg:maven/com.wadpam.openserver/mvc-boiler@27
+- pkg:maven/com.wadpam.openserver/mvc-boiler@27?classifier=sources
+- pkg:maven/com.wadpam.openserver/mvc-boiler@28
+- pkg:maven/com.wadpam.openserver/mvc-boiler@28?classifier=sources
+- pkg:maven/com.wadpam.openserver/mvc-boiler@29
+- pkg:maven/com.wadpam.openserver/mvc-boiler@29?classifier=sources

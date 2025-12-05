@@ -1,0 +1,2 @@
+- pkg:maven/com.sksamuel.elasticsearch/elasticsearch-river-hazelcast@1.0.0?classifier=sources
+- pkg:maven/com.sksamuel.elasticsearch/elasticsearch-river-hazelcast@1.0.0?type=zip

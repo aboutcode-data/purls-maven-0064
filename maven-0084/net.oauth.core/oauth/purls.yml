@@ -1,0 +1,2 @@
+- pkg:maven/net.oauth.core/oauth@20100527
+- pkg:maven/net.oauth.core/oauth@20100527?classifier=sources

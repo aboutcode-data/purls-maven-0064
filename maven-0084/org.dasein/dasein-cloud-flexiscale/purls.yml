@@ -1,0 +1,2 @@
+- pkg:maven/org.dasein/dasein-cloud-flexiscale@2012.04
+- pkg:maven/org.dasein/dasein-cloud-flexiscale@2012.04?classifier=sources

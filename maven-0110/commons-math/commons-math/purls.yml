@@ -1,0 +1,8 @@
+- pkg:maven/commons-math/commons-math@1.0
+- pkg:maven/commons-math/commons-math@1.1
+- pkg:maven/commons-math/commons-math@1.2
+- pkg:maven/commons-math/commons-math@1.2?classifier=sources
+- pkg:maven/commons-math/commons-math@20040118.003354
+- pkg:maven/commons-math/commons-math@20040118.003950?classifier=src&type=tar.gz
+- pkg:maven/commons-math/commons-math@20040118.003950?classifier=src&type=zip
+- pkg:maven/commons-math/commons-math@20040218.045431

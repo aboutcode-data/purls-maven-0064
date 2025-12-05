@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.jfcunit/jfcunit@2.08
+- pkg:maven/net.sf.jfcunit/jfcunit@2.08?classifier=sources

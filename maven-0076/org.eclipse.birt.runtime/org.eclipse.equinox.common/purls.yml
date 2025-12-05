@@ -1,0 +1,4 @@
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.equinox.common@3.6.100.v20120522-1841
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.equinox.common@3.6.100.v20120522-1841?classifier=sources
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.equinox.common@3.6.200.v20130402-1505
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.equinox.common@3.6.200.v20130402-1505?classifier=sources

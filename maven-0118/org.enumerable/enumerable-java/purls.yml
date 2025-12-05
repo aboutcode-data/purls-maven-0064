@@ -1,0 +1,2 @@
+- pkg:maven/org.enumerable/enumerable-java@0.4.0
+- pkg:maven/org.enumerable/enumerable-java@0.4.0?classifier=sources

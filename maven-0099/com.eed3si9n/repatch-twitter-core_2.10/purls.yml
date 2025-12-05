@@ -1,0 +1,6 @@
+- pkg:maven/com.eed3si9n/repatch-twitter-core_2.10@dispatch0.10.0_0.1.0
+- pkg:maven/com.eed3si9n/repatch-twitter-core_2.10@dispatch0.10.0_0.1.0?classifier=sources
+- pkg:maven/com.eed3si9n/repatch-twitter-core_2.10@dispatch0.10.1_0.1.0
+- pkg:maven/com.eed3si9n/repatch-twitter-core_2.10@dispatch0.10.1_0.1.0?classifier=sources
+- pkg:maven/com.eed3si9n/repatch-twitter-core_2.10@dispatch0.11.0_0.1.0
+- pkg:maven/com.eed3si9n/repatch-twitter-core_2.10@dispatch0.11.0_0.1.0?classifier=sources

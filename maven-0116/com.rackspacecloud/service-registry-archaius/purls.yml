@@ -1,0 +1,2 @@
+- pkg:maven/com.rackspacecloud/service-registry-archaius@0.0.1
+- pkg:maven/com.rackspacecloud/service-registry-archaius@0.0.1?classifier=sources

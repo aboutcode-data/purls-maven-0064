@@ -1,0 +1,2 @@
+- pkg:maven/de.joerghoh.cq5.healthcheck/core@1.0.0
+- pkg:maven/de.joerghoh.cq5.healthcheck/core@1.0.0?classifier=sources

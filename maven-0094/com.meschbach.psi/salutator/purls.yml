@@ -1,0 +1,2 @@
+- pkg:maven/com.meschbach.psi/salutator@2.4?classifier=sources
+- pkg:maven/com.meschbach.psi/salutator@2.4?type=war

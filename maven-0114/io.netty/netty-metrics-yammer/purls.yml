@@ -1,0 +1,6 @@
+- pkg:maven/io.netty/netty-metrics-yammer@4.0.0.Alpha6
+- pkg:maven/io.netty/netty-metrics-yammer@4.0.0.Alpha6?classifier=sources
+- pkg:maven/io.netty/netty-metrics-yammer@4.0.0.Alpha7
+- pkg:maven/io.netty/netty-metrics-yammer@4.0.0.Alpha7?classifier=sources
+- pkg:maven/io.netty/netty-metrics-yammer@4.0.0.Alpha8
+- pkg:maven/io.netty/netty-metrics-yammer@4.0.0.Alpha8?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.codehaus.griffon/cssbuilder@0.4
+- pkg:maven/org.codehaus.griffon/cssbuilder@0.5
+- pkg:maven/org.codehaus.griffon/cssbuilder@0.6
+- pkg:maven/org.codehaus.griffon/cssbuilder@1.0.0

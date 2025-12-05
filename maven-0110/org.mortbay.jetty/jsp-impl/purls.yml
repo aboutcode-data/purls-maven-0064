@@ -1,0 +1,2 @@
+- pkg:maven/org.mortbay.jetty/jsp-impl@2.2.2.b05.0
+- pkg:maven/org.mortbay.jetty/jsp-impl@2.2.2.b05.0?classifier=sources

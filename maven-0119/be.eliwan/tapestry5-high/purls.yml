@@ -1,0 +1,4 @@
+- pkg:maven/be.eliwan/tapestry5-high@1.1
+- pkg:maven/be.eliwan/tapestry5-high@1.1?classifier=sources
+- pkg:maven/be.eliwan/tapestry5-high@1.2
+- pkg:maven/be.eliwan/tapestry5-high@1.2?classifier=sources

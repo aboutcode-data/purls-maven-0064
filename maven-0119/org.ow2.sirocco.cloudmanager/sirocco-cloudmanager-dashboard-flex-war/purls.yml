@@ -1,0 +1,2 @@
+- pkg:maven/org.ow2.sirocco.cloudmanager/sirocco-cloudmanager-dashboard-flex-war@0.1.0?type=war
+- pkg:maven/org.ow2.sirocco.cloudmanager/sirocco-cloudmanager-dashboard-flex-war@0.1.1?type=war

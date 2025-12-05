@@ -1,0 +1,8 @@
+- pkg:maven/nl.javadude.gradle.plugins/license-gradle-plugin@0.4
+- pkg:maven/nl.javadude.gradle.plugins/license-gradle-plugin@0.4?classifier=sources
+- pkg:maven/nl.javadude.gradle.plugins/license-gradle-plugin@0.5.0
+- pkg:maven/nl.javadude.gradle.plugins/license-gradle-plugin@0.5.0?classifier=sources
+- pkg:maven/nl.javadude.gradle.plugins/license-gradle-plugin@0.6.0
+- pkg:maven/nl.javadude.gradle.plugins/license-gradle-plugin@0.6.0?classifier=sources
+- pkg:maven/nl.javadude.gradle.plugins/license-gradle-plugin@0.7.0
+- pkg:maven/nl.javadude.gradle.plugins/license-gradle-plugin@0.7.0?classifier=sources

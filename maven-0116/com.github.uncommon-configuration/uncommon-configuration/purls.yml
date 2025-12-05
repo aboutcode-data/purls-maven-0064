@@ -1,0 +1,2 @@
+- pkg:maven/com.github.uncommon-configuration/uncommon-configuration@0.1
+- pkg:maven/com.github.uncommon-configuration/uncommon-configuration@0.1?classifier=sources

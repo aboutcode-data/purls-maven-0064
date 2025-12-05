@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.clerezza.ext/slf4j-scala-api@1.6.1-incubating
+- pkg:maven/org.apache.clerezza.ext/slf4j-scala-api@1.6.1-incubating?classifier=sources
+- pkg:maven/org.apache.clerezza.ext/slf4j-scala-api@1.6.2
+- pkg:maven/org.apache.clerezza.ext/slf4j-scala-api@1.6.2?classifier=sources

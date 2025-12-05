@@ -1,0 +1,5 @@
+- pkg:maven/org.codehaus.groovy/groovy-xmlrpc@0.4
+- pkg:maven/org.codehaus.groovy/groovy-xmlrpc@0.5.0
+- pkg:maven/org.codehaus.groovy/groovy-xmlrpc@0.5.1
+- pkg:maven/org.codehaus.groovy/groovy-xmlrpc@0.7
+- pkg:maven/org.codehaus.groovy/groovy-xmlrpc@0.8

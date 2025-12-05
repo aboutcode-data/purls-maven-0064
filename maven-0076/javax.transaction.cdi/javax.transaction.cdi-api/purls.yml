@@ -1,0 +1,6 @@
+- pkg:maven/javax.transaction.cdi/javax.transaction.cdi-api@1.2-b01
+- pkg:maven/javax.transaction.cdi/javax.transaction.cdi-api@1.2-b01?classifier=sources
+- pkg:maven/javax.transaction.cdi/javax.transaction.cdi-api@1.2-b02
+- pkg:maven/javax.transaction.cdi/javax.transaction.cdi-api@1.2-b02?classifier=sources
+- pkg:maven/javax.transaction.cdi/javax.transaction.cdi-api@1.2-b03
+- pkg:maven/javax.transaction.cdi/javax.transaction.cdi-api@1.2-b03?classifier=sources

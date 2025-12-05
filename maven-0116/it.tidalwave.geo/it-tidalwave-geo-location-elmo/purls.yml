@@ -1,0 +1,5 @@
+- pkg:maven/it.tidalwave.geo/it-tidalwave-geo-location-elmo@1.0.64?classifier=sources
+- pkg:maven/it.tidalwave.geo/it-tidalwave-geo-location-elmo@1.0.65?classifier=sources
+- pkg:maven/it.tidalwave.geo/it-tidalwave-geo-location-elmo@1.0.66?classifier=sources
+- pkg:maven/it.tidalwave.geo/it-tidalwave-geo-location-elmo@1.0.67?classifier=sources
+- pkg:maven/it.tidalwave.geo/it-tidalwave-geo-location-elmo@1.0.68?classifier=sources

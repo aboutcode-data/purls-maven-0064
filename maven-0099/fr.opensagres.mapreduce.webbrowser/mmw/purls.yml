@@ -1,0 +1,2 @@
+- pkg:maven/fr.opensagres.mapreduce.webbrowser/mmw@1.0.0?classifier=sources
+- pkg:maven/fr.opensagres.mapreduce.webbrowser/mmw@1.0.0?type=war

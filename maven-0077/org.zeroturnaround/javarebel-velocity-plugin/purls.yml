@@ -1,0 +1,2 @@
+- pkg:maven/org.zeroturnaround/javarebel-velocity-plugin@2.0.2
+- pkg:maven/org.zeroturnaround/javarebel-velocity-plugin@2.0.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.googlecode.instinct/instinct-core@0.1.9
+- pkg:maven/com.googlecode.instinct/instinct-core@0.1.9?classifier=sources

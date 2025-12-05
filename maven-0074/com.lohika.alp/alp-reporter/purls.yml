@@ -1,0 +1,2 @@
+- pkg:maven/com.lohika.alp/alp-reporter@0.7
+- pkg:maven/com.lohika.alp/alp-reporter@0.7?classifier=sources

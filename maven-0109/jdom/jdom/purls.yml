@@ -1,0 +1,9 @@
+- pkg:maven/jdom/jdom@0.7
+- pkg:maven/jdom/jdom@1.0
+- pkg:maven/jdom/jdom@1.0?classifier=sources
+- pkg:maven/jdom/jdom@1.0b8
+- pkg:maven/jdom/jdom@b10
+- pkg:maven/jdom/jdom@b10?classifier=sources
+- pkg:maven/jdom/jdom@b7
+- pkg:maven/jdom/jdom@b8
+- pkg:maven/jdom/jdom@b9

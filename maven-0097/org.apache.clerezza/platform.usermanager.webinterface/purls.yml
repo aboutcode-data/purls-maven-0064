@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.clerezza/platform.usermanager.webinterface@0.13-incubating
+- pkg:maven/org.apache.clerezza/platform.usermanager.webinterface@0.13-incubating?classifier=sources

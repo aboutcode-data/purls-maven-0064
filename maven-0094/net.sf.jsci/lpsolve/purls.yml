@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.jsci/lpsolve@2003-11-03
+- pkg:maven/net.sf.jsci/lpsolve@2003-11-03?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.google.code.eforceconfig/eforceconfig-servlet@1.1
+- pkg:maven/com.google.code.eforceconfig/eforceconfig-servlet@1.1?classifier=sources

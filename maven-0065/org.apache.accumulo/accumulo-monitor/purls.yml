@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.accumulo/accumulo-monitor@1.6.0
+- pkg:maven/org.apache.accumulo/accumulo-monitor@1.6.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/no.uis.nio/nio-fs-test-util@1.1.0
+- pkg:maven/no.uis.nio/nio-fs-test-util@1.1.0?classifier=sources

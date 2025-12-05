@@ -1,0 +1,10 @@
+- pkg:maven/ru.yandex.qatools.htmlelements/htmlelements-matchers@1.10
+- pkg:maven/ru.yandex.qatools.htmlelements/htmlelements-matchers@1.10?classifier=sources
+- pkg:maven/ru.yandex.qatools.htmlelements/htmlelements-matchers@1.11
+- pkg:maven/ru.yandex.qatools.htmlelements/htmlelements-matchers@1.11?classifier=sources
+- pkg:maven/ru.yandex.qatools.htmlelements/htmlelements-matchers@1.12
+- pkg:maven/ru.yandex.qatools.htmlelements/htmlelements-matchers@1.12?classifier=sources
+- pkg:maven/ru.yandex.qatools.htmlelements/htmlelements-matchers@1.8
+- pkg:maven/ru.yandex.qatools.htmlelements/htmlelements-matchers@1.8?classifier=sources
+- pkg:maven/ru.yandex.qatools.htmlelements/htmlelements-matchers@1.9
+- pkg:maven/ru.yandex.qatools.htmlelements/htmlelements-matchers@1.9?classifier=sources

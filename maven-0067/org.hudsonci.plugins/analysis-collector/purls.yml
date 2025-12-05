@@ -1,0 +1,2 @@
+- pkg:maven/org.hudsonci.plugins/analysis-collector@1.28-h-1?classifier=sources
+- pkg:maven/org.hudsonci.plugins/analysis-collector@1.28?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.sonian/elasticsearch-zookeeper@0.90.0
+- pkg:maven/com.sonian/elasticsearch-zookeeper@0.90.0?classifier=sources

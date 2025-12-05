@@ -1,0 +1,2 @@
+- pkg:maven/org.projectodd.shimdandy/shimdandy-impl@1.0.1
+- pkg:maven/org.projectodd.shimdandy/shimdandy-impl@1.0.1?classifier=sources

@@ -1,0 +1,5 @@
+- pkg:maven/com.espertech/esperio@2.3.0
+- pkg:maven/com.espertech/esperio@3.0.0
+- pkg:maven/com.espertech/esperio@3.1.0
+- pkg:maven/com.espertech/esperio@3.2.0
+- pkg:maven/com.espertech/esperio@3.3.0

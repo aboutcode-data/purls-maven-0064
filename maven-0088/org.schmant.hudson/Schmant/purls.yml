@@ -1,0 +1,2 @@
+- pkg:maven/org.schmant.hudson/Schmant@1.0?classifier=sources
+- pkg:maven/org.schmant.hudson/Schmant@1.1.4?classifier=sources

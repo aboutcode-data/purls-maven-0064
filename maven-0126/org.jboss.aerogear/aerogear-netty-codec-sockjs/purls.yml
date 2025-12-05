@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.aerogear/aerogear-netty-codec-sockjs@0.10.0
+- pkg:maven/org.jboss.aerogear/aerogear-netty-codec-sockjs@0.10.0?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.googlecode.jinahya/ocap-ds@I03
+- pkg:maven/com.googlecode.jinahya/ocap-ds@I03?classifier=sources
+- pkg:maven/com.googlecode.jinahya/ocap-ds@I04
+- pkg:maven/com.googlecode.jinahya/ocap-ds@I04?classifier=sources
+- pkg:maven/com.googlecode.jinahya/ocap-ds@I05
+- pkg:maven/com.googlecode.jinahya/ocap-ds@I05?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.appverse.web.framework.tools.archetypes.gwtproject/appverse-web-tools-archetypes-gwtproject@1.0.1?classifier=sources
+- pkg:maven/org.appverse.web.framework.tools.archetypes.gwtproject/appverse-web-tools-archetypes-gwtproject@1.0.2?classifier=sources

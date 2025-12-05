@@ -1,0 +1,6 @@
+- pkg:maven/net.officefloor.tutorial/JavaScriptApp@2.12.0?classifier=sources
+- pkg:maven/net.officefloor.tutorial/JavaScriptApp@2.12.0?type=war
+- pkg:maven/net.officefloor.tutorial/JavaScriptApp@2.13.0?classifier=sources
+- pkg:maven/net.officefloor.tutorial/JavaScriptApp@2.13.0?type=war
+- pkg:maven/net.officefloor.tutorial/JavaScriptApp@2.14.0?classifier=sources
+- pkg:maven/net.officefloor.tutorial/JavaScriptApp@2.14.0?type=war

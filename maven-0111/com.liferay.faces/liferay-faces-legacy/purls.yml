@@ -1,0 +1,2 @@
+- pkg:maven/com.liferay.faces/liferay-faces-legacy@2.2.4-ga5
+- pkg:maven/com.liferay.faces/liferay-faces-legacy@2.2.4-ga5?classifier=sources

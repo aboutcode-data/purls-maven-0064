@@ -1,0 +1,9 @@
+- pkg:maven/net.sourceforge/jwbf@1.2-186
+- pkg:maven/net.sourceforge/jwbf@1.3.1
+- pkg:maven/net.sourceforge/jwbf@1.3.1?classifier=sources
+- pkg:maven/net.sourceforge/jwbf@1.3.2
+- pkg:maven/net.sourceforge/jwbf@1.3.2?classifier=sources
+- pkg:maven/net.sourceforge/jwbf@1.3.3
+- pkg:maven/net.sourceforge/jwbf@1.3.3?classifier=sources
+- pkg:maven/net.sourceforge/jwbf@2.0.0
+- pkg:maven/net.sourceforge/jwbf@2.0.0?classifier=sources

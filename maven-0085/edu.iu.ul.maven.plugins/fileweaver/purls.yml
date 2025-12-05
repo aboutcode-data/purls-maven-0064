@@ -1,0 +1,2 @@
+- pkg:maven/edu.iu.ul.maven.plugins/fileweaver@1.0
+- pkg:maven/edu.iu.ul.maven.plugins/fileweaver@1.0?classifier=sources

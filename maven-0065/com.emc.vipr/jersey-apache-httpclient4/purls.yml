@@ -1,0 +1,4 @@
+- pkg:maven/com.emc.vipr/jersey-apache-httpclient4@1.16-CUSTOM
+- pkg:maven/com.emc.vipr/jersey-apache-httpclient4@1.16-CUSTOM?classifier=sources
+- pkg:maven/com.emc.vipr/jersey-apache-httpclient4@1.18-CUSTOM
+- pkg:maven/com.emc.vipr/jersey-apache-httpclient4@1.18-CUSTOM?classifier=sources

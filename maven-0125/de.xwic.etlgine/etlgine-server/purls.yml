@@ -1,0 +1,2 @@
+- pkg:maven/de.xwic.etlgine/etlgine-server@5.2.0?classifier=sources
+- pkg:maven/de.xwic.etlgine/etlgine-server@5.2.0?type=zip

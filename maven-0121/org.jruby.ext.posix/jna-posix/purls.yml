@@ -1,0 +1,10 @@
+- pkg:maven/org.jruby.ext.posix/jna-posix@0.5
+- pkg:maven/org.jruby.ext.posix/jna-posix@0.6
+- pkg:maven/org.jruby.ext.posix/jna-posix@0.7
+- pkg:maven/org.jruby.ext.posix/jna-posix@0.8
+- pkg:maven/org.jruby.ext.posix/jna-posix@0.9
+- pkg:maven/org.jruby.ext.posix/jna-posix@1.0
+- pkg:maven/org.jruby.ext.posix/jna-posix@1.0.1
+- pkg:maven/org.jruby.ext.posix/jna-posix@1.0.2
+- pkg:maven/org.jruby.ext.posix/jna-posix@1.0.3
+- pkg:maven/org.jruby.ext.posix/jna-posix@1.0.3?classifier=sources

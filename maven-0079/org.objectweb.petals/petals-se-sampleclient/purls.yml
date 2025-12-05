@@ -1,0 +1,3 @@
+- pkg:maven/org.objectweb.petals/petals-se-sampleclient@1.3
+- pkg:maven/org.objectweb.petals/petals-se-sampleclient@1.3?classifier=sources
+- pkg:maven/org.objectweb.petals/petals-se-sampleclient@1.4?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.adamcin.granite.client/net.adamcin.granite.client.packman@0.6.0
+- pkg:maven/net.adamcin.granite.client/net.adamcin.granite.client.packman@0.6.0?classifier=sources

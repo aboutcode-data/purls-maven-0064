@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.uima/parent-pom@1?classifier=source-release&type=zip
+- pkg:maven/org.apache.uima/parent-pom@2?classifier=source-release&type=zip
+- pkg:maven/org.apache.uima/parent-pom@3?classifier=source-release&type=zip
+- pkg:maven/org.apache.uima/parent-pom@4?classifier=source-release&type=zip
+- pkg:maven/org.apache.uima/parent-pom@5?classifier=source-release&type=zip
+- pkg:maven/org.apache.uima/parent-pom@6?classifier=source-release&type=zip

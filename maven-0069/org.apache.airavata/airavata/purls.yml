@@ -1,0 +1,10 @@
+- pkg:maven/org.apache.airavata/airavata@0.10?classifier=source-release&type=zip
+- pkg:maven/org.apache.airavata/airavata@0.11?classifier=source-release&type=zip
+- pkg:maven/org.apache.airavata/airavata@0.2-incubating?classifier=source-release&type=zip
+- pkg:maven/org.apache.airavata/airavata@0.3-incubating?classifier=source-release&type=zip
+- pkg:maven/org.apache.airavata/airavata@0.4-incubating?classifier=source-release&type=zip
+- pkg:maven/org.apache.airavata/airavata@0.5?classifier=source-release&type=zip
+- pkg:maven/org.apache.airavata/airavata@0.6?classifier=source-release&type=zip
+- pkg:maven/org.apache.airavata/airavata@0.7?classifier=source-release&type=zip
+- pkg:maven/org.apache.airavata/airavata@0.8?classifier=source-release&type=zip
+- pkg:maven/org.apache.airavata/airavata@0.9?classifier=source-release&type=zip

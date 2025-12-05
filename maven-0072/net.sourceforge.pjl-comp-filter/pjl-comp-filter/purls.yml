@@ -1,0 +1,5 @@
+- pkg:maven/net.sourceforge.pjl-comp-filter/pjl-comp-filter@1.6
+- pkg:maven/net.sourceforge.pjl-comp-filter/pjl-comp-filter@1.6.4
+- pkg:maven/net.sourceforge.pjl-comp-filter/pjl-comp-filter@1.6.4?classifier=sources
+- pkg:maven/net.sourceforge.pjl-comp-filter/pjl-comp-filter@1.7
+- pkg:maven/net.sourceforge.pjl-comp-filter/pjl-comp-filter@1.7?classifier=sources

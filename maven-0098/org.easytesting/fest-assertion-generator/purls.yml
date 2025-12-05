@@ -1,0 +1,14 @@
+- pkg:maven/org.easytesting/fest-assertion-generator@1.0
+- pkg:maven/org.easytesting/fest-assertion-generator@1.0?classifier=sources
+- pkg:maven/org.easytesting/fest-assertion-generator@1.0M1
+- pkg:maven/org.easytesting/fest-assertion-generator@1.0M1?classifier=sources
+- pkg:maven/org.easytesting/fest-assertion-generator@1.0M2
+- pkg:maven/org.easytesting/fest-assertion-generator@1.0M2?classifier=sources
+- pkg:maven/org.easytesting/fest-assertion-generator@1.0M3
+- pkg:maven/org.easytesting/fest-assertion-generator@1.0M3?classifier=sources
+- pkg:maven/org.easytesting/fest-assertion-generator@1.0M4
+- pkg:maven/org.easytesting/fest-assertion-generator@1.0M4?classifier=sources
+- pkg:maven/org.easytesting/fest-assertion-generator@1.0M5
+- pkg:maven/org.easytesting/fest-assertion-generator@1.0M5?classifier=sources
+- pkg:maven/org.easytesting/fest-assertion-generator@1.1
+- pkg:maven/org.easytesting/fest-assertion-generator@1.1?classifier=sources

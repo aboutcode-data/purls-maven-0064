@@ -1,0 +1,2 @@
+- pkg:maven/net.unicon.cas/cas-java-clients-addons@0.5
+- pkg:maven/net.unicon.cas/cas-java-clients-addons@0.5?classifier=sources

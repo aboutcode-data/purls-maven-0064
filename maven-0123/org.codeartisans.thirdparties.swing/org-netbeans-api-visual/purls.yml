@@ -1,0 +1,2 @@
+- pkg:maven/org.codeartisans.thirdparties.swing/org-netbeans-api-visual@2.23.1
+- pkg:maven/org.codeartisans.thirdparties.swing/org-netbeans-api-visual@2.23.1?classifier=sources

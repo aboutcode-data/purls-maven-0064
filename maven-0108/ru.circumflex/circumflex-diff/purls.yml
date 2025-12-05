@@ -1,0 +1,6 @@
+- pkg:maven/ru.circumflex/circumflex-diff@2.3
+- pkg:maven/ru.circumflex/circumflex-diff@2.3?classifier=sources
+- pkg:maven/ru.circumflex/circumflex-diff@2.4
+- pkg:maven/ru.circumflex/circumflex-diff@2.4?classifier=sources
+- pkg:maven/ru.circumflex/circumflex-diff@2.5
+- pkg:maven/ru.circumflex/circumflex-diff@2.5?classifier=sources

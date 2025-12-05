@@ -1,0 +1,2 @@
+- pkg:maven/org.tynamo.security/tynamo-federatedaccounts-openid@0.2.0
+- pkg:maven/org.tynamo.security/tynamo-federatedaccounts-openid@0.2.0?classifier=sources

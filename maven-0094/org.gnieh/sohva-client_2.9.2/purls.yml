@@ -1,0 +1,2 @@
+- pkg:maven/org.gnieh/sohva-client_2.9.2@0.2
+- pkg:maven/org.gnieh/sohva-client_2.9.2@0.2?classifier=sources

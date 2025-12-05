@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.mavenjython.test/python-test-maven-plugin-external@1.0
+- pkg:maven/net.sf.mavenjython.test/python-test-maven-plugin-external@1.0?classifier=sources

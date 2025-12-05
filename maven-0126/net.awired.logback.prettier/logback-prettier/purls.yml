@@ -1,0 +1,2 @@
+- pkg:maven/net.awired.logback.prettier/logback-prettier@0.2
+- pkg:maven/net.awired.logback.prettier/logback-prettier@0.2?classifier=sources

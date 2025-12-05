@@ -1,0 +1,2 @@
+- pkg:maven/be.novelfaces/NovelFacesShowcase@0.0.3?classifier=sources
+- pkg:maven/be.novelfaces/NovelFacesShowcase@0.0.3?type=war

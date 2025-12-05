@@ -1,0 +1,2 @@
+- pkg:maven/io.tesla.tycho/feature-zip-plugin@0.0.1
+- pkg:maven/io.tesla.tycho/feature-zip-plugin@0.0.1?classifier=sources

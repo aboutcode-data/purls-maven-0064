@@ -1,0 +1,2 @@
+- pkg:maven/org.jwall/doxia-module-markdown@1.1.4
+- pkg:maven/org.jwall/doxia-module-markdown@1.1.4?classifier=sources

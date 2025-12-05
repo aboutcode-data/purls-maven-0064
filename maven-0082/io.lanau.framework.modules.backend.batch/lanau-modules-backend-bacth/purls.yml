@@ -1,0 +1,2 @@
+- pkg:maven/io.lanau.framework.modules.backend.batch/lanau-modules-backend-bacth@1.0.0
+- pkg:maven/io.lanau.framework.modules.backend.batch/lanau-modules-backend-bacth@1.0.0?classifier=sources

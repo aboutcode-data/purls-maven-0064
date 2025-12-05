@@ -1,0 +1,2 @@
+- pkg:maven/com.rimerosolutions.ant/ant-wrapper@0.0.1
+- pkg:maven/com.rimerosolutions.ant/ant-wrapper@0.0.1?classifier=sources

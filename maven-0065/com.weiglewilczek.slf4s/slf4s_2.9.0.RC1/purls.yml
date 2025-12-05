@@ -1,0 +1,2 @@
+- pkg:maven/com.weiglewilczek.slf4s/slf4s_2.9.0.RC1@1.0.4
+- pkg:maven/com.weiglewilczek.slf4s/slf4s_2.9.0.RC1@1.0.4?classifier=sources

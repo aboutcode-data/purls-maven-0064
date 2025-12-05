@@ -1,0 +1,2 @@
+- pkg:maven/edu.usf.messageservice/MessageServiceClient@0.6.1
+- pkg:maven/edu.usf.messageservice/MessageServiceClient@0.6.1?classifier=sources

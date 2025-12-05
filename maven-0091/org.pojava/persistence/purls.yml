@@ -1,0 +1,10 @@
+- pkg:maven/org.pojava/persistence@2.3.0
+- pkg:maven/org.pojava/persistence@2.3.0?classifier=sources
+- pkg:maven/org.pojava/persistence@2.5.0
+- pkg:maven/org.pojava/persistence@2.5.0?classifier=sources
+- pkg:maven/org.pojava/persistence@2.6.0
+- pkg:maven/org.pojava/persistence@2.6.0?classifier=sources
+- pkg:maven/org.pojava/persistence@2.8.0
+- pkg:maven/org.pojava/persistence@2.8.0?classifier=sources
+- pkg:maven/org.pojava/persistence@3.0.0
+- pkg:maven/org.pojava/persistence@3.0.0?classifier=sources

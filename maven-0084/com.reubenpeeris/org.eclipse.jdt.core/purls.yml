@@ -1,0 +1,2 @@
+- pkg:maven/com.reubenpeeris/org.eclipse.jdt.core@3.9.50.v20140317-1741
+- pkg:maven/com.reubenpeeris/org.eclipse.jdt.core@3.9.50.v20140317-1741?classifier=sources

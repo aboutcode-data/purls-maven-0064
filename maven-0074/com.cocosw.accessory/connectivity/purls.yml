@@ -1,0 +1,2 @@
+- pkg:maven/com.cocosw.accessory/connectivity@0.4
+- pkg:maven/com.cocosw.accessory/connectivity@0.4?classifier=sources

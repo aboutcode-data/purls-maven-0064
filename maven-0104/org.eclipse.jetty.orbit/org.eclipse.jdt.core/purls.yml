@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.jetty.orbit/org.eclipse.jdt.core@3.7.1?classifier=sources
+- pkg:maven/org.eclipse.jetty.orbit/org.eclipse.jdt.core@3.8.2.v20130121?classifier=sources

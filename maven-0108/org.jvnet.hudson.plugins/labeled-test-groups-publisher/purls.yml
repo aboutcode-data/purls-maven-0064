@@ -1,0 +1,2 @@
+- pkg:maven/org.jvnet.hudson.plugins/labeled-test-groups-publisher@1.2.4?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/labeled-test-groups-publisher@1.2.6?classifier=sources

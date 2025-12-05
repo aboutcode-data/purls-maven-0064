@@ -1,0 +1,2 @@
+- pkg:maven/com.google.code.maven-play-plugin/play-japid-maven-plugin@0.9.5_1
+- pkg:maven/com.google.code.maven-play-plugin/play-japid-maven-plugin@0.9.5_1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.java.dev.webdav/jaxrs@1.1
+- pkg:maven/net.java.dev.webdav/jaxrs@1.1?classifier=sources

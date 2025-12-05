@@ -1,0 +1,2 @@
+- pkg:maven/edu.washington.cs.knowitall/common-java@2.0.2
+- pkg:maven/edu.washington.cs.knowitall/common-java@2.0.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.sanselan/sanselan@0.97-incubator
+- pkg:maven/org.apache.sanselan/sanselan@0.97-incubator?classifier=sources

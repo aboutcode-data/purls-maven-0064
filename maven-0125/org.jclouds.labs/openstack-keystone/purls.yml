@@ -1,0 +1,4 @@
+- pkg:maven/org.jclouds.labs/openstack-keystone@1.5.0-alpha.6
+- pkg:maven/org.jclouds.labs/openstack-keystone@1.5.0-alpha.6?classifier=sources
+- pkg:maven/org.jclouds.labs/openstack-keystone@1.5.0-beta.1
+- pkg:maven/org.jclouds.labs/openstack-keystone@1.5.0-beta.1?classifier=sources

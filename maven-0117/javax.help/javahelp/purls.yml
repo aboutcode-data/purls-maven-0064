@@ -1,0 +1,4 @@
+- pkg:maven/javax.help/javahelp@2.0.02
+- pkg:maven/javax.help/javahelp@2.0.02?classifier=sources
+- pkg:maven/javax.help/javahelp@2.0.05
+- pkg:maven/javax.help/javahelp@2.0.05?classifier=sources

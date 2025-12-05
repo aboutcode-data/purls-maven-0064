@@ -1,0 +1,2 @@
+- pkg:maven/com.googlecode.gwt-proxy-servlet/proxy@1.0.2
+- pkg:maven/com.googlecode.gwt-proxy-servlet/proxy@1.0.2?classifier=sources

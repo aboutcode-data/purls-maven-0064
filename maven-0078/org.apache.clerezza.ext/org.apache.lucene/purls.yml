@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.clerezza.ext/org.apache.lucene@0.1-incubating
+- pkg:maven/org.apache.clerezza.ext/org.apache.lucene@0.1-incubating?classifier=sources

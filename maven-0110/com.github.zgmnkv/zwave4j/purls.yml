@@ -1,0 +1,2 @@
+- pkg:maven/com.github.zgmnkv/zwave4j@0.2
+- pkg:maven/com.github.zgmnkv/zwave4j@0.2?classifier=sources

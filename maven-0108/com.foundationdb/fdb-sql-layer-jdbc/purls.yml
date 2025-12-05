@@ -1,0 +1,12 @@
+- pkg:maven/com.foundationdb/fdb-sql-layer-jdbc@1.9-1-jdbc4
+- pkg:maven/com.foundationdb/fdb-sql-layer-jdbc@1.9-1-jdbc41
+- pkg:maven/com.foundationdb/fdb-sql-layer-jdbc@1.9-1-jdbc41?classifier=sources
+- pkg:maven/com.foundationdb/fdb-sql-layer-jdbc@1.9-1-jdbc4?classifier=sources
+- pkg:maven/com.foundationdb/fdb-sql-layer-jdbc@1.9-3-jdbc4
+- pkg:maven/com.foundationdb/fdb-sql-layer-jdbc@1.9-3-jdbc41
+- pkg:maven/com.foundationdb/fdb-sql-layer-jdbc@1.9-3-jdbc41?classifier=sources
+- pkg:maven/com.foundationdb/fdb-sql-layer-jdbc@1.9-3-jdbc4?classifier=sources
+- pkg:maven/com.foundationdb/fdb-sql-layer-jdbc@1.9-4-jdbc4
+- pkg:maven/com.foundationdb/fdb-sql-layer-jdbc@1.9-4-jdbc41
+- pkg:maven/com.foundationdb/fdb-sql-layer-jdbc@1.9-4-jdbc41?classifier=sources
+- pkg:maven/com.foundationdb/fdb-sql-layer-jdbc@1.9-4-jdbc4?classifier=sources

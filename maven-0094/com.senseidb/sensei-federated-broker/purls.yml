@@ -1,0 +1,6 @@
+- pkg:maven/com.senseidb/sensei-federated-broker@1.6.0
+- pkg:maven/com.senseidb/sensei-federated-broker@1.6.0?classifier=sources
+- pkg:maven/com.senseidb/sensei-federated-broker@2.0.0
+- pkg:maven/com.senseidb/sensei-federated-broker@2.0.0?classifier=sources
+- pkg:maven/com.senseidb/sensei-federated-broker@2.0.1
+- pkg:maven/com.senseidb/sensei-federated-broker@2.0.1?classifier=sources

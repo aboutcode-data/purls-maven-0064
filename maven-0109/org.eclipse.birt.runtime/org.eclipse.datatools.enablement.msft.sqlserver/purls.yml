@@ -1,0 +1,6 @@
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.enablement.msft.sqlserver@1.0.1.v201107221504
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.enablement.msft.sqlserver@1.0.1.v201107221504?classifier=sources
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.enablement.msft.sqlserver@1.0.2.v201212120617
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.enablement.msft.sqlserver@1.0.2.v201212120617?classifier=sources
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.enablement.msft.sqlserver@1.0.3.v201308161009
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.enablement.msft.sqlserver@1.0.3.v201308161009?classifier=sources

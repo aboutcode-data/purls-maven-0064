@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.vysper.extensions/xep0124-xep0206-bosh@0.6
+- pkg:maven/org.apache.vysper.extensions/xep0124-xep0206-bosh@0.6?classifier=sources
+- pkg:maven/org.apache.vysper.extensions/xep0124-xep0206-bosh@0.7
+- pkg:maven/org.apache.vysper.extensions/xep0124-xep0206-bosh@0.7?classifier=sources

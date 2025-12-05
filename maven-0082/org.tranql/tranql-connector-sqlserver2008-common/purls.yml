@@ -1,0 +1,4 @@
+- pkg:maven/org.tranql/tranql-connector-sqlserver2008-common@1.0
+- pkg:maven/org.tranql/tranql-connector-sqlserver2008-common@1.0?classifier=sources
+- pkg:maven/org.tranql/tranql-connector-sqlserver2008-common@1.1
+- pkg:maven/org.tranql/tranql-connector-sqlserver2008-common@1.1?classifier=sources

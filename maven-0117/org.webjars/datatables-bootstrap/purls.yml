@@ -1,0 +1,6 @@
+- pkg:maven/org.webjars/datatables-bootstrap@2-20120201
+- pkg:maven/org.webjars/datatables-bootstrap@2-20120201-1
+- pkg:maven/org.webjars/datatables-bootstrap@2-20120201-1?classifier=sources
+- pkg:maven/org.webjars/datatables-bootstrap@2-20120201?classifier=sources
+- pkg:maven/org.webjars/datatables-bootstrap@2-20120202-2
+- pkg:maven/org.webjars/datatables-bootstrap@2-20120202-2?classifier=sources

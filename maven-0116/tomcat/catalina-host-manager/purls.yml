@@ -1,0 +1,2 @@
+- pkg:maven/tomcat/catalina-host-manager@5.5.12
+- pkg:maven/tomcat/catalina-host-manager@5.5.23

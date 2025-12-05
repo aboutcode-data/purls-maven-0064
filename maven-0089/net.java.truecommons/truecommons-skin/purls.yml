@@ -1,0 +1,10 @@
+- pkg:maven/net.java.truecommons/truecommons-skin@1.0
+- pkg:maven/net.java.truecommons/truecommons-skin@1.0.1
+- pkg:maven/net.java.truecommons/truecommons-skin@1.0.1?classifier=sources
+- pkg:maven/net.java.truecommons/truecommons-skin@1.0.2
+- pkg:maven/net.java.truecommons/truecommons-skin@1.0.2?classifier=sources
+- pkg:maven/net.java.truecommons/truecommons-skin@1.0?classifier=sources
+- pkg:maven/net.java.truecommons/truecommons-skin@2
+- pkg:maven/net.java.truecommons/truecommons-skin@2?classifier=sources
+- pkg:maven/net.java.truecommons/truecommons-skin@4
+- pkg:maven/net.java.truecommons/truecommons-skin@4?classifier=sources

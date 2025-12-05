@@ -1,0 +1,2 @@
+- pkg:maven/com.dakuupa/struts2-crud-framework@1.0
+- pkg:maven/com.dakuupa/struts2-crud-framework@1.0?classifier=sources

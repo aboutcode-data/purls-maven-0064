@@ -1,0 +1,2 @@
+- pkg:maven/cl.yaykuy/mandrill@0.0.1-rc1
+- pkg:maven/cl.yaykuy/mandrill@0.0.1-rc1?classifier=sources

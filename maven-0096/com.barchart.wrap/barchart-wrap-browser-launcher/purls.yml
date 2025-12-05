@@ -1,0 +1,2 @@
+- pkg:maven/com.barchart.wrap/barchart-wrap-browser-launcher@1.3.0-build001
+- pkg:maven/com.barchart.wrap/barchart-wrap-browser-launcher@1.3.0-build001?classifier=sources

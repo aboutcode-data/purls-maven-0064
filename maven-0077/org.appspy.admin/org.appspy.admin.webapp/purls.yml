@@ -1,0 +1,4 @@
+- pkg:maven/org.appspy.admin/org.appspy.admin.webapp@1.0?classifier=sources
+- pkg:maven/org.appspy.admin/org.appspy.admin.webapp@1.0?type=war
+- pkg:maven/org.appspy.admin/org.appspy.admin.webapp@1.1?classifier=sources
+- pkg:maven/org.appspy.admin/org.appspy.admin.webapp@1.1?type=war

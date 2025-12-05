@@ -1,0 +1,2 @@
+- pkg:maven/com.opennewway/onw-web@1.0d11?classifier=sources
+- pkg:maven/com.opennewway/onw-web@1.0d11?type=war

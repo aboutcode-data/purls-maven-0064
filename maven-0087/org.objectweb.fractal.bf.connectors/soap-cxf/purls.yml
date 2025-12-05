@@ -1,0 +1,2 @@
+- pkg:maven/org.objectweb.fractal.bf.connectors/soap-cxf@0.1
+- pkg:maven/org.objectweb.fractal.bf.connectors/soap-cxf@0.1?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/net.sf.ldaptemplate/ldaptemplate@1.0-rc1
+- pkg:maven/net.sf.ldaptemplate/ldaptemplate@1.0-rc2
+- pkg:maven/net.sf.ldaptemplate/ldaptemplate@1.0.1
+- pkg:maven/net.sf.ldaptemplate/ldaptemplate@1.0.1?classifier=sources
+- pkg:maven/net.sf.ldaptemplate/ldaptemplate@1.0.2
+- pkg:maven/net.sf.ldaptemplate/ldaptemplate@1.0.2?classifier=sources

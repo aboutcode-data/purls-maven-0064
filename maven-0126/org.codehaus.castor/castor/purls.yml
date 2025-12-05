@@ -1,0 +1,17 @@
+- pkg:maven/org.codehaus.castor/castor@1.0.4
+- pkg:maven/org.codehaus.castor/castor@1.0.5
+- pkg:maven/org.codehaus.castor/castor@1.1
+- pkg:maven/org.codehaus.castor/castor@1.1-M1
+- pkg:maven/org.codehaus.castor/castor@1.1-M2
+- pkg:maven/org.codehaus.castor/castor@1.1-M2?classifier=sources
+- pkg:maven/org.codehaus.castor/castor@1.1-M3
+- pkg:maven/org.codehaus.castor/castor@1.1-M3?classifier=sources
+- pkg:maven/org.codehaus.castor/castor@1.1.1
+- pkg:maven/org.codehaus.castor/castor@1.1.1?classifier=sources
+- pkg:maven/org.codehaus.castor/castor@1.1.2
+- pkg:maven/org.codehaus.castor/castor@1.1.2.1
+- pkg:maven/org.codehaus.castor/castor@1.1.2.1?classifier=sources
+- pkg:maven/org.codehaus.castor/castor@1.1.2?classifier=sources
+- pkg:maven/org.codehaus.castor/castor@1.1?classifier=sources
+- pkg:maven/org.codehaus.castor/castor@1.2
+- pkg:maven/org.codehaus.castor/castor@1.2?classifier=sources
