@@ -1,0 +1,14 @@
+- pkg:maven/com.github.sepulrator/exception-util@0.0.2M1
+- pkg:maven/com.github.sepulrator/exception-util@0.0.2M1?classifier=sources
+- pkg:maven/com.github.sepulrator/exception-util@0.0.3m1
+- pkg:maven/com.github.sepulrator/exception-util@0.0.3m1?classifier=sources
+- pkg:maven/com.github.sepulrator/exception-util@0.0.3m2
+- pkg:maven/com.github.sepulrator/exception-util@0.0.3m2?classifier=sources
+- pkg:maven/com.github.sepulrator/exception-util@0.0.3m3
+- pkg:maven/com.github.sepulrator/exception-util@0.0.3m3?classifier=sources
+- pkg:maven/com.github.sepulrator/exception-util@0.0.3m4
+- pkg:maven/com.github.sepulrator/exception-util@0.0.3m4?classifier=sources
+- pkg:maven/com.github.sepulrator/exception-util@0.0.3m5
+- pkg:maven/com.github.sepulrator/exception-util@0.0.3m5?classifier=sources
+- pkg:maven/com.github.sepulrator/exception-util@1.0.0
+- pkg:maven/com.github.sepulrator/exception-util@1.0.0?classifier=sources

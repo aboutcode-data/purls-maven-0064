@@ -2,3 +2,5 @@
 - pkg:maven/net.sf.sprockets/sprockets-ee@2.0.0?classifier=sources
 - pkg:maven/net.sf.sprockets/sprockets-ee@2.1.0
 - pkg:maven/net.sf.sprockets/sprockets-ee@2.1.0?classifier=sources
+- pkg:maven/net.sf.sprockets/sprockets-ee@3.0.0
+- pkg:maven/net.sf.sprockets/sprockets-ee@3.0.0?classifier=sources

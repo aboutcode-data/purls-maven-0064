@@ -1,0 +1,2 @@
+- pkg:maven/com.github.nikita-volkov.java/djdbc-jackson@1
+- pkg:maven/com.github.nikita-volkov.java/djdbc-jackson@1?classifier=sources

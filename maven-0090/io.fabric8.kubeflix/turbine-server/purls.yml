@@ -22,5 +22,11 @@
 - pkg:maven/io.fabric8.kubeflix/turbine-server@1.0.22?classifier=sources
 - pkg:maven/io.fabric8.kubeflix/turbine-server@1.0.23
 - pkg:maven/io.fabric8.kubeflix/turbine-server@1.0.23?classifier=sources
+- pkg:maven/io.fabric8.kubeflix/turbine-server@1.0.26
+- pkg:maven/io.fabric8.kubeflix/turbine-server@1.0.26?classifier=sources
+- pkg:maven/io.fabric8.kubeflix/turbine-server@1.0.27
+- pkg:maven/io.fabric8.kubeflix/turbine-server@1.0.27?classifier=sources
+- pkg:maven/io.fabric8.kubeflix/turbine-server@1.0.28
+- pkg:maven/io.fabric8.kubeflix/turbine-server@1.0.28?classifier=sources
 - pkg:maven/io.fabric8.kubeflix/turbine-server@1.0.9?classifier=sources
 - pkg:maven/io.fabric8.kubeflix/turbine-server@1.0.9?type=war

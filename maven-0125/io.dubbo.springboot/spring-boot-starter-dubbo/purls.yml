@@ -1,0 +1,2 @@
+- pkg:maven/io.dubbo.springboot/spring-boot-starter-dubbo@1.0.0
+- pkg:maven/io.dubbo.springboot/spring-boot-starter-dubbo@1.0.0?classifier=sources

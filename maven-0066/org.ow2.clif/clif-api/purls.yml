@@ -1,0 +1,2 @@
+- pkg:maven/org.ow2.clif/clif-api@3.0.1
+- pkg:maven/org.ow2.clif/clif-api@3.0.1?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/org.apache.myfaces.test/myfaces-test-assembly@1.0.6?classifier=src&type=zip
 - pkg:maven/org.apache.myfaces.test/myfaces-test-assembly@1.0.7?classifier=src&type=tar.gz
 - pkg:maven/org.apache.myfaces.test/myfaces-test-assembly@1.0.7?classifier=src&type=zip
+- pkg:maven/org.apache.myfaces.test/myfaces-test-assembly@1.0.8?classifier=src&type=tar.gz
+- pkg:maven/org.apache.myfaces.test/myfaces-test-assembly@1.0.8?classifier=src&type=zip

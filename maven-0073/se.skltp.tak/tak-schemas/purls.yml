@@ -30,3 +30,5 @@
 - pkg:maven/se.skltp.tak/tak-schemas@2.1.0-RC
 - pkg:maven/se.skltp.tak/tak-schemas@2.1.0-RC?classifier=sources
 - pkg:maven/se.skltp.tak/tak-schemas@2.1.0?classifier=sources
+- pkg:maven/se.skltp.tak/tak-schemas@2.2.1
+- pkg:maven/se.skltp.tak/tak-schemas@2.2.1?classifier=sources

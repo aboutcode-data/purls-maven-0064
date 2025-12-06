@@ -1,0 +1,2 @@
+- pkg:maven/com.clevergang.libs/fluent-spring-jdbctemplate@1.0.0
+- pkg:maven/com.clevergang.libs/fluent-spring-jdbctemplate@1.0.0?classifier=sources

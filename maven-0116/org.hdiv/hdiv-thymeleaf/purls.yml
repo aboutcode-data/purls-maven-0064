@@ -28,3 +28,5 @@
 - pkg:maven/org.hdiv/hdiv-thymeleaf@3.1.1?classifier=sources
 - pkg:maven/org.hdiv/hdiv-thymeleaf@3.2.0
 - pkg:maven/org.hdiv/hdiv-thymeleaf@3.2.0?classifier=sources
+- pkg:maven/org.hdiv/hdiv-thymeleaf@3.3.0
+- pkg:maven/org.hdiv/hdiv-thymeleaf@3.3.0?classifier=sources

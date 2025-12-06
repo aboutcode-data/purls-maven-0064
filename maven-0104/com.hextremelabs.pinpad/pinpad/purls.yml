@@ -1,0 +1,2 @@
+- pkg:maven/com.hextremelabs.pinpad/pinpad@0.1.0?classifier=sources
+- pkg:maven/com.hextremelabs.pinpad/pinpad@0.1.0?type=aar

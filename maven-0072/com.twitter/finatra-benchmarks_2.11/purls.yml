@@ -1,2 +1,10 @@
+- pkg:maven/com.twitter/finatra-benchmarks_2.11@2.10.0
+- pkg:maven/com.twitter/finatra-benchmarks_2.11@2.10.0?classifier=sources
+- pkg:maven/com.twitter/finatra-benchmarks_2.11@2.11.0
+- pkg:maven/com.twitter/finatra-benchmarks_2.11@2.11.0?classifier=sources
 - pkg:maven/com.twitter/finatra-benchmarks_2.11@2.2.0
 - pkg:maven/com.twitter/finatra-benchmarks_2.11@2.2.0?classifier=sources
+- pkg:maven/com.twitter/finatra-benchmarks_2.11@2.8.0
+- pkg:maven/com.twitter/finatra-benchmarks_2.11@2.8.0?classifier=sources
+- pkg:maven/com.twitter/finatra-benchmarks_2.11@2.9.0
+- pkg:maven/com.twitter/finatra-benchmarks_2.11@2.9.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/space.chensheng.wechatty/wechatty-common@0.0.1
+- pkg:maven/space.chensheng.wechatty/wechatty-common@0.0.1?classifier=sources

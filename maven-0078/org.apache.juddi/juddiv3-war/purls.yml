@@ -32,3 +32,5 @@
 - pkg:maven/org.apache.juddi/juddiv3-war@3.3.2?type=war
 - pkg:maven/org.apache.juddi/juddiv3-war@3.3.3?classifier=sources
 - pkg:maven/org.apache.juddi/juddiv3-war@3.3.3?type=war
+- pkg:maven/org.apache.juddi/juddiv3-war@3.3.4?classifier=sources
+- pkg:maven/org.apache.juddi/juddiv3-war@3.3.4?type=war

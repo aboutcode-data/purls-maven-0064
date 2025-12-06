@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/react-validation@2.10.9
+- pkg:maven/org.webjars.npm/react-validation@2.10.9?classifier=sources

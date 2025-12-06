@@ -4,3 +4,5 @@
 - pkg:maven/net.stickycode.scheduled/sticky-scheduler-single@1.5?classifier=sources
 - pkg:maven/net.stickycode.scheduled/sticky-scheduler-single@2.2
 - pkg:maven/net.stickycode.scheduled/sticky-scheduler-single@2.2?classifier=sources
+- pkg:maven/net.stickycode.scheduled/sticky-scheduler-single@3.3
+- pkg:maven/net.stickycode.scheduled/sticky-scheduler-single@3.3?classifier=sources

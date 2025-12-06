@@ -1,0 +1,2 @@
+- pkg:maven/de.wenzlaff.rest.beispiel/de.wenzlaff.rest.beispiel@1.0.2
+- pkg:maven/de.wenzlaff.rest.beispiel/de.wenzlaff.rest.beispiel@1.0.2?classifier=sources

@@ -6,3 +6,6 @@
 - pkg:maven/org.glassfish/jsonp-jaxrs@1.0-b06
 - pkg:maven/org.glassfish/jsonp-jaxrs@1.0-b06?classifier=sources
 - pkg:maven/org.glassfish/jsonp-jaxrs@1.0?classifier=sources
+- pkg:maven/org.glassfish/jsonp-jaxrs@1.1
+- pkg:maven/org.glassfish/jsonp-jaxrs@1.1.1
+- pkg:maven/org.glassfish/jsonp-jaxrs@1.1?classifier=sources

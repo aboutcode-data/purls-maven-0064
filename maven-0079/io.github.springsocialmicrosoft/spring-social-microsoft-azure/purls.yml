@@ -1,0 +1,2 @@
+- pkg:maven/io.github.springsocialmicrosoft/spring-social-microsoft-azure@0.1.2
+- pkg:maven/io.github.springsocialmicrosoft/spring-social-microsoft-azure@0.1.2?classifier=sources

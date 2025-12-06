@@ -1,0 +1,2 @@
+- pkg:maven/com.real-comp/address-common@0.2.0
+- pkg:maven/com.real-comp/address-common@0.2.0?classifier=sources

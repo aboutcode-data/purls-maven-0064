@@ -86,3 +86,5 @@
 - pkg:maven/net.mikera/vectorz@0.63.0?classifier=sources
 - pkg:maven/net.mikera/vectorz@0.64.0
 - pkg:maven/net.mikera/vectorz@0.64.0?classifier=sources
+- pkg:maven/net.mikera/vectorz@0.65.0
+- pkg:maven/net.mikera/vectorz@0.65.0?classifier=sources

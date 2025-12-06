@@ -4,3 +4,5 @@
 - pkg:maven/org.carewebframework/org.carewebframework.ui.highcharts@4.1.10?classifier=sources
 - pkg:maven/org.carewebframework/org.carewebframework.ui.highcharts@4.1.9
 - pkg:maven/org.carewebframework/org.carewebframework.ui.highcharts@4.1.9?classifier=sources
+- pkg:maven/org.carewebframework/org.carewebframework.ui.highcharts@4.2.3
+- pkg:maven/org.carewebframework/org.carewebframework.ui.highcharts@4.2.3?classifier=sources

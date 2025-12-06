@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.cxf.fediz.systests/fediz-systests-ldap@1.4.0
+- pkg:maven/org.apache.cxf.fediz.systests/fediz-systests-ldap@1.4.0?classifier=sources

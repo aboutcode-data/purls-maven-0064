@@ -1,0 +1,2 @@
+- pkg:maven/io.vulpine.lib/lib-connectwise@0.0.17
+- pkg:maven/io.vulpine.lib/lib-connectwise@0.0.17?classifier=sources

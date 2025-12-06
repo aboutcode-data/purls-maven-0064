@@ -1,0 +1,4 @@
+- pkg:maven/rocks.inspectit/agent-java-sdk@1.7.11
+- pkg:maven/rocks.inspectit/agent-java-sdk@1.7.11?classifier=sources
+- pkg:maven/rocks.inspectit/agent-java-sdk@1.8.1
+- pkg:maven/rocks.inspectit/agent-java-sdk@1.8.1?classifier=sources

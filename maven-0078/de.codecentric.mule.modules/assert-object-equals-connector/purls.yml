@@ -1,0 +1,2 @@
+- pkg:maven/de.codecentric.mule.modules/assert-object-equals-connector@0.0.4?classifier=sources
+- pkg:maven/de.codecentric.mule.modules/assert-object-equals-connector@0.0.6?classifier=sources

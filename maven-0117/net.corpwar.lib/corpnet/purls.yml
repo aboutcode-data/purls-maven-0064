@@ -2,3 +2,5 @@
 - pkg:maven/net.corpwar.lib/corpnet@1.7.0?classifier=sources
 - pkg:maven/net.corpwar.lib/corpnet@1.8.0
 - pkg:maven/net.corpwar.lib/corpnet@1.8.0?classifier=sources
+- pkg:maven/net.corpwar.lib/corpnet@2.0.0
+- pkg:maven/net.corpwar.lib/corpnet@2.0.0?classifier=sources

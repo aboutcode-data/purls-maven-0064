@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/react-element-to-jsx-string@5.0.0
+- pkg:maven/org.webjars.npm/react-element-to-jsx-string@5.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/react-element-to-jsx-string@6.0.0
+- pkg:maven/org.webjars.npm/react-element-to-jsx-string@6.0.0?classifier=sources

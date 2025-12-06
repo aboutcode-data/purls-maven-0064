@@ -8,6 +8,8 @@
 - pkg:maven/org.eclipse.tycho/org.eclipse.jdt.core@3.11.1.v20150902-1521?classifier=sources
 - pkg:maven/org.eclipse.tycho/org.eclipse.jdt.core@3.12.0.v20160516-2131
 - pkg:maven/org.eclipse.tycho/org.eclipse.jdt.core@3.12.0.v20160516-2131?classifier=sources
+- pkg:maven/org.eclipse.tycho/org.eclipse.jdt.core@3.12.2.v20161117-1814
+- pkg:maven/org.eclipse.tycho/org.eclipse.jdt.core@3.12.2.v20161117-1814?classifier=sources
 - pkg:maven/org.eclipse.tycho/org.eclipse.jdt.core@3.6.2.v_A76_R36x
 - pkg:maven/org.eclipse.tycho/org.eclipse.jdt.core@3.6.2.v_A76_R36x?classifier=sources
 - pkg:maven/org.eclipse.tycho/org.eclipse.jdt.core@3.7.0.v_B61

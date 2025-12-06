@@ -1,0 +1,4 @@
+- pkg:maven/com.here.account/here-oauth-client-example@0.4.7
+- pkg:maven/com.here.account/here-oauth-client-example@0.4.7?classifier=sources
+- pkg:maven/com.here.account/here-oauth-client-example@0.4.8
+- pkg:maven/com.here.account/here-oauth-client-example@0.4.8?classifier=sources

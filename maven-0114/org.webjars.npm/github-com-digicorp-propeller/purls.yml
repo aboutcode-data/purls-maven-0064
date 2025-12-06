@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-digicorp-propeller@0.1.10
+- pkg:maven/org.webjars.npm/github-com-digicorp-propeller@0.1.10?classifier=sources

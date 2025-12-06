@@ -8,3 +8,5 @@
 - pkg:maven/com.vaadin.polymer/vaadin-gwt-polymer-elements@1.2.1.0?classifier=sources
 - pkg:maven/com.vaadin.polymer/vaadin-gwt-polymer-elements@1.2.3.0
 - pkg:maven/com.vaadin.polymer/vaadin-gwt-polymer-elements@1.2.3.0?classifier=sources
+- pkg:maven/com.vaadin.polymer/vaadin-gwt-polymer-elements@1.7.0.0
+- pkg:maven/com.vaadin.polymer/vaadin-gwt-polymer-elements@1.7.0.0?classifier=sources

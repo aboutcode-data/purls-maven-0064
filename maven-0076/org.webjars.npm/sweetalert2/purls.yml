@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.npm/sweetalert2@5.3.7?classifier=sources
 - pkg:maven/org.webjars.npm/sweetalert2@5.3.8
 - pkg:maven/org.webjars.npm/sweetalert2@5.3.8?classifier=sources
+- pkg:maven/org.webjars.npm/sweetalert2@6.1.1
+- pkg:maven/org.webjars.npm/sweetalert2@6.1.1?classifier=sources

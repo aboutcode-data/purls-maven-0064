@@ -4,3 +4,4 @@
 - pkg:maven/cn.richinfo.agent.android/agent-maven-plugin@1.1.0
 - pkg:maven/cn.richinfo.agent.android/agent-maven-plugin@1.1.1
 - pkg:maven/cn.richinfo.agent.android/agent-maven-plugin@1.1.2
+- pkg:maven/cn.richinfo.agent.android/agent-maven-plugin@1.1.7

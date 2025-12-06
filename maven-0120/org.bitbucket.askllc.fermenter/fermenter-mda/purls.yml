@@ -1,2 +1,6 @@
 - pkg:maven/org.bitbucket.askllc.fermenter/fermenter-mda@1.0.0
 - pkg:maven/org.bitbucket.askllc.fermenter/fermenter-mda@1.0.0?classifier=sources
+- pkg:maven/org.bitbucket.askllc.fermenter/fermenter-mda@2.0.0.CR1
+- pkg:maven/org.bitbucket.askllc.fermenter/fermenter-mda@2.0.0.CR1?classifier=sources
+- pkg:maven/org.bitbucket.askllc.fermenter/fermenter-mda@2.0.0.CR2
+- pkg:maven/org.bitbucket.askllc.fermenter/fermenter-mda@2.0.0.CR2?classifier=sources

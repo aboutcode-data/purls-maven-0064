@@ -1,0 +1,4 @@
+- pkg:maven/de.carne/jfx@1
+- pkg:maven/de.carne/jfx@1?classifier=sources
+- pkg:maven/de.carne/jfx@2
+- pkg:maven/de.carne/jfx@2?classifier=sources

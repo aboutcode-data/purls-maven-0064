@@ -1,0 +1,2 @@
+- pkg:maven/com.markatta/akron_2.12@1.2
+- pkg:maven/com.markatta/akron_2.12@1.2?classifier=sources

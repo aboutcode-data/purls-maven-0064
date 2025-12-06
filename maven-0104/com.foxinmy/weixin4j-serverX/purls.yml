@@ -1,0 +1,2 @@
+- pkg:maven/com.foxinmy/weixin4j-serverX@0.0.1
+- pkg:maven/com.foxinmy/weixin4j-serverX@0.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/cc.agentx/agentx@1.2.1
+- pkg:maven/cc.agentx/agentx@1.2.1?classifier=sources

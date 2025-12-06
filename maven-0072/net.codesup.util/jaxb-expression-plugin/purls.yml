@@ -2,3 +2,5 @@
 - pkg:maven/net.codesup.util/jaxb-expression-plugin@1.0.0?classifier=sources
 - pkg:maven/net.codesup.util/jaxb-expression-plugin@1.1.0
 - pkg:maven/net.codesup.util/jaxb-expression-plugin@1.1.0?classifier=sources
+- pkg:maven/net.codesup.util/jaxb-expression-plugin@1.1.1
+- pkg:maven/net.codesup.util/jaxb-expression-plugin@1.1.1?classifier=sources

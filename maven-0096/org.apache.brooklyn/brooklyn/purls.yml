@@ -1,3 +1,5 @@
+- pkg:maven/org.apache.brooklyn/brooklyn@0.10.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.brooklyn/brooklyn@0.11.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.brooklyn/brooklyn@0.7.0-incubating?classifier=source-release&type=zip
 - pkg:maven/org.apache.brooklyn/brooklyn@0.8.0-incubating?classifier=source-release&type=zip
 - pkg:maven/org.apache.brooklyn/brooklyn@0.9.0?classifier=source-release&type=zip

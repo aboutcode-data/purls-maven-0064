@@ -1,0 +1,2 @@
+- pkg:maven/com.vaadin.polymer/gwt-pwa-archetype@1.0-alpha1?classifier=sources
+- pkg:maven/com.vaadin.polymer/gwt-pwa-archetype@1.0-alpha2?classifier=sources

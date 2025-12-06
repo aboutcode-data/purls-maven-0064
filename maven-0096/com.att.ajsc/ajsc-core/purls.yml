@@ -1,0 +1,8 @@
+- pkg:maven/com.att.ajsc/ajsc-core@1.0.0
+- pkg:maven/com.att.ajsc/ajsc-core@1.0.0?classifier=sources
+- pkg:maven/com.att.ajsc/ajsc-core@2.0.0
+- pkg:maven/com.att.ajsc/ajsc-core@2.0.0?classifier=sources
+- pkg:maven/com.att.ajsc/ajsc-core@2.1.0
+- pkg:maven/com.att.ajsc/ajsc-core@2.1.0?classifier=sources
+- pkg:maven/com.att.ajsc/ajsc-core@3.0.0
+- pkg:maven/com.att.ajsc/ajsc-core@3.0.0?classifier=sources

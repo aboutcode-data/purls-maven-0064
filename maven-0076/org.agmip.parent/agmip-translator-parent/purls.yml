@@ -1,0 +1,4 @@
+- pkg:maven/org.agmip.parent/agmip-translator-parent@2.0.0
+- pkg:maven/org.agmip.parent/agmip-translator-parent@2.0.0?classifier=sources
+- pkg:maven/org.agmip.parent/agmip-translator-parent@2.0.1
+- pkg:maven/org.agmip.parent/agmip-translator-parent@2.0.1?classifier=sources

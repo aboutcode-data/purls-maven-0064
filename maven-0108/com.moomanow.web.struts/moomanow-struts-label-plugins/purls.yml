@@ -1,0 +1,2 @@
+- pkg:maven/com.moomanow.web.struts/moomanow-struts-label-plugins@0.1.0
+- pkg:maven/com.moomanow.web.struts/moomanow-struts-label-plugins@0.1.0?classifier=sources

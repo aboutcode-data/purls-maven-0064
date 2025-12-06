@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.camel/camel-swagger-rest-dsl-generator@2.19.1
+- pkg:maven/org.apache.camel/camel-swagger-rest-dsl-generator@2.19.1?classifier=sources

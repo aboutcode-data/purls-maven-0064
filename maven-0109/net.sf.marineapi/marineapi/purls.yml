@@ -1,3 +1,5 @@
+- pkg:maven/net.sf.marineapi/marineapi@0.10.0
+- pkg:maven/net.sf.marineapi/marineapi@0.10.0?classifier=sources
 - pkg:maven/net.sf.marineapi/marineapi@0.5.1
 - pkg:maven/net.sf.marineapi/marineapi@0.5.1?classifier=sources
 - pkg:maven/net.sf.marineapi/marineapi@0.6.0

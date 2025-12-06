@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.examples.undo@3.2.301
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.examples.undo@3.2.301?classifier=sources

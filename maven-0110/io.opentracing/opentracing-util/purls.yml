@@ -1,0 +1,10 @@
+- pkg:maven/io.opentracing/opentracing-util@0.21.0
+- pkg:maven/io.opentracing/opentracing-util@0.21.0?classifier=sources
+- pkg:maven/io.opentracing/opentracing-util@0.22.0
+- pkg:maven/io.opentracing/opentracing-util@0.22.0?classifier=sources
+- pkg:maven/io.opentracing/opentracing-util@0.30.0
+- pkg:maven/io.opentracing/opentracing-util@0.30.0.RC2
+- pkg:maven/io.opentracing/opentracing-util@0.30.0.RC2?classifier=sources
+- pkg:maven/io.opentracing/opentracing-util@0.30.0.RC3
+- pkg:maven/io.opentracing/opentracing-util@0.30.0.RC3?classifier=sources
+- pkg:maven/io.opentracing/opentracing-util@0.30.0?classifier=sources

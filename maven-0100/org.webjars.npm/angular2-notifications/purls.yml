@@ -9,4 +9,8 @@
 - pkg:maven/org.webjars.npm/angular2-notifications@0.4.0
 - pkg:maven/org.webjars.npm/angular2-notifications@0.4.0?classifier=sources
 - pkg:maven/org.webjars.npm/angular2-notifications@0.4.4
+- pkg:maven/org.webjars.npm/angular2-notifications@0.4.46
+- pkg:maven/org.webjars.npm/angular2-notifications@0.4.46?classifier=sources
 - pkg:maven/org.webjars.npm/angular2-notifications@0.4.4?classifier=sources
+- pkg:maven/org.webjars.npm/angular2-notifications@0.4.53
+- pkg:maven/org.webjars.npm/angular2-notifications@0.4.53?classifier=sources

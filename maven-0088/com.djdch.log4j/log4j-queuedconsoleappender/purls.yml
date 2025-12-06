@@ -1,0 +1,2 @@
+- pkg:maven/com.djdch.log4j/log4j-queuedconsoleappender@1.0.0
+- pkg:maven/com.djdch.log4j/log4j-queuedconsoleappender@1.0.0?classifier=sources

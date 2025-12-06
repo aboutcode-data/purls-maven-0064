@@ -1,0 +1,4 @@
+- pkg:maven/com.connctd.tracing.stackdriver/stackdriver-opentracing@1.0.0
+- pkg:maven/com.connctd.tracing.stackdriver/stackdriver-opentracing@1.0.0?classifier=sources
+- pkg:maven/com.connctd.tracing.stackdriver/stackdriver-opentracing@5407f4e
+- pkg:maven/com.connctd.tracing.stackdriver/stackdriver-opentracing@5407f4e?classifier=sources

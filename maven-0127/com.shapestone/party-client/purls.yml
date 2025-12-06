@@ -1,0 +1,6 @@
+- pkg:maven/com.shapestone/party-client@1.0.155
+- pkg:maven/com.shapestone/party-client@1.0.155?classifier=sources
+- pkg:maven/com.shapestone/party-client@1.0.156
+- pkg:maven/com.shapestone/party-client@1.0.156?classifier=sources
+- pkg:maven/com.shapestone/party-client@1.0.157
+- pkg:maven/com.shapestone/party-client@1.0.157?classifier=sources

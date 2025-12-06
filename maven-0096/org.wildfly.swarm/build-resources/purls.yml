@@ -1,0 +1,10 @@
+- pkg:maven/org.wildfly.swarm/build-resources@2017.3.3
+- pkg:maven/org.wildfly.swarm/build-resources@2017.3.3?classifier=sources
+- pkg:maven/org.wildfly.swarm/build-resources@2017.4.0
+- pkg:maven/org.wildfly.swarm/build-resources@2017.4.0?classifier=sources
+- pkg:maven/org.wildfly.swarm/build-resources@2017.5.0
+- pkg:maven/org.wildfly.swarm/build-resources@2017.5.0?classifier=sources
+- pkg:maven/org.wildfly.swarm/build-resources@2017.6.0
+- pkg:maven/org.wildfly.swarm/build-resources@2017.6.0?classifier=sources
+- pkg:maven/org.wildfly.swarm/build-resources@2017.6.1
+- pkg:maven/org.wildfly.swarm/build-resources@2017.6.1?classifier=sources

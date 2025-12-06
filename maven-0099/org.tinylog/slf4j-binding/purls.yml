@@ -29,3 +29,7 @@
 - pkg:maven/org.tinylog/slf4j-binding@1.1-rc-4?classifier=sources
 - pkg:maven/org.tinylog/slf4j-binding@1.1?classifier=sources
 - pkg:maven/org.tinylog/slf4j-binding@1.2-beta-1?classifier=sources
+- pkg:maven/org.tinylog/slf4j-binding@1.2-rc-1?classifier=sources
+- pkg:maven/org.tinylog/slf4j-binding@1.2-rc-2?classifier=sources
+- pkg:maven/org.tinylog/slf4j-binding@1.2-rc-3?classifier=sources
+- pkg:maven/org.tinylog/slf4j-binding@1.2?classifier=sources

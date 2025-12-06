@@ -12,6 +12,8 @@
 - pkg:maven/net.officefloor.tutorial/presentation@2.15.0?classifier=sources
 - pkg:maven/net.officefloor.tutorial/presentation@2.16.0
 - pkg:maven/net.officefloor.tutorial/presentation@2.16.0?classifier=sources
+- pkg:maven/net.officefloor.tutorial/presentation@2.18.0
+- pkg:maven/net.officefloor.tutorial/presentation@2.18.0?classifier=sources
 - pkg:maven/net.officefloor.tutorial/presentation@2.3.0
 - pkg:maven/net.officefloor.tutorial/presentation@2.3.0?classifier=sources
 - pkg:maven/net.officefloor.tutorial/presentation@2.4.0

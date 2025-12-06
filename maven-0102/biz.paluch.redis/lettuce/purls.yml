@@ -58,3 +58,11 @@
 - pkg:maven/biz.paluch.redis/lettuce@4.2.1.Final?classifier=sources
 - pkg:maven/biz.paluch.redis/lettuce@4.2.2.Final
 - pkg:maven/biz.paluch.redis/lettuce@4.2.2.Final?classifier=sources
+- pkg:maven/biz.paluch.redis/lettuce@4.3.0.Final
+- pkg:maven/biz.paluch.redis/lettuce@4.3.0.Final?classifier=sources
+- pkg:maven/biz.paluch.redis/lettuce@4.3.1.Final
+- pkg:maven/biz.paluch.redis/lettuce@4.3.1.Final?classifier=sources
+- pkg:maven/biz.paluch.redis/lettuce@4.3.2.Final
+- pkg:maven/biz.paluch.redis/lettuce@4.3.2.Final?classifier=sources
+- pkg:maven/biz.paluch.redis/lettuce@5.0.0.Beta1
+- pkg:maven/biz.paluch.redis/lettuce@5.0.0.Beta1?classifier=sources

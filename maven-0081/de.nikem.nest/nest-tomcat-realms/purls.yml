@@ -1,0 +1,2 @@
+- pkg:maven/de.nikem.nest/nest-tomcat-realms@1.0
+- pkg:maven/de.nikem.nest/nest-tomcat-realms@1.0?classifier=sources

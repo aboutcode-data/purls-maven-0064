@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-ceolter-ag-grid-enterprise@8.2.0
+- pkg:maven/org.webjars.npm/github-com-ceolter-ag-grid-enterprise@8.2.0?classifier=sources

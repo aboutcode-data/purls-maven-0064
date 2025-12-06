@@ -1,0 +1,6 @@
+- pkg:maven/de.digitalcollections.commons/digitalcollections-commons-server@1.1.0
+- pkg:maven/de.digitalcollections.commons/digitalcollections-commons-server@1.1.0?classifier=sources
+- pkg:maven/de.digitalcollections.commons/digitalcollections-commons-server@1.2.0
+- pkg:maven/de.digitalcollections.commons/digitalcollections-commons-server@1.2.0?classifier=sources
+- pkg:maven/de.digitalcollections.commons/digitalcollections-commons-server@1.2.2
+- pkg:maven/de.digitalcollections.commons/digitalcollections-commons-server@1.2.2?classifier=sources

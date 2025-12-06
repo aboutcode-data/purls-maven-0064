@@ -1,0 +1,2 @@
+- pkg:maven/net.darkguard.drtools/CircularImageView@1.0.0?classifier=sources
+- pkg:maven/net.darkguard.drtools/CircularImageView@1.0.0?type=aar

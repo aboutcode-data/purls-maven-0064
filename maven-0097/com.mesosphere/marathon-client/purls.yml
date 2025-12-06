@@ -2,3 +2,5 @@
 - pkg:maven/com.mesosphere/marathon-client@0.2.1?classifier=sources
 - pkg:maven/com.mesosphere/marathon-client@0.3.0
 - pkg:maven/com.mesosphere/marathon-client@0.3.0?classifier=sources
+- pkg:maven/com.mesosphere/marathon-client@0.5.0
+- pkg:maven/com.mesosphere/marathon-client@0.5.0?classifier=sources

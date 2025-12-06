@@ -21,6 +21,8 @@
 - pkg:maven/me.atam/dummy-tests@0.54
 - pkg:maven/me.atam/dummy-tests@0.55
 - pkg:maven/me.atam/dummy-tests@0.56
+- pkg:maven/me.atam/dummy-tests@0.57
+- pkg:maven/me.atam/dummy-tests@0.58
 - pkg:maven/me.atam/dummy-tests@0.6.0
 - pkg:maven/me.atam/dummy-tests@0.6.1
 - pkg:maven/me.atam/dummy-tests@0.6.2

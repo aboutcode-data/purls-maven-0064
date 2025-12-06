@@ -2,3 +2,5 @@
 - pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.enablement.oracle.dbdefinition@1.0.102.v201107221506?classifier=sources
 - pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.enablement.oracle.dbdefinition@1.0.103.v201206010214
 - pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.enablement.oracle.dbdefinition@1.0.103.v201206010214?classifier=sources
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.enablement.oracle.dbdefinition@1.1.0.201603142002
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.enablement.oracle.dbdefinition@1.1.0.201603142002?classifier=sources

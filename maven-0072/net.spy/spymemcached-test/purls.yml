@@ -30,6 +30,10 @@
 - pkg:maven/net.spy/spymemcached-test@2.11.7?classifier=sources
 - pkg:maven/net.spy/spymemcached-test@2.12.0
 - pkg:maven/net.spy/spymemcached-test@2.12.0?classifier=sources
+- pkg:maven/net.spy/spymemcached-test@2.12.2
+- pkg:maven/net.spy/spymemcached-test@2.12.2?classifier=sources
+- pkg:maven/net.spy/spymemcached-test@2.12.3
+- pkg:maven/net.spy/spymemcached-test@2.12.3?classifier=sources
 - pkg:maven/net.spy/spymemcached-test@2.9.0
 - pkg:maven/net.spy/spymemcached-test@2.9.0?classifier=sources
 - pkg:maven/net.spy/spymemcached-test@2.9.1

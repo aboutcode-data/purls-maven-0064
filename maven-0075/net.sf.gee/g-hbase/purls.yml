@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.gee/g-hbase@0.0.4
+- pkg:maven/net.sf.gee/g-hbase@0.0.4?classifier=sources

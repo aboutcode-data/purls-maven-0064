@@ -1,0 +1,2 @@
+- pkg:maven/fr.landel.utils/utils-poi@0.0.1
+- pkg:maven/fr.landel.utils/utils-poi@0.0.1?classifier=sources

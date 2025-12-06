@@ -16,3 +16,5 @@
 - pkg:maven/com.acenhauer.corball/corball-core@16.10.18?classifier=sources
 - pkg:maven/com.acenhauer.corball/corball-core@16.10.19
 - pkg:maven/com.acenhauer.corball/corball-core@16.10.19?classifier=sources
+- pkg:maven/com.acenhauer.corball/corball-core@16.10.21
+- pkg:maven/com.acenhauer.corball/corball-core@16.10.21?classifier=sources

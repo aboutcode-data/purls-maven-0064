@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/angular-lazy-img@1.2.2
+- pkg:maven/org.webjars.bower/angular-lazy-img@1.2.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/read-file-stdin@0.2.1
+- pkg:maven/org.webjars.npm/read-file-stdin@0.2.1?classifier=sources

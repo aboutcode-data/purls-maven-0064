@@ -1,2 +1,4 @@
 - pkg:maven/com.twitter.common/io@0.0.68
 - pkg:maven/com.twitter.common/io@0.0.68?classifier=sources
+- pkg:maven/com.twitter.common/io@0.0.69
+- pkg:maven/com.twitter.common/io@0.0.69?classifier=sources

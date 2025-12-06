@@ -2,3 +2,5 @@
 - pkg:maven/net.sf.atmodem4j/spsw-java@0.0.4?classifier=sources
 - pkg:maven/net.sf.atmodem4j/spsw-java@0.0.5
 - pkg:maven/net.sf.atmodem4j/spsw-java@0.0.5?classifier=sources
+- pkg:maven/net.sf.atmodem4j/spsw-java@0.0.7
+- pkg:maven/net.sf.atmodem4j/spsw-java@0.0.7?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.yamj/api-trakttv@1.0
+- pkg:maven/org.yamj/api-trakttv@1.0?classifier=sources

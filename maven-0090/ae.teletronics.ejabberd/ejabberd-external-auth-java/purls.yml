@@ -1,0 +1,2 @@
+- pkg:maven/ae.teletronics.ejabberd/ejabberd-external-auth-java@1.0.0
+- pkg:maven/ae.teletronics.ejabberd/ejabberd-external-auth-java@1.0.0?classifier=sources

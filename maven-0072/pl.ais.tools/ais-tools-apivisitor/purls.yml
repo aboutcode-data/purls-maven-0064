@@ -1,0 +1,2 @@
+- pkg:maven/pl.ais.tools/ais-tools-apivisitor@0.0.1
+- pkg:maven/pl.ais.tools/ais-tools-apivisitor@0.0.1?classifier=sources

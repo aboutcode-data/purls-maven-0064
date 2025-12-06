@@ -26,3 +26,7 @@
 - pkg:maven/com.facebook.jcommon/tools@0.1.27?classifier=sources
 - pkg:maven/com.facebook.jcommon/tools@0.1.28
 - pkg:maven/com.facebook.jcommon/tools@0.1.28?classifier=sources
+- pkg:maven/com.facebook.jcommon/tools@0.1.29
+- pkg:maven/com.facebook.jcommon/tools@0.1.29?classifier=sources
+- pkg:maven/com.facebook.jcommon/tools@0.1.30
+- pkg:maven/com.facebook.jcommon/tools@0.1.30?classifier=sources

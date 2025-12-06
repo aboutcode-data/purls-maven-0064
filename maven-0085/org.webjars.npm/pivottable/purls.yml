@@ -1,2 +1,8 @@
 - pkg:maven/org.webjars.npm/pivottable@2.0.2
 - pkg:maven/org.webjars.npm/pivottable@2.0.2?classifier=sources
+- pkg:maven/org.webjars.npm/pivottable@2.11.0
+- pkg:maven/org.webjars.npm/pivottable@2.11.0?classifier=sources
+- pkg:maven/org.webjars.npm/pivottable@2.4.0
+- pkg:maven/org.webjars.npm/pivottable@2.4.0?classifier=sources
+- pkg:maven/org.webjars.npm/pivottable@2.9.0
+- pkg:maven/org.webjars.npm/pivottable@2.9.0?classifier=sources

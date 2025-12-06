@@ -1,2 +1,4 @@
 - pkg:maven/info.faljse/SDNotify@1.0
 - pkg:maven/info.faljse/SDNotify@1.0?classifier=sources
+- pkg:maven/info.faljse/SDNotify@1.1
+- pkg:maven/info.faljse/SDNotify@1.1?classifier=sources

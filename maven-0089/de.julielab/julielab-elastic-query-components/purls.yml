@@ -1,0 +1,2 @@
+- pkg:maven/de.julielab/julielab-elastic-query-components@1.2.0
+- pkg:maven/de.julielab/julielab-elastic-query-components@1.2.0?classifier=sources

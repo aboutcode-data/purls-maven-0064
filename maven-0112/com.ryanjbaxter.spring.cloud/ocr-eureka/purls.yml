@@ -1,0 +1,2 @@
+- pkg:maven/com.ryanjbaxter.spring.cloud/ocr-eureka@0.0.1.M1
+- pkg:maven/com.ryanjbaxter.spring.cloud/ocr-eureka@0.0.1.M1?classifier=sources

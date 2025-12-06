@@ -54,3 +54,5 @@
 - pkg:maven/com.fnklabs/fnklabs-draenei@0.4.7?classifier=sources
 - pkg:maven/com.fnklabs/fnklabs-draenei@0.5.3
 - pkg:maven/com.fnklabs/fnklabs-draenei@0.5.3?classifier=sources
+- pkg:maven/com.fnklabs/fnklabs-draenei@0.8.3
+- pkg:maven/com.fnklabs/fnklabs-draenei@0.8.3?classifier=sources

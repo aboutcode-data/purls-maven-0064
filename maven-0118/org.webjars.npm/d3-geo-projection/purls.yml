@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/d3-geo-projection@0.2.16
 - pkg:maven/org.webjars.npm/d3-geo-projection@0.2.16?classifier=sources
+- pkg:maven/org.webjars.npm/d3-geo-projection@1.2.1
+- pkg:maven/org.webjars.npm/d3-geo-projection@1.2.1?classifier=sources

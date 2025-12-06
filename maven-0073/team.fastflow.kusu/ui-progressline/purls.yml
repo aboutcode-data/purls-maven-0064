@@ -1,0 +1,4 @@
+- pkg:maven/team.fastflow.kusu/ui-progressline@1.0.0-BETA?classifier=sources
+- pkg:maven/team.fastflow.kusu/ui-progressline@1.0.0-BETA?type=aar
+- pkg:maven/team.fastflow.kusu/ui-progressline@1.1.0-BETA?classifier=sources
+- pkg:maven/team.fastflow.kusu/ui-progressline@1.1.0-BETA?type=aar

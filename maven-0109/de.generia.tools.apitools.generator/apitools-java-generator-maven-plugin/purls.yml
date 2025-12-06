@@ -1,0 +1,2 @@
+- pkg:maven/de.generia.tools.apitools.generator/apitools-java-generator-maven-plugin@1.0.0
+- pkg:maven/de.generia.tools.apitools.generator/apitools-java-generator-maven-plugin@1.0.0?classifier=sources

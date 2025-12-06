@@ -1,0 +1,2 @@
+- pkg:maven/com.fenbi.mp4j/ytk-mp4j@0.0.1
+- pkg:maven/com.fenbi.mp4j/ytk-mp4j@0.0.1?classifier=sources

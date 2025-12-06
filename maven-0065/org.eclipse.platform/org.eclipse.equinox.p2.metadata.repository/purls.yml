@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.metadata.repository@1.2.300
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.metadata.repository@1.2.300?classifier=sources

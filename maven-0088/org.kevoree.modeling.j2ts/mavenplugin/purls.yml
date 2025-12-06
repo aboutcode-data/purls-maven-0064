@@ -60,3 +60,9 @@
 - pkg:maven/org.kevoree.modeling.j2ts/mavenplugin@78?classifier=sources
 - pkg:maven/org.kevoree.modeling.j2ts/mavenplugin@79
 - pkg:maven/org.kevoree.modeling.j2ts/mavenplugin@79?classifier=sources
+- pkg:maven/org.kevoree.modeling.j2ts/mavenplugin@80
+- pkg:maven/org.kevoree.modeling.j2ts/mavenplugin@80?classifier=sources
+- pkg:maven/org.kevoree.modeling.j2ts/mavenplugin@81
+- pkg:maven/org.kevoree.modeling.j2ts/mavenplugin@81?classifier=sources
+- pkg:maven/org.kevoree.modeling.j2ts/mavenplugin@82
+- pkg:maven/org.kevoree.modeling.j2ts/mavenplugin@82?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.hardis.collectd/jcollectd@1.0.3
+- pkg:maven/com.hardis.collectd/jcollectd@1.0.3?classifier=sources

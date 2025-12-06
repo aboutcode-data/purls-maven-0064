@@ -1,0 +1,2 @@
+- pkg:maven/org.knowm.proprioceptron/proprioceptron-sample@1.1.1
+- pkg:maven/org.knowm.proprioceptron/proprioceptron-sample@1.1.1?classifier=sources

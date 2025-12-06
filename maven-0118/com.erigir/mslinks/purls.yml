@@ -1,0 +1,2 @@
+- pkg:maven/com.erigir/mslinks@0.0.2%2B5
+- pkg:maven/com.erigir/mslinks@0.0.2%2B5?classifier=sources

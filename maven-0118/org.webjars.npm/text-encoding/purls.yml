@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/text-encoding@0.5.2
 - pkg:maven/org.webjars.npm/text-encoding@0.5.2?classifier=sources
+- pkg:maven/org.webjars.npm/text-encoding@0.6.4
+- pkg:maven/org.webjars.npm/text-encoding@0.6.4?classifier=sources

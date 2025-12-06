@@ -2,3 +2,9 @@
 - pkg:maven/com.oracle.bedrock/bedrock-runtime-maven@4.0.0?classifier=sources
 - pkg:maven/com.oracle.bedrock/bedrock-runtime-maven@4.1.0
 - pkg:maven/com.oracle.bedrock/bedrock-runtime-maven@4.1.0?classifier=sources
+- pkg:maven/com.oracle.bedrock/bedrock-runtime-maven@4.2.0
+- pkg:maven/com.oracle.bedrock/bedrock-runtime-maven@4.2.0?classifier=sources
+- pkg:maven/com.oracle.bedrock/bedrock-runtime-maven@4.3.0
+- pkg:maven/com.oracle.bedrock/bedrock-runtime-maven@4.3.0?classifier=sources
+- pkg:maven/com.oracle.bedrock/bedrock-runtime-maven@4.4.0
+- pkg:maven/com.oracle.bedrock/bedrock-runtime-maven@4.4.0?classifier=sources

@@ -1,0 +1,5 @@
+- pkg:maven/io.fabric8.archetypes/spring-boot-camel-config-archetype@2.2.193?classifier=sources
+- pkg:maven/io.fabric8.archetypes/spring-boot-camel-config-archetype@2.2.194?classifier=sources
+- pkg:maven/io.fabric8.archetypes/spring-boot-camel-config-archetype@2.2.195?classifier=sources
+- pkg:maven/io.fabric8.archetypes/spring-boot-camel-config-archetype@2.2.196?classifier=sources
+- pkg:maven/io.fabric8.archetypes/spring-boot-camel-config-archetype@2.2.197?classifier=sources

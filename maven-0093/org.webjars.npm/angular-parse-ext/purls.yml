@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/angular-parse-ext@1.5.8
+- pkg:maven/org.webjars.npm/angular-parse-ext@1.5.8?classifier=sources

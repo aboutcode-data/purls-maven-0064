@@ -4,3 +4,9 @@
 - pkg:maven/com.appnexus.pricecheck/pricecheck-sdk-dfp@2.2?classifier=sources
 - pkg:maven/com.appnexus.pricecheck/pricecheck-sdk-dfp@2.3
 - pkg:maven/com.appnexus.pricecheck/pricecheck-sdk-dfp@2.3?classifier=sources
+- pkg:maven/com.appnexus.pricecheck/pricecheck-sdk-dfp@2.4.4
+- pkg:maven/com.appnexus.pricecheck/pricecheck-sdk-dfp@2.4.4?classifier=sources
+- pkg:maven/com.appnexus.pricecheck/pricecheck-sdk-dfp@2.4.7
+- pkg:maven/com.appnexus.pricecheck/pricecheck-sdk-dfp@2.4.7?classifier=sources
+- pkg:maven/com.appnexus.pricecheck/pricecheck-sdk-dfp@2.4.8
+- pkg:maven/com.appnexus.pricecheck/pricecheck-sdk-dfp@2.4.8?classifier=sources

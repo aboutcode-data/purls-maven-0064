@@ -14,3 +14,4 @@
 - pkg:maven/org.webjars/less@2.5.1
 - pkg:maven/org.webjars/less@2.5.3
 - pkg:maven/org.webjars/less@2.7.1
+- pkg:maven/org.webjars/less@2.7.2

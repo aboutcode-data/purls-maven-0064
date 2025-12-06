@@ -22,3 +22,9 @@
 - pkg:maven/org.webjars.bower/chartjs@2.2.2?classifier=sources
 - pkg:maven/org.webjars.bower/chartjs@2.3.0
 - pkg:maven/org.webjars.bower/chartjs@2.3.0?classifier=sources
+- pkg:maven/org.webjars.bower/chartjs@2.4.0
+- pkg:maven/org.webjars.bower/chartjs@2.4.0?classifier=sources
+- pkg:maven/org.webjars.bower/chartjs@2.5.0
+- pkg:maven/org.webjars.bower/chartjs@2.5.0?classifier=sources
+- pkg:maven/org.webjars.bower/chartjs@2.6.0
+- pkg:maven/org.webjars.bower/chartjs@2.6.0?classifier=sources

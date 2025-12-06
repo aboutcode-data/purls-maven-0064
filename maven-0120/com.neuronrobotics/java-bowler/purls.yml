@@ -44,3 +44,17 @@
 - pkg:maven/com.neuronrobotics/java-bowler@3.21.3?classifier=sources
 - pkg:maven/com.neuronrobotics/java-bowler@3.22.0
 - pkg:maven/com.neuronrobotics/java-bowler@3.22.0?classifier=sources
+- pkg:maven/com.neuronrobotics/java-bowler@3.23.0
+- pkg:maven/com.neuronrobotics/java-bowler@3.23.0?classifier=sources
+- pkg:maven/com.neuronrobotics/java-bowler@3.23.1
+- pkg:maven/com.neuronrobotics/java-bowler@3.23.1?classifier=sources
+- pkg:maven/com.neuronrobotics/java-bowler@3.23.3
+- pkg:maven/com.neuronrobotics/java-bowler@3.23.3?classifier=sources
+- pkg:maven/com.neuronrobotics/java-bowler@3.24.0
+- pkg:maven/com.neuronrobotics/java-bowler@3.24.0?classifier=sources
+- pkg:maven/com.neuronrobotics/java-bowler@3.24.1
+- pkg:maven/com.neuronrobotics/java-bowler@3.24.1?classifier=sources
+- pkg:maven/com.neuronrobotics/java-bowler@3.24.2
+- pkg:maven/com.neuronrobotics/java-bowler@3.24.2?classifier=sources
+- pkg:maven/com.neuronrobotics/java-bowler@3.24.3
+- pkg:maven/com.neuronrobotics/java-bowler@3.24.3?classifier=sources
