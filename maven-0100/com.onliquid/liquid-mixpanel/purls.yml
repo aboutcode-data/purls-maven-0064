@@ -1,0 +1,4 @@
+- pkg:maven/com.onliquid/liquid-mixpanel@0.1?classifier=sources
+- pkg:maven/com.onliquid/liquid-mixpanel@0.1?type=aar
+- pkg:maven/com.onliquid/liquid-mixpanel@0.2?classifier=sources
+- pkg:maven/com.onliquid/liquid-mixpanel@0.2?type=aar

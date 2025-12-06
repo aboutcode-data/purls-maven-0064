@@ -1,2 +1,12 @@
+- pkg:maven/com.prowidesoftware/pw-swift-core@SRU2012-7.0
+- pkg:maven/com.prowidesoftware/pw-swift-core@SRU2012-7.0?classifier=sources
+- pkg:maven/com.prowidesoftware/pw-swift-core@SRU2013-7.3
+- pkg:maven/com.prowidesoftware/pw-swift-core@SRU2013-7.3?classifier=sources
 - pkg:maven/com.prowidesoftware/pw-swift-core@SRU2013-7.4
 - pkg:maven/com.prowidesoftware/pw-swift-core@SRU2013-7.4?classifier=sources
+- pkg:maven/com.prowidesoftware/pw-swift-core@SRU2013-7.5
+- pkg:maven/com.prowidesoftware/pw-swift-core@SRU2013-7.5?classifier=sources
+- pkg:maven/com.prowidesoftware/pw-swift-core@SRU2014-7.6
+- pkg:maven/com.prowidesoftware/pw-swift-core@SRU2014-7.6?classifier=sources
+- pkg:maven/com.prowidesoftware/pw-swift-core@SRU2015-7.7
+- pkg:maven/com.prowidesoftware/pw-swift-core@SRU2015-7.7?classifier=sources

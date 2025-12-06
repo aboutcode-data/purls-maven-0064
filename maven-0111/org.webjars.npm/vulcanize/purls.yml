@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/vulcanize@1.10.4
+- pkg:maven/org.webjars.npm/vulcanize@1.10.4?classifier=sources
+- pkg:maven/org.webjars.npm/vulcanize@1.9.3
+- pkg:maven/org.webjars.npm/vulcanize@1.9.3?classifier=sources

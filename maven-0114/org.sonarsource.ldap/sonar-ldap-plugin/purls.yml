@@ -1,0 +1,1 @@
+- pkg:maven/org.sonarsource.ldap/sonar-ldap-plugin@1.5.1?classifier=sources

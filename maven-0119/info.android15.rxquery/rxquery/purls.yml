@@ -1,0 +1,2 @@
+- pkg:maven/info.android15.rxquery/rxquery@2.0.0
+- pkg:maven/info.android15.rxquery/rxquery@2.0.0?classifier=sources

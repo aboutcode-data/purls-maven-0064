@@ -1,0 +1,2 @@
+- pkg:maven/org.leibnizcenter/xml-to-json@0.3.0
+- pkg:maven/org.leibnizcenter/xml-to-json@0.3.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.eclipse.tycho/org.eclipse.osgi.compatibility.state@1.0.0.v20140403-1907
+- pkg:maven/org.eclipse.tycho/org.eclipse.osgi.compatibility.state@1.0.0.v20140403-1907?classifier=sources
+- pkg:maven/org.eclipse.tycho/org.eclipse.osgi.compatibility.state@1.0.100.v20150402-1551
+- pkg:maven/org.eclipse.tycho/org.eclipse.osgi.compatibility.state@1.0.100.v20150402-1551?classifier=sources

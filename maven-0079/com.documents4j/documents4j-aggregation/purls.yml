@@ -1,0 +1,2 @@
+- pkg:maven/com.documents4j/documents4j-aggregation@1.0.0
+- pkg:maven/com.documents4j/documents4j-aggregation@1.0.0?classifier=sources

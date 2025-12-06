@@ -1,0 +1,2 @@
+- pkg:maven/com.arcbees.seo/gwt-seo@0.1
+- pkg:maven/com.arcbees.seo/gwt-seo@0.1?classifier=sources

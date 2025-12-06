@@ -13,3 +13,10 @@
 - pkg:maven/org.qooxdoo/qooxdoo-sdk@3.0.1
 - pkg:maven/org.qooxdoo/qooxdoo-sdk@3.0.2
 - pkg:maven/org.qooxdoo/qooxdoo-sdk@3.5
+- pkg:maven/org.qooxdoo/qooxdoo-sdk@3.5.1
+- pkg:maven/org.qooxdoo/qooxdoo-sdk@4.0
+- pkg:maven/org.qooxdoo/qooxdoo-sdk@4.0.1
+- pkg:maven/org.qooxdoo/qooxdoo-sdk@4.0.2
+- pkg:maven/org.qooxdoo/qooxdoo-sdk@4.1
+- pkg:maven/org.qooxdoo/qooxdoo-sdk@4.1.1
+- pkg:maven/org.qooxdoo/qooxdoo-sdk@5.0

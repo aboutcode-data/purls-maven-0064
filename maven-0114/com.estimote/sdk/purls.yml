@@ -1,0 +1,8 @@
+- pkg:maven/com.estimote/sdk@0.8.6?type=aar
+- pkg:maven/com.estimote/sdk@0.8.7?type=aar
+- pkg:maven/com.estimote/sdk@0.8.8?type=aar
+- pkg:maven/com.estimote/sdk@0.9.1?type=aar
+- pkg:maven/com.estimote/sdk@0.9.2?type=aar
+- pkg:maven/com.estimote/sdk@0.9.3?type=aar
+- pkg:maven/com.estimote/sdk@0.9.4?type=aar
+- pkg:maven/com.estimote/sdk@0.9?type=aar

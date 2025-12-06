@@ -20,3 +20,7 @@
 - pkg:maven/org.littleshoot/littleproxy@1.0.0-beta6?classifier=sources
 - pkg:maven/org.littleshoot/littleproxy@1.0.0-beta7
 - pkg:maven/org.littleshoot/littleproxy@1.0.0-beta7?classifier=sources
+- pkg:maven/org.littleshoot/littleproxy@1.0.0-beta8
+- pkg:maven/org.littleshoot/littleproxy@1.0.0-beta8?classifier=sources
+- pkg:maven/org.littleshoot/littleproxy@1.1.0-beta1
+- pkg:maven/org.littleshoot/littleproxy@1.1.0-beta1?classifier=sources

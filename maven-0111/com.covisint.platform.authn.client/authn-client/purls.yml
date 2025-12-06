@@ -1,0 +1,2 @@
+- pkg:maven/com.covisint.platform.authn.client/authn-client@2.0.0.RELEASE
+- pkg:maven/com.covisint.platform.authn.client/authn-client@2.0.0.RELEASE?classifier=sources

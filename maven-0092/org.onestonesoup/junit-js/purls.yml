@@ -1,0 +1,2 @@
+- pkg:maven/org.onestonesoup/junit-js@1.0.1
+- pkg:maven/org.onestonesoup/junit-js@1.0.1?classifier=sources

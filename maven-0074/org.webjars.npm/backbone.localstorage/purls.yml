@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/backbone.localstorage@1.1.16
+- pkg:maven/org.webjars.npm/backbone.localstorage@1.1.16?classifier=sources

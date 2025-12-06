@@ -1,0 +1,6 @@
+- pkg:maven/de.is24.common/switchman-togglz-client@1.0
+- pkg:maven/de.is24.common/switchman-togglz-client@1.0?classifier=sources
+- pkg:maven/de.is24.common/switchman-togglz-client@1.1
+- pkg:maven/de.is24.common/switchman-togglz-client@1.1?classifier=sources
+- pkg:maven/de.is24.common/switchman-togglz-client@1.2
+- pkg:maven/de.is24.common/switchman-togglz-client@1.2?classifier=sources

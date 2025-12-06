@@ -18,5 +18,9 @@
 - pkg:maven/com.fifesoft/spellchecker@2.0.7?classifier=sources
 - pkg:maven/com.fifesoft/spellchecker@2.5.0
 - pkg:maven/com.fifesoft/spellchecker@2.5.0?classifier=sources
+- pkg:maven/com.fifesoft/spellchecker@2.5.4
+- pkg:maven/com.fifesoft/spellchecker@2.5.4?classifier=sources
+- pkg:maven/com.fifesoft/spellchecker@2.5.7
+- pkg:maven/com.fifesoft/spellchecker@2.5.7?classifier=sources
 - pkg:maven/com.fifesoft/spellchecker@r239
 - pkg:maven/com.fifesoft/spellchecker@r239?classifier=sources

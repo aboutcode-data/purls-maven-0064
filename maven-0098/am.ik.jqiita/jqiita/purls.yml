@@ -1,0 +1,4 @@
+- pkg:maven/am.ik.jqiita/jqiita@0.8.0
+- pkg:maven/am.ik.jqiita/jqiita@0.8.0?classifier=sources
+- pkg:maven/am.ik.jqiita/jqiita@0.8.1
+- pkg:maven/am.ik.jqiita/jqiita@0.8.1?classifier=sources

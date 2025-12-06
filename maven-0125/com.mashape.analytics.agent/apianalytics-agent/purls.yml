@@ -1,0 +1,2 @@
+- pkg:maven/com.mashape.analytics.agent/apianalytics-agent@1.0.0-alpha-2
+- pkg:maven/com.mashape.analytics.agent/apianalytics-agent@1.0.0-alpha-2?classifier=sources

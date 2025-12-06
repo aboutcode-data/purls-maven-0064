@@ -2,3 +2,11 @@
 - pkg:maven/com.netflix.turbine/turbine-core@0.3?classifier=sources
 - pkg:maven/com.netflix.turbine/turbine-core@0.4
 - pkg:maven/com.netflix.turbine/turbine-core@0.4?classifier=sources
+- pkg:maven/com.netflix.turbine/turbine-core@0.5
+- pkg:maven/com.netflix.turbine/turbine-core@0.5?classifier=sources
+- pkg:maven/com.netflix.turbine/turbine-core@1.0.0
+- pkg:maven/com.netflix.turbine/turbine-core@1.0.0?classifier=sources
+- pkg:maven/com.netflix.turbine/turbine-core@2.0.0-DP.1
+- pkg:maven/com.netflix.turbine/turbine-core@2.0.0-DP.1?classifier=sources
+- pkg:maven/com.netflix.turbine/turbine-core@2.0.0-DP.2
+- pkg:maven/com.netflix.turbine/turbine-core@2.0.0-DP.2?classifier=sources

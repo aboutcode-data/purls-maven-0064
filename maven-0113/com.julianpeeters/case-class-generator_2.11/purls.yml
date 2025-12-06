@@ -1,0 +1,2 @@
+- pkg:maven/com.julianpeeters/case-class-generator_2.11@0.7.1
+- pkg:maven/com.julianpeeters/case-class-generator_2.11@0.7.1?classifier=sources

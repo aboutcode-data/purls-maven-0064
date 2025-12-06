@@ -1,4 +1,7 @@
 - pkg:maven/org.apache.geronimo.javamail/geronimo-javamail_1.4@1.8.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.geronimo.javamail/geronimo-javamail_1.4@1.8.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.geronimo.javamail/geronimo-javamail_1.4@1.8.3?classifier=source-release&type=zip
+- pkg:maven/org.apache.geronimo.javamail/geronimo-javamail_1.4@1.8.4?classifier=source-release&type=zip
 - pkg:maven/org.apache.geronimo.javamail/geronimo-javamail_1.4@1.8?classifier=source-release&type=zip
+- pkg:maven/org.apache.geronimo.javamail/geronimo-javamail_1.4@1.9.0-alpha-1?classifier=source-release&type=zip
+- pkg:maven/org.apache.geronimo.javamail/geronimo-javamail_1.4@1.9.0-alpha-2?classifier=source-release&type=zip

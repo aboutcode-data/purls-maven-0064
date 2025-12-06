@@ -1,0 +1,8 @@
+- pkg:maven/eu.crydee/syllable-counter@1.0.0
+- pkg:maven/eu.crydee/syllable-counter@1.0.0?classifier=sources
+- pkg:maven/eu.crydee/syllable-counter@2.0.0
+- pkg:maven/eu.crydee/syllable-counter@2.0.0?classifier=sources
+- pkg:maven/eu.crydee/syllable-counter@3.0.0
+- pkg:maven/eu.crydee/syllable-counter@3.0.0?classifier=sources
+- pkg:maven/eu.crydee/syllable-counter@3.0.1
+- pkg:maven/eu.crydee/syllable-counter@3.0.1?classifier=sources

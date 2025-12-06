@@ -1,0 +1,2 @@
+- pkg:maven/org.kuali.coeus/coeus-data-conv@6.0.0
+- pkg:maven/org.kuali.coeus/coeus-data-conv@6.0.0?classifier=sources

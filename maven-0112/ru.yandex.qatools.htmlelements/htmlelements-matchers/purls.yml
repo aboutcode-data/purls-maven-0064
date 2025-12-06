@@ -4,6 +4,12 @@
 - pkg:maven/ru.yandex.qatools.htmlelements/htmlelements-matchers@1.11?classifier=sources
 - pkg:maven/ru.yandex.qatools.htmlelements/htmlelements-matchers@1.12
 - pkg:maven/ru.yandex.qatools.htmlelements/htmlelements-matchers@1.12?classifier=sources
+- pkg:maven/ru.yandex.qatools.htmlelements/htmlelements-matchers@1.13
+- pkg:maven/ru.yandex.qatools.htmlelements/htmlelements-matchers@1.13?classifier=sources
+- pkg:maven/ru.yandex.qatools.htmlelements/htmlelements-matchers@1.14
+- pkg:maven/ru.yandex.qatools.htmlelements/htmlelements-matchers@1.14?classifier=sources
+- pkg:maven/ru.yandex.qatools.htmlelements/htmlelements-matchers@1.15
+- pkg:maven/ru.yandex.qatools.htmlelements/htmlelements-matchers@1.15?classifier=sources
 - pkg:maven/ru.yandex.qatools.htmlelements/htmlelements-matchers@1.8
 - pkg:maven/ru.yandex.qatools.htmlelements/htmlelements-matchers@1.8?classifier=sources
 - pkg:maven/ru.yandex.qatools.htmlelements/htmlelements-matchers@1.9

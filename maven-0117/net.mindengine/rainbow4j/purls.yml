@@ -1,2 +1,14 @@
 - pkg:maven/net.mindengine/rainbow4j@0.2.6
 - pkg:maven/net.mindengine/rainbow4j@0.2.6?classifier=sources
+- pkg:maven/net.mindengine/rainbow4j@0.3.0
+- pkg:maven/net.mindengine/rainbow4j@0.3.0?classifier=sources
+- pkg:maven/net.mindengine/rainbow4j@0.3.1
+- pkg:maven/net.mindengine/rainbow4j@0.3.1?classifier=sources
+- pkg:maven/net.mindengine/rainbow4j@0.3.2
+- pkg:maven/net.mindengine/rainbow4j@0.3.2?classifier=sources
+- pkg:maven/net.mindengine/rainbow4j@0.4.0
+- pkg:maven/net.mindengine/rainbow4j@0.4.0?classifier=sources
+- pkg:maven/net.mindengine/rainbow4j@0.5.0
+- pkg:maven/net.mindengine/rainbow4j@0.5.0?classifier=sources
+- pkg:maven/net.mindengine/rainbow4j@0.5.1
+- pkg:maven/net.mindengine/rainbow4j@0.5.1?classifier=sources

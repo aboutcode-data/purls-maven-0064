@@ -1,0 +1,2 @@
+- pkg:maven/com.xiaomi.infra.galaxy/galaxy-emq-client@1.2.2
+- pkg:maven/com.xiaomi.infra.galaxy/galaxy-emq-client@1.2.2?classifier=sources

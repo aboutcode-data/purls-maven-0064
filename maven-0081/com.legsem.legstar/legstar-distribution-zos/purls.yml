@@ -1,3 +1,4 @@
 - pkg:maven/com.legsem.legstar/legstar-distribution-zos@1.5.0
 - pkg:maven/com.legsem.legstar/legstar-distribution-zos@1.5.1
 - pkg:maven/com.legsem.legstar/legstar-distribution-zos@1.5.2
+- pkg:maven/com.legsem.legstar/legstar-distribution-zos@1.5.3

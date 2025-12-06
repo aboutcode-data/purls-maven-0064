@@ -1,0 +1,4 @@
+- pkg:maven/io.jmnarloch/zuul-route-health-spring-cloud-starter@1.0.0
+- pkg:maven/io.jmnarloch/zuul-route-health-spring-cloud-starter@1.0.0?classifier=sources
+- pkg:maven/io.jmnarloch/zuul-route-health-spring-cloud-starter@1.1.0
+- pkg:maven/io.jmnarloch/zuul-route-health-spring-cloud-starter@1.1.0?classifier=sources

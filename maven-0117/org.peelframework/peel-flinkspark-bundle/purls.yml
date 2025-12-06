@@ -1,0 +1,2 @@
+- pkg:maven/org.peelframework/peel-flinkspark-bundle@1.0.0-beta?classifier=sources
+- pkg:maven/org.peelframework/peel-flinkspark-bundle@1.0.0-rc1?classifier=sources

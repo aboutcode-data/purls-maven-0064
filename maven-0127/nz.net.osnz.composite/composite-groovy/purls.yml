@@ -3,5 +3,16 @@
 - pkg:maven/nz.net.osnz.composite/composite-groovy@2.1
 - pkg:maven/nz.net.osnz.composite/composite-groovy@2.2
 - pkg:maven/nz.net.osnz.composite/composite-groovy@3.1
+- pkg:maven/nz.net.osnz.composite/composite-groovy@3.10
+- pkg:maven/nz.net.osnz.composite/composite-groovy@3.11
+- pkg:maven/nz.net.osnz.composite/composite-groovy@3.12
+- pkg:maven/nz.net.osnz.composite/composite-groovy@3.13
 - pkg:maven/nz.net.osnz.composite/composite-groovy@3.2
 - pkg:maven/nz.net.osnz.composite/composite-groovy@3.3
+- pkg:maven/nz.net.osnz.composite/composite-groovy@3.4
+- pkg:maven/nz.net.osnz.composite/composite-groovy@3.5
+- pkg:maven/nz.net.osnz.composite/composite-groovy@3.6
+- pkg:maven/nz.net.osnz.composite/composite-groovy@3.7
+- pkg:maven/nz.net.osnz.composite/composite-groovy@3.8
+- pkg:maven/nz.net.osnz.composite/composite-groovy@3.9
+- pkg:maven/nz.net.osnz.composite/composite-groovy@4.1

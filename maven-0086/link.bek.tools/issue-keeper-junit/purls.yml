@@ -1,0 +1,6 @@
+- pkg:maven/link.bek.tools/issue-keeper-junit@4.11.0
+- pkg:maven/link.bek.tools/issue-keeper-junit@4.11.0?classifier=sources
+- pkg:maven/link.bek.tools/issue-keeper-junit@4.11.1
+- pkg:maven/link.bek.tools/issue-keeper-junit@4.11.1?classifier=sources
+- pkg:maven/link.bek.tools/issue-keeper-junit@4.11.2
+- pkg:maven/link.bek.tools/issue-keeper-junit@4.11.2?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bower/ng-token-auth@0.0.24
+- pkg:maven/org.webjars.bower/ng-token-auth@0.0.24?classifier=sources
+- pkg:maven/org.webjars.bower/ng-token-auth@0.0.28
+- pkg:maven/org.webjars.bower/ng-token-auth@0.0.28?classifier=sources

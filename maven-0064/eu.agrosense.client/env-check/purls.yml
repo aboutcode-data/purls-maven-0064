@@ -4,3 +4,5 @@
 - pkg:maven/eu.agrosense.client/env-check@13.03-beta?classifier=sources
 - pkg:maven/eu.agrosense.client/env-check@14.01-beta?classifier=sources
 - pkg:maven/eu.agrosense.client/env-check@14.02-beta?classifier=sources
+- pkg:maven/eu.agrosense.client/env-check@14.04-beta?classifier=sources
+- pkg:maven/eu.agrosense.client/env-check@14.06-beta?classifier=sources

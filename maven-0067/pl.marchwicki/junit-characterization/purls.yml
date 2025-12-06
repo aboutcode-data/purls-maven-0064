@@ -1,0 +1,4 @@
+- pkg:maven/pl.marchwicki/junit-characterization@0.2.2
+- pkg:maven/pl.marchwicki/junit-characterization@0.2.2?classifier=sources
+- pkg:maven/pl.marchwicki/junit-characterization@0.3
+- pkg:maven/pl.marchwicki/junit-characterization@0.3?classifier=sources

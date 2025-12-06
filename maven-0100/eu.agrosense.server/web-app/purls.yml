@@ -1,2 +1,4 @@
 - pkg:maven/eu.agrosense.server/web-app@14.02-beta?classifier=sources
 - pkg:maven/eu.agrosense.server/web-app@14.02-beta?type=war
+- pkg:maven/eu.agrosense.server/web-app@14.04-beta?classifier=sources
+- pkg:maven/eu.agrosense.server/web-app@14.04-beta?type=war

@@ -1,0 +1,4 @@
+- pkg:maven/net.linkfuture/linkfuture.compressor@1.0.0
+- pkg:maven/net.linkfuture/linkfuture.compressor@1.0.0?classifier=sources
+- pkg:maven/net.linkfuture/linkfuture.compressor@2.0.0
+- pkg:maven/net.linkfuture/linkfuture.compressor@2.0.0?classifier=sources

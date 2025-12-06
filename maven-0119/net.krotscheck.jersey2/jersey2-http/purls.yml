@@ -1,0 +1,4 @@
+- pkg:maven/net.krotscheck.jersey2/jersey2-http@1.1.17
+- pkg:maven/net.krotscheck.jersey2/jersey2-http@1.1.17?classifier=sources
+- pkg:maven/net.krotscheck.jersey2/jersey2-http@1.1.18
+- pkg:maven/net.krotscheck.jersey2/jersey2-http@1.1.18?classifier=sources

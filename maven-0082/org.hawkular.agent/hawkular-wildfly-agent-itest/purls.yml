@@ -1,0 +1,7 @@
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-itest@0.13.0.Final
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-itest@0.13.1.Final
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-itest@0.13.2.Final
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-itest@0.13.3.Final
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-itest@0.13.4.Final
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-itest@0.13.5.Final
+- pkg:maven/org.hawkular.agent/hawkular-wildfly-agent-itest@0.13.6.Final

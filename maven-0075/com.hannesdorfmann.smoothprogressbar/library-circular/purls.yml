@@ -1,0 +1,2 @@
+- pkg:maven/com.hannesdorfmann.smoothprogressbar/library-circular@1.0.1?classifier=sources
+- pkg:maven/com.hannesdorfmann.smoothprogressbar/library-circular@1.0.1?type=aar

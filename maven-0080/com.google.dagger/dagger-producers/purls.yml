@@ -1,0 +1,2 @@
+- pkg:maven/com.google.dagger/dagger-producers@2.0-beta
+- pkg:maven/com.google.dagger/dagger-producers@2.0-beta?classifier=sources

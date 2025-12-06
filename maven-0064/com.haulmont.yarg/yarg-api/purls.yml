@@ -1,0 +1,10 @@
+- pkg:maven/com.haulmont.yarg/yarg-api@1.0.26
+- pkg:maven/com.haulmont.yarg/yarg-api@1.0.26?classifier=sources
+- pkg:maven/com.haulmont.yarg/yarg-api@1.0.33
+- pkg:maven/com.haulmont.yarg/yarg-api@1.0.33?classifier=sources
+- pkg:maven/com.haulmont.yarg/yarg-api@1.0.46
+- pkg:maven/com.haulmont.yarg/yarg-api@1.0.46?classifier=sources
+- pkg:maven/com.haulmont.yarg/yarg-api@1.0.52
+- pkg:maven/com.haulmont.yarg/yarg-api@1.0.52?classifier=sources
+- pkg:maven/com.haulmont.yarg/yarg-api@1.0.54
+- pkg:maven/com.haulmont.yarg/yarg-api@1.0.54?classifier=sources

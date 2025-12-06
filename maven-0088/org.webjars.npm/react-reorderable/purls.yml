@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/react-reorderable@0.1.10
+- pkg:maven/org.webjars.npm/react-reorderable@0.1.10?classifier=sources
+- pkg:maven/org.webjars.npm/react-reorderable@0.2.3
+- pkg:maven/org.webjars.npm/react-reorderable@0.2.3?classifier=sources

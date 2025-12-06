@@ -18,3 +18,5 @@
 - pkg:maven/org.truffulatree/h2odb_2.10@0.5.7?classifier=sources
 - pkg:maven/org.truffulatree/h2odb_2.10@0.5.8
 - pkg:maven/org.truffulatree/h2odb_2.10@0.5.8?classifier=sources
+- pkg:maven/org.truffulatree/h2odb_2.10@0.6.0
+- pkg:maven/org.truffulatree/h2odb_2.10@0.6.0?classifier=sources

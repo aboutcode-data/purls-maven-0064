@@ -1,0 +1,2 @@
+- pkg:maven/com.curtrostudios.socialoidlibrary/socialoidlibrary@1.0.2?classifier=sources
+- pkg:maven/com.curtrostudios.socialoidlibrary/socialoidlibrary@1.0.2?type=aar

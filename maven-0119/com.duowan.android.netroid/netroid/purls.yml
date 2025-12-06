@@ -1,0 +1,2 @@
+- pkg:maven/com.duowan.android.netroid/netroid@1.2.1
+- pkg:maven/com.duowan.android.netroid/netroid@1.2.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.zalando.phrs/jersey-media-json-gson@0.1
+- pkg:maven/org.zalando.phrs/jersey-media-json-gson@0.1?classifier=sources

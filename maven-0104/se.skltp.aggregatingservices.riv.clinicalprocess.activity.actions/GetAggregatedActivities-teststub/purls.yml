@@ -1,0 +1,2 @@
+- pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.activity.actions/GetAggregatedActivities-teststub@1.0.0-RC4?classifier=sources
+- pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.activity.actions/GetAggregatedActivities-teststub@1.0.0?classifier=sources

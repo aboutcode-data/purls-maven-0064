@@ -1,0 +1,2 @@
+- pkg:maven/com.atlassian.dummy/jar-and-zip@1.1
+- pkg:maven/com.atlassian.dummy/jar-and-zip@1.1?classifier=sources

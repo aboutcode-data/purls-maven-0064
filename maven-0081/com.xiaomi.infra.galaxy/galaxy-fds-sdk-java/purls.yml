@@ -1,0 +1,6 @@
+- pkg:maven/com.xiaomi.infra.galaxy/galaxy-fds-sdk-java@1.4
+- pkg:maven/com.xiaomi.infra.galaxy/galaxy-fds-sdk-java@1.4.0
+- pkg:maven/com.xiaomi.infra.galaxy/galaxy-fds-sdk-java@1.4.0?classifier=sources
+- pkg:maven/com.xiaomi.infra.galaxy/galaxy-fds-sdk-java@1.4?classifier=sources
+- pkg:maven/com.xiaomi.infra.galaxy/galaxy-fds-sdk-java@1.5.0
+- pkg:maven/com.xiaomi.infra.galaxy/galaxy-fds-sdk-java@1.5.0?classifier=sources

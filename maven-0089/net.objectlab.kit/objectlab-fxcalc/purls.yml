@@ -1,0 +1,2 @@
+- pkg:maven/net.objectlab.kit/objectlab-fxcalc@1.4.0
+- pkg:maven/net.objectlab.kit/objectlab-fxcalc@1.4.0?classifier=sources

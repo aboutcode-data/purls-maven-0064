@@ -1,0 +1,2 @@
+- pkg:maven/com.github.sixro/vodafoneitaly-maven-plugin@0.7.1
+- pkg:maven/com.github.sixro/vodafoneitaly-maven-plugin@0.7.1?classifier=sources

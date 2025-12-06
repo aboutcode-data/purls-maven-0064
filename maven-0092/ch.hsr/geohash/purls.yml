@@ -1,2 +1,8 @@
 - pkg:maven/ch.hsr/geohash@1.0.10
 - pkg:maven/ch.hsr/geohash@1.0.10?classifier=sources
+- pkg:maven/ch.hsr/geohash@1.0.12
+- pkg:maven/ch.hsr/geohash@1.0.12?classifier=sources
+- pkg:maven/ch.hsr/geohash@1.0.13
+- pkg:maven/ch.hsr/geohash@1.0.13?classifier=sources
+- pkg:maven/ch.hsr/geohash@1.1.0
+- pkg:maven/ch.hsr/geohash@1.1.0?classifier=sources

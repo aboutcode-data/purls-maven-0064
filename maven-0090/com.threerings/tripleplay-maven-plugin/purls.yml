@@ -1,0 +1,4 @@
+- pkg:maven/com.threerings/tripleplay-maven-plugin@1.9
+- pkg:maven/com.threerings/tripleplay-maven-plugin@1.9?classifier=sources
+- pkg:maven/com.threerings/tripleplay-maven-plugin@2.0-rc1
+- pkg:maven/com.threerings/tripleplay-maven-plugin@2.0-rc1?classifier=sources

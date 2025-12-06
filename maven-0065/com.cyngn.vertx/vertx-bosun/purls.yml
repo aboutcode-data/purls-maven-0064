@@ -1,0 +1,2 @@
+- pkg:maven/com.cyngn.vertx/vertx-bosun@0.1.0
+- pkg:maven/com.cyngn.vertx/vertx-bosun@0.1.0?classifier=sources

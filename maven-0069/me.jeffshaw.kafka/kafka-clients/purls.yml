@@ -1,0 +1,2 @@
+- pkg:maven/me.jeffshaw.kafka/kafka-clients@0.8.2.1
+- pkg:maven/me.jeffshaw.kafka/kafka-clients@0.8.2.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.pixplicity.multiviewpager/library@1.0?classifier=sources
+- pkg:maven/com.pixplicity.multiviewpager/library@1.0?type=aar

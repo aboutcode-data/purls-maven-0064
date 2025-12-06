@@ -1,0 +1,2 @@
+- pkg:maven/com.tribbloids.spookystuff/spookystuff-assembly@0.3.2
+- pkg:maven/com.tribbloids.spookystuff/spookystuff-assembly@0.3.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.baswell/layouts@1.0
+- pkg:maven/org.baswell/layouts@1.0?classifier=sources

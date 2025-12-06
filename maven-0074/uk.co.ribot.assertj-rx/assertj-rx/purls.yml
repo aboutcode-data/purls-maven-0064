@@ -1,0 +1,2 @@
+- pkg:maven/uk.co.ribot.assertj-rx/assertj-rx@0.1.0
+- pkg:maven/uk.co.ribot.assertj-rx/assertj-rx@0.1.0?classifier=sources

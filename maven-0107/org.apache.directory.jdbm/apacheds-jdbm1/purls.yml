@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.directory.jdbm/apacheds-jdbm1@2.0.0-M2
 - pkg:maven/org.apache.directory.jdbm/apacheds-jdbm1@2.0.0-M2?classifier=sources
+- pkg:maven/org.apache.directory.jdbm/apacheds-jdbm1@2.0.0-M3
+- pkg:maven/org.apache.directory.jdbm/apacheds-jdbm1@2.0.0-M3?classifier=sources

@@ -1,2 +1,16 @@
 - pkg:maven/ro.fortsoft.wicket.dashboard.widgets/wicket-dashboard-wicked-charts@0.10
 - pkg:maven/ro.fortsoft.wicket.dashboard.widgets/wicket-dashboard-wicked-charts@0.10?classifier=sources
+- pkg:maven/ro.fortsoft.wicket.dashboard.widgets/wicket-dashboard-wicked-charts@0.11.0
+- pkg:maven/ro.fortsoft.wicket.dashboard.widgets/wicket-dashboard-wicked-charts@0.11.0%2Bwicket-7
+- pkg:maven/ro.fortsoft.wicket.dashboard.widgets/wicket-dashboard-wicked-charts@0.11.0%2Bwicket-7?classifier=sources
+- pkg:maven/ro.fortsoft.wicket.dashboard.widgets/wicket-dashboard-wicked-charts@0.11.0?classifier=sources
+- pkg:maven/ro.fortsoft.wicket.dashboard.widgets/wicket-dashboard-wicked-charts@0.12.0
+- pkg:maven/ro.fortsoft.wicket.dashboard.widgets/wicket-dashboard-wicked-charts@0.12.0%2Bwicket-7
+- pkg:maven/ro.fortsoft.wicket.dashboard.widgets/wicket-dashboard-wicked-charts@0.12.0%2Bwicket-7?classifier=sources
+- pkg:maven/ro.fortsoft.wicket.dashboard.widgets/wicket-dashboard-wicked-charts@0.12.0?classifier=sources
+- pkg:maven/ro.fortsoft.wicket.dashboard.widgets/wicket-dashboard-wicked-charts@0.12.1%2Bwicket-7
+- pkg:maven/ro.fortsoft.wicket.dashboard.widgets/wicket-dashboard-wicked-charts@0.12.1%2Bwicket-7?classifier=sources
+- pkg:maven/ro.fortsoft.wicket.dashboard.widgets/wicket-dashboard-wicked-charts@0.13.0
+- pkg:maven/ro.fortsoft.wicket.dashboard.widgets/wicket-dashboard-wicked-charts@0.13.0%2Bwicket-7
+- pkg:maven/ro.fortsoft.wicket.dashboard.widgets/wicket-dashboard-wicked-charts@0.13.0%2Bwicket-7?classifier=sources
+- pkg:maven/ro.fortsoft.wicket.dashboard.widgets/wicket-dashboard-wicked-charts@0.13.0?classifier=sources

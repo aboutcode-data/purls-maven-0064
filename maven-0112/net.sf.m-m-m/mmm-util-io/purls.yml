@@ -1,0 +1,4 @@
+- pkg:maven/net.sf.m-m-m/mmm-util-io@5.0.0
+- pkg:maven/net.sf.m-m-m/mmm-util-io@5.0.0?classifier=sources
+- pkg:maven/net.sf.m-m-m/mmm-util-io@7.0.0
+- pkg:maven/net.sf.m-m-m/mmm-util-io@7.0.0?classifier=sources

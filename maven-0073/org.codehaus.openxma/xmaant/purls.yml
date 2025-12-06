@@ -1,3 +1,7 @@
+- pkg:maven/org.codehaus.openxma/xmaant@0.0.1-TEST1
+- pkg:maven/org.codehaus.openxma/xmaant@0.0.1-TEST1?classifier=sources
+- pkg:maven/org.codehaus.openxma/xmaant@0.0.1-TESTMERGE1
+- pkg:maven/org.codehaus.openxma/xmaant@0.0.1-TESTMERGE1?classifier=sources
 - pkg:maven/org.codehaus.openxma/xmaant@1.1.2
 - pkg:maven/org.codehaus.openxma/xmaant@1.1.2?classifier=sources
 - pkg:maven/org.codehaus.openxma/xmaant@1.2.0

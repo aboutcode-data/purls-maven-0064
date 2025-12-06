@@ -1,0 +1,4 @@
+- pkg:maven/org.cyclopsgroup/s3upload-maven-plugin@1.4.0
+- pkg:maven/org.cyclopsgroup/s3upload-maven-plugin@1.4.0?classifier=sources
+- pkg:maven/org.cyclopsgroup/s3upload-maven-plugin@1.4.2
+- pkg:maven/org.cyclopsgroup/s3upload-maven-plugin@1.4.2?classifier=sources

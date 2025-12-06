@@ -1,0 +1,2 @@
+- pkg:maven/com.triangleleft.assertdialog/assert-dialog@0.8.5?classifier=sources
+- pkg:maven/com.triangleleft.assertdialog/assert-dialog@0.8.5?type=aar

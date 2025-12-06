@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/jade@0.26.3
+- pkg:maven/org.webjars.npm/jade@0.26.3?classifier=sources
+- pkg:maven/org.webjars.npm/jade@1.11.0
+- pkg:maven/org.webjars.npm/jade@1.11.0?classifier=sources

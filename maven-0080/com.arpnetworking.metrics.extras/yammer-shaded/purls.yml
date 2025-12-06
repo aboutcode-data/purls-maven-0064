@@ -1,0 +1,6 @@
+- pkg:maven/com.arpnetworking.metrics.extras/yammer-shaded@0.3.8
+- pkg:maven/com.arpnetworking.metrics.extras/yammer-shaded@0.3.8?classifier=sources
+- pkg:maven/com.arpnetworking.metrics.extras/yammer-shaded@0.4.0
+- pkg:maven/com.arpnetworking.metrics.extras/yammer-shaded@0.4.0?classifier=sources
+- pkg:maven/com.arpnetworking.metrics.extras/yammer-shaded@0.4.1
+- pkg:maven/com.arpnetworking.metrics.extras/yammer-shaded@0.4.1?classifier=sources

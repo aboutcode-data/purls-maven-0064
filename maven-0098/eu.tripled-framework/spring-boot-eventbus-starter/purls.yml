@@ -1,0 +1,2 @@
+- pkg:maven/eu.tripled-framework/spring-boot-eventbus-starter@0.0.1
+- pkg:maven/eu.tripled-framework/spring-boot-eventbus-starter@0.0.1?classifier=sources

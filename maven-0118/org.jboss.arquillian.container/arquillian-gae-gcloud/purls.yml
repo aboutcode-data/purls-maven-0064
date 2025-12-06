@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.arquillian.container/arquillian-gae-gcloud@1.0.0.Beta10
+- pkg:maven/org.jboss.arquillian.container/arquillian-gae-gcloud@1.0.0.Beta10?classifier=sources

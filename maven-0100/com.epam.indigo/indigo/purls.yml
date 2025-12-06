@@ -1,0 +1,4 @@
+- pkg:maven/com.epam.indigo/indigo@1.2.2beta-r13
+- pkg:maven/com.epam.indigo/indigo@1.2.2beta-r13?classifier=sources
+- pkg:maven/com.epam.indigo/indigo@1.2.2beta-r37
+- pkg:maven/com.epam.indigo/indigo@1.2.2beta-r37?classifier=sources

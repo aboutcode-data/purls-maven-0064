@@ -22,3 +22,5 @@
 - pkg:maven/org.sakaiproject.samigo/samigo-app@2.9.2?type=war
 - pkg:maven/org.sakaiproject.samigo/samigo-app@2.9.3?classifier=sources
 - pkg:maven/org.sakaiproject.samigo/samigo-app@2.9.3?type=war
+- pkg:maven/org.sakaiproject.samigo/samigo-app@2.9.4?classifier=sources
+- pkg:maven/org.sakaiproject.samigo/samigo-app@2.9.4?type=war

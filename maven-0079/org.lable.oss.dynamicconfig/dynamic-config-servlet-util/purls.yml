@@ -1,0 +1,2 @@
+- pkg:maven/org.lable.oss.dynamicconfig/dynamic-config-servlet-util@1.8
+- pkg:maven/org.lable.oss.dynamicconfig/dynamic-config-servlet-util@1.8?classifier=sources

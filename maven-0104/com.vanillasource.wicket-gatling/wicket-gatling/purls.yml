@@ -1,0 +1,2 @@
+- pkg:maven/com.vanillasource.wicket-gatling/wicket-gatling@1.0.1
+- pkg:maven/com.vanillasource.wicket-gatling/wicket-gatling@1.0.1?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.github.japgolly.fork.shapeless/shapeless_sjs0.6_2.11@2.0.0
+- pkg:maven/com.github.japgolly.fork.shapeless/shapeless_sjs0.6_2.11@2.0.0?classifier=sources
+- pkg:maven/com.github.japgolly.fork.shapeless/shapeless_sjs0.6_2.11@2.1.0
+- pkg:maven/com.github.japgolly.fork.shapeless/shapeless_sjs0.6_2.11@2.1.0-2
+- pkg:maven/com.github.japgolly.fork.shapeless/shapeless_sjs0.6_2.11@2.1.0-2?classifier=sources
+- pkg:maven/com.github.japgolly.fork.shapeless/shapeless_sjs0.6_2.11@2.1.0?classifier=sources

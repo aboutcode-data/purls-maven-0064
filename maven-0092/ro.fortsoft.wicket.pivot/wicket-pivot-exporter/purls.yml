@@ -1,0 +1,2 @@
+- pkg:maven/ro.fortsoft.wicket.pivot/wicket-pivot-exporter@0.5.0
+- pkg:maven/ro.fortsoft.wicket.pivot/wicket-pivot-exporter@0.5.0?classifier=sources

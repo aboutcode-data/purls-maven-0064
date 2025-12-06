@@ -1,0 +1,2 @@
+- pkg:maven/org.jkva.maven-plugins/cascading-release-maven-plugin@1.0
+- pkg:maven/org.jkva.maven-plugins/cascading-release-maven-plugin@1.0?classifier=sources

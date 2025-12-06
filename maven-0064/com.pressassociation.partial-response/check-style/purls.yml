@@ -1,0 +1,2 @@
+- pkg:maven/com.pressassociation.partial-response/check-style@1
+- pkg:maven/com.pressassociation.partial-response/check-style@1?classifier=sources

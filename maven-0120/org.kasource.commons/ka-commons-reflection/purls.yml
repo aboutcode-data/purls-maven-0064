@@ -1,0 +1,2 @@
+- pkg:maven/org.kasource.commons/ka-commons-reflection@1.1
+- pkg:maven/org.kasource.commons/ka-commons-reflection@1.1?classifier=sources

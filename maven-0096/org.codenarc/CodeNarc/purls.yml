@@ -18,6 +18,14 @@
 - pkg:maven/org.codenarc/CodeNarc@0.20?classifier=sources
 - pkg:maven/org.codenarc/CodeNarc@0.21
 - pkg:maven/org.codenarc/CodeNarc@0.21?classifier=sources
+- pkg:maven/org.codenarc/CodeNarc@0.22
+- pkg:maven/org.codenarc/CodeNarc@0.22?classifier=sources
+- pkg:maven/org.codenarc/CodeNarc@0.23
+- pkg:maven/org.codenarc/CodeNarc@0.23?classifier=sources
+- pkg:maven/org.codenarc/CodeNarc@0.24
+- pkg:maven/org.codenarc/CodeNarc@0.24.1
+- pkg:maven/org.codenarc/CodeNarc@0.24.1?classifier=sources
+- pkg:maven/org.codenarc/CodeNarc@0.24?classifier=sources
 - pkg:maven/org.codenarc/CodeNarc@0.5
 - pkg:maven/org.codenarc/CodeNarc@0.6
 - pkg:maven/org.codenarc/CodeNarc@0.7

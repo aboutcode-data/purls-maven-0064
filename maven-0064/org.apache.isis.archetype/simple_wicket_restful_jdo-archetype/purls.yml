@@ -6,3 +6,5 @@
 - pkg:maven/org.apache.isis.archetype/simple_wicket_restful_jdo-archetype@1.4.0?classifier=sources
 - pkg:maven/org.apache.isis.archetype/simple_wicket_restful_jdo-archetype@1.4.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.isis.archetype/simple_wicket_restful_jdo-archetype@1.4.1?classifier=sources
+- pkg:maven/org.apache.isis.archetype/simple_wicket_restful_jdo-archetype@1.5.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.isis.archetype/simple_wicket_restful_jdo-archetype@1.5.0?classifier=sources

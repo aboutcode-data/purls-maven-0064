@@ -1,3 +1,5 @@
 - pkg:maven/org.apache.aries.jpa/org.apache.aries.jpa.container.advanced.itest.bundle@1.0.0
 - pkg:maven/org.apache.aries.jpa/org.apache.aries.jpa.container.advanced.itest.bundle@1.0.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.aries.jpa/org.apache.aries.jpa.container.advanced.itest.bundle@1.0.0?classifier=sources
+- pkg:maven/org.apache.aries.jpa/org.apache.aries.jpa.container.advanced.itest.bundle@2.0.0
+- pkg:maven/org.apache.aries.jpa/org.apache.aries.jpa.container.advanced.itest.bundle@2.0.0?classifier=sources

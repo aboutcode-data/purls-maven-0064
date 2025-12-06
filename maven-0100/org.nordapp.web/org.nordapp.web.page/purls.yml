@@ -1,0 +1,2 @@
+- pkg:maven/org.nordapp.web/org.nordapp.web.page@0.1.0
+- pkg:maven/org.nordapp.web/org.nordapp.web.page@0.1.0?classifier=sources

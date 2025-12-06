@@ -1,0 +1,2 @@
+- pkg:maven/org.smart4j/smart-plugin-druid@1.0
+- pkg:maven/org.smart4j/smart-plugin-druid@1.0?classifier=sources

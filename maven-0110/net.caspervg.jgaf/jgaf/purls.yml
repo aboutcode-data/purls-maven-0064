@@ -1,0 +1,12 @@
+- pkg:maven/net.caspervg.jgaf/jgaf@0.1
+- pkg:maven/net.caspervg.jgaf/jgaf@0.1?classifier=sources
+- pkg:maven/net.caspervg.jgaf/jgaf@0.2
+- pkg:maven/net.caspervg.jgaf/jgaf@0.2?classifier=sources
+- pkg:maven/net.caspervg.jgaf/jgaf@0.4.7
+- pkg:maven/net.caspervg.jgaf/jgaf@0.4.7?classifier=sources
+- pkg:maven/net.caspervg.jgaf/jgaf@0.5
+- pkg:maven/net.caspervg.jgaf/jgaf@0.5?classifier=sources
+- pkg:maven/net.caspervg.jgaf/jgaf@0.6.5
+- pkg:maven/net.caspervg.jgaf/jgaf@0.6.5?classifier=sources
+- pkg:maven/net.caspervg.jgaf/jgaf@0.6.7
+- pkg:maven/net.caspervg.jgaf/jgaf@0.6.7?classifier=sources

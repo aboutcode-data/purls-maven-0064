@@ -1,0 +1,2 @@
+- pkg:maven/io.takari.m2e.discovery.publisher/org.eclipse.m2e.core@1.0.0.20110607-2117
+- pkg:maven/io.takari.m2e.discovery.publisher/org.eclipse.m2e.core@1.0.0.20110607-2117?classifier=sources

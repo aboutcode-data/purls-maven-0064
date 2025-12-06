@@ -1,7 +1,11 @@
 - pkg:maven/li.rudin.arduino/arduino-doc@2.0
 - pkg:maven/li.rudin.arduino/arduino-doc@2.1
+- pkg:maven/li.rudin.arduino/arduino-doc@2.10
 - pkg:maven/li.rudin.arduino/arduino-doc@2.2
 - pkg:maven/li.rudin.arduino/arduino-doc@2.3
 - pkg:maven/li.rudin.arduino/arduino-doc@2.4
 - pkg:maven/li.rudin.arduino/arduino-doc@2.5
 - pkg:maven/li.rudin.arduino/arduino-doc@2.6
+- pkg:maven/li.rudin.arduino/arduino-doc@2.7
+- pkg:maven/li.rudin.arduino/arduino-doc@2.8
+- pkg:maven/li.rudin.arduino/arduino-doc@2.9

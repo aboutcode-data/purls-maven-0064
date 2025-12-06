@@ -1,0 +1,2 @@
+- pkg:maven/org.beigesoft/beige-android-lib@2.1.9?classifier=sources
+- pkg:maven/org.beigesoft/beige-android-lib@2.1.9?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/org.bidib.jbidib/jbidibc-ui@1.7.0
+- pkg:maven/org.bidib.jbidib/jbidibc-ui@1.7.0?classifier=sources

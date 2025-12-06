@@ -1,0 +1,2 @@
+- pkg:maven/org.jmxtrans/jmxtrans-output-influxdb@252
+- pkg:maven/org.jmxtrans/jmxtrans-output-influxdb@252?classifier=sources

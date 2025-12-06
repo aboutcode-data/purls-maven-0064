@@ -1,0 +1,2 @@
+- pkg:maven/org.mayocat.shop/mayocat-shop-checkout@0.40.0
+- pkg:maven/org.mayocat.shop/mayocat-shop-checkout@0.40.0?classifier=sources

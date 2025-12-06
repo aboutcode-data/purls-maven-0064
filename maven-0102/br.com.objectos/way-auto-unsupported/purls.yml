@@ -1,0 +1,4 @@
+- pkg:maven/br.com.objectos/way-auto-unsupported@1.17.0
+- pkg:maven/br.com.objectos/way-auto-unsupported@1.17.0?classifier=sources
+- pkg:maven/br.com.objectos/way-auto-unsupported@1.18.0
+- pkg:maven/br.com.objectos/way-auto-unsupported@1.18.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.sparkjava/spark-template-mustache@1.0.0
+- pkg:maven/com.sparkjava/spark-template-mustache@1.0.0?classifier=sources
+- pkg:maven/com.sparkjava/spark-template-mustache@2.3
+- pkg:maven/com.sparkjava/spark-template-mustache@2.3?classifier=sources

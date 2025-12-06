@@ -1,2 +1,4 @@
 - pkg:maven/com.hack23.cia/service.component.agent.impl@2011.05.31
 - pkg:maven/com.hack23.cia/service.component.agent.impl@2011.05.31?classifier=sources
+- pkg:maven/com.hack23.cia/service.component.agent.impl@2015.12.01
+- pkg:maven/com.hack23.cia/service.component.agent.impl@2015.12.01?classifier=sources

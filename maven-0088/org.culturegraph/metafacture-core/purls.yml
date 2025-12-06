@@ -14,3 +14,11 @@
 - pkg:maven/org.culturegraph/metafacture-core@1.2.2?classifier=sources
 - pkg:maven/org.culturegraph/metafacture-core@2.0.0
 - pkg:maven/org.culturegraph/metafacture-core@2.0.0?classifier=sources
+- pkg:maven/org.culturegraph/metafacture-core@3.0.0
+- pkg:maven/org.culturegraph/metafacture-core@3.0.0?classifier=sources
+- pkg:maven/org.culturegraph/metafacture-core@3.1.0
+- pkg:maven/org.culturegraph/metafacture-core@3.1.0?classifier=sources
+- pkg:maven/org.culturegraph/metafacture-core@3.1.1
+- pkg:maven/org.culturegraph/metafacture-core@3.1.1?classifier=sources
+- pkg:maven/org.culturegraph/metafacture-core@3.1.2
+- pkg:maven/org.culturegraph/metafacture-core@3.1.2?classifier=sources

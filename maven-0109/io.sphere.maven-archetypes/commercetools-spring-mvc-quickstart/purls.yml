@@ -1,0 +1,2 @@
+- pkg:maven/io.sphere.maven-archetypes/commercetools-spring-mvc-quickstart@0.1.8?classifier=sources
+- pkg:maven/io.sphere.maven-archetypes/commercetools-spring-mvc-quickstart@0.1.9?classifier=sources

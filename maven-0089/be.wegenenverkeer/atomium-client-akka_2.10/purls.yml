@@ -1,0 +1,2 @@
+- pkg:maven/be.wegenenverkeer/atomium-client-akka_2.10@0.7.0
+- pkg:maven/be.wegenenverkeer/atomium-client-akka_2.10@0.7.0?classifier=sources

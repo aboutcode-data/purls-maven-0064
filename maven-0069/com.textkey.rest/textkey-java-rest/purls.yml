@@ -1,0 +1,2 @@
+- pkg:maven/com.textkey.rest/textkey-java-rest@1.0.1
+- pkg:maven/com.textkey.rest/textkey-java-rest@1.0.1?classifier=sources

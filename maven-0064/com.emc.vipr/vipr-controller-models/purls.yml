@@ -1,2 +1,8 @@
 - pkg:maven/com.emc.vipr/vipr-controller-models@1.1.0.1
 - pkg:maven/com.emc.vipr/vipr-controller-models@1.1.0.1?classifier=sources
+- pkg:maven/com.emc.vipr/vipr-controller-models@2.0.0.0
+- pkg:maven/com.emc.vipr/vipr-controller-models@2.0.0.0?classifier=sources
+- pkg:maven/com.emc.vipr/vipr-controller-models@2.1.0.0
+- pkg:maven/com.emc.vipr/vipr-controller-models@2.1.0.0?classifier=sources
+- pkg:maven/com.emc.vipr/vipr-controller-models@2.2.0.0
+- pkg:maven/com.emc.vipr/vipr-controller-models@2.2.0.0?classifier=sources

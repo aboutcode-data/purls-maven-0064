@@ -4,3 +4,7 @@
 - pkg:maven/net.sf.lightairmp/light-air-maven-plugin@0.2?classifier=sources
 - pkg:maven/net.sf.lightairmp/light-air-maven-plugin@0.3
 - pkg:maven/net.sf.lightairmp/light-air-maven-plugin@0.3?classifier=sources
+- pkg:maven/net.sf.lightairmp/light-air-maven-plugin@0.4
+- pkg:maven/net.sf.lightairmp/light-air-maven-plugin@0.4?classifier=sources
+- pkg:maven/net.sf.lightairmp/light-air-maven-plugin@0.5
+- pkg:maven/net.sf.lightairmp/light-air-maven-plugin@0.5?classifier=sources

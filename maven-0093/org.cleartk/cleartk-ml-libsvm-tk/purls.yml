@@ -1,0 +1,2 @@
+- pkg:maven/org.cleartk/cleartk-ml-libsvm-tk@2.0.0
+- pkg:maven/org.cleartk/cleartk-ml-libsvm-tk@2.0.0?classifier=sources

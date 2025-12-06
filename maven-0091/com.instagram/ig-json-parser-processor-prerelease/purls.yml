@@ -1,0 +1,2 @@
+- pkg:maven/com.instagram/ig-json-parser-processor-prerelease@0.0.6.0
+- pkg:maven/com.instagram/ig-json-parser-processor-prerelease@0.0.6.0?classifier=sources

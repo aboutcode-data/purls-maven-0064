@@ -1,0 +1,2 @@
+- pkg:maven/org.wildbits/org.wildbits.hydro@1.0.0
+- pkg:maven/org.wildbits/org.wildbits.hydro@1.0.0?classifier=sources

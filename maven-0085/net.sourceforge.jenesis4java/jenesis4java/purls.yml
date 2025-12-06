@@ -24,3 +24,5 @@
 - pkg:maven/net.sourceforge.jenesis4java/jenesis4java@2.6?classifier=sources
 - pkg:maven/net.sourceforge.jenesis4java/jenesis4java@2.7
 - pkg:maven/net.sourceforge.jenesis4java/jenesis4java@2.7?classifier=sources
+- pkg:maven/net.sourceforge.jenesis4java/jenesis4java@2.9
+- pkg:maven/net.sourceforge.jenesis4java/jenesis4java@2.9?classifier=sources

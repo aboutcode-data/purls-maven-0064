@@ -1,0 +1,4 @@
+- pkg:maven/com.oneandone/snmpman@1.1.54
+- pkg:maven/com.oneandone/snmpman@1.1.54?classifier=sources
+- pkg:maven/com.oneandone/snmpman@1.2.56
+- pkg:maven/com.oneandone/snmpman@1.2.56?classifier=sources

@@ -5,3 +5,8 @@
 - pkg:maven/org.webjars/jshint@2.4.1
 - pkg:maven/org.webjars/jshint@2.4.1-1
 - pkg:maven/org.webjars/jshint@2.4.3
+- pkg:maven/org.webjars/jshint@2.6.3
+- pkg:maven/org.webjars/jshint@2.6.3-1
+- pkg:maven/org.webjars/jshint@2.6.3-2
+- pkg:maven/org.webjars/jshint@2.8.0
+- pkg:maven/org.webjars/jshint@2.9.1-rc1

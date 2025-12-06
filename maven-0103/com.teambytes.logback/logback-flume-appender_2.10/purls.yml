@@ -1,0 +1,2 @@
+- pkg:maven/com.teambytes.logback/logback-flume-appender_2.10@0.0.9
+- pkg:maven/com.teambytes.logback/logback-flume-appender_2.10@0.0.9?classifier=sources

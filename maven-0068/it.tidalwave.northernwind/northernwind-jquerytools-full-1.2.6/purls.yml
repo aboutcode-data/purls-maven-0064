@@ -12,3 +12,5 @@
 - pkg:maven/it.tidalwave.northernwind/northernwind-jquerytools-full-1.2.6@6?classifier=sources
 - pkg:maven/it.tidalwave.northernwind/northernwind-jquerytools-full-1.2.6@7
 - pkg:maven/it.tidalwave.northernwind/northernwind-jquerytools-full-1.2.6@7?classifier=sources
+- pkg:maven/it.tidalwave.northernwind/northernwind-jquerytools-full-1.2.6@8
+- pkg:maven/it.tidalwave.northernwind/northernwind-jquerytools-full-1.2.6@8?classifier=sources

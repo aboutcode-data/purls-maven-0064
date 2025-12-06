@@ -1,0 +1,6 @@
+- pkg:maven/com.hiddenstage.easysharedpreferences/library@0.1.0-STAGING?classifier=sources
+- pkg:maven/com.hiddenstage.easysharedpreferences/library@0.1.0-STAGING?type=aar
+- pkg:maven/com.hiddenstage.easysharedpreferences/library@0.1.1?classifier=sources
+- pkg:maven/com.hiddenstage.easysharedpreferences/library@0.1.1?type=aar
+- pkg:maven/com.hiddenstage.easysharedpreferences/library@0.1.2?classifier=sources
+- pkg:maven/com.hiddenstage.easysharedpreferences/library@0.1.2?type=aar

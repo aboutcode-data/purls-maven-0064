@@ -1,0 +1,2 @@
+- pkg:maven/com.stormpath.sdk/stormpath-web-fragment@1.0.RC3.preview.0
+- pkg:maven/com.stormpath.sdk/stormpath-web-fragment@1.0.RC3.preview.0?classifier=sources

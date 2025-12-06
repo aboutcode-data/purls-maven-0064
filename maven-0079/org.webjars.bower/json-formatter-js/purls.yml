@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/json-formatter-js@0.3.0
+- pkg:maven/org.webjars.bower/json-formatter-js@0.3.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.nutz/nutz-plugins-views@1.b.52.preview
+- pkg:maven/org.nutz/nutz-plugins-views@1.b.52.preview?classifier=sources
+- pkg:maven/org.nutz/nutz-plugins-views@1.b.53
+- pkg:maven/org.nutz/nutz-plugins-views@1.b.53?classifier=sources

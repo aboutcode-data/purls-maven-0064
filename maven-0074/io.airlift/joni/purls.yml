@@ -1,0 +1,2 @@
+- pkg:maven/io.airlift/joni@2.1.5.1
+- pkg:maven/io.airlift/joni@2.1.5.1?classifier=sources

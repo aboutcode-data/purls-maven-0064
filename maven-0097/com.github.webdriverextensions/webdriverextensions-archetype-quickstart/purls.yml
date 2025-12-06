@@ -1,0 +1,13 @@
+- pkg:maven/com.github.webdriverextensions/webdriverextensions-archetype-quickstart@1.0.1?classifier=sources
+- pkg:maven/com.github.webdriverextensions/webdriverextensions-archetype-quickstart@1.0.2?classifier=sources
+- pkg:maven/com.github.webdriverextensions/webdriverextensions-archetype-quickstart@1.0?classifier=sources
+- pkg:maven/com.github.webdriverextensions/webdriverextensions-archetype-quickstart@1.1.0?classifier=sources
+- pkg:maven/com.github.webdriverextensions/webdriverextensions-archetype-quickstart@1.2.0?classifier=sources
+- pkg:maven/com.github.webdriverextensions/webdriverextensions-archetype-quickstart@1.3.0?classifier=sources
+- pkg:maven/com.github.webdriverextensions/webdriverextensions-archetype-quickstart@1.4.0?classifier=sources
+- pkg:maven/com.github.webdriverextensions/webdriverextensions-archetype-quickstart@1.5.0?classifier=sources
+- pkg:maven/com.github.webdriverextensions/webdriverextensions-archetype-quickstart@1.6.0?classifier=sources
+- pkg:maven/com.github.webdriverextensions/webdriverextensions-archetype-quickstart@1.7.0?classifier=sources
+- pkg:maven/com.github.webdriverextensions/webdriverextensions-archetype-quickstart@1.8.0?classifier=sources
+- pkg:maven/com.github.webdriverextensions/webdriverextensions-archetype-quickstart@2.0.0?classifier=sources
+- pkg:maven/com.github.webdriverextensions/webdriverextensions-archetype-quickstart@2.1.0?classifier=sources

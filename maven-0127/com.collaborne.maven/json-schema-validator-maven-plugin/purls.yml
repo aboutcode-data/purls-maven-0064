@@ -1,0 +1,2 @@
+- pkg:maven/com.collaborne.maven/json-schema-validator-maven-plugin@1.0-beta-1
+- pkg:maven/com.collaborne.maven/json-schema-validator-maven-plugin@1.0-beta-1?classifier=sources

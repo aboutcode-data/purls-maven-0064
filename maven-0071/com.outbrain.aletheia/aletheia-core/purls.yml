@@ -1,0 +1,2 @@
+- pkg:maven/com.outbrain.aletheia/aletheia-core@0.17
+- pkg:maven/com.outbrain.aletheia/aletheia-core@0.17?classifier=sources

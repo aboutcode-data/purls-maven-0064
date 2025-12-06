@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bower/autosize@2.0.0
+- pkg:maven/org.webjars.bower/autosize@2.0.0?classifier=sources
+- pkg:maven/org.webjars.bower/autosize@3.0.13
+- pkg:maven/org.webjars.bower/autosize@3.0.13?classifier=sources

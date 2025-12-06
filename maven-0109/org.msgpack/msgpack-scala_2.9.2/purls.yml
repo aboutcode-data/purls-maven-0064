@@ -1,3 +1,5 @@
+- pkg:maven/org.msgpack/msgpack-scala_2.9.2@0.6.11
+- pkg:maven/org.msgpack/msgpack-scala_2.9.2@0.6.11?classifier=sources
 - pkg:maven/org.msgpack/msgpack-scala_2.9.2@0.6.7
 - pkg:maven/org.msgpack/msgpack-scala_2.9.2@0.6.7?classifier=sources
 - pkg:maven/org.msgpack/msgpack-scala_2.9.2@0.6.8

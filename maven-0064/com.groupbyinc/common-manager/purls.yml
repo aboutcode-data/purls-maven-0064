@@ -1,0 +1,8 @@
+- pkg:maven/com.groupbyinc/common-manager@38
+- pkg:maven/com.groupbyinc/common-manager@38?classifier=sources
+- pkg:maven/com.groupbyinc/common-manager@39
+- pkg:maven/com.groupbyinc/common-manager@39?classifier=sources
+- pkg:maven/com.groupbyinc/common-manager@40
+- pkg:maven/com.groupbyinc/common-manager@40?classifier=sources
+- pkg:maven/com.groupbyinc/common-manager@41
+- pkg:maven/com.groupbyinc/common-manager@41?classifier=sources

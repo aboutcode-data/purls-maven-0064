@@ -1,0 +1,2 @@
+- pkg:maven/eu.socialsensor/socialmedia-abstractions@0.2
+- pkg:maven/eu.socialsensor/socialmedia-abstractions@0.2?classifier=sources

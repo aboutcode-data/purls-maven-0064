@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.sqltools.parsers.sql.query@1.2.1.v201201250511
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.sqltools.parsers.sql.query@1.2.1.v201201250511?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.everit.i18n/org.everit.i18n.propsxlsconverter@1.0.0
+- pkg:maven/org.everit.i18n/org.everit.i18n.propsxlsconverter@1.0.0?classifier=sources
+- pkg:maven/org.everit.i18n/org.everit.i18n.propsxlsconverter@1.0.1
+- pkg:maven/org.everit.i18n/org.everit.i18n.propsxlsconverter@1.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/cc.fozone/Support.FO@1.0.0.RELEASE
+- pkg:maven/cc.fozone/Support.FO@1.0.0.RELEASE?classifier=sources

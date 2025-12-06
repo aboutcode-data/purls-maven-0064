@@ -1,0 +1,8 @@
+- pkg:maven/se.ugli.durian/durian-java-jackson@0.9.11
+- pkg:maven/se.ugli.durian/durian-java-jackson@0.9.11?classifier=sources
+- pkg:maven/se.ugli.durian/durian-java-jackson@0.9.13
+- pkg:maven/se.ugli.durian/durian-java-jackson@0.9.13?classifier=sources
+- pkg:maven/se.ugli.durian/durian-java-jackson@0.9.14
+- pkg:maven/se.ugli.durian/durian-java-jackson@0.9.14?classifier=sources
+- pkg:maven/se.ugli.durian/durian-java-jackson@0.9.15
+- pkg:maven/se.ugli.durian/durian-java-jackson@0.9.15?classifier=sources

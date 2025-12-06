@@ -1,0 +1,8 @@
+- pkg:maven/de.alpharogroup/dating.system.client@2.0.0
+- pkg:maven/de.alpharogroup/dating.system.client@2.0.0?classifier=sources
+- pkg:maven/de.alpharogroup/dating.system.client@2.1.0
+- pkg:maven/de.alpharogroup/dating.system.client@2.1.0?classifier=sources
+- pkg:maven/de.alpharogroup/dating.system.client@2.2.0
+- pkg:maven/de.alpharogroup/dating.system.client@2.2.0?classifier=sources
+- pkg:maven/de.alpharogroup/dating.system.client@3.0.0
+- pkg:maven/de.alpharogroup/dating.system.client@3.0.0?classifier=sources

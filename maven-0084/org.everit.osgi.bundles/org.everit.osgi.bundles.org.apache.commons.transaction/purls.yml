@@ -1,0 +1,2 @@
+- pkg:maven/org.everit.osgi.bundles/org.everit.osgi.bundles.org.apache.commons.transaction@2.0.0-20150617
+- pkg:maven/org.everit.osgi.bundles/org.everit.osgi.bundles.org.apache.commons.transaction@2.0.0-20150617?classifier=sources

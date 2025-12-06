@@ -1,0 +1,2 @@
+- pkg:maven/com.github.stuxuhai/log4j2-kafka@1.0
+- pkg:maven/com.github.stuxuhai/log4j2-kafka@1.0?classifier=sources

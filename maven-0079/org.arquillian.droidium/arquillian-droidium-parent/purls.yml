@@ -3,3 +3,5 @@
 - pkg:maven/org.arquillian.droidium/arquillian-droidium-parent@1.0.0.Alpha3?classifier=source-release&type=zip
 - pkg:maven/org.arquillian.droidium/arquillian-droidium-parent@1.0.0.Alpha4?classifier=source-release&type=zip
 - pkg:maven/org.arquillian.droidium/arquillian-droidium-parent@1.0.0.Alpha5?classifier=source-release&type=zip
+- pkg:maven/org.arquillian.droidium/arquillian-droidium-parent@1.0.0.Alpha6?classifier=source-release&type=zip
+- pkg:maven/org.arquillian.droidium/arquillian-droidium-parent@1.0.0.Final?classifier=source-release&type=zip

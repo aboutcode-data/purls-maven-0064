@@ -1,0 +1,2 @@
+- pkg:maven/com.thinkaurelius.groovy-shaded-asm/groovy-shaded-asm@1.8.9
+- pkg:maven/com.thinkaurelius.groovy-shaded-asm/groovy-shaded-asm@1.8.9?classifier=sources

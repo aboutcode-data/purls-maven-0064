@@ -1,0 +1,2 @@
+- pkg:maven/in.jlibs/org-netbeans-api-visual@RELEASE65
+- pkg:maven/in.jlibs/org-netbeans-api-visual@RELEASE65?classifier=sources

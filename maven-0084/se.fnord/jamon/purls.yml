@@ -1,0 +1,2 @@
+- pkg:maven/se.fnord/jamon@1.1.0
+- pkg:maven/se.fnord/jamon@1.1.0?classifier=sources

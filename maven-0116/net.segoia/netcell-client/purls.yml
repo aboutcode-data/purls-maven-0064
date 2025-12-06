@@ -1,0 +1,2 @@
+- pkg:maven/net.segoia/netcell-client@0.0.1
+- pkg:maven/net.segoia/netcell-client@0.0.1?classifier=sources

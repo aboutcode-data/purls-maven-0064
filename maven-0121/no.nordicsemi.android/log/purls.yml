@@ -1,0 +1,2 @@
+- pkg:maven/no.nordicsemi.android/log@2.0.0?classifier=sources
+- pkg:maven/no.nordicsemi.android/log@2.0.0?type=aar

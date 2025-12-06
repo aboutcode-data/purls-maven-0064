@@ -1,0 +1,12 @@
+- pkg:maven/com.github.davidmoten/xuml-diagrams@0.2.1?classifier=sources
+- pkg:maven/com.github.davidmoten/xuml-diagrams@0.2.1?type=war
+- pkg:maven/com.github.davidmoten/xuml-diagrams@0.3.1?classifier=sources
+- pkg:maven/com.github.davidmoten/xuml-diagrams@0.3.1?type=war
+- pkg:maven/com.github.davidmoten/xuml-diagrams@0.3?classifier=sources
+- pkg:maven/com.github.davidmoten/xuml-diagrams@0.3?type=war
+- pkg:maven/com.github.davidmoten/xuml-diagrams@0.4.1?classifier=sources
+- pkg:maven/com.github.davidmoten/xuml-diagrams@0.4.1?type=war
+- pkg:maven/com.github.davidmoten/xuml-diagrams@0.4.2?classifier=sources
+- pkg:maven/com.github.davidmoten/xuml-diagrams@0.4.2?type=war
+- pkg:maven/com.github.davidmoten/xuml-diagrams@0.4.3?classifier=sources
+- pkg:maven/com.github.davidmoten/xuml-diagrams@0.4.3?type=war

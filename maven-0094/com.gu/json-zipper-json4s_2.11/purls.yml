@@ -1,0 +1,2 @@
+- pkg:maven/com.gu/json-zipper-json4s_2.11@0.2
+- pkg:maven/com.gu/json-zipper-json4s_2.11@0.2?classifier=sources
