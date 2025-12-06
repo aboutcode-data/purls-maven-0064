@@ -3,3 +3,4 @@
 - pkg:maven/org.powermock/powermock-module-test-mockito-junit4-delegate@1.6.2
 - pkg:maven/org.powermock/powermock-module-test-mockito-junit4-delegate@1.6.3
 - pkg:maven/org.powermock/powermock-module-test-mockito-junit4-delegate@1.6.4
+- pkg:maven/org.powermock/powermock-module-test-mockito-junit4-delegate@1.6.5

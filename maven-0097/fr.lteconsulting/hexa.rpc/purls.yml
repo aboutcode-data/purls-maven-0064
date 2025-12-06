@@ -1,0 +1,2 @@
+- pkg:maven/fr.lteconsulting/hexa.rpc@1.4
+- pkg:maven/fr.lteconsulting/hexa.rpc@1.4?classifier=sources

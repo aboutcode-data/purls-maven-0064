@@ -10,3 +10,11 @@
 - pkg:maven/com.nimbusds/c2id-server-ldap-schemas@1.4.1
 - pkg:maven/com.nimbusds/c2id-server-ldap-schemas@1.4.1?classifier=sources
 - pkg:maven/com.nimbusds/c2id-server-ldap-schemas@1.4?classifier=sources
+- pkg:maven/com.nimbusds/c2id-server-ldap-schemas@1.5
+- pkg:maven/com.nimbusds/c2id-server-ldap-schemas@1.5?classifier=sources
+- pkg:maven/com.nimbusds/c2id-server-ldap-schemas@1.6
+- pkg:maven/com.nimbusds/c2id-server-ldap-schemas@1.6?classifier=sources
+- pkg:maven/com.nimbusds/c2id-server-ldap-schemas@1.7
+- pkg:maven/com.nimbusds/c2id-server-ldap-schemas@1.7?classifier=sources
+- pkg:maven/com.nimbusds/c2id-server-ldap-schemas@1.8
+- pkg:maven/com.nimbusds/c2id-server-ldap-schemas@1.8?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/se.skltp.patch.mule.transport.http/skltp-patch-mule-transport-http@1.0
+- pkg:maven/se.skltp.patch.mule.transport.http/skltp-patch-mule-transport-http@1.0-RC1
+- pkg:maven/se.skltp.patch.mule.transport.http/skltp-patch-mule-transport-http@1.0-RC1?classifier=sources
+- pkg:maven/se.skltp.patch.mule.transport.http/skltp-patch-mule-transport-http@1.0?classifier=sources
+- pkg:maven/se.skltp.patch.mule.transport.http/skltp-patch-mule-transport-http@1.1
+- pkg:maven/se.skltp.patch.mule.transport.http/skltp-patch-mule-transport-http@1.1?classifier=sources

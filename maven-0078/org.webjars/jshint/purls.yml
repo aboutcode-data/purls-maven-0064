@@ -9,4 +9,6 @@
 - pkg:maven/org.webjars/jshint@2.6.3-1
 - pkg:maven/org.webjars/jshint@2.6.3-2
 - pkg:maven/org.webjars/jshint@2.8.0
+- pkg:maven/org.webjars/jshint@2.9.1
 - pkg:maven/org.webjars/jshint@2.9.1-rc1
+- pkg:maven/org.webjars/jshint@2.9.3

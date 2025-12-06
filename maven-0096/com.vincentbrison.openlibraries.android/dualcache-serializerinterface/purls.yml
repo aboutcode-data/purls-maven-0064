@@ -1,0 +1,2 @@
+- pkg:maven/com.vincentbrison.openlibraries.android/dualcache-serializerinterface@3.0.0
+- pkg:maven/com.vincentbrison.openlibraries.android/dualcache-serializerinterface@3.0.0?classifier=sources

@@ -7,3 +7,6 @@
 - pkg:maven/de.otto/hmac-auth-proxy@1.2.4?classifier=sources
 - pkg:maven/de.otto/hmac-auth-proxy@1.2.8?classifier=sources
 - pkg:maven/de.otto/hmac-auth-proxy@1.2.9?classifier=sources
+- pkg:maven/de.otto/hmac-auth-proxy@2.0.0?classifier=sources
+- pkg:maven/de.otto/hmac-auth-proxy@2.1.0?classifier=sources
+- pkg:maven/de.otto/hmac-auth-proxy@2.2.0?classifier=sources

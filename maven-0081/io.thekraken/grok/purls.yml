@@ -6,3 +6,7 @@
 - pkg:maven/io.thekraken/grok@0.1.0?classifier=sources
 - pkg:maven/io.thekraken/grok@0.1.1
 - pkg:maven/io.thekraken/grok@0.1.1?classifier=sources
+- pkg:maven/io.thekraken/grok@0.1.3
+- pkg:maven/io.thekraken/grok@0.1.3?classifier=sources
+- pkg:maven/io.thekraken/grok@0.1.4
+- pkg:maven/io.thekraken/grok@0.1.4?classifier=sources

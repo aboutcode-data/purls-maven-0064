@@ -1,0 +1,4 @@
+- pkg:maven/org.kaazing/netx.ws@0.4.0
+- pkg:maven/org.kaazing/netx.ws@0.4.0-RC001
+- pkg:maven/org.kaazing/netx.ws@0.4.0-RC001?classifier=sources
+- pkg:maven/org.kaazing/netx.ws@0.4.0?classifier=sources

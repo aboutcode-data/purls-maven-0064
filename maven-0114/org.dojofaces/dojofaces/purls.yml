@@ -1,0 +1,2 @@
+- pkg:maven/org.dojofaces/dojofaces@1.4_00
+- pkg:maven/org.dojofaces/dojofaces@1.4_00?classifier=sources

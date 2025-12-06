@@ -6,3 +6,7 @@
 - pkg:maven/com.graphaware.integration.es/neo4j-to-elasticsearch@2.3.1.35.1?classifier=sources
 - pkg:maven/com.graphaware.integration.es/neo4j-to-elasticsearch@2.3.1.36.1
 - pkg:maven/com.graphaware.integration.es/neo4j-to-elasticsearch@2.3.1.36.1?classifier=sources
+- pkg:maven/com.graphaware.integration.es/neo4j-to-elasticsearch@2.3.2.37.1
+- pkg:maven/com.graphaware.integration.es/neo4j-to-elasticsearch@2.3.2.37.1?classifier=sources
+- pkg:maven/com.graphaware.integration.es/neo4j-to-elasticsearch@2.3.3.37.1
+- pkg:maven/com.graphaware.integration.es/neo4j-to-elasticsearch@2.3.3.37.1?classifier=sources

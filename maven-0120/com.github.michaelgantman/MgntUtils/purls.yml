@@ -1,0 +1,4 @@
+- pkg:maven/com.github.michaelgantman/MgntUtils@1.03
+- pkg:maven/com.github.michaelgantman/MgntUtils@1.03?classifier=sources
+- pkg:maven/com.github.michaelgantman/MgntUtils@1.04
+- pkg:maven/com.github.michaelgantman/MgntUtils@1.04?classifier=sources

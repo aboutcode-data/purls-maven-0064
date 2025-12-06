@@ -1,2 +1,4 @@
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-jaxrs-1.1-openshift-integration@0.10.0.Final
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-jaxrs-1.1-openshift-integration@0.10.0.Final?classifier=sources
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-jaxrs-1.1-openshift-integration@0.11.0.Final
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-jaxrs-1.1-openshift-integration@0.11.0.Final?classifier=sources

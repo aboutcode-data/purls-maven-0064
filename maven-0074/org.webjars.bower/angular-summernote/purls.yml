@@ -1,2 +1,6 @@
 - pkg:maven/org.webjars.bower/angular-summernote@0.3.2
 - pkg:maven/org.webjars.bower/angular-summernote@0.3.2?classifier=sources
+- pkg:maven/org.webjars.bower/angular-summernote@0.8.0
+- pkg:maven/org.webjars.bower/angular-summernote@0.8.0?classifier=sources
+- pkg:maven/org.webjars.bower/angular-summernote@0.8.1
+- pkg:maven/org.webjars.bower/angular-summernote@0.8.1?classifier=sources

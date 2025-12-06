@@ -1,0 +1,2 @@
+- pkg:maven/com.blazegraph.sample/sample-blueprints-remote@2.0.0
+- pkg:maven/com.blazegraph.sample/sample-blueprints-remote@2.0.0?classifier=sources

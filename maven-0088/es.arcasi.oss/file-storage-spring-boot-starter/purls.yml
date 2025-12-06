@@ -1,0 +1,2 @@
+- pkg:maven/es.arcasi.oss/file-storage-spring-boot-starter@0.00.001
+- pkg:maven/es.arcasi.oss/file-storage-spring-boot-starter@0.00.001?classifier=sources

@@ -1,2 +1,8 @@
+- pkg:maven/net.oauth.core/oauth@20090531
+- pkg:maven/net.oauth.core/oauth@20090531?classifier=sources
+- pkg:maven/net.oauth.core/oauth@20090617
+- pkg:maven/net.oauth.core/oauth@20090617?classifier=sources
+- pkg:maven/net.oauth.core/oauth@20090825
+- pkg:maven/net.oauth.core/oauth@20090825?classifier=sources
 - pkg:maven/net.oauth.core/oauth@20100527
 - pkg:maven/net.oauth.core/oauth@20100527?classifier=sources

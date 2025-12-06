@@ -1,0 +1,2 @@
+- pkg:maven/org.lindbergframework/lindbergframework@1.0
+- pkg:maven/org.lindbergframework/lindbergframework@1.0?classifier=sources

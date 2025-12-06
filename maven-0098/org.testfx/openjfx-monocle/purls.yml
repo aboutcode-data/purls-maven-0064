@@ -1,2 +1,10 @@
 - pkg:maven/org.testfx/openjfx-monocle@1.8.0_20
 - pkg:maven/org.testfx/openjfx-monocle@1.8.0_20?classifier=sources
+- pkg:maven/org.testfx/openjfx-monocle@8u20-b26
+- pkg:maven/org.testfx/openjfx-monocle@8u20-b26?classifier=sources
+- pkg:maven/org.testfx/openjfx-monocle@8u40-b27
+- pkg:maven/org.testfx/openjfx-monocle@8u40-b27?classifier=sources
+- pkg:maven/org.testfx/openjfx-monocle@8u60-b27
+- pkg:maven/org.testfx/openjfx-monocle@8u60-b27?classifier=sources
+- pkg:maven/org.testfx/openjfx-monocle@8u76-b04
+- pkg:maven/org.testfx/openjfx-monocle@8u76-b04?classifier=sources

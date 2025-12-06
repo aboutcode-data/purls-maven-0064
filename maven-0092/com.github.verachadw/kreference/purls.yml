@@ -6,3 +6,9 @@
 - pkg:maven/com.github.verachadw/kreference@0.3.1?type=aar
 - pkg:maven/com.github.verachadw/kreference@0.4.0?classifier=sources
 - pkg:maven/com.github.verachadw/kreference@0.4.0?type=aar
+- pkg:maven/com.github.verachadw/kreference@0.5.0?classifier=sources
+- pkg:maven/com.github.verachadw/kreference@0.5.0?type=aar
+- pkg:maven/com.github.verachadw/kreference@0.6.0?classifier=sources
+- pkg:maven/com.github.verachadw/kreference@0.6.0?type=aar
+- pkg:maven/com.github.verachadw/kreference@0.7.0?classifier=sources
+- pkg:maven/com.github.verachadw/kreference@0.7.0?type=aar

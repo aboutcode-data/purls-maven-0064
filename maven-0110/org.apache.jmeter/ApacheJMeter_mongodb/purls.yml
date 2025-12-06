@@ -2,3 +2,4 @@
 - pkg:maven/org.apache.jmeter/ApacheJMeter_mongodb@2.11
 - pkg:maven/org.apache.jmeter/ApacheJMeter_mongodb@2.12
 - pkg:maven/org.apache.jmeter/ApacheJMeter_mongodb@2.13
+- pkg:maven/org.apache.jmeter/ApacheJMeter_mongodb@3.0

@@ -1,0 +1,4 @@
+- pkg:maven/co.lujun/lmbluetoothsdk@1.0.1?classifier=sources
+- pkg:maven/co.lujun/lmbluetoothsdk@1.0.1?type=aar
+- pkg:maven/co.lujun/lmbluetoothsdk@1.0.2?classifier=sources
+- pkg:maven/co.lujun/lmbluetoothsdk@1.0.2?type=aar

@@ -1,0 +1,4 @@
+- pkg:maven/com.devfigas/marshmallow-permission@0.0.3?classifier=sources
+- pkg:maven/com.devfigas/marshmallow-permission@0.0.3?type=aar
+- pkg:maven/com.devfigas/marshmallow-permission@0.0.9?classifier=sources
+- pkg:maven/com.devfigas/marshmallow-permission@0.0.9?type=aar

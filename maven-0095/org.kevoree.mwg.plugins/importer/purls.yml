@@ -1,0 +1,14 @@
+- pkg:maven/org.kevoree.mwg.plugins/importer@1
+- pkg:maven/org.kevoree.mwg.plugins/importer@1?classifier=sources
+- pkg:maven/org.kevoree.mwg.plugins/importer@2
+- pkg:maven/org.kevoree.mwg.plugins/importer@2?classifier=sources
+- pkg:maven/org.kevoree.mwg.plugins/importer@3
+- pkg:maven/org.kevoree.mwg.plugins/importer@3?classifier=sources
+- pkg:maven/org.kevoree.mwg.plugins/importer@4
+- pkg:maven/org.kevoree.mwg.plugins/importer@4?classifier=sources
+- pkg:maven/org.kevoree.mwg.plugins/importer@5
+- pkg:maven/org.kevoree.mwg.plugins/importer@5?classifier=sources
+- pkg:maven/org.kevoree.mwg.plugins/importer@6
+- pkg:maven/org.kevoree.mwg.plugins/importer@6?classifier=sources
+- pkg:maven/org.kevoree.mwg.plugins/importer@7
+- pkg:maven/org.kevoree.mwg.plugins/importer@7?classifier=sources

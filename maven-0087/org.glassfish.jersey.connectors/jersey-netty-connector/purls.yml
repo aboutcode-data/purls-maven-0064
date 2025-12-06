@@ -1,0 +1,2 @@
+- pkg:maven/org.glassfish.jersey.connectors/jersey-netty-connector@2.23.2
+- pkg:maven/org.glassfish.jersey.connectors/jersey-netty-connector@2.23.2?classifier=sources

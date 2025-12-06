@@ -1,0 +1,2 @@
+- pkg:maven/com.tridion/cwd-image-proxy@8.1.1-1017
+- pkg:maven/com.tridion/cwd-image-proxy@8.1.1-1017?classifier=sources

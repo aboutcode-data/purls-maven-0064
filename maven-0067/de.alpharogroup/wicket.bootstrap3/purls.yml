@@ -6,5 +6,9 @@
 - pkg:maven/de.alpharogroup/wicket.bootstrap3@6.20.0?classifier=sources
 - pkg:maven/de.alpharogroup/wicket.bootstrap3@6.20.1
 - pkg:maven/de.alpharogroup/wicket.bootstrap3@6.20.1?classifier=sources
+- pkg:maven/de.alpharogroup/wicket.bootstrap3@6.21.0
+- pkg:maven/de.alpharogroup/wicket.bootstrap3@6.21.0?classifier=sources
 - pkg:maven/de.alpharogroup/wicket.bootstrap3@7.1.0
 - pkg:maven/de.alpharogroup/wicket.bootstrap3@7.1.0?classifier=sources
+- pkg:maven/de.alpharogroup/wicket.bootstrap3@7.3.0
+- pkg:maven/de.alpharogroup/wicket.bootstrap3@7.3.0?classifier=sources

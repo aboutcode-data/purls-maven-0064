@@ -1,0 +1,2 @@
+- pkg:maven/com.aurelhubert/polarchart@0.1.0?classifier=sources
+- pkg:maven/com.aurelhubert/polarchart@0.1.0?type=aar

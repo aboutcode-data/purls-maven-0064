@@ -4,3 +4,7 @@
 - pkg:maven/org.webjars.bower/angular-dynamic-locale@0.1.28?classifier=sources
 - pkg:maven/org.webjars.bower/angular-dynamic-locale@0.1.29
 - pkg:maven/org.webjars.bower/angular-dynamic-locale@0.1.29?classifier=sources
+- pkg:maven/org.webjars.bower/angular-dynamic-locale@0.1.30
+- pkg:maven/org.webjars.bower/angular-dynamic-locale@0.1.30?classifier=sources
+- pkg:maven/org.webjars.bower/angular-dynamic-locale@0.1.32
+- pkg:maven/org.webjars.bower/angular-dynamic-locale@0.1.32?classifier=sources

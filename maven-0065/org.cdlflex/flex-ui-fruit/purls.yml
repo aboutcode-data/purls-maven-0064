@@ -14,3 +14,7 @@
 - pkg:maven/org.cdlflex/flex-ui-fruit@0.7.0?classifier=sources
 - pkg:maven/org.cdlflex/flex-ui-fruit@0.7.1
 - pkg:maven/org.cdlflex/flex-ui-fruit@0.7.1?classifier=sources
+- pkg:maven/org.cdlflex/flex-ui-fruit@0.7.2
+- pkg:maven/org.cdlflex/flex-ui-fruit@0.7.2?classifier=sources
+- pkg:maven/org.cdlflex/flex-ui-fruit@0.8.0
+- pkg:maven/org.cdlflex/flex-ui-fruit@0.8.0?classifier=sources

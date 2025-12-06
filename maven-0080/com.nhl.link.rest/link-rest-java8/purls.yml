@@ -1,0 +1,4 @@
+- pkg:maven/com.nhl.link.rest/link-rest-java8@1.23
+- pkg:maven/com.nhl.link.rest/link-rest-java8@1.23?classifier=sources
+- pkg:maven/com.nhl.link.rest/link-rest-java8@1.24
+- pkg:maven/com.nhl.link.rest/link-rest-java8@1.24?classifier=sources

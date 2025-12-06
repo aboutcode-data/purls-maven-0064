@@ -4,3 +4,4 @@
 - pkg:maven/org.apache.sqoop.connector/sqoop-connector-generic-jdbc@1.99.4
 - pkg:maven/org.apache.sqoop.connector/sqoop-connector-generic-jdbc@1.99.5
 - pkg:maven/org.apache.sqoop.connector/sqoop-connector-generic-jdbc@1.99.6
+- pkg:maven/org.apache.sqoop.connector/sqoop-connector-generic-jdbc@1.99.7

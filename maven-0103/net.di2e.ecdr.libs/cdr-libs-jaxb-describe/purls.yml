@@ -1,0 +1,2 @@
+- pkg:maven/net.di2e.ecdr.libs/cdr-libs-jaxb-describe@1.2.0
+- pkg:maven/net.di2e.ecdr.libs/cdr-libs-jaxb-describe@1.2.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.slieb/kute-service@1.0
 - pkg:maven/org.slieb/kute-service@1.0?classifier=sources
+- pkg:maven/org.slieb/kute-service@2.5
+- pkg:maven/org.slieb/kute-service@2.5?classifier=sources

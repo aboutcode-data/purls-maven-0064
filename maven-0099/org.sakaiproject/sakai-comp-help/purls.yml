@@ -1,2 +1,4 @@
 - pkg:maven/org.sakaiproject/sakai-comp-help@10.3?classifier=sources
 - pkg:maven/org.sakaiproject/sakai-comp-help@10.4?classifier=sources
+- pkg:maven/org.sakaiproject/sakai-comp-help@10.6?classifier=sources
+- pkg:maven/org.sakaiproject/sakai-comp-help@10.7?classifier=sources

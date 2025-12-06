@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/babel-plugin-syntax-decorators@6.1.18
+- pkg:maven/org.webjars.npm/babel-plugin-syntax-decorators@6.1.18?classifier=sources
+- pkg:maven/org.webjars.npm/babel-plugin-syntax-decorators@6.3.13
+- pkg:maven/org.webjars.npm/babel-plugin-syntax-decorators@6.3.13?classifier=sources

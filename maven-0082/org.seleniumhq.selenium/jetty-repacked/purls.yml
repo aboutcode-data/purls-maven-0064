@@ -4,3 +4,5 @@
 - pkg:maven/org.seleniumhq.selenium/jetty-repacked@7.6.1?classifier=sources
 - pkg:maven/org.seleniumhq.selenium/jetty-repacked@9.2.13.v20150730
 - pkg:maven/org.seleniumhq.selenium/jetty-repacked@9.2.13.v20150730?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/jetty-repacked@9.2.13.v20160825
+- pkg:maven/org.seleniumhq.selenium/jetty-repacked@9.2.13.v20160825?classifier=sources

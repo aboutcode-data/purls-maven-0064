@@ -14,3 +14,13 @@
 - pkg:maven/io.keen/keen-client-java-core@2.1.1?classifier=sources
 - pkg:maven/io.keen/keen-client-java-core@2.1.2
 - pkg:maven/io.keen/keen-client-java-core@2.1.2?classifier=sources
+- pkg:maven/io.keen/keen-client-java-core@2.2.0
+- pkg:maven/io.keen/keen-client-java-core@2.2.0?classifier=sources
+- pkg:maven/io.keen/keen-client-java-core@3.0.0
+- pkg:maven/io.keen/keen-client-java-core@3.0.0?classifier=sources
+- pkg:maven/io.keen/keen-client-java-core@4.0.0
+- pkg:maven/io.keen/keen-client-java-core@4.0.0?classifier=sources
+- pkg:maven/io.keen/keen-client-java-core@5.0.0
+- pkg:maven/io.keen/keen-client-java-core@5.0.0?classifier=sources
+- pkg:maven/io.keen/keen-client-java-core@5.0.1
+- pkg:maven/io.keen/keen-client-java-core@5.0.1?classifier=sources

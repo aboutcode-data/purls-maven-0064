@@ -13,3 +13,5 @@
 - pkg:maven/net.sourceforge/jwbf@3.0.0?classifier=sources
 - pkg:maven/net.sourceforge/jwbf@3.1.0
 - pkg:maven/net.sourceforge/jwbf@3.1.0?classifier=sources
+- pkg:maven/net.sourceforge/jwbf@3.1.1
+- pkg:maven/net.sourceforge/jwbf@3.1.1?classifier=sources

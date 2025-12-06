@@ -1,0 +1,4 @@
+- pkg:maven/edu.stanford.swrl/swrlapi-example@1.0.0-beta-52
+- pkg:maven/edu.stanford.swrl/swrlapi-example@1.0.0-beta-52?classifier=sources
+- pkg:maven/edu.stanford.swrl/swrlapi-example@1.0.3
+- pkg:maven/edu.stanford.swrl/swrlapi-example@1.0.3?classifier=sources

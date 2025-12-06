@@ -1,0 +1,2 @@
+- pkg:maven/net.morimekta.providence/providence-internal@0.0.1
+- pkg:maven/net.morimekta.providence/providence-internal@0.0.1?classifier=sources

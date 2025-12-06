@@ -1,0 +1,2 @@
+- pkg:maven/io.rouz/flo-api-generator@0.0.6
+- pkg:maven/io.rouz/flo-api-generator@0.0.6?classifier=sources

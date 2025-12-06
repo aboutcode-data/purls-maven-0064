@@ -1,0 +1,2 @@
+- pkg:maven/com.mgmtp.perfload.refapp/perfload-refapp@1.0.2
+- pkg:maven/com.mgmtp.perfload.refapp/perfload-refapp@1.0.2?classifier=sources

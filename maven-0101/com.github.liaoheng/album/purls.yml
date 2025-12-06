@@ -1,0 +1,4 @@
+- pkg:maven/com.github.liaoheng/album@0.1.0?classifier=sources
+- pkg:maven/com.github.liaoheng/album@0.1.0?type=aar
+- pkg:maven/com.github.liaoheng/album@1.0.0?classifier=sources
+- pkg:maven/com.github.liaoheng/album@1.0.0?type=aar

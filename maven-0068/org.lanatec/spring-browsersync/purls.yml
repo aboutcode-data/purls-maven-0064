@@ -1,0 +1,2 @@
+- pkg:maven/org.lanatec/spring-browsersync@0.1
+- pkg:maven/org.lanatec/spring-browsersync@0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/fr.apiscol.metadata/scolomfr3utils@0.0.1
+- pkg:maven/fr.apiscol.metadata/scolomfr3utils@0.0.1?classifier=sources

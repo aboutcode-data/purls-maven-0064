@@ -1,0 +1,6 @@
+- pkg:maven/org.lokra.seaweedfs/seaweedfs-client@0.7.0.RELEASE
+- pkg:maven/org.lokra.seaweedfs/seaweedfs-client@0.7.0.RELEASE?classifier=sources
+- pkg:maven/org.lokra.seaweedfs/seaweedfs-client@0.7.1.RELEASE
+- pkg:maven/org.lokra.seaweedfs/seaweedfs-client@0.7.1.RELEASE?classifier=sources
+- pkg:maven/org.lokra.seaweedfs/seaweedfs-client@0.7.2.RELEASE
+- pkg:maven/org.lokra.seaweedfs/seaweedfs-client@0.7.2.RELEASE?classifier=sources

@@ -11,4 +11,6 @@
 - pkg:maven/no.finn.unleash/unleash-client-java@1.0
 - pkg:maven/no.finn.unleash/unleash-client-java@1.0.1
 - pkg:maven/no.finn.unleash/unleash-client-java@1.0.1?classifier=sources
+- pkg:maven/no.finn.unleash/unleash-client-java@1.0.2
+- pkg:maven/no.finn.unleash/unleash-client-java@1.0.2?classifier=sources
 - pkg:maven/no.finn.unleash/unleash-client-java@1.0?classifier=sources

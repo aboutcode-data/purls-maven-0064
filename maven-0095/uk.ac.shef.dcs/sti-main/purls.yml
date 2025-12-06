@@ -1,0 +1,2 @@
+- pkg:maven/uk.ac.shef.dcs/sti-main@1.0alpha
+- pkg:maven/uk.ac.shef.dcs/sti-main@1.0alpha?classifier=sources

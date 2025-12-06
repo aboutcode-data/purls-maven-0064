@@ -8,3 +8,7 @@
 - pkg:maven/travel.izi.api/java-api@1.5.2?classifier=sources
 - pkg:maven/travel.izi.api/java-api@1.6.0
 - pkg:maven/travel.izi.api/java-api@1.6.0?classifier=sources
+- pkg:maven/travel.izi.api/java-api@2.0.0
+- pkg:maven/travel.izi.api/java-api@2.0.0?classifier=sources
+- pkg:maven/travel.izi.api/java-api@2.0.1
+- pkg:maven/travel.izi.api/java-api@2.0.1?classifier=sources

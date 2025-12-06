@@ -1,0 +1,4 @@
+- pkg:maven/com.github.pires/apache-ignite-discovery-kubernetes@1.0
+- pkg:maven/com.github.pires/apache-ignite-discovery-kubernetes@1.0?classifier=sources
+- pkg:maven/com.github.pires/apache-ignite-discovery-kubernetes@1.0_1
+- pkg:maven/com.github.pires/apache-ignite-discovery-kubernetes@1.0_1?classifier=sources

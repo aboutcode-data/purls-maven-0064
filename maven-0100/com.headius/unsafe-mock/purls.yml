@@ -1,2 +1,6 @@
 - pkg:maven/com.headius/unsafe-mock@8.0
 - pkg:maven/com.headius/unsafe-mock@8.0?classifier=sources
+- pkg:maven/com.headius/unsafe-mock@8.92
+- pkg:maven/com.headius/unsafe-mock@8.92.1
+- pkg:maven/com.headius/unsafe-mock@8.92.1?classifier=sources
+- pkg:maven/com.headius/unsafe-mock@8.92?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.groupon.monsoon/monsoon-collector-tcp@2.2
+- pkg:maven/com.github.groupon.monsoon/monsoon-collector-tcp@2.2?classifier=sources

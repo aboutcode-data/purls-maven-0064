@@ -1,0 +1,4 @@
+- pkg:maven/co.axiomzen.maven.wagons/maven-s3-wagon@1.2.4
+- pkg:maven/co.axiomzen.maven.wagons/maven-s3-wagon@1.2.4?classifier=sources
+- pkg:maven/co.axiomzen.maven.wagons/maven-s3-wagon@1.2.6
+- pkg:maven/co.axiomzen.maven.wagons/maven-s3-wagon@1.2.6?classifier=sources

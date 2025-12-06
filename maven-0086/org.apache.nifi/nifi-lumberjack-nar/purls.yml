@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.nifi/nifi-lumberjack-nar@0.7.0?classifier=sources
+- pkg:maven/org.apache.nifi/nifi-lumberjack-nar@0.7.1?classifier=sources
+- pkg:maven/org.apache.nifi/nifi-lumberjack-nar@1.0.0-BETA?classifier=sources
+- pkg:maven/org.apache.nifi/nifi-lumberjack-nar@1.0.0?classifier=sources

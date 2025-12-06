@@ -34,5 +34,7 @@
 - pkg:maven/com.fifesoft/rsyntaxtextarea@2.5.7?classifier=sources
 - pkg:maven/com.fifesoft/rsyntaxtextarea@2.5.8
 - pkg:maven/com.fifesoft/rsyntaxtextarea@2.5.8?classifier=sources
+- pkg:maven/com.fifesoft/rsyntaxtextarea@2.6.0?classifier=sources
+- pkg:maven/com.fifesoft/rsyntaxtextarea@2.6.0?classifier=src&type=zip
 - pkg:maven/com.fifesoft/rsyntaxtextarea@r239
 - pkg:maven/com.fifesoft/rsyntaxtextarea@r239?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.google.javascript/closure-compiler-linter@v20160713
+- pkg:maven/com.google.javascript/closure-compiler-linter@v20160713?classifier=sources
+- pkg:maven/com.google.javascript/closure-compiler-linter@v20160822
+- pkg:maven/com.google.javascript/closure-compiler-linter@v20160822?classifier=sources
+- pkg:maven/com.google.javascript/closure-compiler-linter@v20160911
+- pkg:maven/com.google.javascript/closure-compiler-linter@v20160911?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/knockout-pre-rendered@0.7.0
+- pkg:maven/org.webjars.bower/knockout-pre-rendered@0.7.0?classifier=sources

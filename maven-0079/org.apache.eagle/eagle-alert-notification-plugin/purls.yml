@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.eagle/eagle-alert-notification-plugin@0.4.0-incubating
+- pkg:maven/org.apache.eagle/eagle-alert-notification-plugin@0.4.0-incubating?classifier=sources

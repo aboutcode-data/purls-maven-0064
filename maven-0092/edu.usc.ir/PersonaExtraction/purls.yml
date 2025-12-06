@@ -1,0 +1,4 @@
+- pkg:maven/edu.usc.ir/PersonaExtraction@0.0.1
+- pkg:maven/edu.usc.ir/PersonaExtraction@0.0.1?classifier=sources
+- pkg:maven/edu.usc.ir/PersonaExtraction@0.2
+- pkg:maven/edu.usc.ir/PersonaExtraction@0.2?classifier=sources

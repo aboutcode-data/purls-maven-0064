@@ -1,0 +1,2 @@
+- pkg:maven/com.netflix.msl/msl-cli-server@1.1206.0?classifier=sources
+- pkg:maven/com.netflix.msl/msl-cli-server@1.1206.0?type=war

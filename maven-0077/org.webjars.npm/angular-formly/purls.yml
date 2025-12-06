@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/angular-formly@8.2.1
+- pkg:maven/org.webjars.npm/angular-formly@8.2.1?classifier=sources

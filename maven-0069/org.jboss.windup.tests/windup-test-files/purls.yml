@@ -1,0 +1,5 @@
+- pkg:maven/org.jboss.windup.tests/windup-test-files@2.5.0.CR2
+- pkg:maven/org.jboss.windup.tests/windup-test-files@2.5.0.CR3
+- pkg:maven/org.jboss.windup.tests/windup-test-files@2.5.0.Final
+- pkg:maven/org.jboss.windup.tests/windup-test-files@2.6.0.Final
+- pkg:maven/org.jboss.windup.tests/windup-test-files@2.7.0.Final

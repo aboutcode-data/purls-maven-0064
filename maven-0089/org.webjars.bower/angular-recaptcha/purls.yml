@@ -1,0 +1,8 @@
+- pkg:maven/org.webjars.bower/angular-recaptcha@2.4.1
+- pkg:maven/org.webjars.bower/angular-recaptcha@2.4.1?classifier=sources
+- pkg:maven/org.webjars.bower/angular-recaptcha@2.5.1
+- pkg:maven/org.webjars.bower/angular-recaptcha@2.5.1?classifier=sources
+- pkg:maven/org.webjars.bower/angular-recaptcha@3.0.1
+- pkg:maven/org.webjars.bower/angular-recaptcha@3.0.1?classifier=sources
+- pkg:maven/org.webjars.bower/angular-recaptcha@3.0.4
+- pkg:maven/org.webjars.bower/angular-recaptcha@3.0.4?classifier=sources

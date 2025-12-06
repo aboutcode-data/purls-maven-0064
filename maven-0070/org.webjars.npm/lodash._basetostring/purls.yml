@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/lodash._basetostring@3.0.0
 - pkg:maven/org.webjars.npm/lodash._basetostring@3.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/lodash._basetostring@4.12.0
+- pkg:maven/org.webjars.npm/lodash._basetostring@4.12.0?classifier=sources

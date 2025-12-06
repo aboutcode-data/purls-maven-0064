@@ -1,0 +1,2 @@
+- pkg:maven/com.auth0/jwks-rsa@0.1.0
+- pkg:maven/com.auth0/jwks-rsa@0.1.0?classifier=sources

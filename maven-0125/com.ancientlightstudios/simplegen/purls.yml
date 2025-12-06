@@ -1,0 +1,2 @@
+- pkg:maven/com.ancientlightstudios/simplegen@1.0.2
+- pkg:maven/com.ancientlightstudios/simplegen@1.0.2?classifier=sources

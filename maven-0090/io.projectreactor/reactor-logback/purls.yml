@@ -7,3 +7,4 @@
 - pkg:maven/io.projectreactor/reactor-logback@2.0.5.RELEASE?classifier=sources
 - pkg:maven/io.projectreactor/reactor-logback@2.0.6.RELEASE?classifier=sources
 - pkg:maven/io.projectreactor/reactor-logback@2.0.7.RELEASE?classifier=sources
+- pkg:maven/io.projectreactor/reactor-logback@2.0.8.RELEASE?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/works.lmz.web/lmz-simple-spring-webhost@1.1
+- pkg:maven/works.lmz.web/lmz-simple-spring-webhost@1.1?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/org.webjars.npm/powerbi-visuals@0.2.10
+- pkg:maven/org.webjars.npm/powerbi-visuals@0.2.10?classifier=sources
+- pkg:maven/org.webjars.npm/powerbi-visuals@0.2.9
+- pkg:maven/org.webjars.npm/powerbi-visuals@0.2.9?classifier=sources
+- pkg:maven/org.webjars.npm/powerbi-visuals@0.5.2
+- pkg:maven/org.webjars.npm/powerbi-visuals@0.5.2?classifier=sources

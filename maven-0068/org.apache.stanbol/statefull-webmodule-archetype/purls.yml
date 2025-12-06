@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.stanbol/statefull-webmodule-archetype@0.12.0?classifier=sources
+- pkg:maven/org.apache.stanbol/statefull-webmodule-archetype@1.0.0?classifier=sources

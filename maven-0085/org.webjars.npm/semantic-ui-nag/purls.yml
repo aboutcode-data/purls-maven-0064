@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/semantic-ui-nag@2.1.7
+- pkg:maven/org.webjars.npm/semantic-ui-nag@2.1.7?classifier=sources

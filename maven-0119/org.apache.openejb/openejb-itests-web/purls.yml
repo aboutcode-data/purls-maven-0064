@@ -43,3 +43,5 @@
 - pkg:maven/org.apache.openejb/openejb-itests-web@4.7.2?type=war
 - pkg:maven/org.apache.openejb/openejb-itests-web@4.7.3?classifier=sources
 - pkg:maven/org.apache.openejb/openejb-itests-web@4.7.3?type=war
+- pkg:maven/org.apache.openejb/openejb-itests-web@4.7.4?classifier=sources
+- pkg:maven/org.apache.openejb/openejb-itests-web@4.7.4?type=war

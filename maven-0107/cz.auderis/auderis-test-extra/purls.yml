@@ -2,3 +2,5 @@
 - pkg:maven/cz.auderis/auderis-test-extra@1.0.0?classifier=sources
 - pkg:maven/cz.auderis/auderis-test-extra@1.0.1
 - pkg:maven/cz.auderis/auderis-test-extra@1.0.1?classifier=sources
+- pkg:maven/cz.auderis/auderis-test-extra@1.1.1
+- pkg:maven/cz.auderis/auderis-test-extra@1.1.1?classifier=sources

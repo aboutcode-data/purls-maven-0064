@@ -1,0 +1,2 @@
+- pkg:maven/com.nablarch.configuration/nablarch-main-default-configuration@1.0.3
+- pkg:maven/com.nablarch.configuration/nablarch-main-default-configuration@1.0.3?classifier=sources

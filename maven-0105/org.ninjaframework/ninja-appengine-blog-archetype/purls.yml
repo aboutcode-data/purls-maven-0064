@@ -20,6 +20,9 @@
 - pkg:maven/org.ninjaframework/ninja-appengine-blog-archetype@1.9.28?classifier=sources
 - pkg:maven/org.ninjaframework/ninja-appengine-blog-archetype@1.9.2?classifier=sources
 - pkg:maven/org.ninjaframework/ninja-appengine-blog-archetype@1.9.30?classifier=sources
+- pkg:maven/org.ninjaframework/ninja-appengine-blog-archetype@1.9.31?classifier=sources
+- pkg:maven/org.ninjaframework/ninja-appengine-blog-archetype@1.9.34?classifier=sources
+- pkg:maven/org.ninjaframework/ninja-appengine-blog-archetype@1.9.38?classifier=sources
 - pkg:maven/org.ninjaframework/ninja-appengine-blog-archetype@1.9.4?classifier=sources
 - pkg:maven/org.ninjaframework/ninja-appengine-blog-archetype@1.9.6?classifier=sources
 - pkg:maven/org.ninjaframework/ninja-appengine-blog-archetype@1.9.9?classifier=sources

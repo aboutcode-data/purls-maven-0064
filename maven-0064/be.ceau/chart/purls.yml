@@ -1,2 +1,6 @@
 - pkg:maven/be.ceau/chart@0.9
 - pkg:maven/be.ceau/chart@0.9?classifier=sources
+- pkg:maven/be.ceau/chart@2.0.0
+- pkg:maven/be.ceau/chart@2.0.0?classifier=sources
+- pkg:maven/be.ceau/chart@2.0.1
+- pkg:maven/be.ceau/chart@2.0.1?classifier=sources

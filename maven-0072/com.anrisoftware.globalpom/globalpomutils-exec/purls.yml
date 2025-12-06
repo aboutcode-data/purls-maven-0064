@@ -14,3 +14,7 @@
 - pkg:maven/com.anrisoftware.globalpom/globalpomutils-exec@2.4?classifier=sources
 - pkg:maven/com.anrisoftware.globalpom/globalpomutils-exec@2.9
 - pkg:maven/com.anrisoftware.globalpom/globalpomutils-exec@2.9?classifier=sources
+- pkg:maven/com.anrisoftware.globalpom/globalpomutils-exec@3.0
+- pkg:maven/com.anrisoftware.globalpom/globalpomutils-exec@3.0?classifier=sources
+- pkg:maven/com.anrisoftware.globalpom/globalpomutils-exec@3.1
+- pkg:maven/com.anrisoftware.globalpom/globalpomutils-exec@3.1?classifier=sources

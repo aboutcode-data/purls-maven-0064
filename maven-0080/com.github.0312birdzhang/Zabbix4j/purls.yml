@@ -1,0 +1,2 @@
+- pkg:maven/com.github.0312birdzhang/Zabbix4j@0.1.7
+- pkg:maven/com.github.0312birdzhang/Zabbix4j@0.1.7?classifier=sources

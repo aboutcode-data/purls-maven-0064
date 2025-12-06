@@ -1,0 +1,2 @@
+- pkg:maven/dk.nodes.data/processor@0.1
+- pkg:maven/dk.nodes.data/processor@0.1?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.guardtime/ksi-blocksigner@4.3.54
+- pkg:maven/com.guardtime/ksi-blocksigner@4.3.54?classifier=sources
+- pkg:maven/com.guardtime/ksi-blocksigner@4.3.55
+- pkg:maven/com.guardtime/ksi-blocksigner@4.3.55?classifier=sources
+- pkg:maven/com.guardtime/ksi-blocksigner@4.4.67
+- pkg:maven/com.guardtime/ksi-blocksigner@4.4.67?classifier=sources

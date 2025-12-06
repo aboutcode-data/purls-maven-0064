@@ -1,0 +1,2 @@
+- pkg:maven/com.foursquare/placepicker@0.5.7?classifier=sources
+- pkg:maven/com.foursquare/placepicker@0.5.7?type=aar

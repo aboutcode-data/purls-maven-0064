@@ -1,0 +1,2 @@
+- pkg:maven/org.omnifaces/omnisecurity-cdi-auth-events-undertow@10.0.0.Final-u1
+- pkg:maven/org.omnifaces/omnisecurity-cdi-auth-events-undertow@10.0.0.Final-u1?classifier=sources

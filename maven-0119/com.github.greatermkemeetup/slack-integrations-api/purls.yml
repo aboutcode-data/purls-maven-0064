@@ -1,0 +1,2 @@
+- pkg:maven/com.github.greatermkemeetup/slack-integrations-api@1.0.2
+- pkg:maven/com.github.greatermkemeetup/slack-integrations-api@1.0.2?classifier=sources

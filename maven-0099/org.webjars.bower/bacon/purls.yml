@@ -1,4 +1,10 @@
+- pkg:maven/org.webjars.bower/bacon@0.1.10
+- pkg:maven/org.webjars.bower/bacon@0.1.10?classifier=sources
+- pkg:maven/org.webjars.bower/bacon@0.7.5-alpha-1
+- pkg:maven/org.webjars.bower/bacon@0.7.5-alpha-1?classifier=sources
 - pkg:maven/org.webjars.bower/bacon@0.7.53
 - pkg:maven/org.webjars.bower/bacon@0.7.53?classifier=sources
 - pkg:maven/org.webjars.bower/bacon@0.7.70
 - pkg:maven/org.webjars.bower/bacon@0.7.70?classifier=sources
+- pkg:maven/org.webjars.bower/bacon@0.7.88
+- pkg:maven/org.webjars.bower/bacon@0.7.88?classifier=sources

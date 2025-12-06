@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/bgiframe@3.0.1
+- pkg:maven/org.webjars.bower/bgiframe@3.0.1?classifier=sources

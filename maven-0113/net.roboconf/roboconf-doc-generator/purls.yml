@@ -4,3 +4,9 @@
 - pkg:maven/net.roboconf/roboconf-doc-generator@0.4?classifier=sources
 - pkg:maven/net.roboconf/roboconf-doc-generator@0.5
 - pkg:maven/net.roboconf/roboconf-doc-generator@0.5?classifier=sources
+- pkg:maven/net.roboconf/roboconf-doc-generator@0.6
+- pkg:maven/net.roboconf/roboconf-doc-generator@0.6.1
+- pkg:maven/net.roboconf/roboconf-doc-generator@0.6.1?classifier=sources
+- pkg:maven/net.roboconf/roboconf-doc-generator@0.6?classifier=sources
+- pkg:maven/net.roboconf/roboconf-doc-generator@0.7
+- pkg:maven/net.roboconf/roboconf-doc-generator@0.7?classifier=sources

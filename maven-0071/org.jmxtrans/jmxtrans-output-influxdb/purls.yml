@@ -1,2 +1,10 @@
 - pkg:maven/org.jmxtrans/jmxtrans-output-influxdb@252
 - pkg:maven/org.jmxtrans/jmxtrans-output-influxdb@252?classifier=sources
+- pkg:maven/org.jmxtrans/jmxtrans-output-influxdb@253
+- pkg:maven/org.jmxtrans/jmxtrans-output-influxdb@253?classifier=sources
+- pkg:maven/org.jmxtrans/jmxtrans-output-influxdb@254
+- pkg:maven/org.jmxtrans/jmxtrans-output-influxdb@254?classifier=sources
+- pkg:maven/org.jmxtrans/jmxtrans-output-influxdb@256
+- pkg:maven/org.jmxtrans/jmxtrans-output-influxdb@256?classifier=sources
+- pkg:maven/org.jmxtrans/jmxtrans-output-influxdb@259
+- pkg:maven/org.jmxtrans/jmxtrans-output-influxdb@259?classifier=sources

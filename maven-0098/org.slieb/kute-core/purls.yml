@@ -1,0 +1,2 @@
+- pkg:maven/org.slieb/kute-core@2.5
+- pkg:maven/org.slieb/kute-core@2.5?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bower/angular-popover-toggle@0.0.10
 - pkg:maven/org.webjars.bower/angular-popover-toggle@0.0.10?classifier=sources
+- pkg:maven/org.webjars.bower/angular-popover-toggle@0.1.1
+- pkg:maven/org.webjars.bower/angular-popover-toggle@0.1.1?classifier=sources

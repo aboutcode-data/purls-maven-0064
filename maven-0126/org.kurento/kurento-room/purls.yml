@@ -1,3 +1,7 @@
 - pkg:maven/org.kurento/kurento-room@6.0.0?classifier=source-release&type=zip
 - pkg:maven/org.kurento/kurento-room@6.1.0?classifier=source-release&type=zip
 - pkg:maven/org.kurento/kurento-room@6.2.0?classifier=source-release&type=zip
+- pkg:maven/org.kurento/kurento-room@6.3.0?classifier=source-release&type=zip
+- pkg:maven/org.kurento/kurento-room@6.3.1?classifier=source-release&type=zip
+- pkg:maven/org.kurento/kurento-room@6.5.0?classifier=source-release&type=zip
+- pkg:maven/org.kurento/kurento-room@6.6.0?classifier=source-release&type=zip

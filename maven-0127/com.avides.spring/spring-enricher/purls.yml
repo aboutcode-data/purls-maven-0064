@@ -1,0 +1,2 @@
+- pkg:maven/com.avides.spring/spring-enricher@0.0.1-RELEASE
+- pkg:maven/com.avides.spring/spring-enricher@0.0.1-RELEASE?classifier=sources

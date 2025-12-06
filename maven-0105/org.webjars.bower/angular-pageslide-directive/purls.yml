@@ -1,0 +1,6 @@
+- pkg:maven/org.webjars.bower/angular-pageslide-directive@1.4.3
+- pkg:maven/org.webjars.bower/angular-pageslide-directive@1.4.3?classifier=sources
+- pkg:maven/org.webjars.bower/angular-pageslide-directive@1.4.4
+- pkg:maven/org.webjars.bower/angular-pageslide-directive@1.4.4?classifier=sources
+- pkg:maven/org.webjars.bower/angular-pageslide-directive@2.0.1
+- pkg:maven/org.webjars.bower/angular-pageslide-directive@2.0.1?classifier=sources

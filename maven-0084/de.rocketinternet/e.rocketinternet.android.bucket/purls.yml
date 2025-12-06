@@ -1,0 +1,2 @@
+- pkg:maven/de.rocketinternet/e.rocketinternet.android.bucket@1.2?classifier=sources
+- pkg:maven/de.rocketinternet/e.rocketinternet.android.bucket@1.2?type=aar

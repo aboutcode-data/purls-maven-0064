@@ -46,3 +46,5 @@
 - pkg:maven/com.davfx/ninio@0.1.4?classifier=sources
 - pkg:maven/com.davfx/ninio@1.0.0
 - pkg:maven/com.davfx/ninio@1.0.0?classifier=sources
+- pkg:maven/com.davfx/ninio@1.0.99
+- pkg:maven/com.davfx/ninio@1.0.99?classifier=sources

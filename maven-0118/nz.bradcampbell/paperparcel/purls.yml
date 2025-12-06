@@ -1,0 +1,2 @@
+- pkg:maven/nz.bradcampbell/paperparcel@2.0.0-alpha1?classifier=sources
+- pkg:maven/nz.bradcampbell/paperparcel@2.0.0-alpha1?type=aar

@@ -1,0 +1,4 @@
+- pkg:maven/de.braintags/netrelayPdfController@1.0.0
+- pkg:maven/de.braintags/netrelayPdfController@1.0.0?classifier=sources
+- pkg:maven/de.braintags/netrelayPdfController@1.1.0
+- pkg:maven/de.braintags/netrelayPdfController@1.1.0?classifier=sources

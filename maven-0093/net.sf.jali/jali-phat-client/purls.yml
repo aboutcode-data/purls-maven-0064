@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.jali/jali-phat-client@1.0.7
+- pkg:maven/net.sf.jali/jali-phat-client@1.0.7?classifier=sources

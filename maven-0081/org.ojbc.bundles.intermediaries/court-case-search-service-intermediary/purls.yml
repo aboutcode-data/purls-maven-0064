@@ -1,0 +1,2 @@
+- pkg:maven/org.ojbc.bundles.intermediaries/court-case-search-service-intermediary@1.1.0
+- pkg:maven/org.ojbc.bundles.intermediaries/court-case-search-service-intermediary@1.1.0?classifier=sources

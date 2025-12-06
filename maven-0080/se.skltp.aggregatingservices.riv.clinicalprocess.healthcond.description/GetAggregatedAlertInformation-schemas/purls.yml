@@ -14,3 +14,9 @@
 - pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.healthcond.description/GetAggregatedAlertInformation-schemas@1.0.3-RC4
 - pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.healthcond.description/GetAggregatedAlertInformation-schemas@1.0.3-RC4?classifier=sources
 - pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.healthcond.description/GetAggregatedAlertInformation-schemas@1.0.3?classifier=sources
+- pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.healthcond.description/GetAggregatedAlertInformation-schemas@1.1.0
+- pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.healthcond.description/GetAggregatedAlertInformation-schemas@1.1.0-RC2
+- pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.healthcond.description/GetAggregatedAlertInformation-schemas@1.1.0-RC2?classifier=sources
+- pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.healthcond.description/GetAggregatedAlertInformation-schemas@1.1.0?classifier=sources
+- pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.healthcond.description/GetAggregatedAlertInformation-schemas@1.2.0-RC1
+- pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.healthcond.description/GetAggregatedAlertInformation-schemas@1.2.0-RC1?classifier=sources

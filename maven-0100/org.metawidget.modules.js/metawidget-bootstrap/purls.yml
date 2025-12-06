@@ -6,3 +6,4 @@
 - pkg:maven/org.metawidget.modules.js/metawidget-bootstrap@3.9?type=war
 - pkg:maven/org.metawidget.modules.js/metawidget-bootstrap@4.0?type=war
 - pkg:maven/org.metawidget.modules.js/metawidget-bootstrap@4.1?type=war
+- pkg:maven/org.metawidget.modules.js/metawidget-bootstrap@4.2?type=war

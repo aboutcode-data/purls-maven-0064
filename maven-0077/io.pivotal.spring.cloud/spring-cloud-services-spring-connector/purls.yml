@@ -1,2 +1,12 @@
 - pkg:maven/io.pivotal.spring.cloud/spring-cloud-services-spring-connector@1.0.0.RELEASE
 - pkg:maven/io.pivotal.spring.cloud/spring-cloud-services-spring-connector@1.0.0.RELEASE?classifier=sources
+- pkg:maven/io.pivotal.spring.cloud/spring-cloud-services-spring-connector@1.0.1.RELEASE
+- pkg:maven/io.pivotal.spring.cloud/spring-cloud-services-spring-connector@1.0.1.RELEASE?classifier=sources
+- pkg:maven/io.pivotal.spring.cloud/spring-cloud-services-spring-connector@1.1.0.RELEASE
+- pkg:maven/io.pivotal.spring.cloud/spring-cloud-services-spring-connector@1.1.0.RELEASE?classifier=sources
+- pkg:maven/io.pivotal.spring.cloud/spring-cloud-services-spring-connector@1.1.1.RELEASE
+- pkg:maven/io.pivotal.spring.cloud/spring-cloud-services-spring-connector@1.1.1.RELEASE?classifier=sources
+- pkg:maven/io.pivotal.spring.cloud/spring-cloud-services-spring-connector@1.1.2.RELEASE
+- pkg:maven/io.pivotal.spring.cloud/spring-cloud-services-spring-connector@1.1.2.RELEASE?classifier=sources
+- pkg:maven/io.pivotal.spring.cloud/spring-cloud-services-spring-connector@1.2.0.RELEASE
+- pkg:maven/io.pivotal.spring.cloud/spring-cloud-services-spring-connector@1.2.0.RELEASE?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.blackducksoftware.integration/protex-common@1.1.7
+- pkg:maven/com.blackducksoftware.integration/protex-common@1.1.7?classifier=sources

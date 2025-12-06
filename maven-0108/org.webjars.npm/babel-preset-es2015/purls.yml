@@ -1,0 +1,8 @@
+- pkg:maven/org.webjars.npm/babel-preset-es2015@6.0.15
+- pkg:maven/org.webjars.npm/babel-preset-es2015@6.0.15?classifier=sources
+- pkg:maven/org.webjars.npm/babel-preset-es2015@6.3.13
+- pkg:maven/org.webjars.npm/babel-preset-es2015@6.3.13?classifier=sources
+- pkg:maven/org.webjars.npm/babel-preset-es2015@6.5.0
+- pkg:maven/org.webjars.npm/babel-preset-es2015@6.5.0?classifier=sources
+- pkg:maven/org.webjars.npm/babel-preset-es2015@6.9.0
+- pkg:maven/org.webjars.npm/babel-preset-es2015@6.9.0?classifier=sources

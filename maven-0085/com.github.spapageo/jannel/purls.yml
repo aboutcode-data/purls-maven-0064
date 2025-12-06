@@ -1,0 +1,4 @@
+- pkg:maven/com.github.spapageo/jannel@0.1.1.BETA
+- pkg:maven/com.github.spapageo/jannel@0.1.1.BETA?classifier=sources
+- pkg:maven/com.github.spapageo/jannel@0.1.BETA
+- pkg:maven/com.github.spapageo/jannel@0.1.BETA?classifier=sources

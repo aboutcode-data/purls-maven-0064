@@ -8,3 +8,15 @@
 - pkg:maven/com.github.warmuuh/libsass-maven-plugin@0.1.5-libsass_3.2.4?classifier=sources
 - pkg:maven/com.github.warmuuh/libsass-maven-plugin@0.1.6-libsass_3.2.4
 - pkg:maven/com.github.warmuuh/libsass-maven-plugin@0.1.6-libsass_3.2.4?classifier=sources
+- pkg:maven/com.github.warmuuh/libsass-maven-plugin@0.1.7-libsass_3.2.4
+- pkg:maven/com.github.warmuuh/libsass-maven-plugin@0.1.7-libsass_3.2.4?classifier=sources
+- pkg:maven/com.github.warmuuh/libsass-maven-plugin@0.2.0-libsass_3.3.2
+- pkg:maven/com.github.warmuuh/libsass-maven-plugin@0.2.0-libsass_3.3.2?classifier=sources
+- pkg:maven/com.github.warmuuh/libsass-maven-plugin@0.2.1-libsass_3.3.3
+- pkg:maven/com.github.warmuuh/libsass-maven-plugin@0.2.1-libsass_3.3.3?classifier=sources
+- pkg:maven/com.github.warmuuh/libsass-maven-plugin@0.2.2-libsass_3.3.3
+- pkg:maven/com.github.warmuuh/libsass-maven-plugin@0.2.2-libsass_3.3.3?classifier=sources
+- pkg:maven/com.github.warmuuh/libsass-maven-plugin@0.2.3-libsass_3.3.4
+- pkg:maven/com.github.warmuuh/libsass-maven-plugin@0.2.3-libsass_3.3.4?classifier=sources
+- pkg:maven/com.github.warmuuh/libsass-maven-plugin@0.2.4-libsass_3.3.4
+- pkg:maven/com.github.warmuuh/libsass-maven-plugin@0.2.4-libsass_3.3.4?classifier=sources

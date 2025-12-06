@@ -1,0 +1,4 @@
+- pkg:maven/si.kobalj.utilities/stopwatch@1.0.0
+- pkg:maven/si.kobalj.utilities/stopwatch@1.0.0?classifier=sources
+- pkg:maven/si.kobalj.utilities/stopwatch@1.0.1
+- pkg:maven/si.kobalj.utilities/stopwatch@1.0.1?classifier=sources

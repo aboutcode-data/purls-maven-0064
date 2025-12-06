@@ -6,3 +6,5 @@
 - pkg:maven/fr.sewatech.utils/tc-utils@0.3.0?classifier=sources
 - pkg:maven/fr.sewatech.utils/tc-utils@0.4.0
 - pkg:maven/fr.sewatech.utils/tc-utils@0.4.0?classifier=sources
+- pkg:maven/fr.sewatech.utils/tc-utils@0.4.1
+- pkg:maven/fr.sewatech.utils/tc-utils@0.4.1?classifier=sources

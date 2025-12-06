@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.oltu.jose/org.apache.oltu.jose.parent@1?classifier=source-release&type=zip
+- pkg:maven/org.apache.oltu.jose/org.apache.oltu.jose.parent@2?classifier=source-release&type=zip

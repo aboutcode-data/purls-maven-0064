@@ -1,0 +1,2 @@
+- pkg:maven/com.nhl.bootique.curator/bootique-curator@0.9
+- pkg:maven/com.nhl.bootique.curator/bootique-curator@0.9?classifier=sources

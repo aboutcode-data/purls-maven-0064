@@ -1,0 +1,6 @@
+- pkg:maven/com.github.nikita-volkov/djdbc@1
+- pkg:maven/com.github.nikita-volkov/djdbc@1.1
+- pkg:maven/com.github.nikita-volkov/djdbc@1.1?classifier=sources
+- pkg:maven/com.github.nikita-volkov/djdbc@1.2
+- pkg:maven/com.github.nikita-volkov/djdbc@1.2?classifier=sources
+- pkg:maven/com.github.nikita-volkov/djdbc@1?classifier=sources
