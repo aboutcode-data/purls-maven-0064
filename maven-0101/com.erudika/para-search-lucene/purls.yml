@@ -12,3 +12,7 @@
 - pkg:maven/com.erudika/para-search-lucene@1.30.3?classifier=sources
 - pkg:maven/com.erudika/para-search-lucene@1.31.0
 - pkg:maven/com.erudika/para-search-lucene@1.31.0?classifier=sources
+- pkg:maven/com.erudika/para-search-lucene@1.31.1
+- pkg:maven/com.erudika/para-search-lucene@1.31.1?classifier=sources
+- pkg:maven/com.erudika/para-search-lucene@1.31.2
+- pkg:maven/com.erudika/para-search-lucene@1.31.2?classifier=sources

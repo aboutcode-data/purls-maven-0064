@@ -1,0 +1,4 @@
+- pkg:maven/com.caucho/resin-kernel@4.0.50
+- pkg:maven/com.caucho/resin-kernel@4.0.50?classifier=sources
+- pkg:maven/com.caucho/resin-kernel@4.0.52
+- pkg:maven/com.caucho/resin-kernel@4.0.52?classifier=sources

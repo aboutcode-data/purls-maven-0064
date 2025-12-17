@@ -7,3 +7,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.cvs@1.4.453
 - pkg:maven/org.eclipse.platform/org.eclipse.cvs@1.4.500
 - pkg:maven/org.eclipse.platform/org.eclipse.cvs@1.4.700
+- pkg:maven/org.eclipse.platform/org.eclipse.cvs@1.4.800
+- pkg:maven/org.eclipse.platform/org.eclipse.cvs@1.4.900

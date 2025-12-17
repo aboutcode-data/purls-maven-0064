@@ -5,3 +5,4 @@
 - pkg:maven/org.springframework.cloud.task.app/spring-cloud-task-app-starters-docs@Clark.SR1
 - pkg:maven/org.springframework.cloud.task.app/spring-cloud-task-app-starters-docs@Dearborn.RELEASE
 - pkg:maven/org.springframework.cloud.task.app/spring-cloud-task-app-starters-docs@Dearborn.SR1
+- pkg:maven/org.springframework.cloud.task.app/spring-cloud-task-app-starters-docs@Elston.RELEASE

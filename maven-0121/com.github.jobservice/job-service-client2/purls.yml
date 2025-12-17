@@ -1,0 +1,2 @@
+- pkg:maven/com.github.jobservice/job-service-client2@2.6.0-383
+- pkg:maven/com.github.jobservice/job-service-client2@2.6.0-383?classifier=sources

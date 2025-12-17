@@ -5,3 +5,4 @@
 - pkg:maven/com.shazam.chimprunner/chimprunner@3.4.0?classifier=sources
 - pkg:maven/com.shazam.chimprunner/chimprunner@3.5.0?classifier=sources
 - pkg:maven/com.shazam.chimprunner/chimprunner@3.6.0?classifier=sources
+- pkg:maven/com.shazam.chimprunner/chimprunner@3.7.0?classifier=sources

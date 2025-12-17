@@ -1,0 +1,4 @@
+- pkg:maven/org.concordion/concordion-status-info-extension@0.1.0
+- pkg:maven/org.concordion/concordion-status-info-extension@0.1.0?classifier=sources
+- pkg:maven/org.concordion/concordion-status-info-extension@1.0.0
+- pkg:maven/org.concordion/concordion-status-info-extension@1.0.0?classifier=sources

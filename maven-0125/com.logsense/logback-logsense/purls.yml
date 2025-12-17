@@ -1,0 +1,4 @@
+- pkg:maven/com.logsense/logback-logsense@1.0
+- pkg:maven/com.logsense/logback-logsense@1.0?classifier=sources
+- pkg:maven/com.logsense/logback-logsense@1.1.0
+- pkg:maven/com.logsense/logback-logsense@1.1.0?classifier=sources

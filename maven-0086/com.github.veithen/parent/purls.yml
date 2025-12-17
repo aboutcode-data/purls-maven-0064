@@ -2,5 +2,10 @@
 - pkg:maven/com.github.veithen/parent@11?classifier=source-release&type=zip
 - pkg:maven/com.github.veithen/parent@12?classifier=source-release&type=zip
 - pkg:maven/com.github.veithen/parent@13?classifier=source-release&type=zip
+- pkg:maven/com.github.veithen/parent@14?classifier=source-release&type=zip
+- pkg:maven/com.github.veithen/parent@15?classifier=source-release&type=zip
+- pkg:maven/com.github.veithen/parent@16?classifier=source-release&type=zip
+- pkg:maven/com.github.veithen/parent@17?classifier=source-release&type=zip
+- pkg:maven/com.github.veithen/parent@18?classifier=source-release&type=zip
 - pkg:maven/com.github.veithen/parent@8?classifier=source-release&type=zip
 - pkg:maven/com.github.veithen/parent@9?classifier=source-release&type=zip

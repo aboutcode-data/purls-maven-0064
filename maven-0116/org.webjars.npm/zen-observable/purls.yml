@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/zen-observable@0.7.1
+- pkg:maven/org.webjars.npm/zen-observable@0.7.1?classifier=sources
+- pkg:maven/org.webjars.npm/zen-observable@0.8.13
+- pkg:maven/org.webjars.npm/zen-observable@0.8.13?classifier=sources

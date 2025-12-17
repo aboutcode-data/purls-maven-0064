@@ -1,0 +1,2 @@
+- pkg:maven/no.ks.fiks/svarinn2-commons@1.0.15
+- pkg:maven/no.ks.fiks/svarinn2-commons@1.0.15?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/info.hupel.fork.oeffi/public-transport-enabler@1
+- pkg:maven/info.hupel.fork.oeffi/public-transport-enabler@1?classifier=sources
+- pkg:maven/info.hupel.fork.oeffi/public-transport-enabler@2
+- pkg:maven/info.hupel.fork.oeffi/public-transport-enabler@2?classifier=sources

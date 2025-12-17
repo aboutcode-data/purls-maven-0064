@@ -20,6 +20,16 @@
 - pkg:maven/com.microsoft.azure/azure-mgmt-batchai@1.17.0?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-mgmt-batchai@1.17.1
 - pkg:maven/com.microsoft.azure/azure-mgmt-batchai@1.17.1?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-mgmt-batchai@1.18.0
+- pkg:maven/com.microsoft.azure/azure-mgmt-batchai@1.18.0?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-mgmt-batchai@1.19.0
+- pkg:maven/com.microsoft.azure/azure-mgmt-batchai@1.19.0?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-mgmt-batchai@1.20.0
+- pkg:maven/com.microsoft.azure/azure-mgmt-batchai@1.20.0?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-mgmt-batchai@1.20.1
+- pkg:maven/com.microsoft.azure/azure-mgmt-batchai@1.20.1?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-mgmt-batchai@1.21.0
+- pkg:maven/com.microsoft.azure/azure-mgmt-batchai@1.21.0?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-mgmt-batchai@1.4.0-beta
 - pkg:maven/com.microsoft.azure/azure-mgmt-batchai@1.4.0-beta?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-mgmt-batchai@1.5.0-beta

@@ -1,0 +1,2 @@
+- pkg:maven/com.akamai.edgegrid/edgerc-reader@4.0.0
+- pkg:maven/com.akamai.edgegrid/edgerc-reader@4.0.0?classifier=sources

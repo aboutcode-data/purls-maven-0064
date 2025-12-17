@@ -1,1 +1,6 @@
 - pkg:maven/com.github.pellierd/pddl4j@3.7.2?classifier=sources
+- pkg:maven/com.github.pellierd/pddl4j@3.7.3?classifier=sources
+- pkg:maven/com.github.pellierd/pddl4j@3.8.1?classifier=sources
+- pkg:maven/com.github.pellierd/pddl4j@3.8.2?classifier=sources
+- pkg:maven/com.github.pellierd/pddl4j@3.8.3?classifier=sources
+- pkg:maven/com.github.pellierd/pddl4j@3.8?classifier=sources

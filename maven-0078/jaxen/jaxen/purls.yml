@@ -26,4 +26,8 @@
 - pkg:maven/jaxen/jaxen@1.1.4
 - pkg:maven/jaxen/jaxen@1.1.4?classifier=sources
 - pkg:maven/jaxen/jaxen@1.1.6?classifier=sources
+- pkg:maven/jaxen/jaxen@1.2.0
+- pkg:maven/jaxen/jaxen@1.2.0?classifier=sources
+- pkg:maven/jaxen/jaxen@1.2.0?classifier=src&type=tar.gz
+- pkg:maven/jaxen/jaxen@1.2.0?classifier=src&type=zip
 - pkg:maven/jaxen/jaxen@full

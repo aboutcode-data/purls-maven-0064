@@ -1,0 +1,14 @@
+- pkg:maven/net.serenity-bdd/serenity-assertions@2.0.41
+- pkg:maven/net.serenity-bdd/serenity-assertions@2.0.41?classifier=sources
+- pkg:maven/net.serenity-bdd/serenity-assertions@2.0.42
+- pkg:maven/net.serenity-bdd/serenity-assertions@2.0.42?classifier=sources
+- pkg:maven/net.serenity-bdd/serenity-assertions@2.0.43
+- pkg:maven/net.serenity-bdd/serenity-assertions@2.0.43?classifier=sources
+- pkg:maven/net.serenity-bdd/serenity-assertions@2.0.45
+- pkg:maven/net.serenity-bdd/serenity-assertions@2.0.45?classifier=sources
+- pkg:maven/net.serenity-bdd/serenity-assertions@2.0.46
+- pkg:maven/net.serenity-bdd/serenity-assertions@2.0.46?classifier=sources
+- pkg:maven/net.serenity-bdd/serenity-assertions@2.0.47
+- pkg:maven/net.serenity-bdd/serenity-assertions@2.0.47?classifier=sources
+- pkg:maven/net.serenity-bdd/serenity-assertions@2.0.48
+- pkg:maven/net.serenity-bdd/serenity-assertions@2.0.48?classifier=sources

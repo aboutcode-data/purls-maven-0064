@@ -10,3 +10,5 @@
 - pkg:maven/org.glassfish.build/spec-version-maven-plugin@1.4?classifier=sources
 - pkg:maven/org.glassfish.build/spec-version-maven-plugin@1.5
 - pkg:maven/org.glassfish.build/spec-version-maven-plugin@1.5?classifier=sources
+- pkg:maven/org.glassfish.build/spec-version-maven-plugin@2.0
+- pkg:maven/org.glassfish.build/spec-version-maven-plugin@2.0?classifier=sources

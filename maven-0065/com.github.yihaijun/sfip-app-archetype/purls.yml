@@ -1,2 +1,8 @@
 - pkg:maven/com.github.yihaijun/sfip-app-archetype@1.0.6
+- pkg:maven/com.github.yihaijun/sfip-app-archetype@1.0.6.157
+- pkg:maven/com.github.yihaijun/sfip-app-archetype@1.0.6.157?classifier=sources
+- pkg:maven/com.github.yihaijun/sfip-app-archetype@1.0.6.158
+- pkg:maven/com.github.yihaijun/sfip-app-archetype@1.0.6.158?classifier=sources
+- pkg:maven/com.github.yihaijun/sfip-app-archetype@1.0.6.160
+- pkg:maven/com.github.yihaijun/sfip-app-archetype@1.0.6.160?classifier=sources
 - pkg:maven/com.github.yihaijun/sfip-app-archetype@1.0.6?classifier=sources

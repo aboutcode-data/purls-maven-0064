@@ -1,0 +1,4 @@
+- pkg:maven/com.2oi7/component-freemarker@1.0.0
+- pkg:maven/com.2oi7/component-freemarker@1.0.0?classifier=sources
+- pkg:maven/com.2oi7/component-freemarker@2.0.0
+- pkg:maven/com.2oi7/component-freemarker@2.0.0?classifier=sources

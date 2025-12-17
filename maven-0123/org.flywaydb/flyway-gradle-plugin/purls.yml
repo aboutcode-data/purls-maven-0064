@@ -54,3 +54,7 @@
 - pkg:maven/org.flywaydb/flyway-gradle-plugin@5.2.2?classifier=sources
 - pkg:maven/org.flywaydb/flyway-gradle-plugin@5.2.3
 - pkg:maven/org.flywaydb/flyway-gradle-plugin@5.2.3?classifier=sources
+- pkg:maven/org.flywaydb/flyway-gradle-plugin@5.2.4
+- pkg:maven/org.flywaydb/flyway-gradle-plugin@5.2.4?classifier=sources
+- pkg:maven/org.flywaydb/flyway-gradle-plugin@6.0.0-beta
+- pkg:maven/org.flywaydb/flyway-gradle-plugin@6.0.0-beta?classifier=sources

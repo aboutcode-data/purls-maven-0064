@@ -1,0 +1,2 @@
+- pkg:maven/com.github.orion-io/akka-messenger_2.12@0.1.1
+- pkg:maven/com.github.orion-io/akka-messenger_2.12@0.1.1?classifier=sources

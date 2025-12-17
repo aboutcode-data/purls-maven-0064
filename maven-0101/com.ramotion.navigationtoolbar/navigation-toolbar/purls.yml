@@ -1,1 +1,4 @@
 - pkg:maven/com.ramotion.navigationtoolbar/navigation-toolbar@0.1.0?type=aar
+- pkg:maven/com.ramotion.navigationtoolbar/navigation-toolbar@0.1.1?type=aar
+- pkg:maven/com.ramotion.navigationtoolbar/navigation-toolbar@0.1.2?type=aar
+- pkg:maven/com.ramotion.navigationtoolbar/navigation-toolbar@0.1.3?type=aar

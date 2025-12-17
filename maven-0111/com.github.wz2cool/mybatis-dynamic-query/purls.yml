@@ -20,3 +20,17 @@
 - pkg:maven/com.github.wz2cool/mybatis-dynamic-query@2.0.4?classifier=sources
 - pkg:maven/com.github.wz2cool/mybatis-dynamic-query@2.0.5
 - pkg:maven/com.github.wz2cool/mybatis-dynamic-query@2.0.5?classifier=sources
+- pkg:maven/com.github.wz2cool/mybatis-dynamic-query@2.0.6
+- pkg:maven/com.github.wz2cool/mybatis-dynamic-query@2.0.6-snapshot
+- pkg:maven/com.github.wz2cool/mybatis-dynamic-query@2.0.6-snapshot?classifier=sources
+- pkg:maven/com.github.wz2cool/mybatis-dynamic-query@2.0.6?classifier=sources
+- pkg:maven/com.github.wz2cool/mybatis-dynamic-query@2.0.7
+- pkg:maven/com.github.wz2cool/mybatis-dynamic-query@2.0.7-snapshot
+- pkg:maven/com.github.wz2cool/mybatis-dynamic-query@2.0.7-snapshot?classifier=sources
+- pkg:maven/com.github.wz2cool/mybatis-dynamic-query@2.0.7?classifier=sources
+- pkg:maven/com.github.wz2cool/mybatis-dynamic-query@2.0.8
+- pkg:maven/com.github.wz2cool/mybatis-dynamic-query@2.0.8?classifier=sources
+- pkg:maven/com.github.wz2cool/mybatis-dynamic-query@2.0.9
+- pkg:maven/com.github.wz2cool/mybatis-dynamic-query@2.0.9-snapshot
+- pkg:maven/com.github.wz2cool/mybatis-dynamic-query@2.0.9-snapshot?classifier=sources
+- pkg:maven/com.github.wz2cool/mybatis-dynamic-query@2.0.9?classifier=sources

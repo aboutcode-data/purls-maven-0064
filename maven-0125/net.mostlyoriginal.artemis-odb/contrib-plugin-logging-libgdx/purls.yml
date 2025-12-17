@@ -1,0 +1,2 @@
+- pkg:maven/net.mostlyoriginal.artemis-odb/contrib-plugin-logging-libgdx@2.4.0
+- pkg:maven/net.mostlyoriginal.artemis-odb/contrib-plugin-logging-libgdx@2.4.0?classifier=sources

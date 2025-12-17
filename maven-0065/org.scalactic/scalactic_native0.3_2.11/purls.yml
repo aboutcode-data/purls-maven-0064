@@ -1,4 +1,10 @@
 - pkg:maven/org.scalactic/scalactic_native0.3_2.11@3.1.0-SNAP6
 - pkg:maven/org.scalactic/scalactic_native0.3_2.11@3.1.0-SNAP6?classifier=sources
+- pkg:maven/org.scalactic/scalactic_native0.3_2.11@3.1.0-SNAP7
+- pkg:maven/org.scalactic/scalactic_native0.3_2.11@3.1.0-SNAP7?classifier=sources
+- pkg:maven/org.scalactic/scalactic_native0.3_2.11@3.1.0-SNAP8
+- pkg:maven/org.scalactic/scalactic_native0.3_2.11@3.1.0-SNAP8?classifier=sources
+- pkg:maven/org.scalactic/scalactic_native0.3_2.11@3.1.0-SNAP9
+- pkg:maven/org.scalactic/scalactic_native0.3_2.11@3.1.0-SNAP9?classifier=sources
 - pkg:maven/org.scalactic/scalactic_native0.3_2.11@3.2.0-SNAP10
 - pkg:maven/org.scalactic/scalactic_native0.3_2.11@3.2.0-SNAP10?classifier=sources

@@ -9,3 +9,4 @@
 - pkg:maven/com.github.sevntu-checkstyle/sevntu-checkstyle-sonar-plugin@1.30.0?classifier=sources
 - pkg:maven/com.github.sevntu-checkstyle/sevntu-checkstyle-sonar-plugin@1.31.0?classifier=sources
 - pkg:maven/com.github.sevntu-checkstyle/sevntu-checkstyle-sonar-plugin@1.32.0?classifier=sources
+- pkg:maven/com.github.sevntu-checkstyle/sevntu-checkstyle-sonar-plugin@1.33.0?classifier=sources

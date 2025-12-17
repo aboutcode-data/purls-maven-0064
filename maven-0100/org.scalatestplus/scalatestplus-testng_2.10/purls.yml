@@ -1,0 +1,6 @@
+- pkg:maven/org.scalatestplus/scalatestplus-testng_2.10@1.0.0-SNAP2
+- pkg:maven/org.scalatestplus/scalatestplus-testng_2.10@1.0.0-SNAP2?classifier=sources
+- pkg:maven/org.scalatestplus/scalatestplus-testng_2.10@1.0.0-SNAP3
+- pkg:maven/org.scalatestplus/scalatestplus-testng_2.10@1.0.0-SNAP3?classifier=sources
+- pkg:maven/org.scalatestplus/scalatestplus-testng_2.10@1.0.0-SNAP4
+- pkg:maven/org.scalatestplus/scalatestplus-testng_2.10@1.0.0-SNAP4?classifier=sources

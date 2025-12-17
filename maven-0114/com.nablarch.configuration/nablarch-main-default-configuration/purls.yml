@@ -8,3 +8,5 @@
 - pkg:maven/com.nablarch.configuration/nablarch-main-default-configuration@1.0.6?classifier=sources
 - pkg:maven/com.nablarch.configuration/nablarch-main-default-configuration@1.1.0
 - pkg:maven/com.nablarch.configuration/nablarch-main-default-configuration@1.1.0?classifier=sources
+- pkg:maven/com.nablarch.configuration/nablarch-main-default-configuration@1.1.1
+- pkg:maven/com.nablarch.configuration/nablarch-main-default-configuration@1.1.1?classifier=sources

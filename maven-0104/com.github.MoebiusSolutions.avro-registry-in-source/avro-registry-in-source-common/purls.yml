@@ -1,0 +1,2 @@
+- pkg:maven/com.github.MoebiusSolutions.avro-registry-in-source/avro-registry-in-source-common@1.8
+- pkg:maven/com.github.MoebiusSolutions.avro-registry-in-source/avro-registry-in-source-common@1.8?classifier=sources

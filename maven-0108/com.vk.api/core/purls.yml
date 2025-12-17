@@ -1,0 +1,2 @@
+- pkg:maven/com.vk.api/core@1.0.0-public
+- pkg:maven/com.vk.api/core@1.0.0-public?classifier=sources

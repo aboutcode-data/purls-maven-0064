@@ -1,1 +1,3 @@
 - pkg:maven/be.yildiz-games/component-native-ogre3d@1.10.11.0
+- pkg:maven/be.yildiz-games/component-native-ogre3d@1.10.11.1
+- pkg:maven/be.yildiz-games/component-native-ogre3d@1.10.11.2

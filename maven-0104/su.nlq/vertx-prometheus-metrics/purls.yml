@@ -24,3 +24,7 @@
 - pkg:maven/su.nlq/vertx-prometheus-metrics@3.5.2?classifier=sources
 - pkg:maven/su.nlq/vertx-prometheus-metrics@3.5.4
 - pkg:maven/su.nlq/vertx-prometheus-metrics@3.5.4?classifier=sources
+- pkg:maven/su.nlq/vertx-prometheus-metrics@3.6.0
+- pkg:maven/su.nlq/vertx-prometheus-metrics@3.6.0?classifier=sources
+- pkg:maven/su.nlq/vertx-prometheus-metrics@3.6.2
+- pkg:maven/su.nlq/vertx-prometheus-metrics@3.6.2?classifier=sources

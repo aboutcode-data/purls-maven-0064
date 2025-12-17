@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.npm/pegjs@0.11.0-dev.325
+- pkg:maven/org.webjars.npm/pegjs@0.11.0-dev.325?classifier=sources
 - pkg:maven/org.webjars.npm/pegjs@0.9.0
 - pkg:maven/org.webjars.npm/pegjs@0.9.0?classifier=sources

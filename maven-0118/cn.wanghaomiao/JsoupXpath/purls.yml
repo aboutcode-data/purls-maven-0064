@@ -25,4 +25,12 @@
 - pkg:maven/cn.wanghaomiao/JsoupXpath@2.1-Beta
 - pkg:maven/cn.wanghaomiao/JsoupXpath@2.1-Beta?classifier=sources
 - pkg:maven/cn.wanghaomiao/JsoupXpath@2.2
+- pkg:maven/cn.wanghaomiao/JsoupXpath@2.2.1
+- pkg:maven/cn.wanghaomiao/JsoupXpath@2.2.1?classifier=sources
 - pkg:maven/cn.wanghaomiao/JsoupXpath@2.2?classifier=sources
+- pkg:maven/cn.wanghaomiao/JsoupXpath@2.3.0
+- pkg:maven/cn.wanghaomiao/JsoupXpath@2.3.0?classifier=sources
+- pkg:maven/cn.wanghaomiao/JsoupXpath@2.3.1
+- pkg:maven/cn.wanghaomiao/JsoupXpath@2.3.1?classifier=sources
+- pkg:maven/cn.wanghaomiao/JsoupXpath@2.3.2
+- pkg:maven/cn.wanghaomiao/JsoupXpath@2.3.2?classifier=sources

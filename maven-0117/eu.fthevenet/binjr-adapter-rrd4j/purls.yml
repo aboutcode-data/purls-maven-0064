@@ -1,0 +1,4 @@
+- pkg:maven/eu.fthevenet/binjr-adapter-rrd4j@2.1.0
+- pkg:maven/eu.fthevenet/binjr-adapter-rrd4j@2.1.0?classifier=sources
+- pkg:maven/eu.fthevenet/binjr-adapter-rrd4j@2.1.1
+- pkg:maven/eu.fthevenet/binjr-adapter-rrd4j@2.1.1?classifier=sources

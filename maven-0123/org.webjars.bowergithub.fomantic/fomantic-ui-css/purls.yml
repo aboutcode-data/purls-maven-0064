@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bowergithub.fomantic/fomantic-ui-css@2.7.2
+- pkg:maven/org.webjars.bowergithub.fomantic/fomantic-ui-css@2.7.2?classifier=sources

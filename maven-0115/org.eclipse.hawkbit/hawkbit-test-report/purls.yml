@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.hawkbit/hawkbit-test-report@0.3.0M2
+- pkg:maven/org.eclipse.hawkbit/hawkbit-test-report@0.3.0M2?classifier=sources

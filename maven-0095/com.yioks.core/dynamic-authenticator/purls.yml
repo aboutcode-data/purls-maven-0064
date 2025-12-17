@@ -1,0 +1,2 @@
+- pkg:maven/com.yioks.core/dynamic-authenticator@v1.0.0
+- pkg:maven/com.yioks.core/dynamic-authenticator@v1.0.0?classifier=sources

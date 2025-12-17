@@ -1,4 +1,6 @@
 - pkg:maven/org.webjars.npm/fortawesome__fontawesome-common-types@0.2.0
 - pkg:maven/org.webjars.npm/fortawesome__fontawesome-common-types@0.2.0?classifier=sources
+- pkg:maven/org.webjars.npm/fortawesome__fontawesome-common-types@0.2.17
+- pkg:maven/org.webjars.npm/fortawesome__fontawesome-common-types@0.2.17?classifier=sources
 - pkg:maven/org.webjars.npm/fortawesome__fontawesome-common-types@0.2.2
 - pkg:maven/org.webjars.npm/fortawesome__fontawesome-common-types@0.2.2?classifier=sources

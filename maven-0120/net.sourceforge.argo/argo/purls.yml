@@ -112,3 +112,5 @@
 - pkg:maven/net.sourceforge.argo/argo@5.3?classifier=sources
 - pkg:maven/net.sourceforge.argo/argo@5.4
 - pkg:maven/net.sourceforge.argo/argo@5.4?classifier=sources
+- pkg:maven/net.sourceforge.argo/argo@5.5
+- pkg:maven/net.sourceforge.argo/argo@5.5?classifier=sources

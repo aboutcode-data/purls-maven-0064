@@ -42,3 +42,8 @@
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-millennialmedia-mediation@4.8-6.6.1?type=aar
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-millennialmedia-mediation@4.8.1-6.6.1?type=aar
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-millennialmedia-mediation@4.9-6.6.1?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-millennialmedia-mediation@5.0-6.6.1?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-millennialmedia-mediation@5.1-6.6.1?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-millennialmedia-mediation@5.1.1-6.6.1?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-millennialmedia-mediation@5.1.2-6.6.1?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-millennialmedia-mediation@5.2-6.6.1?type=aar

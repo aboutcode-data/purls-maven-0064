@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bowergithub.knockout-contrib/knockout-validation@2.0.3
+- pkg:maven/org.webjars.bowergithub.knockout-contrib/knockout-validation@2.0.3?classifier=sources

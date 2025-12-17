@@ -1,2 +1,4 @@
 - pkg:maven/org.mini2Dx/natives-loader@1.0.0
 - pkg:maven/org.mini2Dx/natives-loader@1.0.0?classifier=sources
+- pkg:maven/org.mini2Dx/natives-loader@1.1.0
+- pkg:maven/org.mini2Dx/natives-loader@1.1.0?classifier=sources

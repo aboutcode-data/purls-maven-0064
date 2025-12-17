@@ -6,3 +6,15 @@
 - pkg:maven/com.speedment.common/logger@1.0.3?classifier=sources
 - pkg:maven/com.speedment.common/logger@1.0.4
 - pkg:maven/com.speedment.common/logger@1.0.4?classifier=sources
+- pkg:maven/com.speedment.common/logger@1.0.5
+- pkg:maven/com.speedment.common/logger@1.0.5?classifier=sources
+- pkg:maven/com.speedment.common/logger@3.1.12
+- pkg:maven/com.speedment.common/logger@3.1.12?classifier=sources
+- pkg:maven/com.speedment.common/logger@3.1.13
+- pkg:maven/com.speedment.common/logger@3.1.13?classifier=sources
+- pkg:maven/com.speedment.common/logger@3.1.14
+- pkg:maven/com.speedment.common/logger@3.1.14?classifier=sources
+- pkg:maven/com.speedment.common/logger@3.1.15
+- pkg:maven/com.speedment.common/logger@3.1.15?classifier=sources
+- pkg:maven/com.speedment.common/logger@3.1.16
+- pkg:maven/com.speedment.common/logger@3.1.16?classifier=sources

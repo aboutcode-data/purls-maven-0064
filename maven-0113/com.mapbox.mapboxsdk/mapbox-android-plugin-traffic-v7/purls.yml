@@ -1,0 +1,2 @@
+- pkg:maven/com.mapbox.mapboxsdk/mapbox-android-plugin-traffic-v7@0.8.0?classifier=sources
+- pkg:maven/com.mapbox.mapboxsdk/mapbox-android-plugin-traffic-v7@0.8.0?type=aar

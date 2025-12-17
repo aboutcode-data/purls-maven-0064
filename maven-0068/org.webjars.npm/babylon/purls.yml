@@ -1,5 +1,7 @@
 - pkg:maven/org.webjars.npm/babylon@5.8.23
 - pkg:maven/org.webjars.npm/babylon@5.8.23?classifier=sources
+- pkg:maven/org.webjars.npm/babylon@5.8.38
+- pkg:maven/org.webjars.npm/babylon@5.8.38?classifier=sources
 - pkg:maven/org.webjars.npm/babylon@6.0.14
 - pkg:maven/org.webjars.npm/babylon@6.0.14?classifier=sources
 - pkg:maven/org.webjars.npm/babylon@6.1.18

@@ -1,0 +1,2 @@
+- pkg:maven/com.amazon.opendistroforelasticsearch.client/opendistro-sql-jdbc@0.7.0.0
+- pkg:maven/com.amazon.opendistroforelasticsearch.client/opendistro-sql-jdbc@0.7.0.0?classifier=sources

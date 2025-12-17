@@ -1,0 +1,4 @@
+- pkg:maven/jp.spring-boot-reference/smart-date-string@1.0
+- pkg:maven/jp.spring-boot-reference/smart-date-string@1.0?classifier=sources
+- pkg:maven/jp.spring-boot-reference/smart-date-string@1.1
+- pkg:maven/jp.spring-boot-reference/smart-date-string@1.1?classifier=sources

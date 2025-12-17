@@ -1,0 +1,2 @@
+- pkg:maven/io.skullabs.injector/injector-sample@0.3.0.Final
+- pkg:maven/io.skullabs.injector/injector-sample@0.3.0.Final?classifier=sources

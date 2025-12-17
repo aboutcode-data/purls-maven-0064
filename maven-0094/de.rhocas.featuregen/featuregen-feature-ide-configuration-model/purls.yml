@@ -1,0 +1,4 @@
+- pkg:maven/de.rhocas.featuregen/featuregen-feature-ide-configuration-model@1.0.0
+- pkg:maven/de.rhocas.featuregen/featuregen-feature-ide-configuration-model@1.0.0?classifier=sources
+- pkg:maven/de.rhocas.featuregen/featuregen-feature-ide-configuration-model@2.0.0
+- pkg:maven/de.rhocas.featuregen/featuregen-feature-ide-configuration-model@2.0.0?classifier=sources

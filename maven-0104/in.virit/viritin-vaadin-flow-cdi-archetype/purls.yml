@@ -1,1 +1,2 @@
 - pkg:maven/in.virit/viritin-vaadin-flow-cdi-archetype@1.0?classifier=sources
+- pkg:maven/in.virit/viritin-vaadin-flow-cdi-archetype@1.1?classifier=sources

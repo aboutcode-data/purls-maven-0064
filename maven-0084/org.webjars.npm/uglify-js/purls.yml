@@ -50,3 +50,7 @@
 - pkg:maven/org.webjars.npm/uglify-js@3.4.7?classifier=sources
 - pkg:maven/org.webjars.npm/uglify-js@3.4.9
 - pkg:maven/org.webjars.npm/uglify-js@3.4.9?classifier=sources
+- pkg:maven/org.webjars.npm/uglify-js@3.5.2
+- pkg:maven/org.webjars.npm/uglify-js@3.5.2?classifier=sources
+- pkg:maven/org.webjars.npm/uglify-js@3.5.4
+- pkg:maven/org.webjars.npm/uglify-js@3.5.4?classifier=sources

@@ -1,2 +1,6 @@
 - pkg:maven/com.mpobjects.jasperreports.font/jasperreports-fonts-liberation@2.00.1
 - pkg:maven/com.mpobjects.jasperreports.font/jasperreports-fonts-liberation@2.00.1?classifier=sources
+- pkg:maven/com.mpobjects.jasperreports.font/jasperreports-fonts-liberation@2.00.4
+- pkg:maven/com.mpobjects.jasperreports.font/jasperreports-fonts-liberation@2.00.4?classifier=sources
+- pkg:maven/com.mpobjects.jasperreports.font/jasperreports-fonts-liberation@2.00.5
+- pkg:maven/com.mpobjects.jasperreports.font/jasperreports-fonts-liberation@2.00.5?classifier=sources

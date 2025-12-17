@@ -10,3 +10,6 @@
 - pkg:maven/org.apache.juddi.scout/scout@1.2.7
 - pkg:maven/org.apache.juddi.scout/scout@1.2.7?classifier=source-release&type=zip
 - pkg:maven/org.apache.juddi.scout/scout@1.2.7?classifier=sources
+- pkg:maven/org.apache.juddi.scout/scout@1.2.8
+- pkg:maven/org.apache.juddi.scout/scout@1.2.8?classifier=source-release&type=zip
+- pkg:maven/org.apache.juddi.scout/scout@1.2.8?classifier=sources

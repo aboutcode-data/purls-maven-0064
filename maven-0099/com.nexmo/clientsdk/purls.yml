@@ -1,0 +1,4 @@
+- pkg:maven/com.nexmo/clientsdk@0.0.1?type=aar
+- pkg:maven/com.nexmo/clientsdk@1.2.0?type=aar
+- pkg:maven/com.nexmo/clientsdk@null.0.1.60.local?type=aar
+- pkg:maven/com.nexmo/clientsdk@unspecified?type=aar

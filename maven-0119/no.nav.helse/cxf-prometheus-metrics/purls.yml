@@ -1,0 +1,2 @@
+- pkg:maven/no.nav.helse/cxf-prometheus-metrics@dd7d125
+- pkg:maven/no.nav.helse/cxf-prometheus-metrics@dd7d125?classifier=sources

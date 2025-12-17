@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bowergithub.angular-ui/ui-router@0.2.10
+- pkg:maven/org.webjars.bowergithub.angular-ui/ui-router@0.2.10?classifier=sources
+- pkg:maven/org.webjars.bowergithub.angular-ui/ui-router@1.0.22
+- pkg:maven/org.webjars.bowergithub.angular-ui/ui-router@1.0.22?classifier=sources

@@ -1,0 +1,3 @@
+- pkg:maven/org.jboss.forge.addon/thorntail@2.3.0.Final
+- pkg:maven/org.jboss.forge.addon/thorntail@2.3.0.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.forge.addon/thorntail@2.3.0.Final?classifier=sources

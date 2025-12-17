@@ -1,3 +1,5 @@
+- pkg:maven/no.acando/xmltordf@1.10.0
+- pkg:maven/no.acando/xmltordf@1.10.0?classifier=sources
 - pkg:maven/no.acando/xmltordf@1.4.12
 - pkg:maven/no.acando/xmltordf@1.4.12?classifier=sources
 - pkg:maven/no.acando/xmltordf@1.4.13

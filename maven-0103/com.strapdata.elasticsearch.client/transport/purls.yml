@@ -1,2 +1,6 @@
 - pkg:maven/com.strapdata.elasticsearch.client/transport@5.5.0
 - pkg:maven/com.strapdata.elasticsearch.client/transport@5.5.0?classifier=sources
+- pkg:maven/com.strapdata.elasticsearch.client/transport@6.2.3.11
+- pkg:maven/com.strapdata.elasticsearch.client/transport@6.2.3.11?classifier=sources
+- pkg:maven/com.strapdata.elasticsearch.client/transport@6.2.3.12
+- pkg:maven/com.strapdata.elasticsearch.client/transport@6.2.3.12?classifier=sources

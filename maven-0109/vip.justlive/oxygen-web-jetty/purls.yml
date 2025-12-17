@@ -1,0 +1,2 @@
+- pkg:maven/vip.justlive/oxygen-web-jetty@2.0.3
+- pkg:maven/vip.justlive/oxygen-web-jetty@2.0.3?classifier=sources

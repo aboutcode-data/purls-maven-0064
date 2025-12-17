@@ -1,0 +1,2 @@
+- pkg:maven/in.zhaoj/v2ray@1.0
+- pkg:maven/in.zhaoj/v2ray@1.0?classifier=sources

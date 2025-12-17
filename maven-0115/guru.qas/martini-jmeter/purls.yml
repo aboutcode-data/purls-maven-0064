@@ -26,3 +26,13 @@
 - pkg:maven/guru.qas/martini-jmeter@3.0.0?classifier=sources
 - pkg:maven/guru.qas/martini-jmeter@4.0.0-JDK10
 - pkg:maven/guru.qas/martini-jmeter@4.0.0-JDK10?classifier=sources
+- pkg:maven/guru.qas/martini-jmeter@4.1.0
+- pkg:maven/guru.qas/martini-jmeter@4.1.0.1
+- pkg:maven/guru.qas/martini-jmeter@4.1.0.1?classifier=sources
+- pkg:maven/guru.qas/martini-jmeter@4.1.0?classifier=sources
+- pkg:maven/guru.qas/martini-jmeter@4.2
+- pkg:maven/guru.qas/martini-jmeter@4.2.1
+- pkg:maven/guru.qas/martini-jmeter@4.2.1?classifier=sources
+- pkg:maven/guru.qas/martini-jmeter@4.2?classifier=sources
+- pkg:maven/guru.qas/martini-jmeter@5.0
+- pkg:maven/guru.qas/martini-jmeter@5.0?classifier=sources

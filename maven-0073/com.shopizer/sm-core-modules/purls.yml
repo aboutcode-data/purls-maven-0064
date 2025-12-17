@@ -8,3 +8,5 @@
 - pkg:maven/com.shopizer/sm-core-modules@2.2.0?classifier=sources
 - pkg:maven/com.shopizer/sm-core-modules@2.3.0.0
 - pkg:maven/com.shopizer/sm-core-modules@2.3.0.0?classifier=sources
+- pkg:maven/com.shopizer/sm-core-modules@2.4.0
+- pkg:maven/com.shopizer/sm-core-modules@2.4.0?classifier=sources

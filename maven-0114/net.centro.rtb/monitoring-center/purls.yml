@@ -6,6 +6,8 @@
 - pkg:maven/net.centro.rtb/monitoring-center@1.0.12?classifier=sources
 - pkg:maven/net.centro.rtb/monitoring-center@1.0.13
 - pkg:maven/net.centro.rtb/monitoring-center@1.0.13?classifier=sources
+- pkg:maven/net.centro.rtb/monitoring-center@1.0.14
+- pkg:maven/net.centro.rtb/monitoring-center@1.0.14?classifier=sources
 - pkg:maven/net.centro.rtb/monitoring-center@1.0.5
 - pkg:maven/net.centro.rtb/monitoring-center@1.0.5?classifier=sources
 - pkg:maven/net.centro.rtb/monitoring-center@1.0.6

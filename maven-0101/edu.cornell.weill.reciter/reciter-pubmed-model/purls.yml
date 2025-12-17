@@ -1,0 +1,2 @@
+- pkg:maven/edu.cornell.weill.reciter/reciter-pubmed-model@2.0.1
+- pkg:maven/edu.cornell.weill.reciter/reciter-pubmed-model@2.0.1?classifier=sources

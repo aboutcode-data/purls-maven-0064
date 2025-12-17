@@ -1,0 +1,4 @@
+- pkg:maven/org.buffalo-coders.aws.lambda.jaxrs/assembly@1
+- pkg:maven/org.buffalo-coders.aws.lambda.jaxrs/assembly@1?classifier=sources
+- pkg:maven/org.buffalo-coders.aws.lambda.jaxrs/assembly@2
+- pkg:maven/org.buffalo-coders.aws.lambda.jaxrs/assembly@2?classifier=sources

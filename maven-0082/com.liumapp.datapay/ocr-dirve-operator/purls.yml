@@ -1,0 +1,2 @@
+- pkg:maven/com.liumapp.datapay/ocr-dirve-operator@v2.0.2
+- pkg:maven/com.liumapp.datapay/ocr-dirve-operator@v2.0.2?classifier=sources

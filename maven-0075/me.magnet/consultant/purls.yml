@@ -50,3 +50,7 @@
 - pkg:maven/me.magnet/consultant@1.8.1?classifier=sources
 - pkg:maven/me.magnet/consultant@1.8.2
 - pkg:maven/me.magnet/consultant@1.8.2?classifier=sources
+- pkg:maven/me.magnet/consultant@1.8.3
+- pkg:maven/me.magnet/consultant@1.8.3?classifier=sources
+- pkg:maven/me.magnet/consultant@2.0.0
+- pkg:maven/me.magnet/consultant@2.0.0?classifier=sources

@@ -13,3 +13,6 @@
 - pkg:maven/com.soasta.mpulse/mpulse-android@2.4.6-trunk-dev?type=aar
 - pkg:maven/com.soasta.mpulse/mpulse-android@2.5.0-beta1?type=aar
 - pkg:maven/com.soasta.mpulse/mpulse-android@2.5.0?type=aar
+- pkg:maven/com.soasta.mpulse/mpulse-android@2.5.1?type=aar
+- pkg:maven/com.soasta.mpulse/mpulse-android@2.6.0-beta1?type=aar
+- pkg:maven/com.soasta.mpulse/mpulse-android@2.6.0?type=aar
