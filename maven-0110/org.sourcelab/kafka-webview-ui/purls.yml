@@ -1,0 +1,2 @@
+- pkg:maven/org.sourcelab/kafka-webview-ui@1.0.0
+- pkg:maven/org.sourcelab/kafka-webview-ui@1.0.0?classifier=sources

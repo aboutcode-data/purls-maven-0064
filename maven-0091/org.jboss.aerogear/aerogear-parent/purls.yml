@@ -26,3 +26,10 @@
 - pkg:maven/org.jboss.aerogear/aerogear-parent@0.2.8?classifier=source-release&type=zip
 - pkg:maven/org.jboss.aerogear/aerogear-parent@0.2.9.1?classifier=source-release&type=zip
 - pkg:maven/org.jboss.aerogear/aerogear-parent@0.2.9?classifier=source-release&type=zip
+- pkg:maven/org.jboss.aerogear/aerogear-parent@0.9.0?classifier=source-release&type=zip
+- pkg:maven/org.jboss.aerogear/aerogear-parent@1.0.0?classifier=source-release&type=zip
+- pkg:maven/org.jboss.aerogear/aerogear-parent@1.1.3?classifier=source-release&type=zip
+- pkg:maven/org.jboss.aerogear/aerogear-parent@1.1.4?classifier=source-release&type=zip
+- pkg:maven/org.jboss.aerogear/aerogear-parent@1.1.5?classifier=source-release&type=zip
+- pkg:maven/org.jboss.aerogear/aerogear-parent@1.1.6?classifier=source-release&type=zip
+- pkg:maven/org.jboss.aerogear/aerogear-parent@1.1.7?classifier=source-release&type=zip

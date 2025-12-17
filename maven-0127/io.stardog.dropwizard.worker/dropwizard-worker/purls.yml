@@ -1,0 +1,2 @@
+- pkg:maven/io.stardog.dropwizard.worker/dropwizard-worker@0.1.0
+- pkg:maven/io.stardog.dropwizard.worker/dropwizard-worker@0.1.0?classifier=sources

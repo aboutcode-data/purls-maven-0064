@@ -1,5 +1,11 @@
 - pkg:maven/org.openmrs.maven.archetypes/openmrs-sdk-archetype-submodule-owa@3.10.0?classifier=sources
 - pkg:maven/org.openmrs.maven.archetypes/openmrs-sdk-archetype-submodule-owa@3.10.1?classifier=sources
+- pkg:maven/org.openmrs.maven.archetypes/openmrs-sdk-archetype-submodule-owa@3.11.0?classifier=sources
+- pkg:maven/org.openmrs.maven.archetypes/openmrs-sdk-archetype-submodule-owa@3.12.0?classifier=sources
+- pkg:maven/org.openmrs.maven.archetypes/openmrs-sdk-archetype-submodule-owa@3.12.1?classifier=sources
+- pkg:maven/org.openmrs.maven.archetypes/openmrs-sdk-archetype-submodule-owa@3.12.2?classifier=sources
+- pkg:maven/org.openmrs.maven.archetypes/openmrs-sdk-archetype-submodule-owa@3.12.3?classifier=sources
+- pkg:maven/org.openmrs.maven.archetypes/openmrs-sdk-archetype-submodule-owa@3.13.0?classifier=sources
 - pkg:maven/org.openmrs.maven.archetypes/openmrs-sdk-archetype-submodule-owa@3.5.0?classifier=sources
 - pkg:maven/org.openmrs.maven.archetypes/openmrs-sdk-archetype-submodule-owa@3.6.1?classifier=sources
 - pkg:maven/org.openmrs.maven.archetypes/openmrs-sdk-archetype-submodule-owa@3.7.0?classifier=sources

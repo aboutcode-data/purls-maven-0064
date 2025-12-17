@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-tmpvar-jsdom@0.5.7
+- pkg:maven/org.webjars.npm/github-com-tmpvar-jsdom@0.5.7?classifier=sources

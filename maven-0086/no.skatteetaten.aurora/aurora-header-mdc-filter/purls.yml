@@ -4,3 +4,5 @@
 - pkg:maven/no.skatteetaten.aurora/aurora-header-mdc-filter@1.2.0?classifier=sources
 - pkg:maven/no.skatteetaten.aurora/aurora-header-mdc-filter@2.0.0
 - pkg:maven/no.skatteetaten.aurora/aurora-header-mdc-filter@2.0.0?classifier=sources
+- pkg:maven/no.skatteetaten.aurora/aurora-header-mdc-filter@2.0.1
+- pkg:maven/no.skatteetaten.aurora/aurora-header-mdc-filter@2.0.1?classifier=sources

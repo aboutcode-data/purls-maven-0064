@@ -1,0 +1,10 @@
+- pkg:maven/com.github.meowingtwurtle/theta-api@201801041619
+- pkg:maven/com.github.meowingtwurtle/theta-api@201801041619?classifier=sources
+- pkg:maven/com.github.meowingtwurtle/theta-api@201801060201
+- pkg:maven/com.github.meowingtwurtle/theta-api@201801060201?classifier=sources
+- pkg:maven/com.github.meowingtwurtle/theta-api@a9f86ec
+- pkg:maven/com.github.meowingtwurtle/theta-api@a9f86ec?classifier=sources
+- pkg:maven/com.github.meowingtwurtle/theta-api@b1e7714
+- pkg:maven/com.github.meowingtwurtle/theta-api@b1e7714?classifier=sources
+- pkg:maven/com.github.meowingtwurtle/theta-api@cbda482
+- pkg:maven/com.github.meowingtwurtle/theta-api@cbda482?classifier=sources

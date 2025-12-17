@@ -1,0 +1,2 @@
+- pkg:maven/com.taxjar/taxjar-java@1.0.0
+- pkg:maven/com.taxjar/taxjar-java@1.0.0?classifier=sources

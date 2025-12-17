@@ -8,3 +8,5 @@
 - pkg:maven/kg.apc/jmeter-plugins-senseuploader@2.3?classifier=sources
 - pkg:maven/kg.apc/jmeter-plugins-senseuploader@2.4
 - pkg:maven/kg.apc/jmeter-plugins-senseuploader@2.4?classifier=sources
+- pkg:maven/kg.apc/jmeter-plugins-senseuploader@3.0
+- pkg:maven/kg.apc/jmeter-plugins-senseuploader@3.0?classifier=sources

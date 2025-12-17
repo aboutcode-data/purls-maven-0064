@@ -10,5 +10,7 @@
 - pkg:maven/org.webjars.bower/dojo@1.12.1?classifier=sources
 - pkg:maven/org.webjars.bower/dojo@1.12.2
 - pkg:maven/org.webjars.bower/dojo@1.12.2?classifier=sources
+- pkg:maven/org.webjars.bower/dojo@1.13.0
+- pkg:maven/org.webjars.bower/dojo@1.13.0?classifier=sources
 - pkg:maven/org.webjars.bower/dojo@1.9.2
 - pkg:maven/org.webjars.bower/dojo@1.9.2?classifier=sources

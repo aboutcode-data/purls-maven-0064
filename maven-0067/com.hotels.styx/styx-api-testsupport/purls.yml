@@ -1,0 +1,4 @@
+- pkg:maven/com.hotels.styx/styx-api-testsupport@0.7.3
+- pkg:maven/com.hotels.styx/styx-api-testsupport@0.7.3?classifier=sources
+- pkg:maven/com.hotels.styx/styx-api-testsupport@0.7.4
+- pkg:maven/com.hotels.styx/styx-api-testsupport@0.7.4?classifier=sources

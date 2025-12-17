@@ -1,0 +1,10 @@
+- pkg:maven/org.webjars.bower/vaadin-valo-theme@0.3.2
+- pkg:maven/org.webjars.bower/vaadin-valo-theme@0.3.2?classifier=sources
+- pkg:maven/org.webjars.bower/vaadin-valo-theme@2.0.0-alpha3
+- pkg:maven/org.webjars.bower/vaadin-valo-theme@2.0.0-alpha3?classifier=sources
+- pkg:maven/org.webjars.bower/vaadin-valo-theme@2.0.0-alpha4
+- pkg:maven/org.webjars.bower/vaadin-valo-theme@2.0.0-alpha4?classifier=sources
+- pkg:maven/org.webjars.bower/vaadin-valo-theme@2.0.0-alpha5
+- pkg:maven/org.webjars.bower/vaadin-valo-theme@2.0.0-alpha5?classifier=sources
+- pkg:maven/org.webjars.bower/vaadin-valo-theme@2.0.0-alpha7
+- pkg:maven/org.webjars.bower/vaadin-valo-theme@2.0.0-alpha7?classifier=sources

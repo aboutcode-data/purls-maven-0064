@@ -1,2 +1,4 @@
 - pkg:maven/com.eed3si9n/gigahorse-github_2.10@gigahorse0.1.1_0.1.0
 - pkg:maven/com.eed3si9n/gigahorse-github_2.10@gigahorse0.1.1_0.1.0?classifier=sources
+- pkg:maven/com.eed3si9n/gigahorse-github_2.10@gigahorse0.3.1_0.2.0
+- pkg:maven/com.eed3si9n/gigahorse-github_2.10@gigahorse0.3.1_0.2.0?classifier=sources

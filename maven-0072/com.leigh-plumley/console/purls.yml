@@ -1,0 +1,2 @@
+- pkg:maven/com.leigh-plumley/console@3.0
+- pkg:maven/com.leigh-plumley/console@3.0?classifier=sources

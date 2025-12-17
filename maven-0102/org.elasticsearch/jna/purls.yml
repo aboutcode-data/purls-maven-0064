@@ -1,2 +1,6 @@
 - pkg:maven/org.elasticsearch/jna@4.4.0
+- pkg:maven/org.elasticsearch/jna@4.4.0-1
+- pkg:maven/org.elasticsearch/jna@4.4.0-1?classifier=sources
 - pkg:maven/org.elasticsearch/jna@4.4.0?classifier=sources
+- pkg:maven/org.elasticsearch/jna@4.5.1
+- pkg:maven/org.elasticsearch/jna@4.5.1?classifier=sources

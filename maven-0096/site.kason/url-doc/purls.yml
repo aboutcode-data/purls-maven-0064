@@ -1,0 +1,2 @@
+- pkg:maven/site.kason/url-doc@0.1.0
+- pkg:maven/site.kason/url-doc@0.1.0?classifier=sources

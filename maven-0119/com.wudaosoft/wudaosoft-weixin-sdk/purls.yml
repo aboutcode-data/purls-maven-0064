@@ -1,0 +1,6 @@
+- pkg:maven/com.wudaosoft/wudaosoft-weixin-sdk@1.0.0
+- pkg:maven/com.wudaosoft/wudaosoft-weixin-sdk@1.0.0?classifier=sources
+- pkg:maven/com.wudaosoft/wudaosoft-weixin-sdk@2.0.0
+- pkg:maven/com.wudaosoft/wudaosoft-weixin-sdk@2.0.0?classifier=sources
+- pkg:maven/com.wudaosoft/wudaosoft-weixin-sdk@2.0.1
+- pkg:maven/com.wudaosoft/wudaosoft-weixin-sdk@2.0.1?classifier=sources

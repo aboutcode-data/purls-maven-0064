@@ -1,0 +1,6 @@
+- pkg:maven/com.quhaodian/activity@1.1.8
+- pkg:maven/com.quhaodian/activity@1.1.8?classifier=sources
+- pkg:maven/com.quhaodian/activity@1.1.9
+- pkg:maven/com.quhaodian/activity@1.1.9?classifier=sources
+- pkg:maven/com.quhaodian/activity@1.6.0
+- pkg:maven/com.quhaodian/activity@1.6.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.processpuzzle/processpuzzle-core-services@0.0.10?classifier=sources
+- pkg:maven/com.processpuzzle/processpuzzle-core-services@0.0.10?type=zip

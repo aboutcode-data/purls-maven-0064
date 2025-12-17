@@ -21,3 +21,10 @@
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-inmobi-mediation@3.1-6.1.0?type=aar
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-inmobi-mediation@3.2-6.1.0?type=aar
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-inmobi-mediation@3.3-6.1.0?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-inmobi-mediation@3.4-6.1.0?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-inmobi-mediation@3.5-6.1.0?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-inmobi-mediation@4.0-6.1.0?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-inmobi-mediation@4.1-6.1.0?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-inmobi-mediation@4.2-6.1.0?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-inmobi-mediation@4.3-6.1.0?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-inmobi-mediation@4.4-6.1.0?type=aar

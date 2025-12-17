@@ -1,0 +1,4 @@
+- pkg:maven/net.trajano.ms.app/sample-gw@0.0.4
+- pkg:maven/net.trajano.ms.app/sample-gw@0.0.4?classifier=sources
+- pkg:maven/net.trajano.ms.app/sample-gw@0.0.5
+- pkg:maven/net.trajano.ms.app/sample-gw@0.0.5?classifier=sources

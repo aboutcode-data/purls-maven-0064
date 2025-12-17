@@ -1,0 +1,2 @@
+- pkg:maven/de.unkrig/doclet-cs-annotation@1.0.1
+- pkg:maven/de.unkrig/doclet-cs-annotation@1.0.1?classifier=sources

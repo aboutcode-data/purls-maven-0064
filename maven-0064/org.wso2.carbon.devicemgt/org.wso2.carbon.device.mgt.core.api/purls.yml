@@ -1,0 +1,4 @@
+- pkg:maven/org.wso2.carbon.devicemgt/org.wso2.carbon.device.mgt.core.api@4.0.1
+- pkg:maven/org.wso2.carbon.devicemgt/org.wso2.carbon.device.mgt.core.api@4.0.1?classifier=sources
+- pkg:maven/org.wso2.carbon.devicemgt/org.wso2.carbon.device.mgt.core.api@4.0.2
+- pkg:maven/org.wso2.carbon.devicemgt/org.wso2.carbon.device.mgt.core.api@4.0.2?classifier=sources

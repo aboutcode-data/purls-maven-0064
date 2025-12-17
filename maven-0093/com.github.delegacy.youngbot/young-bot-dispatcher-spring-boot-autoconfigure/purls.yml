@@ -1,0 +1,2 @@
+- pkg:maven/com.github.delegacy.youngbot/young-bot-dispatcher-spring-boot-autoconfigure@0.0.2?classifier=sources
+- pkg:maven/com.github.delegacy.youngbot/young-bot-dispatcher-spring-boot-autoconfigure@0.0.3?classifier=sources

@@ -1,0 +1,13 @@
+- pkg:maven/cn.hankchan/utils@0.0.1
+- pkg:maven/cn.hankchan/utils@0.0.1?classifier=sources
+- pkg:maven/cn.hankchan/utils@0.0.2
+- pkg:maven/cn.hankchan/utils@0.0.2?classifier=sources
+- pkg:maven/cn.hankchan/utils@0.0.3
+- pkg:maven/cn.hankchan/utils@0.0.3?classifier=sources
+- pkg:maven/cn.hankchan/utils@0.0.4
+- pkg:maven/cn.hankchan/utils@0.0.4?classifier=sources
+- pkg:maven/cn.hankchan/utils@0.0.5
+- pkg:maven/cn.hankchan/utils@0.0.5?classifier=sources
+- pkg:maven/cn.hankchan/utils@0.0.6-BETA
+- pkg:maven/cn.hankchan/utils@0.0.6-BETA?classifier=sources
+- pkg:maven/cn.hankchan/utils@0.0.6?classifier=sources

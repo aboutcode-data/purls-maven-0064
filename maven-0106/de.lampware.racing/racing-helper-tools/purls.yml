@@ -1,0 +1,2 @@
+- pkg:maven/de.lampware.racing/racing-helper-tools@1.0.0
+- pkg:maven/de.lampware.racing/racing-helper-tools@1.0.0?classifier=sources

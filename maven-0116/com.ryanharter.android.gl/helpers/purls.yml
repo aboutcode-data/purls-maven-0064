@@ -1,0 +1,2 @@
+- pkg:maven/com.ryanharter.android.gl/helpers@0.1.9?classifier=sources
+- pkg:maven/com.ryanharter.android.gl/helpers@0.1.9?type=aar

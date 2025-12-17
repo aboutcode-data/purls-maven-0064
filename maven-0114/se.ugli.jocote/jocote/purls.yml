@@ -56,3 +56,5 @@
 - pkg:maven/se.ugli.jocote/jocote@1.8.4.7?classifier=sources
 - pkg:maven/se.ugli.jocote/jocote@1.8.4.8
 - pkg:maven/se.ugli.jocote/jocote@1.8.4.8?classifier=sources
+- pkg:maven/se.ugli.jocote/jocote@1.8.5.0
+- pkg:maven/se.ugli.jocote/jocote@1.8.5.0?classifier=sources

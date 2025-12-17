@@ -1,0 +1,2 @@
+- pkg:maven/com.codacy/codacy-tomcatcp-play243_2.11@5.0.4
+- pkg:maven/com.codacy/codacy-tomcatcp-play243_2.11@5.0.4?classifier=sources

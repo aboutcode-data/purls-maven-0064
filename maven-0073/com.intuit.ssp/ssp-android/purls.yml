@@ -1,1 +1,2 @@
 - pkg:maven/com.intuit.ssp/ssp-android@1.0.4?type=aar
+- pkg:maven/com.intuit.ssp/ssp-android@1.0.5?type=aar

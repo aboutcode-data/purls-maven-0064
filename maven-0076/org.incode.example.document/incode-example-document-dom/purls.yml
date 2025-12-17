@@ -1,0 +1,2 @@
+- pkg:maven/org.incode.example.document/incode-example-document-dom@1.16.0
+- pkg:maven/org.incode.example.document/incode-example-document-dom@1.16.0?classifier=sources

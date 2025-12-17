@@ -1,0 +1,11 @@
+- pkg:maven/cn.zkdcloud/weChat@0.1-RELEASE?classifier=sources
+- pkg:maven/cn.zkdcloud/weChat@0.2-RELEASE
+- pkg:maven/cn.zkdcloud/weChat@0.2-RELEASE?classifier=sources
+- pkg:maven/cn.zkdcloud/weChat@0.3-RELEASE
+- pkg:maven/cn.zkdcloud/weChat@0.3-RELEASE?classifier=sources
+- pkg:maven/cn.zkdcloud/weChat@0.4-RELEASE
+- pkg:maven/cn.zkdcloud/weChat@0.4-RELEASE?classifier=sources
+- pkg:maven/cn.zkdcloud/weChat@0.5-RELEASE
+- pkg:maven/cn.zkdcloud/weChat@0.5-RELEASE?classifier=sources
+- pkg:maven/cn.zkdcloud/weChat@0.6-RELEASE
+- pkg:maven/cn.zkdcloud/weChat@0.6-RELEASE?classifier=sources

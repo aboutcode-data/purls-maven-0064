@@ -4,5 +4,7 @@
 - pkg:maven/org.webjars/chartjs@1.0.2
 - pkg:maven/org.webjars/chartjs@2.1.3
 - pkg:maven/org.webjars/chartjs@2.4.0
+- pkg:maven/org.webjars/chartjs@2.6.0
+- pkg:maven/org.webjars/chartjs@2.7.0
 - pkg:maven/org.webjars/chartjs@26962ce
 - pkg:maven/org.webjars/chartjs@26962ce-1

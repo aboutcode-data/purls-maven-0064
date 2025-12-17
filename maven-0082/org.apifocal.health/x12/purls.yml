@@ -1,0 +1,2 @@
+- pkg:maven/org.apifocal.health/x12@1.1
+- pkg:maven/org.apifocal.health/x12@1.1?classifier=sources

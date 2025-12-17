@@ -1,2 +1,6 @@
 - pkg:maven/net.i2p/servlet-i2p@0.9.30
 - pkg:maven/net.i2p/servlet-i2p@0.9.30?classifier=sources
+- pkg:maven/net.i2p/servlet-i2p@0.9.31
+- pkg:maven/net.i2p/servlet-i2p@0.9.31?classifier=sources
+- pkg:maven/net.i2p/servlet-i2p@0.9.32
+- pkg:maven/net.i2p/servlet-i2p@0.9.32?classifier=sources

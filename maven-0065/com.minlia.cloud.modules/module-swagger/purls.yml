@@ -1,0 +1,2 @@
+- pkg:maven/com.minlia.cloud.modules/module-swagger@1.0.0.RELEASE
+- pkg:maven/com.minlia.cloud.modules/module-swagger@1.0.0.RELEASE?classifier=sources

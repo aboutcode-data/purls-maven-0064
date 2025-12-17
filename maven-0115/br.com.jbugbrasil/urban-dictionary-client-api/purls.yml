@@ -1,0 +1,2 @@
+- pkg:maven/br.com.jbugbrasil/urban-dictionary-client-api@1.2.Final
+- pkg:maven/br.com.jbugbrasil/urban-dictionary-client-api@1.2.Final?classifier=sources

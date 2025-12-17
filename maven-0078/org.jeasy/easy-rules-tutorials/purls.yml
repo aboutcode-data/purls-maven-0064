@@ -1,2 +1,4 @@
 - pkg:maven/org.jeasy/easy-rules-tutorials@3.0.0?classifier=sources
 - pkg:maven/org.jeasy/easy-rules-tutorials@3.0.0?type=war
+- pkg:maven/org.jeasy/easy-rules-tutorials@3.1.0?classifier=sources
+- pkg:maven/org.jeasy/easy-rules-tutorials@3.1.0?type=war

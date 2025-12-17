@@ -1,5 +1,11 @@
 - pkg:maven/edu.ksu.canvas/canvas-api@1.0.10
 - pkg:maven/edu.ksu.canvas/canvas-api@1.0.10?classifier=sources
+- pkg:maven/edu.ksu.canvas/canvas-api@1.0.13
+- pkg:maven/edu.ksu.canvas/canvas-api@1.0.13?classifier=sources
+- pkg:maven/edu.ksu.canvas/canvas-api@1.0.14
+- pkg:maven/edu.ksu.canvas/canvas-api@1.0.14?classifier=sources
+- pkg:maven/edu.ksu.canvas/canvas-api@1.0.15
+- pkg:maven/edu.ksu.canvas/canvas-api@1.0.15?classifier=sources
 - pkg:maven/edu.ksu.canvas/canvas-api@1.0.7
 - pkg:maven/edu.ksu.canvas/canvas-api@1.0.7?classifier=sources
 - pkg:maven/edu.ksu.canvas/canvas-api@1.0.8

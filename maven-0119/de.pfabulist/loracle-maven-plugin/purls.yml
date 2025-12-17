@@ -13,6 +13,12 @@
 - pkg:maven/de.pfabulist/loracle-maven-plugin@1.11.2
 - pkg:maven/de.pfabulist/loracle-maven-plugin@1.11.2?classifier=sources
 - pkg:maven/de.pfabulist/loracle-maven-plugin@1.11?classifier=sources
+- pkg:maven/de.pfabulist/loracle-maven-plugin@1.13
+- pkg:maven/de.pfabulist/loracle-maven-plugin@1.13?classifier=sources
+- pkg:maven/de.pfabulist/loracle-maven-plugin@1.14
+- pkg:maven/de.pfabulist/loracle-maven-plugin@1.14?classifier=sources
+- pkg:maven/de.pfabulist/loracle-maven-plugin@1.15
+- pkg:maven/de.pfabulist/loracle-maven-plugin@1.15?classifier=sources
 - pkg:maven/de.pfabulist/loracle-maven-plugin@1.1?classifier=sources
 - pkg:maven/de.pfabulist/loracle-maven-plugin@1.2
 - pkg:maven/de.pfabulist/loracle-maven-plugin@1.2?classifier=sources
@@ -28,3 +34,5 @@
 - pkg:maven/de.pfabulist/loracle-maven-plugin@1.8?classifier=sources
 - pkg:maven/de.pfabulist/loracle-maven-plugin@1.9
 - pkg:maven/de.pfabulist/loracle-maven-plugin@1.9?classifier=sources
+- pkg:maven/de.pfabulist/loracle-maven-plugin@2.0.1
+- pkg:maven/de.pfabulist/loracle-maven-plugin@2.0.1?classifier=sources

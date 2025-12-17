@@ -2,3 +2,5 @@
 - pkg:maven/ch.agent/t2@1.1.6?classifier=sources
 - pkg:maven/ch.agent/t2@1.1.7
 - pkg:maven/ch.agent/t2@1.1.7?classifier=sources
+- pkg:maven/ch.agent/t2@2.0.0
+- pkg:maven/ch.agent/t2@2.0.0?classifier=sources

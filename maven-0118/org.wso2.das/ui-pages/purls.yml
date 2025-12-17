@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.das/ui-pages@3.1.0-update1
+- pkg:maven/org.wso2.das/ui-pages@3.1.0-update1?classifier=sources

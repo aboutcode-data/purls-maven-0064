@@ -4,3 +4,5 @@
 - pkg:maven/ws.ament.hammock/jpa-eclipselink@1.2
 - pkg:maven/ws.ament.hammock/jpa-eclipselink@1.2.1
 - pkg:maven/ws.ament.hammock/jpa-eclipselink@1.3
+- pkg:maven/ws.ament.hammock/jpa-eclipselink@1.5
+- pkg:maven/ws.ament.hammock/jpa-eclipselink@2.0

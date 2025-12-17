@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.carbon.devicemgt/org.wso2.carbon.device.mgt.deviceagent.api@4.0.6
+- pkg:maven/org.wso2.carbon.devicemgt/org.wso2.carbon.device.mgt.deviceagent.api@4.0.6?classifier=sources

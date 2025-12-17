@@ -46,6 +46,10 @@
 - pkg:maven/com.netflix.fenzo/fenzo-core@0.13.4?classifier=sources
 - pkg:maven/com.netflix.fenzo/fenzo-core@0.13.5
 - pkg:maven/com.netflix.fenzo/fenzo-core@0.13.5?classifier=sources
+- pkg:maven/com.netflix.fenzo/fenzo-core@0.13.6
+- pkg:maven/com.netflix.fenzo/fenzo-core@0.13.6?classifier=sources
+- pkg:maven/com.netflix.fenzo/fenzo-core@0.13.8
+- pkg:maven/com.netflix.fenzo/fenzo-core@0.13.8?classifier=sources
 - pkg:maven/com.netflix.fenzo/fenzo-core@0.2.0
 - pkg:maven/com.netflix.fenzo/fenzo-core@0.2.0?classifier=sources
 - pkg:maven/com.netflix.fenzo/fenzo-core@0.3.0
@@ -120,3 +124,7 @@
 - pkg:maven/com.netflix.fenzo/fenzo-core@0.9.2?classifier=sources
 - pkg:maven/com.netflix.fenzo/fenzo-core@0.9.3
 - pkg:maven/com.netflix.fenzo/fenzo-core@0.9.3?classifier=sources
+- pkg:maven/com.netflix.fenzo/fenzo-core@1.0.0
+- pkg:maven/com.netflix.fenzo/fenzo-core@1.0.0?classifier=sources
+- pkg:maven/com.netflix.fenzo/fenzo-core@1.0.1
+- pkg:maven/com.netflix.fenzo/fenzo-core@1.0.1?classifier=sources

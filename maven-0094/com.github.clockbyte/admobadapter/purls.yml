@@ -18,3 +18,5 @@
 - pkg:maven/com.github.clockbyte/admobadapter@1.4.0?type=aar
 - pkg:maven/com.github.clockbyte/admobadapter@1.4.1?classifier=sources
 - pkg:maven/com.github.clockbyte/admobadapter@1.4.1?type=aar
+- pkg:maven/com.github.clockbyte/admobadapter@1.4.5?classifier=sources
+- pkg:maven/com.github.clockbyte/admobadapter@1.4.5?type=aar

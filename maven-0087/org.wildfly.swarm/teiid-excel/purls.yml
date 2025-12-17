@@ -1,0 +1,4 @@
+- pkg:maven/org.wildfly.swarm/teiid-excel@2012.12.0
+- pkg:maven/org.wildfly.swarm/teiid-excel@2017.12.0
+- pkg:maven/org.wildfly.swarm/teiid-excel@2017.12.1
+- pkg:maven/org.wildfly.swarm/teiid-excel@2018.1.0

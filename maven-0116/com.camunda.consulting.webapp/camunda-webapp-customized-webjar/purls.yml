@@ -1,1 +1,3 @@
 - pkg:maven/com.camunda.consulting.webapp/camunda-webapp-customized-webjar@7.6.0
+- pkg:maven/com.camunda.consulting.webapp/camunda-webapp-customized-webjar@7.7.0
+- pkg:maven/com.camunda.consulting.webapp/camunda-webapp-customized-webjar@7.7.2

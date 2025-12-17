@@ -1,0 +1,2 @@
+- pkg:maven/com.github.penggle/fastdfs-client-java@1.27
+- pkg:maven/com.github.penggle/fastdfs-client-java@1.27?classifier=sources

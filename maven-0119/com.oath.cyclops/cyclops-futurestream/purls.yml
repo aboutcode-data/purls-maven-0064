@@ -1,0 +1,4 @@
+- pkg:maven/com.oath.cyclops/cyclops-futurestream@10.0.0-M4
+- pkg:maven/com.oath.cyclops/cyclops-futurestream@10.0.0-M4?classifier=sources
+- pkg:maven/com.oath.cyclops/cyclops-futurestream@10.0.0-M5
+- pkg:maven/com.oath.cyclops/cyclops-futurestream@10.0.0-M5?classifier=sources

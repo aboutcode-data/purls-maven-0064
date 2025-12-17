@@ -12,3 +12,5 @@
 - pkg:maven/link.bek.tools/issue-keeper-junit@4.12.2?classifier=sources
 - pkg:maven/link.bek.tools/issue-keeper-junit@4.12.3
 - pkg:maven/link.bek.tools/issue-keeper-junit@4.12.3?classifier=sources
+- pkg:maven/link.bek.tools/issue-keeper-junit@4.12.4
+- pkg:maven/link.bek.tools/issue-keeper-junit@4.12.4?classifier=sources

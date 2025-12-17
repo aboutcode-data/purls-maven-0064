@@ -1,0 +1,2 @@
+- pkg:maven/xyz.vopen.cartier/cartier-mcd@0.7.4-RELEASE
+- pkg:maven/xyz.vopen.cartier/cartier-mcd@0.7.4-RELEASE?classifier=sources

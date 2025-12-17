@@ -1,3 +1,4 @@
 - pkg:maven/org.springframework.cloud.task.app/spring-cloud-task-app-starters-docs@1.0.0.RELEASE
 - pkg:maven/org.springframework.cloud.task.app/spring-cloud-task-app-starters-docs@1.0.1.RELEASE
 - pkg:maven/org.springframework.cloud.task.app/spring-cloud-task-app-starters-docs@Belmont.RELEASE
+- pkg:maven/org.springframework.cloud.task.app/spring-cloud-task-app-starters-docs@Clark.RELEASE

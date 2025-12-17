@@ -1,0 +1,2 @@
+- pkg:maven/org.incode.example.docfragment/incode-example-docfragment-dom@1.16.0
+- pkg:maven/org.incode.example.docfragment/incode-example-docfragment-dom@1.16.0?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/com.google.apis/google-api-services-tpu@v1alpha1-rev2-1.18.0-rc
+- pkg:maven/com.google.apis/google-api-services-tpu@v1alpha1-rev2-1.18.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-tpu@v1alpha1-rev2-1.21.0
+- pkg:maven/com.google.apis/google-api-services-tpu@v1alpha1-rev2-1.21.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-tpu@v1alpha1-rev2-1.22.0
+- pkg:maven/com.google.apis/google-api-services-tpu@v1alpha1-rev2-1.22.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-tpu@v1alpha1-rev2-1.23.0
+- pkg:maven/com.google.apis/google-api-services-tpu@v1alpha1-rev2-1.23.0?classifier=sources

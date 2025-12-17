@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.carbon.extension.identity.oauth.addons/org.wso2.carbon.identity.oauth2.token.handler.clientauth.jwt@1.0.0
+- pkg:maven/org.wso2.carbon.extension.identity.oauth.addons/org.wso2.carbon.identity.oauth2.token.handler.clientauth.jwt@1.0.0?classifier=source-release&type=zip

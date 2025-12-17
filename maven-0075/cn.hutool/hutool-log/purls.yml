@@ -1,0 +1,2 @@
+- pkg:maven/cn.hutool/hutool-log@4.0.0
+- pkg:maven/cn.hutool/hutool-log@4.0.0?classifier=sources

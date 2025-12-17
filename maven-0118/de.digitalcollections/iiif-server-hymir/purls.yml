@@ -10,3 +10,13 @@
 - pkg:maven/de.digitalcollections/iiif-server-hymir@2.1.3?type=war
 - pkg:maven/de.digitalcollections/iiif-server-hymir@2.1.5?classifier=sources
 - pkg:maven/de.digitalcollections/iiif-server-hymir@2.1.5?type=war
+- pkg:maven/de.digitalcollections/iiif-server-hymir@2.1.6?classifier=sources
+- pkg:maven/de.digitalcollections/iiif-server-hymir@2.1.6?type=war
+- pkg:maven/de.digitalcollections/iiif-server-hymir@3.0.0
+- pkg:maven/de.digitalcollections/iiif-server-hymir@3.0.0?classifier=sources
+- pkg:maven/de.digitalcollections/iiif-server-hymir@3.0.1
+- pkg:maven/de.digitalcollections/iiif-server-hymir@3.0.1?classifier=sources
+- pkg:maven/de.digitalcollections/iiif-server-hymir@3.1.0
+- pkg:maven/de.digitalcollections/iiif-server-hymir@3.1.0?classifier=sources
+- pkg:maven/de.digitalcollections/iiif-server-hymir@3.3.0
+- pkg:maven/de.digitalcollections/iiif-server-hymir@3.3.0?classifier=sources

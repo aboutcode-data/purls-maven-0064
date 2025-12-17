@@ -2,3 +2,7 @@
 - pkg:maven/tk.plogitech/darksky-forecast-api-jackson@0.10?classifier=sources
 - pkg:maven/tk.plogitech/darksky-forecast-api-jackson@0.9
 - pkg:maven/tk.plogitech/darksky-forecast-api-jackson@0.9?classifier=sources
+- pkg:maven/tk.plogitech/darksky-forecast-api-jackson@1.0.0
+- pkg:maven/tk.plogitech/darksky-forecast-api-jackson@1.0.0?classifier=sources
+- pkg:maven/tk.plogitech/darksky-forecast-api-jackson@1.1.0
+- pkg:maven/tk.plogitech/darksky-forecast-api-jackson@1.1.0?classifier=sources

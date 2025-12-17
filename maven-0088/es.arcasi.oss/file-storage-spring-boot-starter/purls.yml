@@ -2,3 +2,5 @@
 - pkg:maven/es.arcasi.oss/file-storage-spring-boot-starter@0.00.001?classifier=sources
 - pkg:maven/es.arcasi.oss/file-storage-spring-boot-starter@0.00.002
 - pkg:maven/es.arcasi.oss/file-storage-spring-boot-starter@0.00.002?classifier=sources
+- pkg:maven/es.arcasi.oss/file-storage-spring-boot-starter@0.00.003
+- pkg:maven/es.arcasi.oss/file-storage-spring-boot-starter@0.00.003?classifier=sources

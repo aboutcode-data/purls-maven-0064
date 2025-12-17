@@ -1,2 +1,7 @@
+- pkg:maven/org.eclipse.hono/hono-demo-certs@0.5-M10
 - pkg:maven/org.eclipse.hono/hono-demo-certs@0.5-M4
 - pkg:maven/org.eclipse.hono/hono-demo-certs@0.5-M5
+- pkg:maven/org.eclipse.hono/hono-demo-certs@0.5-M6
+- pkg:maven/org.eclipse.hono/hono-demo-certs@0.5-M7
+- pkg:maven/org.eclipse.hono/hono-demo-certs@0.5-M8
+- pkg:maven/org.eclipse.hono/hono-demo-certs@0.5-M9

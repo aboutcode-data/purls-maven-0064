@@ -1,0 +1,10 @@
+- pkg:maven/org.specs2/specs2-fp_2.13.0-M2@4.0.0
+- pkg:maven/org.specs2/specs2-fp_2.13.0-M2@4.0.0?classifier=sources
+- pkg:maven/org.specs2/specs2-fp_2.13.0-M2@4.0.1
+- pkg:maven/org.specs2/specs2-fp_2.13.0-M2@4.0.1?classifier=sources
+- pkg:maven/org.specs2/specs2-fp_2.13.0-M2@4.0.2
+- pkg:maven/org.specs2/specs2-fp_2.13.0-M2@4.0.2-3eab439-20180109215419
+- pkg:maven/org.specs2/specs2-fp_2.13.0-M2@4.0.2-3eab439-20180109215419?classifier=sources
+- pkg:maven/org.specs2/specs2-fp_2.13.0-M2@4.0.2-bc9c22b-20171213063838
+- pkg:maven/org.specs2/specs2-fp_2.13.0-M2@4.0.2-bc9c22b-20171213063838?classifier=sources
+- pkg:maven/org.specs2/specs2-fp_2.13.0-M2@4.0.2?classifier=sources

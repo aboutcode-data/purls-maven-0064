@@ -1,0 +1,2 @@
+- pkg:maven/fr.minuskube/jpastee@1.0.1
+- pkg:maven/fr.minuskube/jpastee@1.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.cirola2000/idol-metadata@0.0.1
+- pkg:maven/com.github.cirola2000/idol-metadata@0.0.1?classifier=sources

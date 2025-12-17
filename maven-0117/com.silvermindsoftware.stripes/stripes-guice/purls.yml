@@ -10,3 +10,5 @@
 - pkg:maven/com.silvermindsoftware.stripes/stripes-guice@3.1?classifier=sources
 - pkg:maven/com.silvermindsoftware.stripes/stripes-guice@3.3
 - pkg:maven/com.silvermindsoftware.stripes/stripes-guice@3.3?classifier=sources
+- pkg:maven/com.silvermindsoftware.stripes/stripes-guice@4.0.0
+- pkg:maven/com.silvermindsoftware.stripes/stripes-guice@4.0.0?classifier=sources

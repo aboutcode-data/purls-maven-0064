@@ -1,4 +1,8 @@
 - pkg:maven/com.github.mike10004/xvfb-selenium@0.1
+- pkg:maven/com.github.mike10004/xvfb-selenium@0.10
+- pkg:maven/com.github.mike10004/xvfb-selenium@0.10?classifier=sources
+- pkg:maven/com.github.mike10004/xvfb-selenium@0.11
+- pkg:maven/com.github.mike10004/xvfb-selenium@0.11?classifier=sources
 - pkg:maven/com.github.mike10004/xvfb-selenium@0.1?classifier=sources
 - pkg:maven/com.github.mike10004/xvfb-selenium@0.2
 - pkg:maven/com.github.mike10004/xvfb-selenium@0.2?classifier=sources
@@ -10,3 +14,7 @@
 - pkg:maven/com.github.mike10004/xvfb-selenium@0.5?classifier=sources
 - pkg:maven/com.github.mike10004/xvfb-selenium@0.7
 - pkg:maven/com.github.mike10004/xvfb-selenium@0.7?classifier=sources
+- pkg:maven/com.github.mike10004/xvfb-selenium@0.8
+- pkg:maven/com.github.mike10004/xvfb-selenium@0.8?classifier=sources
+- pkg:maven/com.github.mike10004/xvfb-selenium@0.9
+- pkg:maven/com.github.mike10004/xvfb-selenium@0.9?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.carbon.identity.agent.entitlement.mediator/org.wso2.carbon.identity.entitlement.proxy@5.1.4
+- pkg:maven/org.wso2.carbon.identity.agent.entitlement.mediator/org.wso2.carbon.identity.entitlement.proxy@5.1.4?classifier=sources

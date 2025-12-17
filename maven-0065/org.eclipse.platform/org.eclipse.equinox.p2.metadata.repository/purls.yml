@@ -1,2 +1,6 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.metadata.repository@1.2.300
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.metadata.repository@1.2.300?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.metadata.repository@1.2.400
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.metadata.repository@1.2.400?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.metadata.repository@1.2.401
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.metadata.repository@1.2.401?classifier=sources

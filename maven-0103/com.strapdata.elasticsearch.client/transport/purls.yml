@@ -1,0 +1,2 @@
+- pkg:maven/com.strapdata.elasticsearch.client/transport@5.5.0
+- pkg:maven/com.strapdata.elasticsearch.client/transport@5.5.0?classifier=sources

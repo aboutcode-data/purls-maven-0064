@@ -13,3 +13,5 @@
 - pkg:maven/nz.net.osnz.composite/composite-jackson@2.4
 - pkg:maven/nz.net.osnz.composite/composite-jackson@2.5
 - pkg:maven/nz.net.osnz.composite/composite-jackson@2.6
+- pkg:maven/nz.net.osnz.composite/composite-jackson@2.7
+- pkg:maven/nz.net.osnz.composite/composite-jackson@2.8

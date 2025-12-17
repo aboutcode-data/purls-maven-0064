@@ -1,0 +1,2 @@
+- pkg:maven/org.rapidpm.binarycache/rapdipm-binarycache-modules-client-connect-rest@0.9.1
+- pkg:maven/org.rapidpm.binarycache/rapdipm-binarycache-modules-client-connect-rest@0.9.1?classifier=sources

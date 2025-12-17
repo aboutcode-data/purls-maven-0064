@@ -1,0 +1,4 @@
+- pkg:maven/org.ikasan/ikasan-eip-standalone@2.0.0-beta
+- pkg:maven/org.ikasan/ikasan-eip-standalone@2.0.0-rc1
+- pkg:maven/org.ikasan/ikasan-eip-standalone@2.0.0-rc2
+- pkg:maven/org.ikasan/ikasan-eip-standalone@2.0.0-rc3

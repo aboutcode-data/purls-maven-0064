@@ -1,2 +1,3 @@
 - pkg:maven/com.icfolson.maven.plugins/aem-package-maven-plugin@0.5.0
 - pkg:maven/com.icfolson.maven.plugins/aem-package-maven-plugin@0.6.0
+- pkg:maven/com.icfolson.maven.plugins/aem-package-maven-plugin@0.7.0

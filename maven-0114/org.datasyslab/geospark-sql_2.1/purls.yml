@@ -1,0 +1,2 @@
+- pkg:maven/org.datasyslab/geospark-sql_2.1@1.0.1
+- pkg:maven/org.datasyslab/geospark-sql_2.1@1.0.1?classifier=sources

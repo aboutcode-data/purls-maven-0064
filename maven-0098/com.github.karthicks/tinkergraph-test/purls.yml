@@ -1,0 +1,8 @@
+- pkg:maven/com.github.karthicks/tinkergraph-test@3.2.5-RC1
+- pkg:maven/com.github.karthicks/tinkergraph-test@3.2.5-RC1?classifier=sources
+- pkg:maven/com.github.karthicks/tinkergraph-test@3.3.0-RC1
+- pkg:maven/com.github.karthicks/tinkergraph-test@3.3.0-RC1?classifier=sources
+- pkg:maven/com.github.karthicks/tinkergraph-test@3.3.1-RC1
+- pkg:maven/com.github.karthicks/tinkergraph-test@3.3.1-RC1?classifier=sources
+- pkg:maven/com.github.karthicks/tinkergraph-test@t1
+- pkg:maven/com.github.karthicks/tinkergraph-test@t1?classifier=sources

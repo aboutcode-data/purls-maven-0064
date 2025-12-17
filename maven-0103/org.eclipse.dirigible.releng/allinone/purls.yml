@@ -1,2 +1,4 @@
 - pkg:maven/org.eclipse.dirigible.releng/allinone@2.7.170608?classifier=sources
 - pkg:maven/org.eclipse.dirigible.releng/allinone@2.7.170608?type=war
+- pkg:maven/org.eclipse.dirigible.releng/allinone@2.8.170821?classifier=sources
+- pkg:maven/org.eclipse.dirigible.releng/allinone@2.8.170821?type=war

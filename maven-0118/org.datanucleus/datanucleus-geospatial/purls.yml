@@ -46,3 +46,7 @@
 - pkg:maven/org.datanucleus/datanucleus-geospatial@5.0.1?classifier=sources
 - pkg:maven/org.datanucleus/datanucleus-geospatial@5.0.2
 - pkg:maven/org.datanucleus/datanucleus-geospatial@5.0.2?classifier=sources
+- pkg:maven/org.datanucleus/datanucleus-geospatial@5.1.0-release
+- pkg:maven/org.datanucleus/datanucleus-geospatial@5.1.0-release?classifier=sources
+- pkg:maven/org.datanucleus/datanucleus-geospatial@5.1.1
+- pkg:maven/org.datanucleus/datanucleus-geospatial@5.1.1?classifier=sources

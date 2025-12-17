@@ -1,0 +1,2 @@
+- pkg:maven/com.github.emc-mongoose/mongoose-storage-driver-viprfs@0.1.0
+- pkg:maven/com.github.emc-mongoose/mongoose-storage-driver-viprfs@0.1.0?classifier=sources

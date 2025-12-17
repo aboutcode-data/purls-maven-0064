@@ -4,3 +4,7 @@
 - pkg:maven/org.webjars.bower/medium-editor@5.14.4?classifier=sources
 - pkg:maven/org.webjars.bower/medium-editor@5.22.1
 - pkg:maven/org.webjars.bower/medium-editor@5.22.1?classifier=sources
+- pkg:maven/org.webjars.bower/medium-editor@5.23.1
+- pkg:maven/org.webjars.bower/medium-editor@5.23.1?classifier=sources
+- pkg:maven/org.webjars.bower/medium-editor@5.23.2
+- pkg:maven/org.webjars.bower/medium-editor@5.23.2?classifier=sources

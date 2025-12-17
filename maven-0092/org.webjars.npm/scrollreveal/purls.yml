@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/scrollreveal@3.3.6
+- pkg:maven/org.webjars.npm/scrollreveal@3.3.6?classifier=sources
+- pkg:maven/org.webjars.npm/scrollreveal@4.0.0-beta.24
+- pkg:maven/org.webjars.npm/scrollreveal@4.0.0-beta.24?classifier=sources

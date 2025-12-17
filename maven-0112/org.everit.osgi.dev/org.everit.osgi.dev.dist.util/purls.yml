@@ -8,3 +8,5 @@
 - pkg:maven/org.everit.osgi.dev/org.everit.osgi.dev.dist.util@5.0.0?classifier=sources
 - pkg:maven/org.everit.osgi.dev/org.everit.osgi.dev.dist.util@5.1.0
 - pkg:maven/org.everit.osgi.dev/org.everit.osgi.dev.dist.util@5.1.0?classifier=sources
+- pkg:maven/org.everit.osgi.dev/org.everit.osgi.dev.dist.util@6.0.0
+- pkg:maven/org.everit.osgi.dev/org.everit.osgi.dev.dist.util@6.0.0?classifier=sources

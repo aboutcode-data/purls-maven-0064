@@ -2,3 +2,5 @@
 - pkg:maven/com.github.gphat/censorinus_2.11@2.1.3?classifier=sources
 - pkg:maven/com.github.gphat/censorinus_2.11@2.1.6
 - pkg:maven/com.github.gphat/censorinus_2.11@2.1.6?classifier=sources
+- pkg:maven/com.github.gphat/censorinus_2.11@2.1.8
+- pkg:maven/com.github.gphat/censorinus_2.11@2.1.8?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/nl.open/java-jwt-nodependencies@3.2.0
+- pkg:maven/nl.open/java-jwt-nodependencies@3.2.0?classifier=sources

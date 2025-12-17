@@ -8,3 +8,7 @@
 - pkg:maven/org.rnorth.visible-assertions/visible-assertions@1.0.4?classifier=sources
 - pkg:maven/org.rnorth.visible-assertions/visible-assertions@1.0.5
 - pkg:maven/org.rnorth.visible-assertions/visible-assertions@1.0.5?classifier=sources
+- pkg:maven/org.rnorth.visible-assertions/visible-assertions@2.0.0
+- pkg:maven/org.rnorth.visible-assertions/visible-assertions@2.0.0?classifier=sources
+- pkg:maven/org.rnorth.visible-assertions/visible-assertions@2.1.0
+- pkg:maven/org.rnorth.visible-assertions/visible-assertions@2.1.0?classifier=sources

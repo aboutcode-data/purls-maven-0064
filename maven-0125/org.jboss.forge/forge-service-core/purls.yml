@@ -44,3 +44,9 @@
 - pkg:maven/org.jboss.forge/forge-service-core@1.0.0.CR5?classifier=sources
 - pkg:maven/org.jboss.forge/forge-service-core@1.0.0.Final
 - pkg:maven/org.jboss.forge/forge-service-core@1.0.0.Final?classifier=sources
+- pkg:maven/org.jboss.forge/forge-service-core@1.0.1.Final
+- pkg:maven/org.jboss.forge/forge-service-core@1.0.1.Final?classifier=sources
+- pkg:maven/org.jboss.forge/forge-service-core@1.0.2.Final
+- pkg:maven/org.jboss.forge/forge-service-core@1.0.2.Final?classifier=sources
+- pkg:maven/org.jboss.forge/forge-service-core@1.0.3.Final
+- pkg:maven/org.jboss.forge/forge-service-core@1.0.3.Final?classifier=sources

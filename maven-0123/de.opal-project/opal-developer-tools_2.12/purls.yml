@@ -1,0 +1,2 @@
+- pkg:maven/de.opal-project/opal-developer-tools_2.12@1.0.0
+- pkg:maven/de.opal-project/opal-developer-tools_2.12@1.0.0?classifier=sources

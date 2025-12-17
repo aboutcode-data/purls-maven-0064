@@ -1,0 +1,2 @@
+- pkg:maven/com.github.william-hill-online/cassandra-gradle-plugin@0.3
+- pkg:maven/com.github.william-hill-online/cassandra-gradle-plugin@0.3?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.iceyyy/icenongli@1.0
 - pkg:maven/com.iceyyy/icenongli@1.0?classifier=sources
+- pkg:maven/com.iceyyy/icenongli@2.0
+- pkg:maven/com.iceyyy/icenongli@2.0?classifier=sources

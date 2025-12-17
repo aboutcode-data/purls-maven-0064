@@ -1,0 +1,4 @@
+- pkg:maven/de.lenabrueder/play-rfc7807_2.12@2.6.0
+- pkg:maven/de.lenabrueder/play-rfc7807_2.12@2.6.0?classifier=sources
+- pkg:maven/de.lenabrueder/play-rfc7807_2.12@2.6.1
+- pkg:maven/de.lenabrueder/play-rfc7807_2.12@2.6.1?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/org.pustefixframework.logging/pustefix-log4j@0.21.0
+- pkg:maven/org.pustefixframework.logging/pustefix-log4j@0.21.0?classifier=sources
+- pkg:maven/org.pustefixframework.logging/pustefix-log4j@0.22.0
+- pkg:maven/org.pustefixframework.logging/pustefix-log4j@0.22.0?classifier=sources
+- pkg:maven/org.pustefixframework.logging/pustefix-log4j@0.22.1
+- pkg:maven/org.pustefixframework.logging/pustefix-log4j@0.22.1?classifier=sources

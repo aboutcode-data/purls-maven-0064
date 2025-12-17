@@ -5,3 +5,5 @@
 - pkg:maven/org.apache.beam/beam-sdks-java-maven-archetypes-examples@0.5.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-maven-archetypes-examples@0.6.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-maven-archetypes-examples@2.0.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-maven-archetypes-examples@2.1.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-maven-archetypes-examples@2.2.0?classifier=sources

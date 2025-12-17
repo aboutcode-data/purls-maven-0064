@@ -50,3 +50,7 @@
 - pkg:maven/net.oneandone/lavender@2.5.4?classifier=sources
 - pkg:maven/net.oneandone/lavender@2.5.5
 - pkg:maven/net.oneandone/lavender@2.5.5?classifier=sources
+- pkg:maven/net.oneandone/lavender@2.6.0
+- pkg:maven/net.oneandone/lavender@2.6.0?classifier=sources
+- pkg:maven/net.oneandone/lavender@2.6.1
+- pkg:maven/net.oneandone/lavender@2.6.1?classifier=sources

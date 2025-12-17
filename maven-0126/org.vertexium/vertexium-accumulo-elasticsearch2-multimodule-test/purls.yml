@@ -1,1 +1,2 @@
 - pkg:maven/org.vertexium/vertexium-accumulo-elasticsearch2-multimodule-test@2.6.1
+- pkg:maven/org.vertexium/vertexium-accumulo-elasticsearch2-multimodule-test@2.6.2

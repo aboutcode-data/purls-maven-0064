@@ -1,2 +1,4 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.console@1.0.500
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.console@1.0.500?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.console@1.0.600
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.p2.console@1.0.600?classifier=sources

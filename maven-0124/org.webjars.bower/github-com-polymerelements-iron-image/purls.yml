@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bower/github-com-polymerelements-iron-image@1.2.3
 - pkg:maven/org.webjars.bower/github-com-polymerelements-iron-image@1.2.3?classifier=sources
+- pkg:maven/org.webjars.bower/github-com-polymerelements-iron-image@2.1.2
+- pkg:maven/org.webjars.bower/github-com-polymerelements-iron-image@2.1.2?classifier=sources

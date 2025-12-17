@@ -1,0 +1,2 @@
+- pkg:maven/com.github.tzimisce012/play-logback-groovy_2.11@0.2.5
+- pkg:maven/com.github.tzimisce012/play-logback-groovy_2.11@0.2.5?classifier=sources
