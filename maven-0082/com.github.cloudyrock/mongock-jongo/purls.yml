@@ -1,0 +1,4 @@
+- pkg:maven/com.github.cloudyrock/mongock-jongo@1.15
+- pkg:maven/com.github.cloudyrock/mongock-jongo@1.15?classifier=sources
+- pkg:maven/com.github.cloudyrock/mongock-jongo@1.16
+- pkg:maven/com.github.cloudyrock/mongock-jongo@1.16?classifier=sources

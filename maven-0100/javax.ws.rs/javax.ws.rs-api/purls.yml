@@ -52,4 +52,5 @@
 - pkg:maven/javax.ws.rs/javax.ws.rs-api@2.1-m07?classifier=sources
 - pkg:maven/javax.ws.rs/javax.ws.rs-api@2.1-m08?classifier=sources
 - pkg:maven/javax.ws.rs/javax.ws.rs-api@2.1-m09?classifier=sources
+- pkg:maven/javax.ws.rs/javax.ws.rs-api@2.1.1?classifier=sources
 - pkg:maven/javax.ws.rs/javax.ws.rs-api@2.1?classifier=sources

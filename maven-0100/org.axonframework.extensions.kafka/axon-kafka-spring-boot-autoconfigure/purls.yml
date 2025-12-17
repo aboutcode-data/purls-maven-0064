@@ -1,0 +1,2 @@
+- pkg:maven/org.axonframework.extensions.kafka/axon-kafka-spring-boot-autoconfigure@4.0-RC2
+- pkg:maven/org.axonframework.extensions.kafka/axon-kafka-spring-boot-autoconfigure@4.0-RC2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/global.namespace.fun-io/fun-io-aws-sdk2@2.0.0
+- pkg:maven/global.namespace.fun-io/fun-io-aws-sdk2@2.0.0?classifier=sources

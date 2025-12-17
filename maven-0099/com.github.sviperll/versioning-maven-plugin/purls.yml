@@ -19,8 +19,12 @@
 - pkg:maven/com.github.sviperll/versioning-maven-plugin@0.21?classifier=sources
 - pkg:maven/com.github.sviperll/versioning-maven-plugin@0.22
 - pkg:maven/com.github.sviperll/versioning-maven-plugin@0.22?classifier=sources
+- pkg:maven/com.github.sviperll/versioning-maven-plugin@0.23
 - pkg:maven/com.github.sviperll/versioning-maven-plugin@0.23-rc1
 - pkg:maven/com.github.sviperll/versioning-maven-plugin@0.23-rc1?classifier=sources
+- pkg:maven/com.github.sviperll/versioning-maven-plugin@0.23-rc2
+- pkg:maven/com.github.sviperll/versioning-maven-plugin@0.23-rc2?classifier=sources
+- pkg:maven/com.github.sviperll/versioning-maven-plugin@0.23?classifier=sources
 - pkg:maven/com.github.sviperll/versioning-maven-plugin@0.2?classifier=sources
 - pkg:maven/com.github.sviperll/versioning-maven-plugin@0.3
 - pkg:maven/com.github.sviperll/versioning-maven-plugin@0.3?classifier=sources

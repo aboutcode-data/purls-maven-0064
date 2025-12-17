@@ -1,0 +1,4 @@
+- pkg:maven/com.github.joniles/rtfparserkit@1.12.0
+- pkg:maven/com.github.joniles/rtfparserkit@1.12.0?classifier=sources
+- pkg:maven/com.github.joniles/rtfparserkit@1.13.0
+- pkg:maven/com.github.joniles/rtfparserkit@1.13.0?classifier=sources

@@ -1,0 +1,14 @@
+- pkg:maven/com.github.andtankian/Ribrest@1.10.3
+- pkg:maven/com.github.andtankian/Ribrest@1.10.3?classifier=sources
+- pkg:maven/com.github.andtankian/Ribrest@1.17.4
+- pkg:maven/com.github.andtankian/Ribrest@1.17.4.1
+- pkg:maven/com.github.andtankian/Ribrest@1.17.4.1?classifier=sources
+- pkg:maven/com.github.andtankian/Ribrest@1.17.4?classifier=sources
+- pkg:maven/com.github.andtankian/Ribrest@1.19.0
+- pkg:maven/com.github.andtankian/Ribrest@1.19.0?classifier=sources
+- pkg:maven/com.github.andtankian/Ribrest@1.20.0
+- pkg:maven/com.github.andtankian/Ribrest@1.20.0?classifier=sources
+- pkg:maven/com.github.andtankian/Ribrest@1.21.1
+- pkg:maven/com.github.andtankian/Ribrest@1.21.1?classifier=sources
+- pkg:maven/com.github.andtankian/Ribrest@1.22.0
+- pkg:maven/com.github.andtankian/Ribrest@1.22.0?classifier=sources

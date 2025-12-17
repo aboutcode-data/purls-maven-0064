@@ -12,3 +12,7 @@
 - pkg:maven/com.linkedin.pegasus/d2-benchmark@20.0.4?classifier=sources
 - pkg:maven/com.linkedin.pegasus/d2-benchmark@21.0.0
 - pkg:maven/com.linkedin.pegasus/d2-benchmark@21.0.0?classifier=sources
+- pkg:maven/com.linkedin.pegasus/d2-benchmark@23.0.19
+- pkg:maven/com.linkedin.pegasus/d2-benchmark@23.0.19?classifier=sources
+- pkg:maven/com.linkedin.pegasus/d2-benchmark@24.0.2
+- pkg:maven/com.linkedin.pegasus/d2-benchmark@24.0.2?classifier=sources

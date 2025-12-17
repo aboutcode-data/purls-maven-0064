@@ -1,0 +1,2 @@
+- pkg:maven/ch.wavein/wi-play-mongo_2.12@1.6
+- pkg:maven/ch.wavein/wi-play-mongo_2.12@1.6?classifier=sources

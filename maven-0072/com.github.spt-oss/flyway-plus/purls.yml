@@ -18,3 +18,5 @@
 - pkg:maven/com.github.spt-oss/flyway-plus@0.4.3?classifier=sources
 - pkg:maven/com.github.spt-oss/flyway-plus@4.2.0.0
 - pkg:maven/com.github.spt-oss/flyway-plus@4.2.0.0?classifier=sources
+- pkg:maven/com.github.spt-oss/flyway-plus@5.1.4.0
+- pkg:maven/com.github.spt-oss/flyway-plus@5.1.4.0?classifier=sources

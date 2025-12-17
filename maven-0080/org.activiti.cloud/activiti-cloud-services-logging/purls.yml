@@ -1,3 +1,4 @@
 - pkg:maven/org.activiti.cloud/activiti-cloud-services-logging@7-201712-EA
 - pkg:maven/org.activiti.cloud/activiti-cloud-services-logging@7-201801-EA
 - pkg:maven/org.activiti.cloud/activiti-cloud-services-logging@7-201802-EA
+- pkg:maven/org.activiti.cloud/activiti-cloud-services-logging@7.0.0.Beta1

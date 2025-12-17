@@ -1,2 +1,12 @@
 - pkg:maven/com.imsweb/validation-edits-naaccr-translated@001-01
 - pkg:maven/com.imsweb/validation-edits-naaccr-translated@001-01?classifier=sources
+- pkg:maven/com.imsweb/validation-edits-naaccr-translated@002-01
+- pkg:maven/com.imsweb/validation-edits-naaccr-translated@002-01?classifier=sources
+- pkg:maven/com.imsweb/validation-edits-naaccr-translated@002-02
+- pkg:maven/com.imsweb/validation-edits-naaccr-translated@002-02?classifier=sources
+- pkg:maven/com.imsweb/validation-edits-naaccr-translated@003-01
+- pkg:maven/com.imsweb/validation-edits-naaccr-translated@003-01?classifier=sources
+- pkg:maven/com.imsweb/validation-edits-naaccr-translated@004-01
+- pkg:maven/com.imsweb/validation-edits-naaccr-translated@004-01?classifier=sources
+- pkg:maven/com.imsweb/validation-edits-naaccr-translated@004-02
+- pkg:maven/com.imsweb/validation-edits-naaccr-translated@004-02?classifier=sources

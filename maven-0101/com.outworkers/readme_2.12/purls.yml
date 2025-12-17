@@ -1,3 +1,5 @@
+- pkg:maven/com.outworkers/readme_2.12@0.47.0
+- pkg:maven/com.outworkers/readme_2.12@0.47.0?classifier=sources
 - pkg:maven/com.outworkers/readme_2.12@2.13.3
 - pkg:maven/com.outworkers/readme_2.12@2.13.3?classifier=sources
 - pkg:maven/com.outworkers/readme_2.12@2.13.4

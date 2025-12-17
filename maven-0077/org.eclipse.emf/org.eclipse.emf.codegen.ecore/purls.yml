@@ -14,6 +14,8 @@
 - pkg:maven/org.eclipse.emf/org.eclipse.emf.codegen.ecore@2.11.0?classifier=sources
 - pkg:maven/org.eclipse.emf/org.eclipse.emf.codegen.ecore@2.12.0
 - pkg:maven/org.eclipse.emf/org.eclipse.emf.codegen.ecore@2.12.0?classifier=sources
+- pkg:maven/org.eclipse.emf/org.eclipse.emf.codegen.ecore@2.15.0
+- pkg:maven/org.eclipse.emf/org.eclipse.emf.codegen.ecore@2.15.0?classifier=sources
 - pkg:maven/org.eclipse.emf/org.eclipse.emf.codegen.ecore@2.9.1-v20130902-0605
 - pkg:maven/org.eclipse.emf/org.eclipse.emf.codegen.ecore@2.9.1-v20130902-0605?classifier=sources
 - pkg:maven/org.eclipse.emf/org.eclipse.emf.codegen.ecore@2.9.1-v20140203-1126

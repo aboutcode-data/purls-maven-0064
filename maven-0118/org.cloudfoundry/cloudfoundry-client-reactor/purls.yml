@@ -64,6 +64,10 @@
 - pkg:maven/org.cloudfoundry/cloudfoundry-client-reactor@2.3.0.RELEASE?classifier=sources
 - pkg:maven/org.cloudfoundry/cloudfoundry-client-reactor@2.30.0.RELEASE
 - pkg:maven/org.cloudfoundry/cloudfoundry-client-reactor@2.30.0.RELEASE?classifier=sources
+- pkg:maven/org.cloudfoundry/cloudfoundry-client-reactor@2.31.0.RELEASE
+- pkg:maven/org.cloudfoundry/cloudfoundry-client-reactor@2.31.0.RELEASE?classifier=sources
+- pkg:maven/org.cloudfoundry/cloudfoundry-client-reactor@2.32.0.RELEASE
+- pkg:maven/org.cloudfoundry/cloudfoundry-client-reactor@2.32.0.RELEASE?classifier=sources
 - pkg:maven/org.cloudfoundry/cloudfoundry-client-reactor@2.4.0.RELEASE
 - pkg:maven/org.cloudfoundry/cloudfoundry-client-reactor@2.4.0.RELEASE?classifier=sources
 - pkg:maven/org.cloudfoundry/cloudfoundry-client-reactor@2.5.0.RELEASE
@@ -84,6 +88,10 @@
 - pkg:maven/org.cloudfoundry/cloudfoundry-client-reactor@3.10.0.RELEASE?classifier=sources
 - pkg:maven/org.cloudfoundry/cloudfoundry-client-reactor@3.11.0.RELEASE
 - pkg:maven/org.cloudfoundry/cloudfoundry-client-reactor@3.11.0.RELEASE?classifier=sources
+- pkg:maven/org.cloudfoundry/cloudfoundry-client-reactor@3.12.0.RELEASE
+- pkg:maven/org.cloudfoundry/cloudfoundry-client-reactor@3.12.0.RELEASE?classifier=sources
+- pkg:maven/org.cloudfoundry/cloudfoundry-client-reactor@3.13.0.RELEASE
+- pkg:maven/org.cloudfoundry/cloudfoundry-client-reactor@3.13.0.RELEASE?classifier=sources
 - pkg:maven/org.cloudfoundry/cloudfoundry-client-reactor@3.2.0.RELEASE
 - pkg:maven/org.cloudfoundry/cloudfoundry-client-reactor@3.2.0.RELEASE?classifier=sources
 - pkg:maven/org.cloudfoundry/cloudfoundry-client-reactor@3.3.0.RELEASE

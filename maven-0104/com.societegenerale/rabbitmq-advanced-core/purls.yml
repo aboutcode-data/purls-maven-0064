@@ -2,3 +2,5 @@
 - pkg:maven/com.societegenerale/rabbitmq-advanced-core@1.0.0.RELEASE?classifier=sources
 - pkg:maven/com.societegenerale/rabbitmq-advanced-core@1.0.1.RELEASE
 - pkg:maven/com.societegenerale/rabbitmq-advanced-core@1.0.1.RELEASE?classifier=sources
+- pkg:maven/com.societegenerale/rabbitmq-advanced-core@2.0.0.RELEASE
+- pkg:maven/com.societegenerale/rabbitmq-advanced-core@2.0.0.RELEASE?classifier=sources

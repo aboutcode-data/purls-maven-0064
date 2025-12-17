@@ -1,0 +1,2 @@
+- pkg:maven/ch.epfl.scala/directory-watcher@0.8.0%2B6-f651bd93
+- pkg:maven/ch.epfl.scala/directory-watcher@0.8.0%2B6-f651bd93?classifier=sources

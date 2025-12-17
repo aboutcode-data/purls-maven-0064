@@ -1,0 +1,2 @@
+- pkg:maven/io.getnelson.api/getnelson-api_2.11@0.12.4
+- pkg:maven/io.getnelson.api/getnelson-api_2.11@0.12.4?classifier=sources

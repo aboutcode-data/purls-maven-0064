@@ -29,3 +29,6 @@
 - pkg:maven/org.apache.maven.plugins/maven-deploy-plugin@2.8.2?classifier=sources
 - pkg:maven/org.apache.maven.plugins/maven-deploy-plugin@2.8?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.plugins/maven-deploy-plugin@2.8?classifier=sources
+- pkg:maven/org.apache.maven.plugins/maven-deploy-plugin@3.0.0-M1
+- pkg:maven/org.apache.maven.plugins/maven-deploy-plugin@3.0.0-M1?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.plugins/maven-deploy-plugin@3.0.0-M1?classifier=sources

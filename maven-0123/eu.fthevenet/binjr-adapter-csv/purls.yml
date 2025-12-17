@@ -1,0 +1,2 @@
+- pkg:maven/eu.fthevenet/binjr-adapter-csv@2.0.0
+- pkg:maven/eu.fthevenet/binjr-adapter-csv@2.0.0?classifier=sources

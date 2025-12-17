@@ -28,3 +28,5 @@
 - pkg:maven/org.gitlab/java-gitlab-api@1.2.8?classifier=sources
 - pkg:maven/org.gitlab/java-gitlab-api@4.0.0
 - pkg:maven/org.gitlab/java-gitlab-api@4.0.0?classifier=sources
+- pkg:maven/org.gitlab/java-gitlab-api@4.1.0
+- pkg:maven/org.gitlab/java-gitlab-api@4.1.0?classifier=sources

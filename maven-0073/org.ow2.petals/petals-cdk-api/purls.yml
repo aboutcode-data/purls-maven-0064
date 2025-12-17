@@ -45,3 +45,9 @@
 - pkg:maven/org.ow2.petals/petals-cdk-api@2.5.2
 - pkg:maven/org.ow2.petals/petals-cdk-api@2.5.2?classifier=source-release&type=zip
 - pkg:maven/org.ow2.petals/petals-cdk-api@2.5.2?classifier=sources
+- pkg:maven/org.ow2.petals/petals-cdk-api@2.6.0
+- pkg:maven/org.ow2.petals/petals-cdk-api@2.6.0?classifier=source-release&type=zip
+- pkg:maven/org.ow2.petals/petals-cdk-api@2.6.0?classifier=sources
+- pkg:maven/org.ow2.petals/petals-cdk-api@2.6.1
+- pkg:maven/org.ow2.petals/petals-cdk-api@2.6.1?classifier=source-release&type=zip
+- pkg:maven/org.ow2.petals/petals-cdk-api@2.6.1?classifier=sources

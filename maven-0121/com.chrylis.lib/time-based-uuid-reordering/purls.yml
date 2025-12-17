@@ -1,0 +1,2 @@
+- pkg:maven/com.chrylis.lib/time-based-uuid-reordering@1.0.0
+- pkg:maven/com.chrylis.lib/time-based-uuid-reordering@1.0.0?classifier=sources

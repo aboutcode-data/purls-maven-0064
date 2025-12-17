@@ -4,3 +4,7 @@
 - pkg:maven/xyz.vopen.microservices/tiffany-surface@Asia.RC2?classifier=sources
 - pkg:maven/xyz.vopen.microservices/tiffany-surface@Asia.RC3
 - pkg:maven/xyz.vopen.microservices/tiffany-surface@Asia.RC3?classifier=sources
+- pkg:maven/xyz.vopen.microservices/tiffany-surface@Asia.RC4
+- pkg:maven/xyz.vopen.microservices/tiffany-surface@Asia.RC4?classifier=sources
+- pkg:maven/xyz.vopen.microservices/tiffany-surface@Asia.RC5
+- pkg:maven/xyz.vopen.microservices/tiffany-surface@Asia.RC5?classifier=sources

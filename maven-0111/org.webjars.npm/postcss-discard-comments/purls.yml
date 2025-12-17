@@ -1,4 +1,6 @@
 - pkg:maven/org.webjars.npm/postcss-discard-comments@2.0.4
 - pkg:maven/org.webjars.npm/postcss-discard-comments@2.0.4?classifier=sources
+- pkg:maven/org.webjars.npm/postcss-discard-comments@4.0.0
 - pkg:maven/org.webjars.npm/postcss-discard-comments@4.0.0-rc.2
 - pkg:maven/org.webjars.npm/postcss-discard-comments@4.0.0-rc.2?classifier=sources
+- pkg:maven/org.webjars.npm/postcss-discard-comments@4.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.759434091/jwt-security-spring-boot-starter@1.0.0
+- pkg:maven/com.github.759434091/jwt-security-spring-boot-starter@1.0.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/no.sysco.middleware.zipkin/zipkin-dependencies-streaming@0.1.0
+- pkg:maven/no.sysco.middleware.zipkin/zipkin-dependencies-streaming@0.1.0?classifier=sources
+- pkg:maven/no.sysco.middleware.zipkin/zipkin-dependencies-streaming@0.1.1
+- pkg:maven/no.sysco.middleware.zipkin/zipkin-dependencies-streaming@0.1.1?classifier=sources

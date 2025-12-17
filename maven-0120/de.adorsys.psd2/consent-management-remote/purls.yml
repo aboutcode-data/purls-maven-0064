@@ -1,0 +1,2 @@
+- pkg:maven/de.adorsys.psd2/consent-management-remote@1.11
+- pkg:maven/de.adorsys.psd2/consent-management-remote@1.11?classifier=sources

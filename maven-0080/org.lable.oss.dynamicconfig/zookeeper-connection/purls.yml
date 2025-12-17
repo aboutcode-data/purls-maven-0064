@@ -1,4 +1,14 @@
+- pkg:maven/org.lable.oss.dynamicconfig/zookeeper-connection@2.6-beta10
+- pkg:maven/org.lable.oss.dynamicconfig/zookeeper-connection@2.6-beta10?classifier=sources
 - pkg:maven/org.lable.oss.dynamicconfig/zookeeper-connection@2.6-beta4
 - pkg:maven/org.lable.oss.dynamicconfig/zookeeper-connection@2.6-beta4?classifier=sources
 - pkg:maven/org.lable.oss.dynamicconfig/zookeeper-connection@2.6-beta5
 - pkg:maven/org.lable.oss.dynamicconfig/zookeeper-connection@2.6-beta5?classifier=sources
+- pkg:maven/org.lable.oss.dynamicconfig/zookeeper-connection@2.6-beta6
+- pkg:maven/org.lable.oss.dynamicconfig/zookeeper-connection@2.6-beta6?classifier=sources
+- pkg:maven/org.lable.oss.dynamicconfig/zookeeper-connection@2.6-beta7
+- pkg:maven/org.lable.oss.dynamicconfig/zookeeper-connection@2.6-beta7?classifier=sources
+- pkg:maven/org.lable.oss.dynamicconfig/zookeeper-connection@2.6-beta8
+- pkg:maven/org.lable.oss.dynamicconfig/zookeeper-connection@2.6-beta8?classifier=sources
+- pkg:maven/org.lable.oss.dynamicconfig/zookeeper-connection@2.6-beta9
+- pkg:maven/org.lable.oss.dynamicconfig/zookeeper-connection@2.6-beta9?classifier=sources

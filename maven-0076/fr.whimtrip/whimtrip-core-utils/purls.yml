@@ -1,0 +1,12 @@
+- pkg:maven/fr.whimtrip/whimtrip-core-utils@1.0.10
+- pkg:maven/fr.whimtrip/whimtrip-core-utils@1.0.10?classifier=sources
+- pkg:maven/fr.whimtrip/whimtrip-core-utils@1.0.11
+- pkg:maven/fr.whimtrip/whimtrip-core-utils@1.0.11?classifier=sources
+- pkg:maven/fr.whimtrip/whimtrip-core-utils@1.0.12
+- pkg:maven/fr.whimtrip/whimtrip-core-utils@1.0.12?classifier=sources
+- pkg:maven/fr.whimtrip/whimtrip-core-utils@1.0.5
+- pkg:maven/fr.whimtrip/whimtrip-core-utils@1.0.5?classifier=sources
+- pkg:maven/fr.whimtrip/whimtrip-core-utils@1.0.8
+- pkg:maven/fr.whimtrip/whimtrip-core-utils@1.0.8?classifier=sources
+- pkg:maven/fr.whimtrip/whimtrip-core-utils@1.0.9
+- pkg:maven/fr.whimtrip/whimtrip-core-utils@1.0.9?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.github.JoeKerouac/net@1.5.002
+- pkg:maven/com.github.JoeKerouac/net@1.5.002?classifier=sources
+- pkg:maven/com.github.JoeKerouac/net@1.7.000
+- pkg:maven/com.github.JoeKerouac/net@1.7.000?classifier=sources

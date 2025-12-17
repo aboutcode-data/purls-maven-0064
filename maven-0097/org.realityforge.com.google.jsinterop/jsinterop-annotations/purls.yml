@@ -1,0 +1,2 @@
+- pkg:maven/org.realityforge.com.google.jsinterop/jsinterop-annotations@1.0.2-p1
+- pkg:maven/org.realityforge.com.google.jsinterop/jsinterop-annotations@1.0.2-p1?classifier=sources

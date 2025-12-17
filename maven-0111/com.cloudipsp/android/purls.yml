@@ -38,6 +38,8 @@
 - pkg:maven/com.cloudipsp/android@1.04?type=aar
 - pkg:maven/com.cloudipsp/android@1.05?classifier=sources
 - pkg:maven/com.cloudipsp/android@1.05?type=aar
+- pkg:maven/com.cloudipsp/android@1.06?classifier=sources
+- pkg:maven/com.cloudipsp/android@1.06?type=aar
 - pkg:maven/com.cloudipsp/android@1.0?classifier=sources
 - pkg:maven/com.cloudipsp/android@1.0?type=aar
 - pkg:maven/com.cloudipsp/android@beta0.1?classifier=sources

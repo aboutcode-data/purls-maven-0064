@@ -1,0 +1,2 @@
+- pkg:maven/net.quasardb/kafka-connect-qdb@3.0.0
+- pkg:maven/net.quasardb/kafka-connect-qdb@3.0.0?classifier=sources

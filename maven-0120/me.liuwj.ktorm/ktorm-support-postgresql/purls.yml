@@ -1,0 +1,4 @@
+- pkg:maven/me.liuwj.ktorm/ktorm-support-postgresql@1.0
+- pkg:maven/me.liuwj.ktorm/ktorm-support-postgresql@1.0-beta
+- pkg:maven/me.liuwj.ktorm/ktorm-support-postgresql@1.0-beta?classifier=sources
+- pkg:maven/me.liuwj.ktorm/ktorm-support-postgresql@1.0?classifier=sources

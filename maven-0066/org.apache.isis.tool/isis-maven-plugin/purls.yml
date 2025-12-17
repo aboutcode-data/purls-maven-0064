@@ -32,3 +32,5 @@
 - pkg:maven/org.apache.isis.tool/isis-maven-plugin@1.8.0?classifier=sources
 - pkg:maven/org.apache.isis.tool/isis-maven-plugin@1.9.0
 - pkg:maven/org.apache.isis.tool/isis-maven-plugin@1.9.0?classifier=sources
+- pkg:maven/org.apache.isis.tool/isis-maven-plugin@2.0.0-M1
+- pkg:maven/org.apache.isis.tool/isis-maven-plugin@2.0.0-M1?classifier=sources

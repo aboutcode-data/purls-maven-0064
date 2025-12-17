@@ -1,0 +1,2 @@
+- pkg:maven/mx.com.sw/sw-resources-java@0.0.1
+- pkg:maven/mx.com.sw/sw-resources-java@0.0.1?classifier=sources

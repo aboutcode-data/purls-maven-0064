@@ -1,0 +1,2 @@
+- pkg:maven/org.gemini4j/reporter-html@0.0.1
+- pkg:maven/org.gemini4j/reporter-html@0.0.1?classifier=sources

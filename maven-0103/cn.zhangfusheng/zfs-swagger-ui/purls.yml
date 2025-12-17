@@ -1,0 +1,6 @@
+- pkg:maven/cn.zhangfusheng/zfs-swagger-ui@1.0.0
+- pkg:maven/cn.zhangfusheng/zfs-swagger-ui@1.0.0?classifier=sources
+- pkg:maven/cn.zhangfusheng/zfs-swagger-ui@1.0.1.web
+- pkg:maven/cn.zhangfusheng/zfs-swagger-ui@1.0.1.web?classifier=sources
+- pkg:maven/cn.zhangfusheng/zfs-swagger-ui@1.0.2.web
+- pkg:maven/cn.zhangfusheng/zfs-swagger-ui@1.0.2.web?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/org.arakhne.afc.core/text@13.0?classifier=sources
 - pkg:maven/org.arakhne.afc.core/text@14.0
 - pkg:maven/org.arakhne.afc.core/text@14.0?classifier=sources
+- pkg:maven/org.arakhne.afc.core/text@15.0
+- pkg:maven/org.arakhne.afc.core/text@15.0?classifier=sources

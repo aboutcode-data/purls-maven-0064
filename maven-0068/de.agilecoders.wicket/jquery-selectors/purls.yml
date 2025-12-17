@@ -44,3 +44,7 @@
 - pkg:maven/de.agilecoders.wicket/jquery-selectors@2.0.0-M5
 - pkg:maven/de.agilecoders.wicket/jquery-selectors@2.0.0-M5?classifier=sources
 - pkg:maven/de.agilecoders.wicket/jquery-selectors@2.0.0?classifier=sources
+- pkg:maven/de.agilecoders.wicket/jquery-selectors@2.0.1
+- pkg:maven/de.agilecoders.wicket/jquery-selectors@2.0.1?classifier=sources
+- pkg:maven/de.agilecoders.wicket/jquery-selectors@2.0.2
+- pkg:maven/de.agilecoders.wicket/jquery-selectors@2.0.2?classifier=sources

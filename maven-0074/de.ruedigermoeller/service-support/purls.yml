@@ -22,3 +22,11 @@
 - pkg:maven/de.ruedigermoeller/service-support@4.25.2
 - pkg:maven/de.ruedigermoeller/service-support@4.25.2?classifier=sources
 - pkg:maven/de.ruedigermoeller/service-support@4.25?classifier=sources
+- pkg:maven/de.ruedigermoeller/service-support@4.26
+- pkg:maven/de.ruedigermoeller/service-support@4.26.1
+- pkg:maven/de.ruedigermoeller/service-support@4.26.1?classifier=sources
+- pkg:maven/de.ruedigermoeller/service-support@4.26.2
+- pkg:maven/de.ruedigermoeller/service-support@4.26.2?classifier=sources
+- pkg:maven/de.ruedigermoeller/service-support@4.26.3
+- pkg:maven/de.ruedigermoeller/service-support@4.26.3?classifier=sources
+- pkg:maven/de.ruedigermoeller/service-support@4.26?classifier=sources

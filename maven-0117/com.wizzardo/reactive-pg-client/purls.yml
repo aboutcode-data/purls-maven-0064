@@ -1,0 +1,2 @@
+- pkg:maven/com.wizzardo/reactive-pg-client@0.10.2.1
+- pkg:maven/com.wizzardo/reactive-pg-client@0.10.2.1?classifier=sources

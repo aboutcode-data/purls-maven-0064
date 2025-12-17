@@ -1,0 +1,6 @@
+- pkg:maven/com.github.mrzhqiang.helper/helper@1.0-beta
+- pkg:maven/com.github.mrzhqiang.helper/helper@1.0-beta?classifier=sources
+- pkg:maven/com.github.mrzhqiang.helper/helper@2018.1.0
+- pkg:maven/com.github.mrzhqiang.helper/helper@2018.1.0?classifier=sources
+- pkg:maven/com.github.mrzhqiang.helper/helper@2018.1.1
+- pkg:maven/com.github.mrzhqiang.helper/helper@2018.1.1?classifier=sources

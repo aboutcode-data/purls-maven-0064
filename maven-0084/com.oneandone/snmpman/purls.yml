@@ -4,4 +4,10 @@
 - pkg:maven/com.oneandone/snmpman@1.2.56
 - pkg:maven/com.oneandone/snmpman@1.2.56?classifier=sources
 - pkg:maven/com.oneandone/snmpman@1.2.82?classifier=sources
+- pkg:maven/com.oneandone/snmpman@1.3.1
+- pkg:maven/com.oneandone/snmpman@1.3.1?classifier=sources
 - pkg:maven/com.oneandone/snmpman@1.3?classifier=sources
+- pkg:maven/com.oneandone/snmpman@1.4.0
+- pkg:maven/com.oneandone/snmpman@1.4.0?classifier=sources
+- pkg:maven/com.oneandone/snmpman@1.4.1
+- pkg:maven/com.oneandone/snmpman@1.4.1?classifier=sources

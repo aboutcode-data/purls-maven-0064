@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.okapi.testutilities/okapi-ui-harness@0.36
+- pkg:maven/net.sf.okapi.testutilities/okapi-ui-harness@0.36?classifier=sources

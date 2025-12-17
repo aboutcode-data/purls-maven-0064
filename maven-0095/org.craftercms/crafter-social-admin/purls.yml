@@ -33,6 +33,10 @@
 - pkg:maven/org.craftercms/crafter-social-admin@3.0.12?type=war
 - pkg:maven/org.craftercms/crafter-social-admin@3.0.13?type=war
 - pkg:maven/org.craftercms/crafter-social-admin@3.0.14?type=war
+- pkg:maven/org.craftercms/crafter-social-admin@3.0.15?type=war
+- pkg:maven/org.craftercms/crafter-social-admin@3.0.16?type=war
+- pkg:maven/org.craftercms/crafter-social-admin@3.0.17?type=war
+- pkg:maven/org.craftercms/crafter-social-admin@3.0.18?type=war
 - pkg:maven/org.craftercms/crafter-social-admin@3.0.1?type=war
 - pkg:maven/org.craftercms/crafter-social-admin@3.0.2?type=war
 - pkg:maven/org.craftercms/crafter-social-admin@3.0.3?type=war

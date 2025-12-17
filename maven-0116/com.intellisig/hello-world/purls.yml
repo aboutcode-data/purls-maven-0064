@@ -1,0 +1,8 @@
+- pkg:maven/com.intellisig/hello-world@1.%24%7BbuildNumber%7D
+- pkg:maven/com.intellisig/hello-world@1.%24%7BbuildNumber%7D?classifier=sources
+- pkg:maven/com.intellisig/hello-world@1.0
+- pkg:maven/com.intellisig/hello-world@1.0?classifier=sources
+- pkg:maven/com.intellisig/hello-world@18.1109.1553
+- pkg:maven/com.intellisig/hello-world@18.1109.1553?classifier=sources
+- pkg:maven/com.intellisig/hello-world@18.1129.1420
+- pkg:maven/com.intellisig/hello-world@18.1129.1420?classifier=sources

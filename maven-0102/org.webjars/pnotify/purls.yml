@@ -2,3 +2,4 @@
 - pkg:maven/org.webjars/pnotify@2.0.1
 - pkg:maven/org.webjars/pnotify@2.1.0
 - pkg:maven/org.webjars/pnotify@2.1.0-1
+- pkg:maven/org.webjars/pnotify@3.2.1

@@ -5,3 +5,5 @@
 - pkg:maven/org.apache.ranger/security-admin-web@0.7.0?type=war
 - pkg:maven/org.apache.ranger/security-admin-web@0.7.1?type=war
 - pkg:maven/org.apache.ranger/security-admin-web@1.0.0?type=war
+- pkg:maven/org.apache.ranger/security-admin-web@1.1.0?type=war
+- pkg:maven/org.apache.ranger/security-admin-web@1.2.0?type=war

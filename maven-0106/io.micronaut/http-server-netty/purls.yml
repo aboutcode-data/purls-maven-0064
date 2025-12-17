@@ -1,0 +1,2 @@
+- pkg:maven/io.micronaut/http-server-netty@1.0.0.RC2
+- pkg:maven/io.micronaut/http-server-netty@1.0.0.RC2?classifier=sources

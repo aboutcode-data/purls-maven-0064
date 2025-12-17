@@ -1,0 +1,2 @@
+- pkg:maven/com.techempower/gemini-jdbc@2.22.0
+- pkg:maven/com.techempower/gemini-jdbc@2.22.0?classifier=sources

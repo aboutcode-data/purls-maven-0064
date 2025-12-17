@@ -1,0 +1,5 @@
+- pkg:maven/com.linkmobility.events/test-events@1.0
+- pkg:maven/com.linkmobility.events/test-events@1.0.0
+- pkg:maven/com.linkmobility.events/test-events@1.0?classifier=sources
+- pkg:maven/com.linkmobility.events/test-events@1.1.0
+- pkg:maven/com.linkmobility.events/test-events@1.1.0?classifier=sources

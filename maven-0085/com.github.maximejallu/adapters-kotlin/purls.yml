@@ -1,0 +1,6 @@
+- pkg:maven/com.github.maximejallu/adapters-kotlin@18.07.01?classifier=sources
+- pkg:maven/com.github.maximejallu/adapters-kotlin@18.07.01?type=aar
+- pkg:maven/com.github.maximejallu/adapters-kotlin@18.07.02?classifier=sources
+- pkg:maven/com.github.maximejallu/adapters-kotlin@18.07.02?type=aar
+- pkg:maven/com.github.maximejallu/adapters-kotlin@18.08.01?classifier=sources
+- pkg:maven/com.github.maximejallu/adapters-kotlin@18.08.01?type=aar

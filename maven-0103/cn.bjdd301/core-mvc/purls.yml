@@ -1,0 +1,2 @@
+- pkg:maven/cn.bjdd301/core-mvc@1.0.0
+- pkg:maven/cn.bjdd301/core-mvc@1.0.0?classifier=sources

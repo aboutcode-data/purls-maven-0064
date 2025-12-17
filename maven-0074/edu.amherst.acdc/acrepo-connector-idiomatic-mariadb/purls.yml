@@ -1,0 +1,2 @@
+- pkg:maven/edu.amherst.acdc/acrepo-connector-idiomatic-mariadb@1.2.0
+- pkg:maven/edu.amherst.acdc/acrepo-connector-idiomatic-mariadb@1.2.0?classifier=sources

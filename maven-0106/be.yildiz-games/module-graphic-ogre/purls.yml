@@ -14,3 +14,5 @@
 - pkg:maven/be.yildiz-games/module-graphic-ogre@2.0.2?classifier=sources
 - pkg:maven/be.yildiz-games/module-graphic-ogre@2.0.3
 - pkg:maven/be.yildiz-games/module-graphic-ogre@2.0.3?classifier=sources
+- pkg:maven/be.yildiz-games/module-graphic-ogre@2.1.0
+- pkg:maven/be.yildiz-games/module-graphic-ogre@2.1.0?classifier=sources

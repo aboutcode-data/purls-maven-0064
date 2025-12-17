@@ -1,0 +1,2 @@
+- pkg:maven/de.adorsys.psd2/consent-aspsp-web@1.12
+- pkg:maven/de.adorsys.psd2/consent-aspsp-web@1.12?classifier=sources

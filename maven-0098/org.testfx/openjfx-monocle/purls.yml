@@ -8,5 +8,11 @@
 - pkg:maven/org.testfx/openjfx-monocle@8u60-b27?classifier=sources
 - pkg:maven/org.testfx/openjfx-monocle@8u76-b04
 - pkg:maven/org.testfx/openjfx-monocle@8u76-b04?classifier=sources
+- pkg:maven/org.testfx/openjfx-monocle@jdk-11%2B23
+- pkg:maven/org.testfx/openjfx-monocle@jdk-11%2B23?classifier=sources
+- pkg:maven/org.testfx/openjfx-monocle@jdk-11%2B26
+- pkg:maven/org.testfx/openjfx-monocle@jdk-11%2B26?classifier=sources
 - pkg:maven/org.testfx/openjfx-monocle@jdk-9%2B181
+- pkg:maven/org.testfx/openjfx-monocle@jdk-9%2B181.1
+- pkg:maven/org.testfx/openjfx-monocle@jdk-9%2B181.1?classifier=sources
 - pkg:maven/org.testfx/openjfx-monocle@jdk-9%2B181?classifier=sources

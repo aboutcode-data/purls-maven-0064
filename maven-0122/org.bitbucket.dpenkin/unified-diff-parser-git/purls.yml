@@ -1,0 +1,2 @@
+- pkg:maven/org.bitbucket.dpenkin/unified-diff-parser-git@0.1.0
+- pkg:maven/org.bitbucket.dpenkin/unified-diff-parser-git@0.1.0?classifier=sources

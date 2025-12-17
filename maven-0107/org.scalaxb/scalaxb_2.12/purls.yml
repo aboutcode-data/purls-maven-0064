@@ -4,3 +4,5 @@
 - pkg:maven/org.scalaxb/scalaxb_2.12@1.5.2?classifier=sources
 - pkg:maven/org.scalaxb/scalaxb_2.12@1.6.0
 - pkg:maven/org.scalaxb/scalaxb_2.12@1.6.0?classifier=sources
+- pkg:maven/org.scalaxb/scalaxb_2.12@1.7.0
+- pkg:maven/org.scalaxb/scalaxb_2.12@1.7.0?classifier=sources

@@ -11,3 +11,5 @@
 - pkg:maven/cn.hankchan/utils@0.0.6-BETA
 - pkg:maven/cn.hankchan/utils@0.0.6-BETA?classifier=sources
 - pkg:maven/cn.hankchan/utils@0.0.6?classifier=sources
+- pkg:maven/cn.hankchan/utils@1.0.0
+- pkg:maven/cn.hankchan/utils@1.0.0?classifier=sources

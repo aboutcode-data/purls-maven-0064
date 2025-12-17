@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/geojson-vt@2.4.0?classifier=sources
 - pkg:maven/org.webjars.npm/geojson-vt@3.0.0
 - pkg:maven/org.webjars.npm/geojson-vt@3.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/geojson-vt@3.2.0
+- pkg:maven/org.webjars.npm/geojson-vt@3.2.0?classifier=sources

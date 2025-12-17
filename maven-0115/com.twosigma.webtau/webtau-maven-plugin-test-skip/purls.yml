@@ -1,0 +1,4 @@
+- pkg:maven/com.twosigma.webtau/webtau-maven-plugin-test-skip@0.30
+- pkg:maven/com.twosigma.webtau/webtau-maven-plugin-test-skip@0.31
+- pkg:maven/com.twosigma.webtau/webtau-maven-plugin-test-skip@1.0
+- pkg:maven/com.twosigma.webtau/webtau-maven-plugin-test-skip@1.1

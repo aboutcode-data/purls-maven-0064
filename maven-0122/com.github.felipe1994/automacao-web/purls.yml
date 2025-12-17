@@ -1,0 +1,2 @@
+- pkg:maven/com.github.felipe1994/automacao-web@1.0.0
+- pkg:maven/com.github.felipe1994/automacao-web@1.0.0?classifier=sources

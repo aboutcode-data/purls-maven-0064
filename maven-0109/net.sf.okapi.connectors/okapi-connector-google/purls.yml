@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.okapi.connectors/okapi-connector-google@0.36
+- pkg:maven/net.sf.okapi.connectors/okapi-connector-google@0.36?classifier=sources

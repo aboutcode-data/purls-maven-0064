@@ -7,3 +7,11 @@
 - pkg:maven/org.spockframework/spock-bom@1.1-groovy-2.4-rc-3?classifier=sources
 - pkg:maven/org.spockframework/spock-bom@1.1-groovy-2.4-rc-4?classifier=sources
 - pkg:maven/org.spockframework/spock-bom@1.1-groovy-2.4?classifier=sources
+- pkg:maven/org.spockframework/spock-bom@1.2-RC1-groovy-2.4?classifier=sources
+- pkg:maven/org.spockframework/spock-bom@1.2-RC1-groovy-2.5?classifier=sources
+- pkg:maven/org.spockframework/spock-bom@1.2-RC2-groovy-2.4?classifier=sources
+- pkg:maven/org.spockframework/spock-bom@1.2-RC2-groovy-2.5?classifier=sources
+- pkg:maven/org.spockframework/spock-bom@1.2-RC3-groovy-2.4?classifier=sources
+- pkg:maven/org.spockframework/spock-bom@1.2-RC3-groovy-2.5?classifier=sources
+- pkg:maven/org.spockframework/spock-bom@1.2-groovy-2.4?classifier=sources
+- pkg:maven/org.spockframework/spock-bom@1.2-groovy-2.5?classifier=sources

@@ -9,6 +9,8 @@
 - pkg:maven/org.apache.tika/tika@1.16?classifier=src&type=zip
 - pkg:maven/org.apache.tika/tika@1.17?classifier=src&type=zip
 - pkg:maven/org.apache.tika/tika@1.18?classifier=src&type=zip
+- pkg:maven/org.apache.tika/tika@1.19.1?classifier=src&type=zip
+- pkg:maven/org.apache.tika/tika@1.19?classifier=src&type=zip
 - pkg:maven/org.apache.tika/tika@1.6?classifier=src&type=zip
 - pkg:maven/org.apache.tika/tika@1.7?classifier=src&type=zip
 - pkg:maven/org.apache.tika/tika@1.8?classifier=src&type=zip

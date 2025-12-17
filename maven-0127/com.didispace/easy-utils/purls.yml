@@ -1,2 +1,4 @@
 - pkg:maven/com.didispace/easy-utils@1.0.0-RELEASE
 - pkg:maven/com.didispace/easy-utils@1.0.0-RELEASE?classifier=sources
+- pkg:maven/com.didispace/easy-utils@1.1.0-RELEASE
+- pkg:maven/com.didispace/easy-utils@1.1.0-RELEASE?classifier=sources

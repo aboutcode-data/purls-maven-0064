@@ -1,0 +1,2 @@
+- pkg:maven/de.fegbers.spring/spring-dependencies-autoconfigure@0.1.0-RC
+- pkg:maven/de.fegbers.spring/spring-dependencies-autoconfigure@0.1.0-RC?classifier=sources

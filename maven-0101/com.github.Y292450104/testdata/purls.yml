@@ -14,6 +14,10 @@
 - pkg:maven/com.github.Y292450104/testdata@1.5.0.RELEASE?classifier=sources
 - pkg:maven/com.github.Y292450104/testdata@1.5.1.RELEASE
 - pkg:maven/com.github.Y292450104/testdata@1.5.1.RELEASE?classifier=sources
+- pkg:maven/com.github.Y292450104/testdata@1.5.10.RELEASE
+- pkg:maven/com.github.Y292450104/testdata@1.5.10.RELEASE?classifier=sources
+- pkg:maven/com.github.Y292450104/testdata@1.5.11.RELEASE
+- pkg:maven/com.github.Y292450104/testdata@1.5.11.RELEASE?classifier=sources
 - pkg:maven/com.github.Y292450104/testdata@1.5.2.RELEASE
 - pkg:maven/com.github.Y292450104/testdata@1.5.2.RELEASE?classifier=sources
 - pkg:maven/com.github.Y292450104/testdata@1.5.3.RELEASE
@@ -32,3 +36,7 @@
 - pkg:maven/com.github.Y292450104/testdata@1.5.7.RELEASE?classifier=sources
 - pkg:maven/com.github.Y292450104/testdata@1.5.8.RELEASE
 - pkg:maven/com.github.Y292450104/testdata@1.5.8.RELEASE?classifier=sources
+- pkg:maven/com.github.Y292450104/testdata@1.5.9.RELEASE
+- pkg:maven/com.github.Y292450104/testdata@1.5.9.RELEASE?classifier=sources
+- pkg:maven/com.github.Y292450104/testdata@1.6.0.RC
+- pkg:maven/com.github.Y292450104/testdata@1.6.0.RC?classifier=sources

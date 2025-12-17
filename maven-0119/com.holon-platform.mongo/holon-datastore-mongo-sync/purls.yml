@@ -1,0 +1,2 @@
+- pkg:maven/com.holon-platform.mongo/holon-datastore-mongo-sync@5.2.0-alpha2
+- pkg:maven/com.holon-platform.mongo/holon-datastore-mongo-sync@5.2.0-alpha2?classifier=sources

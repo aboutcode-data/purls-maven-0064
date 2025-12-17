@@ -28,6 +28,8 @@
 - pkg:maven/org.dbtools/gradle-dbtools-plugin@10.6.0?classifier=sources
 - pkg:maven/org.dbtools/gradle-dbtools-plugin@10.7.0
 - pkg:maven/org.dbtools/gradle-dbtools-plugin@10.7.0?classifier=sources
+- pkg:maven/org.dbtools/gradle-dbtools-plugin@11.0.0
+- pkg:maven/org.dbtools/gradle-dbtools-plugin@11.0.0?classifier=sources
 - pkg:maven/org.dbtools/gradle-dbtools-plugin@3.1.1
 - pkg:maven/org.dbtools/gradle-dbtools-plugin@3.1.1?classifier=sources
 - pkg:maven/org.dbtools/gradle-dbtools-plugin@3.1.2

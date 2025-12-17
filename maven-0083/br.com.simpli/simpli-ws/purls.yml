@@ -1,0 +1,4 @@
+- pkg:maven/br.com.simpli/simpli-ws@1.0.0
+- pkg:maven/br.com.simpli/simpli-ws@1.0.0?classifier=sources
+- pkg:maven/br.com.simpli/simpli-ws@1.1.0
+- pkg:maven/br.com.simpli/simpli-ws@1.1.0?classifier=sources

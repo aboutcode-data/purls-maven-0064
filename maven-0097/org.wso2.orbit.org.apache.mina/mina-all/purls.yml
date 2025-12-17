@@ -2,3 +2,5 @@
 - pkg:maven/org.wso2.orbit.org.apache.mina/mina-all@1.1.7-wso2v2?classifier=source-release&type=zip
 - pkg:maven/org.wso2.orbit.org.apache.mina/mina-all@1.1.7-wso2v3
 - pkg:maven/org.wso2.orbit.org.apache.mina/mina-all@1.1.7-wso2v3?classifier=source-release&type=zip
+- pkg:maven/org.wso2.orbit.org.apache.mina/mina-all@1.1.7-wso2v4
+- pkg:maven/org.wso2.orbit.org.apache.mina/mina-all@1.1.7-wso2v4?classifier=source-release&type=zip

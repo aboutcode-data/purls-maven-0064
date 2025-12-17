@@ -1,0 +1,4 @@
+- pkg:maven/build.please/javac-worker@13.1.10
+- pkg:maven/build.please/javac-worker@13.1.10?classifier=sources
+- pkg:maven/build.please/javac-worker@13.1.9
+- pkg:maven/build.please/javac-worker@13.1.9?classifier=sources

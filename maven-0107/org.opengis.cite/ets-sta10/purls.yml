@@ -2,3 +2,5 @@
 - pkg:maven/org.opengis.cite/ets-sta10@0.3?classifier=sources
 - pkg:maven/org.opengis.cite/ets-sta10@0.7
 - pkg:maven/org.opengis.cite/ets-sta10@0.7?classifier=sources
+- pkg:maven/org.opengis.cite/ets-sta10@1.2
+- pkg:maven/org.opengis.cite/ets-sta10@1.2?classifier=sources

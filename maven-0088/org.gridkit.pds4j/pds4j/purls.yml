@@ -1,0 +1,2 @@
+- pkg:maven/org.gridkit.pds4j/pds4j@0.1
+- pkg:maven/org.gridkit.pds4j/pds4j@0.1?classifier=sources

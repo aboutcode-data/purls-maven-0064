@@ -19,3 +19,9 @@
 - pkg:maven/org.ow2.petals/petals-admin-jmx@2.0.0
 - pkg:maven/org.ow2.petals/petals-admin-jmx@2.0.0?classifier=source-release&type=zip
 - pkg:maven/org.ow2.petals/petals-admin-jmx@2.0.0?classifier=sources
+- pkg:maven/org.ow2.petals/petals-admin-jmx@2.1.0
+- pkg:maven/org.ow2.petals/petals-admin-jmx@2.1.0?classifier=source-release&type=zip
+- pkg:maven/org.ow2.petals/petals-admin-jmx@2.1.0?classifier=sources
+- pkg:maven/org.ow2.petals/petals-admin-jmx@2.1.1
+- pkg:maven/org.ow2.petals/petals-admin-jmx@2.1.1?classifier=source-release&type=zip
+- pkg:maven/org.ow2.petals/petals-admin-jmx@2.1.1?classifier=sources

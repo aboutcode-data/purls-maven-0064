@@ -1,0 +1,4 @@
+- pkg:maven/com.tyro.oss/log-testing@1.0
+- pkg:maven/com.tyro.oss/log-testing@1.0?classifier=sources
+- pkg:maven/com.tyro.oss/log-testing@2.0
+- pkg:maven/com.tyro.oss/log-testing@2.0?classifier=sources

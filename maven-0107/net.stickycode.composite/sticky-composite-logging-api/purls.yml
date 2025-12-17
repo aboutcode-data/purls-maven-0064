@@ -2,3 +2,4 @@
 - pkg:maven/net.stickycode.composite/sticky-composite-logging-api@1.4
 - pkg:maven/net.stickycode.composite/sticky-composite-logging-api@2.1
 - pkg:maven/net.stickycode.composite/sticky-composite-logging-api@3.2
+- pkg:maven/net.stickycode.composite/sticky-composite-logging-api@3.3

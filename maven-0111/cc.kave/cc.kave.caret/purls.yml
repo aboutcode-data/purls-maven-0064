@@ -1,1 +1,3 @@
 - pkg:maven/cc.kave/cc.kave.caret@0.0.4
+- pkg:maven/cc.kave/cc.kave.caret@0.0.5
+- pkg:maven/cc.kave/cc.kave.caret@0.0.5?classifier=sources
