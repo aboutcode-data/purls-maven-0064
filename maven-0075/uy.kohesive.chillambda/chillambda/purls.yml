@@ -8,3 +8,7 @@
 - pkg:maven/uy.kohesive.chillambda/chillambda@1.0.0-BETA-05?classifier=sources
 - pkg:maven/uy.kohesive.chillambda/chillambda@1.0.0-BETA-06
 - pkg:maven/uy.kohesive.chillambda/chillambda@1.0.0-BETA-06?classifier=sources
+- pkg:maven/uy.kohesive.chillambda/chillambda@1.0.0-BETA-07
+- pkg:maven/uy.kohesive.chillambda/chillambda@1.0.0-BETA-07?classifier=sources
+- pkg:maven/uy.kohesive.chillambda/chillambda@1.0.0-BETA-08
+- pkg:maven/uy.kohesive.chillambda/chillambda@1.0.0-BETA-08?classifier=sources

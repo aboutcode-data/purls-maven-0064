@@ -1,0 +1,2 @@
+- pkg:maven/org.lockss/josql@2.2-p1
+- pkg:maven/org.lockss/josql@2.2-p1?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.jetbrains.xodus/java-8-time@1.1.259
 - pkg:maven/org.jetbrains.xodus/java-8-time@1.1.259?classifier=sources
+- pkg:maven/org.jetbrains.xodus/java-8-time@1.1.325
+- pkg:maven/org.jetbrains.xodus/java-8-time@1.1.325?classifier=sources

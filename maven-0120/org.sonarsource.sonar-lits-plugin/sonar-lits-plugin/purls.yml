@@ -1,2 +1,3 @@
 - pkg:maven/org.sonarsource.sonar-lits-plugin/sonar-lits-plugin@0.5?classifier=sources
 - pkg:maven/org.sonarsource.sonar-lits-plugin/sonar-lits-plugin@0.6?classifier=sources
+- pkg:maven/org.sonarsource.sonar-lits-plugin/sonar-lits-plugin@0.7.0.961?classifier=sources

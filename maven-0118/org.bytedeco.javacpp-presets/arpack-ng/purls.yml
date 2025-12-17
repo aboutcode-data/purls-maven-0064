@@ -1,0 +1,2 @@
+- pkg:maven/org.bytedeco.javacpp-presets/arpack-ng@20171109-1d912ad-1.4.1
+- pkg:maven/org.bytedeco.javacpp-presets/arpack-ng@20171109-1d912ad-1.4.1?classifier=sources

@@ -128,3 +128,13 @@
 - pkg:maven/net.dongliu/dbutils@4.0.1?classifier=sources
 - pkg:maven/net.dongliu/dbutils@4.0.2
 - pkg:maven/net.dongliu/dbutils@4.0.2?classifier=sources
+- pkg:maven/net.dongliu/dbutils@4.0.3
+- pkg:maven/net.dongliu/dbutils@4.0.3?classifier=sources
+- pkg:maven/net.dongliu/dbutils@4.0.4
+- pkg:maven/net.dongliu/dbutils@4.0.4?classifier=sources
+- pkg:maven/net.dongliu/dbutils@4.1.0
+- pkg:maven/net.dongliu/dbutils@4.1.0?classifier=sources
+- pkg:maven/net.dongliu/dbutils@5.0.0
+- pkg:maven/net.dongliu/dbutils@5.0.0?classifier=sources
+- pkg:maven/net.dongliu/dbutils@5.0.1
+- pkg:maven/net.dongliu/dbutils@5.0.1?classifier=sources

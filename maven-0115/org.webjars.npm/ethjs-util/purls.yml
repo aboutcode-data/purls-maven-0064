@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/ethjs-util@0.1.4
+- pkg:maven/org.webjars.npm/ethjs-util@0.1.4?classifier=sources

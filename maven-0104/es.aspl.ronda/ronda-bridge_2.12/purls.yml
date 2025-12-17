@@ -4,3 +4,5 @@
 - pkg:maven/es.aspl.ronda/ronda-bridge_2.12@0.11.140?classifier=sources
 - pkg:maven/es.aspl.ronda/ronda-bridge_2.12@0.11.142
 - pkg:maven/es.aspl.ronda/ronda-bridge_2.12@0.11.142?classifier=sources
+- pkg:maven/es.aspl.ronda/ronda-bridge_2.12@0.11.144
+- pkg:maven/es.aspl.ronda/ronda-bridge_2.12@0.11.144?classifier=sources

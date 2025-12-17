@@ -1,0 +1,2 @@
+- pkg:maven/info.henix/ssoup_2.12@0.5
+- pkg:maven/info.henix/ssoup_2.12@0.5?classifier=sources

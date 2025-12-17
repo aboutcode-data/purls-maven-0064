@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bowergithub.bahrus/billboard-charts@0.1.24
+- pkg:maven/org.webjars.bowergithub.bahrus/billboard-charts@0.1.24?classifier=sources
+- pkg:maven/org.webjars.bowergithub.bahrus/billboard-charts@0.1.28
+- pkg:maven/org.webjars.bowergithub.bahrus/billboard-charts@0.1.28?classifier=sources

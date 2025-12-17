@@ -38,3 +38,9 @@
 - pkg:maven/com.graphaware.neo4j.example/performance-testing@3.2.6.51
 - pkg:maven/com.graphaware.neo4j.example/performance-testing@3.3.0.51
 - pkg:maven/com.graphaware.neo4j.example/performance-testing@3.3.1.51
+- pkg:maven/com.graphaware.neo4j.example/performance-testing@3.3.2.51
+- pkg:maven/com.graphaware.neo4j.example/performance-testing@3.3.2.52
+- pkg:maven/com.graphaware.neo4j.example/performance-testing@3.3.3.52
+- pkg:maven/com.graphaware.neo4j.example/performance-testing@3.3.4.52
+- pkg:maven/com.graphaware.neo4j.example/performance-testing@3.3.5.52
+- pkg:maven/com.graphaware.neo4j.example/performance-testing@3.4.0.52

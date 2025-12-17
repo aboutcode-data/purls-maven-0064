@@ -24,3 +24,5 @@
 - pkg:maven/org.togglz/togglz-jsp@2.4.1.Final?classifier=sources
 - pkg:maven/org.togglz/togglz-jsp@2.5.0.Final
 - pkg:maven/org.togglz/togglz-jsp@2.5.0.Final?classifier=sources
+- pkg:maven/org.togglz/togglz-jsp@2.6.0.Final
+- pkg:maven/org.togglz/togglz-jsp@2.6.0.Final?classifier=sources

@@ -19,3 +19,5 @@
 - pkg:maven/nz.net.osnz.composite/composite-groovy@4.3
 - pkg:maven/nz.net.osnz.composite/composite-groovy@4.4
 - pkg:maven/nz.net.osnz.composite/composite-groovy@4.5
+- pkg:maven/nz.net.osnz.composite/composite-groovy@4.6
+- pkg:maven/nz.net.osnz.composite/composite-groovy@4.7

@@ -82,3 +82,5 @@
 - pkg:maven/co.cask.cdap/cdap-etl-api@4.3.2?classifier=sources
 - pkg:maven/co.cask.cdap/cdap-etl-api@4.3.3
 - pkg:maven/co.cask.cdap/cdap-etl-api@4.3.3?classifier=sources
+- pkg:maven/co.cask.cdap/cdap-etl-api@4.3.4
+- pkg:maven/co.cask.cdap/cdap-etl-api@4.3.4?classifier=sources

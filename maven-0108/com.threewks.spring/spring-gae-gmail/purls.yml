@@ -1,0 +1,2 @@
+- pkg:maven/com.threewks.spring/spring-gae-gmail@1.0.0-beta-2
+- pkg:maven/com.threewks.spring/spring-gae-gmail@1.0.0-beta-2?classifier=sources

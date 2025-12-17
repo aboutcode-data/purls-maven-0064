@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.maven.surefire/surefire-junit-platform@2.22.0
+- pkg:maven/org.apache.maven.surefire/surefire-junit-platform@2.22.0?classifier=sources

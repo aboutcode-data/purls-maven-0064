@@ -16,3 +16,5 @@
 - pkg:maven/com.dell.isg.smi/wsmanlib@1.0.61?classifier=sources
 - pkg:maven/com.dell.isg.smi/wsmanlib@1.0.64
 - pkg:maven/com.dell.isg.smi/wsmanlib@1.0.64?classifier=sources
+- pkg:maven/com.dell.isg.smi/wsmanlib@1.0.67
+- pkg:maven/com.dell.isg.smi/wsmanlib@1.0.67?classifier=sources

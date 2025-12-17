@@ -3,4 +3,8 @@
 - pkg:maven/net.tascalate.javaflow/net.tascalate.javaflow.utils@2.1
 - pkg:maven/net.tascalate.javaflow/net.tascalate.javaflow.utils@2.1?classifier=sources
 - pkg:maven/net.tascalate.javaflow/net.tascalate.javaflow.utils@2.2
+- pkg:maven/net.tascalate.javaflow/net.tascalate.javaflow.utils@2.2.1
+- pkg:maven/net.tascalate.javaflow/net.tascalate.javaflow.utils@2.2.1?classifier=sources
+- pkg:maven/net.tascalate.javaflow/net.tascalate.javaflow.utils@2.2.2
+- pkg:maven/net.tascalate.javaflow/net.tascalate.javaflow.utils@2.2.2?classifier=sources
 - pkg:maven/net.tascalate.javaflow/net.tascalate.javaflow.utils@2.2?classifier=sources

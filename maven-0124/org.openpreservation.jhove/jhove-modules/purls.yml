@@ -6,3 +6,5 @@
 - pkg:maven/org.openpreservation.jhove/jhove-modules@1.16.7?classifier=sources
 - pkg:maven/org.openpreservation.jhove/jhove-modules@1.18.1
 - pkg:maven/org.openpreservation.jhove/jhove-modules@1.18.1?classifier=sources
+- pkg:maven/org.openpreservation.jhove/jhove-modules@1.20.1
+- pkg:maven/org.openpreservation.jhove/jhove-modules@1.20.1?classifier=sources

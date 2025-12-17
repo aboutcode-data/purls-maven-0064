@@ -12,3 +12,8 @@
 - pkg:maven/io.gravitee.am.gateway.services/gravitee-am-gateway-services-localregistry@1.5.1?classifier=sources
 - pkg:maven/io.gravitee.am.gateway.services/gravitee-am-gateway-services-localregistry@1.5.2?classifier=sources
 - pkg:maven/io.gravitee.am.gateway.services/gravitee-am-gateway-services-localregistry@1.5.3?classifier=sources
+- pkg:maven/io.gravitee.am.gateway.services/gravitee-am-gateway-services-localregistry@1.6.0?classifier=sources
+- pkg:maven/io.gravitee.am.gateway.services/gravitee-am-gateway-services-localregistry@1.6.1?classifier=sources
+- pkg:maven/io.gravitee.am.gateway.services/gravitee-am-gateway-services-localregistry@1.6.2?classifier=sources
+- pkg:maven/io.gravitee.am.gateway.services/gravitee-am-gateway-services-localregistry@1.6.3?classifier=sources
+- pkg:maven/io.gravitee.am.gateway.services/gravitee-am-gateway-services-localregistry@1.6.4?classifier=sources

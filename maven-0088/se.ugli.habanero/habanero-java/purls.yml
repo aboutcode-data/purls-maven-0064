@@ -34,3 +34,5 @@
 - pkg:maven/se.ugli.habanero/habanero-java@1.8.0.2?classifier=sources
 - pkg:maven/se.ugli.habanero/habanero-java@1.8.1.0
 - pkg:maven/se.ugli.habanero/habanero-java@1.8.1.0?classifier=sources
+- pkg:maven/se.ugli.habanero/habanero-java@1.8.1.1
+- pkg:maven/se.ugli.habanero/habanero-java@1.8.1.1?classifier=sources

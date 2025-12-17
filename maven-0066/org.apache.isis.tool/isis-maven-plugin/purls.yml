@@ -24,6 +24,10 @@
 - pkg:maven/org.apache.isis.tool/isis-maven-plugin@1.15.1?classifier=sources
 - pkg:maven/org.apache.isis.tool/isis-maven-plugin@1.16.0
 - pkg:maven/org.apache.isis.tool/isis-maven-plugin@1.16.0?classifier=sources
+- pkg:maven/org.apache.isis.tool/isis-maven-plugin@1.16.1
+- pkg:maven/org.apache.isis.tool/isis-maven-plugin@1.16.1?classifier=sources
+- pkg:maven/org.apache.isis.tool/isis-maven-plugin@1.16.2
+- pkg:maven/org.apache.isis.tool/isis-maven-plugin@1.16.2?classifier=sources
 - pkg:maven/org.apache.isis.tool/isis-maven-plugin@1.8.0
 - pkg:maven/org.apache.isis.tool/isis-maven-plugin@1.8.0?classifier=sources
 - pkg:maven/org.apache.isis.tool/isis-maven-plugin@1.9.0

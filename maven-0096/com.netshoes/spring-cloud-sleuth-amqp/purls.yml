@@ -1,3 +1,5 @@
+- pkg:maven/com.netshoes/spring-cloud-sleuth-amqp@0.10
+- pkg:maven/com.netshoes/spring-cloud-sleuth-amqp@0.10?classifier=sources
 - pkg:maven/com.netshoes/spring-cloud-sleuth-amqp@0.8
 - pkg:maven/com.netshoes/spring-cloud-sleuth-amqp@0.8.1
 - pkg:maven/com.netshoes/spring-cloud-sleuth-amqp@0.8.1?classifier=sources
@@ -8,3 +10,5 @@
 - pkg:maven/com.netshoes/spring-cloud-sleuth-amqp@0.8.4
 - pkg:maven/com.netshoes/spring-cloud-sleuth-amqp@0.8.4?classifier=sources
 - pkg:maven/com.netshoes/spring-cloud-sleuth-amqp@0.8?classifier=sources
+- pkg:maven/com.netshoes/spring-cloud-sleuth-amqp@0.9
+- pkg:maven/com.netshoes/spring-cloud-sleuth-amqp@0.9?classifier=sources

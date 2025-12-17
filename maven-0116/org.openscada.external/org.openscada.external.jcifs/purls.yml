@@ -1,0 +1,2 @@
+- pkg:maven/org.openscada.external/org.openscada.external.jcifs@1.2.25
+- pkg:maven/org.openscada.external/org.openscada.external.jcifs@1.2.25?classifier=sources

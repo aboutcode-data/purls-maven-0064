@@ -1,0 +1,2 @@
+- pkg:maven/com.mpobjects/fitnesse-selenium-slim@1.1.0
+- pkg:maven/com.mpobjects/fitnesse-selenium-slim@1.1.0?classifier=sources

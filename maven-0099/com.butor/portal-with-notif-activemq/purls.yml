@@ -1,5 +1,9 @@
 - pkg:maven/com.butor/portal-with-notif-activemq@1.0.12?type=war
 - pkg:maven/com.butor/portal-with-notif-activemq@1.0.13?type=war
+- pkg:maven/com.butor/portal-with-notif-activemq@1.0.14?type=war
+- pkg:maven/com.butor/portal-with-notif-activemq@1.0.15?type=war
+- pkg:maven/com.butor/portal-with-notif-activemq@1.0.17?type=war
+- pkg:maven/com.butor/portal-with-notif-activemq@1.0.18?type=war
 - pkg:maven/com.butor/portal-with-notif-activemq@1.0.3?type=war
 - pkg:maven/com.butor/portal-with-notif-activemq@1.0.5?type=war
 - pkg:maven/com.butor/portal-with-notif-activemq@1.0.6?type=war

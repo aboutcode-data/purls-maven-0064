@@ -1,0 +1,2 @@
+- pkg:maven/com.bbossgroups.plugins/bboss-elasticsearch-spring-boot-starter@5.0.7.7
+- pkg:maven/com.bbossgroups.plugins/bboss-elasticsearch-spring-boot-starter@5.0.7.7?classifier=sources

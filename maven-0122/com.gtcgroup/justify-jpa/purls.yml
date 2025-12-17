@@ -36,3 +36,11 @@
 - pkg:maven/com.gtcgroup/justify-jpa@8.3.8?classifier=sources
 - pkg:maven/com.gtcgroup/justify-jpa@8.3.9
 - pkg:maven/com.gtcgroup/justify-jpa@8.3.9?classifier=sources
+- pkg:maven/com.gtcgroup/justify-jpa@8.5.0-alpha
+- pkg:maven/com.gtcgroup/justify-jpa@8.5.0-alpha2
+- pkg:maven/com.gtcgroup/justify-jpa@8.5.0-alpha2?classifier=sources
+- pkg:maven/com.gtcgroup/justify-jpa@8.5.0-alpha4
+- pkg:maven/com.gtcgroup/justify-jpa@8.5.0-alpha4?classifier=sources
+- pkg:maven/com.gtcgroup/justify-jpa@8.5.0-alpha5
+- pkg:maven/com.gtcgroup/justify-jpa@8.5.0-alpha5?classifier=sources
+- pkg:maven/com.gtcgroup/justify-jpa@8.5.0-alpha?classifier=sources

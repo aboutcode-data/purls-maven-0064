@@ -1,3 +1,5 @@
 - pkg:maven/me.lyh/xgboost4j@0.7-20171121
 - pkg:maven/me.lyh/xgboost4j@0.7-20171121-8e141427
 - pkg:maven/me.lyh/xgboost4j@0.7-20171122-70a4c419
+- pkg:maven/me.lyh/xgboost4j@0.71-20180420-230cb9b7
+- pkg:maven/me.lyh/xgboost4j@0.72-20180627-1214081f

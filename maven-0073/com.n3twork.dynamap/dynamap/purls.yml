@@ -1,0 +1,4 @@
+- pkg:maven/com.n3twork.dynamap/dynamap@0.9.38
+- pkg:maven/com.n3twork.dynamap/dynamap@0.9.38?classifier=sources
+- pkg:maven/com.n3twork.dynamap/dynamap@0.9.39
+- pkg:maven/com.n3twork.dynamap/dynamap@0.9.39?classifier=sources

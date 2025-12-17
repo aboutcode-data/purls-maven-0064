@@ -46,6 +46,12 @@
 - pkg:maven/io.fabric8/fabric8-maven-it@3.5.31
 - pkg:maven/io.fabric8/fabric8-maven-it@3.5.32
 - pkg:maven/io.fabric8/fabric8-maven-it@3.5.33
+- pkg:maven/io.fabric8/fabric8-maven-it@3.5.34
+- pkg:maven/io.fabric8/fabric8-maven-it@3.5.35
+- pkg:maven/io.fabric8/fabric8-maven-it@3.5.37
+- pkg:maven/io.fabric8/fabric8-maven-it@3.5.38
+- pkg:maven/io.fabric8/fabric8-maven-it@3.5.39
 - pkg:maven/io.fabric8/fabric8-maven-it@3.5.4
+- pkg:maven/io.fabric8/fabric8-maven-it@3.5.40
 - pkg:maven/io.fabric8/fabric8-maven-it@3.5.5
 - pkg:maven/io.fabric8/fabric8-maven-it@3.5.9

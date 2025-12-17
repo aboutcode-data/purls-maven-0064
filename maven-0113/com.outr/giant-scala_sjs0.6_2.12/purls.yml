@@ -1,0 +1,4 @@
+- pkg:maven/com.outr/giant-scala_sjs0.6_2.12@1.0.12
+- pkg:maven/com.outr/giant-scala_sjs0.6_2.12@1.0.12?classifier=sources
+- pkg:maven/com.outr/giant-scala_sjs0.6_2.12@1.0.13
+- pkg:maven/com.outr/giant-scala_sjs0.6_2.12@1.0.13?classifier=sources

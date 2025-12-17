@@ -20,3 +20,11 @@
 - pkg:maven/net.sf.proguard/proguard-gradle@5.3.3
 - pkg:maven/net.sf.proguard/proguard-gradle@5.3.3?classifier=sources
 - pkg:maven/net.sf.proguard/proguard-gradle@5.3?classifier=sources
+- pkg:maven/net.sf.proguard/proguard-gradle@6.0
+- pkg:maven/net.sf.proguard/proguard-gradle@6.0.1
+- pkg:maven/net.sf.proguard/proguard-gradle@6.0.1?classifier=sources
+- pkg:maven/net.sf.proguard/proguard-gradle@6.0.2
+- pkg:maven/net.sf.proguard/proguard-gradle@6.0.2?classifier=sources
+- pkg:maven/net.sf.proguard/proguard-gradle@6.0.3
+- pkg:maven/net.sf.proguard/proguard-gradle@6.0.3?classifier=sources
+- pkg:maven/net.sf.proguard/proguard-gradle@6.0?classifier=sources

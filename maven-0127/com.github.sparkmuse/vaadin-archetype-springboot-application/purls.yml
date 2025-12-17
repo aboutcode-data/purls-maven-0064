@@ -1,0 +1,2 @@
+- pkg:maven/com.github.sparkmuse/vaadin-archetype-springboot-application@1.0.2?classifier=sources
+- pkg:maven/com.github.sparkmuse/vaadin-archetype-springboot-application@2.0.0?classifier=sources

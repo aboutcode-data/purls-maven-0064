@@ -6,3 +6,5 @@
 - pkg:maven/com.sinsz.c/bxfs-redis@0.0.3?classifier=sources
 - pkg:maven/com.sinsz.c/bxfs-redis@1.0.0
 - pkg:maven/com.sinsz.c/bxfs-redis@1.0.0?classifier=sources
+- pkg:maven/com.sinsz.c/bxfs-redis@1.0.1
+- pkg:maven/com.sinsz.c/bxfs-redis@1.0.1?classifier=sources

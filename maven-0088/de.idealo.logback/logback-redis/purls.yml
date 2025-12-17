@@ -4,3 +4,7 @@
 - pkg:maven/de.idealo.logback/logback-redis@0.9.3?classifier=sources
 - pkg:maven/de.idealo.logback/logback-redis@0.9.5
 - pkg:maven/de.idealo.logback/logback-redis@0.9.5?classifier=sources
+- pkg:maven/de.idealo.logback/logback-redis@1.0.0
+- pkg:maven/de.idealo.logback/logback-redis@1.0.0?classifier=sources
+- pkg:maven/de.idealo.logback/logback-redis@1.1.0
+- pkg:maven/de.idealo.logback/logback-redis@1.1.0?classifier=sources

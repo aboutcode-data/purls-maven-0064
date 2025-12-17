@@ -1,0 +1,2 @@
+- pkg:maven/cn.pa4j/act-nutzdao@1.0
+- pkg:maven/cn.pa4j/act-nutzdao@1.0?classifier=sources

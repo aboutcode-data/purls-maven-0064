@@ -5,3 +5,5 @@
 - pkg:maven/ca.bc.gov.open.cpf/cpf-archetype-web@5.0.4-RELEASE?classifier=sources
 - pkg:maven/ca.bc.gov.open.cpf/cpf-archetype-web@5.0.5-RELEASE?classifier=sources
 - pkg:maven/ca.bc.gov.open.cpf/cpf-archetype-web@5.0.6-RELEASE?classifier=sources
+- pkg:maven/ca.bc.gov.open.cpf/cpf-archetype-web@5.1.0-RELEASE?classifier=sources
+- pkg:maven/ca.bc.gov.open.cpf/cpf-archetype-web@5.1.1-RELEASE?classifier=sources

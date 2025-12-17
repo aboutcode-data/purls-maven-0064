@@ -1,4 +1,6 @@
 - pkg:maven/org.webjars.npm/webfontloader@1.6.24
 - pkg:maven/org.webjars.npm/webfontloader@1.6.24?classifier=sources
+- pkg:maven/org.webjars.npm/webfontloader@1.6.28
+- pkg:maven/org.webjars.npm/webfontloader@1.6.28?classifier=sources
 - pkg:maven/org.webjars.npm/webfontloader@1.6.6
 - pkg:maven/org.webjars.npm/webfontloader@1.6.6?classifier=sources

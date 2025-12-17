@@ -1,0 +1,2 @@
+- pkg:maven/info.freelibrary/freelib-bagit@0.0.1
+- pkg:maven/info.freelibrary/freelib-bagit@0.0.1?classifier=sources

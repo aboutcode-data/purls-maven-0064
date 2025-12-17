@@ -1,0 +1,2 @@
+- pkg:maven/io.github.nibiruos.mobile/org.nibiru.mobile.wp@1.0.0
+- pkg:maven/io.github.nibiruos.mobile/org.nibiru.mobile.wp@1.0.0?classifier=sources

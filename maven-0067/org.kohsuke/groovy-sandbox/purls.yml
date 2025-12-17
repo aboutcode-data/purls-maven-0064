@@ -11,6 +11,12 @@
 - pkg:maven/org.kohsuke/groovy-sandbox@1.14?classifier=sources
 - pkg:maven/org.kohsuke/groovy-sandbox@1.15
 - pkg:maven/org.kohsuke/groovy-sandbox@1.15?classifier=sources
+- pkg:maven/org.kohsuke/groovy-sandbox@1.17
+- pkg:maven/org.kohsuke/groovy-sandbox@1.17?classifier=sources
+- pkg:maven/org.kohsuke/groovy-sandbox@1.18
+- pkg:maven/org.kohsuke/groovy-sandbox@1.18?classifier=sources
+- pkg:maven/org.kohsuke/groovy-sandbox@1.19
+- pkg:maven/org.kohsuke/groovy-sandbox@1.19?classifier=sources
 - pkg:maven/org.kohsuke/groovy-sandbox@1.1?classifier=sources
 - pkg:maven/org.kohsuke/groovy-sandbox@1.2
 - pkg:maven/org.kohsuke/groovy-sandbox@1.2?classifier=sources

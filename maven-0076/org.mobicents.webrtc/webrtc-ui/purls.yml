@@ -12,6 +12,7 @@
 - pkg:maven/org.mobicents.webrtc/webrtc-ui@1.0.31?type=war
 - pkg:maven/org.mobicents.webrtc/webrtc-ui@1.0.32?type=war
 - pkg:maven/org.mobicents.webrtc/webrtc-ui@1.0.33?type=war
+- pkg:maven/org.mobicents.webrtc/webrtc-ui@1.1.0-179?type=war
 - pkg:maven/org.mobicents.webrtc/webrtc-ui@2.0.10?type=war
 - pkg:maven/org.mobicents.webrtc/webrtc-ui@2.0.11?type=war
 - pkg:maven/org.mobicents.webrtc/webrtc-ui@2.0.12?type=war

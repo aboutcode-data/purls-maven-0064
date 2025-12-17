@@ -6,3 +6,5 @@
 - pkg:maven/com.github.aenniw/jrobot-remote-server@3.4?classifier=sources
 - pkg:maven/com.github.aenniw/jrobot-remote-server@3.5.0
 - pkg:maven/com.github.aenniw/jrobot-remote-server@3.5.0?classifier=sources
+- pkg:maven/com.github.aenniw/jrobot-remote-server@3.5.1
+- pkg:maven/com.github.aenniw/jrobot-remote-server@3.5.1?classifier=sources

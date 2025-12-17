@@ -1,0 +1,4 @@
+- pkg:maven/co.logup/logup-client@1.0.0
+- pkg:maven/co.logup/logup-client@1.0.0?classifier=sources
+- pkg:maven/co.logup/logup-client@1.0.1
+- pkg:maven/co.logup/logup-client@1.0.1?classifier=sources

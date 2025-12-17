@@ -1,0 +1,2 @@
+- pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-arm32v6-alpine-lite@10.4.0
+- pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-linux-arm32v6-alpine-lite@10.4.0?classifier=sources

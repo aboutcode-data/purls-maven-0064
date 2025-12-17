@@ -1,2 +1,6 @@
 - pkg:maven/org.webjars.npm/protocol-buffers-schema@2.0.2
 - pkg:maven/org.webjars.npm/protocol-buffers-schema@2.0.2?classifier=sources
+- pkg:maven/org.webjars.npm/protocol-buffers-schema@2.2.0
+- pkg:maven/org.webjars.npm/protocol-buffers-schema@2.2.0?classifier=sources
+- pkg:maven/org.webjars.npm/protocol-buffers-schema@3.3.2
+- pkg:maven/org.webjars.npm/protocol-buffers-schema@3.3.2?classifier=sources

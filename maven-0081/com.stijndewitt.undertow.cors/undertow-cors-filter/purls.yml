@@ -1,0 +1,16 @@
+- pkg:maven/com.stijndewitt.undertow.cors/undertow-cors-filter@0.1.1
+- pkg:maven/com.stijndewitt.undertow.cors/undertow-cors-filter@0.1.1?classifier=sources
+- pkg:maven/com.stijndewitt.undertow.cors/undertow-cors-filter@0.2.0
+- pkg:maven/com.stijndewitt.undertow.cors/undertow-cors-filter@0.2.0?classifier=sources
+- pkg:maven/com.stijndewitt.undertow.cors/undertow-cors-filter@0.2.1
+- pkg:maven/com.stijndewitt.undertow.cors/undertow-cors-filter@0.2.1?classifier=sources
+- pkg:maven/com.stijndewitt.undertow.cors/undertow-cors-filter@0.3.0
+- pkg:maven/com.stijndewitt.undertow.cors/undertow-cors-filter@0.3.0?classifier=sources
+- pkg:maven/com.stijndewitt.undertow.cors/undertow-cors-filter@0.3.1
+- pkg:maven/com.stijndewitt.undertow.cors/undertow-cors-filter@0.3.1?classifier=sources
+- pkg:maven/com.stijndewitt.undertow.cors/undertow-cors-filter@0.3.2
+- pkg:maven/com.stijndewitt.undertow.cors/undertow-cors-filter@0.3.2?classifier=sources
+- pkg:maven/com.stijndewitt.undertow.cors/undertow-cors-filter@0.3.3
+- pkg:maven/com.stijndewitt.undertow.cors/undertow-cors-filter@0.3.3?classifier=sources
+- pkg:maven/com.stijndewitt.undertow.cors/undertow-cors-filter@0.4.0
+- pkg:maven/com.stijndewitt.undertow.cors/undertow-cors-filter@0.4.0?classifier=sources

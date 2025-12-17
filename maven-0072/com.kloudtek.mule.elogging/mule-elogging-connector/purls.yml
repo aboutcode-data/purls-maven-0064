@@ -1,4 +1,11 @@
 - pkg:maven/com.kloudtek.mule.elogging/mule-elogging-connector@0.9.10?classifier=sources
+- pkg:maven/com.kloudtek.mule.elogging/mule-elogging-connector@0.9.11?classifier=sources
+- pkg:maven/com.kloudtek.mule.elogging/mule-elogging-connector@0.9.12?classifier=sources
+- pkg:maven/com.kloudtek.mule.elogging/mule-elogging-connector@0.9.13?classifier=sources
+- pkg:maven/com.kloudtek.mule.elogging/mule-elogging-connector@0.9.14?classifier=sources
+- pkg:maven/com.kloudtek.mule.elogging/mule-elogging-connector@0.9.15?classifier=sources
+- pkg:maven/com.kloudtek.mule.elogging/mule-elogging-connector@0.9.16?classifier=sources
+- pkg:maven/com.kloudtek.mule.elogging/mule-elogging-connector@0.9.17?classifier=sources
 - pkg:maven/com.kloudtek.mule.elogging/mule-elogging-connector@0.9.3?classifier=sources
 - pkg:maven/com.kloudtek.mule.elogging/mule-elogging-connector@0.9.4?classifier=sources
 - pkg:maven/com.kloudtek.mule.elogging/mule-elogging-connector@0.9.5?classifier=sources

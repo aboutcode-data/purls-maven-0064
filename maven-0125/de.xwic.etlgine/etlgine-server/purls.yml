@@ -112,6 +112,8 @@
 - pkg:maven/de.xwic.etlgine/etlgine-server@5.3.0.7?type=zip
 - pkg:maven/de.xwic.etlgine/etlgine-server@5.3.0.8?classifier=sources
 - pkg:maven/de.xwic.etlgine/etlgine-server@5.3.0.8?type=zip
+- pkg:maven/de.xwic.etlgine/etlgine-server@5.3.10?classifier=sources
+- pkg:maven/de.xwic.etlgine/etlgine-server@5.3.10?type=zip
 - pkg:maven/de.xwic.etlgine/etlgine-server@5.3.1?classifier=sources
 - pkg:maven/de.xwic.etlgine/etlgine-server@5.3.1?type=zip
 - pkg:maven/de.xwic.etlgine/etlgine-server@5.3.2?classifier=sources

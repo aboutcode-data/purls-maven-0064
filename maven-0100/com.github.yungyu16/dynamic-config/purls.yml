@@ -1,0 +1,2 @@
+- pkg:maven/com.github.yungyu16/dynamic-config@1.0.1
+- pkg:maven/com.github.yungyu16/dynamic-config@1.0.1?classifier=sources

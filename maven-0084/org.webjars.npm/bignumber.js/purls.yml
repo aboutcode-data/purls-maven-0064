@@ -4,3 +4,7 @@
 - pkg:maven/org.webjars.npm/bignumber.js@1.2.0?classifier=sources
 - pkg:maven/org.webjars.npm/bignumber.js@2.4.0
 - pkg:maven/org.webjars.npm/bignumber.js@2.4.0?classifier=sources
+- pkg:maven/org.webjars.npm/bignumber.js@4.1.0
+- pkg:maven/org.webjars.npm/bignumber.js@4.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/bignumber.js@6.0.0
+- pkg:maven/org.webjars.npm/bignumber.js@6.0.0?classifier=sources

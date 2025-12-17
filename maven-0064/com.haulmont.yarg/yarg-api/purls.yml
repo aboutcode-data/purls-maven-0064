@@ -18,3 +18,5 @@
 - pkg:maven/com.haulmont.yarg/yarg-api@1.0.67?classifier=sources
 - pkg:maven/com.haulmont.yarg/yarg-api@1.0.70
 - pkg:maven/com.haulmont.yarg/yarg-api@1.0.70?classifier=sources
+- pkg:maven/com.haulmont.yarg/yarg-api@2.0.12
+- pkg:maven/com.haulmont.yarg/yarg-api@2.0.12?classifier=sources

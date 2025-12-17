@@ -1,0 +1,2 @@
+- pkg:maven/org.isisaddons.module.command/isis-module-command-replay@1.16.2
+- pkg:maven/org.isisaddons.module.command/isis-module-command-replay@1.16.2?classifier=sources

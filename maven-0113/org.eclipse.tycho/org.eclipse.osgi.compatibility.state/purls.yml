@@ -8,3 +8,5 @@
 - pkg:maven/org.eclipse.tycho/org.eclipse.osgi.compatibility.state@1.1.0.v20170516-1513?classifier=sources
 - pkg:maven/org.eclipse.tycho/org.eclipse.osgi.compatibility.state@1.1.100.v20171116-1513
 - pkg:maven/org.eclipse.tycho/org.eclipse.osgi.compatibility.state@1.1.100.v20171116-1513?classifier=sources
+- pkg:maven/org.eclipse.tycho/org.eclipse.osgi.compatibility.state@1.1.100.v20180131-1413
+- pkg:maven/org.eclipse.tycho/org.eclipse.osgi.compatibility.state@1.1.100.v20180131-1413?classifier=sources

@@ -10,3 +10,7 @@
 - pkg:maven/com.esotericsoftware/reflectasm@1.11.2?classifier=sources
 - pkg:maven/com.esotericsoftware/reflectasm@1.11.3
 - pkg:maven/com.esotericsoftware/reflectasm@1.11.3?classifier=sources
+- pkg:maven/com.esotericsoftware/reflectasm@1.11.6
+- pkg:maven/com.esotericsoftware/reflectasm@1.11.6?classifier=sources
+- pkg:maven/com.esotericsoftware/reflectasm@1.11.7
+- pkg:maven/com.esotericsoftware/reflectasm@1.11.7?classifier=sources

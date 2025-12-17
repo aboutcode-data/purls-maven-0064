@@ -2,5 +2,17 @@
 - pkg:maven/nl.crashdata.crashdata-parent/eclipse-settings@1.11?classifier=sources
 - pkg:maven/nl.crashdata.crashdata-parent/eclipse-settings@1.12
 - pkg:maven/nl.crashdata.crashdata-parent/eclipse-settings@1.12?classifier=sources
+- pkg:maven/nl.crashdata.crashdata-parent/eclipse-settings@1.13
+- pkg:maven/nl.crashdata.crashdata-parent/eclipse-settings@1.13?classifier=sources
+- pkg:maven/nl.crashdata.crashdata-parent/eclipse-settings@1.14
+- pkg:maven/nl.crashdata.crashdata-parent/eclipse-settings@1.14?classifier=sources
+- pkg:maven/nl.crashdata.crashdata-parent/eclipse-settings@1.15
+- pkg:maven/nl.crashdata.crashdata-parent/eclipse-settings@1.15?classifier=sources
+- pkg:maven/nl.crashdata.crashdata-parent/eclipse-settings@1.16
+- pkg:maven/nl.crashdata.crashdata-parent/eclipse-settings@1.16?classifier=sources
+- pkg:maven/nl.crashdata.crashdata-parent/eclipse-settings@1.17
+- pkg:maven/nl.crashdata.crashdata-parent/eclipse-settings@1.17?classifier=sources
+- pkg:maven/nl.crashdata.crashdata-parent/eclipse-settings@1.18
+- pkg:maven/nl.crashdata.crashdata-parent/eclipse-settings@1.18?classifier=sources
 - pkg:maven/nl.crashdata.crashdata-parent/eclipse-settings@1.7
 - pkg:maven/nl.crashdata.crashdata-parent/eclipse-settings@1.7?classifier=sources

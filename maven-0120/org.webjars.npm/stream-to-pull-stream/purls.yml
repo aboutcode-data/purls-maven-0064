@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/stream-to-pull-stream@1.7.2
+- pkg:maven/org.webjars.npm/stream-to-pull-stream@1.7.2?classifier=sources

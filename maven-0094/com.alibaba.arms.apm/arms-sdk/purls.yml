@@ -1,0 +1,2 @@
+- pkg:maven/com.alibaba.arms.apm/arms-sdk@1.7.0
+- pkg:maven/com.alibaba.arms.apm/arms-sdk@1.7.0?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/rocks.inspectit/agent-java-sdk@1.8.4?classifier=sources
 - pkg:maven/rocks.inspectit/agent-java-sdk@1.8.5
 - pkg:maven/rocks.inspectit/agent-java-sdk@1.8.5?classifier=sources
+- pkg:maven/rocks.inspectit/agent-java-sdk@1.9.1
+- pkg:maven/rocks.inspectit/agent-java-sdk@1.9.1?classifier=sources

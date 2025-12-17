@@ -1,0 +1,2 @@
+- pkg:maven/net.mingsoft/ms-mcms@4.6.3-SNAPSHOTS?classifier=sources
+- pkg:maven/net.mingsoft/ms-mcms@4.6.3-SNAPSHOTS?type=war

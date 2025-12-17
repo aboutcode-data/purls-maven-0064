@@ -4,3 +4,5 @@
 - pkg:maven/org.bitbucket.tbrugz/sqldump@0.9.14?classifier=sources
 - pkg:maven/org.bitbucket.tbrugz/sqldump@0.9.15
 - pkg:maven/org.bitbucket.tbrugz/sqldump@0.9.15?classifier=sources
+- pkg:maven/org.bitbucket.tbrugz/sqldump@0.9.16
+- pkg:maven/org.bitbucket.tbrugz/sqldump@0.9.16?classifier=sources

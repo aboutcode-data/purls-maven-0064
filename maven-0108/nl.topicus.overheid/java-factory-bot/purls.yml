@@ -1,0 +1,2 @@
+- pkg:maven/nl.topicus.overheid/java-factory-bot@0.1.0
+- pkg:maven/nl.topicus.overheid/java-factory-bot@0.1.0?classifier=sources

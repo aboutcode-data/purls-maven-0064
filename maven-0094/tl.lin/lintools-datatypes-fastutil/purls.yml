@@ -6,3 +6,5 @@
 - pkg:maven/tl.lin/lintools-datatypes-fastutil@0.9.3?classifier=sources
 - pkg:maven/tl.lin/lintools-datatypes-fastutil@1.0.0
 - pkg:maven/tl.lin/lintools-datatypes-fastutil@1.0.0?classifier=sources
+- pkg:maven/tl.lin/lintools-datatypes-fastutil@1.1.1
+- pkg:maven/tl.lin/lintools-datatypes-fastutil@1.1.1?classifier=sources

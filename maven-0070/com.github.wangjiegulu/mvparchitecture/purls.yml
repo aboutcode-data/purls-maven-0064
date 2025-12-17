@@ -1,2 +1,4 @@
 - pkg:maven/com.github.wangjiegulu/mvparchitecture@1.1.0?classifier=sources
 - pkg:maven/com.github.wangjiegulu/mvparchitecture@1.1.0?type=aar
+- pkg:maven/com.github.wangjiegulu/mvparchitecture@2.0.0?classifier=sources
+- pkg:maven/com.github.wangjiegulu/mvparchitecture@2.0.0?type=aar

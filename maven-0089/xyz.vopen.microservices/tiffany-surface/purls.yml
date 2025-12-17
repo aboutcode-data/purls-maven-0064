@@ -1,0 +1,6 @@
+- pkg:maven/xyz.vopen.microservices/tiffany-surface@Asia.RC1
+- pkg:maven/xyz.vopen.microservices/tiffany-surface@Asia.RC1?classifier=sources
+- pkg:maven/xyz.vopen.microservices/tiffany-surface@Asia.RC2
+- pkg:maven/xyz.vopen.microservices/tiffany-surface@Asia.RC2?classifier=sources
+- pkg:maven/xyz.vopen.microservices/tiffany-surface@Asia.RC3
+- pkg:maven/xyz.vopen.microservices/tiffany-surface@Asia.RC3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.open-eid.cdoc4j/cdoc4j@1.1
+- pkg:maven/org.open-eid.cdoc4j/cdoc4j@1.1?classifier=sources

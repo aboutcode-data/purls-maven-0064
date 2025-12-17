@@ -1,2 +1,4 @@
 - pkg:maven/fr.jcgay.maven.extension/unique-revision-maven-filtering@1.0
 - pkg:maven/fr.jcgay.maven.extension/unique-revision-maven-filtering@1.0?classifier=sources
+- pkg:maven/fr.jcgay.maven.extension/unique-revision-maven-filtering@1.1
+- pkg:maven/fr.jcgay.maven.extension/unique-revision-maven-filtering@1.1?classifier=sources

@@ -42,3 +42,5 @@
 - pkg:maven/net.oschina.bilbodai.common.beanutil/beanutil@3.1.1?classifier=sources
 - pkg:maven/net.oschina.bilbodai.common.beanutil/beanutil@3.1.2
 - pkg:maven/net.oschina.bilbodai.common.beanutil/beanutil@3.1.2?classifier=sources
+- pkg:maven/net.oschina.bilbodai.common.beanutil/beanutil@3.1.4
+- pkg:maven/net.oschina.bilbodai.common.beanutil/beanutil@3.1.4?classifier=sources

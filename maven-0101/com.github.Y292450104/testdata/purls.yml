@@ -30,3 +30,5 @@
 - pkg:maven/com.github.Y292450104/testdata@1.5.7.RC2?classifier=sources
 - pkg:maven/com.github.Y292450104/testdata@1.5.7.RELEASE
 - pkg:maven/com.github.Y292450104/testdata@1.5.7.RELEASE?classifier=sources
+- pkg:maven/com.github.Y292450104/testdata@1.5.8.RELEASE
+- pkg:maven/com.github.Y292450104/testdata@1.5.8.RELEASE?classifier=sources

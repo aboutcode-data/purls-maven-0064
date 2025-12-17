@@ -1,0 +1,2 @@
+- pkg:maven/com.wizzardo/simple-websocket-client@0.1
+- pkg:maven/com.wizzardo/simple-websocket-client@0.1?classifier=sources

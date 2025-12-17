@@ -18,3 +18,5 @@
 - pkg:maven/su.nlq/vertx-prometheus-metrics@0.15?classifier=sources
 - pkg:maven/su.nlq/vertx-prometheus-metrics@3.5.0
 - pkg:maven/su.nlq/vertx-prometheus-metrics@3.5.0?classifier=sources
+- pkg:maven/su.nlq/vertx-prometheus-metrics@3.5.1
+- pkg:maven/su.nlq/vertx-prometheus-metrics@3.5.1?classifier=sources

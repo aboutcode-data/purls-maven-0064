@@ -1,0 +1,2 @@
+- pkg:maven/us.fatehi/schemacrawler-sapiq@14.21.02
+- pkg:maven/us.fatehi/schemacrawler-sapiq@14.21.02?classifier=sources

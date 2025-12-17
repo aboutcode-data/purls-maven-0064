@@ -26,3 +26,7 @@
 - pkg:maven/org.jmxtrans/jmxtrans-output-influxdb@267?classifier=sources
 - pkg:maven/org.jmxtrans/jmxtrans-output-influxdb@268
 - pkg:maven/org.jmxtrans/jmxtrans-output-influxdb@268?classifier=sources
+- pkg:maven/org.jmxtrans/jmxtrans-output-influxdb@269
+- pkg:maven/org.jmxtrans/jmxtrans-output-influxdb@269?classifier=sources
+- pkg:maven/org.jmxtrans/jmxtrans-output-influxdb@270
+- pkg:maven/org.jmxtrans/jmxtrans-output-influxdb@270?classifier=sources

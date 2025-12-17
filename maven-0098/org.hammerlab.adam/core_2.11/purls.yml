@@ -12,3 +12,5 @@
 - pkg:maven/org.hammerlab.adam/core_2.11@0.23.1?classifier=sources
 - pkg:maven/org.hammerlab.adam/core_2.11@0.23.2
 - pkg:maven/org.hammerlab.adam/core_2.11@0.23.2?classifier=sources
+- pkg:maven/org.hammerlab.adam/core_2.11@0.23.4
+- pkg:maven/org.hammerlab.adam/core_2.11@0.23.4?classifier=sources

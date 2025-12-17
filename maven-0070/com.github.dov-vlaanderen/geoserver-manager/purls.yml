@@ -1,0 +1,4 @@
+- pkg:maven/com.github.dov-vlaanderen/geoserver-manager@1.8
+- pkg:maven/com.github.dov-vlaanderen/geoserver-manager@1.8.0
+- pkg:maven/com.github.dov-vlaanderen/geoserver-manager@1.8.0?classifier=sources
+- pkg:maven/com.github.dov-vlaanderen/geoserver-manager@1.8?classifier=sources

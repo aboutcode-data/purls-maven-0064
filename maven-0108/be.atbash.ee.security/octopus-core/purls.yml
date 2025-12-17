@@ -1,0 +1,2 @@
+- pkg:maven/be.atbash.ee.security/octopus-core@0.3
+- pkg:maven/be.atbash.ee.security/octopus-core@0.3?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/org.nokatag/noka-spring-boot-starter-nokatag@1.0.05
+- pkg:maven/org.nokatag/noka-spring-boot-starter-nokatag@1.0.05?classifier=sources
+- pkg:maven/org.nokatag/noka-spring-boot-starter-nokatag@1.0.06
+- pkg:maven/org.nokatag/noka-spring-boot-starter-nokatag@1.0.06?classifier=sources
+- pkg:maven/org.nokatag/noka-spring-boot-starter-nokatag@6.0.26
+- pkg:maven/org.nokatag/noka-spring-boot-starter-nokatag@6.0.26?classifier=sources

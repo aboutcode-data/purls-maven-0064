@@ -12,4 +12,5 @@
 - pkg:maven/nl.pdok/featured-shared@1.1.2?classifier=sources
 - pkg:maven/nl.pdok/featured-shared@1.1.3?classifier=sources
 - pkg:maven/nl.pdok/featured-shared@1.1.4?classifier=sources
+- pkg:maven/nl.pdok/featured-shared@1.1.6?classifier=sources
 - pkg:maven/nl.pdok/featured-shared@1.1?classifier=sources

@@ -4,3 +4,13 @@
 - pkg:maven/com.facebook.android/facebook-applinks@4.28.0?type=aar
 - pkg:maven/com.facebook.android/facebook-applinks@4.29.0?classifier=sources
 - pkg:maven/com.facebook.android/facebook-applinks@4.29.0?type=aar
+- pkg:maven/com.facebook.android/facebook-applinks@4.30.0?classifier=sources
+- pkg:maven/com.facebook.android/facebook-applinks@4.30.0?type=aar
+- pkg:maven/com.facebook.android/facebook-applinks@4.31.0?classifier=sources
+- pkg:maven/com.facebook.android/facebook-applinks@4.31.0?type=aar
+- pkg:maven/com.facebook.android/facebook-applinks@4.32.0?classifier=sources
+- pkg:maven/com.facebook.android/facebook-applinks@4.32.0?type=aar
+- pkg:maven/com.facebook.android/facebook-applinks@4.33.0?classifier=sources
+- pkg:maven/com.facebook.android/facebook-applinks@4.33.0?type=aar
+- pkg:maven/com.facebook.android/facebook-applinks@4.34.0?classifier=sources
+- pkg:maven/com.facebook.android/facebook-applinks@4.34.0?type=aar

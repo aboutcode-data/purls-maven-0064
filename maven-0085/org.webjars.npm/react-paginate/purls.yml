@@ -1,0 +1,6 @@
+- pkg:maven/org.webjars.npm/react-paginate@4.0.0
+- pkg:maven/org.webjars.npm/react-paginate@4.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/react-paginate@4.4.4
+- pkg:maven/org.webjars.npm/react-paginate@4.4.4?classifier=sources
+- pkg:maven/org.webjars.npm/react-paginate@5.1.0
+- pkg:maven/org.webjars.npm/react-paginate@5.1.0?classifier=sources

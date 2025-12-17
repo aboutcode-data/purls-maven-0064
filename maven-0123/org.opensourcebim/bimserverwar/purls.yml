@@ -1,3 +1,7 @@
+- pkg:maven/org.opensourcebim/bimserverwar@1.5.100?classifier=sources
+- pkg:maven/org.opensourcebim/bimserverwar@1.5.100?type=war
+- pkg:maven/org.opensourcebim/bimserverwar@1.5.101?classifier=sources
+- pkg:maven/org.opensourcebim/bimserverwar@1.5.101?type=war
 - pkg:maven/org.opensourcebim/bimserverwar@1.5.10?classifier=sources
 - pkg:maven/org.opensourcebim/bimserverwar@1.5.10?type=war
 - pkg:maven/org.opensourcebim/bimserverwar@1.5.11?classifier=sources
@@ -164,5 +168,13 @@
 - pkg:maven/org.opensourcebim/bimserverwar@1.5.94?type=war
 - pkg:maven/org.opensourcebim/bimserverwar@1.5.95?classifier=sources
 - pkg:maven/org.opensourcebim/bimserverwar@1.5.95?type=war
+- pkg:maven/org.opensourcebim/bimserverwar@1.5.96?classifier=sources
+- pkg:maven/org.opensourcebim/bimserverwar@1.5.96?type=war
+- pkg:maven/org.opensourcebim/bimserverwar@1.5.97?classifier=sources
+- pkg:maven/org.opensourcebim/bimserverwar@1.5.97?type=war
+- pkg:maven/org.opensourcebim/bimserverwar@1.5.98?classifier=sources
+- pkg:maven/org.opensourcebim/bimserverwar@1.5.98?type=war
+- pkg:maven/org.opensourcebim/bimserverwar@1.5.99?classifier=sources
+- pkg:maven/org.opensourcebim/bimserverwar@1.5.99?type=war
 - pkg:maven/org.opensourcebim/bimserverwar@2.0.0?classifier=sources
 - pkg:maven/org.opensourcebim/bimserverwar@2.0.0?type=war

@@ -1,0 +1,2 @@
+- pkg:maven/com.discord4j/Discord4J@2.10.1
+- pkg:maven/com.discord4j/Discord4J@2.10.1?classifier=sources

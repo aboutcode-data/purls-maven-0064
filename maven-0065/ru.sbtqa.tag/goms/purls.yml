@@ -16,3 +16,15 @@
 - pkg:maven/ru.sbtqa.tag/goms@1.3.7?classifier=sources
 - pkg:maven/ru.sbtqa.tag/goms@1.3.8
 - pkg:maven/ru.sbtqa.tag/goms@1.3.8?classifier=sources
+- pkg:maven/ru.sbtqa.tag/goms@1.4.0
+- pkg:maven/ru.sbtqa.tag/goms@1.4.0?classifier=sources
+- pkg:maven/ru.sbtqa.tag/goms@1.5.0
+- pkg:maven/ru.sbtqa.tag/goms@1.5.0?classifier=sources
+- pkg:maven/ru.sbtqa.tag/goms@1.6.0
+- pkg:maven/ru.sbtqa.tag/goms@1.6.0?classifier=sources
+- pkg:maven/ru.sbtqa.tag/goms@1.7.0
+- pkg:maven/ru.sbtqa.tag/goms@1.7.0?classifier=sources
+- pkg:maven/ru.sbtqa.tag/goms@1.7.1
+- pkg:maven/ru.sbtqa.tag/goms@1.7.1?classifier=sources
+- pkg:maven/ru.sbtqa.tag/goms@1.7.2
+- pkg:maven/ru.sbtqa.tag/goms@1.7.2?classifier=sources

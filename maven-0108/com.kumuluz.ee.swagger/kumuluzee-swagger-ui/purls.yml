@@ -1,0 +1,2 @@
+- pkg:maven/com.kumuluz.ee.swagger/kumuluzee-swagger-ui@1.0.0
+- pkg:maven/com.kumuluz.ee.swagger/kumuluzee-swagger-ui@1.0.0?classifier=sources

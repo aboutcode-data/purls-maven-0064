@@ -1,0 +1,2 @@
+- pkg:maven/de.fu-berlin.mi.hcc.questionnaires/questionnaires_core@1.0
+- pkg:maven/de.fu-berlin.mi.hcc.questionnaires/questionnaires_core@1.0?classifier=sources

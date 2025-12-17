@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.phoenix/phoenix-kafka@5.0.0-alpha-HBase-2.0
+- pkg:maven/org.apache.phoenix/phoenix-kafka@5.0.0-alpha-HBase-2.0?classifier=sources

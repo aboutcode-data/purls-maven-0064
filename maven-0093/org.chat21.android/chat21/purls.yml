@@ -1,0 +1,2 @@
+- pkg:maven/org.chat21.android/chat21@1.0.0?classifier=sources
+- pkg:maven/org.chat21.android/chat21@1.0.0?type=aar

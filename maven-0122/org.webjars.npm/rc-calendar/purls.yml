@@ -10,3 +10,5 @@
 - pkg:maven/org.webjars.npm/rc-calendar@8.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/rc-calendar@8.4.7
 - pkg:maven/org.webjars.npm/rc-calendar@8.4.7?classifier=sources
+- pkg:maven/org.webjars.npm/rc-calendar@9.6.0
+- pkg:maven/org.webjars.npm/rc-calendar@9.6.0?classifier=sources

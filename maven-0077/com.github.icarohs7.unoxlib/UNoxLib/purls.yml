@@ -1,0 +1,12 @@
+- pkg:maven/com.github.icarohs7.unoxlib/UNoxLib@0.1.1
+- pkg:maven/com.github.icarohs7.unoxlib/UNoxLib@0.1.1?classifier=sources
+- pkg:maven/com.github.icarohs7.unoxlib/UNoxLib@0.2.0
+- pkg:maven/com.github.icarohs7.unoxlib/UNoxLib@0.2.0?classifier=sources
+- pkg:maven/com.github.icarohs7.unoxlib/UNoxLib@0.2.3
+- pkg:maven/com.github.icarohs7.unoxlib/UNoxLib@0.2.3?classifier=sources
+- pkg:maven/com.github.icarohs7.unoxlib/UNoxLib@0.2.4
+- pkg:maven/com.github.icarohs7.unoxlib/UNoxLib@0.2.4?classifier=sources
+- pkg:maven/com.github.icarohs7.unoxlib/UNoxLib@0.3.0
+- pkg:maven/com.github.icarohs7.unoxlib/UNoxLib@0.3.0?classifier=sources
+- pkg:maven/com.github.icarohs7.unoxlib/UNoxLib@0.3.1
+- pkg:maven/com.github.icarohs7.unoxlib/UNoxLib@0.3.1?classifier=sources

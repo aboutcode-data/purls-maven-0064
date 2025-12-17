@@ -1,0 +1,4 @@
+- pkg:maven/org.lable.oss.dynamicconfig/zookeeper-connection@2.6-beta4
+- pkg:maven/org.lable.oss.dynamicconfig/zookeeper-connection@2.6-beta4?classifier=sources
+- pkg:maven/org.lable.oss.dynamicconfig/zookeeper-connection@2.6-beta5
+- pkg:maven/org.lable.oss.dynamicconfig/zookeeper-connection@2.6-beta5?classifier=sources

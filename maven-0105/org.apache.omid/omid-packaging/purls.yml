@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.omid/omid-packaging@0.8.2.0?classifier=src&type=tar.gz
+- pkg:maven/org.apache.omid/omid-packaging@0.9.0.0?classifier=src&type=tar.gz

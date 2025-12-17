@@ -1,0 +1,1 @@
+- pkg:maven/org.apache.nifi/nifi-proxy-configuration-nar@1.7.0?classifier=sources

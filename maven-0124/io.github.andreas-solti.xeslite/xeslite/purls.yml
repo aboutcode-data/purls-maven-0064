@@ -1,0 +1,2 @@
+- pkg:maven/io.github.andreas-solti.xeslite/xeslite@0.0.1
+- pkg:maven/io.github.andreas-solti.xeslite/xeslite@0.0.1?classifier=sources

@@ -14,3 +14,7 @@
 - pkg:maven/org.webjars.npm/react-overlays@0.6.6?classifier=sources
 - pkg:maven/org.webjars.npm/react-overlays@0.7.0
 - pkg:maven/org.webjars.npm/react-overlays@0.7.0?classifier=sources
+- pkg:maven/org.webjars.npm/react-overlays@0.8.0
+- pkg:maven/org.webjars.npm/react-overlays@0.8.0?classifier=sources
+- pkg:maven/org.webjars.npm/react-overlays@0.8.3
+- pkg:maven/org.webjars.npm/react-overlays@0.8.3?classifier=sources
