@@ -14,3 +14,7 @@
 - pkg:maven/org.bidib.jbidib/jbidibc-distributed@1.12.8?classifier=sources
 - pkg:maven/org.bidib.jbidib/jbidibc-distributed@1.12.9
 - pkg:maven/org.bidib.jbidib/jbidibc-distributed@1.12.9?classifier=sources
+- pkg:maven/org.bidib.jbidib/jbidibc-distributed@1.13.0
+- pkg:maven/org.bidib.jbidib/jbidibc-distributed@1.13.0?classifier=sources
+- pkg:maven/org.bidib.jbidib/jbidibc-distributed@1.13.1
+- pkg:maven/org.bidib.jbidib/jbidibc-distributed@1.13.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/fr.janalyse/web-echo_2.13@1.0.0
+- pkg:maven/fr.janalyse/web-echo_2.13@1.0.0?classifier=sources

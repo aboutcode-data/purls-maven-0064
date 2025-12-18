@@ -160,6 +160,8 @@
 - pkg:maven/org.wicketstuff/wicketstuff-push-cometd@8.1.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-push-cometd@8.10.0
 - pkg:maven/org.wicketstuff/wicketstuff-push-cometd@8.10.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-push-cometd@8.11.0
+- pkg:maven/org.wicketstuff/wicketstuff-push-cometd@8.11.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-push-cometd@8.2.0
 - pkg:maven/org.wicketstuff/wicketstuff-push-cometd@8.2.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-push-cometd@8.3.0
@@ -194,3 +196,5 @@
 - pkg:maven/org.wicketstuff/wicketstuff-push-cometd@9.0.1-M3?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-push-cometd@9.1.0
 - pkg:maven/org.wicketstuff/wicketstuff-push-cometd@9.1.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-push-cometd@9.2.0
+- pkg:maven/org.wicketstuff/wicketstuff-push-cometd@9.2.0?classifier=sources

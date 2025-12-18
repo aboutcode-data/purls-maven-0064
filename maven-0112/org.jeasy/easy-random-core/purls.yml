@@ -6,3 +6,7 @@
 - pkg:maven/org.jeasy/easy-random-core@4.1.0?classifier=sources
 - pkg:maven/org.jeasy/easy-random-core@4.2.0
 - pkg:maven/org.jeasy/easy-random-core@4.2.0?classifier=sources
+- pkg:maven/org.jeasy/easy-random-core@4.3.0
+- pkg:maven/org.jeasy/easy-random-core@4.3.0?classifier=sources
+- pkg:maven/org.jeasy/easy-random-core@5.0.0
+- pkg:maven/org.jeasy/easy-random-core@5.0.0?classifier=sources

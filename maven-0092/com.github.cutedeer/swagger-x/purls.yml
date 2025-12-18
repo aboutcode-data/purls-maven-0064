@@ -1,0 +1,12 @@
+- pkg:maven/com.github.cutedeer/swagger-x@1.0.0
+- pkg:maven/com.github.cutedeer/swagger-x@1.0.0?classifier=sources
+- pkg:maven/com.github.cutedeer/swagger-x@2.0.0
+- pkg:maven/com.github.cutedeer/swagger-x@2.0.0?classifier=sources
+- pkg:maven/com.github.cutedeer/swagger-x@3.0.0
+- pkg:maven/com.github.cutedeer/swagger-x@3.0.0?classifier=sources
+- pkg:maven/com.github.cutedeer/swagger-x@5.0.0
+- pkg:maven/com.github.cutedeer/swagger-x@5.0.0?classifier=sources
+- pkg:maven/com.github.cutedeer/swagger-x@5.1.0
+- pkg:maven/com.github.cutedeer/swagger-x@5.1.0?classifier=sources
+- pkg:maven/com.github.cutedeer/swagger-x@5.2.0
+- pkg:maven/com.github.cutedeer/swagger-x@5.2.0?classifier=sources

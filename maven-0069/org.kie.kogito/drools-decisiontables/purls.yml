@@ -26,3 +26,4 @@
 - pkg:maven/org.kie.kogito/drools-decisiontables@0.8.1
 - pkg:maven/org.kie.kogito/drools-decisiontables@0.9.0
 - pkg:maven/org.kie.kogito/drools-decisiontables@0.9.1
+- pkg:maven/org.kie.kogito/drools-decisiontables@1.0.0.Final

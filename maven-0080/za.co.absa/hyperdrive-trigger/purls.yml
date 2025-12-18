@@ -10,3 +10,5 @@
 - pkg:maven/za.co.absa/hyperdrive-trigger@0.2.2?type=war
 - pkg:maven/za.co.absa/hyperdrive-trigger@0.3.0?classifier=sources
 - pkg:maven/za.co.absa/hyperdrive-trigger@0.3.0?type=war
+- pkg:maven/za.co.absa/hyperdrive-trigger@0.3.2?classifier=sources
+- pkg:maven/za.co.absa/hyperdrive-trigger@0.3.2?type=war

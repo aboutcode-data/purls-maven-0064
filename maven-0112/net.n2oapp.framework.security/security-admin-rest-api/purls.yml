@@ -8,3 +8,5 @@
 - pkg:maven/net.n2oapp.framework.security/security-admin-rest-api@4.15?classifier=sources
 - pkg:maven/net.n2oapp.framework.security/security-admin-rest-api@4.17
 - pkg:maven/net.n2oapp.framework.security/security-admin-rest-api@4.17?classifier=sources
+- pkg:maven/net.n2oapp.framework.security/security-admin-rest-api@4.20
+- pkg:maven/net.n2oapp.framework.security/security-admin-rest-api@4.20?classifier=sources

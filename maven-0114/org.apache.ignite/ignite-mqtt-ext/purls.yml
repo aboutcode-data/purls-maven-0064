@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.ignite/ignite-mqtt-ext@1.0.0
+- pkg:maven/org.apache.ignite/ignite-mqtt-ext@1.0.0?classifier=sources

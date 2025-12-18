@@ -1,3 +1,5 @@
 - pkg:maven/com.itsccn/itsccn-core@0.0.9-RELEASE?classifier=sources
 - pkg:maven/com.itsccn/itsccn-core@0.1.0-RELEASE
 - pkg:maven/com.itsccn/itsccn-core@0.1.0-RELEASE?classifier=sources
+- pkg:maven/com.itsccn/itsccn-core@0.1.1-RELEASE
+- pkg:maven/com.itsccn/itsccn-core@0.1.1-RELEASE?classifier=sources

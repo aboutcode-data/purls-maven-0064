@@ -1,2 +1,6 @@
 - pkg:maven/com.cognitect.aws/codeartifact@801.2.709.0
 - pkg:maven/com.cognitect.aws/codeartifact@801.2.709.0?classifier=sources
+- pkg:maven/com.cognitect.aws/codeartifact@809.2.784.0
+- pkg:maven/com.cognitect.aws/codeartifact@809.2.784.0?classifier=sources
+- pkg:maven/com.cognitect.aws/codeartifact@810.2.801.0
+- pkg:maven/com.cognitect.aws/codeartifact@810.2.801.0?classifier=sources

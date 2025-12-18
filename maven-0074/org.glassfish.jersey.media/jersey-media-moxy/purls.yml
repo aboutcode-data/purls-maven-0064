@@ -141,6 +141,8 @@
 - pkg:maven/org.glassfish.jersey.media/jersey-media-moxy@2.31?classifier=sources
 - pkg:maven/org.glassfish.jersey.media/jersey-media-moxy@2.32
 - pkg:maven/org.glassfish.jersey.media/jersey-media-moxy@2.32?classifier=sources
+- pkg:maven/org.glassfish.jersey.media/jersey-media-moxy@2.33
+- pkg:maven/org.glassfish.jersey.media/jersey-media-moxy@2.33?classifier=sources
 - pkg:maven/org.glassfish.jersey.media/jersey-media-moxy@2.3?classifier=sources
 - pkg:maven/org.glassfish.jersey.media/jersey-media-moxy@2.4
 - pkg:maven/org.glassfish.jersey.media/jersey-media-moxy@2.4.1
@@ -162,5 +164,9 @@
 - pkg:maven/org.glassfish.jersey.media/jersey-media-moxy@2.9.1
 - pkg:maven/org.glassfish.jersey.media/jersey-media-moxy@2.9.1?classifier=sources
 - pkg:maven/org.glassfish.jersey.media/jersey-media-moxy@2.9?classifier=sources
+- pkg:maven/org.glassfish.jersey.media/jersey-media-moxy@3.0.0
 - pkg:maven/org.glassfish.jersey.media/jersey-media-moxy@3.0.0-M6
 - pkg:maven/org.glassfish.jersey.media/jersey-media-moxy@3.0.0-M6?classifier=sources
+- pkg:maven/org.glassfish.jersey.media/jersey-media-moxy@3.0.0-RC2
+- pkg:maven/org.glassfish.jersey.media/jersey-media-moxy@3.0.0-RC2?classifier=sources
+- pkg:maven/org.glassfish.jersey.media/jersey-media-moxy@3.0.0?classifier=sources

@@ -22,3 +22,7 @@
 - pkg:maven/org.webjars.npm/tailwindcss@1.4.6?classifier=sources
 - pkg:maven/org.webjars.npm/tailwindcss@1.7.6
 - pkg:maven/org.webjars.npm/tailwindcss@1.7.6?classifier=sources
+- pkg:maven/org.webjars.npm/tailwindcss@2.0.0-compat
+- pkg:maven/org.webjars.npm/tailwindcss@2.0.0-compat?classifier=sources
+- pkg:maven/org.webjars.npm/tailwindcss@2.0.1
+- pkg:maven/org.webjars.npm/tailwindcss@2.0.1?classifier=sources

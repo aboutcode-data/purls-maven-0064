@@ -86,3 +86,7 @@
 - pkg:maven/org.kie.server/kie-server-test-web-service@7.45.0.t20201009?type=war
 - pkg:maven/org.kie.server/kie-server-test-web-service@7.45.0.t20201014?classifier=sources
 - pkg:maven/org.kie.server/kie-server-test-web-service@7.45.0.t20201014?type=war
+- pkg:maven/org.kie.server/kie-server-test-web-service@7.46.0.Final?classifier=sources
+- pkg:maven/org.kie.server/kie-server-test-web-service@7.46.0.Final?type=war
+- pkg:maven/org.kie.server/kie-server-test-web-service@7.47.0.Final?classifier=sources
+- pkg:maven/org.kie.server/kie-server-test-web-service@7.47.0.Final?type=war

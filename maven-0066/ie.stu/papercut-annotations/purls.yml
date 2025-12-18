@@ -6,3 +6,4 @@
 - pkg:maven/ie.stu/papercut-annotations@0.0.3?classifier=sources
 - pkg:maven/ie.stu/papercut-annotations@0.0.4
 - pkg:maven/ie.stu/papercut-annotations@0.0.4?classifier=sources
+- pkg:maven/ie.stu/papercut-annotations@0.9.1?classifier=sources

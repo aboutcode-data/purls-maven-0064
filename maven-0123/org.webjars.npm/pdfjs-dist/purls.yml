@@ -50,3 +50,5 @@
 - pkg:maven/org.webjars.npm/pdfjs-dist@2.3.200?classifier=sources
 - pkg:maven/org.webjars.npm/pdfjs-dist@2.4.456
 - pkg:maven/org.webjars.npm/pdfjs-dist@2.4.456?classifier=sources
+- pkg:maven/org.webjars.npm/pdfjs-dist@2.5.207
+- pkg:maven/org.webjars.npm/pdfjs-dist@2.5.207?classifier=sources

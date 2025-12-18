@@ -100,3 +100,5 @@
 - pkg:maven/com.pugwoo/nimble-orm@0.9.7?classifier=sources
 - pkg:maven/com.pugwoo/nimble-orm@0.9.8
 - pkg:maven/com.pugwoo/nimble-orm@0.9.8?classifier=sources
+- pkg:maven/com.pugwoo/nimble-orm@0.9.9
+- pkg:maven/com.pugwoo/nimble-orm@0.9.9?classifier=sources

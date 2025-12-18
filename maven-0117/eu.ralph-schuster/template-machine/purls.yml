@@ -1,0 +1,4 @@
+- pkg:maven/eu.ralph-schuster/template-machine@0.9.0
+- pkg:maven/eu.ralph-schuster/template-machine@0.9.0?classifier=sources
+- pkg:maven/eu.ralph-schuster/template-machine@1.0.0
+- pkg:maven/eu.ralph-schuster/template-machine@1.0.0?classifier=sources

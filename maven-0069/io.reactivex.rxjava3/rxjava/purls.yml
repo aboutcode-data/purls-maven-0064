@@ -34,3 +34,9 @@
 - pkg:maven/io.reactivex.rxjava3/rxjava@3.0.6?classifier=sources
 - pkg:maven/io.reactivex.rxjava3/rxjava@3.0.7
 - pkg:maven/io.reactivex.rxjava3/rxjava@3.0.7?classifier=sources
+- pkg:maven/io.reactivex.rxjava3/rxjava@3.0.8
+- pkg:maven/io.reactivex.rxjava3/rxjava@3.0.8-RC3
+- pkg:maven/io.reactivex.rxjava3/rxjava@3.0.8-RC3?classifier=sources
+- pkg:maven/io.reactivex.rxjava3/rxjava@3.0.8?classifier=sources
+- pkg:maven/io.reactivex.rxjava3/rxjava@3.0.9
+- pkg:maven/io.reactivex.rxjava3/rxjava@3.0.9?classifier=sources

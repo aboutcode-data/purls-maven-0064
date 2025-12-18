@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.camel.kafkaconnector/apache-camel-kafka-connector-distribution@0.6.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.camel.kafkaconnector/apache-camel-kafka-connector-distribution@0.6.1?classifier=source-release&type=zip

@@ -21,3 +21,5 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-task@2.2.2.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-task@2.2.3.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-task@2.2.4.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-task@2.2.5.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-task@2.3.0

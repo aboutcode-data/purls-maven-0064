@@ -32,3 +32,5 @@
 - pkg:maven/com.github.sanskrit-coders/scala-utils_2.12@1.7?classifier=sources
 - pkg:maven/com.github.sanskrit-coders/scala-utils_2.12@1.8
 - pkg:maven/com.github.sanskrit-coders/scala-utils_2.12@1.8?classifier=sources
+- pkg:maven/com.github.sanskrit-coders/scala-utils_2.12@1.9
+- pkg:maven/com.github.sanskrit-coders/scala-utils_2.12@1.9?classifier=sources

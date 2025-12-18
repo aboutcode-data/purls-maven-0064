@@ -57,6 +57,8 @@
 - pkg:maven/org.opendaylight.odlparent/odl-karaf-feat-war@6.0.0?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/odl-karaf-feat-war@6.0.10?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/odl-karaf-feat-war@6.0.11?classifier=sources
+- pkg:maven/org.opendaylight.odlparent/odl-karaf-feat-war@6.0.12?classifier=sources
+- pkg:maven/org.opendaylight.odlparent/odl-karaf-feat-war@6.0.13?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/odl-karaf-feat-war@6.0.1?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/odl-karaf-feat-war@6.0.2?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/odl-karaf-feat-war@6.0.3?classifier=sources
@@ -74,4 +76,8 @@
 - pkg:maven/org.opendaylight.odlparent/odl-karaf-feat-war@7.0.5?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/odl-karaf-feat-war@7.0.6?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/odl-karaf-feat-war@7.0.7?classifier=sources
+- pkg:maven/org.opendaylight.odlparent/odl-karaf-feat-war@7.0.8?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/odl-karaf-feat-war@8.0.0?classifier=sources
+- pkg:maven/org.opendaylight.odlparent/odl-karaf-feat-war@8.0.1?classifier=sources
+- pkg:maven/org.opendaylight.odlparent/odl-karaf-feat-war@8.0.2?classifier=sources
+- pkg:maven/org.opendaylight.odlparent/odl-karaf-feat-war@8.0.3?classifier=sources

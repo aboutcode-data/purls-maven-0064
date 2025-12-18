@@ -151,6 +151,9 @@
 - pkg:maven/org.glassfish.jersey.examples.osgi-http-service/bundle@2.31?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples.osgi-http-service/bundle@2.32
 - pkg:maven/org.glassfish.jersey.examples.osgi-http-service/bundle@2.32?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples.osgi-http-service/bundle@2.33
+- pkg:maven/org.glassfish.jersey.examples.osgi-http-service/bundle@2.33?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples.osgi-http-service/bundle@2.33?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples.osgi-http-service/bundle@2.3?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples.osgi-http-service/bundle@2.4
 - pkg:maven/org.glassfish.jersey.examples.osgi-http-service/bundle@2.4.1

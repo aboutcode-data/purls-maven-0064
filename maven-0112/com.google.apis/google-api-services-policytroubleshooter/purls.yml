@@ -34,6 +34,12 @@
 - pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1-rev20200606-1.30.9?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1-rev20200801-1.30.10
 - pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1-rev20200801-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1-rev20201031-1.30.10
+- pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1-rev20201031-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1-rev20201107-1.30.10
+- pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1-rev20201107-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1-rev20201107-1.31.0
+- pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1-rev20201107-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1-rev3-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1-rev3-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1-rev3-1.25.0
@@ -128,6 +134,12 @@
 - pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1beta-rev20200606-1.30.9?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1beta-rev20200801-1.30.10
 - pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1beta-rev20200801-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1beta-rev20201031-1.30.10
+- pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1beta-rev20201031-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1beta-rev20201107-1.30.10
+- pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1beta-rev20201107-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1beta-rev20201107-1.31.0
+- pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1beta-rev20201107-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1beta-rev6-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1beta-rev6-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1beta-rev6-1.25.0

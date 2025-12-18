@@ -6,3 +6,4 @@
 - pkg:maven/io.devbench.uibuilder.data/uibuilder-data-filtering-test-jpa@1.3.0
 - pkg:maven/io.devbench.uibuilder.data/uibuilder-data-filtering-test-jpa@2.0.0
 - pkg:maven/io.devbench.uibuilder.data/uibuilder-data-filtering-test-jpa@2.0.1
+- pkg:maven/io.devbench.uibuilder.data/uibuilder-data-filtering-test-jpa@2.0.2

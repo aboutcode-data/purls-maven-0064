@@ -1,0 +1,6 @@
+- pkg:maven/dev.forkhandles/values4k@1.4.0.0
+- pkg:maven/dev.forkhandles/values4k@1.4.0.0?classifier=sources
+- pkg:maven/dev.forkhandles/values4k@1.5.0.0
+- pkg:maven/dev.forkhandles/values4k@1.5.0.0?classifier=sources
+- pkg:maven/dev.forkhandles/values4k@1.6.0.0
+- pkg:maven/dev.forkhandles/values4k@1.6.0.0?classifier=sources

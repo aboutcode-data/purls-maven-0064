@@ -32,3 +32,4 @@
 - pkg:maven/com.swisscom.cloud.sb/metrics@6.21.2?classifier=sources
 - pkg:maven/com.swisscom.cloud.sb/metrics@6.21.3?classifier=sources
 - pkg:maven/com.swisscom.cloud.sb/metrics@6.21.6?classifier=sources
+- pkg:maven/com.swisscom.cloud.sb/metrics@6.21.9?classifier=sources

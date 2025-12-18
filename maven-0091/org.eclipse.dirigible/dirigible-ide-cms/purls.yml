@@ -19,3 +19,5 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-ide-cms@5.2.0
 - pkg:maven/org.eclipse.dirigible/dirigible-ide-cms@5.3.0
 - pkg:maven/org.eclipse.dirigible/dirigible-ide-cms@5.4.0
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-cms@5.5.0
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-cms@5.6.0

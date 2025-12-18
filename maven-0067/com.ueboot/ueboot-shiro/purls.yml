@@ -2,3 +2,5 @@
 - pkg:maven/com.ueboot/ueboot-shiro@2.2.0?classifier=sources
 - pkg:maven/com.ueboot/ueboot-shiro@3.0.0
 - pkg:maven/com.ueboot/ueboot-shiro@3.0.0?classifier=sources
+- pkg:maven/com.ueboot/ueboot-shiro@3.1.0
+- pkg:maven/com.ueboot/ueboot-shiro@3.1.0?classifier=sources

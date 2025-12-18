@@ -2,3 +2,5 @@
 - pkg:maven/com.github.liaomengge/base-common-utils@1.1.4-SNAPSHOT-test?classifier=sources
 - pkg:maven/com.github.liaomengge/base-common-utils@1.1.5-RELEASE
 - pkg:maven/com.github.liaomengge/base-common-utils@1.1.5-RELEASE?classifier=sources
+- pkg:maven/com.github.liaomengge/base-common-utils@1.1.8-RELEASE
+- pkg:maven/com.github.liaomengge/base-common-utils@1.1.8-RELEASE?classifier=sources

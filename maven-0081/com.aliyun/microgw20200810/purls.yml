@@ -1,2 +1,10 @@
 - pkg:maven/com.aliyun/microgw20200810@1.0.0
 - pkg:maven/com.aliyun/microgw20200810@1.0.0?classifier=sources
+- pkg:maven/com.aliyun/microgw20200810@1.0.3
+- pkg:maven/com.aliyun/microgw20200810@1.0.3?classifier=sources
+- pkg:maven/com.aliyun/microgw20200810@1.0.4
+- pkg:maven/com.aliyun/microgw20200810@1.0.4?classifier=sources
+- pkg:maven/com.aliyun/microgw20200810@20201116
+- pkg:maven/com.aliyun/microgw20200810@20201116?classifier=sources
+- pkg:maven/com.aliyun/microgw20200810@20201217
+- pkg:maven/com.aliyun/microgw20200810@20201217?classifier=sources

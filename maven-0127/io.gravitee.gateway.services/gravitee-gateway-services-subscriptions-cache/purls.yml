@@ -130,6 +130,11 @@
 - pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-subscriptions-cache@1.30.22?classifier=sources
 - pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-subscriptions-cache@1.30.23?classifier=sources
 - pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-subscriptions-cache@1.30.24?classifier=sources
+- pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-subscriptions-cache@1.30.25?classifier=sources
+- pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-subscriptions-cache@1.30.26?classifier=sources
+- pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-subscriptions-cache@1.30.27?classifier=sources
+- pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-subscriptions-cache@1.30.28?classifier=sources
+- pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-subscriptions-cache@1.30.29?classifier=sources
 - pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-subscriptions-cache@1.30.2?classifier=sources
 - pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-subscriptions-cache@1.30.3?classifier=sources
 - pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-subscriptions-cache@1.30.4?classifier=sources
@@ -141,6 +146,11 @@
 - pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-subscriptions-cache@3.0.0-alpha?classifier=sources
 - pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-subscriptions-cache@3.0.0-beta?classifier=sources
 - pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-subscriptions-cache@3.0.0?classifier=sources
+- pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-subscriptions-cache@3.0.10?classifier=sources
+- pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-subscriptions-cache@3.0.11?classifier=sources
+- pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-subscriptions-cache@3.0.12?classifier=sources
+- pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-subscriptions-cache@3.0.13?classifier=sources
+- pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-subscriptions-cache@3.0.14?classifier=sources
 - pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-subscriptions-cache@3.0.1?classifier=sources
 - pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-subscriptions-cache@3.0.2?classifier=sources
 - pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-subscriptions-cache@3.0.3?classifier=sources
@@ -157,4 +167,10 @@
 - pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-subscriptions-cache@3.1.4?classifier=sources
 - pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-subscriptions-cache@3.2.0?classifier=sources
 - pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-subscriptions-cache@3.2.1?classifier=sources
+- pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-subscriptions-cache@3.2.2?classifier=sources
+- pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-subscriptions-cache@3.2.3?classifier=sources
 - pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-subscriptions-cache@3.3.0?classifier=sources
+- pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-subscriptions-cache@3.3.1?classifier=sources
+- pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-subscriptions-cache@3.3.2?classifier=sources
+- pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-subscriptions-cache@3.3.3?classifier=sources
+- pkg:maven/io.gravitee.gateway.services/gravitee-gateway-services-subscriptions-cache@3.3.4?classifier=sources

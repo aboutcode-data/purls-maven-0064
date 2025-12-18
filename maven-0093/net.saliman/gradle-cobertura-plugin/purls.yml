@@ -61,3 +61,4 @@
 - pkg:maven/net.saliman/gradle-cobertura-plugin@2.6.1
 - pkg:maven/net.saliman/gradle-cobertura-plugin@2.6.1?classifier=sources
 - pkg:maven/net.saliman/gradle-cobertura-plugin@3.0.0?classifier=sources
+- pkg:maven/net.saliman/gradle-cobertura-plugin@4.0.0?classifier=sources

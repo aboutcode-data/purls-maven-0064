@@ -12,7 +12,11 @@
 - pkg:maven/com.sdl.delivery/udp-cis-api@11.0.0-1067?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-cis-api@11.0.0-1068
 - pkg:maven/com.sdl.delivery/udp-cis-api@11.0.0-1068?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-cis-api@11.0.0-1071
+- pkg:maven/com.sdl.delivery/udp-cis-api@11.0.0-1071?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-cis-api@11.1.0-1056
 - pkg:maven/com.sdl.delivery/udp-cis-api@11.1.0-1056?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-cis-api@11.1.0-1103
+- pkg:maven/com.sdl.delivery/udp-cis-api@11.1.0-1103?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-cis-api@11.5.0-1069
 - pkg:maven/com.sdl.delivery/udp-cis-api@11.5.0-1069?classifier=sources

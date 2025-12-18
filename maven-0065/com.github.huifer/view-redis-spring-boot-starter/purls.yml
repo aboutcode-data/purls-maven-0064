@@ -1,0 +1,6 @@
+- pkg:maven/com.github.huifer/view-redis-spring-boot-starter@1.1-Releases
+- pkg:maven/com.github.huifer/view-redis-spring-boot-starter@1.1-Releases-hotfix
+- pkg:maven/com.github.huifer/view-redis-spring-boot-starter@1.1-Releases-hotfix?classifier=sources
+- pkg:maven/com.github.huifer/view-redis-spring-boot-starter@1.1-Releases?classifier=sources
+- pkg:maven/com.github.huifer/view-redis-spring-boot-starter@1.1.1-Releases-hotfix
+- pkg:maven/com.github.huifer/view-redis-spring-boot-starter@1.1.1-Releases-hotfix?classifier=sources

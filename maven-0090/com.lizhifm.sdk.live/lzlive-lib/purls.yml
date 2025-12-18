@@ -84,6 +84,20 @@
 - pkg:maven/com.lizhifm.sdk.live/lzlive-lib@1.0.29.71?type=aar
 - pkg:maven/com.lizhifm.sdk.live/lzlive-lib@1.0.29.72?classifier=sources
 - pkg:maven/com.lizhifm.sdk.live/lzlive-lib@1.0.29.72?type=aar
+- pkg:maven/com.lizhifm.sdk.live/lzlive-lib@1.0.29.73?classifier=sources
+- pkg:maven/com.lizhifm.sdk.live/lzlive-lib@1.0.29.73?type=aar
+- pkg:maven/com.lizhifm.sdk.live/lzlive-lib@1.0.29.74?classifier=sources
+- pkg:maven/com.lizhifm.sdk.live/lzlive-lib@1.0.29.74?type=aar
+- pkg:maven/com.lizhifm.sdk.live/lzlive-lib@1.0.29.75?classifier=sources
+- pkg:maven/com.lizhifm.sdk.live/lzlive-lib@1.0.29.75?type=aar
+- pkg:maven/com.lizhifm.sdk.live/lzlive-lib@1.0.29.76?classifier=sources
+- pkg:maven/com.lizhifm.sdk.live/lzlive-lib@1.0.29.76?type=aar
+- pkg:maven/com.lizhifm.sdk.live/lzlive-lib@1.0.29.77?classifier=sources
+- pkg:maven/com.lizhifm.sdk.live/lzlive-lib@1.0.29.77?type=aar
+- pkg:maven/com.lizhifm.sdk.live/lzlive-lib@1.0.29.78?classifier=sources
+- pkg:maven/com.lizhifm.sdk.live/lzlive-lib@1.0.29.78?type=aar
+- pkg:maven/com.lizhifm.sdk.live/lzlive-lib@1.0.29.79?classifier=sources
+- pkg:maven/com.lizhifm.sdk.live/lzlive-lib@1.0.29.79?type=aar
 - pkg:maven/com.lizhifm.sdk.live/lzlive-lib@1.0.30.01?classifier=sources
 - pkg:maven/com.lizhifm.sdk.live/lzlive-lib@1.0.30.01?type=aar
 - pkg:maven/com.lizhifm.sdk.live/lzlive-lib@1.0.30.02?classifier=sources
@@ -92,3 +106,5 @@
 - pkg:maven/com.lizhifm.sdk.live/lzlive-lib@1.0.30.03?type=aar
 - pkg:maven/com.lizhifm.sdk.live/lzlive-lib@1.0.30.04?classifier=sources
 - pkg:maven/com.lizhifm.sdk.live/lzlive-lib@1.0.30.04?type=aar
+- pkg:maven/com.lizhifm.sdk.live/lzlive-lib@1.0.30.05?classifier=sources
+- pkg:maven/com.lizhifm.sdk.live/lzlive-lib@1.0.30.05?type=aar

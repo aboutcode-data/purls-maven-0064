@@ -12,3 +12,5 @@
 - pkg:maven/org.openurp.edu.room/openurp-edu-room-api@0.17.1?classifier=sources
 - pkg:maven/org.openurp.edu.room/openurp-edu-room-api@0.18.0
 - pkg:maven/org.openurp.edu.room/openurp-edu-room-api@0.18.0?classifier=sources
+- pkg:maven/org.openurp.edu.room/openurp-edu-room-api@0.18.1
+- pkg:maven/org.openurp.edu.room/openurp-edu-room-api@0.18.1?classifier=sources

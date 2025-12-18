@@ -14,6 +14,10 @@
 - pkg:maven/com.yoti/yoti-sdk-spring-boot-auto-config@2.1.0?classifier=sources
 - pkg:maven/com.yoti/yoti-sdk-spring-boot-auto-config@2.10.0
 - pkg:maven/com.yoti/yoti-sdk-spring-boot-auto-config@2.10.0?classifier=sources
+- pkg:maven/com.yoti/yoti-sdk-spring-boot-auto-config@2.11.0
+- pkg:maven/com.yoti/yoti-sdk-spring-boot-auto-config@2.11.0?classifier=sources
+- pkg:maven/com.yoti/yoti-sdk-spring-boot-auto-config@2.12.0
+- pkg:maven/com.yoti/yoti-sdk-spring-boot-auto-config@2.12.0?classifier=sources
 - pkg:maven/com.yoti/yoti-sdk-spring-boot-auto-config@2.2.0
 - pkg:maven/com.yoti/yoti-sdk-spring-boot-auto-config@2.2.0?classifier=sources
 - pkg:maven/com.yoti/yoti-sdk-spring-boot-auto-config@2.3.0

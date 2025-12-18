@@ -1,0 +1,1 @@
+- pkg:maven/io.micronaut.gcp/micronaut-gcp-secret-manager@3.4.0?classifier=sources

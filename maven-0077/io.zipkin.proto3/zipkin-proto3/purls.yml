@@ -6,3 +6,5 @@
 - pkg:maven/io.zipkin.proto3/zipkin-proto3@0.2.1?classifier=sources
 - pkg:maven/io.zipkin.proto3/zipkin-proto3@0.2.2
 - pkg:maven/io.zipkin.proto3/zipkin-proto3@0.2.2?classifier=sources
+- pkg:maven/io.zipkin.proto3/zipkin-proto3@1.0.0
+- pkg:maven/io.zipkin.proto3/zipkin-proto3@1.0.0?classifier=sources

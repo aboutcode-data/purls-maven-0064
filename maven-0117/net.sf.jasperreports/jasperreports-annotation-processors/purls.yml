@@ -14,6 +14,8 @@
 - pkg:maven/net.sf.jasperreports/jasperreports-annotation-processors@6.14.0?classifier=sources
 - pkg:maven/net.sf.jasperreports/jasperreports-annotation-processors@6.15.0
 - pkg:maven/net.sf.jasperreports/jasperreports-annotation-processors@6.15.0?classifier=sources
+- pkg:maven/net.sf.jasperreports/jasperreports-annotation-processors@6.16.0
+- pkg:maven/net.sf.jasperreports/jasperreports-annotation-processors@6.16.0?classifier=sources
 - pkg:maven/net.sf.jasperreports/jasperreports-annotation-processors@6.8.0
 - pkg:maven/net.sf.jasperreports/jasperreports-annotation-processors@6.8.0?classifier=sources
 - pkg:maven/net.sf.jasperreports/jasperreports-annotation-processors@6.8.1

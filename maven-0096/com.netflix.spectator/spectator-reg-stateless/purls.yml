@@ -16,6 +16,9 @@
 - pkg:maven/com.netflix.spectator/spectator-reg-stateless@0.117.0?classifier=sources
 - pkg:maven/com.netflix.spectator/spectator-reg-stateless@0.118.0?classifier=sources
 - pkg:maven/com.netflix.spectator/spectator-reg-stateless@0.119.0?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-reg-stateless@0.120.0?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-reg-stateless@0.121.0?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-reg-stateless@0.122.0?classifier=sources
 - pkg:maven/com.netflix.spectator/spectator-reg-stateless@0.74.0
 - pkg:maven/com.netflix.spectator/spectator-reg-stateless@0.74.0?classifier=sources
 - pkg:maven/com.netflix.spectator/spectator-reg-stateless@0.74.1

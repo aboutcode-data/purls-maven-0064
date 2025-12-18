@@ -2,3 +2,5 @@
 - pkg:maven/com.deviceinsight.azure/azure-blob-upload-maven-plugin@1.0.0?classifier=sources
 - pkg:maven/com.deviceinsight.azure/azure-blob-upload-maven-plugin@1.1.0
 - pkg:maven/com.deviceinsight.azure/azure-blob-upload-maven-plugin@1.1.0?classifier=sources
+- pkg:maven/com.deviceinsight.azure/azure-blob-upload-maven-plugin@2.0.0
+- pkg:maven/com.deviceinsight.azure/azure-blob-upload-maven-plugin@2.0.0?classifier=sources

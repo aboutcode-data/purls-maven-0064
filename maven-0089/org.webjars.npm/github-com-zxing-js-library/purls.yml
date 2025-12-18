@@ -1,4 +1,6 @@
 - pkg:maven/org.webjars.npm/github-com-zxing-js-library@0.17.0
 - pkg:maven/org.webjars.npm/github-com-zxing-js-library@0.17.0?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-zxing-js-library@0.18.3
+- pkg:maven/org.webjars.npm/github-com-zxing-js-library@0.18.3?classifier=sources
 - pkg:maven/org.webjars.npm/github-com-zxing-js-library@0.8.2
 - pkg:maven/org.webjars.npm/github-com-zxing-js-library@0.8.2?classifier=sources

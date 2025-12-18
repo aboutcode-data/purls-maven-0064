@@ -68,3 +68,4 @@
 - pkg:maven/io.pivotal.spring.cloud/spring-cloud-services-spring-connector@2.2.5.RELEASE?classifier=sources
 - pkg:maven/io.pivotal.spring.cloud/spring-cloud-services-spring-connector@2.2.6.RELEASE?classifier=sources
 - pkg:maven/io.pivotal.spring.cloud/spring-cloud-services-spring-connector@2.3.0.RELEASE?classifier=sources
+- pkg:maven/io.pivotal.spring.cloud/spring-cloud-services-spring-connector@2.3.1.RELEASE?classifier=sources

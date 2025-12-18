@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkus/quarkus-oidc-client@1.11.0.CR1
+- pkg:maven/io.quarkus/quarkus-oidc-client@1.11.0.CR1?classifier=sources

@@ -29,3 +29,5 @@
 - pkg:maven/de.fraunhofer.aisec/cpg@3.0.0?classifier=sources
 - pkg:maven/de.fraunhofer.aisec/cpg@3.1.0
 - pkg:maven/de.fraunhofer.aisec/cpg@3.1.0?classifier=sources
+- pkg:maven/de.fraunhofer.aisec/cpg@3.2.0
+- pkg:maven/de.fraunhofer.aisec/cpg@3.2.0?classifier=sources

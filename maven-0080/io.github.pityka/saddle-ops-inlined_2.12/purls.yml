@@ -1,3 +1,4 @@
+- pkg:maven/io.github.pityka/saddle-ops-inlined_2.12@2.0.0
 - pkg:maven/io.github.pityka/saddle-ops-inlined_2.12@2.0.0-M15
 - pkg:maven/io.github.pityka/saddle-ops-inlined_2.12@2.0.0-M15?classifier=sources
 - pkg:maven/io.github.pityka/saddle-ops-inlined_2.12@2.0.0-M16
@@ -26,3 +27,6 @@
 - pkg:maven/io.github.pityka/saddle-ops-inlined_2.12@2.0.0-M29?classifier=sources
 - pkg:maven/io.github.pityka/saddle-ops-inlined_2.12@2.0.0-M30
 - pkg:maven/io.github.pityka/saddle-ops-inlined_2.12@2.0.0-M30?classifier=sources
+- pkg:maven/io.github.pityka/saddle-ops-inlined_2.12@2.0.0-M31
+- pkg:maven/io.github.pityka/saddle-ops-inlined_2.12@2.0.0-M31?classifier=sources
+- pkg:maven/io.github.pityka/saddle-ops-inlined_2.12@2.0.0?classifier=sources

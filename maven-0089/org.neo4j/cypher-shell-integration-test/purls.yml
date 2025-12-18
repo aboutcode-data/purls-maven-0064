@@ -1,0 +1,4 @@
+- pkg:maven/org.neo4j/cypher-shell-integration-test@3.5.26
+- pkg:maven/org.neo4j/cypher-shell-integration-test@3.5.26?classifier=sources
+- pkg:maven/org.neo4j/cypher-shell-integration-test@4.2.2
+- pkg:maven/org.neo4j/cypher-shell-integration-test@4.2.2?classifier=sources

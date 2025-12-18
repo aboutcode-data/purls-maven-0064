@@ -24,3 +24,5 @@
 - pkg:maven/org.sonarsource.scanner.maven/sonar-maven-plugin@3.6.1.1688?classifier=sources
 - pkg:maven/org.sonarsource.scanner.maven/sonar-maven-plugin@3.7.0.1746
 - pkg:maven/org.sonarsource.scanner.maven/sonar-maven-plugin@3.7.0.1746?classifier=sources
+- pkg:maven/org.sonarsource.scanner.maven/sonar-maven-plugin@3.8.0.2131
+- pkg:maven/org.sonarsource.scanner.maven/sonar-maven-plugin@3.8.0.2131?classifier=sources

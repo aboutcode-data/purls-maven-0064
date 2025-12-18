@@ -1,0 +1,6 @@
+- pkg:maven/com.rbkmoney/xrates-proto@1.12-fb862b0
+- pkg:maven/com.rbkmoney/xrates-proto@1.12-fb862b0?classifier=sources
+- pkg:maven/com.rbkmoney/xrates-proto@1.14-e9668ef
+- pkg:maven/com.rbkmoney/xrates-proto@1.14-e9668ef?classifier=sources
+- pkg:maven/com.rbkmoney/xrates-proto@1.16-66906cd
+- pkg:maven/com.rbkmoney/xrates-proto@1.16-66906cd?classifier=sources

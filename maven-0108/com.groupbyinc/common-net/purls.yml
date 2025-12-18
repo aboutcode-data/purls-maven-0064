@@ -155,6 +155,8 @@
 - pkg:maven/com.groupbyinc/common-net@190?classifier=sources
 - pkg:maven/com.groupbyinc/common-net@191
 - pkg:maven/com.groupbyinc/common-net@191?classifier=sources
+- pkg:maven/com.groupbyinc/common-net@192
+- pkg:maven/com.groupbyinc/common-net@192?classifier=sources
 - pkg:maven/com.groupbyinc/common-net@19?classifier=sources
 - pkg:maven/com.groupbyinc/common-net@20
 - pkg:maven/com.groupbyinc/common-net@20?classifier=sources

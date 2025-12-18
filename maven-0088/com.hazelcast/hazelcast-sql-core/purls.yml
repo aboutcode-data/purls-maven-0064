@@ -1,0 +1,2 @@
+- pkg:maven/com.hazelcast/hazelcast-sql-core@4.1.1
+- pkg:maven/com.hazelcast/hazelcast-sql-core@4.1.1?classifier=sources

@@ -6,6 +6,8 @@
 - pkg:maven/com.diozero/diozero-provider-wiringpi@0.12?classifier=sources
 - pkg:maven/com.diozero/diozero-provider-wiringpi@0.13
 - pkg:maven/com.diozero/diozero-provider-wiringpi@0.13?classifier=sources
+- pkg:maven/com.diozero/diozero-provider-wiringpi@0.14
+- pkg:maven/com.diozero/diozero-provider-wiringpi@0.14?classifier=sources
 - pkg:maven/com.diozero/diozero-provider-wiringpi@0.6
 - pkg:maven/com.diozero/diozero-provider-wiringpi@0.6?classifier=sources
 - pkg:maven/com.diozero/diozero-provider-wiringpi@0.7

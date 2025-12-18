@@ -2,3 +2,7 @@
 - pkg:maven/com.zuunr.restbed/restbed-security-jwt-bearer@1.0.0.M1-bd8a554?classifier=sources
 - pkg:maven/com.zuunr.restbed/restbed-security-jwt-bearer@1.0.0.M2-d37fe91
 - pkg:maven/com.zuunr.restbed/restbed-security-jwt-bearer@1.0.0.M2-d37fe91?classifier=sources
+- pkg:maven/com.zuunr.restbed/restbed-security-jwt-bearer@1.0.0.M3-90bfe82
+- pkg:maven/com.zuunr.restbed/restbed-security-jwt-bearer@1.0.0.M3-90bfe82?classifier=sources
+- pkg:maven/com.zuunr.restbed/restbed-security-jwt-bearer@1.0.0.M4-21954fe
+- pkg:maven/com.zuunr.restbed/restbed-security-jwt-bearer@1.0.0.M4-21954fe?classifier=sources

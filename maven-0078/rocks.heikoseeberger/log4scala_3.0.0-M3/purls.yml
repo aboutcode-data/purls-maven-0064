@@ -1,0 +1,2 @@
+- pkg:maven/rocks.heikoseeberger/log4scala_3.0.0-M3@0.1.0
+- pkg:maven/rocks.heikoseeberger/log4scala_3.0.0-M3@0.1.0?classifier=sources

@@ -15,6 +15,7 @@
 - pkg:maven/org.bsc.maven/maven-confluence-plugin-itest@6.10
 - pkg:maven/org.bsc.maven/maven-confluence-plugin-itest@6.11
 - pkg:maven/org.bsc.maven/maven-confluence-plugin-itest@6.2
+- pkg:maven/org.bsc.maven/maven-confluence-plugin-itest@6.20
 - pkg:maven/org.bsc.maven/maven-confluence-plugin-itest@6.3
 - pkg:maven/org.bsc.maven/maven-confluence-plugin-itest@6.3.1
 - pkg:maven/org.bsc.maven/maven-confluence-plugin-itest@6.3.2
@@ -34,3 +35,4 @@
 - pkg:maven/org.bsc.maven/maven-confluence-plugin-itest@6.9-rc1
 - pkg:maven/org.bsc.maven/maven-confluence-plugin-itest@6.9-rc2
 - pkg:maven/org.bsc.maven/maven-confluence-plugin-itest@6.9.1
+- pkg:maven/org.bsc.maven/maven-confluence-plugin-itest@7.0-beta1

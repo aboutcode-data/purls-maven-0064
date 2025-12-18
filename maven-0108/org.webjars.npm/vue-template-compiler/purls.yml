@@ -16,3 +16,5 @@
 - pkg:maven/org.webjars.npm/vue-template-compiler@2.6.10?classifier=sources
 - pkg:maven/org.webjars.npm/vue-template-compiler@2.6.11
 - pkg:maven/org.webjars.npm/vue-template-compiler@2.6.11?classifier=sources
+- pkg:maven/org.webjars.npm/vue-template-compiler@2.6.12
+- pkg:maven/org.webjars.npm/vue-template-compiler@2.6.12?classifier=sources

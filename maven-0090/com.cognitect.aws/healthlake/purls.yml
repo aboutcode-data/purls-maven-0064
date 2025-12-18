@@ -1,0 +1,4 @@
+- pkg:maven/com.cognitect.aws/healthlake@810.2.817.0
+- pkg:maven/com.cognitect.aws/healthlake@810.2.817.0?classifier=sources
+- pkg:maven/com.cognitect.aws/healthlake@811.2.824.0
+- pkg:maven/com.cognitect.aws/healthlake@811.2.824.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-ddm@3.0.25-beta
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-ddm@3.0.25-beta?classifier=sources

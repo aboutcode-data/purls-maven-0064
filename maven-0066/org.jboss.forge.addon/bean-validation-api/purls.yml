@@ -138,3 +138,5 @@
 - pkg:maven/org.jboss.forge.addon/bean-validation-api@3.9.6.Final?classifier=sources
 - pkg:maven/org.jboss.forge.addon/bean-validation-api@3.9.7.Final
 - pkg:maven/org.jboss.forge.addon/bean-validation-api@3.9.7.Final?classifier=sources
+- pkg:maven/org.jboss.forge.addon/bean-validation-api@3.9.8.Final
+- pkg:maven/org.jboss.forge.addon/bean-validation-api@3.9.8.Final?classifier=sources

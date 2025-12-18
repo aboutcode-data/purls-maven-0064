@@ -70,6 +70,12 @@
 - pkg:maven/org.infinispan/infinispan-cachestore-rest@11.0.3.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-cachestore-rest@11.0.4.Final
 - pkg:maven/org.infinispan/infinispan-cachestore-rest@11.0.4.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-cachestore-rest@11.0.5.Final
+- pkg:maven/org.infinispan/infinispan-cachestore-rest@11.0.5.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-cachestore-rest@11.0.7.Final
+- pkg:maven/org.infinispan/infinispan-cachestore-rest@11.0.7.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-cachestore-rest@11.0.8.Final
+- pkg:maven/org.infinispan/infinispan-cachestore-rest@11.0.8.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-cachestore-rest@12.0.0.Dev01
 - pkg:maven/org.infinispan/infinispan-cachestore-rest@12.0.0.Dev01?classifier=sources
 - pkg:maven/org.infinispan/infinispan-cachestore-rest@12.0.0.Dev02
@@ -360,6 +366,8 @@
 - pkg:maven/org.infinispan/infinispan-cachestore-rest@9.4.2.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-cachestore-rest@9.4.20.Final
 - pkg:maven/org.infinispan/infinispan-cachestore-rest@9.4.20.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-cachestore-rest@9.4.21.Final
+- pkg:maven/org.infinispan/infinispan-cachestore-rest@9.4.21.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-cachestore-rest@9.4.3.Final
 - pkg:maven/org.infinispan/infinispan-cachestore-rest@9.4.3.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-cachestore-rest@9.4.4.Final

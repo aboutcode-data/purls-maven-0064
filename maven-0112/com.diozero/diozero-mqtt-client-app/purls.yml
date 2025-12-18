@@ -1,2 +1,4 @@
 - pkg:maven/com.diozero/diozero-mqtt-client-app@0.13
 - pkg:maven/com.diozero/diozero-mqtt-client-app@0.13?classifier=sources
+- pkg:maven/com.diozero/diozero-mqtt-client-app@0.14
+- pkg:maven/com.diozero/diozero-mqtt-client-app@0.14?classifier=sources
