@@ -1,1 +1,3 @@
 - pkg:maven/io.servicetalk/servicetalk-log4j2-mdc@0.20.0?classifier=sources
+- pkg:maven/io.servicetalk/servicetalk-log4j2-mdc@0.21.0?classifier=sources
+- pkg:maven/io.servicetalk/servicetalk-log4j2-mdc@0.22.0?classifier=sources

@@ -12,3 +12,7 @@
 - pkg:maven/io.undertow/undertow-benchmarks@2.0.26.Final?classifier=sources
 - pkg:maven/io.undertow/undertow-benchmarks@2.0.27.Final
 - pkg:maven/io.undertow/undertow-benchmarks@2.0.27.Final?classifier=sources
+- pkg:maven/io.undertow/undertow-benchmarks@2.0.28.Final
+- pkg:maven/io.undertow/undertow-benchmarks@2.0.28.Final?classifier=sources
+- pkg:maven/io.undertow/undertow-benchmarks@2.0.29.Final
+- pkg:maven/io.undertow/undertow-benchmarks@2.0.29.Final?classifier=sources

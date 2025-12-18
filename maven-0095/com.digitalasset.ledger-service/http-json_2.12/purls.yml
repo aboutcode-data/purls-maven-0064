@@ -1,0 +1,4 @@
+- pkg:maven/com.digitalasset.ledger-service/http-json_2.12@100.13.51
+- pkg:maven/com.digitalasset.ledger-service/http-json_2.12@100.13.51?classifier=sources
+- pkg:maven/com.digitalasset.ledger-service/http-json_2.12@100.13.52
+- pkg:maven/com.digitalasset.ledger-service/http-json_2.12@100.13.52?classifier=sources

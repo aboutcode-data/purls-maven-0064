@@ -1,0 +1,4 @@
+- pkg:maven/io.cloudslang.content/cs-office-365@1.0.0-RC25
+- pkg:maven/io.cloudslang.content/cs-office-365@1.0.0-RC25?classifier=sources
+- pkg:maven/io.cloudslang.content/cs-office-365@1.0.0-RC26
+- pkg:maven/io.cloudslang.content/cs-office-365@1.0.0-RC26?classifier=sources

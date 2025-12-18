@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/cacheable-lookup@0.2.2
+- pkg:maven/org.webjars.npm/cacheable-lookup@0.2.2?classifier=sources

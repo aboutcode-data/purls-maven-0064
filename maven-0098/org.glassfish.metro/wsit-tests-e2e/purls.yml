@@ -1,0 +1,2 @@
+- pkg:maven/org.glassfish.metro/wsit-tests-e2e@2.4.4-b01
+- pkg:maven/org.glassfish.metro/wsit-tests-e2e@2.4.4-b01?classifier=sources

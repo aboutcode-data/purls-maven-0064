@@ -7,5 +7,11 @@
 - pkg:maven/cn.tdchain/jbcc@2.0.3.TD2?classifier=sources
 - pkg:maven/cn.tdchain/jbcc@2.0.4.TD1
 - pkg:maven/cn.tdchain/jbcc@2.0.4.TD1?classifier=sources
+- pkg:maven/cn.tdchain/jbcc@2.0.4.TD2
+- pkg:maven/cn.tdchain/jbcc@2.0.4.TD2?classifier=sources
+- pkg:maven/cn.tdchain/jbcc@2.0.4.TD3
+- pkg:maven/cn.tdchain/jbcc@2.0.4.TD3?classifier=sources
+- pkg:maven/cn.tdchain/jbcc@2.0.4.TD4
+- pkg:maven/cn.tdchain/jbcc@2.0.4.TD4?classifier=sources
 - pkg:maven/cn.tdchain/jbcc@LowerMassey.SR1
 - pkg:maven/cn.tdchain/jbcc@LowerMassey.SR1?classifier=sources

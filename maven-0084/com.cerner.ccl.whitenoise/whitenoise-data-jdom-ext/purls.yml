@@ -6,3 +6,5 @@
 - pkg:maven/com.cerner.ccl.whitenoise/whitenoise-data-jdom-ext@2.2?classifier=sources
 - pkg:maven/com.cerner.ccl.whitenoise/whitenoise-data-jdom-ext@2.3
 - pkg:maven/com.cerner.ccl.whitenoise/whitenoise-data-jdom-ext@2.3?classifier=sources
+- pkg:maven/com.cerner.ccl.whitenoise/whitenoise-data-jdom-ext@2.4
+- pkg:maven/com.cerner.ccl.whitenoise/whitenoise-data-jdom-ext@2.4?classifier=sources

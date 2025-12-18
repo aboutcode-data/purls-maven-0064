@@ -7,4 +7,6 @@
 - pkg:maven/com.fastchar/fastchar-job@1.01?classifier=sources
 - pkg:maven/com.fastchar/fastchar-job@1.02
 - pkg:maven/com.fastchar/fastchar-job@1.02?classifier=sources
+- pkg:maven/com.fastchar/fastchar-job@1.04
+- pkg:maven/com.fastchar/fastchar-job@1.04?classifier=sources
 - pkg:maven/com.fastchar/fastchar-job@1.0?classifier=sources

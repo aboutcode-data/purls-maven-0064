@@ -12,3 +12,5 @@
 - pkg:maven/org.webjars.npm/cleave.js@1.4.4?classifier=sources
 - pkg:maven/org.webjars.npm/cleave.js@1.4.7
 - pkg:maven/org.webjars.npm/cleave.js@1.4.7?classifier=sources
+- pkg:maven/org.webjars.npm/cleave.js@1.5.3
+- pkg:maven/org.webjars.npm/cleave.js@1.5.3?classifier=sources

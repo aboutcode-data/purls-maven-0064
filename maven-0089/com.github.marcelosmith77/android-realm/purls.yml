@@ -6,3 +6,6 @@
 - pkg:maven/com.github.marcelosmith77/android-realm@1.00.02?type=aar
 - pkg:maven/com.github.marcelosmith77/android-realm@1.00.03?classifier=sources
 - pkg:maven/com.github.marcelosmith77/android-realm@1.00.03?type=aar
+- pkg:maven/com.github.marcelosmith77/android-realm@1.01.00?type=aar
+- pkg:maven/com.github.marcelosmith77/android-realm@1.01.01?type=aar
+- pkg:maven/com.github.marcelosmith77/android-realm@1.01.03?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/org.everit.persistence/org.everit.persistence.querydsl.dtoquery@1.0.0-alpha1
+- pkg:maven/org.everit.persistence/org.everit.persistence.querydsl.dtoquery@1.0.0-alpha1?classifier=sources

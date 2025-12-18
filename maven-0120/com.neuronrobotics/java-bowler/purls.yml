@@ -82,3 +82,5 @@
 - pkg:maven/com.neuronrobotics/java-bowler@3.26.2?classifier=sources
 - pkg:maven/com.neuronrobotics/java-bowler@3.27.0
 - pkg:maven/com.neuronrobotics/java-bowler@3.27.0?classifier=sources
+- pkg:maven/com.neuronrobotics/java-bowler@3.28.0
+- pkg:maven/com.neuronrobotics/java-bowler@3.28.0?classifier=sources

@@ -82,3 +82,5 @@
 - pkg:maven/com.hellosign/hellosign-java-sdk@4.0.8?classifier=sources
 - pkg:maven/com.hellosign/hellosign-java-sdk@4.0.9
 - pkg:maven/com.hellosign/hellosign-java-sdk@4.0.9?classifier=sources
+- pkg:maven/com.hellosign/hellosign-java-sdk@4.1.0
+- pkg:maven/com.hellosign/hellosign-java-sdk@4.1.0?classifier=sources

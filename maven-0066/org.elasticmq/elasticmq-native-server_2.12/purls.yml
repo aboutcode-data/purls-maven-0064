@@ -20,3 +20,5 @@
 - pkg:maven/org.elasticmq/elasticmq-native-server_2.12@0.15.2?classifier=sources
 - pkg:maven/org.elasticmq/elasticmq-native-server_2.12@0.15.3
 - pkg:maven/org.elasticmq/elasticmq-native-server_2.12@0.15.3?classifier=sources
+- pkg:maven/org.elasticmq/elasticmq-native-server_2.12@0.15.4
+- pkg:maven/org.elasticmq/elasticmq-native-server_2.12@0.15.4?classifier=sources

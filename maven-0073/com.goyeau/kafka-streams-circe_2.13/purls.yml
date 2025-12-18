@@ -1,0 +1,2 @@
+- pkg:maven/com.goyeau/kafka-streams-circe_2.13@0.6
+- pkg:maven/com.goyeau/kafka-streams-circe_2.13@0.6?classifier=sources

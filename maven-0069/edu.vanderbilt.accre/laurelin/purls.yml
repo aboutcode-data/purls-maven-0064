@@ -22,3 +22,9 @@
 - pkg:maven/edu.vanderbilt.accre/laurelin@0.5.0?classifier=sources
 - pkg:maven/edu.vanderbilt.accre/laurelin@0.5.1
 - pkg:maven/edu.vanderbilt.accre/laurelin@0.5.1?classifier=sources
+- pkg:maven/edu.vanderbilt.accre/laurelin@0.6.1
+- pkg:maven/edu.vanderbilt.accre/laurelin@0.6.1?classifier=sources
+- pkg:maven/edu.vanderbilt.accre/laurelin@0.6.2
+- pkg:maven/edu.vanderbilt.accre/laurelin@0.6.2?classifier=sources
+- pkg:maven/edu.vanderbilt.accre/laurelin@1.0.0
+- pkg:maven/edu.vanderbilt.accre/laurelin@1.0.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/cc.akkaha/pea-common_2.12@0.6.0
+- pkg:maven/cc.akkaha/pea-common_2.12@0.6.0?classifier=sources
+- pkg:maven/cc.akkaha/pea-common_2.12@0.7.0
+- pkg:maven/cc.akkaha/pea-common_2.12@0.7.0?classifier=sources

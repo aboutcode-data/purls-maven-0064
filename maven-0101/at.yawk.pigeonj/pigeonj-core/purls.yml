@@ -1,0 +1,2 @@
+- pkg:maven/at.yawk.pigeonj/pigeonj-core@1.0
+- pkg:maven/at.yawk.pigeonj/pigeonj-core@1.0?classifier=sources

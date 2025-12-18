@@ -1,0 +1,4 @@
+- pkg:maven/com.nealk.concurrent/concurrent-tasks@1.10
+- pkg:maven/com.nealk.concurrent/concurrent-tasks@1.10?classifier=sources
+- pkg:maven/com.nealk.concurrent/concurrent-tasks@1.12
+- pkg:maven/com.nealk.concurrent/concurrent-tasks@1.12?classifier=sources

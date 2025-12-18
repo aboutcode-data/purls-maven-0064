@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/uppy__companion-client@0.27.2?classifier=sources
 - pkg:maven/org.webjars.npm/uppy__companion-client@1.0.1
 - pkg:maven/org.webjars.npm/uppy__companion-client@1.0.1?classifier=sources
+- pkg:maven/org.webjars.npm/uppy__companion-client@1.4.1
+- pkg:maven/org.webjars.npm/uppy__companion-client@1.4.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/net.officefloor.reactor/officereactor@3.19.0
+- pkg:maven/net.officefloor.reactor/officereactor@3.19.0?classifier=sources
+- pkg:maven/net.officefloor.reactor/officereactor@3.20.0
+- pkg:maven/net.officefloor.reactor/officereactor@3.20.0?classifier=sources

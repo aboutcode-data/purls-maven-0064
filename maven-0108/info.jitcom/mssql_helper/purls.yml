@@ -1,0 +1,2 @@
+- pkg:maven/info.jitcom/mssql_helper@1.1.2?classifier=sources
+- pkg:maven/info.jitcom/mssql_helper@1.1?classifier=sources

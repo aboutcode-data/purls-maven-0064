@@ -18,3 +18,5 @@
 - pkg:maven/org.webjars.npm/raw-body@2.3.3?classifier=sources
 - pkg:maven/org.webjars.npm/raw-body@2.4.0
 - pkg:maven/org.webjars.npm/raw-body@2.4.0?classifier=sources
+- pkg:maven/org.webjars.npm/raw-body@2.4.1
+- pkg:maven/org.webjars.npm/raw-body@2.4.1?classifier=sources

@@ -11,4 +11,6 @@
 - pkg:maven/tech.units/indriya@2.0-PRD?classifier=sources
 - pkg:maven/tech.units/indriya@2.0.1
 - pkg:maven/tech.units/indriya@2.0.1?classifier=sources
+- pkg:maven/tech.units/indriya@2.0.2
+- pkg:maven/tech.units/indriya@2.0.2?classifier=sources
 - pkg:maven/tech.units/indriya@2.0?classifier=sources

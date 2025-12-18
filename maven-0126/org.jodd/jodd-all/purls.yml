@@ -57,3 +57,4 @@
 - pkg:maven/org.jodd/jodd-all@5.0.9?classifier=sources
 - pkg:maven/org.jodd/jodd-all@5.1.0-20190624
 - pkg:maven/org.jodd/jodd-all@5.1.0-20190624?classifier=sources
+- pkg:maven/org.jodd/jodd-all@5.1.0?classifier=sources

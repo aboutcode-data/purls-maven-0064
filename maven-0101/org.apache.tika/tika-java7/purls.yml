@@ -26,6 +26,8 @@
 - pkg:maven/org.apache.tika/tika-java7@1.21?classifier=sources
 - pkg:maven/org.apache.tika/tika-java7@1.22
 - pkg:maven/org.apache.tika/tika-java7@1.22?classifier=sources
+- pkg:maven/org.apache.tika/tika-java7@1.23
+- pkg:maven/org.apache.tika/tika-java7@1.23?classifier=sources
 - pkg:maven/org.apache.tika/tika-java7@1.5
 - pkg:maven/org.apache.tika/tika-java7@1.5?classifier=sources
 - pkg:maven/org.apache.tika/tika-java7@1.6

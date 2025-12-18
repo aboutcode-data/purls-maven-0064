@@ -1,2 +1,12 @@
 - pkg:maven/io.reliza/versioning@2019.05.Stable.3
 - pkg:maven/io.reliza/versioning@2019.05.Stable.3?classifier=sources
+- pkg:maven/io.reliza/versioning@2020.01.Stable.2
+- pkg:maven/io.reliza/versioning@2020.01.Stable.2?classifier=sources
+- pkg:maven/io.reliza/versioning@2020.01.Stable.3
+- pkg:maven/io.reliza/versioning@2020.01.Stable.3?classifier=sources
+- pkg:maven/io.reliza/versioning@2020.01.Stable.4
+- pkg:maven/io.reliza/versioning@2020.01.Stable.4?classifier=sources
+- pkg:maven/io.reliza/versioning@2020.01.Stable.6
+- pkg:maven/io.reliza/versioning@2020.01.Stable.6?classifier=sources
+- pkg:maven/io.reliza/versioning@2020.02.Stable.3
+- pkg:maven/io.reliza/versioning@2020.02.Stable.3?classifier=sources

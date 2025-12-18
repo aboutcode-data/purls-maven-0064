@@ -1,0 +1,2 @@
+- pkg:maven/net.enilink.bundles/net.enilink.bundles.rdf4j@3.0.0
+- pkg:maven/net.enilink.bundles/net.enilink.bundles.rdf4j@3.0.0?classifier=sources

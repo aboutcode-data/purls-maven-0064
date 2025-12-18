@@ -1,0 +1,2 @@
+- pkg:maven/org.spockframework/spock-groovy2-compat@2.0-M2-groovy-2.5
+- pkg:maven/org.spockframework/spock-groovy2-compat@2.0-M2-groovy-2.5?classifier=sources

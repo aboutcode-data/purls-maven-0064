@@ -1,1 +1,2 @@
 - pkg:maven/org.webjars.npm/github-com-mapgears-ol3-google-maps@0.20.0
+- pkg:maven/org.webjars.npm/github-com-mapgears-ol3-google-maps@0.20.0?classifier=sources

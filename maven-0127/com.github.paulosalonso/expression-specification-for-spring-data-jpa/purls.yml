@@ -1,0 +1,2 @@
+- pkg:maven/com.github.paulosalonso/expression-specification-for-spring-data-jpa@1.0.0
+- pkg:maven/com.github.paulosalonso/expression-specification-for-spring-data-jpa@1.0.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/se.bjurr.violations/violation-comments-to-bitbucket-cloud-command-line@1.11
+- pkg:maven/se.bjurr.violations/violation-comments-to-bitbucket-cloud-command-line@1.11?classifier=sources
+- pkg:maven/se.bjurr.violations/violation-comments-to-bitbucket-cloud-command-line@1.13
+- pkg:maven/se.bjurr.violations/violation-comments-to-bitbucket-cloud-command-line@1.13?classifier=sources

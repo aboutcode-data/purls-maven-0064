@@ -1,2 +1,4 @@
 - pkg:maven/net.rictech.util/rictech-util@2.1.8
 - pkg:maven/net.rictech.util/rictech-util@2.1.8?classifier=sources
+- pkg:maven/net.rictech.util/rictech-util@2.2.1
+- pkg:maven/net.rictech.util/rictech-util@2.2.1?classifier=sources

@@ -7,6 +7,9 @@
 - pkg:maven/io.smallrye/smallrye-jwt-docs@2.0.0
 - pkg:maven/io.smallrye/smallrye-jwt-docs@2.0.1
 - pkg:maven/io.smallrye/smallrye-jwt-docs@2.0.10
+- pkg:maven/io.smallrye/smallrye-jwt-docs@2.0.11
+- pkg:maven/io.smallrye/smallrye-jwt-docs@2.0.12
+- pkg:maven/io.smallrye/smallrye-jwt-docs@2.0.13
 - pkg:maven/io.smallrye/smallrye-jwt-docs@2.0.2
 - pkg:maven/io.smallrye/smallrye-jwt-docs@2.0.3
 - pkg:maven/io.smallrye/smallrye-jwt-docs@2.0.9

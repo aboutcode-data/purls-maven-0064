@@ -6,3 +6,4 @@
 - pkg:maven/org.apache.commons/commons-skin@4
 - pkg:maven/org.apache.commons/commons-skin@4.1
 - pkg:maven/org.apache.commons/commons-skin@4.1?classifier=sources
+- pkg:maven/org.apache.commons/commons-skin@4.2

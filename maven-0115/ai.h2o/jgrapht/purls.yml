@@ -1,0 +1,2 @@
+- pkg:maven/ai.h2o/jgrapht@3.28.0.2?classifier=sources
+- pkg:maven/ai.h2o/jgrapht@3.28.0.3?classifier=sources

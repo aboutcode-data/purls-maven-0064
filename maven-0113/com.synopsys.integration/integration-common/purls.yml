@@ -1,0 +1,2 @@
+- pkg:maven/com.synopsys.integration/integration-common@19.0.0
+- pkg:maven/com.synopsys.integration/integration-common@19.0.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.orientechnologies/orientdb-teleporter@3.0.27?classifier=sources
+- pkg:maven/com.orientechnologies/orientdb-teleporter@3.0.27?type=zip
+- pkg:maven/com.orientechnologies/orientdb-teleporter@3.0.28?classifier=sources
+- pkg:maven/com.orientechnologies/orientdb-teleporter@3.0.28?type=zip

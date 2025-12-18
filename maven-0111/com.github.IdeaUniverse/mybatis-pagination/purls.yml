@@ -1,0 +1,9 @@
+- pkg:maven/com.github.IdeaUniverse/mybatis-pagination@1.0-RELEASE
+- pkg:maven/com.github.IdeaUniverse/mybatis-pagination@1.0-RELEASE?classifier=sources
+- pkg:maven/com.github.IdeaUniverse/mybatis-pagination@1.0.1-RELEASE
+- pkg:maven/com.github.IdeaUniverse/mybatis-pagination@1.0.1-RELEASE?classifier=sources
+- pkg:maven/com.github.IdeaUniverse/mybatis-pagination@1.0.2-RELEASE
+- pkg:maven/com.github.IdeaUniverse/mybatis-pagination@1.0.2-RELEASE?classifier=sources
+- pkg:maven/com.github.IdeaUniverse/mybatis-pagination@1.0.5-RELEASE?classifier=sources
+- pkg:maven/com.github.IdeaUniverse/mybatis-pagination@1.0.7-RELEASE
+- pkg:maven/com.github.IdeaUniverse/mybatis-pagination@1.0.7-RELEASE?classifier=sources

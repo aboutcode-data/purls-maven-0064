@@ -29,6 +29,8 @@
 - pkg:maven/cz.diribet/aqdef-tools@1.1.11?classifier=sources
 - pkg:maven/cz.diribet/aqdef-tools@1.1.13
 - pkg:maven/cz.diribet/aqdef-tools@1.1.13?classifier=sources
+- pkg:maven/cz.diribet/aqdef-tools@1.1.16
+- pkg:maven/cz.diribet/aqdef-tools@1.1.16?classifier=sources
 - pkg:maven/cz.diribet/aqdef-tools@1.1.1?classifier=sources
 - pkg:maven/cz.diribet/aqdef-tools@1.1.2
 - pkg:maven/cz.diribet/aqdef-tools@1.1.2?classifier=sources
@@ -46,3 +48,5 @@
 - pkg:maven/cz.diribet/aqdef-tools@1.1.8?classifier=sources
 - pkg:maven/cz.diribet/aqdef-tools@1.1.9
 - pkg:maven/cz.diribet/aqdef-tools@1.1.9?classifier=sources
+- pkg:maven/cz.diribet/aqdef-tools@2.0.0
+- pkg:maven/cz.diribet/aqdef-tools@2.0.0?classifier=sources

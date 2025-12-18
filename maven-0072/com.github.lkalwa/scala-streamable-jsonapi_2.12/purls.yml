@@ -1,2 +1,4 @@
 - pkg:maven/com.github.lkalwa/scala-streamable-jsonapi_2.12@0.2
 - pkg:maven/com.github.lkalwa/scala-streamable-jsonapi_2.12@0.2?classifier=sources
+- pkg:maven/com.github.lkalwa/scala-streamable-jsonapi_2.12@0.77
+- pkg:maven/com.github.lkalwa/scala-streamable-jsonapi_2.12@0.77?classifier=sources

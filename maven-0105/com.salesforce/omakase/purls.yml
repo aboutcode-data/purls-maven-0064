@@ -1,0 +1,4 @@
+- pkg:maven/com.salesforce/omakase@1.4.4
+- pkg:maven/com.salesforce/omakase@1.4.4?classifier=sources
+- pkg:maven/com.salesforce/omakase@1.4.5
+- pkg:maven/com.salesforce/omakase@1.4.5?classifier=sources

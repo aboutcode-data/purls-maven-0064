@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.clerezza.releases/20200202@2?classifier=source-release&type=zip
+- pkg:maven/org.apache.clerezza.releases/20200202@2?classifier=src&type=zip
