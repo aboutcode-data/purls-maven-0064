@@ -1,0 +1,4 @@
+- pkg:maven/net.bloemsma.graphql.query/graphql-query@0.0.1-PRE
+- pkg:maven/net.bloemsma.graphql.query/graphql-query@0.0.1-PRE-2
+- pkg:maven/net.bloemsma.graphql.query/graphql-query@0.0.1-PRE-2?classifier=sources
+- pkg:maven/net.bloemsma.graphql.query/graphql-query@0.0.1-PRE?classifier=sources

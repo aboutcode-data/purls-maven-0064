@@ -77,6 +77,16 @@
 - pkg:maven/net.sourceforge.plantuml/plantuml@1.2020.1
 - pkg:maven/net.sourceforge.plantuml/plantuml@1.2020.10
 - pkg:maven/net.sourceforge.plantuml/plantuml@1.2020.10?classifier=sources
+- pkg:maven/net.sourceforge.plantuml/plantuml@1.2020.11
+- pkg:maven/net.sourceforge.plantuml/plantuml@1.2020.11?classifier=sources
+- pkg:maven/net.sourceforge.plantuml/plantuml@1.2020.12
+- pkg:maven/net.sourceforge.plantuml/plantuml@1.2020.12?classifier=sources
+- pkg:maven/net.sourceforge.plantuml/plantuml@1.2020.13
+- pkg:maven/net.sourceforge.plantuml/plantuml@1.2020.13?classifier=sources
+- pkg:maven/net.sourceforge.plantuml/plantuml@1.2020.14
+- pkg:maven/net.sourceforge.plantuml/plantuml@1.2020.14?classifier=sources
+- pkg:maven/net.sourceforge.plantuml/plantuml@1.2020.15
+- pkg:maven/net.sourceforge.plantuml/plantuml@1.2020.15?classifier=sources
 - pkg:maven/net.sourceforge.plantuml/plantuml@1.2020.1?classifier=sources
 - pkg:maven/net.sourceforge.plantuml/plantuml@1.2020.2
 - pkg:maven/net.sourceforge.plantuml/plantuml@1.2020.2?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.cloudimpl/errorcode-generator@2.0.0.20
+- pkg:maven/com.cloudimpl/errorcode-generator@2.0.0.20?classifier=sources
+- pkg:maven/com.cloudimpl/errorcode-generator@2.0.0.22
+- pkg:maven/com.cloudimpl/errorcode-generator@2.0.0.22?classifier=sources

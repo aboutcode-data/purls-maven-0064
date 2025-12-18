@@ -10,3 +10,4 @@
 - pkg:maven/com.joonsang.graylog/graylog-query-builder@1.0.2?classifier=sources
 - pkg:maven/com.joonsang.graylog/graylog-query-builder@1.0.3
 - pkg:maven/com.joonsang.graylog/graylog-query-builder@1.0.3?classifier=sources
+- pkg:maven/com.joonsang.graylog/graylog-query-builder@1.0.4?classifier=sources

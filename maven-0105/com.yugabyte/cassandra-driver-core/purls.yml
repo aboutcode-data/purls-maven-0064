@@ -28,3 +28,5 @@
 - pkg:maven/com.yugabyte/cassandra-driver-core@3.8.0-yb-3-RC2?classifier=sources
 - pkg:maven/com.yugabyte/cassandra-driver-core@3.8.0-yb-4
 - pkg:maven/com.yugabyte/cassandra-driver-core@3.8.0-yb-4?classifier=sources
+- pkg:maven/com.yugabyte/cassandra-driver-core@3.8.0-yb-5
+- pkg:maven/com.yugabyte/cassandra-driver-core@3.8.0-yb-5?classifier=sources

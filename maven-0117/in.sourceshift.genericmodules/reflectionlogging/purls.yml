@@ -1,0 +1,2 @@
+- pkg:maven/in.sourceshift.genericmodules/reflectionlogging@16.0.0
+- pkg:maven/in.sourceshift.genericmodules/reflectionlogging@16.0.0?classifier=sources

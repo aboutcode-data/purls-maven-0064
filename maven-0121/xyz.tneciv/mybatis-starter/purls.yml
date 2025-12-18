@@ -4,3 +4,5 @@
 - pkg:maven/xyz.tneciv/mybatis-starter@Qin.RC3?classifier=sources
 - pkg:maven/xyz.tneciv/mybatis-starter@Qin.RELEASE
 - pkg:maven/xyz.tneciv/mybatis-starter@Qin.RELEASE?classifier=sources
+- pkg:maven/xyz.tneciv/mybatis-starter@Qin.SR1
+- pkg:maven/xyz.tneciv/mybatis-starter@Qin.SR1?classifier=sources

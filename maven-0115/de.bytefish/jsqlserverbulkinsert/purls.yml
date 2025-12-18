@@ -12,3 +12,5 @@
 - pkg:maven/de.bytefish/jsqlserverbulkinsert@1.5?classifier=sources
 - pkg:maven/de.bytefish/jsqlserverbulkinsert@2.0
 - pkg:maven/de.bytefish/jsqlserverbulkinsert@2.0?classifier=sources
+- pkg:maven/de.bytefish/jsqlserverbulkinsert@3.0.0
+- pkg:maven/de.bytefish/jsqlserverbulkinsert@3.0.0?classifier=sources

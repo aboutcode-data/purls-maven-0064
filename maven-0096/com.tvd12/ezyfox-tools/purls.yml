@@ -14,3 +14,5 @@
 - pkg:maven/com.tvd12/ezyfox-tools@1.1.2b?classifier=sources
 - pkg:maven/com.tvd12/ezyfox-tools@1.1.2c
 - pkg:maven/com.tvd12/ezyfox-tools@1.1.2c?classifier=sources
+- pkg:maven/com.tvd12/ezyfox-tools@1.1.2d
+- pkg:maven/com.tvd12/ezyfox-tools@1.1.2d?classifier=sources

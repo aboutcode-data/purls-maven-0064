@@ -28,3 +28,5 @@
 - pkg:maven/com.github.michaelgantman/MgntUtils@1.5.0.7?classifier=sources
 - pkg:maven/com.github.michaelgantman/MgntUtils@1.5.0.8
 - pkg:maven/com.github.michaelgantman/MgntUtils@1.5.0.8?classifier=sources
+- pkg:maven/com.github.michaelgantman/MgntUtils@1.5.0.9?classifier=sources
+- pkg:maven/com.github.michaelgantman/MgntUtils@1.5.1.0?classifier=sources

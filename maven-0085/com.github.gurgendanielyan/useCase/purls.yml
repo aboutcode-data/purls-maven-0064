@@ -1,0 +1,6 @@
+- pkg:maven/com.github.gurgendanielyan/useCase@2.0
+- pkg:maven/com.github.gurgendanielyan/useCase@2.0?classifier=sources
+- pkg:maven/com.github.gurgendanielyan/useCase@2.3
+- pkg:maven/com.github.gurgendanielyan/useCase@2.3?classifier=sources
+- pkg:maven/com.github.gurgendanielyan/useCase@2.6
+- pkg:maven/com.github.gurgendanielyan/useCase@2.6?classifier=sources

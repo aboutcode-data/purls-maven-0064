@@ -16,3 +16,5 @@
 - pkg:maven/org.webjars.npm/acorn-globals@4.3.2?classifier=sources
 - pkg:maven/org.webjars.npm/acorn-globals@4.3.4
 - pkg:maven/org.webjars.npm/acorn-globals@4.3.4?classifier=sources
+- pkg:maven/org.webjars.npm/acorn-globals@6.0.0
+- pkg:maven/org.webjars.npm/acorn-globals@6.0.0?classifier=sources

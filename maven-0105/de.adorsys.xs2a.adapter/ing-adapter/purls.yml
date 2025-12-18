@@ -1,0 +1,2 @@
+- pkg:maven/de.adorsys.xs2a.adapter/ing-adapter@0.1.0
+- pkg:maven/de.adorsys.xs2a.adapter/ing-adapter@0.1.0?classifier=sources

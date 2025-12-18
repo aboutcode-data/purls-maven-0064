@@ -32,3 +32,7 @@
 - pkg:maven/us.fatehi/schemacrawler-distrib@16.6.1
 - pkg:maven/us.fatehi/schemacrawler-distrib@16.7.1
 - pkg:maven/us.fatehi/schemacrawler-distrib@16.7.2
+- pkg:maven/us.fatehi/schemacrawler-distrib@16.8.1
+- pkg:maven/us.fatehi/schemacrawler-distrib@16.9.1
+- pkg:maven/us.fatehi/schemacrawler-distrib@16.9.2
+- pkg:maven/us.fatehi/schemacrawler-distrib@16.9.3

@@ -1,0 +1,2 @@
+- pkg:maven/wiki.capsule/flow-spring-boot-starter@1.2.0.RELEASE
+- pkg:maven/wiki.capsule/flow-spring-boot-starter@1.2.0.RELEASE?classifier=sources

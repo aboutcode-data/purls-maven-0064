@@ -1,0 +1,6 @@
+- pkg:maven/ch.cern/cerndb-sw-zkpolicy@1.0.1-11
+- pkg:maven/ch.cern/cerndb-sw-zkpolicy@1.0.1-11?classifier=sources
+- pkg:maven/ch.cern/cerndb-sw-zkpolicy@1.0.1-12
+- pkg:maven/ch.cern/cerndb-sw-zkpolicy@1.0.1-12?classifier=sources
+- pkg:maven/ch.cern/cerndb-sw-zkpolicy@1.0.1-9
+- pkg:maven/ch.cern/cerndb-sw-zkpolicy@1.0.1-9?classifier=sources

@@ -22,3 +22,5 @@
 - pkg:maven/com.soundcloud.lightcycle/lightcycle-lib@1.6.4?type=aar
 - pkg:maven/com.soundcloud.lightcycle/lightcycle-lib@1.7.0?classifier=sources
 - pkg:maven/com.soundcloud.lightcycle/lightcycle-lib@1.7.0?type=aar
+- pkg:maven/com.soundcloud.lightcycle/lightcycle-lib@1.8.0?classifier=sources
+- pkg:maven/com.soundcloud.lightcycle/lightcycle-lib@1.8.0?type=aar

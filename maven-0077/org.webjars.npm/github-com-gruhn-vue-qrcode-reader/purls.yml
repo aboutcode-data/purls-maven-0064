@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-gruhn-vue-qrcode-reader@0.0.0-development
+- pkg:maven/org.webjars.npm/github-com-gruhn-vue-qrcode-reader@0.0.0-development?classifier=sources

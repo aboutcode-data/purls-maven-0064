@@ -1,2 +1,4 @@
 - pkg:maven/cn.mapway/api-tools-doc@3.0.7
 - pkg:maven/cn.mapway/api-tools-doc@3.0.7?classifier=sources
+- pkg:maven/cn.mapway/api-tools-doc@3.1.1
+- pkg:maven/cn.mapway/api-tools-doc@3.1.1?classifier=sources

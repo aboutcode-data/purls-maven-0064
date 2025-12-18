@@ -1,0 +1,2 @@
+- pkg:maven/cn.iisme/iisme-demos-nacos-core@1.0.0
+- pkg:maven/cn.iisme/iisme-demos-nacos-core@1.0.0?classifier=sources

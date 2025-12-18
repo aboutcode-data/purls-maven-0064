@@ -1,0 +1,2 @@
+- pkg:maven/org.elypia.converters4deltaspike/converters4deltaspike@1.0.1
+- pkg:maven/org.elypia.converters4deltaspike/converters4deltaspike@1.0.1?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/com.diabolicallabs/vertx-cron@3.8.4?classifier=sources
 - pkg:maven/com.diabolicallabs/vertx-cron@3.8.5
 - pkg:maven/com.diabolicallabs/vertx-cron@3.8.5?classifier=sources
+- pkg:maven/com.diabolicallabs/vertx-cron@3.9.1
+- pkg:maven/com.diabolicallabs/vertx-cron@3.9.1?classifier=sources

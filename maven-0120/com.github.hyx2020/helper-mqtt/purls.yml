@@ -1,0 +1,12 @@
+- pkg:maven/com.github.hyx2020/helper-mqtt@2020.6.4
+- pkg:maven/com.github.hyx2020/helper-mqtt@2020.6.4.1
+- pkg:maven/com.github.hyx2020/helper-mqtt@2020.6.4.1?classifier=sources
+- pkg:maven/com.github.hyx2020/helper-mqtt@2020.6.4.2
+- pkg:maven/com.github.hyx2020/helper-mqtt@2020.6.4.2?classifier=sources
+- pkg:maven/com.github.hyx2020/helper-mqtt@2020.6.4?classifier=sources
+- pkg:maven/com.github.hyx2020/helper-mqtt@2020.6.5
+- pkg:maven/com.github.hyx2020/helper-mqtt@2020.6.5.1
+- pkg:maven/com.github.hyx2020/helper-mqtt@2020.6.5.1?classifier=sources
+- pkg:maven/com.github.hyx2020/helper-mqtt@2020.6.5.2
+- pkg:maven/com.github.hyx2020/helper-mqtt@2020.6.5.2?classifier=sources
+- pkg:maven/com.github.hyx2020/helper-mqtt@2020.6.5?classifier=sources

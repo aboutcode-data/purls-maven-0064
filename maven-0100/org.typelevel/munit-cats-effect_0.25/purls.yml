@@ -1,0 +1,2 @@
+- pkg:maven/org.typelevel/munit-cats-effect_0.25@0.0-c46091d
+- pkg:maven/org.typelevel/munit-cats-effect_0.25@0.0-c46091d?classifier=sources

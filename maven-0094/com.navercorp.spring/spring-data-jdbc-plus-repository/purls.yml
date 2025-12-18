@@ -2,3 +2,11 @@
 - pkg:maven/com.navercorp.spring/spring-data-jdbc-plus-repository@2.0.0.RC1-PRE4?classifier=sources
 - pkg:maven/com.navercorp.spring/spring-data-jdbc-plus-repository@2.0.0.RC2
 - pkg:maven/com.navercorp.spring/spring-data-jdbc-plus-repository@2.0.0.RC2?classifier=sources
+- pkg:maven/com.navercorp.spring/spring-data-jdbc-plus-repository@2.0.0.RELEASE
+- pkg:maven/com.navercorp.spring/spring-data-jdbc-plus-repository@2.0.0.RELEASE?classifier=sources
+- pkg:maven/com.navercorp.spring/spring-data-jdbc-plus-repository@2.0.1.RELEASE
+- pkg:maven/com.navercorp.spring/spring-data-jdbc-plus-repository@2.0.1.RELEASE?classifier=sources
+- pkg:maven/com.navercorp.spring/spring-data-jdbc-plus-repository@2.0.2.RELEASE
+- pkg:maven/com.navercorp.spring/spring-data-jdbc-plus-repository@2.0.2.RELEASE?classifier=sources
+- pkg:maven/com.navercorp.spring/spring-data-jdbc-plus-repository@2.1.0-M1
+- pkg:maven/com.navercorp.spring/spring-data-jdbc-plus-repository@2.1.0-M1?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/com.sdl.web/context-service-common@8.5.0-1102?classifier=sources
 - pkg:maven/com.sdl.web/context-service-common@8.5.0-1125
 - pkg:maven/com.sdl.web/context-service-common@8.5.0-1125?classifier=sources
+- pkg:maven/com.sdl.web/context-service-common@8.5.0-1145
+- pkg:maven/com.sdl.web/context-service-common@8.5.0-1145?classifier=sources

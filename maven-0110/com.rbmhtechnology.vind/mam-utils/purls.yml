@@ -74,6 +74,9 @@
 - pkg:maven/com.rbmhtechnology.vind/mam-utils@2.4.1?classifier=sources
 - pkg:maven/com.rbmhtechnology.vind/mam-utils@2.5.0-RC1
 - pkg:maven/com.rbmhtechnology.vind/mam-utils@2.5.0-RC1?classifier=sources
+- pkg:maven/com.rbmhtechnology.vind/mam-utils@3.0.0-RC1
+- pkg:maven/com.rbmhtechnology.vind/mam-utils@3.0.0-RC1?classifier=sources
+- pkg:maven/com.rbmhtechnology.vind/mam-utils@3.0.0a
 - pkg:maven/com.rbmhtechnology.vind/mam-utils@3.0.0a-RC1
 - pkg:maven/com.rbmhtechnology.vind/mam-utils@3.0.0a-RC1?classifier=sources
 - pkg:maven/com.rbmhtechnology.vind/mam-utils@3.0.0a-RC2
@@ -82,3 +85,6 @@
 - pkg:maven/com.rbmhtechnology.vind/mam-utils@3.0.0a-RC4?classifier=sources
 - pkg:maven/com.rbmhtechnology.vind/mam-utils@3.0.0a-RC5
 - pkg:maven/com.rbmhtechnology.vind/mam-utils@3.0.0a-RC5?classifier=sources
+- pkg:maven/com.rbmhtechnology.vind/mam-utils@3.0.0a?classifier=sources
+- pkg:maven/com.rbmhtechnology.vind/mam-utils@3.0.1a
+- pkg:maven/com.rbmhtechnology.vind/mam-utils@3.0.1a?classifier=sources

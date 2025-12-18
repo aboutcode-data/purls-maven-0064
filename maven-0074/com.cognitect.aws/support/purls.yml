@@ -8,3 +8,7 @@
 - pkg:maven/com.cognitect.aws/support@762.2.561.0?classifier=sources
 - pkg:maven/com.cognitect.aws/support@770.2.568.0
 - pkg:maven/com.cognitect.aws/support@770.2.568.0?classifier=sources
+- pkg:maven/com.cognitect.aws/support@798.2.670.0
+- pkg:maven/com.cognitect.aws/support@798.2.670.0?classifier=sources
+- pkg:maven/com.cognitect.aws/support@801.2.700.0
+- pkg:maven/com.cognitect.aws/support@801.2.700.0?classifier=sources

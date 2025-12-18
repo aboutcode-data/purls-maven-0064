@@ -92,6 +92,16 @@
 - pkg:maven/org.reaktivity/nukleus-tls@0.140?classifier=sources
 - pkg:maven/org.reaktivity/nukleus-tls@0.141
 - pkg:maven/org.reaktivity/nukleus-tls@0.141?classifier=sources
+- pkg:maven/org.reaktivity/nukleus-tls@0.142
+- pkg:maven/org.reaktivity/nukleus-tls@0.142?classifier=sources
+- pkg:maven/org.reaktivity/nukleus-tls@0.143
+- pkg:maven/org.reaktivity/nukleus-tls@0.143?classifier=sources
+- pkg:maven/org.reaktivity/nukleus-tls@0.144
+- pkg:maven/org.reaktivity/nukleus-tls@0.144?classifier=sources
+- pkg:maven/org.reaktivity/nukleus-tls@0.145
+- pkg:maven/org.reaktivity/nukleus-tls@0.145?classifier=sources
+- pkg:maven/org.reaktivity/nukleus-tls@0.146
+- pkg:maven/org.reaktivity/nukleus-tls@0.146?classifier=sources
 - pkg:maven/org.reaktivity/nukleus-tls@0.14?classifier=sources
 - pkg:maven/org.reaktivity/nukleus-tls@0.15
 - pkg:maven/org.reaktivity/nukleus-tls@0.15?classifier=sources

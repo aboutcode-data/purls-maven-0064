@@ -1,0 +1,2 @@
+- pkg:maven/net.bis5.gitlab/gitlab-webhook-event-emitter@0.1.1
+- pkg:maven/net.bis5.gitlab/gitlab-webhook-event-emitter@0.1.1?classifier=sources

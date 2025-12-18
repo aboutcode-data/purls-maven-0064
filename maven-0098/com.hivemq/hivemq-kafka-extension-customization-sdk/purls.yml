@@ -1,0 +1,2 @@
+- pkg:maven/com.hivemq/hivemq-kafka-extension-customization-sdk@4.4.0
+- pkg:maven/com.hivemq/hivemq-kafka-extension-customization-sdk@4.4.0?classifier=sources

@@ -20,3 +20,5 @@
 - pkg:maven/com.jfinal/jfinal-undertow@1.9?classifier=sources
 - pkg:maven/com.jfinal/jfinal-undertow@2.0
 - pkg:maven/com.jfinal/jfinal-undertow@2.0?classifier=sources
+- pkg:maven/com.jfinal/jfinal-undertow@2.1
+- pkg:maven/com.jfinal/jfinal-undertow@2.1?classifier=sources

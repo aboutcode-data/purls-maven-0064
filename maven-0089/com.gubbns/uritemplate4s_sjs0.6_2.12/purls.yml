@@ -263,4 +263,14 @@
 - pkg:maven/com.gubbns/uritemplate4s_sjs0.6_2.12@0.5.6%2B74-9260d3ff?classifier=sources
 - pkg:maven/com.gubbns/uritemplate4s_sjs0.6_2.12@0.5.6%2B8-c284e068
 - pkg:maven/com.gubbns/uritemplate4s_sjs0.6_2.12@0.5.6%2B8-c284e068?classifier=sources
+- pkg:maven/com.gubbns/uritemplate4s_sjs0.6_2.12@0.5.6%2B80-42662915
+- pkg:maven/com.gubbns/uritemplate4s_sjs0.6_2.12@0.5.6%2B80-42662915?classifier=sources
+- pkg:maven/com.gubbns/uritemplate4s_sjs0.6_2.12@0.5.6%2B82-ba1ee88d
+- pkg:maven/com.gubbns/uritemplate4s_sjs0.6_2.12@0.5.6%2B82-ba1ee88d?classifier=sources
+- pkg:maven/com.gubbns/uritemplate4s_sjs0.6_2.12@0.5.6%2B84-90848bb1
+- pkg:maven/com.gubbns/uritemplate4s_sjs0.6_2.12@0.5.6%2B84-90848bb1?classifier=sources
+- pkg:maven/com.gubbns/uritemplate4s_sjs0.6_2.12@0.5.6%2B86-4b45d528
+- pkg:maven/com.gubbns/uritemplate4s_sjs0.6_2.12@0.5.6%2B86-4b45d528?classifier=sources
+- pkg:maven/com.gubbns/uritemplate4s_sjs0.6_2.12@0.5.6%2B87-74e68613
+- pkg:maven/com.gubbns/uritemplate4s_sjs0.6_2.12@0.5.6%2B87-74e68613?classifier=sources
 - pkg:maven/com.gubbns/uritemplate4s_sjs0.6_2.12@0.5.6?classifier=sources

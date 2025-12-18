@@ -1,0 +1,2 @@
+- pkg:maven/it.uniroma2.art.semanticturkey/st-euodp-connector@8.0
+- pkg:maven/it.uniroma2.art.semanticturkey/st-euodp-connector@8.0?classifier=sources

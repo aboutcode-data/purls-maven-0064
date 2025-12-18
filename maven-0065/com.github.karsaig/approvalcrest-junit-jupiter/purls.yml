@@ -4,3 +4,13 @@
 - pkg:maven/com.github.karsaig/approvalcrest-junit-jupiter@0.54?classifier=sources
 - pkg:maven/com.github.karsaig/approvalcrest-junit-jupiter@0.55.2
 - pkg:maven/com.github.karsaig/approvalcrest-junit-jupiter@0.55.2?classifier=sources
+- pkg:maven/com.github.karsaig/approvalcrest-junit-jupiter@0.55.3
+- pkg:maven/com.github.karsaig/approvalcrest-junit-jupiter@0.55.3?classifier=sources
+- pkg:maven/com.github.karsaig/approvalcrest-junit-jupiter@0.55.4
+- pkg:maven/com.github.karsaig/approvalcrest-junit-jupiter@0.55.4?classifier=sources
+- pkg:maven/com.github.karsaig/approvalcrest-junit-jupiter@0.56
+- pkg:maven/com.github.karsaig/approvalcrest-junit-jupiter@0.56.1
+- pkg:maven/com.github.karsaig/approvalcrest-junit-jupiter@0.56.1?classifier=sources
+- pkg:maven/com.github.karsaig/approvalcrest-junit-jupiter@0.56.2
+- pkg:maven/com.github.karsaig/approvalcrest-junit-jupiter@0.56.2?classifier=sources
+- pkg:maven/com.github.karsaig/approvalcrest-junit-jupiter@0.56?classifier=sources

@@ -1235,8 +1235,16 @@
 - pkg:maven/com.groupbyinc/api-java-flux@2.6.77?classifier=sources
 - pkg:maven/com.groupbyinc/api-java-flux@2.6.78
 - pkg:maven/com.groupbyinc/api-java-flux@2.6.78?classifier=sources
+- pkg:maven/com.groupbyinc/api-java-flux@2.6.79
+- pkg:maven/com.groupbyinc/api-java-flux@2.6.79?classifier=sources
 - pkg:maven/com.groupbyinc/api-java-flux@2.6.7?classifier=sources
 - pkg:maven/com.groupbyinc/api-java-flux@2.6.8
+- pkg:maven/com.groupbyinc/api-java-flux@2.6.80
+- pkg:maven/com.groupbyinc/api-java-flux@2.6.80?classifier=sources
 - pkg:maven/com.groupbyinc/api-java-flux@2.6.8?classifier=sources
 - pkg:maven/com.groupbyinc/api-java-flux@2.6.9
 - pkg:maven/com.groupbyinc/api-java-flux@2.6.9?classifier=sources
+- pkg:maven/com.groupbyinc/api-java-flux@3.0.0
+- pkg:maven/com.groupbyinc/api-java-flux@3.0.0?classifier=sources
+- pkg:maven/com.groupbyinc/api-java-flux@3.0.1
+- pkg:maven/com.groupbyinc/api-java-flux@3.0.1?classifier=sources

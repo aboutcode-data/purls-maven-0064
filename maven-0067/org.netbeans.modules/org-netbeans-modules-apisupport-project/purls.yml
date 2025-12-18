@@ -3,4 +3,7 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-apisupport-project@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-apisupport-project@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-apisupport-project@RELEASE113?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-apisupport-project@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-apisupport-project@RELEASE120-u1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-apisupport-project@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-apisupport-project@RELEASE90?classifier=sources

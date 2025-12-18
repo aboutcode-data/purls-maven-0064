@@ -1,0 +1,8 @@
+- pkg:maven/org.http4k/http4k-serverless-openwhisk@3.252.0
+- pkg:maven/org.http4k/http4k-serverless-openwhisk@3.252.0?classifier=sources
+- pkg:maven/org.http4k/http4k-serverless-openwhisk@3.253.0
+- pkg:maven/org.http4k/http4k-serverless-openwhisk@3.253.0?classifier=sources
+- pkg:maven/org.http4k/http4k-serverless-openwhisk@3.254.0
+- pkg:maven/org.http4k/http4k-serverless-openwhisk@3.254.0?classifier=sources
+- pkg:maven/org.http4k/http4k-serverless-openwhisk@3.255.0
+- pkg:maven/org.http4k/http4k-serverless-openwhisk@3.255.0?classifier=sources

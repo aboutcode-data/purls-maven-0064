@@ -1,5 +1,7 @@
 - pkg:maven/com.appdynamics.agent/agent-api@20.4.0.29862
 - pkg:maven/com.appdynamics.agent/agent-api@20.4.0.29862?classifier=sources
+- pkg:maven/com.appdynamics.agent/agent-api@20.6.0.30246
+- pkg:maven/com.appdynamics.agent/agent-api@20.6.0.30246?classifier=sources
 - pkg:maven/com.appdynamics.agent/agent-api@4.5.12.26874
 - pkg:maven/com.appdynamics.agent/agent-api@4.5.12.26874?classifier=sources
 - pkg:maven/com.appdynamics.agent/agent-api@4.5.12.26900

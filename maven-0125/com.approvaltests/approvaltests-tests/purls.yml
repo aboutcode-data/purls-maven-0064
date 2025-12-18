@@ -1,0 +1,8 @@
+- pkg:maven/com.approvaltests/approvaltests-tests@7.0.0
+- pkg:maven/com.approvaltests/approvaltests-tests@7.0.0?classifier=sources
+- pkg:maven/com.approvaltests/approvaltests-tests@8.0.0
+- pkg:maven/com.approvaltests/approvaltests-tests@8.0.0?classifier=sources
+- pkg:maven/com.approvaltests/approvaltests-tests@9.0.0
+- pkg:maven/com.approvaltests/approvaltests-tests@9.0.0?classifier=sources
+- pkg:maven/com.approvaltests/approvaltests-tests@9.1.0
+- pkg:maven/com.approvaltests/approvaltests-tests@9.1.0?classifier=sources

@@ -22,6 +22,12 @@
 - pkg:maven/org.pousse-cafe-framework/pousse-cafe-jackson@0.17.0?classifier=sources
 - pkg:maven/org.pousse-cafe-framework/pousse-cafe-jackson@0.18.0
 - pkg:maven/org.pousse-cafe-framework/pousse-cafe-jackson@0.18.0?classifier=sources
+- pkg:maven/org.pousse-cafe-framework/pousse-cafe-jackson@0.19.0
+- pkg:maven/org.pousse-cafe-framework/pousse-cafe-jackson@0.19.0?classifier=sources
+- pkg:maven/org.pousse-cafe-framework/pousse-cafe-jackson@0.20.0
+- pkg:maven/org.pousse-cafe-framework/pousse-cafe-jackson@0.20.0?classifier=sources
+- pkg:maven/org.pousse-cafe-framework/pousse-cafe-jackson@0.21.0
+- pkg:maven/org.pousse-cafe-framework/pousse-cafe-jackson@0.21.0?classifier=sources
 - pkg:maven/org.pousse-cafe-framework/pousse-cafe-jackson@0.3.0
 - pkg:maven/org.pousse-cafe-framework/pousse-cafe-jackson@0.3.0?classifier=sources
 - pkg:maven/org.pousse-cafe-framework/pousse-cafe-jackson@0.4.0

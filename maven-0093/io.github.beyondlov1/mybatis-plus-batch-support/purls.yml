@@ -1,0 +1,2 @@
+- pkg:maven/io.github.beyondlov1/mybatis-plus-batch-support@1.0
+- pkg:maven/io.github.beyondlov1/mybatis-plus-batch-support@1.0?classifier=sources

@@ -9,5 +9,7 @@
 - pkg:maven/com.github.veithen/parent@18?classifier=source-release&type=zip
 - pkg:maven/com.github.veithen/parent@19?classifier=source-release&type=zip
 - pkg:maven/com.github.veithen/parent@20?classifier=source-release&type=zip
+- pkg:maven/com.github.veithen/parent@21?classifier=source-release&type=zip
+- pkg:maven/com.github.veithen/parent@22?classifier=source-release&type=zip
 - pkg:maven/com.github.veithen/parent@8?classifier=source-release&type=zip
 - pkg:maven/com.github.veithen/parent@9?classifier=source-release&type=zip

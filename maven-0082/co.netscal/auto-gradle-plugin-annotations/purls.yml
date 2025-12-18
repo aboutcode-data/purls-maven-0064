@@ -1,0 +1,2 @@
+- pkg:maven/co.netscal/auto-gradle-plugin-annotations@1.0.0
+- pkg:maven/co.netscal/auto-gradle-plugin-annotations@1.0.0?classifier=sources

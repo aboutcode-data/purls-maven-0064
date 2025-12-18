@@ -40,3 +40,7 @@
 - pkg:maven/org.codelibs/elasticsearch-analysis-extension@7.6.1?type=zip
 - pkg:maven/org.codelibs/elasticsearch-analysis-extension@7.6.2?classifier=sources
 - pkg:maven/org.codelibs/elasticsearch-analysis-extension@7.6.2?type=zip
+- pkg:maven/org.codelibs/elasticsearch-analysis-extension@7.7.0?classifier=sources
+- pkg:maven/org.codelibs/elasticsearch-analysis-extension@7.7.0?type=zip
+- pkg:maven/org.codelibs/elasticsearch-analysis-extension@7.8.0?classifier=sources
+- pkg:maven/org.codelibs/elasticsearch-analysis-extension@7.8.0?type=zip

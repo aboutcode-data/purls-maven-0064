@@ -166,3 +166,5 @@
 - pkg:maven/com.typesafe.play/play-omnidoc_2.11@2.7.3?classifier=sources
 - pkg:maven/com.typesafe.play/play-omnidoc_2.11@2.7.4
 - pkg:maven/com.typesafe.play/play-omnidoc_2.11@2.7.4?classifier=sources
+- pkg:maven/com.typesafe.play/play-omnidoc_2.11@2.7.5
+- pkg:maven/com.typesafe.play/play-omnidoc_2.11@2.7.5?classifier=sources

@@ -216,3 +216,5 @@
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.ui.html.scriptprocessor@9.0.0.033_Simrel_2019_12?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.ui.html.scriptprocessor@9.0.0.034
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.ui.html.scriptprocessor@9.0.0.034?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.ui.html.scriptprocessor@9.0.0.039
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.ui.html.scriptprocessor@9.0.0.039?classifier=sources

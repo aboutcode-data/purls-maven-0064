@@ -1,0 +1,2 @@
+- pkg:maven/com.github.sfg-beer-works/sfg-brewery-config@1.0.2
+- pkg:maven/com.github.sfg-beer-works/sfg-brewery-config@1.0.2?classifier=sources

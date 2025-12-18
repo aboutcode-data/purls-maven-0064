@@ -12,3 +12,7 @@
 - pkg:maven/com.cognitect.aws/comprehendmedical@784.2.591.0?classifier=sources
 - pkg:maven/com.cognitect.aws/comprehendmedical@794.2.631.0
 - pkg:maven/com.cognitect.aws/comprehendmedical@794.2.631.0?classifier=sources
+- pkg:maven/com.cognitect.aws/comprehendmedical@798.2.671.0
+- pkg:maven/com.cognitect.aws/comprehendmedical@798.2.671.0?classifier=sources
+- pkg:maven/com.cognitect.aws/comprehendmedical@801.2.708.0
+- pkg:maven/com.cognitect.aws/comprehendmedical@801.2.708.0?classifier=sources

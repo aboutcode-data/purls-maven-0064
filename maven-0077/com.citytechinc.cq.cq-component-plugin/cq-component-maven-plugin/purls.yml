@@ -78,3 +78,5 @@
 - pkg:maven/com.citytechinc.cq.cq-component-plugin/cq-component-maven-plugin@6.4.0?classifier=sources
 - pkg:maven/com.citytechinc.cq.cq-component-plugin/cq-component-maven-plugin@6.4.1
 - pkg:maven/com.citytechinc.cq.cq-component-plugin/cq-component-maven-plugin@6.4.1?classifier=sources
+- pkg:maven/com.citytechinc.cq.cq-component-plugin/cq-component-maven-plugin@7.0.0
+- pkg:maven/com.citytechinc.cq.cq-component-plugin/cq-component-maven-plugin@7.0.0?classifier=sources

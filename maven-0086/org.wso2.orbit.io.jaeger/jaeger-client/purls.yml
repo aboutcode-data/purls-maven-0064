@@ -1,2 +1,4 @@
 - pkg:maven/org.wso2.orbit.io.jaeger/jaeger-client@0.32.0.wso2v1
 - pkg:maven/org.wso2.orbit.io.jaeger/jaeger-client@0.32.0.wso2v2
+- pkg:maven/org.wso2.orbit.io.jaeger/jaeger-client@0.32.0.wso2v3
+- pkg:maven/org.wso2.orbit.io.jaeger/jaeger-client@0.32.0.wso2v4

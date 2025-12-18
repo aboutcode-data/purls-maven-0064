@@ -3,4 +3,7 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-spi-actions@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-spi-actions@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-spi-actions@RELEASE113?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-spi-actions@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-spi-actions@RELEASE120-u1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-spi-actions@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-spi-actions@RELEASE90?classifier=sources

@@ -1,2 +1,6 @@
 - pkg:maven/com.cognitect.aws/codestar-connections@784.2.596.0
 - pkg:maven/com.cognitect.aws/codestar-connections@784.2.596.0?classifier=sources
+- pkg:maven/com.cognitect.aws/codestar-connections@798.2.671.0
+- pkg:maven/com.cognitect.aws/codestar-connections@798.2.671.0?classifier=sources
+- pkg:maven/com.cognitect.aws/codestar-connections@801.2.707.0
+- pkg:maven/com.cognitect.aws/codestar-connections@801.2.707.0?classifier=sources

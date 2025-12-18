@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.bower/promise-polyfill@6.0.2?classifier=sources
 - pkg:maven/org.webjars.bower/promise-polyfill@8.1.0
 - pkg:maven/org.webjars.bower/promise-polyfill@8.1.0?classifier=sources
+- pkg:maven/org.webjars.bower/promise-polyfill@8.1.3
+- pkg:maven/org.webjars.bower/promise-polyfill@8.1.3?classifier=sources

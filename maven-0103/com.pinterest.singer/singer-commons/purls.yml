@@ -15,6 +15,12 @@
 - pkg:maven/com.pinterest.singer/singer-commons@0.8.0.10
 - pkg:maven/com.pinterest.singer/singer-commons@0.8.0.10?classifier=sources
 - pkg:maven/com.pinterest.singer/singer-commons@0.8.0.1?classifier=sources
+- pkg:maven/com.pinterest.singer/singer-commons@0.8.0.22
+- pkg:maven/com.pinterest.singer/singer-commons@0.8.0.22?classifier=sources
+- pkg:maven/com.pinterest.singer/singer-commons@0.8.0.23
+- pkg:maven/com.pinterest.singer/singer-commons@0.8.0.23?classifier=sources
+- pkg:maven/com.pinterest.singer/singer-commons@0.8.0.24
+- pkg:maven/com.pinterest.singer/singer-commons@0.8.0.24?classifier=sources
 - pkg:maven/com.pinterest.singer/singer-commons@0.8.0.5
 - pkg:maven/com.pinterest.singer/singer-commons@0.8.0.5?classifier=sources
 - pkg:maven/com.pinterest.singer/singer-commons@0.8.0.6

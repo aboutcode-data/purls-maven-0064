@@ -1,0 +1,2 @@
+- pkg:maven/org.morphir/morphir-ir_0.23@0.0.7
+- pkg:maven/org.morphir/morphir-ir_0.23@0.0.7?classifier=sources

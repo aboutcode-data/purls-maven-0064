@@ -1,0 +1,2 @@
+- pkg:maven/com.gitee.l0km/sql2java-store@2.3.4
+- pkg:maven/com.gitee.l0km/sql2java-store@2.3.4?classifier=sources

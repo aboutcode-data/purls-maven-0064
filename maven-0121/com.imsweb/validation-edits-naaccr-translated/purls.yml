@@ -24,3 +24,5 @@
 - pkg:maven/com.imsweb/validation-edits-naaccr-translated@006-03?classifier=sources
 - pkg:maven/com.imsweb/validation-edits-naaccr-translated@006-04
 - pkg:maven/com.imsweb/validation-edits-naaccr-translated@006-04?classifier=sources
+- pkg:maven/com.imsweb/validation-edits-naaccr-translated@006-05
+- pkg:maven/com.imsweb/validation-edits-naaccr-translated@006-05?classifier=sources

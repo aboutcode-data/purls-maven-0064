@@ -13,6 +13,12 @@
 - pkg:maven/com.testdroid/testdroid-api@2.0
 - pkg:maven/com.testdroid/testdroid-api@2.0?classifier=sources
 - pkg:maven/com.testdroid/testdroid-api@2.1
+- pkg:maven/com.testdroid/testdroid-api@2.100
+- pkg:maven/com.testdroid/testdroid-api@2.100?classifier=sources
+- pkg:maven/com.testdroid/testdroid-api@2.101
+- pkg:maven/com.testdroid/testdroid-api@2.101?classifier=sources
+- pkg:maven/com.testdroid/testdroid-api@2.102
+- pkg:maven/com.testdroid/testdroid-api@2.102?classifier=sources
 - pkg:maven/com.testdroid/testdroid-api@2.16
 - pkg:maven/com.testdroid/testdroid-api@2.16?classifier=sources
 - pkg:maven/com.testdroid/testdroid-api@2.1?classifier=sources
@@ -155,4 +161,10 @@
 - pkg:maven/com.testdroid/testdroid-api@2.95?classifier=sources
 - pkg:maven/com.testdroid/testdroid-api@2.96
 - pkg:maven/com.testdroid/testdroid-api@2.96?classifier=sources
+- pkg:maven/com.testdroid/testdroid-api@2.97
+- pkg:maven/com.testdroid/testdroid-api@2.97?classifier=sources
+- pkg:maven/com.testdroid/testdroid-api@2.98
+- pkg:maven/com.testdroid/testdroid-api@2.98?classifier=sources
+- pkg:maven/com.testdroid/testdroid-api@2.99
+- pkg:maven/com.testdroid/testdroid-api@2.99?classifier=sources
 - pkg:maven/com.testdroid/testdroid-api@2.9?classifier=sources

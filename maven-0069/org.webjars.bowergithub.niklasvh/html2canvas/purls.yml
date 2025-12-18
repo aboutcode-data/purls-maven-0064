@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bowergithub.niklasvh/html2canvas@0.4.1
 - pkg:maven/org.webjars.bowergithub.niklasvh/html2canvas@0.4.1?classifier=sources
+- pkg:maven/org.webjars.bowergithub.niklasvh/html2canvas@0.5.0-beta4
+- pkg:maven/org.webjars.bowergithub.niklasvh/html2canvas@0.5.0-beta4?classifier=sources

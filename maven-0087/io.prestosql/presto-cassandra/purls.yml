@@ -32,3 +32,10 @@
 - pkg:maven/io.prestosql/presto-cassandra@331?classifier=sources
 - pkg:maven/io.prestosql/presto-cassandra@332?classifier=sources
 - pkg:maven/io.prestosql/presto-cassandra@333?classifier=sources
+- pkg:maven/io.prestosql/presto-cassandra@334?classifier=sources
+- pkg:maven/io.prestosql/presto-cassandra@335?classifier=sources
+- pkg:maven/io.prestosql/presto-cassandra@336?classifier=sources
+- pkg:maven/io.prestosql/presto-cassandra@337?classifier=sources
+- pkg:maven/io.prestosql/presto-cassandra@338?classifier=sources
+- pkg:maven/io.prestosql/presto-cassandra@339?classifier=sources
+- pkg:maven/io.prestosql/presto-cassandra@340?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/win.sa4zet/maven-release-version-date-policy@2020.7.20.1
+- pkg:maven/win.sa4zet/maven-release-version-date-policy@2020.7.20.1?classifier=sources
+- pkg:maven/win.sa4zet/maven-release-version-date-policy@2020.7.20.2
+- pkg:maven/win.sa4zet/maven-release-version-date-policy@2020.7.20.2?classifier=sources

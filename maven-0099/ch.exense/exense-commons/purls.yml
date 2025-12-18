@@ -2,3 +2,5 @@
 - pkg:maven/ch.exense/exense-commons@1.0.0?classifier=sources
 - pkg:maven/ch.exense/exense-commons@1.1.0
 - pkg:maven/ch.exense/exense-commons@1.1.0?classifier=sources
+- pkg:maven/ch.exense/exense-commons@1.1.1
+- pkg:maven/ch.exense/exense-commons@1.1.1?classifier=sources

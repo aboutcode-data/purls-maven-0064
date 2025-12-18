@@ -2,3 +2,5 @@
 - pkg:maven/com.instacart.formula/formula-android@0.5.2?type=aar
 - pkg:maven/com.instacart.formula/formula-android@0.5.3?classifier=sources
 - pkg:maven/com.instacart.formula/formula-android@0.5.3?type=aar
+- pkg:maven/com.instacart.formula/formula-android@0.6.0?classifier=sources
+- pkg:maven/com.instacart.formula/formula-android@0.6.0?type=aar

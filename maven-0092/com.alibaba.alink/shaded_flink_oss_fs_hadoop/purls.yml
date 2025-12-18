@@ -1,0 +1,2 @@
+- pkg:maven/com.alibaba.alink/shaded_flink_oss_fs_hadoop@1.10.0-0.2
+- pkg:maven/com.alibaba.alink/shaded_flink_oss_fs_hadoop@1.10.0-0.2?classifier=sources

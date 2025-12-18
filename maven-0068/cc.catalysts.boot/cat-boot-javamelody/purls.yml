@@ -70,3 +70,5 @@
 - pkg:maven/cc.catalysts.boot/cat-boot-javamelody@1.1.2?classifier=sources
 - pkg:maven/cc.catalysts.boot/cat-boot-javamelody@1.1.4
 - pkg:maven/cc.catalysts.boot/cat-boot-javamelody@1.1.4?classifier=sources
+- pkg:maven/cc.catalysts.boot/cat-boot-javamelody@1.1.5
+- pkg:maven/cc.catalysts.boot/cat-boot-javamelody@1.1.5?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.elasticsearch.plugin/x-pack-security@6.8.11
+- pkg:maven/org.elasticsearch.plugin/x-pack-security@6.8.11?classifier=sources
+- pkg:maven/org.elasticsearch.plugin/x-pack-security@7.8.1
+- pkg:maven/org.elasticsearch.plugin/x-pack-security@7.8.1?classifier=sources

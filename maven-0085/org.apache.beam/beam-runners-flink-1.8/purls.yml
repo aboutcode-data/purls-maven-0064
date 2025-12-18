@@ -14,3 +14,9 @@
 - pkg:maven/org.apache.beam/beam-runners-flink-1.8@2.19.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-runners-flink-1.8@2.20.0
 - pkg:maven/org.apache.beam/beam-runners-flink-1.8@2.20.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-runners-flink-1.8@2.21.0
+- pkg:maven/org.apache.beam/beam-runners-flink-1.8@2.21.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-runners-flink-1.8@2.22.0
+- pkg:maven/org.apache.beam/beam-runners-flink-1.8@2.22.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-runners-flink-1.8@2.23.0
+- pkg:maven/org.apache.beam/beam-runners-flink-1.8@2.23.0?classifier=sources

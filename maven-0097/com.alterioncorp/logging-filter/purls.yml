@@ -1,0 +1,2 @@
+- pkg:maven/com.alterioncorp/logging-filter@1.2
+- pkg:maven/com.alterioncorp/logging-filter@1.2?classifier=sources

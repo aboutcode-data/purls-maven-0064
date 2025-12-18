@@ -1,0 +1,4 @@
+- pkg:maven/love.forte.simple-robot/module-ding@0.1-1.16
+- pkg:maven/love.forte.simple-robot/module-ding@0.1-1.16?classifier=sources
+- pkg:maven/love.forte.simple-robot/module-ding@0.2-1.16
+- pkg:maven/love.forte.simple-robot/module-ding@0.2-1.16?classifier=sources

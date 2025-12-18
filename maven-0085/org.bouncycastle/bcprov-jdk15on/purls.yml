@@ -35,4 +35,6 @@
 - pkg:maven/org.bouncycastle/bcprov-jdk15on@1.64
 - pkg:maven/org.bouncycastle/bcprov-jdk15on@1.64?classifier=sources
 - pkg:maven/org.bouncycastle/bcprov-jdk15on@1.65
+- pkg:maven/org.bouncycastle/bcprov-jdk15on@1.65.01?classifier=sources
 - pkg:maven/org.bouncycastle/bcprov-jdk15on@1.65?classifier=sources
+- pkg:maven/org.bouncycastle/bcprov-jdk15on@1.66?classifier=sources

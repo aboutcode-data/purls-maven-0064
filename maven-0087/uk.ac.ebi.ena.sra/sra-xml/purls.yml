@@ -85,6 +85,12 @@
 - pkg:maven/uk.ac.ebi.ena.sra/sra-xml@1.5.61-snapshot
 - pkg:maven/uk.ac.ebi.ena.sra/sra-xml@1.5.61-snapshot?classifier=sources
 - pkg:maven/uk.ac.ebi.ena.sra/sra-xml@1.5.61?classifier=sources
+- pkg:maven/uk.ac.ebi.ena.sra/sra-xml@1.5.62
+- pkg:maven/uk.ac.ebi.ena.sra/sra-xml@1.5.62-snapshot
+- pkg:maven/uk.ac.ebi.ena.sra/sra-xml@1.5.62-snapshot?classifier=sources
+- pkg:maven/uk.ac.ebi.ena.sra/sra-xml@1.5.62?classifier=sources
+- pkg:maven/uk.ac.ebi.ena.sra/sra-xml@1.5.63-snapshot
+- pkg:maven/uk.ac.ebi.ena.sra/sra-xml@1.5.63-snapshot?classifier=sources
 - pkg:maven/uk.ac.ebi.ena.sra/sra-xml@1.5.6?classifier=sources
 - pkg:maven/uk.ac.ebi.ena.sra/sra-xml@1.5.7
 - pkg:maven/uk.ac.ebi.ena.sra/sra-xml@1.5.7?classifier=sources

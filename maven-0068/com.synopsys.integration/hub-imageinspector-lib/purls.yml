@@ -1,0 +1,2 @@
+- pkg:maven/com.synopsys.integration/hub-imageinspector-lib@13.0.3
+- pkg:maven/com.synopsys.integration/hub-imageinspector-lib@13.0.3?classifier=sources

@@ -148,6 +148,8 @@
 - pkg:maven/com.google.apis/google-api-services-jobs@v2-rev20200219-1.30.8?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-jobs@v2-rev20200219-1.30.9
 - pkg:maven/com.google.apis/google-api-services-jobs@v2-rev20200219-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-jobs@v2-rev20200409-1.30.10
+- pkg:maven/com.google.apis/google-api-services-jobs@v2-rev20200409-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-jobs@v2-rev20200409-1.30.9
 - pkg:maven/com.google.apis/google-api-services-jobs@v2-rev20200409-1.30.9?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-jobs@v2-rev21-1.18.0-rc
@@ -576,6 +578,12 @@
 - pkg:maven/com.google.apis/google-api-services-jobs@v3-rev20200219-1.30.8?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-jobs@v3-rev20200219-1.30.9
 - pkg:maven/com.google.apis/google-api-services-jobs@v3-rev20200219-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-jobs@v3-rev20200506-1.30.9
+- pkg:maven/com.google.apis/google-api-services-jobs@v3-rev20200506-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-jobs@v3-rev20200604-1.30.10
+- pkg:maven/com.google.apis/google-api-services-jobs@v3-rev20200604-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-jobs@v3-rev20200604-1.30.9
+- pkg:maven/com.google.apis/google-api-services-jobs@v3-rev20200604-1.30.9?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-jobs@v3-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-jobs@v3-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-jobs@v3-rev21-1.22.0
@@ -1000,6 +1008,12 @@
 - pkg:maven/com.google.apis/google-api-services-jobs@v3p1beta1-rev20200219-1.30.8?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-jobs@v3p1beta1-rev20200219-1.30.9
 - pkg:maven/com.google.apis/google-api-services-jobs@v3p1beta1-rev20200219-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-jobs@v3p1beta1-rev20200506-1.30.9
+- pkg:maven/com.google.apis/google-api-services-jobs@v3p1beta1-rev20200506-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-jobs@v3p1beta1-rev20200604-1.30.10
+- pkg:maven/com.google.apis/google-api-services-jobs@v3p1beta1-rev20200604-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-jobs@v3p1beta1-rev20200604-1.30.9
+- pkg:maven/com.google.apis/google-api-services-jobs@v3p1beta1-rev20200604-1.30.9?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-jobs@v3p1beta1-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-jobs@v3p1beta1-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-jobs@v3p1beta1-rev21-1.22.0
