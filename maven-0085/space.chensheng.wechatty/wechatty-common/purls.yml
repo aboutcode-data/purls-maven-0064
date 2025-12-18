@@ -2,3 +2,5 @@
 - pkg:maven/space.chensheng.wechatty/wechatty-common@0.0.1?classifier=sources
 - pkg:maven/space.chensheng.wechatty/wechatty-common@1.0.0
 - pkg:maven/space.chensheng.wechatty/wechatty-common@1.0.0?classifier=sources
+- pkg:maven/space.chensheng.wechatty/wechatty-common@2.0.0
+- pkg:maven/space.chensheng.wechatty/wechatty-common@2.0.0?classifier=sources

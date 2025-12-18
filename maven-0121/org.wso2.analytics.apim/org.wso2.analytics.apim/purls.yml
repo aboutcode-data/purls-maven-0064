@@ -1,3 +1,10 @@
+- pkg:maven/org.wso2.analytics.apim/org.wso2.analytics.apim@1.0.0-alpha1
+- pkg:maven/org.wso2.analytics.apim/org.wso2.analytics.apim@1.0.0-alpha2
+- pkg:maven/org.wso2.analytics.apim/org.wso2.analytics.apim@1.0.0-beta
+- pkg:maven/org.wso2.analytics.apim/org.wso2.analytics.apim@2.0.0
+- pkg:maven/org.wso2.analytics.apim/org.wso2.analytics.apim@2.0.0-beta2
+- pkg:maven/org.wso2.analytics.apim/org.wso2.analytics.apim@2.1.0
+- pkg:maven/org.wso2.analytics.apim/org.wso2.analytics.apim@2.1.0-alpha
 - pkg:maven/org.wso2.analytics.apim/org.wso2.analytics.apim@2.1.0-update2
 - pkg:maven/org.wso2.analytics.apim/org.wso2.analytics.apim@2.1.0-update3
 - pkg:maven/org.wso2.analytics.apim/org.wso2.analytics.apim@2.1.0-update4
@@ -6,6 +13,8 @@
 - pkg:maven/org.wso2.analytics.apim/org.wso2.analytics.apim@2.1.0-update7
 - pkg:maven/org.wso2.analytics.apim/org.wso2.analytics.apim@2.1.0-update8
 - pkg:maven/org.wso2.analytics.apim/org.wso2.analytics.apim@2.1.0-update9
+- pkg:maven/org.wso2.analytics.apim/org.wso2.analytics.apim@2.1.1
+- pkg:maven/org.wso2.analytics.apim/org.wso2.analytics.apim@2.1.2
 - pkg:maven/org.wso2.analytics.apim/org.wso2.analytics.apim@2.2.0
 - pkg:maven/org.wso2.analytics.apim/org.wso2.analytics.apim@2.2.0-rc
 - pkg:maven/org.wso2.analytics.apim/org.wso2.analytics.apim@2.2.0-rc2

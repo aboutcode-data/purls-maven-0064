@@ -1,0 +1,2 @@
+- pkg:maven/com.simplyti.cloud/simple-server-serializer-jsoniter@0.0.3-rc1
+- pkg:maven/com.simplyti.cloud/simple-server-serializer-jsoniter@0.0.3-rc1?classifier=sources

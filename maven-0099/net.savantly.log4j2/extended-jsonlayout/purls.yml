@@ -1,2 +1,6 @@
 - pkg:maven/net.savantly.log4j2/extended-jsonlayout@1.0.0
 - pkg:maven/net.savantly.log4j2/extended-jsonlayout@1.0.0?classifier=sources
+- pkg:maven/net.savantly.log4j2/extended-jsonlayout@2.8.0
+- pkg:maven/net.savantly.log4j2/extended-jsonlayout@2.8.0-RELEASE
+- pkg:maven/net.savantly.log4j2/extended-jsonlayout@2.8.0-RELEASE?classifier=sources
+- pkg:maven/net.savantly.log4j2/extended-jsonlayout@2.8.0?classifier=sources

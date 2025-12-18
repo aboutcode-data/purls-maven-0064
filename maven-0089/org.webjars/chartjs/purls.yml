@@ -8,5 +8,6 @@
 - pkg:maven/org.webjars/chartjs@2.7.0
 - pkg:maven/org.webjars/chartjs@2.7.2
 - pkg:maven/org.webjars/chartjs@2.7.3
+- pkg:maven/org.webjars/chartjs@2.8.0
 - pkg:maven/org.webjars/chartjs@26962ce
 - pkg:maven/org.webjars/chartjs@26962ce-1

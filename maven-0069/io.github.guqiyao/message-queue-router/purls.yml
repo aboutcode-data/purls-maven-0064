@@ -1,0 +1,2 @@
+- pkg:maven/io.github.guqiyao/message-queue-router@1.0.0
+- pkg:maven/io.github.guqiyao/message-queue-router@1.0.0?classifier=sources

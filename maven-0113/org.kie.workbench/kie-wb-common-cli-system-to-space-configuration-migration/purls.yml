@@ -1,0 +1,2 @@
+- pkg:maven/org.kie.workbench/kie-wb-common-cli-system-to-space-configuration-migration@7.24.0.Final
+- pkg:maven/org.kie.workbench/kie-wb-common-cli-system-to-space-configuration-migration@7.24.0.Final?classifier=sources

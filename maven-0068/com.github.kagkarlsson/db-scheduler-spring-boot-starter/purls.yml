@@ -1,0 +1,2 @@
+- pkg:maven/com.github.kagkarlsson/db-scheduler-spring-boot-starter@6.0
+- pkg:maven/com.github.kagkarlsson/db-scheduler-spring-boot-starter@6.0?classifier=sources

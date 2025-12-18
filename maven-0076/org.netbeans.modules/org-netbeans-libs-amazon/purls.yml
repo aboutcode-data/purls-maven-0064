@@ -1,0 +1,2 @@
+- pkg:maven/org.netbeans.modules/org-netbeans-libs-amazon@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-libs-amazon@RELEASE111?classifier=sources

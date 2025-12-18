@@ -2,3 +2,5 @@
 - pkg:maven/com.cognitect.aws/kinesisanalyticsv2@669.2.364.0?classifier=sources
 - pkg:maven/com.cognitect.aws/kinesisanalyticsv2@697.2.391.0
 - pkg:maven/com.cognitect.aws/kinesisanalyticsv2@697.2.391.0?classifier=sources
+- pkg:maven/com.cognitect.aws/kinesisanalyticsv2@718.2.452.0
+- pkg:maven/com.cognitect.aws/kinesisanalyticsv2@718.2.452.0?classifier=sources

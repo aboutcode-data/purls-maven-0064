@@ -1,3 +1,4 @@
+- pkg:maven/org.eclipse.platform/org.eclipse.cvs@1.4.1000
 - pkg:maven/org.eclipse.platform/org.eclipse.cvs@1.4.301
 - pkg:maven/org.eclipse.platform/org.eclipse.cvs@1.4.302
 - pkg:maven/org.eclipse.platform/org.eclipse.cvs@1.4.400

@@ -1,0 +1,2 @@
+- pkg:maven/org.sejda.webp-imageio/webp-imageio-sejda@0.1.0
+- pkg:maven/org.sejda.webp-imageio/webp-imageio-sejda@0.1.0?classifier=sources

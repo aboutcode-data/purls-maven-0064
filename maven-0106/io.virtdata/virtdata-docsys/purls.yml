@@ -1,0 +1,6 @@
+- pkg:maven/io.virtdata/virtdata-docsys@2.11.32
+- pkg:maven/io.virtdata/virtdata-docsys@2.11.32?classifier=sources
+- pkg:maven/io.virtdata/virtdata-docsys@2.11.33
+- pkg:maven/io.virtdata/virtdata-docsys@2.11.33?classifier=sources
+- pkg:maven/io.virtdata/virtdata-docsys@2.11.34
+- pkg:maven/io.virtdata/virtdata-docsys@2.11.34?classifier=sources

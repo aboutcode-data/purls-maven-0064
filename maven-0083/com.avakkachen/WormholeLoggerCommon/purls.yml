@@ -4,3 +4,7 @@
 - pkg:maven/com.avakkachen/WormholeLoggerCommon@1.0.0-2-STAGING?type=aar
 - pkg:maven/com.avakkachen/WormholeLoggerCommon@1.0.0-3-STAGING?classifier=sources
 - pkg:maven/com.avakkachen/WormholeLoggerCommon@1.0.0-3-STAGING?type=aar
+- pkg:maven/com.avakkachen/WormholeLoggerCommon@1.0.0-4-STAGING?classifier=sources
+- pkg:maven/com.avakkachen/WormholeLoggerCommon@1.0.0-4-STAGING?type=aar
+- pkg:maven/com.avakkachen/WormholeLoggerCommon@1.0.0-5-STAGING?classifier=sources
+- pkg:maven/com.avakkachen/WormholeLoggerCommon@1.0.0-5-STAGING?type=aar

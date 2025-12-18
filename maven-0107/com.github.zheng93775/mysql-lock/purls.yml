@@ -1,0 +1,2 @@
+- pkg:maven/com.github.zheng93775/mysql-lock@1.0.0
+- pkg:maven/com.github.zheng93775/mysql-lock@1.0.0?classifier=sources

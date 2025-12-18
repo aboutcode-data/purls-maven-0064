@@ -8,3 +8,9 @@
 - pkg:maven/com.cognitect.aws/config@712.2.422.0?classifier=sources
 - pkg:maven/com.cognitect.aws/config@712.2.424.0
 - pkg:maven/com.cognitect.aws/config@712.2.424.0?classifier=sources
+- pkg:maven/com.cognitect.aws/config@717.2.450.0
+- pkg:maven/com.cognitect.aws/config@717.2.450.0?classifier=sources
+- pkg:maven/com.cognitect.aws/config@729.2.490.0
+- pkg:maven/com.cognitect.aws/config@729.2.490.0?classifier=sources
+- pkg:maven/com.cognitect.aws/config@736.2.494.0
+- pkg:maven/com.cognitect.aws/config@736.2.494.0?classifier=sources

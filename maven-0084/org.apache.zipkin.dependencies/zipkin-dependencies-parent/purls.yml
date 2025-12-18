@@ -1,0 +1,1 @@
+- pkg:maven/org.apache.zipkin.dependencies/zipkin-dependencies-parent@2.2.0?classifier=source-release&type=zip

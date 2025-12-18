@@ -1,2 +1,8 @@
 - pkg:maven/org.eclipse.hawkbit/hawkbit-test-report@0.3.0M2
 - pkg:maven/org.eclipse.hawkbit/hawkbit-test-report@0.3.0M2?classifier=sources
+- pkg:maven/org.eclipse.hawkbit/hawkbit-test-report@0.3.0M3
+- pkg:maven/org.eclipse.hawkbit/hawkbit-test-report@0.3.0M3?classifier=sources
+- pkg:maven/org.eclipse.hawkbit/hawkbit-test-report@0.3.0M4
+- pkg:maven/org.eclipse.hawkbit/hawkbit-test-report@0.3.0M4?classifier=sources
+- pkg:maven/org.eclipse.hawkbit/hawkbit-test-report@0.3.0M5
+- pkg:maven/org.eclipse.hawkbit/hawkbit-test-report@0.3.0M5?classifier=sources

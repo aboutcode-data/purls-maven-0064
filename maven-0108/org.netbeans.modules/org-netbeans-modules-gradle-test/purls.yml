@@ -1,0 +1,2 @@
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-test@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-test@RELEASE111?classifier=sources

@@ -21,3 +21,4 @@
 - pkg:maven/pl.touk/sputnik@1.7.5?classifier=sources
 - pkg:maven/pl.touk/sputnik@1.8.0?classifier=sources
 - pkg:maven/pl.touk/sputnik@1.9.0?classifier=sources
+- pkg:maven/pl.touk/sputnik@2.0.0?classifier=sources

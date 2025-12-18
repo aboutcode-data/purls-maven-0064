@@ -22,3 +22,7 @@
 - pkg:maven/com.okworx.ilcd.validation/ilcd-validation@1.5.1?classifier=sources
 - pkg:maven/com.okworx.ilcd.validation/ilcd-validation@1.5.2
 - pkg:maven/com.okworx.ilcd.validation/ilcd-validation@1.5.2?classifier=sources
+- pkg:maven/com.okworx.ilcd.validation/ilcd-validation@1.5.3
+- pkg:maven/com.okworx.ilcd.validation/ilcd-validation@1.5.3?classifier=sources
+- pkg:maven/com.okworx.ilcd.validation/ilcd-validation@1.5.5
+- pkg:maven/com.okworx.ilcd.validation/ilcd-validation@1.5.5?classifier=sources

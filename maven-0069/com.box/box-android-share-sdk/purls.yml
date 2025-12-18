@@ -10,3 +10,5 @@
 - pkg:maven/com.box/box-android-share-sdk@2.1.1?type=aar
 - pkg:maven/com.box/box-android-share-sdk@2.3.0?classifier=sources
 - pkg:maven/com.box/box-android-share-sdk@2.3.0?type=aar
+- pkg:maven/com.box/box-android-share-sdk@3.0.0?classifier=sources
+- pkg:maven/com.box/box-android-share-sdk@3.0.0?type=aar

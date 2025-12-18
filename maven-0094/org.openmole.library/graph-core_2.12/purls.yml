@@ -1,0 +1,2 @@
+- pkg:maven/org.openmole.library/graph-core_2.12@1.12.5.1
+- pkg:maven/org.openmole.library/graph-core_2.12@1.12.5.1?classifier=sources

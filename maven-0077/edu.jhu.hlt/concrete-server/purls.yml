@@ -30,6 +30,8 @@
 - pkg:maven/edu.jhu.hlt/concrete-server@4.14.1?classifier=sources
 - pkg:maven/edu.jhu.hlt/concrete-server@4.14.2
 - pkg:maven/edu.jhu.hlt/concrete-server@4.14.2?classifier=sources
+- pkg:maven/edu.jhu.hlt/concrete-server@4.15.0
+- pkg:maven/edu.jhu.hlt/concrete-server@4.15.0?classifier=sources
 - pkg:maven/edu.jhu.hlt/concrete-server@4.8.0
 - pkg:maven/edu.jhu.hlt/concrete-server@4.8.0?classifier=sources
 - pkg:maven/edu.jhu.hlt/concrete-server@4.8.10

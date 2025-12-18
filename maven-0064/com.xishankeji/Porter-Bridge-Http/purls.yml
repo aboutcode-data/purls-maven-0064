@@ -30,3 +30,11 @@
 - pkg:maven/com.xishankeji/Porter-Bridge-Http@1.1.1.71?classifier=sources
 - pkg:maven/com.xishankeji/Porter-Bridge-Http@1.1.1.81
 - pkg:maven/com.xishankeji/Porter-Bridge-Http@1.1.1.81?classifier=sources
+- pkg:maven/com.xishankeji/Porter-Bridge-Http@1.1.1.85
+- pkg:maven/com.xishankeji/Porter-Bridge-Http@1.1.1.85?classifier=sources
+- pkg:maven/com.xishankeji/Porter-Bridge-Http@1.1.1.86
+- pkg:maven/com.xishankeji/Porter-Bridge-Http@1.1.1.86?classifier=sources
+- pkg:maven/com.xishankeji/Porter-Bridge-Http@1.1.1.96
+- pkg:maven/com.xishankeji/Porter-Bridge-Http@1.1.1.96?classifier=sources
+- pkg:maven/com.xishankeji/Porter-Bridge-Http@1.2.31
+- pkg:maven/com.xishankeji/Porter-Bridge-Http@1.2.31?classifier=sources

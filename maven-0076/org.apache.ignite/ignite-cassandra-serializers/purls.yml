@@ -18,3 +18,5 @@
 - pkg:maven/org.apache.ignite/ignite-cassandra-serializers@2.6.0?classifier=sources
 - pkg:maven/org.apache.ignite/ignite-cassandra-serializers@2.7.0
 - pkg:maven/org.apache.ignite/ignite-cassandra-serializers@2.7.0?classifier=sources
+- pkg:maven/org.apache.ignite/ignite-cassandra-serializers@2.7.5
+- pkg:maven/org.apache.ignite/ignite-cassandra-serializers@2.7.5?classifier=sources

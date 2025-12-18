@@ -1,0 +1,4 @@
+- pkg:maven/org.netbeans.api/org-netbeans-libs-jshell-compile@RELEASE100?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-libs-jshell-compile@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-libs-jshell-compile@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-libs-jshell-compile@RELEASE90?classifier=sources

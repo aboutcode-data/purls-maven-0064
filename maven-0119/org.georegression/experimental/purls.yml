@@ -18,6 +18,8 @@
 - pkg:maven/org.georegression/experimental@0.18?classifier=sources
 - pkg:maven/org.georegression/experimental@0.19
 - pkg:maven/org.georegression/experimental@0.19?classifier=sources
+- pkg:maven/org.georegression/experimental@0.20
+- pkg:maven/org.georegression/experimental@0.20?classifier=sources
 - pkg:maven/org.georegression/experimental@0.7
 - pkg:maven/org.georegression/experimental@0.7?classifier=sources
 - pkg:maven/org.georegression/experimental@0.8

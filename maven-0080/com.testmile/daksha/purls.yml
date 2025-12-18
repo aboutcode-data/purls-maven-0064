@@ -1,2 +1,4 @@
 - pkg:maven/com.testmile/daksha@1.4.1-alpha
 - pkg:maven/com.testmile/daksha@1.4.1-alpha?classifier=sources
+- pkg:maven/com.testmile/daksha@1.4.2
+- pkg:maven/com.testmile/daksha@1.4.2?classifier=sources

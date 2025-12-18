@@ -1,0 +1,4 @@
+- pkg:maven/org.netbeans.api/org-netbeans-libs-lucene@RELEASE100?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-libs-lucene@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-libs-lucene@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-libs-lucene@RELEASE90?classifier=sources

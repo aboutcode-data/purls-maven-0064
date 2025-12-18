@@ -1,0 +1,2 @@
+- pkg:maven/io.supercharge/lint-checks-common-rules@0.1.0?classifier=sources
+- pkg:maven/io.supercharge/lint-checks-common-rules@0.1.0?type=aar

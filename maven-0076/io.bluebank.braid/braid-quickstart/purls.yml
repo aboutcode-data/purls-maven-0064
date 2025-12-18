@@ -10,3 +10,9 @@
 - pkg:maven/io.bluebank.braid/braid-quickstart@3.2.8
 - pkg:maven/io.bluebank.braid/braid-quickstart@3.3.0
 - pkg:maven/io.bluebank.braid/braid-quickstart@3.3.1
+- pkg:maven/io.bluebank.braid/braid-quickstart@3.3.2
+- pkg:maven/io.bluebank.braid/braid-quickstart@3.3.3
+- pkg:maven/io.bluebank.braid/braid-quickstart@3.3.4
+- pkg:maven/io.bluebank.braid/braid-quickstart@4.1.0
+- pkg:maven/io.bluebank.braid/braid-quickstart@4.1.0-RC01
+- pkg:maven/io.bluebank.braid/braid-quickstart@4.1.1

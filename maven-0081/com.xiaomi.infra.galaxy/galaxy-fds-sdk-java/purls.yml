@@ -53,6 +53,10 @@
 - pkg:maven/com.xiaomi.infra.galaxy/galaxy-fds-sdk-java@3.0.31?classifier=sources
 - pkg:maven/com.xiaomi.infra.galaxy/galaxy-fds-sdk-java@3.0.32
 - pkg:maven/com.xiaomi.infra.galaxy/galaxy-fds-sdk-java@3.0.32?classifier=sources
+- pkg:maven/com.xiaomi.infra.galaxy/galaxy-fds-sdk-java@3.0.35-alpha1
+- pkg:maven/com.xiaomi.infra.galaxy/galaxy-fds-sdk-java@3.0.35-alpha1?classifier=sources
+- pkg:maven/com.xiaomi.infra.galaxy/galaxy-fds-sdk-java@3.0.36
+- pkg:maven/com.xiaomi.infra.galaxy/galaxy-fds-sdk-java@3.0.36?classifier=sources
 - pkg:maven/com.xiaomi.infra.galaxy/galaxy-fds-sdk-java@3.0.3?classifier=sources
 - pkg:maven/com.xiaomi.infra.galaxy/galaxy-fds-sdk-java@3.0.4
 - pkg:maven/com.xiaomi.infra.galaxy/galaxy-fds-sdk-java@3.0.4?classifier=sources

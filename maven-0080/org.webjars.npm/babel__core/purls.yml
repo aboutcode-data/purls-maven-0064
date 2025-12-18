@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.npm/babel__core@7.3.4?classifier=sources
 - pkg:maven/org.webjars.npm/babel__core@7.4.0
 - pkg:maven/org.webjars.npm/babel__core@7.4.0?classifier=sources
+- pkg:maven/org.webjars.npm/babel__core@7.4.5
+- pkg:maven/org.webjars.npm/babel__core@7.4.5?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/com.ToxicBakery.logging/arbor-android@1.31.76?type=aar
 - pkg:maven/com.ToxicBakery.logging/arbor-android@1.32.92?classifier=sources
 - pkg:maven/com.ToxicBakery.logging/arbor-android@1.32.92?type=aar
+- pkg:maven/com.ToxicBakery.logging/arbor-android@1.33.97?classifier=sources
+- pkg:maven/com.ToxicBakery.logging/arbor-android@1.33.97?type=aar

@@ -46,3 +46,7 @@
 - pkg:maven/com.payintech/play-ebean_2.12@19.03?classifier=sources
 - pkg:maven/com.payintech/play-ebean_2.12@19.04
 - pkg:maven/com.payintech/play-ebean_2.12@19.04?classifier=sources
+- pkg:maven/com.payintech/play-ebean_2.12@19.07
+- pkg:maven/com.payintech/play-ebean_2.12@19.07?classifier=sources
+- pkg:maven/com.payintech/play-ebean_2.12@19.09
+- pkg:maven/com.payintech/play-ebean_2.12@19.09?classifier=sources

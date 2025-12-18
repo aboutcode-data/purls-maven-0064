@@ -1,0 +1,2 @@
+- pkg:maven/org.netbeans.modules/org-netbeans-libs-glassfish_logging@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-libs-glassfish_logging@RELEASE111?classifier=sources

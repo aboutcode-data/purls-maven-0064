@@ -4,3 +4,5 @@
 - pkg:maven/org.jgroups.azure/jgroups-azure@1.1.0.Final?classifier=sources
 - pkg:maven/org.jgroups.azure/jgroups-azure@1.2.0.Final
 - pkg:maven/org.jgroups.azure/jgroups-azure@1.2.0.Final?classifier=sources
+- pkg:maven/org.jgroups.azure/jgroups-azure@1.2.1.Final
+- pkg:maven/org.jgroups.azure/jgroups-azure@1.2.1.Final?classifier=sources

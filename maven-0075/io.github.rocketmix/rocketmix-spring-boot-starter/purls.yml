@@ -12,3 +12,5 @@
 - pkg:maven/io.github.rocketmix/rocketmix-spring-boot-starter@1.0.24?classifier=sources
 - pkg:maven/io.github.rocketmix/rocketmix-spring-boot-starter@1.0.26
 - pkg:maven/io.github.rocketmix/rocketmix-spring-boot-starter@1.0.26?classifier=sources
+- pkg:maven/io.github.rocketmix/rocketmix-spring-boot-starter@1.0.29
+- pkg:maven/io.github.rocketmix/rocketmix-spring-boot-starter@1.0.29?classifier=sources

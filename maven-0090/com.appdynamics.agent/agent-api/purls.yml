@@ -1,0 +1,4 @@
+- pkg:maven/com.appdynamics.agent/agent-api@4.5.12.26874
+- pkg:maven/com.appdynamics.agent/agent-api@4.5.12.26874?classifier=sources
+- pkg:maven/com.appdynamics.agent/agent-api@4.5.12.26900
+- pkg:maven/com.appdynamics.agent/agent-api@4.5.12.26900?classifier=sources

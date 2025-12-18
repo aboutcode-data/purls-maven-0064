@@ -22,6 +22,10 @@
 - pkg:maven/at.willhaben.willtest/examples@2.0.0
 - pkg:maven/at.willhaben.willtest/examples@2.0.1
 - pkg:maven/at.willhaben.willtest/examples@2.0.10
+- pkg:maven/at.willhaben.willtest/examples@2.0.11
+- pkg:maven/at.willhaben.willtest/examples@2.0.12
+- pkg:maven/at.willhaben.willtest/examples@2.0.13
+- pkg:maven/at.willhaben.willtest/examples@2.0.14
 - pkg:maven/at.willhaben.willtest/examples@2.0.2
 - pkg:maven/at.willhaben.willtest/examples@2.0.3
 - pkg:maven/at.willhaben.willtest/examples@2.0.4

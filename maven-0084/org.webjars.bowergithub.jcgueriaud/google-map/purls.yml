@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.bowergithub.jcgueriaud/google-map@2.0.5
+- pkg:maven/org.webjars.bowergithub.jcgueriaud/google-map@2.0.5?classifier=sources
 - pkg:maven/org.webjars.bowergithub.jcgueriaud/google-map@2.0.5p
 - pkg:maven/org.webjars.bowergithub.jcgueriaud/google-map@2.0.5p?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/org.lockss.laaws/laaws-repository-client@1.4.0?classifier=sources
 - pkg:maven/org.lockss.laaws/laaws-repository-client@1.5.0
 - pkg:maven/org.lockss.laaws/laaws-repository-client@1.5.0?classifier=sources
+- pkg:maven/org.lockss.laaws/laaws-repository-client@2.0.6.0
+- pkg:maven/org.lockss.laaws/laaws-repository-client@2.0.6.0?classifier=sources

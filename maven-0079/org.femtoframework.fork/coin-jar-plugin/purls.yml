@@ -1,0 +1,2 @@
+- pkg:maven/org.femtoframework.fork/coin-jar-plugin@1.1.0-FEMTO
+- pkg:maven/org.femtoframework.fork/coin-jar-plugin@1.1.0-FEMTO?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.netbeans.modules/org-netbeans-insane@RELEASE100?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-insane@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-insane@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-insane@RELEASE90?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkus/quarkus-elytron-security-oauth2-deployment@0.20.0
+- pkg:maven/io.quarkus/quarkus-elytron-security-oauth2-deployment@0.20.0?classifier=sources

@@ -18,3 +18,7 @@
 - pkg:maven/net.i2p/servlet-i2p@0.9.38?classifier=sources
 - pkg:maven/net.i2p/servlet-i2p@0.9.39
 - pkg:maven/net.i2p/servlet-i2p@0.9.39?classifier=sources
+- pkg:maven/net.i2p/servlet-i2p@0.9.40
+- pkg:maven/net.i2p/servlet-i2p@0.9.40?classifier=sources
+- pkg:maven/net.i2p/servlet-i2p@0.9.41
+- pkg:maven/net.i2p/servlet-i2p@0.9.41?classifier=sources

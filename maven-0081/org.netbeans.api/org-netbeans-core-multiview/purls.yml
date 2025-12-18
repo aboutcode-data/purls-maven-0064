@@ -1,0 +1,4 @@
+- pkg:maven/org.netbeans.api/org-netbeans-core-multiview@RELEASE100?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-core-multiview@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-core-multiview@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-core-multiview@RELEASE90?classifier=sources

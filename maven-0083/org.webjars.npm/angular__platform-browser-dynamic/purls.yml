@@ -102,3 +102,5 @@
 - pkg:maven/org.webjars.npm/angular__platform-browser-dynamic@6.1.9?classifier=sources
 - pkg:maven/org.webjars.npm/angular__platform-browser-dynamic@7.0.0-rc.1
 - pkg:maven/org.webjars.npm/angular__platform-browser-dynamic@7.0.0-rc.1?classifier=sources
+- pkg:maven/org.webjars.npm/angular__platform-browser-dynamic@7.1.0-rc.0
+- pkg:maven/org.webjars.npm/angular__platform-browser-dynamic@7.1.0-rc.0?classifier=sources

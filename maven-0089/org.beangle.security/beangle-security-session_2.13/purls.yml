@@ -1,0 +1,2 @@
+- pkg:maven/org.beangle.security/beangle-security-session_2.13@4.2.8
+- pkg:maven/org.beangle.security/beangle-security-session_2.13@4.2.8?classifier=sources

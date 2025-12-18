@@ -1,0 +1,2 @@
+- pkg:maven/de.mhus.cherry.vault/vault-rest@1.6.1
+- pkg:maven/de.mhus.cherry.vault/vault-rest@1.6.1?classifier=sources

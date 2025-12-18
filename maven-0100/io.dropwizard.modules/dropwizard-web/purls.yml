@@ -1,0 +1,2 @@
+- pkg:maven/io.dropwizard.modules/dropwizard-web@1.3.12-1
+- pkg:maven/io.dropwizard.modules/dropwizard-web@1.3.12-1?classifier=sources

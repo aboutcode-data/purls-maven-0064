@@ -10,3 +10,5 @@
 - pkg:maven/org.tinymediamanager.plugins/scraper-ofdb@1.4?classifier=sources
 - pkg:maven/org.tinymediamanager.plugins/scraper-ofdb@1.5
 - pkg:maven/org.tinymediamanager.plugins/scraper-ofdb@1.5?classifier=sources
+- pkg:maven/org.tinymediamanager.plugins/scraper-ofdb@3.0
+- pkg:maven/org.tinymediamanager.plugins/scraper-ofdb@3.0?classifier=sources

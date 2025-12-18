@@ -1,0 +1,4 @@
+- pkg:maven/org.netbeans.modules/org-netbeans-lib-nbjavac@RELEASE100?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-lib-nbjavac@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-lib-nbjavac@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-lib-nbjavac@RELEASE90?classifier=sources

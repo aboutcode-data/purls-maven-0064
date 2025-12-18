@@ -30,3 +30,4 @@
 - pkg:maven/org.robotframework/robotframework@3.0.4
 - pkg:maven/org.robotframework/robotframework@3.1
 - pkg:maven/org.robotframework/robotframework@3.1.1
+- pkg:maven/org.robotframework/robotframework@3.1.2

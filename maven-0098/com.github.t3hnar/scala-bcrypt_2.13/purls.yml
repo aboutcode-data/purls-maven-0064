@@ -1,0 +1,2 @@
+- pkg:maven/com.github.t3hnar/scala-bcrypt_2.13@4.1
+- pkg:maven/com.github.t3hnar/scala-bcrypt_2.13@4.1?classifier=sources

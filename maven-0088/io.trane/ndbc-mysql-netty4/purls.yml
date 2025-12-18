@@ -1,0 +1,2 @@
+- pkg:maven/io.trane/ndbc-mysql-netty4@0.1.3
+- pkg:maven/io.trane/ndbc-mysql-netty4@0.1.3?classifier=sources

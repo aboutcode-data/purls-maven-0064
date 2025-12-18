@@ -10,3 +10,5 @@
 - pkg:maven/io.github.firemaples/microsoft-translator-java-api@0.8.6?classifier=sources
 - pkg:maven/io.github.firemaples/microsoft-translator-java-api@0.8.7
 - pkg:maven/io.github.firemaples/microsoft-translator-java-api@0.8.7?classifier=sources
+- pkg:maven/io.github.firemaples/microsoft-translator-java-api@0.8.8.1
+- pkg:maven/io.github.firemaples/microsoft-translator-java-api@0.8.8.1?classifier=sources

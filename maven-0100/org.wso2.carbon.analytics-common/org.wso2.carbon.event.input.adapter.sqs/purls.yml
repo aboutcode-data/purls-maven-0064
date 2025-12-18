@@ -20,3 +20,10 @@
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.input.adapter.sqs@5.1.48
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.input.adapter.sqs@5.1.49
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.input.adapter.sqs@5.1.50
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.input.adapter.sqs@5.1.51
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.input.adapter.sqs@5.1.52
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.input.adapter.sqs@5.1.53
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.input.adapter.sqs@5.1.54
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.input.adapter.sqs@5.1.55
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.input.adapter.sqs@5.1.56
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.input.adapter.sqs@5.1.57

@@ -1,0 +1,2 @@
+- pkg:maven/com.ifwallet.walletcore/walletcore@0.13.1?classifier=sources
+- pkg:maven/com.ifwallet.walletcore/walletcore@0.13.1?type=aar

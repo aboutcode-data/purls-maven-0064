@@ -4,3 +4,7 @@
 - pkg:maven/net.psybit.factory/mother-factory@0.0.2?classifier=sources
 - pkg:maven/net.psybit.factory/mother-factory@0.0.3
 - pkg:maven/net.psybit.factory/mother-factory@0.0.3?classifier=sources
+- pkg:maven/net.psybit.factory/mother-factory@0.5.1
+- pkg:maven/net.psybit.factory/mother-factory@0.5.1?classifier=sources
+- pkg:maven/net.psybit.factory/mother-factory@0.5.5
+- pkg:maven/net.psybit.factory/mother-factory@0.5.5?classifier=sources

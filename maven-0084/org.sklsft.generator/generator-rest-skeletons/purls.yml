@@ -1,3 +1,4 @@
+- pkg:maven/org.sklsft.generator/generator-rest-skeletons@3.0.0
 - pkg:maven/org.sklsft.generator/generator-rest-skeletons@3.0.0-M4
 - pkg:maven/org.sklsft.generator/generator-rest-skeletons@3.0.0-M4-1
 - pkg:maven/org.sklsft.generator/generator-rest-skeletons@3.0.0-M4-1?classifier=sources
@@ -8,3 +9,6 @@
 - pkg:maven/org.sklsft.generator/generator-rest-skeletons@3.0.0-M5?classifier=sources
 - pkg:maven/org.sklsft.generator/generator-rest-skeletons@3.0.0-M6
 - pkg:maven/org.sklsft.generator/generator-rest-skeletons@3.0.0-M6?classifier=sources
+- pkg:maven/org.sklsft.generator/generator-rest-skeletons@3.0.0?classifier=sources
+- pkg:maven/org.sklsft.generator/generator-rest-skeletons@3.0.1
+- pkg:maven/org.sklsft.generator/generator-rest-skeletons@3.0.1?classifier=sources

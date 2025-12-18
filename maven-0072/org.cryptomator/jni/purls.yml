@@ -6,3 +6,5 @@
 - pkg:maven/org.cryptomator/jni@1.0.2?classifier=sources
 - pkg:maven/org.cryptomator/jni@2.0.0
 - pkg:maven/org.cryptomator/jni@2.0.0?classifier=sources
+- pkg:maven/org.cryptomator/jni@2.1.0
+- pkg:maven/org.cryptomator/jni@2.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.mnteam/mnt-sio@0.0.2
+- pkg:maven/com.github.mnteam/mnt-sio@0.0.2?classifier=sources

@@ -13,3 +13,4 @@
 - pkg:maven/org.webjars/bootstrap-datepicker@1.6.4
 - pkg:maven/org.webjars/bootstrap-datepicker@1.7.1
 - pkg:maven/org.webjars/bootstrap-datepicker@1.8.0
+- pkg:maven/org.webjars/bootstrap-datepicker@1.9.0

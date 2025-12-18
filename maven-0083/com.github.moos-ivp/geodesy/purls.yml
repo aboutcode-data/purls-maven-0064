@@ -1,0 +1,2 @@
+- pkg:maven/com.github.moos-ivp/geodesy@0.2.0
+- pkg:maven/com.github.moos-ivp/geodesy@0.2.0?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/pl.droidsonroids/credit_card_number@2.01.03-alpha01
+- pkg:maven/pl.droidsonroids/credit_card_number@2.01.03-alpha01?classifier=sources
+- pkg:maven/pl.droidsonroids/credit_card_number@2.01.03-alpha02
+- pkg:maven/pl.droidsonroids/credit_card_number@2.01.03-alpha02?classifier=sources
+- pkg:maven/pl.droidsonroids/credit_card_number@2.01.03-alpha03
+- pkg:maven/pl.droidsonroids/credit_card_number@2.01.03-alpha03?classifier=sources

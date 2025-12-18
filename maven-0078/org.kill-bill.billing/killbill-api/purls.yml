@@ -165,6 +165,8 @@
 - pkg:maven/org.kill-bill.billing/killbill-api@0.53.0
 - pkg:maven/org.kill-bill.billing/killbill-api@0.53.0?classifier=sources
 - pkg:maven/org.kill-bill.billing/killbill-api@0.53.1
+- pkg:maven/org.kill-bill.billing/killbill-api@0.53.10
+- pkg:maven/org.kill-bill.billing/killbill-api@0.53.10?classifier=sources
 - pkg:maven/org.kill-bill.billing/killbill-api@0.53.1?classifier=sources
 - pkg:maven/org.kill-bill.billing/killbill-api@0.53.2
 - pkg:maven/org.kill-bill.billing/killbill-api@0.53.2?classifier=sources
@@ -174,6 +176,14 @@
 - pkg:maven/org.kill-bill.billing/killbill-api@0.53.4?classifier=sources
 - pkg:maven/org.kill-bill.billing/killbill-api@0.53.5
 - pkg:maven/org.kill-bill.billing/killbill-api@0.53.5?classifier=sources
+- pkg:maven/org.kill-bill.billing/killbill-api@0.53.6
+- pkg:maven/org.kill-bill.billing/killbill-api@0.53.6?classifier=sources
+- pkg:maven/org.kill-bill.billing/killbill-api@0.53.7
+- pkg:maven/org.kill-bill.billing/killbill-api@0.53.7?classifier=sources
+- pkg:maven/org.kill-bill.billing/killbill-api@0.53.8
+- pkg:maven/org.kill-bill.billing/killbill-api@0.53.8?classifier=sources
+- pkg:maven/org.kill-bill.billing/killbill-api@0.53.9
+- pkg:maven/org.kill-bill.billing/killbill-api@0.53.9?classifier=sources
 - pkg:maven/org.kill-bill.billing/killbill-api@0.8.2
 - pkg:maven/org.kill-bill.billing/killbill-api@0.8.2?classifier=sources
 - pkg:maven/org.kill-bill.billing/killbill-api@0.8.3
