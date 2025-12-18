@@ -11,4 +11,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-j2semodule@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-j2semodule@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-j2semodule@RELEASE125?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-java-j2semodule@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-j2semodule@RELEASE90?classifier=sources

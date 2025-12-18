@@ -17,3 +17,4 @@
 - pkg:maven/org.webjars/chartjs@3.4.1
 - pkg:maven/org.webjars/chartjs@3.5.1
 - pkg:maven/org.webjars/chartjs@3.6.0
+- pkg:maven/org.webjars/chartjs@3.7.0

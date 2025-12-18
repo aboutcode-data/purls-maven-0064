@@ -113,6 +113,10 @@
 - pkg:maven/org.wso2.carbon.identity.application.auth.basic/org.wso2.carbon.identity.application.authenticator.basicauth.jwt@6.3.50?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.application.auth.basic/org.wso2.carbon.identity.application.authenticator.basicauth.jwt@6.3.51
 - pkg:maven/org.wso2.carbon.identity.application.auth.basic/org.wso2.carbon.identity.application.authenticator.basicauth.jwt@6.3.51?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.application.auth.basic/org.wso2.carbon.identity.application.authenticator.basicauth.jwt@6.3.52
+- pkg:maven/org.wso2.carbon.identity.application.auth.basic/org.wso2.carbon.identity.application.authenticator.basicauth.jwt@6.3.52?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.application.auth.basic/org.wso2.carbon.identity.application.authenticator.basicauth.jwt@6.3.53
+- pkg:maven/org.wso2.carbon.identity.application.auth.basic/org.wso2.carbon.identity.application.authenticator.basicauth.jwt@6.3.53?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.application.auth.basic/org.wso2.carbon.identity.application.authenticator.basicauth.jwt@6.3.5?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.application.auth.basic/org.wso2.carbon.identity.application.authenticator.basicauth.jwt@6.3.6
 - pkg:maven/org.wso2.carbon.identity.application.auth.basic/org.wso2.carbon.identity.application.authenticator.basicauth.jwt@6.3.6?classifier=sources

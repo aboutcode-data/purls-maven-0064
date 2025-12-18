@@ -142,3 +142,17 @@
 - pkg:maven/io.sentry/sentry-android-ndk@5.3.0?type=aar
 - pkg:maven/io.sentry/sentry-android-ndk@5.4.0?classifier=sources
 - pkg:maven/io.sentry/sentry-android-ndk@5.4.0?type=aar
+- pkg:maven/io.sentry/sentry-android-ndk@5.4.1?classifier=sources
+- pkg:maven/io.sentry/sentry-android-ndk@5.4.1?type=aar
+- pkg:maven/io.sentry/sentry-android-ndk@5.4.2?classifier=sources
+- pkg:maven/io.sentry/sentry-android-ndk@5.4.2?type=aar
+- pkg:maven/io.sentry/sentry-android-ndk@5.4.3?classifier=sources
+- pkg:maven/io.sentry/sentry-android-ndk@5.4.3?type=aar
+- pkg:maven/io.sentry/sentry-android-ndk@5.5.0?classifier=sources
+- pkg:maven/io.sentry/sentry-android-ndk@5.5.0?type=aar
+- pkg:maven/io.sentry/sentry-android-ndk@5.5.1?classifier=sources
+- pkg:maven/io.sentry/sentry-android-ndk@5.5.1?type=aar
+- pkg:maven/io.sentry/sentry-android-ndk@5.5.2?classifier=sources
+- pkg:maven/io.sentry/sentry-android-ndk@5.5.2?type=aar
+- pkg:maven/io.sentry/sentry-android-ndk@6.0.0-alpha.1?classifier=sources
+- pkg:maven/io.sentry/sentry-android-ndk@6.0.0-alpha.1?type=aar

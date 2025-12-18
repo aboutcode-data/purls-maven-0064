@@ -1,0 +1,2 @@
+- pkg:maven/io.microlam/microlam-params-aws@0.2
+- pkg:maven/io.microlam/microlam-params-aws@0.2?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.netflix.graphql.dgs/graphql-dgs-extended-validation@4.9.10?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs/graphql-dgs-extended-validation@4.9.11?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs/graphql-dgs-extended-validation@4.9.14?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs/graphql-dgs-extended-validation@4.9.15?classifier=sources

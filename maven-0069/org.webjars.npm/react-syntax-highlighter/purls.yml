@@ -2,5 +2,7 @@
 - pkg:maven/org.webjars.npm/react-syntax-highlighter@15.4.3?classifier=sources
 - pkg:maven/org.webjars.npm/react-syntax-highlighter@15.4.4
 - pkg:maven/org.webjars.npm/react-syntax-highlighter@15.4.4?classifier=sources
+- pkg:maven/org.webjars.npm/react-syntax-highlighter@15.4.5
+- pkg:maven/org.webjars.npm/react-syntax-highlighter@15.4.5?classifier=sources
 - pkg:maven/org.webjars.npm/react-syntax-highlighter@5.7.0
 - pkg:maven/org.webjars.npm/react-syntax-highlighter@5.7.0?classifier=sources

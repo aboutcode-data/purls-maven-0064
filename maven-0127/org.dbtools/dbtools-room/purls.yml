@@ -151,3 +151,5 @@
 - pkg:maven/org.dbtools/dbtools-room@7.0.0-beta02?type=aar
 - pkg:maven/org.dbtools/dbtools-room@7.0.0-beta03?classifier=sources
 - pkg:maven/org.dbtools/dbtools-room@7.0.0-beta03?type=aar
+- pkg:maven/org.dbtools/dbtools-room@7.0.0-beta04?classifier=sources
+- pkg:maven/org.dbtools/dbtools-room@7.0.0-beta04?type=aar

@@ -60,5 +60,9 @@
 - pkg:maven/org.linkki-framework/linkki-core-vaadin8@1.4.2?classifier=sources
 - pkg:maven/org.linkki-framework/linkki-core-vaadin8@1.4.3
 - pkg:maven/org.linkki-framework/linkki-core-vaadin8@1.4.3?classifier=sources
+- pkg:maven/org.linkki-framework/linkki-core-vaadin8@1.4.4
+- pkg:maven/org.linkki-framework/linkki-core-vaadin8@1.4.4?classifier=sources
+- pkg:maven/org.linkki-framework/linkki-core-vaadin8@1.5.0
+- pkg:maven/org.linkki-framework/linkki-core-vaadin8@1.5.0?classifier=sources
 - pkg:maven/org.linkki-framework/linkki-core-vaadin8@linkki-0.9.20190528
 - pkg:maven/org.linkki-framework/linkki-core-vaadin8@linkki-0.9.20190528?classifier=sources

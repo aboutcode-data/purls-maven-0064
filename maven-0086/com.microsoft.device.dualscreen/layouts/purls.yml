@@ -1,3 +1,5 @@
 - pkg:maven/com.microsoft.device.dualscreen/layouts@1.0.0-beta3?classifier=sources
 - pkg:maven/com.microsoft.device.dualscreen/layouts@1.0.0-beta4?classifier=sources
 - pkg:maven/com.microsoft.device.dualscreen/layouts@1.0.0-beta5?classifier=sources
+- pkg:maven/com.microsoft.device.dualscreen/layouts@1.0.0-beta6?classifier=sources
+- pkg:maven/com.microsoft.device.dualscreen/layouts@1.0.0-beta7?classifier=sources

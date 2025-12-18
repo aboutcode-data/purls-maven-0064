@@ -35,3 +35,4 @@
 - pkg:maven/com.prowidesoftware/pw-swift-core@SRU2020-9.1.8?classifier=sources
 - pkg:maven/com.prowidesoftware/pw-swift-core@SRU2021-9.2.7?classifier=sources
 - pkg:maven/com.prowidesoftware/pw-swift-core@SRU2021-9.2.8?classifier=sources
+- pkg:maven/com.prowidesoftware/pw-swift-core@SRU2021-9.2.9?classifier=sources

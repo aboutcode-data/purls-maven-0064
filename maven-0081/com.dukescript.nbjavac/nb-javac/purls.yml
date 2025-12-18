@@ -8,3 +8,5 @@
 - pkg:maven/com.dukescript.nbjavac/nb-javac@17.0.0.0?classifier=sources
 - pkg:maven/com.dukescript.nbjavac/nb-javac@jdk-17%2B35
 - pkg:maven/com.dukescript.nbjavac/nb-javac@jdk-17%2B35?classifier=sources
+- pkg:maven/com.dukescript.nbjavac/nb-javac@jdk-17.0.1-ga
+- pkg:maven/com.dukescript.nbjavac/nb-javac@jdk-17.0.1-ga?classifier=sources

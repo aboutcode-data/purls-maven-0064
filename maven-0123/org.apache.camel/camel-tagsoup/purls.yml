@@ -295,6 +295,8 @@
 - pkg:maven/org.apache.camel/camel-tagsoup@3.12.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-tagsoup@3.13.0
 - pkg:maven/org.apache.camel/camel-tagsoup@3.13.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-tagsoup@3.14.0
+- pkg:maven/org.apache.camel/camel-tagsoup@3.14.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-tagsoup@3.2.0
 - pkg:maven/org.apache.camel/camel-tagsoup@3.2.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-tagsoup@3.3.0
@@ -331,6 +333,8 @@
 - pkg:maven/org.apache.camel/camel-tagsoup@3.7.5?classifier=sources
 - pkg:maven/org.apache.camel/camel-tagsoup@3.7.6
 - pkg:maven/org.apache.camel/camel-tagsoup@3.7.6?classifier=sources
+- pkg:maven/org.apache.camel/camel-tagsoup@3.7.7
+- pkg:maven/org.apache.camel/camel-tagsoup@3.7.7?classifier=sources
 - pkg:maven/org.apache.camel/camel-tagsoup@3.8.0
 - pkg:maven/org.apache.camel/camel-tagsoup@3.8.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-tagsoup@3.9.0

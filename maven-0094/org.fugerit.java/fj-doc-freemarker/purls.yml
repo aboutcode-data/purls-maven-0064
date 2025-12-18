@@ -124,3 +124,5 @@
 - pkg:maven/org.fugerit.java/fj-doc-freemarker@0.3.6.9?classifier=sources
 - pkg:maven/org.fugerit.java/fj-doc-freemarker@0.3.7.0
 - pkg:maven/org.fugerit.java/fj-doc-freemarker@0.3.7.0?classifier=sources
+- pkg:maven/org.fugerit.java/fj-doc-freemarker@0.3.7.1
+- pkg:maven/org.fugerit.java/fj-doc-freemarker@0.3.7.1?classifier=sources

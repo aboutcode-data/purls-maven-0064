@@ -22,3 +22,6 @@
 - pkg:maven/me.proton.core/network-domain@1.5.4?classifier=sources
 - pkg:maven/me.proton.core/network-domain@2.0.0-alpha01?classifier=sources
 - pkg:maven/me.proton.core/network-domain@2.0.0?classifier=sources
+- pkg:maven/me.proton.core/network-domain@3.0.0?classifier=sources
+- pkg:maven/me.proton.core/network-domain@4.0.0?classifier=sources
+- pkg:maven/me.proton.core/network-domain@4.1.0?classifier=sources

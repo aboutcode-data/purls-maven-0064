@@ -141,6 +141,10 @@
 - pkg:maven/com.amazonaws/aws-android-sdk-cognitoauth@2.34.0?type=aar
 - pkg:maven/com.amazonaws/aws-android-sdk-cognitoauth@2.35.0?classifier=sources
 - pkg:maven/com.amazonaws/aws-android-sdk-cognitoauth@2.35.0?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-cognitoauth@2.36.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-cognitoauth@2.36.0?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-cognitoauth@2.37.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-cognitoauth@2.37.0?type=aar
 - pkg:maven/com.amazonaws/aws-android-sdk-cognitoauth@2.4.4?classifier=sources
 - pkg:maven/com.amazonaws/aws-android-sdk-cognitoauth@2.4.4?type=aar
 - pkg:maven/com.amazonaws/aws-android-sdk-cognitoauth@2.4.5?classifier=sources

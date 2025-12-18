@@ -10,3 +10,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-test@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-test@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-test@RELEASE125?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-test@RELEASE126?classifier=sources

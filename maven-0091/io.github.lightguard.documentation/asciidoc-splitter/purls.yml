@@ -1,0 +1,2 @@
+- pkg:maven/io.github.lightguard.documentation/asciidoc-splitter@1.5.3
+- pkg:maven/io.github.lightguard.documentation/asciidoc-splitter@1.5.3?classifier=sources

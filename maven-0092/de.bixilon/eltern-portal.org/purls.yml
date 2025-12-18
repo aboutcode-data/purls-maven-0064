@@ -1,0 +1,2 @@
+- pkg:maven/de.bixilon/eltern-portal.org@1.0
+- pkg:maven/de.bixilon/eltern-portal.org@1.0?classifier=sources

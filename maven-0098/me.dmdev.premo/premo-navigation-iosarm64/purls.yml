@@ -1,1 +1,2 @@
 - pkg:maven/me.dmdev.premo/premo-navigation-iosarm64@1.0.0-alpha.01?classifier=sources
+- pkg:maven/me.dmdev.premo/premo-navigation-iosarm64@1.0.0-alpha.02?classifier=sources

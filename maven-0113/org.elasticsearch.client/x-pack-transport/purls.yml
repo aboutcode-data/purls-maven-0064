@@ -18,6 +18,10 @@
 - pkg:maven/org.elasticsearch.client/x-pack-transport@6.8.19?classifier=sources
 - pkg:maven/org.elasticsearch.client/x-pack-transport@6.8.20
 - pkg:maven/org.elasticsearch.client/x-pack-transport@6.8.20?classifier=sources
+- pkg:maven/org.elasticsearch.client/x-pack-transport@6.8.21
+- pkg:maven/org.elasticsearch.client/x-pack-transport@6.8.21?classifier=sources
+- pkg:maven/org.elasticsearch.client/x-pack-transport@6.8.22
+- pkg:maven/org.elasticsearch.client/x-pack-transport@6.8.22?classifier=sources
 - pkg:maven/org.elasticsearch.client/x-pack-transport@7.10.0
 - pkg:maven/org.elasticsearch.client/x-pack-transport@7.10.0?classifier=sources
 - pkg:maven/org.elasticsearch.client/x-pack-transport@7.10.1
@@ -56,6 +60,12 @@
 - pkg:maven/org.elasticsearch.client/x-pack-transport@7.15.1?classifier=sources
 - pkg:maven/org.elasticsearch.client/x-pack-transport@7.15.2
 - pkg:maven/org.elasticsearch.client/x-pack-transport@7.15.2?classifier=sources
+- pkg:maven/org.elasticsearch.client/x-pack-transport@7.16.0
+- pkg:maven/org.elasticsearch.client/x-pack-transport@7.16.0?classifier=sources
+- pkg:maven/org.elasticsearch.client/x-pack-transport@7.16.1
+- pkg:maven/org.elasticsearch.client/x-pack-transport@7.16.1?classifier=sources
+- pkg:maven/org.elasticsearch.client/x-pack-transport@7.16.2
+- pkg:maven/org.elasticsearch.client/x-pack-transport@7.16.2?classifier=sources
 - pkg:maven/org.elasticsearch.client/x-pack-transport@7.8.1
 - pkg:maven/org.elasticsearch.client/x-pack-transport@7.8.1?classifier=sources
 - pkg:maven/org.elasticsearch.client/x-pack-transport@7.9.0

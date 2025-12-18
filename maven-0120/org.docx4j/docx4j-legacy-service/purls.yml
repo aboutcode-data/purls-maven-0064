@@ -1,2 +1,6 @@
+- pkg:maven/org.docx4j/docx4j-legacy-service@11.3.2
+- pkg:maven/org.docx4j/docx4j-legacy-service@11.3.2?classifier=sources
 - pkg:maven/org.docx4j/docx4j-legacy-service@8.3.1
 - pkg:maven/org.docx4j/docx4j-legacy-service@8.3.1?classifier=sources
+- pkg:maven/org.docx4j/docx4j-legacy-service@8.3.2
+- pkg:maven/org.docx4j/docx4j-legacy-service@8.3.2?classifier=sources

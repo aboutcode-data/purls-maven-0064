@@ -19,3 +19,4 @@
 - pkg:maven/io.testsmith/webdriver-testng-archetype@0.8?classifier=sources
 - pkg:maven/io.testsmith/webdriver-testng-archetype@0.9?classifier=sources
 - pkg:maven/io.testsmith/webdriver-testng-archetype@1.4.0?classifier=sources
+- pkg:maven/io.testsmith/webdriver-testng-archetype@1.4.1?classifier=sources

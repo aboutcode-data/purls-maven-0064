@@ -85,6 +85,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.rules.engine.sample.web@2.0.35
 - pkg:maven/com.liferay/com.liferay.portal.rules.engine.sample.web@2.0.35?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.rules.engine.sample.web@2.0.35?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.rules.engine.sample.web@2.0.36
+- pkg:maven/com.liferay/com.liferay.portal.rules.engine.sample.web@2.0.36?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.rules.engine.sample.web@2.0.36?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.rules.engine.sample.web@2.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.rules.engine.sample.web@2.0.4
 - pkg:maven/com.liferay/com.liferay.portal.rules.engine.sample.web@2.0.4?classifier=sources
@@ -126,6 +129,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.rules.engine.sample.web@3.0.17
 - pkg:maven/com.liferay/com.liferay.portal.rules.engine.sample.web@3.0.17?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.rules.engine.sample.web@3.0.17?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.rules.engine.sample.web@3.0.18
+- pkg:maven/com.liferay/com.liferay.portal.rules.engine.sample.web@3.0.18?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.rules.engine.sample.web@3.0.18?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.rules.engine.sample.web@3.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.rules.engine.sample.web@3.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.rules.engine.sample.web@3.0.2
@@ -192,6 +198,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.rules.engine.sample.web@4.0.20
 - pkg:maven/com.liferay/com.liferay.portal.rules.engine.sample.web@4.0.20?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.rules.engine.sample.web@4.0.20?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.rules.engine.sample.web@4.0.21
+- pkg:maven/com.liferay/com.liferay.portal.rules.engine.sample.web@4.0.21?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.rules.engine.sample.web@4.0.21?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.rules.engine.sample.web@4.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.rules.engine.sample.web@4.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.rules.engine.sample.web@4.0.3
@@ -249,6 +258,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.rules.engine.sample.web@5.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.rules.engine.sample.web@5.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.rules.engine.sample.web@5.0.2
+- pkg:maven/com.liferay/com.liferay.portal.rules.engine.sample.web@5.0.20
+- pkg:maven/com.liferay/com.liferay.portal.rules.engine.sample.web@5.0.20?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.rules.engine.sample.web@5.0.20?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.rules.engine.sample.web@5.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.rules.engine.sample.web@5.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.rules.engine.sample.web@5.0.3

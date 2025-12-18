@@ -1,1 +1,2 @@
+- pkg:maven/io.qtjambi/qtjambi-x11extras@5.15.3?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-x11extras@5.15?classifier=sources

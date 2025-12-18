@@ -14,6 +14,8 @@
 - pkg:maven/org.apache.camel.springboot/camel-infinispan-embedded-starter@3.12.0?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-infinispan-embedded-starter@3.13.0
 - pkg:maven/org.apache.camel.springboot/camel-infinispan-embedded-starter@3.13.0?classifier=sources
+- pkg:maven/org.apache.camel.springboot/camel-infinispan-embedded-starter@3.14.0
+- pkg:maven/org.apache.camel.springboot/camel-infinispan-embedded-starter@3.14.0?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-infinispan-embedded-starter@3.8.0
 - pkg:maven/org.apache.camel.springboot/camel-infinispan-embedded-starter@3.8.0?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-infinispan-embedded-starter@3.9.0

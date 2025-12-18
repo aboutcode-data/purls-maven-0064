@@ -2,3 +2,5 @@
 - pkg:maven/org.http4s/http4s-dom_sjs1_3@0.2.0?classifier=sources
 - pkg:maven/org.http4s/http4s-dom_sjs1_3@1.0.0-M29
 - pkg:maven/org.http4s/http4s-dom_sjs1_3@1.0.0-M29?classifier=sources
+- pkg:maven/org.http4s/http4s-dom_sjs1_3@1.0.0-M30
+- pkg:maven/org.http4s/http4s-dom_sjs1_3@1.0.0-M30?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.clickhouse/clickhouse-grpc-client@0.3.2-test1
+- pkg:maven/com.clickhouse/clickhouse-grpc-client@0.3.2-test1?classifier=sources
+- pkg:maven/com.clickhouse/clickhouse-grpc-client@0.3.2-test2
+- pkg:maven/com.clickhouse/clickhouse-grpc-client@0.3.2-test2?classifier=sources
+- pkg:maven/com.clickhouse/clickhouse-grpc-client@0.3.2-test3
+- pkg:maven/com.clickhouse/clickhouse-grpc-client@0.3.2-test3?classifier=sources

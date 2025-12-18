@@ -1,2 +1,4 @@
 - pkg:maven/org.polynote/uzhttp_3@0.2.8
 - pkg:maven/org.polynote/uzhttp_3@0.2.8?classifier=sources
+- pkg:maven/org.polynote/uzhttp_3@0.3.0-RC1
+- pkg:maven/org.polynote/uzhttp_3@0.3.0-RC1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/io.github.alexarchambault.bleep/sockets@1.4.12
+- pkg:maven/io.github.alexarchambault.bleep/sockets@1.4.12?classifier=sources
+- pkg:maven/io.github.alexarchambault.bleep/sockets@1.4.13
+- pkg:maven/io.github.alexarchambault.bleep/sockets@1.4.13?classifier=sources

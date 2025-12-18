@@ -20,6 +20,7 @@
 - pkg:maven/org.apache.tika/tika@1.25?classifier=src&type=zip
 - pkg:maven/org.apache.tika/tika@1.26?classifier=src&type=zip
 - pkg:maven/org.apache.tika/tika@1.27?classifier=src&type=zip
+- pkg:maven/org.apache.tika/tika@1.28?classifier=src&type=zip
 - pkg:maven/org.apache.tika/tika@1.6?classifier=src&type=zip
 - pkg:maven/org.apache.tika/tika@1.7?classifier=src&type=zip
 - pkg:maven/org.apache.tika/tika@1.8?classifier=src&type=zip
@@ -28,3 +29,5 @@
 - pkg:maven/org.apache.tika/tika@2.0.0-BETA?classifier=src&type=zip
 - pkg:maven/org.apache.tika/tika@2.0.0?classifier=src&type=zip
 - pkg:maven/org.apache.tika/tika@2.1.0?classifier=src&type=zip
+- pkg:maven/org.apache.tika/tika@2.2.0?classifier=src&type=zip
+- pkg:maven/org.apache.tika/tika@2.2.1?classifier=src&type=zip

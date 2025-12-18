@@ -14,6 +14,8 @@
 - pkg:maven/org.apache.camel/camel-component-maven-plugin@3.12.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-component-maven-plugin@3.13.0
 - pkg:maven/org.apache.camel/camel-component-maven-plugin@3.13.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-component-maven-plugin@3.14.0
+- pkg:maven/org.apache.camel/camel-component-maven-plugin@3.14.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-component-maven-plugin@3.4.0
 - pkg:maven/org.apache.camel/camel-component-maven-plugin@3.4.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-component-maven-plugin@3.4.1
@@ -46,6 +48,8 @@
 - pkg:maven/org.apache.camel/camel-component-maven-plugin@3.7.5?classifier=sources
 - pkg:maven/org.apache.camel/camel-component-maven-plugin@3.7.6
 - pkg:maven/org.apache.camel/camel-component-maven-plugin@3.7.6?classifier=sources
+- pkg:maven/org.apache.camel/camel-component-maven-plugin@3.7.7
+- pkg:maven/org.apache.camel/camel-component-maven-plugin@3.7.7?classifier=sources
 - pkg:maven/org.apache.camel/camel-component-maven-plugin@3.8.0
 - pkg:maven/org.apache.camel/camel-component-maven-plugin@3.8.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-component-maven-plugin@3.9.0

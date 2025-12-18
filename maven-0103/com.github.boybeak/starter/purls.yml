@@ -1,0 +1,2 @@
+- pkg:maven/com.github.boybeak/starter@0.2.22?classifier=sources
+- pkg:maven/com.github.boybeak/starter@0.2.22?type=aar

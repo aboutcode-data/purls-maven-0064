@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/mapv@2.0.14
 - pkg:maven/org.webjars.npm/mapv@2.0.14?classifier=sources
+- pkg:maven/org.webjars.npm/mapv@2.0.62
+- pkg:maven/org.webjars.npm/mapv@2.0.62?classifier=sources

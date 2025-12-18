@@ -7,7 +7,14 @@
 - pkg:maven/com.jkoolcloud.tnt4j.stream/tnt4j-stream-jmx-liberty-api@0.12.1?classifier=sources
 - pkg:maven/com.jkoolcloud.tnt4j.stream/tnt4j-stream-jmx-liberty-api@0.12?classifier=sources
 - pkg:maven/com.jkoolcloud.tnt4j.stream/tnt4j-stream-jmx-liberty-api@0.13
+- pkg:maven/com.jkoolcloud.tnt4j.stream/tnt4j-stream-jmx-liberty-api@0.13.1
+- pkg:maven/com.jkoolcloud.tnt4j.stream/tnt4j-stream-jmx-liberty-api@0.13.1?classifier=sources
+- pkg:maven/com.jkoolcloud.tnt4j.stream/tnt4j-stream-jmx-liberty-api@0.13.2
+- pkg:maven/com.jkoolcloud.tnt4j.stream/tnt4j-stream-jmx-liberty-api@0.13.2?classifier=sources
 - pkg:maven/com.jkoolcloud.tnt4j.stream/tnt4j-stream-jmx-liberty-api@0.13?classifier=sources
+- pkg:maven/com.jkoolcloud.tnt4j.stream/tnt4j-stream-jmx-liberty-api@0.14.1
+- pkg:maven/com.jkoolcloud.tnt4j.stream/tnt4j-stream-jmx-liberty-api@0.14.1?classifier=sources
+- pkg:maven/com.jkoolcloud.tnt4j.stream/tnt4j-stream-jmx-liberty-api@0.14?classifier=sources
 - pkg:maven/com.jkoolcloud.tnt4j.stream/tnt4j-stream-jmx-liberty-api@0.7
 - pkg:maven/com.jkoolcloud.tnt4j.stream/tnt4j-stream-jmx-liberty-api@0.7?classifier=sources
 - pkg:maven/com.jkoolcloud.tnt4j.stream/tnt4j-stream-jmx-liberty-api@0.8

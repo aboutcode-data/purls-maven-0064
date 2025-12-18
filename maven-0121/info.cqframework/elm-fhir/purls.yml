@@ -1,2 +1,4 @@
 - pkg:maven/info.cqframework/elm-fhir@1.5.4
 - pkg:maven/info.cqframework/elm-fhir@1.5.4?classifier=sources
+- pkg:maven/info.cqframework/elm-fhir@1.5.5
+- pkg:maven/info.cqframework/elm-fhir@1.5.5?classifier=sources

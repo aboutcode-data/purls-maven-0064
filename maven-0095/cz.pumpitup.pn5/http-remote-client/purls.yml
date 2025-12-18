@@ -40,3 +40,5 @@
 - pkg:maven/cz.pumpitup.pn5/http-remote-client@0.4.31?classifier=sources
 - pkg:maven/cz.pumpitup.pn5/http-remote-client@0.4.32
 - pkg:maven/cz.pumpitup.pn5/http-remote-client@0.4.32?classifier=sources
+- pkg:maven/cz.pumpitup.pn5/http-remote-client@0.4.33
+- pkg:maven/cz.pumpitup.pn5/http-remote-client@0.4.33?classifier=sources

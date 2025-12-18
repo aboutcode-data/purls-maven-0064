@@ -290,6 +290,10 @@
 - pkg:maven/net.nemerosa.ontrack/ontrack-extension-sonarqube@4.0.7?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-extension-sonarqube@4.0.8?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-extension-sonarqube@4.0.9?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-extension-sonarqube@4.1.0?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-extension-sonarqube@4.1.1?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-extension-sonarqube@4.1.2?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-extension-sonarqube@4.1.3?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-extension-sonarqube@feature-732-back-to-central-5e58285
 - pkg:maven/net.nemerosa.ontrack/ontrack-extension-sonarqube@feature-732-back-to-central-5e58285?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-extension-sonarqube@feature-735-ui-publication-7c8bc12

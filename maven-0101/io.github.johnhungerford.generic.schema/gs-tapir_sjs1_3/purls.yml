@@ -1,0 +1,2 @@
+- pkg:maven/io.github.johnhungerford.generic.schema/gs-tapir_sjs1_3@1.0.0
+- pkg:maven/io.github.johnhungerford.generic.schema/gs-tapir_sjs1_3@1.0.0?classifier=sources

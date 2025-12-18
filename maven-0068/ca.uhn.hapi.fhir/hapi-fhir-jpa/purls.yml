@@ -1,0 +1,4 @@
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jpa@5.6.0
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jpa@5.6.0?classifier=sources
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jpa@5.6.1
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jpa@5.6.1?classifier=sources

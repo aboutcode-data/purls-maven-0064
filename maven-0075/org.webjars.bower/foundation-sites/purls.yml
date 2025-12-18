@@ -36,3 +36,5 @@
 - pkg:maven/org.webjars.bower/foundation-sites@6.6.1?classifier=sources
 - pkg:maven/org.webjars.bower/foundation-sites@6.6.3
 - pkg:maven/org.webjars.bower/foundation-sites@6.6.3?classifier=sources
+- pkg:maven/org.webjars.bower/foundation-sites@6.7.4
+- pkg:maven/org.webjars.bower/foundation-sites@6.7.4?classifier=sources

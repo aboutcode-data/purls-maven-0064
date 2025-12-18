@@ -20,6 +20,10 @@
 - pkg:maven/com.google.apis/google-api-services-sqladmin@v1-rev20211017-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-sqladmin@v1-rev20211023-1.32.1
 - pkg:maven/com.google.apis/google-api-services-sqladmin@v1-rev20211023-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-sqladmin@v1-rev20211110-1.32.1
+- pkg:maven/com.google.apis/google-api-services-sqladmin@v1-rev20211110-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-sqladmin@v1-rev20211206-1.32.1
+- pkg:maven/com.google.apis/google-api-services-sqladmin@v1-rev20211206-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-sqladmin@v1beta1-rev1-1.13.2-beta
 - pkg:maven/com.google.apis/google-api-services-sqladmin@v1beta1-rev1-1.13.2-beta?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-sqladmin@v1beta1-rev1-1.14.2-beta
@@ -1262,6 +1266,10 @@
 - pkg:maven/com.google.apis/google-api-services-sqladmin@v1beta4-rev20211017-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-sqladmin@v1beta4-rev20211023-1.32.1
 - pkg:maven/com.google.apis/google-api-services-sqladmin@v1beta4-rev20211023-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-sqladmin@v1beta4-rev20211110-1.32.1
+- pkg:maven/com.google.apis/google-api-services-sqladmin@v1beta4-rev20211110-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-sqladmin@v1beta4-rev20211206-1.32.1
+- pkg:maven/com.google.apis/google-api-services-sqladmin@v1beta4-rev20211206-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-sqladmin@v1beta4-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-sqladmin@v1beta4-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-sqladmin@v1beta4-rev21-1.19.1

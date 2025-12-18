@@ -180,6 +180,8 @@
 - pkg:maven/org.jboss.resteasy/resteasy-cache-core@3.15.1.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy/resteasy-cache-core@3.15.2.Final
 - pkg:maven/org.jboss.resteasy/resteasy-cache-core@3.15.2.Final?classifier=sources
+- pkg:maven/org.jboss.resteasy/resteasy-cache-core@3.15.3.Final
+- pkg:maven/org.jboss.resteasy/resteasy-cache-core@3.15.3.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy/resteasy-cache-core@3.5.0.CR1
 - pkg:maven/org.jboss.resteasy/resteasy-cache-core@3.5.0.CR1?classifier=sources
 - pkg:maven/org.jboss.resteasy/resteasy-cache-core@3.5.0.CR2
@@ -350,5 +352,7 @@
 - pkg:maven/org.jboss.resteasy/resteasy-cache-core@4.7.2.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy/resteasy-cache-core@4.7.3.Final
 - pkg:maven/org.jboss.resteasy/resteasy-cache-core@4.7.3.Final?classifier=sources
+- pkg:maven/org.jboss.resteasy/resteasy-cache-core@4.7.4.Final
+- pkg:maven/org.jboss.resteasy/resteasy-cache-core@4.7.4.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy/resteasy-cache-core@5.0.0.Alpha1
 - pkg:maven/org.jboss.resteasy/resteasy-cache-core@5.0.0.Alpha1?classifier=sources

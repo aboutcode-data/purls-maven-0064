@@ -2,3 +2,7 @@
 - pkg:maven/com.lightbend.akka/paradox-theme-akka@0.39-M3
 - pkg:maven/com.lightbend.akka/paradox-theme-akka@0.39-M3?classifier=sources
 - pkg:maven/com.lightbend.akka/paradox-theme-akka@0.39?classifier=sources
+- pkg:maven/com.lightbend.akka/paradox-theme-akka@0.40
+- pkg:maven/com.lightbend.akka/paradox-theme-akka@0.40?classifier=sources
+- pkg:maven/com.lightbend.akka/paradox-theme-akka@0.41
+- pkg:maven/com.lightbend.akka/paradox-theme-akka@0.41?classifier=sources

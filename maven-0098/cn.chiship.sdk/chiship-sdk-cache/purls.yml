@@ -1,0 +1,4 @@
+- pkg:maven/cn.chiship.sdk/chiship-sdk-cache@1.1.4
+- pkg:maven/cn.chiship.sdk/chiship-sdk-cache@1.1.4?classifier=sources
+- pkg:maven/cn.chiship.sdk/chiship-sdk-cache@1.1.5
+- pkg:maven/cn.chiship.sdk/chiship-sdk-cache@1.1.5?classifier=sources

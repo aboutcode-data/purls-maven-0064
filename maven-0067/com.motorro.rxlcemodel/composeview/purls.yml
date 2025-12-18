@@ -1,2 +1,3 @@
 - pkg:maven/com.motorro.rxlcemodel/composeview@3.3.0?classifier=sources
 - pkg:maven/com.motorro.rxlcemodel/composeview@3.4.0?classifier=sources
+- pkg:maven/com.motorro.rxlcemodel/composeview@3.4.1?classifier=sources

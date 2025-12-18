@@ -1,0 +1,2 @@
+- pkg:maven/io.personium/personium-client-java@1.4.15
+- pkg:maven/io.personium/personium-client-java@1.4.15?classifier=sources

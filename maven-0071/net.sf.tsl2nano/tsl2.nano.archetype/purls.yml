@@ -9,3 +9,4 @@
 - pkg:maven/net.sf.tsl2nano/tsl2.nano.archetype@2.4.6?classifier=sources
 - pkg:maven/net.sf.tsl2nano/tsl2.nano.archetype@2.4.7?classifier=sources
 - pkg:maven/net.sf.tsl2nano/tsl2.nano.archetype@2.4.8?classifier=sources
+- pkg:maven/net.sf.tsl2nano/tsl2.nano.archetype@2.4.9?classifier=sources

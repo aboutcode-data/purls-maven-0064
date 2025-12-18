@@ -1,0 +1,2 @@
+- pkg:maven/jakarta.batch/jakarta.batch.arquillian.extension@2.1.0-M1
+- pkg:maven/jakarta.batch/jakarta.batch.arquillian.extension@2.1.0-M1?classifier=sources
