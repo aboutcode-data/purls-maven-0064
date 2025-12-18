@@ -7,3 +7,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-amazon@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-amazon@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-amazon@RELEASE122?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-libs-amazon@RELEASE123?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.bnd.templates.project@3.4.0
+- pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.bnd.templates.project@3.4.0?classifier=sources
+- pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.bnd.templates.project@4.0.0
+- pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.bnd.templates.project@4.0.0?classifier=sources

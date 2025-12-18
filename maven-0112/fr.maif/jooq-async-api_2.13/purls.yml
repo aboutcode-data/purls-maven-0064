@@ -1,0 +1,2 @@
+- pkg:maven/fr.maif/jooq-async-api_2.13@1.0.1-BETA2
+- pkg:maven/fr.maif/jooq-async-api_2.13@1.0.1-BETA2?classifier=sources

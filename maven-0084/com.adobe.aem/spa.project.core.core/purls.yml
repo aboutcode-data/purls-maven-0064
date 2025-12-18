@@ -6,3 +6,10 @@
 - pkg:maven/com.adobe.aem/spa.project.core.core@1.0.6?classifier=sources
 - pkg:maven/com.adobe.aem/spa.project.core.core@1.1.0
 - pkg:maven/com.adobe.aem/spa.project.core.core@1.1.0?classifier=sources
+- pkg:maven/com.adobe.aem/spa.project.core.core@1.2.0
+- pkg:maven/com.adobe.aem/spa.project.core.core@1.2.0?classifier=sources
+- pkg:maven/com.adobe.aem/spa.project.core.core@1.2.2
+- pkg:maven/com.adobe.aem/spa.project.core.core@1.2.2?classifier=sources
+- pkg:maven/com.adobe.aem/spa.project.core.core@1.2.3-CQ-4311032-B001
+- pkg:maven/com.adobe.aem/spa.project.core.core@1.2.3-CQ-4311032-B001?classifier=sources
+- pkg:maven/com.adobe.aem/spa.project.core.core@1.2.6?classifier=sources

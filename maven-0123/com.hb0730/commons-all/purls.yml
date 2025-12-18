@@ -10,3 +10,7 @@
 - pkg:maven/com.hb0730/commons-all@2.0.2-RELEASE?classifier=sources
 - pkg:maven/com.hb0730/commons-all@2.0.3-RELEASE
 - pkg:maven/com.hb0730/commons-all@2.0.3-RELEASE?classifier=sources
+- pkg:maven/com.hb0730/commons-all@2.0.4-RELEASE
+- pkg:maven/com.hb0730/commons-all@2.0.4-RELEASE?classifier=sources
+- pkg:maven/com.hb0730/commons-all@2.1.0-RELEASE
+- pkg:maven/com.hb0730/commons-all@2.1.0-RELEASE?classifier=sources

@@ -594,6 +594,8 @@
 - pkg:maven/com.google.apis/google-api-services-jobs@v3-rev20200929-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-jobs@v3-rev20201124-1.31.0
 - pkg:maven/com.google.apis/google-api-services-jobs@v3-rev20201124-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-jobs@v3-rev20210211-1.31.0
+- pkg:maven/com.google.apis/google-api-services-jobs@v3-rev20210211-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-jobs@v3-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-jobs@v3-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-jobs@v3-rev21-1.22.0
@@ -1030,6 +1032,8 @@
 - pkg:maven/com.google.apis/google-api-services-jobs@v3p1beta1-rev20200929-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-jobs@v3p1beta1-rev20201124-1.31.0
 - pkg:maven/com.google.apis/google-api-services-jobs@v3p1beta1-rev20201124-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-jobs@v3p1beta1-rev20210217-1.31.0
+- pkg:maven/com.google.apis/google-api-services-jobs@v3p1beta1-rev20210217-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-jobs@v3p1beta1-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-jobs@v3p1beta1-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-jobs@v3p1beta1-rev21-1.22.0
@@ -1248,3 +1252,7 @@
 - pkg:maven/com.google.apis/google-api-services-jobs@v3p1beta1-rev78-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-jobs@v4-rev20201124-1.31.0
 - pkg:maven/com.google.apis/google-api-services-jobs@v4-rev20201124-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-jobs@v4-rev20210217-1.31.0
+- pkg:maven/com.google.apis/google-api-services-jobs@v4-rev20210217-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-jobs@v4-rev20210309-1.31.0
+- pkg:maven/com.google.apis/google-api-services-jobs@v4-rev20210309-1.31.0?classifier=sources

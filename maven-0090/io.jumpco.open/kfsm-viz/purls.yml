@@ -8,3 +8,5 @@
 - pkg:maven/io.jumpco.open/kfsm-viz@1.0.5?classifier=sources
 - pkg:maven/io.jumpco.open/kfsm-viz@1.0.6
 - pkg:maven/io.jumpco.open/kfsm-viz@1.0.6?classifier=sources
+- pkg:maven/io.jumpco.open/kfsm-viz@1.4.0
+- pkg:maven/io.jumpco.open/kfsm-viz@1.4.0?classifier=sources

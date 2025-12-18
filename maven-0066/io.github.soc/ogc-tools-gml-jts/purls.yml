@@ -6,3 +6,5 @@
 - pkg:maven/io.github.soc/ogc-tools-gml-jts@1.1.90?classifier=sources
 - pkg:maven/io.github.soc/ogc-tools-gml-jts@1.2.0
 - pkg:maven/io.github.soc/ogc-tools-gml-jts@1.2.0?classifier=sources
+- pkg:maven/io.github.soc/ogc-tools-gml-jts@2.0.0
+- pkg:maven/io.github.soc/ogc-tools-gml-jts@2.0.0?classifier=sources

@@ -10,3 +10,11 @@
 - pkg:maven/com.bybutter.sisyphus/sisyphus-jackson-protobuf@0.0.18?classifier=sources
 - pkg:maven/com.bybutter.sisyphus/sisyphus-jackson-protobuf@0.0.19?classifier=sources
 - pkg:maven/com.bybutter.sisyphus/sisyphus-jackson-protobuf@0.0.20?classifier=sources
+- pkg:maven/com.bybutter.sisyphus/sisyphus-jackson-protobuf@0.0.21?classifier=sources
+- pkg:maven/com.bybutter.sisyphus/sisyphus-jackson-protobuf@0.0.22?classifier=sources
+- pkg:maven/com.bybutter.sisyphus/sisyphus-jackson-protobuf@0.0.23?classifier=sources
+- pkg:maven/com.bybutter.sisyphus/sisyphus-jackson-protobuf@0.0.24?classifier=sources
+- pkg:maven/com.bybutter.sisyphus/sisyphus-jackson-protobuf@1.0.0?classifier=sources
+- pkg:maven/com.bybutter.sisyphus/sisyphus-jackson-protobuf@1.0.1?classifier=sources
+- pkg:maven/com.bybutter.sisyphus/sisyphus-jackson-protobuf@1.0.2?classifier=sources
+- pkg:maven/com.bybutter.sisyphus/sisyphus-jackson-protobuf@1.1.0?classifier=sources

@@ -8,4 +8,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-spi-actions@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-spi-actions@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-spi-actions@RELEASE122?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-spi-actions@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-spi-actions@RELEASE90?classifier=sources

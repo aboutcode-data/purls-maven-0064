@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/asmcrypto.js@0.22.0
 - pkg:maven/org.webjars.npm/asmcrypto.js@0.22.0?classifier=sources
+- pkg:maven/org.webjars.npm/asmcrypto.js@2.3.2
+- pkg:maven/org.webjars.npm/asmcrypto.js@2.3.2?classifier=sources

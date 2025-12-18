@@ -30,3 +30,7 @@
 - pkg:maven/com.imsweb/validation-edits-naaccr-translated@007-01?classifier=sources
 - pkg:maven/com.imsweb/validation-edits-naaccr-translated@008-01
 - pkg:maven/com.imsweb/validation-edits-naaccr-translated@008-01?classifier=sources
+- pkg:maven/com.imsweb/validation-edits-naaccr-translated@008-02
+- pkg:maven/com.imsweb/validation-edits-naaccr-translated@008-02?classifier=sources
+- pkg:maven/com.imsweb/validation-edits-naaccr-translated@009-01
+- pkg:maven/com.imsweb/validation-edits-naaccr-translated@009-01?classifier=sources

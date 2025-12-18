@@ -1,0 +1,12 @@
+- pkg:maven/io.github.arainko/bencode_2.13@0.0.5
+- pkg:maven/io.github.arainko/bencode_2.13@0.0.5?classifier=sources
+- pkg:maven/io.github.arainko/bencode_2.13@0.0.6
+- pkg:maven/io.github.arainko/bencode_2.13@0.0.6%2B1-c529692c
+- pkg:maven/io.github.arainko/bencode_2.13@0.0.6%2B1-c529692c?classifier=sources
+- pkg:maven/io.github.arainko/bencode_2.13@0.0.6?classifier=sources
+- pkg:maven/io.github.arainko/bencode_2.13@0.0.7%2B3-64e44a23
+- pkg:maven/io.github.arainko/bencode_2.13@0.0.7%2B3-64e44a23?classifier=sources
+- pkg:maven/io.github.arainko/bencode_2.13@0.0.7%2B3-800fb7cd
+- pkg:maven/io.github.arainko/bencode_2.13@0.0.7%2B3-800fb7cd?classifier=sources
+- pkg:maven/io.github.arainko/bencode_2.13@31-78a78864
+- pkg:maven/io.github.arainko/bencode_2.13@31-78a78864?classifier=sources

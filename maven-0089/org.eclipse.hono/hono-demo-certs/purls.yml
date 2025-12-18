@@ -50,4 +50,8 @@
 - pkg:maven/org.eclipse.hono/hono-demo-certs@1.4.0
 - pkg:maven/org.eclipse.hono/hono-demo-certs@1.4.3
 - pkg:maven/org.eclipse.hono/hono-demo-certs@1.4.4
+- pkg:maven/org.eclipse.hono/hono-demo-certs@1.4.5
 - pkg:maven/org.eclipse.hono/hono-demo-certs@1.5.0
+- pkg:maven/org.eclipse.hono/hono-demo-certs@1.5.1
+- pkg:maven/org.eclipse.hono/hono-demo-certs@1.5.2
+- pkg:maven/org.eclipse.hono/hono-demo-certs@1.6.0

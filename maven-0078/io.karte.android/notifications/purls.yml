@@ -1,0 +1,14 @@
+- pkg:maven/io.karte.android/notifications@2.0.0?classifier=sources
+- pkg:maven/io.karte.android/notifications@2.0.0?type=aar
+- pkg:maven/io.karte.android/notifications@2.1.0?classifier=sources
+- pkg:maven/io.karte.android/notifications@2.1.0?type=aar
+- pkg:maven/io.karte.android/notifications@2.2.0?classifier=sources
+- pkg:maven/io.karte.android/notifications@2.2.0?type=aar
+- pkg:maven/io.karte.android/notifications@2.3.0?classifier=sources
+- pkg:maven/io.karte.android/notifications@2.3.0?type=aar
+- pkg:maven/io.karte.android/notifications@2.4.0?classifier=sources
+- pkg:maven/io.karte.android/notifications@2.4.0?type=aar
+- pkg:maven/io.karte.android/notifications@2.5.0?classifier=sources
+- pkg:maven/io.karte.android/notifications@2.5.0?type=aar
+- pkg:maven/io.karte.android/notifications@2.6.0?classifier=sources
+- pkg:maven/io.karte.android/notifications@2.6.0?type=aar

@@ -8,4 +8,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-insane@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-insane@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-insane@RELEASE122?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-insane@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-insane@RELEASE90?classifier=sources

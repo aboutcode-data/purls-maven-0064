@@ -8,3 +8,5 @@
 - pkg:maven/org.eclipse.hawkbit/hawkbit-test-report@0.3.0M5?classifier=sources
 - pkg:maven/org.eclipse.hawkbit/hawkbit-test-report@0.3.0M6
 - pkg:maven/org.eclipse.hawkbit/hawkbit-test-report@0.3.0M6?classifier=sources
+- pkg:maven/org.eclipse.hawkbit/hawkbit-test-report@0.3.0M7
+- pkg:maven/org.eclipse.hawkbit/hawkbit-test-report@0.3.0M7?classifier=sources

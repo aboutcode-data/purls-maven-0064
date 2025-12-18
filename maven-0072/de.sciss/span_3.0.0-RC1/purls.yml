@@ -1,0 +1,4 @@
+- pkg:maven/de.sciss/span_3.0.0-RC1@2.0.0
+- pkg:maven/de.sciss/span_3.0.0-RC1@2.0.0?classifier=sources
+- pkg:maven/de.sciss/span_3.0.0-RC1@2.0.2
+- pkg:maven/de.sciss/span_3.0.0-RC1@2.0.2?classifier=sources

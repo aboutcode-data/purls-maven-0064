@@ -36,3 +36,7 @@
 - pkg:maven/com.codingame.gameengine/module-viewport@3.8.3?classifier=sources
 - pkg:maven/com.codingame.gameengine/module-viewport@3.9.0
 - pkg:maven/com.codingame.gameengine/module-viewport@3.9.0?classifier=sources
+- pkg:maven/com.codingame.gameengine/module-viewport@4.0.0
+- pkg:maven/com.codingame.gameengine/module-viewport@4.0.0?classifier=sources
+- pkg:maven/com.codingame.gameengine/module-viewport@4.0.1
+- pkg:maven/com.codingame.gameengine/module-viewport@4.0.1?classifier=sources

@@ -411,6 +411,8 @@
 - pkg:maven/com.spotify/styx-client@2.1.116?classifier=sources
 - pkg:maven/com.spotify/styx-client@2.1.117
 - pkg:maven/com.spotify/styx-client@2.1.117?classifier=sources
+- pkg:maven/com.spotify/styx-client@2.1.118
+- pkg:maven/com.spotify/styx-client@2.1.118?classifier=sources
 - pkg:maven/com.spotify/styx-client@2.1.11?classifier=sources
 - pkg:maven/com.spotify/styx-client@2.1.12
 - pkg:maven/com.spotify/styx-client@2.1.12?classifier=sources

@@ -34,6 +34,8 @@
 - pkg:maven/org.webjars.npm/material__notched-outline@1.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__notched-outline@1.1.1
 - pkg:maven/org.webjars.npm/material__notched-outline@1.1.1?classifier=sources
+- pkg:maven/org.webjars.npm/material__notched-outline@10.0.0
+- pkg:maven/org.webjars.npm/material__notched-outline@10.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__notched-outline@3.2.0
 - pkg:maven/org.webjars.npm/material__notched-outline@3.2.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__notched-outline@4.0.0
@@ -46,3 +48,5 @@
 - pkg:maven/org.webjars.npm/material__notched-outline@7.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__notched-outline@8.0.0
 - pkg:maven/org.webjars.npm/material__notched-outline@8.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/material__notched-outline@9.0.0
+- pkg:maven/org.webjars.npm/material__notched-outline@9.0.0?classifier=sources

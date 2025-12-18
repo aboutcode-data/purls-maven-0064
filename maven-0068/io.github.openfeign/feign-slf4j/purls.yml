@@ -42,6 +42,8 @@
 - pkg:maven/io.github.openfeign/feign-slf4j@10.9?classifier=sources
 - pkg:maven/io.github.openfeign/feign-slf4j@11.0
 - pkg:maven/io.github.openfeign/feign-slf4j@11.0?classifier=sources
+- pkg:maven/io.github.openfeign/feign-slf4j@11.1
+- pkg:maven/io.github.openfeign/feign-slf4j@11.1?classifier=sources
 - pkg:maven/io.github.openfeign/feign-slf4j@9.0.0
 - pkg:maven/io.github.openfeign/feign-slf4j@9.0.0?classifier=sources
 - pkg:maven/io.github.openfeign/feign-slf4j@9.1.0

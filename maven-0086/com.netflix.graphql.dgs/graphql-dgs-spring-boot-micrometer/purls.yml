@@ -1,0 +1,1 @@
+- pkg:maven/com.netflix.graphql.dgs/graphql-dgs-spring-boot-micrometer@3.8.0?classifier=sources

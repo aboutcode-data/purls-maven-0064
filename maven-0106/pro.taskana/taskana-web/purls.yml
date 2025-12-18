@@ -34,3 +34,5 @@
 - pkg:maven/pro.taskana/taskana-web@4.1.0
 - pkg:maven/pro.taskana/taskana-web@4.2.0
 - pkg:maven/pro.taskana/taskana-web@4.3.0
+- pkg:maven/pro.taskana/taskana-web@4.4.0
+- pkg:maven/pro.taskana/taskana-web@4.5.0

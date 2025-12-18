@@ -34,6 +34,7 @@
 - pkg:maven/com.sitewhere/sitewhere-solr@1.7.0?classifier=sources
 - pkg:maven/com.sitewhere/sitewhere-solr@1.8.0
 - pkg:maven/com.sitewhere/sitewhere-solr@1.8.0?classifier=sources
+- pkg:maven/com.sitewhere/sitewhere-solr@3.0.0
 - pkg:maven/com.sitewhere/sitewhere-solr@3.0.0.alpha1
 - pkg:maven/com.sitewhere/sitewhere-solr@3.0.0.alpha10
 - pkg:maven/com.sitewhere/sitewhere-solr@3.0.0.alpha10?classifier=sources
@@ -128,3 +129,4 @@
 - pkg:maven/com.sitewhere/sitewhere-solr@3.0.0.beta8?classifier=sources
 - pkg:maven/com.sitewhere/sitewhere-solr@3.0.0.beta9
 - pkg:maven/com.sitewhere/sitewhere-solr@3.0.0.beta9?classifier=sources
+- pkg:maven/com.sitewhere/sitewhere-solr@3.0.0?classifier=sources

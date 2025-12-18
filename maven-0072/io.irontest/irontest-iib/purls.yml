@@ -24,6 +24,8 @@
 - pkg:maven/io.irontest/irontest-iib@0.14.0?classifier=sources
 - pkg:maven/io.irontest/irontest-iib@0.15.0
 - pkg:maven/io.irontest/irontest-iib@0.15.0?classifier=sources
+- pkg:maven/io.irontest/irontest-iib@0.16.0
+- pkg:maven/io.irontest/irontest-iib@0.16.0?classifier=sources
 - pkg:maven/io.irontest/irontest-iib@0.8.2
 - pkg:maven/io.irontest/irontest-iib@0.8.2?classifier=sources
 - pkg:maven/io.irontest/irontest-iib@0.9.0

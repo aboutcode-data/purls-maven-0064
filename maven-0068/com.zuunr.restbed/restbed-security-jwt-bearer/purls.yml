@@ -6,3 +6,5 @@
 - pkg:maven/com.zuunr.restbed/restbed-security-jwt-bearer@1.0.0.M3-90bfe82?classifier=sources
 - pkg:maven/com.zuunr.restbed/restbed-security-jwt-bearer@1.0.0.M4-21954fe
 - pkg:maven/com.zuunr.restbed/restbed-security-jwt-bearer@1.0.0.M4-21954fe?classifier=sources
+- pkg:maven/com.zuunr.restbed/restbed-security-jwt-bearer@1.0.0.M5-b86185d
+- pkg:maven/com.zuunr.restbed/restbed-security-jwt-bearer@1.0.0.M5-b86185d?classifier=sources

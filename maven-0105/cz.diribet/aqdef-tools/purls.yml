@@ -60,3 +60,5 @@
 - pkg:maven/cz.diribet/aqdef-tools@2.1.3?classifier=sources
 - pkg:maven/cz.diribet/aqdef-tools@2.1.4
 - pkg:maven/cz.diribet/aqdef-tools@2.1.4?classifier=sources
+- pkg:maven/cz.diribet/aqdef-tools@2.1.5
+- pkg:maven/cz.diribet/aqdef-tools@2.1.5?classifier=sources

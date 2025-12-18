@@ -1,0 +1,4 @@
+- pkg:maven/io.hyphenate/hyphenate-chat@3.8.0-snapshot?classifier=sources
+- pkg:maven/io.hyphenate/hyphenate-chat@3.8.0-snapshot?type=aar
+- pkg:maven/io.hyphenate/hyphenate-chat@3.8.0?classifier=sources
+- pkg:maven/io.hyphenate/hyphenate-chat@3.8.0?type=aar

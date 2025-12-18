@@ -2,3 +2,5 @@
 - pkg:maven/io.allune/docker-server-client@2.5.2
 - pkg:maven/io.allune/docker-server-client@2.6.0
 - pkg:maven/io.allune/docker-server-client@2.7.1
+- pkg:maven/io.allune/docker-server-client@2.8.0
+- pkg:maven/io.allune/docker-server-client@2.8.1

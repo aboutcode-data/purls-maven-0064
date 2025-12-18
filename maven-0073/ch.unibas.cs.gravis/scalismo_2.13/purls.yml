@@ -1,0 +1,4 @@
+- pkg:maven/ch.unibas.cs.gravis/scalismo_2.13@0.90.0
+- pkg:maven/ch.unibas.cs.gravis/scalismo_2.13@0.90.0?classifier=sources
+- pkg:maven/ch.unibas.cs.gravis/scalismo_2.13@0.90.1
+- pkg:maven/ch.unibas.cs.gravis/scalismo_2.13@0.90.1?classifier=sources

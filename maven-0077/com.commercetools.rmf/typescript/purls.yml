@@ -1,0 +1,4 @@
+- pkg:maven/com.commercetools.rmf/typescript@1.0.0-20210309094853?classifier=sources
+- pkg:maven/com.commercetools.rmf/typescript@1.0.0-20210309100320?classifier=sources
+- pkg:maven/com.commercetools.rmf/typescript@1.0.0-20210310125139?classifier=sources
+- pkg:maven/com.commercetools.rmf/typescript@1.0.0-20210312090708?classifier=sources

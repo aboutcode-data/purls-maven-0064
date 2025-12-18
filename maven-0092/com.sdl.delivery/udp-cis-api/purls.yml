@@ -14,9 +14,17 @@
 - pkg:maven/com.sdl.delivery/udp-cis-api@11.0.0-1068?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-cis-api@11.0.0-1071
 - pkg:maven/com.sdl.delivery/udp-cis-api@11.0.0-1071?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-cis-api@11.0.0-1091
+- pkg:maven/com.sdl.delivery/udp-cis-api@11.0.0-1091?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-cis-api@11.0.0-1104
+- pkg:maven/com.sdl.delivery/udp-cis-api@11.0.0-1104?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-cis-api@11.0.1-1020
+- pkg:maven/com.sdl.delivery/udp-cis-api@11.0.1-1020?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-cis-api@11.1.0-1056
 - pkg:maven/com.sdl.delivery/udp-cis-api@11.1.0-1056?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-cis-api@11.1.0-1103
 - pkg:maven/com.sdl.delivery/udp-cis-api@11.1.0-1103?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-cis-api@11.1.0-1114
+- pkg:maven/com.sdl.delivery/udp-cis-api@11.1.0-1114?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-cis-api@11.5.0-1069
 - pkg:maven/com.sdl.delivery/udp-cis-api@11.5.0-1069?classifier=sources

@@ -4,5 +4,7 @@
 - pkg:maven/org.webjars.npm/subscriptions-transport-ws@0.9.15?classifier=sources
 - pkg:maven/org.webjars.npm/subscriptions-transport-ws@0.9.16
 - pkg:maven/org.webjars.npm/subscriptions-transport-ws@0.9.16?classifier=sources
+- pkg:maven/org.webjars.npm/subscriptions-transport-ws@0.9.18
+- pkg:maven/org.webjars.npm/subscriptions-transport-ws@0.9.18?classifier=sources
 - pkg:maven/org.webjars.npm/subscriptions-transport-ws@0.9.5
 - pkg:maven/org.webjars.npm/subscriptions-transport-ws@0.9.5?classifier=sources

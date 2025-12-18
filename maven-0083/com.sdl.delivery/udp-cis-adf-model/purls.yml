@@ -14,9 +14,17 @@
 - pkg:maven/com.sdl.delivery/udp-cis-adf-model@11.0.0-1077?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-cis-adf-model@11.0.0-1080
 - pkg:maven/com.sdl.delivery/udp-cis-adf-model@11.0.0-1080?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-cis-adf-model@11.0.0-1101
+- pkg:maven/com.sdl.delivery/udp-cis-adf-model@11.0.0-1101?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-cis-adf-model@11.0.0-1115
+- pkg:maven/com.sdl.delivery/udp-cis-adf-model@11.0.0-1115?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-cis-adf-model@11.0.1-1017
+- pkg:maven/com.sdl.delivery/udp-cis-adf-model@11.0.1-1017?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-cis-adf-model@11.1.0-1056
 - pkg:maven/com.sdl.delivery/udp-cis-adf-model@11.1.0-1056?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-cis-adf-model@11.1.0-1104
 - pkg:maven/com.sdl.delivery/udp-cis-adf-model@11.1.0-1104?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-cis-adf-model@11.1.0-1119
+- pkg:maven/com.sdl.delivery/udp-cis-adf-model@11.1.0-1119?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-cis-adf-model@11.5.0-1080
 - pkg:maven/com.sdl.delivery/udp-cis-adf-model@11.5.0-1080?classifier=sources

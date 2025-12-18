@@ -1,0 +1,8 @@
+- pkg:maven/io.github.kitlangton/zio-magic-macros_2.12@0.1.10
+- pkg:maven/io.github.kitlangton/zio-magic-macros_2.12@0.1.10?classifier=sources
+- pkg:maven/io.github.kitlangton/zio-magic-macros_2.12@0.1.12
+- pkg:maven/io.github.kitlangton/zio-magic-macros_2.12@0.1.12?classifier=sources
+- pkg:maven/io.github.kitlangton/zio-magic-macros_2.12@0.1.8
+- pkg:maven/io.github.kitlangton/zio-magic-macros_2.12@0.1.8?classifier=sources
+- pkg:maven/io.github.kitlangton/zio-magic-macros_2.12@0.1.9
+- pkg:maven/io.github.kitlangton/zio-magic-macros_2.12@0.1.9?classifier=sources

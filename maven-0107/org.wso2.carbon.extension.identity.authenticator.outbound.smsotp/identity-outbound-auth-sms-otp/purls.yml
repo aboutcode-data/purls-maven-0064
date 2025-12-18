@@ -4,6 +4,7 @@
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.smsotp/identity-outbound-auth-sms-otp@2.0.13?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.smsotp/identity-outbound-auth-sms-otp@2.0.14?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.smsotp/identity-outbound-auth-sms-otp@2.0.15?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.smsotp/identity-outbound-auth-sms-otp@2.0.16.10?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.smsotp/identity-outbound-auth-sms-otp@2.0.16.1?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.smsotp/identity-outbound-auth-sms-otp@2.0.16.4?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.smsotp/identity-outbound-auth-sms-otp@2.0.16.5?classifier=source-release&type=zip
@@ -34,6 +35,7 @@
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.smsotp/identity-outbound-auth-sms-otp@3.0.10?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.smsotp/identity-outbound-auth-sms-otp@3.0.11?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.smsotp/identity-outbound-auth-sms-otp@3.0.12?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.smsotp/identity-outbound-auth-sms-otp@3.0.13?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.smsotp/identity-outbound-auth-sms-otp@3.0.1?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.smsotp/identity-outbound-auth-sms-otp@3.0.2?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.smsotp/identity-outbound-auth-sms-otp@3.0.3?classifier=source-release&type=zip

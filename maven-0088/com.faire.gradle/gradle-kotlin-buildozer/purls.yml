@@ -1,0 +1,2 @@
+- pkg:maven/com.faire.gradle/gradle-kotlin-buildozer@1.0.0?classifier=sources
+- pkg:maven/com.faire.gradle/gradle-kotlin-buildozer@1.0.1?classifier=sources

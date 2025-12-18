@@ -1,0 +1,2 @@
+- pkg:maven/app.msign/qrsign-api@0.7
+- pkg:maven/app.msign/qrsign-api@0.7?classifier=sources

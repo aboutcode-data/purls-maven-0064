@@ -1,0 +1,6 @@
+- pkg:maven/org.wso2.am.analytics.publisher/org.wso2.am.analytics.publisher.client.feature@0.1.2?classifier=sources
+- pkg:maven/org.wso2.am.analytics.publisher/org.wso2.am.analytics.publisher.client.feature@0.2.0?classifier=sources
+- pkg:maven/org.wso2.am.analytics.publisher/org.wso2.am.analytics.publisher.client.feature@0.3.0?classifier=sources
+- pkg:maven/org.wso2.am.analytics.publisher/org.wso2.am.analytics.publisher.client.feature@0.4.0?classifier=sources
+- pkg:maven/org.wso2.am.analytics.publisher/org.wso2.am.analytics.publisher.client.feature@1.0.0-ALPHA2?classifier=sources
+- pkg:maven/org.wso2.am.analytics.publisher/org.wso2.am.analytics.publisher.client.feature@1.0.0-ALPHA?classifier=sources

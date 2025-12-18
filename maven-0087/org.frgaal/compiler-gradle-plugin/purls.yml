@@ -1,0 +1,1 @@
+- pkg:maven/org.frgaal/compiler-gradle-plugin@15.0.0?classifier=sources

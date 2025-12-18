@@ -16,6 +16,8 @@
 - pkg:maven/com.amazon.opendistroforelasticsearch.client/opendistro-sql-jdbc@1.11.0.0?classifier=sources
 - pkg:maven/com.amazon.opendistroforelasticsearch.client/opendistro-sql-jdbc@1.12.0.0
 - pkg:maven/com.amazon.opendistroforelasticsearch.client/opendistro-sql-jdbc@1.12.0.0?classifier=sources
+- pkg:maven/com.amazon.opendistroforelasticsearch.client/opendistro-sql-jdbc@1.13.0.0
+- pkg:maven/com.amazon.opendistroforelasticsearch.client/opendistro-sql-jdbc@1.13.0.0?classifier=sources
 - pkg:maven/com.amazon.opendistroforelasticsearch.client/opendistro-sql-jdbc@1.2.0.0
 - pkg:maven/com.amazon.opendistroforelasticsearch.client/opendistro-sql-jdbc@1.2.0.0?classifier=sources
 - pkg:maven/com.amazon.opendistroforelasticsearch.client/opendistro-sql-jdbc@1.2.1.0

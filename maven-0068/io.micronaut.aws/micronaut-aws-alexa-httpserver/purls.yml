@@ -16,3 +16,5 @@
 - pkg:maven/io.micronaut.aws/micronaut-aws-alexa-httpserver@2.2.3?classifier=sources
 - pkg:maven/io.micronaut.aws/micronaut-aws-alexa-httpserver@2.2.4?classifier=sources
 - pkg:maven/io.micronaut.aws/micronaut-aws-alexa-httpserver@2.2.5?classifier=sources
+- pkg:maven/io.micronaut.aws/micronaut-aws-alexa-httpserver@2.3.0?classifier=sources
+- pkg:maven/io.micronaut.aws/micronaut-aws-alexa-httpserver@2.4.0?classifier=sources

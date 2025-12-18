@@ -10,3 +10,9 @@
 - pkg:maven/com.qaprosoft/carina-cucumber@1.2-beta1?classifier=sources
 - pkg:maven/com.qaprosoft/carina-cucumber@6.4.38
 - pkg:maven/com.qaprosoft/carina-cucumber@6.4.38?classifier=sources
+- pkg:maven/com.qaprosoft/carina-cucumber@7.0.0
+- pkg:maven/com.qaprosoft/carina-cucumber@7.0.0?classifier=sources
+- pkg:maven/com.qaprosoft/carina-cucumber@7.0.1
+- pkg:maven/com.qaprosoft/carina-cucumber@7.0.1?classifier=sources
+- pkg:maven/com.qaprosoft/carina-cucumber@7.0.2
+- pkg:maven/com.qaprosoft/carina-cucumber@7.0.2?classifier=sources

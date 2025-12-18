@@ -8,4 +8,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-properties-syntax@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-properties-syntax@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-properties-syntax@RELEASE122?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-properties-syntax@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-properties-syntax@RELEASE90?classifier=sources

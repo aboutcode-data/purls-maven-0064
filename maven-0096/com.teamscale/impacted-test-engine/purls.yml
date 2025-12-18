@@ -3,3 +3,4 @@
 - pkg:maven/com.teamscale/impacted-test-engine@18.0.0?classifier=sources
 - pkg:maven/com.teamscale/impacted-test-engine@19.0.0?classifier=sources
 - pkg:maven/com.teamscale/impacted-test-engine@20.0.0?classifier=sources
+- pkg:maven/com.teamscale/impacted-test-engine@21.0.0?classifier=sources

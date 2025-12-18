@@ -40,6 +40,8 @@
 - pkg:maven/love.forte.simple-robot-component/component-mirai@1.10.0-1.16-BETA.4
 - pkg:maven/love.forte.simple-robot-component/component-mirai@1.10.0-1.16-BETA.4?classifier=sources
 - pkg:maven/love.forte.simple-robot-component/component-mirai@1.10.0-1.16?classifier=sources
+- pkg:maven/love.forte.simple-robot-component/component-mirai@1.11.0-1.17-Final
+- pkg:maven/love.forte.simple-robot-component/component-mirai@1.11.0-1.17-Final?classifier=sources
 - pkg:maven/love.forte.simple-robot-component/component-mirai@1.2.0-1.16
 - pkg:maven/love.forte.simple-robot-component/component-mirai@1.2.0-1.16?classifier=sources
 - pkg:maven/love.forte.simple-robot-component/component-mirai@1.2.1-1.16

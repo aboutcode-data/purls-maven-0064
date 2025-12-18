@@ -106,6 +106,8 @@
 - pkg:maven/org.jboss.weld.probe/weld-probe-core@3.1.5.Final?classifier=sources
 - pkg:maven/org.jboss.weld.probe/weld-probe-core@3.1.5.SP1
 - pkg:maven/org.jboss.weld.probe/weld-probe-core@3.1.5.SP1?classifier=sources
+- pkg:maven/org.jboss.weld.probe/weld-probe-core@3.1.6.Final
+- pkg:maven/org.jboss.weld.probe/weld-probe-core@3.1.6.Final?classifier=sources
 - pkg:maven/org.jboss.weld.probe/weld-probe-core@4.0.0.Alpha1
 - pkg:maven/org.jboss.weld.probe/weld-probe-core@4.0.0.Alpha1?classifier=sources
 - pkg:maven/org.jboss.weld.probe/weld-probe-core@4.0.0.Alpha2

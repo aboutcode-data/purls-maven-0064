@@ -1,0 +1,2 @@
+- pkg:maven/com.antgroup.antchain.openapi/openapi-cas@1.3.17
+- pkg:maven/com.antgroup.antchain.openapi/openapi-cas@1.3.17?classifier=sources

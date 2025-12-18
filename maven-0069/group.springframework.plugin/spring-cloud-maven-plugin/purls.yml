@@ -1,0 +1,2 @@
+- pkg:maven/group.springframework.plugin/spring-cloud-maven-plugin@1.0.0
+- pkg:maven/group.springframework.plugin/spring-cloud-maven-plugin@1.0.0?classifier=sources

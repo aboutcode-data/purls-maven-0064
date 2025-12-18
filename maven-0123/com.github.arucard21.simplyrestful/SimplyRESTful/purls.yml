@@ -17,6 +17,7 @@
 - pkg:maven/com.github.arucard21.simplyrestful/SimplyRESTful@0.13.1?classifier=sources
 - pkg:maven/com.github.arucard21.simplyrestful/SimplyRESTful@0.13.2?classifier=sources
 - pkg:maven/com.github.arucard21.simplyrestful/SimplyRESTful@0.13.3?classifier=sources
+- pkg:maven/com.github.arucard21.simplyrestful/SimplyRESTful@0.14.0?classifier=sources
 - pkg:maven/com.github.arucard21.simplyrestful/SimplyRESTful@0.7
 - pkg:maven/com.github.arucard21.simplyrestful/SimplyRESTful@0.7.1
 - pkg:maven/com.github.arucard21.simplyrestful/SimplyRESTful@0.7.1?classifier=sources

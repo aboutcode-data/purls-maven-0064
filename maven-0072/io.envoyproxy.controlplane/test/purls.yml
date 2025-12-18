@@ -14,6 +14,7 @@
 - pkg:maven/io.envoyproxy.controlplane/test@0.1.23
 - pkg:maven/io.envoyproxy.controlplane/test@0.1.24
 - pkg:maven/io.envoyproxy.controlplane/test@0.1.27
+- pkg:maven/io.envoyproxy.controlplane/test@0.1.28
 - pkg:maven/io.envoyproxy.controlplane/test@0.1.3
 - pkg:maven/io.envoyproxy.controlplane/test@0.1.4
 - pkg:maven/io.envoyproxy.controlplane/test@0.1.5

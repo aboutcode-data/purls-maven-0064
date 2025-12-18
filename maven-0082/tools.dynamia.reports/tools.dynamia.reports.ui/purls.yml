@@ -1,0 +1,2 @@
+- pkg:maven/tools.dynamia.reports/tools.dynamia.reports.ui@1.2.0
+- pkg:maven/tools.dynamia.reports/tools.dynamia.reports.ui@1.2.0?classifier=sources

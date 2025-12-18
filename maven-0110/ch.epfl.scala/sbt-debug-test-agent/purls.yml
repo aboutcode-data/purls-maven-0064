@@ -1,0 +1,2 @@
+- pkg:maven/ch.epfl.scala/sbt-debug-test-agent@1.0.0
+- pkg:maven/ch.epfl.scala/sbt-debug-test-agent@1.0.0?classifier=sources

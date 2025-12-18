@@ -12,3 +12,7 @@
 - pkg:maven/org.webjars.npm/tensorflow__tfjs-core@2.8.0?classifier=sources
 - pkg:maven/org.webjars.npm/tensorflow__tfjs-core@2.8.1
 - pkg:maven/org.webjars.npm/tensorflow__tfjs-core@2.8.1?classifier=sources
+- pkg:maven/org.webjars.npm/tensorflow__tfjs-core@3.0.0
+- pkg:maven/org.webjars.npm/tensorflow__tfjs-core@3.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/tensorflow__tfjs-core@3.2.0
+- pkg:maven/org.webjars.npm/tensorflow__tfjs-core@3.2.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.sleroy/as3-language-parser@1.1.0
+- pkg:maven/com.github.sleroy/as3-language-parser@1.1.0?classifier=sources

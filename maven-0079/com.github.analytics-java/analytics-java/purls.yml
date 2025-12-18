@@ -1,0 +1,2 @@
+- pkg:maven/com.github.analytics-java/analytics-java@1.0.1
+- pkg:maven/com.github.analytics-java/analytics-java@1.0.1?classifier=sources

@@ -1,1 +1,3 @@
 - pkg:maven/com.yoc.visx.sdk/visx-sdk@1.2.0?classifier=sources
+- pkg:maven/com.yoc.visx.sdk/visx-sdk@1.2.1?classifier=sources
+- pkg:maven/com.yoc.visx.sdk/visx-sdk@1.2.2?classifier=sources

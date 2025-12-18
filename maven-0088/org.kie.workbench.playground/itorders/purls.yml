@@ -53,7 +53,11 @@
 - pkg:maven/org.kie.workbench.playground/itorders@7.45.0.t20201009?classifier=sources
 - pkg:maven/org.kie.workbench.playground/itorders@7.46.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench.playground/itorders@7.47.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.playground/itorders@7.48.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.playground/itorders@7.49.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench.playground/itorders@7.5.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.playground/itorders@7.50.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.playground/itorders@7.51.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench.playground/itorders@7.6.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench.playground/itorders@7.7.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench.playground/itorders@7.8.0.Final?classifier=sources

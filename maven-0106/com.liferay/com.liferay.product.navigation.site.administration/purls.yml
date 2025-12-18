@@ -91,6 +91,9 @@
 - pkg:maven/com.liferay/com.liferay.product.navigation.site.administration@2.0.37
 - pkg:maven/com.liferay/com.liferay.product.navigation.site.administration@2.0.37?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.site.administration@2.0.37?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.product.navigation.site.administration@2.0.39
+- pkg:maven/com.liferay/com.liferay.product.navigation.site.administration@2.0.39?classifier=sources
+- pkg:maven/com.liferay/com.liferay.product.navigation.site.administration@2.0.39?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.product.navigation.site.administration@2.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.site.administration@2.0.4
 - pkg:maven/com.liferay/com.liferay.product.navigation.site.administration@2.0.4?classifier=sources
@@ -154,6 +157,9 @@
 - pkg:maven/com.liferay/com.liferay.product.navigation.site.administration@3.0.23
 - pkg:maven/com.liferay/com.liferay.product.navigation.site.administration@3.0.23?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.site.administration@3.0.23?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.product.navigation.site.administration@3.0.24
+- pkg:maven/com.liferay/com.liferay.product.navigation.site.administration@3.0.24?classifier=sources
+- pkg:maven/com.liferay/com.liferay.product.navigation.site.administration@3.0.24?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.product.navigation.site.administration@3.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.site.administration@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.product.navigation.site.administration@3.0.3
@@ -238,6 +244,9 @@
 - pkg:maven/com.liferay/com.liferay.product.navigation.site.administration@4.0.27
 - pkg:maven/com.liferay/com.liferay.product.navigation.site.administration@4.0.27?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.site.administration@4.0.27?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.product.navigation.site.administration@4.0.29
+- pkg:maven/com.liferay/com.liferay.product.navigation.site.administration@4.0.29?classifier=sources
+- pkg:maven/com.liferay/com.liferay.product.navigation.site.administration@4.0.29?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.product.navigation.site.administration@4.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.site.administration@4.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.product.navigation.site.administration@4.0.3
@@ -340,6 +349,15 @@
 - pkg:maven/com.liferay/com.liferay.product.navigation.site.administration@5.0.32
 - pkg:maven/com.liferay/com.liferay.product.navigation.site.administration@5.0.32?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.site.administration@5.0.32?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.product.navigation.site.administration@5.0.34
+- pkg:maven/com.liferay/com.liferay.product.navigation.site.administration@5.0.34?classifier=sources
+- pkg:maven/com.liferay/com.liferay.product.navigation.site.administration@5.0.34?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.product.navigation.site.administration@5.0.35
+- pkg:maven/com.liferay/com.liferay.product.navigation.site.administration@5.0.35?classifier=sources
+- pkg:maven/com.liferay/com.liferay.product.navigation.site.administration@5.0.35?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.product.navigation.site.administration@5.0.36
+- pkg:maven/com.liferay/com.liferay.product.navigation.site.administration@5.0.36?classifier=sources
+- pkg:maven/com.liferay/com.liferay.product.navigation.site.administration@5.0.36?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.product.navigation.site.administration@5.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.site.administration@5.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.product.navigation.site.administration@5.0.4

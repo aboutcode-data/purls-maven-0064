@@ -1,0 +1,6 @@
+- pkg:maven/io.github.project-snail/wp-pass-proxy-server-support@1.1
+- pkg:maven/io.github.project-snail/wp-pass-proxy-server-support@1.11
+- pkg:maven/io.github.project-snail/wp-pass-proxy-server-support@1.11?classifier=sources
+- pkg:maven/io.github.project-snail/wp-pass-proxy-server-support@1.12
+- pkg:maven/io.github.project-snail/wp-pass-proxy-server-support@1.12?classifier=sources
+- pkg:maven/io.github.project-snail/wp-pass-proxy-server-support@1.1?classifier=sources

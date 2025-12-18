@@ -32,3 +32,5 @@
 - pkg:maven/org.broadinstitute/gatk-test-utils@4.1.8.1?classifier=sources
 - pkg:maven/org.broadinstitute/gatk-test-utils@4.1.9.0
 - pkg:maven/org.broadinstitute/gatk-test-utils@4.1.9.0?classifier=sources
+- pkg:maven/org.broadinstitute/gatk-test-utils@4.2.0.0
+- pkg:maven/org.broadinstitute/gatk-test-utils@4.2.0.0?classifier=sources

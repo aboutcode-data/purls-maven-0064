@@ -8,4 +8,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-lib-profiler-common@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-lib-profiler-common@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-lib-profiler-common@RELEASE122?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-lib-profiler-common@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-lib-profiler-common@RELEASE90?classifier=sources

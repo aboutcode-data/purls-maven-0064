@@ -10,6 +10,8 @@
 - pkg:maven/org.graalvm.tools/agentscript@19.3.3?classifier=sources
 - pkg:maven/org.graalvm.tools/agentscript@19.3.4
 - pkg:maven/org.graalvm.tools/agentscript@19.3.4?classifier=sources
+- pkg:maven/org.graalvm.tools/agentscript@19.3.5
+- pkg:maven/org.graalvm.tools/agentscript@19.3.5?classifier=sources
 - pkg:maven/org.graalvm.tools/agentscript@20.0.0
 - pkg:maven/org.graalvm.tools/agentscript@20.0.0?classifier=sources
 - pkg:maven/org.graalvm.tools/agentscript@20.1.0

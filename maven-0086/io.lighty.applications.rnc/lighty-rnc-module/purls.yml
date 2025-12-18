@@ -1,0 +1,4 @@
+- pkg:maven/io.lighty.applications.rnc/lighty-rnc-module@13.2.0
+- pkg:maven/io.lighty.applications.rnc/lighty-rnc-module@13.2.0?classifier=sources
+- pkg:maven/io.lighty.applications.rnc/lighty-rnc-module@13.2.1
+- pkg:maven/io.lighty.applications.rnc/lighty-rnc-module@13.2.1?classifier=sources

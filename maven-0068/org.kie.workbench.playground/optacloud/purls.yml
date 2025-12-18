@@ -55,7 +55,11 @@
 - pkg:maven/org.kie.workbench.playground/optacloud@7.45.0.t20201009?classifier=sources
 - pkg:maven/org.kie.workbench.playground/optacloud@7.46.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench.playground/optacloud@7.47.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.playground/optacloud@7.48.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.playground/optacloud@7.49.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench.playground/optacloud@7.5.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.playground/optacloud@7.50.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.playground/optacloud@7.51.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench.playground/optacloud@7.6.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench.playground/optacloud@7.7.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench.playground/optacloud@7.8.0.Final?classifier=sources
