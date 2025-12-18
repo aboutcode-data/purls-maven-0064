@@ -4,6 +4,8 @@
 - pkg:maven/net.wicp.tams/common-kubernetes@3.5.9?classifier=sources
 - pkg:maven/net.wicp.tams/common-kubernetes@3.6.0
 - pkg:maven/net.wicp.tams/common-kubernetes@3.6.0?classifier=sources
+- pkg:maven/net.wicp.tams/common-kubernetes@3.6.16
+- pkg:maven/net.wicp.tams/common-kubernetes@3.6.16?classifier=sources
 - pkg:maven/net.wicp.tams/common-kubernetes@3.6.4
 - pkg:maven/net.wicp.tams/common-kubernetes@3.6.4?classifier=sources
 - pkg:maven/net.wicp.tams/common-kubernetes@3.6.7

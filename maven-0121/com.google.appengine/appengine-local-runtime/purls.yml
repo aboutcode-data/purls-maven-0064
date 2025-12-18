@@ -47,3 +47,4 @@
 - pkg:maven/com.google.appengine/appengine-local-runtime@1.9.87
 - pkg:maven/com.google.appengine/appengine-local-runtime@1.9.88
 - pkg:maven/com.google.appengine/appengine-local-runtime@1.9.89
+- pkg:maven/com.google.appengine/appengine-local-runtime@1.9.90

@@ -1,0 +1,2 @@
+- pkg:maven/com.gitee.hljdrl/xlog@1.0.2?classifier=sources
+- pkg:maven/com.gitee.hljdrl/xlog@1.0.5?classifier=sources

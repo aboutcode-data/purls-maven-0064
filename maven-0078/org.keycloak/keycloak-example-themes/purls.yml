@@ -14,3 +14,7 @@
 - pkg:maven/org.keycloak/keycloak-example-themes@13.0.1?classifier=sources
 - pkg:maven/org.keycloak/keycloak-example-themes@14.0.0
 - pkg:maven/org.keycloak/keycloak-example-themes@14.0.0?classifier=sources
+- pkg:maven/org.keycloak/keycloak-example-themes@15.0.0
+- pkg:maven/org.keycloak/keycloak-example-themes@15.0.0?classifier=sources
+- pkg:maven/org.keycloak/keycloak-example-themes@15.0.1
+- pkg:maven/org.keycloak/keycloak-example-themes@15.0.1?classifier=sources

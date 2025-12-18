@@ -1,0 +1,2 @@
+- pkg:maven/org.sterl.svg2png/svg2png@0.2.4
+- pkg:maven/org.sterl.svg2png/svg2png@0.2.4?classifier=sources

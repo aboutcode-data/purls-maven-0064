@@ -152,3 +152,5 @@
 - pkg:maven/com.ca.apim.gateway/environment-creator-application@1.0.4?classifier=sources
 - pkg:maven/com.ca.apim.gateway/environment-creator-application@1.0.6
 - pkg:maven/com.ca.apim.gateway/environment-creator-application@1.0.6?classifier=sources
+- pkg:maven/com.ca.apim.gateway/environment-creator-application@1.0.7
+- pkg:maven/com.ca.apim.gateway/environment-creator-application@1.0.7?classifier=sources

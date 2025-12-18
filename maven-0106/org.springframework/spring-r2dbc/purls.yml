@@ -7,3 +7,4 @@
 - pkg:maven/org.springframework/spring-r2dbc@5.3.6?classifier=sources
 - pkg:maven/org.springframework/spring-r2dbc@5.3.7?classifier=sources
 - pkg:maven/org.springframework/spring-r2dbc@5.3.8?classifier=sources
+- pkg:maven/org.springframework/spring-r2dbc@5.3.9?classifier=sources

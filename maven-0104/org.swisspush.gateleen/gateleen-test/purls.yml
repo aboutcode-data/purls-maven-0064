@@ -104,6 +104,11 @@
 - pkg:maven/org.swisspush.gateleen/gateleen-test@1.1.70
 - pkg:maven/org.swisspush.gateleen/gateleen-test@1.1.71
 - pkg:maven/org.swisspush.gateleen/gateleen-test@1.1.72
+- pkg:maven/org.swisspush.gateleen/gateleen-test@1.1.73
+- pkg:maven/org.swisspush.gateleen/gateleen-test@1.1.74
+- pkg:maven/org.swisspush.gateleen/gateleen-test@1.1.75
+- pkg:maven/org.swisspush.gateleen/gateleen-test@1.1.76
+- pkg:maven/org.swisspush.gateleen/gateleen-test@1.1.77
 - pkg:maven/org.swisspush.gateleen/gateleen-test@1.1.8
 - pkg:maven/org.swisspush.gateleen/gateleen-test@1.1.8?classifier=sources
 - pkg:maven/org.swisspush.gateleen/gateleen-test@1.1.9

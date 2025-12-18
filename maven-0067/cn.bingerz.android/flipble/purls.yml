@@ -12,3 +12,7 @@
 - pkg:maven/cn.bingerz.android/flipble@0.4.8?type=aar
 - pkg:maven/cn.bingerz.android/flipble@0.5.1?classifier=sources
 - pkg:maven/cn.bingerz.android/flipble@0.5.1?type=aar
+- pkg:maven/cn.bingerz.android/flipble@0.6.2-beta01?classifier=sources
+- pkg:maven/cn.bingerz.android/flipble@0.6.2-beta02?classifier=sources
+- pkg:maven/cn.bingerz.android/flipble@0.6.2?classifier=sources
+- pkg:maven/cn.bingerz.android/flipble@0.6.3?classifier=sources

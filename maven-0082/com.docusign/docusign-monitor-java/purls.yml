@@ -1,4 +1,6 @@
+- pkg:maven/com.docusign/docusign-monitor-java@1.0.0
 - pkg:maven/com.docusign/docusign-monitor-java@1.0.0-ALPHA
 - pkg:maven/com.docusign/docusign-monitor-java@1.0.0-ALPHA?classifier=sources
 - pkg:maven/com.docusign/docusign-monitor-java@1.0.0-BETA
 - pkg:maven/com.docusign/docusign-monitor-java@1.0.0-BETA?classifier=sources
+- pkg:maven/com.docusign/docusign-monitor-java@1.0.0?classifier=sources

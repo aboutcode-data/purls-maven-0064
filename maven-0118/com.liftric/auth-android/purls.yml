@@ -5,3 +5,6 @@
 - pkg:maven/com.liftric/auth-android@1.6.0?classifier=sources
 - pkg:maven/com.liftric/auth-android@1.6.1?classifier=sources
 - pkg:maven/com.liftric/auth-android@1.6.2?classifier=sources
+- pkg:maven/com.liftric/auth-android@1.6.3?classifier=sources
+- pkg:maven/com.liftric/auth-android@1.7.0?classifier=sources
+- pkg:maven/com.liftric/auth-android@1.7.1?classifier=sources

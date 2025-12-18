@@ -34,3 +34,5 @@
 - pkg:maven/io.wcm/io.wcm.wcm.core.components@1.8.0-2.15.0?classifier=sources
 - pkg:maven/io.wcm/io.wcm.wcm.core.components@1.8.2-2.15.0
 - pkg:maven/io.wcm/io.wcm.wcm.core.components@1.8.2-2.15.0?classifier=sources
+- pkg:maven/io.wcm/io.wcm.wcm.core.components@1.8.4-2.15.0
+- pkg:maven/io.wcm/io.wcm.wcm.core.components@1.8.4-2.15.0?classifier=sources

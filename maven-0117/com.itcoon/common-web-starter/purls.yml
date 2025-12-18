@@ -7,3 +7,9 @@
 - pkg:maven/com.itcoon/common-web-starter@1.0.6.RELEASE
 - pkg:maven/com.itcoon/common-web-starter@1.0.8.RELEASE
 - pkg:maven/com.itcoon/common-web-starter@1.0.9.RELEASE
+- pkg:maven/com.itcoon/common-web-starter@1.1.0.RELEASE
+- pkg:maven/com.itcoon/common-web-starter@1.1.0.RELEASE?classifier=sources
+- pkg:maven/com.itcoon/common-web-starter@1.1.1.RELEASE
+- pkg:maven/com.itcoon/common-web-starter@1.1.1.RELEASE?classifier=sources
+- pkg:maven/com.itcoon/common-web-starter@1.1.2.RELEASE
+- pkg:maven/com.itcoon/common-web-starter@1.1.2.RELEASE?classifier=sources

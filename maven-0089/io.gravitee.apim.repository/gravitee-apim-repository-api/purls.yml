@@ -1,0 +1,8 @@
+- pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-api@3.10.0
+- pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-api@3.10.0?classifier=sources
+- pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-api@3.5.18
+- pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-api@3.5.18?classifier=sources
+- pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-api@3.8.6
+- pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-api@3.8.6?classifier=sources
+- pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-api@3.9.3
+- pkg:maven/io.gravitee.apim.repository/gravitee-apim-repository-api@3.9.3?classifier=sources

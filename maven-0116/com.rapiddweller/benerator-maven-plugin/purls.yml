@@ -1,0 +1,2 @@
+- pkg:maven/com.rapiddweller/benerator-maven-plugin@1.1.2-jdk-11
+- pkg:maven/com.rapiddweller/benerator-maven-plugin@1.1.2-jdk-11?classifier=sources

@@ -20,12 +20,14 @@
 - pkg:maven/com.daml/http-json_2.13@1.11.1-snapshot.20210312.6429.1.7cd6380e
 - pkg:maven/com.daml/http-json_2.13@1.11.1-snapshot.20210312.6429.1.7cd6380e?classifier=sources
 - pkg:maven/com.daml/http-json_2.13@1.11.1?classifier=sources
+- pkg:maven/com.daml/http-json_2.13@1.11.2
 - pkg:maven/com.daml/http-json_2.13@1.11.2-snapshot.20210610.6432.0.ac4a2848
 - pkg:maven/com.daml/http-json_2.13@1.11.2-snapshot.20210610.6432.0.ac4a2848?classifier=sources
 - pkg:maven/com.daml/http-json_2.13@1.11.2-snapshot.20210610.6433.0.a08f6ea2
 - pkg:maven/com.daml/http-json_2.13@1.11.2-snapshot.20210610.6433.0.a08f6ea2?classifier=sources
 - pkg:maven/com.daml/http-json_2.13@1.11.2-snapshot.20210610.6433.1.a08f6ea2
 - pkg:maven/com.daml/http-json_2.13@1.11.2-snapshot.20210610.6433.1.a08f6ea2?classifier=sources
+- pkg:maven/com.daml/http-json_2.13@1.11.2?classifier=sources
 - pkg:maven/com.daml/http-json_2.13@1.12.0-snapshot.20210309.6463.0.f7abca91
 - pkg:maven/com.daml/http-json_2.13@1.12.0-snapshot.20210309.6463.0.f7abca91?classifier=sources
 - pkg:maven/com.daml/http-json_2.13@1.12.0-snapshot.20210311.6483.0.5cb857d9

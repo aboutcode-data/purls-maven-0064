@@ -1,2 +1,4 @@
 - pkg:maven/io.crashbox/cmdr_3@0.10.3
 - pkg:maven/io.crashbox/cmdr_3@0.10.3?classifier=sources
+- pkg:maven/io.crashbox/cmdr_3@0.11.0
+- pkg:maven/io.crashbox/cmdr_3@0.11.0?classifier=sources

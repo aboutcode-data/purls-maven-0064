@@ -16,6 +16,8 @@
 - pkg:maven/ch.exense.rtm/rtm-commons@2.2.8?classifier=sources
 - pkg:maven/ch.exense.rtm/rtm-commons@2.2.9
 - pkg:maven/ch.exense.rtm/rtm-commons@2.2.9?classifier=sources
+- pkg:maven/ch.exense.rtm/rtm-commons@2.3.0
+- pkg:maven/ch.exense.rtm/rtm-commons@2.3.0?classifier=sources
 - pkg:maven/ch.exense.rtm/rtm-commons@2.6.7
 - pkg:maven/ch.exense.rtm/rtm-commons@2.6.7?classifier=sources
 - pkg:maven/ch.exense.rtm/rtm-commons@2.6.8

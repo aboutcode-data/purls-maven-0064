@@ -2,3 +2,9 @@
 - pkg:maven/io.github.sonicdjgh/native@4.8.90?type=aar
 - pkg:maven/io.github.sonicdjgh/native@4.8.91?classifier=sources
 - pkg:maven/io.github.sonicdjgh/native@4.8.91?type=aar
+- pkg:maven/io.github.sonicdjgh/native@4.8.92?classifier=sources
+- pkg:maven/io.github.sonicdjgh/native@4.8.92?type=aar
+- pkg:maven/io.github.sonicdjgh/native@4.8.931?classifier=sources
+- pkg:maven/io.github.sonicdjgh/native@4.8.931?type=aar
+- pkg:maven/io.github.sonicdjgh/native@4.8.93?classifier=sources
+- pkg:maven/io.github.sonicdjgh/native@4.8.93?type=aar

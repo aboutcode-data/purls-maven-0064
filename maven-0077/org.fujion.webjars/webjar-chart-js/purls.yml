@@ -8,3 +8,4 @@
 - pkg:maven/org.fujion.webjars/webjar-chart-js@3.2.0-10
 - pkg:maven/org.fujion.webjars/webjar-chart-js@3.2.1-10
 - pkg:maven/org.fujion.webjars/webjar-chart-js@3.3.2
+- pkg:maven/org.fujion.webjars/webjar-chart-js@3.4.1

@@ -1,0 +1,4 @@
+- pkg:maven/org.neo4j/neo4j-cypher-dsl-parser@2021.3.0
+- pkg:maven/org.neo4j/neo4j-cypher-dsl-parser@2021.3.0?classifier=sources
+- pkg:maven/org.neo4j/neo4j-cypher-dsl-parser@2021.3.1
+- pkg:maven/org.neo4j/neo4j-cypher-dsl-parser@2021.3.1?classifier=sources

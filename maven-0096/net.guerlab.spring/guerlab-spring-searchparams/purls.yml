@@ -26,3 +26,15 @@
 - pkg:maven/net.guerlab.spring/guerlab-spring-searchparams@4.0.0?classifier=sources
 - pkg:maven/net.guerlab.spring/guerlab-spring-searchparams@4.0.1
 - pkg:maven/net.guerlab.spring/guerlab-spring-searchparams@4.0.1?classifier=sources
+- pkg:maven/net.guerlab.spring/guerlab-spring-searchparams@4.1.0
+- pkg:maven/net.guerlab.spring/guerlab-spring-searchparams@4.1.0?classifier=sources
+- pkg:maven/net.guerlab.spring/guerlab-spring-searchparams@4.2.0
+- pkg:maven/net.guerlab.spring/guerlab-spring-searchparams@4.2.0?classifier=sources
+- pkg:maven/net.guerlab.spring/guerlab-spring-searchparams@5.0.0
+- pkg:maven/net.guerlab.spring/guerlab-spring-searchparams@5.0.0?classifier=sources
+- pkg:maven/net.guerlab.spring/guerlab-spring-searchparams@5.1.0
+- pkg:maven/net.guerlab.spring/guerlab-spring-searchparams@5.1.0?classifier=sources
+- pkg:maven/net.guerlab.spring/guerlab-spring-searchparams@5.1.1
+- pkg:maven/net.guerlab.spring/guerlab-spring-searchparams@5.1.1?classifier=sources
+- pkg:maven/net.guerlab.spring/guerlab-spring-searchparams@5.1.2
+- pkg:maven/net.guerlab.spring/guerlab-spring-searchparams@5.1.2?classifier=sources

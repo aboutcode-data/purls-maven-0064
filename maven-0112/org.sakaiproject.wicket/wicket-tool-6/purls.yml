@@ -1,2 +1,4 @@
 - pkg:maven/org.sakaiproject.wicket/wicket-tool-6@21.0
 - pkg:maven/org.sakaiproject.wicket/wicket-tool-6@21.0?classifier=sources
+- pkg:maven/org.sakaiproject.wicket/wicket-tool-6@21.1
+- pkg:maven/org.sakaiproject.wicket/wicket-tool-6@21.1?classifier=sources

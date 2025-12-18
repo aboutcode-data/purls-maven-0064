@@ -1,2 +1,8 @@
 - pkg:maven/com.sageserpent/americium_2.13@0.1.11-trials-rc
 - pkg:maven/com.sageserpent/americium_2.13@0.1.11-trials-rc?classifier=sources
+- pkg:maven/com.sageserpent/americium_2.13@0.1.12-trials-rc
+- pkg:maven/com.sageserpent/americium_2.13@0.1.12-trials-rc?classifier=sources
+- pkg:maven/com.sageserpent/americium_2.13@0.1.13-trials-rc
+- pkg:maven/com.sageserpent/americium_2.13@0.1.13-trials-rc?classifier=sources
+- pkg:maven/com.sageserpent/americium_2.13@0.1.14-trials-rc
+- pkg:maven/com.sageserpent/americium_2.13@0.1.14-trials-rc?classifier=sources

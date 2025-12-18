@@ -1,0 +1,5 @@
+- pkg:maven/io.github.krishna-elear/jitpacktest@0.0.2?classifier=sources
+- pkg:maven/io.github.krishna-elear/jitpacktest@0.0.3-release?classifier=sources
+- pkg:maven/io.github.krishna-elear/jitpacktest@0.0.4-release?classifier=sources
+- pkg:maven/io.github.krishna-elear/jitpacktest@0.0.5-release?classifier=sources
+- pkg:maven/io.github.krishna-elear/jitpacktest@0.0.5-v0.0.5?classifier=sources

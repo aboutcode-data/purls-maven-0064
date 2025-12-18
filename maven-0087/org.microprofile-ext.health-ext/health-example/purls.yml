@@ -4,3 +4,5 @@
 - pkg:maven/org.microprofile-ext.health-ext/health-example@1.0.5?type=war
 - pkg:maven/org.microprofile-ext.health-ext/health-example@1.1.0?classifier=sources
 - pkg:maven/org.microprofile-ext.health-ext/health-example@1.1.0?type=war
+- pkg:maven/org.microprofile-ext.health-ext/health-example@1.2.0?classifier=sources
+- pkg:maven/org.microprofile-ext.health-ext/health-example@1.2.0?type=war

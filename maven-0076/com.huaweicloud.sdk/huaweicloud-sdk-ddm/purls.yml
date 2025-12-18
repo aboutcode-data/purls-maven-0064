@@ -1,2 +1,12 @@
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-ddm@3.0.25-beta
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-ddm@3.0.25-beta?classifier=sources
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-ddm@3.0.51
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-ddm@3.0.51?classifier=sources
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-ddm@3.0.52
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-ddm@3.0.52?classifier=sources
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-ddm@3.0.53
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-ddm@3.0.53?classifier=sources
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-ddm@3.0.54
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-ddm@3.0.54?classifier=sources
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-ddm@3.0.55
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-ddm@3.0.55?classifier=sources

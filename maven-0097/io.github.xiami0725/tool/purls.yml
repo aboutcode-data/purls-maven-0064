@@ -1,0 +1,2 @@
+- pkg:maven/io.github.xiami0725/tool@1.0.1
+- pkg:maven/io.github.xiami0725/tool@1.0.1?classifier=sources

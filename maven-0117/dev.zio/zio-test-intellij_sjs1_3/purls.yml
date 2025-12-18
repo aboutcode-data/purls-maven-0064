@@ -1,3 +1,5 @@
+- pkg:maven/dev.zio/zio-test-intellij_sjs1_3@1.0.10
+- pkg:maven/dev.zio/zio-test-intellij_sjs1_3@1.0.10?classifier=sources
 - pkg:maven/dev.zio/zio-test-intellij_sjs1_3@1.0.8
 - pkg:maven/dev.zio/zio-test-intellij_sjs1_3@1.0.8?classifier=sources
 - pkg:maven/dev.zio/zio-test-intellij_sjs1_3@1.0.9

@@ -1,0 +1,2 @@
+- pkg:maven/ch.dvbern.oss.datehelper/date-helper@1.2.0
+- pkg:maven/ch.dvbern.oss.datehelper/date-helper@1.2.0?classifier=sources

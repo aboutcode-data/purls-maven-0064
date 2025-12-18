@@ -1,0 +1,2 @@
+- pkg:maven/com.webank.wedatasphere.schedulis/azkaban-hadoop-security-plugin@0.6.0
+- pkg:maven/com.webank.wedatasphere.schedulis/azkaban-hadoop-security-plugin@0.6.0?classifier=sources

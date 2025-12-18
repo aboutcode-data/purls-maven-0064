@@ -44,4 +44,5 @@
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.webCache@1.1.51
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.webCache@1.1.52
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.webCache@1.1.53
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.webCache@1.1.54
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.webCache@1.1.9

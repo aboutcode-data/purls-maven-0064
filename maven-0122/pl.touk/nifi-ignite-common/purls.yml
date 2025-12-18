@@ -1,0 +1,4 @@
+- pkg:maven/pl.touk/nifi-ignite-common@0.2.0
+- pkg:maven/pl.touk/nifi-ignite-common@0.2.0?classifier=sources
+- pkg:maven/pl.touk/nifi-ignite-common@0.2.2
+- pkg:maven/pl.touk/nifi-ignite-common@0.2.2?classifier=sources

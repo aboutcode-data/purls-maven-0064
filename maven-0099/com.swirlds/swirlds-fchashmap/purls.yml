@@ -1,4 +1,7 @@
 - pkg:maven/com.swirlds/swirlds-fchashmap@0.15.0
+- pkg:maven/com.swirlds/swirlds-fchashmap@0.15.1
+- pkg:maven/com.swirlds/swirlds-fchashmap@0.16.0
+- pkg:maven/com.swirlds/swirlds-fchashmap@0.17.1
 - pkg:maven/com.swirlds/swirlds-fchashmap@0.7.4
 - pkg:maven/com.swirlds/swirlds-fchashmap@0.7.4-alpha.1
 - pkg:maven/com.swirlds/swirlds-fchashmap@0.7.4-alpha.1?classifier=sources

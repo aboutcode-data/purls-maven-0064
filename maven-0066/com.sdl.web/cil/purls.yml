@@ -8,6 +8,7 @@
 - pkg:maven/com.sdl.web/cil@11.0.0-1064?classifier=sources
 - pkg:maven/com.sdl.web/cil@11.0.0-1068?classifier=sources
 - pkg:maven/com.sdl.web/cil@11.0.0-1095?classifier=sources
+- pkg:maven/com.sdl.web/cil@11.0.0-1097?classifier=sources
 - pkg:maven/com.sdl.web/cil@11.0.1-1019?classifier=sources
 - pkg:maven/com.sdl.web/cil@11.1.0-1051?classifier=sources
 - pkg:maven/com.sdl.web/cil@11.1.0-1086?classifier=sources

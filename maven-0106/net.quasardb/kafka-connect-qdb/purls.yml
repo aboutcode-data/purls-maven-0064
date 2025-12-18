@@ -66,3 +66,5 @@
 - pkg:maven/net.quasardb/kafka-connect-qdb@3.9.7?classifier=sources
 - pkg:maven/net.quasardb/kafka-connect-qdb@3.9.8
 - pkg:maven/net.quasardb/kafka-connect-qdb@3.9.8?classifier=sources
+- pkg:maven/net.quasardb/kafka-connect-qdb@3.9.9
+- pkg:maven/net.quasardb/kafka-connect-qdb@3.9.9?classifier=sources

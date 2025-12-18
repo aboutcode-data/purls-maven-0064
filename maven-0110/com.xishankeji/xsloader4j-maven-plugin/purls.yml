@@ -1,0 +1,4 @@
+- pkg:maven/com.xishankeji/xsloader4j-maven-plugin@1.2.68
+- pkg:maven/com.xishankeji/xsloader4j-maven-plugin@1.2.68?classifier=sources
+- pkg:maven/com.xishankeji/xsloader4j-maven-plugin@1.2.97
+- pkg:maven/com.xishankeji/xsloader4j-maven-plugin@1.2.97?classifier=sources

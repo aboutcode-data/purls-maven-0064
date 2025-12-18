@@ -32,3 +32,9 @@
 - pkg:maven/net.e6tech/elements-web-tomcat@2.6.26?classifier=sources
 - pkg:maven/net.e6tech/elements-web-tomcat@2.6.27
 - pkg:maven/net.e6tech/elements-web-tomcat@2.6.27?classifier=sources
+- pkg:maven/net.e6tech/elements-web-tomcat@2.6.28
+- pkg:maven/net.e6tech/elements-web-tomcat@2.6.28?classifier=sources
+- pkg:maven/net.e6tech/elements-web-tomcat@2.6.29
+- pkg:maven/net.e6tech/elements-web-tomcat@2.6.29?classifier=sources
+- pkg:maven/net.e6tech/elements-web-tomcat@2.6.30
+- pkg:maven/net.e6tech/elements-web-tomcat@2.6.30?classifier=sources

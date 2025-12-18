@@ -18,8 +18,12 @@
 - pkg:maven/com.nepxion/discovery-plugin-test-starter-automation@3.25.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-test-starter-automation@3.26.0
 - pkg:maven/com.nepxion/discovery-plugin-test-starter-automation@3.26.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-test-starter-automation@3.27.0
+- pkg:maven/com.nepxion/discovery-plugin-test-starter-automation@3.27.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-test-starter-automation@6.10.0
 - pkg:maven/com.nepxion/discovery-plugin-test-starter-automation@6.10.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-test-starter-automation@6.11.0
+- pkg:maven/com.nepxion/discovery-plugin-test-starter-automation@6.11.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-test-starter-automation@6.3.0
 - pkg:maven/com.nepxion/discovery-plugin-test-starter-automation@6.3.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-test-starter-automation@6.3.1

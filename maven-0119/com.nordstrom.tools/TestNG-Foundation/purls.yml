@@ -1,0 +1,4 @@
+- pkg:maven/com.nordstrom.tools/TestNG-Foundation@3.0.0-j7
+- pkg:maven/com.nordstrom.tools/TestNG-Foundation@3.0.0-j7?classifier=sources
+- pkg:maven/com.nordstrom.tools/TestNG-Foundation@3.0.0-j8
+- pkg:maven/com.nordstrom.tools/TestNG-Foundation@3.0.0-j8?classifier=sources

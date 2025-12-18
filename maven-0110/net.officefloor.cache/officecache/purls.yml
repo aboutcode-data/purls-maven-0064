@@ -1,0 +1,8 @@
+- pkg:maven/net.officefloor.cache/officecache@3.37.0
+- pkg:maven/net.officefloor.cache/officecache@3.37.0?classifier=sources
+- pkg:maven/net.officefloor.cache/officecache@3.38.0
+- pkg:maven/net.officefloor.cache/officecache@3.38.0?classifier=sources
+- pkg:maven/net.officefloor.cache/officecache@3.39.0
+- pkg:maven/net.officefloor.cache/officecache@3.39.0?classifier=sources
+- pkg:maven/net.officefloor.cache/officecache@3.40.0
+- pkg:maven/net.officefloor.cache/officecache@3.40.0?classifier=sources

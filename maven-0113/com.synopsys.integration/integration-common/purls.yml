@@ -48,3 +48,5 @@
 - pkg:maven/com.synopsys.integration/integration-common@24.3.0?classifier=sources
 - pkg:maven/com.synopsys.integration/integration-common@25.0.0
 - pkg:maven/com.synopsys.integration/integration-common@25.0.0?classifier=sources
+- pkg:maven/com.synopsys.integration/integration-common@25.1.0?classifier=sources
+- pkg:maven/com.synopsys.integration/integration-common@25.2.0?classifier=sources

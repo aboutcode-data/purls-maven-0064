@@ -1,2 +1,4 @@
 - pkg:maven/com.applovin.mediation/mopub-adapter@5.15.0.0?classifier=sources
 - pkg:maven/com.applovin.mediation/mopub-adapter@5.15.0.0?type=aar
+- pkg:maven/com.applovin.mediation/mopub-adapter@5.16.4.0?classifier=sources
+- pkg:maven/com.applovin.mediation/mopub-adapter@5.16.4.0?type=aar

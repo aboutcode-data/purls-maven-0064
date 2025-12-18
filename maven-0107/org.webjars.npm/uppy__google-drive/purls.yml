@@ -12,3 +12,5 @@
 - pkg:maven/org.webjars.npm/uppy__google-drive@1.5.22?classifier=sources
 - pkg:maven/org.webjars.npm/uppy__google-drive@1.5.7
 - pkg:maven/org.webjars.npm/uppy__google-drive@1.5.7?classifier=sources
+- pkg:maven/org.webjars.npm/uppy__google-drive@1.7.2
+- pkg:maven/org.webjars.npm/uppy__google-drive@1.7.2?classifier=sources

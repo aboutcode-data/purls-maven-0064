@@ -15,3 +15,4 @@
 - pkg:maven/org.ikasan/ikasan-eip-standalone@3.0.1
 - pkg:maven/org.ikasan/ikasan-eip-standalone@3.1.0
 - pkg:maven/org.ikasan/ikasan-eip-standalone@3.1.0-beta
+- pkg:maven/org.ikasan/ikasan-eip-standalone@3.1.1

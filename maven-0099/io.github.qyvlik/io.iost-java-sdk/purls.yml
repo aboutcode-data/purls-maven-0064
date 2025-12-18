@@ -6,3 +6,5 @@
 - pkg:maven/io.github.qyvlik/io.iost-java-sdk@broker-v3.0.7?classifier=sources
 - pkg:maven/io.github.qyvlik/io.iost-java-sdk@broker-v3.1.0
 - pkg:maven/io.github.qyvlik/io.iost-java-sdk@broker-v3.1.0?classifier=sources
+- pkg:maven/io.github.qyvlik/io.iost-java-sdk@broker-v3.2.0
+- pkg:maven/io.github.qyvlik/io.iost-java-sdk@broker-v3.2.0?classifier=sources

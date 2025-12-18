@@ -1,0 +1,2 @@
+- pkg:maven/io.github.qqnp1100/arouter-compiler@1.5.2
+- pkg:maven/io.github.qqnp1100/arouter-compiler@1.5.2?classifier=sources

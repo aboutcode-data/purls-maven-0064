@@ -85,6 +85,8 @@
 - pkg:maven/org.webjars.npm/material__form-field@10.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__form-field@11.0.0
 - pkg:maven/org.webjars.npm/material__form-field@11.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/material__form-field@12.0.0
+- pkg:maven/org.webjars.npm/material__form-field@12.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__form-field@2.0.0
 - pkg:maven/org.webjars.npm/material__form-field@2.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__form-field@4.0.0

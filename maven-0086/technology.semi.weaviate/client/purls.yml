@@ -5,3 +5,5 @@
 - pkg:maven/technology.semi.weaviate/client@1.0.2?classifier=sources
 - pkg:maven/technology.semi.weaviate/client@1.1.0
 - pkg:maven/technology.semi.weaviate/client@1.1.0?classifier=sources
+- pkg:maven/technology.semi.weaviate/client@1.1.1
+- pkg:maven/technology.semi.weaviate/client@1.1.1?classifier=sources

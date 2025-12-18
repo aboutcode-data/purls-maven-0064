@@ -1,1 +1,2 @@
+- pkg:maven/com.bluebillywig.bbnativeplayersdk/bbnativeplayersdk-core@0.0.11?classifier=sources
 - pkg:maven/com.bluebillywig.bbnativeplayersdk/bbnativeplayersdk-core@0.0.7?classifier=sources

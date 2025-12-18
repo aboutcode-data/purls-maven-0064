@@ -1,1 +1,2 @@
 - pkg:maven/org.jetbrains.kotlinx/atomicfu-watchosx64@0.16.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/atomicfu-watchosx64@0.16.2?classifier=sources

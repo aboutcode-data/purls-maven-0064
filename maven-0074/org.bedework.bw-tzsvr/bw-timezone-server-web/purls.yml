@@ -1,3 +1,5 @@
+- pkg:maven/org.bedework.bw-tzsvr/bw-timezone-server-web@4.0.10
+- pkg:maven/org.bedework.bw-tzsvr/bw-timezone-server-web@4.0.10?classifier=sources
 - pkg:maven/org.bedework.bw-tzsvr/bw-timezone-server-web@4.0.8
 - pkg:maven/org.bedework.bw-tzsvr/bw-timezone-server-web@4.0.8?classifier=sources
 - pkg:maven/org.bedework.bw-tzsvr/bw-timezone-server-web@4.0.9

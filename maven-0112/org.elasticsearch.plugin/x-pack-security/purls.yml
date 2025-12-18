@@ -10,6 +10,10 @@
 - pkg:maven/org.elasticsearch.plugin/x-pack-security@6.8.15?classifier=sources
 - pkg:maven/org.elasticsearch.plugin/x-pack-security@6.8.16
 - pkg:maven/org.elasticsearch.plugin/x-pack-security@6.8.16?classifier=sources
+- pkg:maven/org.elasticsearch.plugin/x-pack-security@6.8.17
+- pkg:maven/org.elasticsearch.plugin/x-pack-security@6.8.17?classifier=sources
+- pkg:maven/org.elasticsearch.plugin/x-pack-security@6.8.18
+- pkg:maven/org.elasticsearch.plugin/x-pack-security@6.8.18?classifier=sources
 - pkg:maven/org.elasticsearch.plugin/x-pack-security@7.10.0
 - pkg:maven/org.elasticsearch.plugin/x-pack-security@7.10.0?classifier=sources
 - pkg:maven/org.elasticsearch.plugin/x-pack-security@7.10.1
@@ -32,6 +36,12 @@
 - pkg:maven/org.elasticsearch.plugin/x-pack-security@7.13.1?classifier=sources
 - pkg:maven/org.elasticsearch.plugin/x-pack-security@7.13.2
 - pkg:maven/org.elasticsearch.plugin/x-pack-security@7.13.2?classifier=sources
+- pkg:maven/org.elasticsearch.plugin/x-pack-security@7.13.3
+- pkg:maven/org.elasticsearch.plugin/x-pack-security@7.13.3?classifier=sources
+- pkg:maven/org.elasticsearch.plugin/x-pack-security@7.13.4
+- pkg:maven/org.elasticsearch.plugin/x-pack-security@7.13.4?classifier=sources
+- pkg:maven/org.elasticsearch.plugin/x-pack-security@7.14.0
+- pkg:maven/org.elasticsearch.plugin/x-pack-security@7.14.0?classifier=sources
 - pkg:maven/org.elasticsearch.plugin/x-pack-security@7.8.1
 - pkg:maven/org.elasticsearch.plugin/x-pack-security@7.8.1?classifier=sources
 - pkg:maven/org.elasticsearch.plugin/x-pack-security@7.9.0
@@ -42,3 +52,5 @@
 - pkg:maven/org.elasticsearch.plugin/x-pack-security@7.9.2?classifier=sources
 - pkg:maven/org.elasticsearch.plugin/x-pack-security@7.9.3
 - pkg:maven/org.elasticsearch.plugin/x-pack-security@7.9.3?classifier=sources
+- pkg:maven/org.elasticsearch.plugin/x-pack-security@8.0.0-alpha1
+- pkg:maven/org.elasticsearch.plugin/x-pack-security@8.0.0-alpha1?classifier=sources

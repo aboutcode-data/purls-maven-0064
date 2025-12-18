@@ -1,0 +1,7 @@
+- pkg:maven/cn.vorbote/web-dev-suite@1.0
+- pkg:maven/cn.vorbote/web-dev-suite@1.0.1.RELEASE?classifier=sources
+- pkg:maven/cn.vorbote/web-dev-suite@1.0?classifier=sources
+- pkg:maven/cn.vorbote/web-dev-suite@1.1.0.RELEASE
+- pkg:maven/cn.vorbote/web-dev-suite@1.1.0.RELEASE?classifier=sources
+- pkg:maven/cn.vorbote/web-dev-suite@2.0.0.RELEASE
+- pkg:maven/cn.vorbote/web-dev-suite@2.0.0.RELEASE?classifier=sources

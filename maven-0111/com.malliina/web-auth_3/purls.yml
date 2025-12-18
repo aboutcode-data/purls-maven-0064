@@ -1,0 +1,2 @@
+- pkg:maven/com.malliina/web-auth_3@6.0.2
+- pkg:maven/com.malliina/web-auth_3@6.0.2?classifier=sources

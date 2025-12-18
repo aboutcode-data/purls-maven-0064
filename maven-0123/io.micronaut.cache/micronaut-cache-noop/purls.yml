@@ -13,3 +13,5 @@
 - pkg:maven/io.micronaut.cache/micronaut-cache-noop@2.2.0?classifier=sources
 - pkg:maven/io.micronaut.cache/micronaut-cache-noop@2.3.0?classifier=sources
 - pkg:maven/io.micronaut.cache/micronaut-cache-noop@2.4.0?classifier=sources
+- pkg:maven/io.micronaut.cache/micronaut-cache-noop@3.0.0-RC2?classifier=sources
+- pkg:maven/io.micronaut.cache/micronaut-cache-noop@3.0.0.RC1?classifier=sources
