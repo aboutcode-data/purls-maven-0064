@@ -1,0 +1,2 @@
+- pkg:maven/com.github.xuwei-k/jwt-scala_3@1.8.0
+- pkg:maven/com.github.xuwei-k/jwt-scala_3@1.8.0?classifier=sources

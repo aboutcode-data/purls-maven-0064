@@ -12,3 +12,8 @@
 - pkg:maven/io.jumpco.open/kfsm-viz@1.4.0?classifier=sources
 - pkg:maven/io.jumpco.open/kfsm-viz@1.4.31
 - pkg:maven/io.jumpco.open/kfsm-viz@1.4.31?classifier=sources
+- pkg:maven/io.jumpco.open/kfsm-viz@1.4.32.1?classifier=sources
+- pkg:maven/io.jumpco.open/kfsm-viz@1.4.32.2?classifier=sources
+- pkg:maven/io.jumpco.open/kfsm-viz@1.4.32.3?classifier=sources
+- pkg:maven/io.jumpco.open/kfsm-viz@1.4.32.4?classifier=sources
+- pkg:maven/io.jumpco.open/kfsm-viz@1.4.32?classifier=sources

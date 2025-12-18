@@ -14,6 +14,11 @@
 - pkg:maven/com.algolia/algoliasearch-core-uber@3.12.1?classifier=sources
 - pkg:maven/com.algolia/algoliasearch-core-uber@3.13.0
 - pkg:maven/com.algolia/algoliasearch-core-uber@3.13.0?classifier=sources
+- pkg:maven/com.algolia/algoliasearch-core-uber@3.14.0?classifier=sources
+- pkg:maven/com.algolia/algoliasearch-core-uber@3.14.1
+- pkg:maven/com.algolia/algoliasearch-core-uber@3.14.1?classifier=sources
+- pkg:maven/com.algolia/algoliasearch-core-uber@3.14.2
+- pkg:maven/com.algolia/algoliasearch-core-uber@3.14.2?classifier=sources
 - pkg:maven/com.algolia/algoliasearch-core-uber@3.2.0
 - pkg:maven/com.algolia/algoliasearch-core-uber@3.2.0?classifier=sources
 - pkg:maven/com.algolia/algoliasearch-core-uber@3.2.1

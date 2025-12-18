@@ -44,6 +44,10 @@
 - pkg:maven/com.google.apis/google-api-services-servicedirectory@v1beta1-rev20210324-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-servicedirectory@v1beta1-rev20210407-1.31.0
 - pkg:maven/com.google.apis/google-api-services-servicedirectory@v1beta1-rev20210407-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-servicedirectory@v1beta1-rev20210422-1.31.0
+- pkg:maven/com.google.apis/google-api-services-servicedirectory@v1beta1-rev20210422-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-servicedirectory@v1beta1-rev20210512-1.31.0
+- pkg:maven/com.google.apis/google-api-services-servicedirectory@v1beta1-rev20210512-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-servicedirectory@v1beta1-rev6-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-servicedirectory@v1beta1-rev6-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-servicedirectory@v1beta1-rev6-1.25.0

@@ -1,2 +1,3 @@
 - pkg:maven/com.yandex.android/appmetricapush-core@1.10.0?type=aar
 - pkg:maven/com.yandex.android/appmetricapush-core@1.11.0?type=aar
+- pkg:maven/com.yandex.android/appmetricapush-core@1.11.1?type=aar

@@ -120,3 +120,4 @@
 - pkg:maven/com.segment.analytics.android/analytics-wear@4.9.1-beta?type=aar
 - pkg:maven/com.segment.analytics.android/analytics-wear@4.9.2?classifier=sources
 - pkg:maven/com.segment.analytics.android/analytics-wear@4.9.3?classifier=sources
+- pkg:maven/com.segment.analytics.android/analytics-wear@4.9.4?classifier=sources

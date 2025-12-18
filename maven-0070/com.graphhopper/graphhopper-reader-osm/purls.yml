@@ -220,6 +220,8 @@
 - pkg:maven/com.graphhopper/graphhopper-reader-osm@2.2?classifier=sources
 - pkg:maven/com.graphhopper/graphhopper-reader-osm@2.3
 - pkg:maven/com.graphhopper/graphhopper-reader-osm@2.3?classifier=sources
+- pkg:maven/com.graphhopper/graphhopper-reader-osm@2.4
+- pkg:maven/com.graphhopper/graphhopper-reader-osm@2.4?classifier=sources
 - pkg:maven/com.graphhopper/graphhopper-reader-osm@3.0-pre1
 - pkg:maven/com.graphhopper/graphhopper-reader-osm@3.0-pre1?classifier=sources
 - pkg:maven/com.graphhopper/graphhopper-reader-osm@3.0-pre2

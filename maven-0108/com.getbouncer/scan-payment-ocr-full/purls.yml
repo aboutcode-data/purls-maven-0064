@@ -1,0 +1,2 @@
+- pkg:maven/com.getbouncer/scan-payment-ocr-full@2.1.0001?classifier=sources
+- pkg:maven/com.getbouncer/scan-payment-ocr-full@2.1.0002?classifier=sources

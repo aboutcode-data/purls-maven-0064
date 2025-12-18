@@ -1,0 +1,2 @@
+- pkg:maven/io.github.scalapb-json/scalapb-argonaut_sjs1_3@0.9.1
+- pkg:maven/io.github.scalapb-json/scalapb-argonaut_sjs1_3@0.9.1?classifier=sources

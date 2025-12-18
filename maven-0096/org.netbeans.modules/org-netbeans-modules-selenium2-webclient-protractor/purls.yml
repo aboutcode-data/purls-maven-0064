@@ -9,3 +9,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-selenium2-webclient-protractor@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-selenium2-webclient-protractor@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-selenium2-webclient-protractor@RELEASE123?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-selenium2-webclient-protractor@RELEASE124?classifier=sources

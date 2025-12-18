@@ -72,3 +72,5 @@
 - pkg:maven/com.github.manosbatsis.corbeans/corbeans-spring-boot-starter@0.52?classifier=sources
 - pkg:maven/com.github.manosbatsis.corbeans/corbeans-spring-boot-starter@0.53
 - pkg:maven/com.github.manosbatsis.corbeans/corbeans-spring-boot-starter@0.53?classifier=sources
+- pkg:maven/com.github.manosbatsis.corbeans/corbeans-spring-boot-starter@0.54
+- pkg:maven/com.github.manosbatsis.corbeans/corbeans-spring-boot-starter@0.54?classifier=sources

@@ -1,4 +1,8 @@
 - pkg:maven/org.webjars.bowergithub.nhn/tui.chart@3.10.0
 - pkg:maven/org.webjars.bowergithub.nhn/tui.chart@3.10.0?classifier=sources
+- pkg:maven/org.webjars.bowergithub.nhn/tui.chart@3.11.3
+- pkg:maven/org.webjars.bowergithub.nhn/tui.chart@3.11.3?classifier=sources
 - pkg:maven/org.webjars.bowergithub.nhn/tui.chart@3.7.0
 - pkg:maven/org.webjars.bowergithub.nhn/tui.chart@3.7.0?classifier=sources
+- pkg:maven/org.webjars.bowergithub.nhn/tui.chart@4.3.4
+- pkg:maven/org.webjars.bowergithub.nhn/tui.chart@4.3.4?classifier=sources

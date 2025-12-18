@@ -1,0 +1,2 @@
+- pkg:maven/com.liveperson.android/monitoring@4.8.1?classifier=sources
+- pkg:maven/com.liveperson.android/monitoring@5.6.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/io.github.cube8540/validator-core@1.2.0-RELEASE
 - pkg:maven/io.github.cube8540/validator-core@1.2.0-RELEASE?classifier=sources
+- pkg:maven/io.github.cube8540/validator-core@1.3.0-RELEASE
+- pkg:maven/io.github.cube8540/validator-core@1.3.0-RELEASE?classifier=sources

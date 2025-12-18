@@ -130,3 +130,8 @@
 - pkg:maven/org.wso2.carbon.identity.rest.dispatcher/identity-api-dispatcher@1.0.99?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.rest.dispatcher/identity-api-dispatcher@1.0.9?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.rest.dispatcher/identity-api-dispatcher@2.0.0?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.rest.dispatcher/identity-api-dispatcher@2.0.1?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.rest.dispatcher/identity-api-dispatcher@2.0.2?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.rest.dispatcher/identity-api-dispatcher@2.0.3?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.rest.dispatcher/identity-api-dispatcher@2.0.4?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.rest.dispatcher/identity-api-dispatcher@2.0.5?classifier=source-release&type=zip

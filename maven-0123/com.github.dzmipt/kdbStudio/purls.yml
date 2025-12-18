@@ -1,2 +1,3 @@
 - pkg:maven/com.github.dzmipt/kdbStudio@dz1.7?classifier=sources
 - pkg:maven/com.github.dzmipt/kdbStudio@dz1.8?classifier=sources
+- pkg:maven/com.github.dzmipt/kdbStudio@dz1.9?classifier=sources

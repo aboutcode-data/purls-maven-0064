@@ -9,4 +9,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-xsl@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-xsl@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-xsl@RELEASE123?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-xsl@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-xsl@RELEASE90?classifier=sources

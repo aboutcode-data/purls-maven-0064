@@ -1,0 +1,2 @@
+- pkg:maven/com.squins.google.fork.schema-org-client/schema-org-client@1.0.0?classifier=sources
+- pkg:maven/com.squins.google.fork.schema-org-client/schema-org-client@1.0.1?classifier=sources

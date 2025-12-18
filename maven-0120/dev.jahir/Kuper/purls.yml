@@ -1,1 +1,3 @@
+- pkg:maven/dev.jahir/Kuper@2.3.2?classifier=sources
+- pkg:maven/dev.jahir/Kuper@2.3.3?classifier=sources
 - pkg:maven/dev.jahir/Kuper@228?classifier=sources

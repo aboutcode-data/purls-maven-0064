@@ -33,3 +33,5 @@
 - pkg:maven/org.kie.kogito/drools-decisiontables@1.4.0.Final
 - pkg:maven/org.kie.kogito/drools-decisiontables@1.4.1.Final
 - pkg:maven/org.kie.kogito/drools-decisiontables@1.5.0.Final
+- pkg:maven/org.kie.kogito/drools-decisiontables@1.6.0.Final
+- pkg:maven/org.kie.kogito/drools-decisiontables@1.7.0.Final

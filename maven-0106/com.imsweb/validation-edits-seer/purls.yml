@@ -66,3 +66,9 @@
 - pkg:maven/com.imsweb/validation-edits-seer@021-02?classifier=sources
 - pkg:maven/com.imsweb/validation-edits-seer@021-03
 - pkg:maven/com.imsweb/validation-edits-seer@021-03?classifier=sources
+- pkg:maven/com.imsweb/validation-edits-seer@021-04
+- pkg:maven/com.imsweb/validation-edits-seer@021-04?classifier=sources
+- pkg:maven/com.imsweb/validation-edits-seer@021-05
+- pkg:maven/com.imsweb/validation-edits-seer@021-05?classifier=sources
+- pkg:maven/com.imsweb/validation-edits-seer@021-06
+- pkg:maven/com.imsweb/validation-edits-seer@021-06?classifier=sources

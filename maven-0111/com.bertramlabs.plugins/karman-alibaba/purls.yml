@@ -73,3 +73,5 @@
 - pkg:maven/com.bertramlabs.plugins/karman-alibaba@1.5.3
 - pkg:maven/com.bertramlabs.plugins/karman-alibaba@1.5.3?classifier=sources
 - pkg:maven/com.bertramlabs.plugins/karman-alibaba@1.5.6?classifier=sources
+- pkg:maven/com.bertramlabs.plugins/karman-alibaba@1.6.0?classifier=sources
+- pkg:maven/com.bertramlabs.plugins/karman-alibaba@1.6.1?classifier=sources

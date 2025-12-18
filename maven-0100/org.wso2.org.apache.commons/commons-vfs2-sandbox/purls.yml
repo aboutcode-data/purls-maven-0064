@@ -1,3 +1,5 @@
+- pkg:maven/org.wso2.org.apache.commons/commons-vfs2-sandbox@2.2-wso2v10
+- pkg:maven/org.wso2.org.apache.commons/commons-vfs2-sandbox@2.2-wso2v10?classifier=sources
 - pkg:maven/org.wso2.org.apache.commons/commons-vfs2-sandbox@2.2-wso2v2
 - pkg:maven/org.wso2.org.apache.commons/commons-vfs2-sandbox@2.2-wso2v2?classifier=sources
 - pkg:maven/org.wso2.org.apache.commons/commons-vfs2-sandbox@2.2-wso2v3

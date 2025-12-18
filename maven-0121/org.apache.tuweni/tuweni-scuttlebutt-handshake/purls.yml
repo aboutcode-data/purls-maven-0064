@@ -3,3 +3,4 @@
 - pkg:maven/org.apache.tuweni/tuweni-scuttlebutt-handshake@0.9.0?classifier=sources
 - pkg:maven/org.apache.tuweni/tuweni-scuttlebutt-handshake@1.0.0?classifier=sources
 - pkg:maven/org.apache.tuweni/tuweni-scuttlebutt-handshake@1.1.0?classifier=sources
+- pkg:maven/org.apache.tuweni/tuweni-scuttlebutt-handshake@2.0.0?classifier=sources

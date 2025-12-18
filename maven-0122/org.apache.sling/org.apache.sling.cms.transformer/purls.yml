@@ -6,3 +6,5 @@
 - pkg:maven/org.apache.sling/org.apache.sling.cms.transformer@0.16.0?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.cms.transformer@0.16.2
 - pkg:maven/org.apache.sling/org.apache.sling.cms.transformer@0.16.2?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.cms.transformer@1.0.2
+- pkg:maven/org.apache.sling/org.apache.sling.cms.transformer@1.0.2?classifier=sources

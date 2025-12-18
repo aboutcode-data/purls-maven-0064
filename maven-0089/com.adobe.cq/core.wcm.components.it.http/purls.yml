@@ -12,3 +12,7 @@
 - pkg:maven/com.adobe.cq/core.wcm.components.it.http@2.15.2?classifier=sources
 - pkg:maven/com.adobe.cq/core.wcm.components.it.http@2.16.0
 - pkg:maven/com.adobe.cq/core.wcm.components.it.http@2.16.0?classifier=sources
+- pkg:maven/com.adobe.cq/core.wcm.components.it.http@2.16.2
+- pkg:maven/com.adobe.cq/core.wcm.components.it.http@2.16.2?classifier=sources
+- pkg:maven/com.adobe.cq/core.wcm.components.it.http@2.16.4
+- pkg:maven/com.adobe.cq/core.wcm.components.it.http@2.16.4?classifier=sources

@@ -12,3 +12,15 @@
 - pkg:maven/vip.mate/mate-starter-job@2.5.8?classifier=sources
 - pkg:maven/vip.mate/mate-starter-job@3.0.8
 - pkg:maven/vip.mate/mate-starter-job@3.0.8?classifier=sources
+- pkg:maven/vip.mate/mate-starter-job@3.1.8
+- pkg:maven/vip.mate/mate-starter-job@3.1.8?classifier=sources
+- pkg:maven/vip.mate/mate-starter-job@3.2.8
+- pkg:maven/vip.mate/mate-starter-job@3.2.8?classifier=sources
+- pkg:maven/vip.mate/mate-starter-job@3.3.8
+- pkg:maven/vip.mate/mate-starter-job@3.3.8?classifier=sources
+- pkg:maven/vip.mate/mate-starter-job@3.5.8
+- pkg:maven/vip.mate/mate-starter-job@3.5.8?classifier=sources
+- pkg:maven/vip.mate/mate-starter-job@3.6.8
+- pkg:maven/vip.mate/mate-starter-job@3.6.8?classifier=sources
+- pkg:maven/vip.mate/mate-starter-job@3.7.8
+- pkg:maven/vip.mate/mate-starter-job@3.7.8?classifier=sources

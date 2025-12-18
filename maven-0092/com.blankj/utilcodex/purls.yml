@@ -1,0 +1,3 @@
+- pkg:maven/com.blankj/utilcodex@1.30.6?classifier=sources
+- pkg:maven/com.blankj/utilcodex@1.30.6?type=aar
+- pkg:maven/com.blankj/utilcodex@1.30.7-alpha0?classifier=sources

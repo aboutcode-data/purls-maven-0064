@@ -1,0 +1,6 @@
+- pkg:maven/io.github.jxnflzc/jtools-log@1.3.4
+- pkg:maven/io.github.jxnflzc/jtools-log@1.3.4?classifier=sources
+- pkg:maven/io.github.jxnflzc/jtools-log@2.0.0
+- pkg:maven/io.github.jxnflzc/jtools-log@2.0.0?classifier=sources
+- pkg:maven/io.github.jxnflzc/jtools-log@2.0.1
+- pkg:maven/io.github.jxnflzc/jtools-log@2.0.1?classifier=sources

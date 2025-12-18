@@ -1,0 +1,2 @@
+- pkg:maven/jakarta.enterprise/cdi-tck-core-impl@4.1.0.Alpha1
+- pkg:maven/jakarta.enterprise/cdi-tck-core-impl@4.1.0.Alpha1?classifier=sources

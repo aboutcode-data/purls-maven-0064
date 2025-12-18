@@ -64,6 +64,8 @@
 - pkg:maven/org.craftercms/crafter-social-admin@3.1.12E?type=war
 - pkg:maven/org.craftercms/crafter-social-admin@3.1.13?type=war
 - pkg:maven/org.craftercms/crafter-social-admin@3.1.13E?type=war
+- pkg:maven/org.craftercms/crafter-social-admin@3.1.14?type=war
+- pkg:maven/org.craftercms/crafter-social-admin@3.1.14E?type=war
 - pkg:maven/org.craftercms/crafter-social-admin@3.1.1?type=war
 - pkg:maven/org.craftercms/crafter-social-admin@3.1.2?type=war
 - pkg:maven/org.craftercms/crafter-social-admin@3.1.3?type=war

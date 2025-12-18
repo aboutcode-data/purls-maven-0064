@@ -123,3 +123,5 @@
 - pkg:maven/org.datanucleus/datanucleus-xml@5.1.0-release?classifier=sources
 - pkg:maven/org.datanucleus/datanucleus-xml@5.1.1
 - pkg:maven/org.datanucleus/datanucleus-xml@5.1.1?classifier=sources
+- pkg:maven/org.datanucleus/datanucleus-xml@6.0.0-m1
+- pkg:maven/org.datanucleus/datanucleus-xml@6.0.0-m1?classifier=sources

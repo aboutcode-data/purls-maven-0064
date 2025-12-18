@@ -27,3 +27,9 @@
 - pkg:maven/com.commercetools.rmf/typescript@1.0.0-20210420201217?classifier=sources
 - pkg:maven/com.commercetools.rmf/typescript@1.0.0-20210420204915?classifier=sources
 - pkg:maven/com.commercetools.rmf/typescript@1.0.0-20210421112806?classifier=sources
+- pkg:maven/com.commercetools.rmf/typescript@1.0.0-20210427201058?classifier=sources
+- pkg:maven/com.commercetools.rmf/typescript@1.0.0-20210430115101?classifier=sources
+- pkg:maven/com.commercetools.rmf/typescript@1.0.0-20210506191811?classifier=sources
+- pkg:maven/com.commercetools.rmf/typescript@1.0.0-20210507202614?classifier=sources
+- pkg:maven/com.commercetools.rmf/typescript@1.0.0-20210511072257?classifier=sources
+- pkg:maven/com.commercetools.rmf/typescript@1.0.0-20210511121759?classifier=sources

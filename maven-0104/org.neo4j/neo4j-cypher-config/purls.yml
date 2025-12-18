@@ -1,0 +1,2 @@
+- pkg:maven/org.neo4j/neo4j-cypher-config@4.3.0
+- pkg:maven/org.neo4j/neo4j-cypher-config@4.3.0?classifier=sources

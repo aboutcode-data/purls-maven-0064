@@ -8,3 +8,7 @@
 - pkg:maven/com.anaptecs.jeaf.workload/jeaf-workload-impl@1.0.8?classifier=sources
 - pkg:maven/com.anaptecs.jeaf.workload/jeaf-workload-impl@1.0.9
 - pkg:maven/com.anaptecs.jeaf.workload/jeaf-workload-impl@1.0.9?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.workload/jeaf-workload-impl@1.5.3
+- pkg:maven/com.anaptecs.jeaf.workload/jeaf-workload-impl@1.5.3?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.workload/jeaf-workload-impl@1.6.0
+- pkg:maven/com.anaptecs.jeaf.workload/jeaf-workload-impl@1.6.0?classifier=sources

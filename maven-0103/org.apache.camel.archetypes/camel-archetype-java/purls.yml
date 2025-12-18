@@ -114,6 +114,7 @@
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-java@2.25.1?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-java@2.25.2?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-java@2.25.3?classifier=sources
+- pkg:maven/org.apache.camel.archetypes/camel-archetype-java@2.25.4?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-java@2.3.0
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-java@2.3.0?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-java@2.4.0
@@ -154,6 +155,7 @@
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-java@3.0.0?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-java@3.0.1?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-java@3.1.0?classifier=sources
+- pkg:maven/org.apache.camel.archetypes/camel-archetype-java@3.10.0?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-java@3.2.0?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-java@3.3.0?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-java@3.4.0?classifier=sources

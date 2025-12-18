@@ -10,6 +10,8 @@
 - pkg:maven/com.launchdarkly/launchdarkly-android-client-sdk@2.14.0?type=aar
 - pkg:maven/com.launchdarkly/launchdarkly-android-client-sdk@2.14.1?classifier=sources
 - pkg:maven/com.launchdarkly/launchdarkly-android-client-sdk@2.14.1?type=aar
+- pkg:maven/com.launchdarkly/launchdarkly-android-client-sdk@2.14.2?classifier=sources
+- pkg:maven/com.launchdarkly/launchdarkly-android-client-sdk@2.14.2?type=aar
 - pkg:maven/com.launchdarkly/launchdarkly-android-client-sdk@2.8.1?classifier=sources
 - pkg:maven/com.launchdarkly/launchdarkly-android-client-sdk@2.8.1?type=aar
 - pkg:maven/com.launchdarkly/launchdarkly-android-client-sdk@2.8.2?classifier=sources
@@ -24,3 +26,4 @@
 - pkg:maven/com.launchdarkly/launchdarkly-android-client-sdk@2.9.0?type=aar
 - pkg:maven/com.launchdarkly/launchdarkly-android-client-sdk@2.9.1?classifier=sources
 - pkg:maven/com.launchdarkly/launchdarkly-android-client-sdk@2.9.1?type=aar
+- pkg:maven/com.launchdarkly/launchdarkly-android-client-sdk@3.0.0?classifier=sources

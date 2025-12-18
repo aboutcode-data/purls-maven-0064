@@ -1,0 +1,2 @@
+- pkg:maven/com.github.fluorumlabs/jext-apt-zero@1.0.0
+- pkg:maven/com.github.fluorumlabs/jext-apt-zero@1.0.0?classifier=sources

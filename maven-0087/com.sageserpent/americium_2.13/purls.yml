@@ -1,0 +1,2 @@
+- pkg:maven/com.sageserpent/americium_2.13@0.1.11-trials-rc
+- pkg:maven/com.sageserpent/americium_2.13@0.1.11-trials-rc?classifier=sources

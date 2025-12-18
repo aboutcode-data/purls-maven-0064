@@ -50,3 +50,5 @@
 - pkg:maven/org.opencb.cellbase/cellbase-server@4.9.0?classifier=sources
 - pkg:maven/org.opencb.cellbase/cellbase-server@4.9.1
 - pkg:maven/org.opencb.cellbase/cellbase-server@4.9.1?classifier=sources
+- pkg:maven/org.opencb.cellbase/cellbase-server@5.0.0-rc
+- pkg:maven/org.opencb.cellbase/cellbase-server@5.0.0-rc?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.antgroup.antchain.openapi/openapi-appex@1.2.19
 - pkg:maven/com.antgroup.antchain.openapi/openapi-appex@1.2.19?classifier=sources
+- pkg:maven/com.antgroup.antchain.openapi/openapi-appex@1.2.20
+- pkg:maven/com.antgroup.antchain.openapi/openapi-appex@1.2.20?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.solr/solr-gcs-repository@8.9.0
+- pkg:maven/org.apache.solr/solr-gcs-repository@8.9.0?classifier=sources

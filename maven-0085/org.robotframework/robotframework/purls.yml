@@ -36,3 +36,4 @@
 - pkg:maven/org.robotframework/robotframework@3.2.2
 - pkg:maven/org.robotframework/robotframework@4.0
 - pkg:maven/org.robotframework/robotframework@4.0.1
+- pkg:maven/org.robotframework/robotframework@4.0.3

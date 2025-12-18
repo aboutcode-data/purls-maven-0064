@@ -1,2 +1,3 @@
 - pkg:maven/com.io7m.jwheatsheaf/com.io7m.jwheatsheaf.documentation@2.0.0?classifier=sources
 - pkg:maven/com.io7m.jwheatsheaf/com.io7m.jwheatsheaf.documentation@2.0.1?classifier=sources
+- pkg:maven/com.io7m.jwheatsheaf/com.io7m.jwheatsheaf.documentation@3.0.0?classifier=sources

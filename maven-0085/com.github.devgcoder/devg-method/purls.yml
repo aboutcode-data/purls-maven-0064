@@ -1,0 +1,2 @@
+- pkg:maven/com.github.devgcoder/devg-method@1.0.1
+- pkg:maven/com.github.devgcoder/devg-method@1.0.1?classifier=sources

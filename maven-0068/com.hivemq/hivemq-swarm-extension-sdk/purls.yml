@@ -1,1 +1,3 @@
 - pkg:maven/com.hivemq/hivemq-swarm-extension-sdk@4.6.0?classifier=sources
+- pkg:maven/com.hivemq/hivemq-swarm-extension-sdk@4.6.1?classifier=sources
+- pkg:maven/com.hivemq/hivemq-swarm-extension-sdk@4.6.2?classifier=sources

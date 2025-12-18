@@ -1,0 +1,2 @@
+- pkg:maven/io.devbench/quill-delta@0.1.0-dev
+- pkg:maven/io.devbench/quill-delta@0.1.0-dev?classifier=sources

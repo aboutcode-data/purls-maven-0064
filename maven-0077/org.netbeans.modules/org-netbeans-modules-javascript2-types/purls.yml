@@ -9,3 +9,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-types@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-types@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-types@RELEASE123?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-types@RELEASE124?classifier=sources

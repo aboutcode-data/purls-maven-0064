@@ -1,0 +1,4 @@
+- pkg:maven/io.github.neotypes/neotypes-cats-data_2.12@0.18.0
+- pkg:maven/io.github.neotypes/neotypes-cats-data_2.12@0.18.0?classifier=sources
+- pkg:maven/io.github.neotypes/neotypes-cats-data_2.12@0.18.1
+- pkg:maven/io.github.neotypes/neotypes-cats-data_2.12@0.18.1?classifier=sources

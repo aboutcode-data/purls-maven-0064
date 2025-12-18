@@ -1,0 +1,6 @@
+- pkg:maven/se.mdh.jaxb/mdh-jaxb@1.0.0
+- pkg:maven/se.mdh.jaxb/mdh-jaxb@1.0.0?classifier=sources
+- pkg:maven/se.mdh.jaxb/mdh-jaxb@1.1.0
+- pkg:maven/se.mdh.jaxb/mdh-jaxb@1.1.0?classifier=sources
+- pkg:maven/se.mdh.jaxb/mdh-jaxb@1.1.1
+- pkg:maven/se.mdh.jaxb/mdh-jaxb@1.1.1?classifier=sources

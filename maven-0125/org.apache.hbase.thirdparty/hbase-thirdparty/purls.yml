@@ -19,3 +19,4 @@
 - pkg:maven/org.apache.hbase.thirdparty/hbase-thirdparty@3.4.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.hbase.thirdparty/hbase-thirdparty@3.4.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.hbase.thirdparty/hbase-thirdparty@3.5.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.hbase.thirdparty/hbase-thirdparty@3.5.1?classifier=source-release&type=zip

@@ -9,4 +9,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-saas-api@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-saas-api@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-saas-api@RELEASE123?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-saas-api@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-saas-api@RELEASE90?classifier=sources

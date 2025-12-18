@@ -4,3 +4,5 @@
 - pkg:maven/za.co.absa.hyperdrive/driver_2.11@4.2.2?classifier=sources
 - pkg:maven/za.co.absa.hyperdrive/driver_2.11@4.3.0
 - pkg:maven/za.co.absa.hyperdrive/driver_2.11@4.3.0?classifier=sources
+- pkg:maven/za.co.absa.hyperdrive/driver_2.11@4.4.0
+- pkg:maven/za.co.absa.hyperdrive/driver_2.11@4.4.0?classifier=sources

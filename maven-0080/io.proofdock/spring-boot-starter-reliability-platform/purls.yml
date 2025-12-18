@@ -1,0 +1,2 @@
+- pkg:maven/io.proofdock/spring-boot-starter-reliability-platform@1.0.0
+- pkg:maven/io.proofdock/spring-boot-starter-reliability-platform@1.0.0?classifier=sources

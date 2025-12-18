@@ -13,3 +13,4 @@
 - pkg:maven/org.apache.skywalking/telemetry-prometheus@8.3.0
 - pkg:maven/org.apache.skywalking/telemetry-prometheus@8.4.0
 - pkg:maven/org.apache.skywalking/telemetry-prometheus@8.5.0
+- pkg:maven/org.apache.skywalking/telemetry-prometheus@8.6.0

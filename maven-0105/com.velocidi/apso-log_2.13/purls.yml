@@ -2,3 +2,5 @@
 - pkg:maven/com.velocidi/apso-log_2.13@0.16.10?classifier=sources
 - pkg:maven/com.velocidi/apso-log_2.13@0.16.11
 - pkg:maven/com.velocidi/apso-log_2.13@0.16.11?classifier=sources
+- pkg:maven/com.velocidi/apso-log_2.13@0.17.0
+- pkg:maven/com.velocidi/apso-log_2.13@0.17.0?classifier=sources

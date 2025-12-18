@@ -1,0 +1,2 @@
+- pkg:maven/org.opendaylight.aaa/repackaged-shiro@0.12.4
+- pkg:maven/org.opendaylight.aaa/repackaged-shiro@0.12.4?classifier=sources

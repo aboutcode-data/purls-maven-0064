@@ -1,0 +1,2 @@
+- pkg:maven/com.pulseid/pulse-sdk@5.0.0?type=aar
+- pkg:maven/com.pulseid/pulse-sdk@5.0.1?type=aar

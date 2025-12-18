@@ -8,3 +8,11 @@
 - pkg:maven/org.dpppt/dp3t-sdk-android@2.1.0-dev-4?classifier=sources
 - pkg:maven/org.dpppt/dp3t-sdk-android@2.2.0-calibration?classifier=sources
 - pkg:maven/org.dpppt/dp3t-sdk-android@2.2.0?classifier=sources
+- pkg:maven/org.dpppt/dp3t-sdk-android@2.3.0-dev-10-calibration?classifier=sources
+- pkg:maven/org.dpppt/dp3t-sdk-android@2.3.0-dev-10?classifier=sources
+- pkg:maven/org.dpppt/dp3t-sdk-android@2.3.0-dev-6-calibration?classifier=sources
+- pkg:maven/org.dpppt/dp3t-sdk-android@2.3.0-dev-6?classifier=sources
+- pkg:maven/org.dpppt/dp3t-sdk-android@2.3.0-dev-7-calibration?classifier=sources
+- pkg:maven/org.dpppt/dp3t-sdk-android@2.3.0-dev-7?classifier=sources
+- pkg:maven/org.dpppt/dp3t-sdk-android@2.3.0-dev-8-calibration?classifier=sources
+- pkg:maven/org.dpppt/dp3t-sdk-android@2.3.0-dev-8?classifier=sources

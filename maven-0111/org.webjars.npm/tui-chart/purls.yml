@@ -4,6 +4,8 @@
 - pkg:maven/org.webjars.npm/tui-chart@3.0.1?classifier=sources
 - pkg:maven/org.webjars.npm/tui-chart@3.10.0
 - pkg:maven/org.webjars.npm/tui-chart@3.10.0?classifier=sources
+- pkg:maven/org.webjars.npm/tui-chart@3.11.3
+- pkg:maven/org.webjars.npm/tui-chart@3.11.3?classifier=sources
 - pkg:maven/org.webjars.npm/tui-chart@3.4.1
 - pkg:maven/org.webjars.npm/tui-chart@3.4.1?classifier=sources
 - pkg:maven/org.webjars.npm/tui-chart@3.6.2

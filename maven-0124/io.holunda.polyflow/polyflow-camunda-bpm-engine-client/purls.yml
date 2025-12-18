@@ -1,0 +1,2 @@
+- pkg:maven/io.holunda.polyflow/polyflow-camunda-bpm-engine-client@3.0.0
+- pkg:maven/io.holunda.polyflow/polyflow-camunda-bpm-engine-client@3.0.0?classifier=sources

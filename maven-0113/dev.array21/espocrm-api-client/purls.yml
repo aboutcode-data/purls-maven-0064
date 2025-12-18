@@ -1,0 +1,2 @@
+- pkg:maven/dev.array21/espocrm-api-client@1.0.0
+- pkg:maven/dev.array21/espocrm-api-client@1.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.byc-smart/cloud-smart@0.0.1
+- pkg:maven/io.github.byc-smart/cloud-smart@0.0.1?classifier=sources

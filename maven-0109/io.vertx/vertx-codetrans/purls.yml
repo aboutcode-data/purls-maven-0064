@@ -102,6 +102,8 @@
 - pkg:maven/io.vertx/vertx-codetrans@3.9.6?classifier=sources
 - pkg:maven/io.vertx/vertx-codetrans@3.9.7
 - pkg:maven/io.vertx/vertx-codetrans@3.9.7?classifier=sources
+- pkg:maven/io.vertx/vertx-codetrans@3.9.8
+- pkg:maven/io.vertx/vertx-codetrans@3.9.8?classifier=sources
 - pkg:maven/io.vertx/vertx-codetrans@4.0.0
 - pkg:maven/io.vertx/vertx-codetrans@4.0.0-milestone1
 - pkg:maven/io.vertx/vertx-codetrans@4.0.0-milestone1?classifier=sources
@@ -130,3 +132,5 @@
 - pkg:maven/io.vertx/vertx-codetrans@4.0.2?classifier=sources
 - pkg:maven/io.vertx/vertx-codetrans@4.0.3
 - pkg:maven/io.vertx/vertx-codetrans@4.0.3?classifier=sources
+- pkg:maven/io.vertx/vertx-codetrans@4.1.0.Beta1
+- pkg:maven/io.vertx/vertx-codetrans@4.1.0.Beta1?classifier=sources

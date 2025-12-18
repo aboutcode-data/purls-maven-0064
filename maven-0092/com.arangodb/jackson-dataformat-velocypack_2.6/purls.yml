@@ -1,0 +1,2 @@
+- pkg:maven/com.arangodb/jackson-dataformat-velocypack_2.6@0.0.1
+- pkg:maven/com.arangodb/jackson-dataformat-velocypack_2.6@0.0.1?classifier=sources

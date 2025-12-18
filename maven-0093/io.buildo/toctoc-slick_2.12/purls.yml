@@ -1,0 +1,2 @@
+- pkg:maven/io.buildo/toctoc-slick_2.12@0.1.9
+- pkg:maven/io.buildo/toctoc-slick_2.12@0.1.9?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/fr.mrmicky/fastboard@1.2.0
+- pkg:maven/fr.mrmicky/fastboard@1.2.0?classifier=sources

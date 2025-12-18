@@ -24,3 +24,4 @@
 - pkg:maven/org.apache.tika/tika@1.8?classifier=src&type=zip
 - pkg:maven/org.apache.tika/tika@1.9?classifier=src&type=zip
 - pkg:maven/org.apache.tika/tika@2.0.0-ALPHA?classifier=src&type=zip
+- pkg:maven/org.apache.tika/tika@2.0.0-BETA?classifier=src&type=zip

@@ -19,4 +19,6 @@
 - pkg:maven/org.webjars.npm/fuse.js@5.2.3
 - pkg:maven/org.webjars.npm/fuse.js@5.2.3?classifier=sources
 - pkg:maven/org.webjars.npm/fuse.js@6.0.0
+- pkg:maven/org.webjars.npm/fuse.js@6.0.0-beta.2
+- pkg:maven/org.webjars.npm/fuse.js@6.0.0-beta.2?classifier=sources
 - pkg:maven/org.webjars.npm/fuse.js@6.0.0?classifier=sources
