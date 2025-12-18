@@ -1,0 +1,16 @@
+- pkg:maven/com.github.jchanghong/common-min@2.3.12.22.1?classifier=sources
+- pkg:maven/com.github.jchanghong/common-min@2.3.12.22.2?classifier=sources
+- pkg:maven/com.github.jchanghong/common-min@2.3.12.22.3?classifier=sources
+- pkg:maven/com.github.jchanghong/common-min@2.3.12.22.4?classifier=sources
+- pkg:maven/com.github.jchanghong/common-min@2.3.12.22?classifier=sources
+- pkg:maven/com.github.jchanghong/common-min@2.3.12.23?classifier=sources
+- pkg:maven/com.github.jchanghong/common-min@2.3.12.30?classifier=sources
+- pkg:maven/com.github.jchanghong/common-min@2.3.12.40?classifier=sources
+- pkg:maven/com.github.jchanghong/common-min@2.3.12.50?classifier=sources
+- pkg:maven/com.github.jchanghong/common-min@2.3.12.60?classifier=sources
+- pkg:maven/com.github.jchanghong/common-min@2.3.12.80?classifier=sources
+- pkg:maven/com.github.jchanghong/common-min@2.3.12.90?classifier=sources
+- pkg:maven/com.github.jchanghong/common-min@2.3.12.91?classifier=sources
+- pkg:maven/com.github.jchanghong/common-min@2.3.12.92?classifier=sources
+- pkg:maven/com.github.jchanghong/common-min@2.3.12.93?classifier=sources
+- pkg:maven/com.github.jchanghong/common-min@2.3.12.94?classifier=sources

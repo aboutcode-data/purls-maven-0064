@@ -30,3 +30,5 @@
 - pkg:maven/biz.aQute.bnd/aQute.libg@5.2.0?classifier=sources
 - pkg:maven/biz.aQute.bnd/aQute.libg@5.3.0
 - pkg:maven/biz.aQute.bnd/aQute.libg@5.3.0?classifier=sources
+- pkg:maven/biz.aQute.bnd/aQute.libg@6.0.0
+- pkg:maven/biz.aQute.bnd/aQute.libg@6.0.0?classifier=sources

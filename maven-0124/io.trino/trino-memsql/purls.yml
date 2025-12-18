@@ -10,3 +10,5 @@
 - pkg:maven/io.trino/trino-memsql@360?classifier=sources
 - pkg:maven/io.trino/trino-memsql@361?classifier=sources
 - pkg:maven/io.trino/trino-memsql@362?classifier=sources
+- pkg:maven/io.trino/trino-memsql@363?classifier=sources
+- pkg:maven/io.trino/trino-memsql@364?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/cc.voox/trinite-conf-core@1.2.0
+- pkg:maven/cc.voox/trinite-conf-core@1.2.0?classifier=sources

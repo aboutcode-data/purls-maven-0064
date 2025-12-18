@@ -6,3 +6,4 @@
 - pkg:maven/io.arrow-kt/arrow-fx-coroutines@0.13.2?classifier=sources
 - pkg:maven/io.arrow-kt/arrow-fx-coroutines@0.13.3?classifier=sources
 - pkg:maven/io.arrow-kt/arrow-fx-coroutines@1.0.0?classifier=sources
+- pkg:maven/io.arrow-kt/arrow-fx-coroutines@1.0.1?classifier=sources

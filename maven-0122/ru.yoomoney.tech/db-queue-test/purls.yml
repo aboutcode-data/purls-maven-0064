@@ -2,3 +2,5 @@
 - pkg:maven/ru.yoomoney.tech/db-queue-test@13.0.1?classifier=sources
 - pkg:maven/ru.yoomoney.tech/db-queue-test@13.1.0?classifier=sources
 - pkg:maven/ru.yoomoney.tech/db-queue-test@14.0.0?classifier=sources
+- pkg:maven/ru.yoomoney.tech/db-queue-test@15.0.0?classifier=sources
+- pkg:maven/ru.yoomoney.tech/db-queue-test@15.0.1?classifier=sources

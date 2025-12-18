@@ -1,5 +1,6 @@
 - pkg:maven/io.wcm.devops.conga.definitions/io.wcm.devops.conga.definitions.aem@1.10.0?classifier=sources
 - pkg:maven/io.wcm.devops.conga.definitions/io.wcm.devops.conga.definitions.aem@1.11.0?classifier=sources
+- pkg:maven/io.wcm.devops.conga.definitions/io.wcm.devops.conga.definitions.aem@1.11.2?classifier=sources
 - pkg:maven/io.wcm.devops.conga.definitions/io.wcm.devops.conga.definitions.aem@1.7.0?classifier=sources
 - pkg:maven/io.wcm.devops.conga.definitions/io.wcm.devops.conga.definitions.aem@1.8.0?classifier=sources
 - pkg:maven/io.wcm.devops.conga.definitions/io.wcm.devops.conga.definitions.aem@1.8.2?classifier=sources

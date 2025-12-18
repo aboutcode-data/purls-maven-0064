@@ -266,6 +266,10 @@
 - pkg:maven/org.gedcomx/gedcomx-fileformat@2.14.0?classifier=sources
 - pkg:maven/org.gedcomx/gedcomx-fileformat@2.140.0
 - pkg:maven/org.gedcomx/gedcomx-fileformat@2.140.0?classifier=sources
+- pkg:maven/org.gedcomx/gedcomx-fileformat@2.141.0
+- pkg:maven/org.gedcomx/gedcomx-fileformat@2.141.0?classifier=sources
+- pkg:maven/org.gedcomx/gedcomx-fileformat@2.142.0
+- pkg:maven/org.gedcomx/gedcomx-fileformat@2.142.0?classifier=sources
 - pkg:maven/org.gedcomx/gedcomx-fileformat@2.15.0
 - pkg:maven/org.gedcomx/gedcomx-fileformat@2.15.0?classifier=sources
 - pkg:maven/org.gedcomx/gedcomx-fileformat@2.16.0

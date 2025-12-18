@@ -8,3 +8,5 @@
 - pkg:maven/org.kiwiproject/retrying-again@0.7.0?classifier=sources
 - pkg:maven/org.kiwiproject/retrying-again@1.0.0
 - pkg:maven/org.kiwiproject/retrying-again@1.0.0?classifier=sources
+- pkg:maven/org.kiwiproject/retrying-again@1.0.1
+- pkg:maven/org.kiwiproject/retrying-again@1.0.1?classifier=sources

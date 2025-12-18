@@ -3,3 +3,4 @@
 - pkg:maven/com.stripe/stripe-java-search-beta@20.74.0
 - pkg:maven/com.stripe/stripe-java-search-beta@20.74.0?classifier=sources
 - pkg:maven/com.stripe/stripe-java-search-beta@20.75.0?classifier=sources
+- pkg:maven/com.stripe/stripe-java-search-beta@20.85.0?classifier=sources

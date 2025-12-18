@@ -1,3 +1,5 @@
+- pkg:maven/com.twitter/finatra-kafka-streams-queryable-thrift_2.13@21.10.0
+- pkg:maven/com.twitter/finatra-kafka-streams-queryable-thrift_2.13@21.10.0?classifier=sources
 - pkg:maven/com.twitter/finatra-kafka-streams-queryable-thrift_2.13@21.2.0
 - pkg:maven/com.twitter/finatra-kafka-streams-queryable-thrift_2.13@21.2.0?classifier=sources
 - pkg:maven/com.twitter/finatra-kafka-streams-queryable-thrift_2.13@21.3.0

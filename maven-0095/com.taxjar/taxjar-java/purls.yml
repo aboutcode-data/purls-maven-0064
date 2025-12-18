@@ -20,3 +20,5 @@
 - pkg:maven/com.taxjar/taxjar-java@4.0.0?classifier=sources
 - pkg:maven/com.taxjar/taxjar-java@5.0.0
 - pkg:maven/com.taxjar/taxjar-java@5.0.0?classifier=sources
+- pkg:maven/com.taxjar/taxjar-java@5.0.1
+- pkg:maven/com.taxjar/taxjar-java@5.0.1?classifier=sources

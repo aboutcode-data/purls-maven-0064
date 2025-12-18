@@ -6,3 +6,4 @@
 - pkg:maven/io.ktor/ktor-server-test-host-kotlinMultiplatform@1.6.2?classifier=sources
 - pkg:maven/io.ktor/ktor-server-test-host-kotlinMultiplatform@1.6.3?classifier=sources
 - pkg:maven/io.ktor/ktor-server-test-host-kotlinMultiplatform@1.6.4?classifier=sources
+- pkg:maven/io.ktor/ktor-server-test-host-kotlinMultiplatform@1.6.5?classifier=sources

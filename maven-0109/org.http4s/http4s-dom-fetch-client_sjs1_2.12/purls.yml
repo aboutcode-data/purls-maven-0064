@@ -12,6 +12,8 @@
 - pkg:maven/org.http4s/http4s-dom-fetch-client_sjs1_2.12@1.0-6774180?classifier=sources
 - pkg:maven/org.http4s/http4s-dom-fetch-client_sjs1_2.12@1.0-88aa3e8
 - pkg:maven/org.http4s/http4s-dom-fetch-client_sjs1_2.12@1.0-88aa3e8?classifier=sources
+- pkg:maven/org.http4s/http4s-dom-fetch-client_sjs1_2.12@1.0-8e2cff3
+- pkg:maven/org.http4s/http4s-dom-fetch-client_sjs1_2.12@1.0-8e2cff3?classifier=sources
 - pkg:maven/org.http4s/http4s-dom-fetch-client_sjs1_2.12@1.0-9dbf8fd
 - pkg:maven/org.http4s/http4s-dom-fetch-client_sjs1_2.12@1.0-9dbf8fd?classifier=sources
 - pkg:maven/org.http4s/http4s-dom-fetch-client_sjs1_2.12@1.0-c252665

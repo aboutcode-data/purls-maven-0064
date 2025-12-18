@@ -8,3 +8,4 @@
 - pkg:maven/com.foilen/foilen-infra-api@0.14.0?classifier=sources
 - pkg:maven/com.foilen/foilen-infra-api@0.15.0
 - pkg:maven/com.foilen/foilen-infra-api@0.15.0?classifier=sources
+- pkg:maven/com.foilen/foilen-infra-api@0.16.0?classifier=sources

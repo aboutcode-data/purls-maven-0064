@@ -1,3 +1,5 @@
 - pkg:maven/org.eclipse.lyo.oslc4j.core/oslc4j-registry@4.0.0.RC?type=war
 - pkg:maven/org.eclipse.lyo.oslc4j.core/oslc4j-registry@4.0.0?type=war
+- pkg:maven/org.eclipse.lyo.oslc4j.core/oslc4j-registry@4.1.0.M1?type=war
+- pkg:maven/org.eclipse.lyo.oslc4j.core/oslc4j-registry@4.1.0.RC?type=war
 - pkg:maven/org.eclipse.lyo.oslc4j.core/oslc4j-registry@4.1.0.alpha1?type=war

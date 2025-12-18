@@ -10,6 +10,8 @@
 - pkg:maven/org.skife.config/config-magic@0.15?classifier=sources
 - pkg:maven/org.skife.config/config-magic@0.17
 - pkg:maven/org.skife.config/config-magic@0.17?classifier=sources
+- pkg:maven/org.skife.config/config-magic@0.22
+- pkg:maven/org.skife.config/config-magic@0.22?classifier=sources
 - pkg:maven/org.skife.config/config-magic@0.4
 - pkg:maven/org.skife.config/config-magic@0.4?classifier=sources
 - pkg:maven/org.skife.config/config-magic@0.5

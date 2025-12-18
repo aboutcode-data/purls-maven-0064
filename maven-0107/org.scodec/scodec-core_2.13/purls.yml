@@ -8,3 +8,5 @@
 - pkg:maven/org.scodec/scodec-core_2.13@1.11.7?classifier=sources
 - pkg:maven/org.scodec/scodec-core_2.13@1.11.8
 - pkg:maven/org.scodec/scodec-core_2.13@1.11.8?classifier=sources
+- pkg:maven/org.scodec/scodec-core_2.13@1.11.9
+- pkg:maven/org.scodec/scodec-core_2.13@1.11.9?classifier=sources

@@ -232,6 +232,9 @@
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.node@5.0.20
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.node@5.0.20?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.node@5.0.20?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.node@5.0.21
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.node@5.0.21?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.node@5.0.21?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.node@5.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.node@5.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.node@5.0.3
@@ -273,3 +276,15 @@
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.node@6.0.5
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.node@6.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.node@6.0.5?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.node@6.0.6
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.node@6.0.6?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.node@6.0.6?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.node@6.0.7
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.node@6.0.7?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.node@6.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.node@6.0.8
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.node@6.0.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.node@6.0.8?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.node@6.0.9
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.node@6.0.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.node@6.0.9?classifier=sources-commercial

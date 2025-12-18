@@ -6,6 +6,8 @@
 - pkg:maven/com.aliyun/vcs20200515@1.0.2?classifier=sources
 - pkg:maven/com.aliyun/vcs20200515@1.0.3
 - pkg:maven/com.aliyun/vcs20200515@1.0.3?classifier=sources
+- pkg:maven/com.aliyun/vcs20200515@1.8.0
+- pkg:maven/com.aliyun/vcs20200515@1.8.0?classifier=sources
 - pkg:maven/com.aliyun/vcs20200515@2.0.0
 - pkg:maven/com.aliyun/vcs20200515@2.0.0?classifier=sources
 - pkg:maven/com.aliyun/vcs20200515@2.0.1
@@ -30,3 +32,7 @@
 - pkg:maven/com.aliyun/vcs20200515@3.0.8?classifier=sources
 - pkg:maven/com.aliyun/vcs20200515@3.0.9
 - pkg:maven/com.aliyun/vcs20200515@3.0.9?classifier=sources
+- pkg:maven/com.aliyun/vcs20200515@3.1.0
+- pkg:maven/com.aliyun/vcs20200515@3.1.0?classifier=sources
+- pkg:maven/com.aliyun/vcs20200515@3.1.1
+- pkg:maven/com.aliyun/vcs20200515@3.1.1?classifier=sources

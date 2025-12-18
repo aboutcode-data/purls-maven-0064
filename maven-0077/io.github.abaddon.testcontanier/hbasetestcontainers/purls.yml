@@ -1,0 +1,2 @@
+- pkg:maven/io.github.abaddon.testcontanier/hbasetestcontainers@0.0.10
+- pkg:maven/io.github.abaddon.testcontanier/hbasetestcontainers@0.0.10?classifier=sources

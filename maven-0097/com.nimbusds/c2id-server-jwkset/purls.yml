@@ -12,3 +12,9 @@
 - pkg:maven/com.nimbusds/c2id-server-jwkset@1.21?classifier=sources
 - pkg:maven/com.nimbusds/c2id-server-jwkset@1.22
 - pkg:maven/com.nimbusds/c2id-server-jwkset@1.22?classifier=sources
+- pkg:maven/com.nimbusds/c2id-server-jwkset@1.23
+- pkg:maven/com.nimbusds/c2id-server-jwkset@1.23?classifier=sources
+- pkg:maven/com.nimbusds/c2id-server-jwkset@1.24
+- pkg:maven/com.nimbusds/c2id-server-jwkset@1.24?classifier=sources
+- pkg:maven/com.nimbusds/c2id-server-jwkset@1.25
+- pkg:maven/com.nimbusds/c2id-server-jwkset@1.25?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.somta/somta-ci-sdk@0.0.1
+- pkg:maven/net.somta/somta-ci-sdk@0.0.1?classifier=sources

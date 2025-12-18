@@ -1,4 +1,8 @@
 - pkg:maven/org.apache.solr/solr-gcs-repository@8.10.0
 - pkg:maven/org.apache.solr/solr-gcs-repository@8.10.0?classifier=sources
+- pkg:maven/org.apache.solr/solr-gcs-repository@8.10.1
+- pkg:maven/org.apache.solr/solr-gcs-repository@8.10.1?classifier=sources
+- pkg:maven/org.apache.solr/solr-gcs-repository@8.11.0
+- pkg:maven/org.apache.solr/solr-gcs-repository@8.11.0?classifier=sources
 - pkg:maven/org.apache.solr/solr-gcs-repository@8.9.0
 - pkg:maven/org.apache.solr/solr-gcs-repository@8.9.0?classifier=sources

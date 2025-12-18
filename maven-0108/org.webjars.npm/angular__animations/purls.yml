@@ -1,3 +1,7 @@
+- pkg:maven/org.webjars.npm/angular__animations@12.1.0
+- pkg:maven/org.webjars.npm/angular__animations@12.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/angular__animations@12.2.9
+- pkg:maven/org.webjars.npm/angular__animations@12.2.9?classifier=sources
 - pkg:maven/org.webjars.npm/angular__animations@4.0.0
 - pkg:maven/org.webjars.npm/angular__animations@4.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/angular__animations@4.2.2

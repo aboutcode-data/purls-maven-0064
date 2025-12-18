@@ -1,0 +1,2 @@
+- pkg:maven/io.github.lijing11/easyutil@1.0.0?classifier=sources
+- pkg:maven/io.github.lijing11/easyutil@1.0.0?type=aar

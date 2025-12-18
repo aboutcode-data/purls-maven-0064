@@ -14,6 +14,10 @@
 - pkg:maven/io.fabric8/chaosmesh-examples@5.1.0?classifier=sources
 - pkg:maven/io.fabric8/chaosmesh-examples@5.1.1
 - pkg:maven/io.fabric8/chaosmesh-examples@5.1.1?classifier=sources
+- pkg:maven/io.fabric8/chaosmesh-examples@5.10.0
+- pkg:maven/io.fabric8/chaosmesh-examples@5.10.0?classifier=sources
+- pkg:maven/io.fabric8/chaosmesh-examples@5.10.1
+- pkg:maven/io.fabric8/chaosmesh-examples@5.10.1?classifier=sources
 - pkg:maven/io.fabric8/chaosmesh-examples@5.2.0
 - pkg:maven/io.fabric8/chaosmesh-examples@5.2.0?classifier=sources
 - pkg:maven/io.fabric8/chaosmesh-examples@5.2.1
@@ -40,3 +44,5 @@
 - pkg:maven/io.fabric8/chaosmesh-examples@5.7.3?classifier=sources
 - pkg:maven/io.fabric8/chaosmesh-examples@5.8.0
 - pkg:maven/io.fabric8/chaosmesh-examples@5.8.0?classifier=sources
+- pkg:maven/io.fabric8/chaosmesh-examples@5.9.0
+- pkg:maven/io.fabric8/chaosmesh-examples@5.9.0?classifier=sources

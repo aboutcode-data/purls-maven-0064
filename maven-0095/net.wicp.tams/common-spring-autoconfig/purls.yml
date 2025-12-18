@@ -4,6 +4,8 @@
 - pkg:maven/net.wicp.tams/common-spring-autoconfig@3.6.14?classifier=sources
 - pkg:maven/net.wicp.tams/common-spring-autoconfig@3.6.16
 - pkg:maven/net.wicp.tams/common-spring-autoconfig@3.6.16?classifier=sources
+- pkg:maven/net.wicp.tams/common-spring-autoconfig@3.6.18
+- pkg:maven/net.wicp.tams/common-spring-autoconfig@3.6.18?classifier=sources
 - pkg:maven/net.wicp.tams/common-spring-autoconfig@3.6.3
 - pkg:maven/net.wicp.tams/common-spring-autoconfig@3.6.3?classifier=sources
 - pkg:maven/net.wicp.tams/common-spring-autoconfig@3.6.4

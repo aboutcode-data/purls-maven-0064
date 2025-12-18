@@ -4,3 +4,5 @@
 - pkg:maven/com.paulrybitskyi/hilt-binder@1.0.0-beta01?classifier=sources
 - pkg:maven/com.paulrybitskyi/hilt-binder@1.0.0?classifier=sources
 - pkg:maven/com.paulrybitskyi/hilt-binder@1.1.0?classifier=sources
+- pkg:maven/com.paulrybitskyi/hilt-binder@1.1.1?classifier=sources
+- pkg:maven/com.paulrybitskyi/hilt-binder@1.1.2?classifier=sources

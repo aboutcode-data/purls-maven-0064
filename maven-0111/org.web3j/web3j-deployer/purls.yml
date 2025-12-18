@@ -1,0 +1,2 @@
+- pkg:maven/org.web3j/web3j-deployer@4.8.8
+- pkg:maven/org.web3j/web3j-deployer@4.8.8?classifier=sources

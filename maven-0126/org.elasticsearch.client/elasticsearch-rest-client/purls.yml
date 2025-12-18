@@ -125,6 +125,8 @@
 - pkg:maven/org.elasticsearch.client/elasticsearch-rest-client@6.8.19?classifier=sources
 - pkg:maven/org.elasticsearch.client/elasticsearch-rest-client@6.8.1?classifier=sources
 - pkg:maven/org.elasticsearch.client/elasticsearch-rest-client@6.8.2
+- pkg:maven/org.elasticsearch.client/elasticsearch-rest-client@6.8.20
+- pkg:maven/org.elasticsearch.client/elasticsearch-rest-client@6.8.20?classifier=sources
 - pkg:maven/org.elasticsearch.client/elasticsearch-rest-client@6.8.2?classifier=sources
 - pkg:maven/org.elasticsearch.client/elasticsearch-rest-client@6.8.3
 - pkg:maven/org.elasticsearch.client/elasticsearch-rest-client@6.8.3?classifier=sources
@@ -192,6 +194,10 @@
 - pkg:maven/org.elasticsearch.client/elasticsearch-rest-client@7.14.2?classifier=sources
 - pkg:maven/org.elasticsearch.client/elasticsearch-rest-client@7.15.0
 - pkg:maven/org.elasticsearch.client/elasticsearch-rest-client@7.15.0?classifier=sources
+- pkg:maven/org.elasticsearch.client/elasticsearch-rest-client@7.15.1
+- pkg:maven/org.elasticsearch.client/elasticsearch-rest-client@7.15.1?classifier=sources
+- pkg:maven/org.elasticsearch.client/elasticsearch-rest-client@7.15.2
+- pkg:maven/org.elasticsearch.client/elasticsearch-rest-client@7.15.2?classifier=sources
 - pkg:maven/org.elasticsearch.client/elasticsearch-rest-client@7.2.0
 - pkg:maven/org.elasticsearch.client/elasticsearch-rest-client@7.2.0?classifier=sources
 - pkg:maven/org.elasticsearch.client/elasticsearch-rest-client@7.2.1
@@ -240,3 +246,5 @@
 - pkg:maven/org.elasticsearch.client/elasticsearch-rest-client@8.0.0-alpha1?classifier=sources
 - pkg:maven/org.elasticsearch.client/elasticsearch-rest-client@8.0.0-alpha2
 - pkg:maven/org.elasticsearch.client/elasticsearch-rest-client@8.0.0-alpha2?classifier=sources
+- pkg:maven/org.elasticsearch.client/elasticsearch-rest-client@8.0.0-beta1
+- pkg:maven/org.elasticsearch.client/elasticsearch-rest-client@8.0.0-beta1?classifier=sources

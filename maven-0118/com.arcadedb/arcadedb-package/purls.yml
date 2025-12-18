@@ -1,2 +1,4 @@
+- pkg:maven/com.arcadedb/arcadedb-package@21.10.1?type=zip
+- pkg:maven/com.arcadedb/arcadedb-package@21.10.2?type=zip
 - pkg:maven/com.arcadedb/arcadedb-package@21.9.1-beta?type=zip
 - pkg:maven/com.arcadedb/arcadedb-package@21.9.1?type=zip

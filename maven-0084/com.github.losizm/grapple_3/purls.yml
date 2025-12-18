@@ -1,0 +1,2 @@
+- pkg:maven/com.github.losizm/grapple_3@9.0.0
+- pkg:maven/com.github.losizm/grapple_3@9.0.0?classifier=sources

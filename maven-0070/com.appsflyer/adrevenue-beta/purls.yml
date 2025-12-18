@@ -1,2 +1,4 @@
 - pkg:maven/com.appsflyer/adrevenue-beta@5.1.0-rc6?type=aar
 - pkg:maven/com.appsflyer/adrevenue-beta@5.1.0-rc8?type=aar
+- pkg:maven/com.appsflyer/adrevenue-beta@6.4.2?type=aar
+- pkg:maven/com.appsflyer/adrevenue-beta@6.4.3-rc1?type=aar

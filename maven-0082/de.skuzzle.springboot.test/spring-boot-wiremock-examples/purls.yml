@@ -1,0 +1,2 @@
+- pkg:maven/de.skuzzle.springboot.test/spring-boot-wiremock-examples@0.0.18
+- pkg:maven/de.skuzzle.springboot.test/spring-boot-wiremock-examples@0.0.18?classifier=sources

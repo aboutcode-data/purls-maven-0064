@@ -184,3 +184,13 @@
 - pkg:maven/com.adobe.aem/aem-forms-sdk-api@2021.08.31.00?classifier=sources
 - pkg:maven/com.adobe.aem/aem-forms-sdk-api@2021.09.10.00
 - pkg:maven/com.adobe.aem/aem-forms-sdk-api@2021.09.10.00?classifier=sources
+- pkg:maven/com.adobe.aem/aem-forms-sdk-api@2021.09.23.02
+- pkg:maven/com.adobe.aem/aem-forms-sdk-api@2021.09.23.02?classifier=sources
+- pkg:maven/com.adobe.aem/aem-forms-sdk-api@2021.10.10.00
+- pkg:maven/com.adobe.aem/aem-forms-sdk-api@2021.10.10.00?classifier=sources
+- pkg:maven/com.adobe.aem/aem-forms-sdk-api@2021.10.18.00
+- pkg:maven/com.adobe.aem/aem-forms-sdk-api@2021.10.18.00?classifier=sources
+- pkg:maven/com.adobe.aem/aem-forms-sdk-api@2021.10.19.00
+- pkg:maven/com.adobe.aem/aem-forms-sdk-api@2021.10.19.00?classifier=sources
+- pkg:maven/com.adobe.aem/aem-forms-sdk-api@2021.10.26.00
+- pkg:maven/com.adobe.aem/aem-forms-sdk-api@2021.10.26.00?classifier=sources

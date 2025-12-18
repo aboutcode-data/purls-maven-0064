@@ -1,0 +1,6 @@
+- pkg:maven/org.bonitasoft.connectors/bonita-connector-slack@1.0.0?classifier=sources
+- pkg:maven/org.bonitasoft.connectors/bonita-connector-slack@1.0.0?type=zip
+- pkg:maven/org.bonitasoft.connectors/bonita-connector-slack@2.0.0?classifier=sources
+- pkg:maven/org.bonitasoft.connectors/bonita-connector-slack@2.0.0?type=zip
+- pkg:maven/org.bonitasoft.connectors/bonita-connector-slack@2.0.1?classifier=sources
+- pkg:maven/org.bonitasoft.connectors/bonita-connector-slack@2.0.1?type=zip

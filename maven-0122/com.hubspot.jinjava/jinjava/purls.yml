@@ -170,3 +170,5 @@
 - pkg:maven/com.hubspot.jinjava/jinjava@2.5.8?classifier=sources
 - pkg:maven/com.hubspot.jinjava/jinjava@2.5.9
 - pkg:maven/com.hubspot.jinjava/jinjava@2.5.9?classifier=sources
+- pkg:maven/com.hubspot.jinjava/jinjava@2.6.0
+- pkg:maven/com.hubspot.jinjava/jinjava@2.6.0?classifier=sources

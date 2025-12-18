@@ -9,3 +9,4 @@
 - pkg:maven/com.bernardomg.maven.archetypes/spring-mvc-thymeleaf-archetype@1.2.1?classifier=sources
 - pkg:maven/com.bernardomg.maven.archetypes/spring-mvc-thymeleaf-archetype@1.2.2?classifier=sources
 - pkg:maven/com.bernardomg.maven.archetypes/spring-mvc-thymeleaf-archetype@1.2.3?classifier=sources
+- pkg:maven/com.bernardomg.maven.archetypes/spring-mvc-thymeleaf-archetype@1.2.5?classifier=sources

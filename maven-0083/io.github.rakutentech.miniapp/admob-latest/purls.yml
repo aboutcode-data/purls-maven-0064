@@ -1,0 +1,2 @@
+- pkg:maven/io.github.rakutentech.miniapp/admob-latest@3.7.0?classifier=sources
+- pkg:maven/io.github.rakutentech.miniapp/admob-latest@3.8.0?classifier=sources

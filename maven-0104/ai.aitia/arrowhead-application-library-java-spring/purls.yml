@@ -1,0 +1,2 @@
+- pkg:maven/ai.aitia/arrowhead-application-library-java-spring@4.4.0.0
+- pkg:maven/ai.aitia/arrowhead-application-library-java-spring@4.4.0.0?classifier=sources

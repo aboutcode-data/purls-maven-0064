@@ -1,0 +1,2 @@
+- pkg:maven/org.ow2.fractal.juliac.fraclet/juliac-fraclet-opt-oo-tests-conf@2.8
+- pkg:maven/org.ow2.fractal.juliac.fraclet/juliac-fraclet-opt-oo-tests-conf@2.8?classifier=sources

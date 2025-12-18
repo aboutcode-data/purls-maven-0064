@@ -6,3 +6,7 @@
 - pkg:maven/org.jetbrains.exposed/exposed-java-time@0.34.1?classifier=sources
 - pkg:maven/org.jetbrains.exposed/exposed-java-time@0.34.2?classifier=sources
 - pkg:maven/org.jetbrains.exposed/exposed-java-time@0.35.1?classifier=sources
+- pkg:maven/org.jetbrains.exposed/exposed-java-time@0.35.2?classifier=sources
+- pkg:maven/org.jetbrains.exposed/exposed-java-time@0.35.3?classifier=sources
+- pkg:maven/org.jetbrains.exposed/exposed-java-time@0.36.1?classifier=sources
+- pkg:maven/org.jetbrains.exposed/exposed-java-time@0.36.2?classifier=sources

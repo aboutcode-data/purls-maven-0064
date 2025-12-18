@@ -109,8 +109,16 @@
 - pkg:maven/com.google.dagger/dagger-producers@2.38.1
 - pkg:maven/com.google.dagger/dagger-producers@2.38.1?classifier=sources
 - pkg:maven/com.google.dagger/dagger-producers@2.38?classifier=sources
+- pkg:maven/com.google.dagger/dagger-producers@2.39
+- pkg:maven/com.google.dagger/dagger-producers@2.39.1
+- pkg:maven/com.google.dagger/dagger-producers@2.39.1?classifier=sources
+- pkg:maven/com.google.dagger/dagger-producers@2.39?classifier=sources
 - pkg:maven/com.google.dagger/dagger-producers@2.3?classifier=sources
 - pkg:maven/com.google.dagger/dagger-producers@2.4
+- pkg:maven/com.google.dagger/dagger-producers@2.40
+- pkg:maven/com.google.dagger/dagger-producers@2.40.1
+- pkg:maven/com.google.dagger/dagger-producers@2.40.1?classifier=sources
+- pkg:maven/com.google.dagger/dagger-producers@2.40?classifier=sources
 - pkg:maven/com.google.dagger/dagger-producers@2.4?classifier=sources
 - pkg:maven/com.google.dagger/dagger-producers@2.5
 - pkg:maven/com.google.dagger/dagger-producers@2.5?classifier=sources

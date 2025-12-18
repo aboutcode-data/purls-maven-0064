@@ -6,3 +6,5 @@
 - pkg:maven/org.jooq/jooq-postgres-extensions@3.15.2?classifier=sources
 - pkg:maven/org.jooq/jooq-postgres-extensions@3.15.3
 - pkg:maven/org.jooq/jooq-postgres-extensions@3.15.3?classifier=sources
+- pkg:maven/org.jooq/jooq-postgres-extensions@3.15.4
+- pkg:maven/org.jooq/jooq-postgres-extensions@3.15.4?classifier=sources

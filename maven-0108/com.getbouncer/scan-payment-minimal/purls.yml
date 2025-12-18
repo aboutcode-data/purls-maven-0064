@@ -11,3 +11,6 @@
 - pkg:maven/com.getbouncer/scan-payment-minimal@2.1.0014-alpha02?classifier=sources
 - pkg:maven/com.getbouncer/scan-payment-minimal@2.1.0014-downgrade-core-ktx01?classifier=sources
 - pkg:maven/com.getbouncer/scan-payment-minimal@2.1.0014?classifier=sources
+- pkg:maven/com.getbouncer/scan-payment-minimal@2.1.0015?classifier=sources
+- pkg:maven/com.getbouncer/scan-payment-minimal@2.1.0016?classifier=sources
+- pkg:maven/com.getbouncer/scan-payment-minimal@2.1.0017?classifier=sources
