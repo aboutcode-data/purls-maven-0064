@@ -2,3 +2,9 @@
 - pkg:maven/com.sdl.delivery/udp-context-api@11.0.0-1023?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-context-api@11.0.0-1043
 - pkg:maven/com.sdl.delivery/udp-context-api@11.0.0-1043?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-context-api@11.0.0-1054
+- pkg:maven/com.sdl.delivery/udp-context-api@11.0.0-1054?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-context-api@11.0.0-1058
+- pkg:maven/com.sdl.delivery/udp-context-api@11.0.0-1058?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-context-api@11.1.0-1056
+- pkg:maven/com.sdl.delivery/udp-context-api@11.1.0-1056?classifier=sources

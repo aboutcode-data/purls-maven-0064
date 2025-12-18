@@ -1,3 +1,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-twig@RELEASE100?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-twig@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-twig@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-twig@RELEASE112?classifier=sources

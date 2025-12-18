@@ -1,2 +1,3 @@
 - pkg:maven/org.eclipse.ecf/org.eclipse.ecf.sharedobject@2.5.100?classifier=sources
 - pkg:maven/org.eclipse.ecf/org.eclipse.ecf.sharedobject@2.6.0?classifier=sources
+- pkg:maven/org.eclipse.ecf/org.eclipse.ecf.sharedobject@2.6.1?classifier=sources

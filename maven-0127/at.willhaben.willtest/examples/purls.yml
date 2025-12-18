@@ -26,6 +26,8 @@
 - pkg:maven/at.willhaben.willtest/examples@2.0.12
 - pkg:maven/at.willhaben.willtest/examples@2.0.13
 - pkg:maven/at.willhaben.willtest/examples@2.0.14
+- pkg:maven/at.willhaben.willtest/examples@2.0.15
+- pkg:maven/at.willhaben.willtest/examples@2.0.16
 - pkg:maven/at.willhaben.willtest/examples@2.0.2
 - pkg:maven/at.willhaben.willtest/examples@2.0.3
 - pkg:maven/at.willhaben.willtest/examples@2.0.4
@@ -34,3 +36,16 @@
 - pkg:maven/at.willhaben.willtest/examples@2.0.7
 - pkg:maven/at.willhaben.willtest/examples@2.0.8
 - pkg:maven/at.willhaben.willtest/examples@2.0.9
+- pkg:maven/at.willhaben.willtest/examples@2.1.0
+- pkg:maven/at.willhaben.willtest/examples@2.1.1
+- pkg:maven/at.willhaben.willtest/examples@2.1.2
+- pkg:maven/at.willhaben.willtest/examples@2.2.0
+- pkg:maven/at.willhaben.willtest/examples@2.2.1
+- pkg:maven/at.willhaben.willtest/examples@2.2.2
+- pkg:maven/at.willhaben.willtest/examples@2.3.0
+- pkg:maven/at.willhaben.willtest/examples@3.0.0
+- pkg:maven/at.willhaben.willtest/examples@3.0.0-M1
+- pkg:maven/at.willhaben.willtest/examples@3.0.0-M2
+- pkg:maven/at.willhaben.willtest/examples@3.0.0-M3
+- pkg:maven/at.willhaben.willtest/examples@3.0.0-M4
+- pkg:maven/at.willhaben.willtest/examples@3.0.1

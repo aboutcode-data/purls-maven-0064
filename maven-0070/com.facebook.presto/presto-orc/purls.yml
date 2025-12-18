@@ -272,6 +272,16 @@
 - pkg:maven/com.facebook.presto/presto-orc@0.223.1
 - pkg:maven/com.facebook.presto/presto-orc@0.223.1?classifier=sources
 - pkg:maven/com.facebook.presto/presto-orc@0.223?classifier=sources
+- pkg:maven/com.facebook.presto/presto-orc@0.224
+- pkg:maven/com.facebook.presto/presto-orc@0.224?classifier=sources
+- pkg:maven/com.facebook.presto/presto-orc@0.225
+- pkg:maven/com.facebook.presto/presto-orc@0.225?classifier=sources
+- pkg:maven/com.facebook.presto/presto-orc@0.226
+- pkg:maven/com.facebook.presto/presto-orc@0.226?classifier=sources
+- pkg:maven/com.facebook.presto/presto-orc@0.227
+- pkg:maven/com.facebook.presto/presto-orc@0.227?classifier=sources
+- pkg:maven/com.facebook.presto/presto-orc@0.228
+- pkg:maven/com.facebook.presto/presto-orc@0.228?classifier=sources
 - pkg:maven/com.facebook.presto/presto-orc@0.80
 - pkg:maven/com.facebook.presto/presto-orc@0.80?classifier=sources
 - pkg:maven/com.facebook.presto/presto-orc@0.81

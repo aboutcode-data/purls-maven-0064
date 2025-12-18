@@ -1,5 +1,7 @@
 - pkg:maven/org.webjars.npm/raw-body@1.1.2
 - pkg:maven/org.webjars.npm/raw-body@1.1.2?classifier=sources
+- pkg:maven/org.webjars.npm/raw-body@1.1.7
+- pkg:maven/org.webjars.npm/raw-body@1.1.7?classifier=sources
 - pkg:maven/org.webjars.npm/raw-body@1.2.2
 - pkg:maven/org.webjars.npm/raw-body@1.2.2?classifier=sources
 - pkg:maven/org.webjars.npm/raw-body@2.0.1

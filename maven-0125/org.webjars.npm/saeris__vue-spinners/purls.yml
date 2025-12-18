@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/saeris__vue-spinners@1.0.8
+- pkg:maven/org.webjars.npm/saeris__vue-spinners@1.0.8-2
+- pkg:maven/org.webjars.npm/saeris__vue-spinners@1.0.8-2?classifier=sources
 - pkg:maven/org.webjars.npm/saeris__vue-spinners@1.0.8?classifier=sources

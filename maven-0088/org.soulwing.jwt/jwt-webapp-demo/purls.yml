@@ -4,3 +4,7 @@
 - pkg:maven/org.soulwing.jwt/jwt-webapp-demo@1.0.1?type=war
 - pkg:maven/org.soulwing.jwt/jwt-webapp-demo@1.1.0?classifier=sources
 - pkg:maven/org.soulwing.jwt/jwt-webapp-demo@1.1.0?type=war
+- pkg:maven/org.soulwing.jwt/jwt-webapp-demo@1.2.0?classifier=sources
+- pkg:maven/org.soulwing.jwt/jwt-webapp-demo@1.2.0?type=war
+- pkg:maven/org.soulwing.jwt/jwt-webapp-demo@1.2.4?classifier=sources
+- pkg:maven/org.soulwing.jwt/jwt-webapp-demo@1.2.4?type=war

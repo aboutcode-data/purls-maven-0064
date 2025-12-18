@@ -10,3 +10,7 @@
 - pkg:maven/com.techempower/gemini-jdbc@2.24.0?classifier=sources
 - pkg:maven/com.techempower/gemini-jdbc@2.24.1
 - pkg:maven/com.techempower/gemini-jdbc@2.24.1?classifier=sources
+- pkg:maven/com.techempower/gemini-jdbc@2.25.0
+- pkg:maven/com.techempower/gemini-jdbc@2.25.0?classifier=sources
+- pkg:maven/com.techempower/gemini-jdbc@2.25.1
+- pkg:maven/com.techempower/gemini-jdbc@2.25.1?classifier=sources

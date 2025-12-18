@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.skywalking/apm-jdk-http-plugin@6.3.0
+- pkg:maven/org.apache.skywalking/apm-jdk-http-plugin@6.3.0?classifier=sources
+- pkg:maven/org.apache.skywalking/apm-jdk-http-plugin@6.4.0
+- pkg:maven/org.apache.skywalking/apm-jdk-http-plugin@6.4.0?classifier=sources

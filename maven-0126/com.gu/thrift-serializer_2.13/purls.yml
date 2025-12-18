@@ -1,0 +1,2 @@
+- pkg:maven/com.gu/thrift-serializer_2.13@4.0.2
+- pkg:maven/com.gu/thrift-serializer_2.13@4.0.2?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/co.wrisk.dropwizard/dropwizard-hk2@0.0.5
 - pkg:maven/co.wrisk.dropwizard/dropwizard-hk2@0.0.5?classifier=sources
+- pkg:maven/co.wrisk.dropwizard/dropwizard-hk2@0.0.6
+- pkg:maven/co.wrisk.dropwizard/dropwizard-hk2@0.0.6?classifier=sources

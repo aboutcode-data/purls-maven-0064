@@ -9,7 +9,18 @@
 - pkg:maven/io.cloudslang/score-tests@0.2.0
 - pkg:maven/io.cloudslang/score-tests@0.2.2
 - pkg:maven/io.cloudslang/score-tests@0.2.3
+- pkg:maven/io.cloudslang/score-tests@0.3.100
+- pkg:maven/io.cloudslang/score-tests@0.3.101
+- pkg:maven/io.cloudslang/score-tests@0.3.104
+- pkg:maven/io.cloudslang/score-tests@0.3.105
+- pkg:maven/io.cloudslang/score-tests@0.3.107
+- pkg:maven/io.cloudslang/score-tests@0.3.109
 - pkg:maven/io.cloudslang/score-tests@0.3.11
+- pkg:maven/io.cloudslang/score-tests@0.3.110
+- pkg:maven/io.cloudslang/score-tests@0.3.111
+- pkg:maven/io.cloudslang/score-tests@0.3.112
+- pkg:maven/io.cloudslang/score-tests@0.3.113
+- pkg:maven/io.cloudslang/score-tests@0.3.114
 - pkg:maven/io.cloudslang/score-tests@0.3.16
 - pkg:maven/io.cloudslang/score-tests@0.3.20
 - pkg:maven/io.cloudslang/score-tests@0.3.22
@@ -69,3 +80,7 @@
 - pkg:maven/io.cloudslang/score-tests@0.3.91
 - pkg:maven/io.cloudslang/score-tests@0.3.92
 - pkg:maven/io.cloudslang/score-tests@0.3.93
+- pkg:maven/io.cloudslang/score-tests@0.3.94
+- pkg:maven/io.cloudslang/score-tests@0.3.97
+- pkg:maven/io.cloudslang/score-tests@0.3.98
+- pkg:maven/io.cloudslang/score-tests@0.3.99

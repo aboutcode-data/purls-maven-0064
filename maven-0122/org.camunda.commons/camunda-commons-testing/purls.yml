@@ -1,0 +1,4 @@
+- pkg:maven/org.camunda.commons/camunda-commons-testing@1.7.2
+- pkg:maven/org.camunda.commons/camunda-commons-testing@1.7.2?classifier=sources
+- pkg:maven/org.camunda.commons/camunda-commons-testing@1.8.2
+- pkg:maven/org.camunda.commons/camunda-commons-testing@1.8.2?classifier=sources

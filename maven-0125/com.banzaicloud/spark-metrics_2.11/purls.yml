@@ -1,0 +1,4 @@
+- pkg:maven/com.banzaicloud/spark-metrics_2.11@2.3-2.1.0
+- pkg:maven/com.banzaicloud/spark-metrics_2.11@2.3-2.1.0?classifier=sources
+- pkg:maven/com.banzaicloud/spark-metrics_2.11@2.3-2.1.1
+- pkg:maven/com.banzaicloud/spark-metrics_2.11@2.3-2.1.1?classifier=sources

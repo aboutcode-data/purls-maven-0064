@@ -1,0 +1,6 @@
+- pkg:maven/services.videa/graphql-java-generator@1.0.3
+- pkg:maven/services.videa/graphql-java-generator@1.0.3?classifier=sources
+- pkg:maven/services.videa/graphql-java-generator@1.0.4
+- pkg:maven/services.videa/graphql-java-generator@1.0.4?classifier=sources
+- pkg:maven/services.videa/graphql-java-generator@1.1.1
+- pkg:maven/services.videa/graphql-java-generator@1.1.1?classifier=sources

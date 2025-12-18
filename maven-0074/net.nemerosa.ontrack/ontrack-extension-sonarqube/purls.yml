@@ -1,0 +1,10 @@
+- pkg:maven/net.nemerosa.ontrack/ontrack-extension-sonarqube@3.40.0
+- pkg:maven/net.nemerosa.ontrack/ontrack-extension-sonarqube@3.40.0?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-extension-sonarqube@3.40.1
+- pkg:maven/net.nemerosa.ontrack/ontrack-extension-sonarqube@3.40.1?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-extension-sonarqube@3.40.2
+- pkg:maven/net.nemerosa.ontrack/ontrack-extension-sonarqube@3.40.2?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-extension-sonarqube@3.40.3
+- pkg:maven/net.nemerosa.ontrack/ontrack-extension-sonarqube@3.40.3?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-extension-sonarqube@3.40.4
+- pkg:maven/net.nemerosa.ontrack/ontrack-extension-sonarqube@3.40.4?classifier=sources

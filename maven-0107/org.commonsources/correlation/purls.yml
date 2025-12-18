@@ -6,3 +6,5 @@
 - pkg:maven/org.commonsources/correlation@1.0.4.RELEASE?classifier=sources
 - pkg:maven/org.commonsources/correlation@1.0.5.RELEASE
 - pkg:maven/org.commonsources/correlation@1.0.5.RELEASE?classifier=sources
+- pkg:maven/org.commonsources/correlation@1.0.7.RELEASE
+- pkg:maven/org.commonsources/correlation@1.0.7.RELEASE?classifier=sources

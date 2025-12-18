@@ -14,6 +14,12 @@
 - pkg:maven/com.mchange/mchange-commons-java@0.2.15?classifier=sources
 - pkg:maven/com.mchange/mchange-commons-java@0.2.16
 - pkg:maven/com.mchange/mchange-commons-java@0.2.16?classifier=sources
+- pkg:maven/com.mchange/mchange-commons-java@0.2.17
+- pkg:maven/com.mchange/mchange-commons-java@0.2.17?classifier=sources
+- pkg:maven/com.mchange/mchange-commons-java@0.2.18
+- pkg:maven/com.mchange/mchange-commons-java@0.2.18?classifier=sources
+- pkg:maven/com.mchange/mchange-commons-java@0.2.19
+- pkg:maven/com.mchange/mchange-commons-java@0.2.19?classifier=sources
 - pkg:maven/com.mchange/mchange-commons-java@0.2.2
 - pkg:maven/com.mchange/mchange-commons-java@0.2.2?classifier=sources
 - pkg:maven/com.mchange/mchange-commons-java@0.2.3

@@ -10,3 +10,5 @@
 - pkg:maven/org.apache.hbase.thirdparty/hbase-thirdparty@2.2.0?classifier=src&type=tar.gz
 - pkg:maven/org.apache.hbase.thirdparty/hbase-thirdparty@2.2.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.hbase.thirdparty/hbase-thirdparty@2.2.1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.hbase.thirdparty/hbase-thirdparty@3.0.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.hbase.thirdparty/hbase-thirdparty@3.0.0?classifier=src&type=tar.gz

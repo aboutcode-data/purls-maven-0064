@@ -20,3 +20,7 @@
 - pkg:maven/io.afu/common@2.0-RELEASE?classifier=sources
 - pkg:maven/io.afu/common@2.1-RELEASE
 - pkg:maven/io.afu/common@2.1-RELEASE?classifier=sources
+- pkg:maven/io.afu/common@2.2-RELEASE
+- pkg:maven/io.afu/common@2.2-RELEASE?classifier=sources
+- pkg:maven/io.afu/common@2.3-RELEASE
+- pkg:maven/io.afu/common@2.3-RELEASE?classifier=sources

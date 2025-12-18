@@ -1,0 +1,4 @@
+- pkg:maven/com.github.feelschaotic/Robust.patch@0.4.87.4-RELEASE?classifier=sources
+- pkg:maven/com.github.feelschaotic/Robust.patch@0.4.87.4-RELEASE?type=aar
+- pkg:maven/com.github.feelschaotic/Robust.patch@0.4.87.5-RELEASE?classifier=sources
+- pkg:maven/com.github.feelschaotic/Robust.patch@0.4.87.5-RELEASE?type=aar

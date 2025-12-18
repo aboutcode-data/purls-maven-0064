@@ -22,3 +22,5 @@
 - pkg:maven/com.prowidesoftware/pw-swift-core@SRU2018-7.10.3?classifier=sources
 - pkg:maven/com.prowidesoftware/pw-swift-core@SRU2018-7.10.4
 - pkg:maven/com.prowidesoftware/pw-swift-core@SRU2018-7.10.4?classifier=sources
+- pkg:maven/com.prowidesoftware/pw-swift-core@SRU2019-8.0.1
+- pkg:maven/com.prowidesoftware/pw-swift-core@SRU2019-8.0.1?classifier=sources

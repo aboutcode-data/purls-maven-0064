@@ -10,3 +10,5 @@
 - pkg:maven/com.snowplowanalytics/scala-referer-parser_2.11@0.6.0-M2?classifier=sources
 - pkg:maven/com.snowplowanalytics/scala-referer-parser_2.11@0.6.0-M3
 - pkg:maven/com.snowplowanalytics/scala-referer-parser_2.11@0.6.0-M3?classifier=sources
+- pkg:maven/com.snowplowanalytics/scala-referer-parser_2.11@1.0.0
+- pkg:maven/com.snowplowanalytics/scala-referer-parser_2.11@1.0.0?classifier=sources

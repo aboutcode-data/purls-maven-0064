@@ -70,3 +70,6 @@
 - pkg:maven/org.wso2.carbon.data/org.wso2.carbon.dataservices.capp.deployer@4.4.99
 - pkg:maven/org.wso2.carbon.data/org.wso2.carbon.dataservices.capp.deployer@4.4.99?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.data/org.wso2.carbon.dataservices.capp.deployer@4.4.99?classifier=sources
+- pkg:maven/org.wso2.carbon.data/org.wso2.carbon.dataservices.capp.deployer@4.5.617
+- pkg:maven/org.wso2.carbon.data/org.wso2.carbon.dataservices.capp.deployer@4.5.617?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.data/org.wso2.carbon.dataservices.capp.deployer@4.5.617?classifier=sources

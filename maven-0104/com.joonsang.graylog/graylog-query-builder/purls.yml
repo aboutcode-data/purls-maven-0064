@@ -1,0 +1,10 @@
+- pkg:maven/com.joonsang.graylog/graylog-query-builder@1.0.0
+- pkg:maven/com.joonsang.graylog/graylog-query-builder@1.0.0-beta.0
+- pkg:maven/com.joonsang.graylog/graylog-query-builder@1.0.0-beta.0?classifier=sources
+- pkg:maven/com.joonsang.graylog/graylog-query-builder@1.0.0-beta.1
+- pkg:maven/com.joonsang.graylog/graylog-query-builder@1.0.0-beta.1?classifier=sources
+- pkg:maven/com.joonsang.graylog/graylog-query-builder@1.0.0?classifier=sources
+- pkg:maven/com.joonsang.graylog/graylog-query-builder@1.0.1
+- pkg:maven/com.joonsang.graylog/graylog-query-builder@1.0.1?classifier=sources
+- pkg:maven/com.joonsang.graylog/graylog-query-builder@1.0.2
+- pkg:maven/com.joonsang.graylog/graylog-query-builder@1.0.2?classifier=sources

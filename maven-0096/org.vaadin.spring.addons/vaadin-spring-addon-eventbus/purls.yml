@@ -2,5 +2,7 @@
 - pkg:maven/org.vaadin.spring.addons/vaadin-spring-addon-eventbus@0.0.6.RELEASE?classifier=sources
 - pkg:maven/org.vaadin.spring.addons/vaadin-spring-addon-eventbus@0.0.7.RELEASE
 - pkg:maven/org.vaadin.spring.addons/vaadin-spring-addon-eventbus@0.0.7.RELEASE?classifier=sources
+- pkg:maven/org.vaadin.spring.addons/vaadin-spring-addon-eventbus@14.0.0
+- pkg:maven/org.vaadin.spring.addons/vaadin-spring-addon-eventbus@14.0.0?classifier=sources
 - pkg:maven/org.vaadin.spring.addons/vaadin-spring-addon-eventbus@2.0.0.RELEASE
 - pkg:maven/org.vaadin.spring.addons/vaadin-spring-addon-eventbus@2.0.0.RELEASE?classifier=sources

@@ -47,6 +47,12 @@
 - pkg:maven/net.sourceforge.plantuml/plantuml@1.2019.0
 - pkg:maven/net.sourceforge.plantuml/plantuml@1.2019.0?classifier=sources
 - pkg:maven/net.sourceforge.plantuml/plantuml@1.2019.1
+- pkg:maven/net.sourceforge.plantuml/plantuml@1.2019.10
+- pkg:maven/net.sourceforge.plantuml/plantuml@1.2019.10?classifier=sources
+- pkg:maven/net.sourceforge.plantuml/plantuml@1.2019.11
+- pkg:maven/net.sourceforge.plantuml/plantuml@1.2019.11?classifier=sources
+- pkg:maven/net.sourceforge.plantuml/plantuml@1.2019.12
+- pkg:maven/net.sourceforge.plantuml/plantuml@1.2019.12?classifier=sources
 - pkg:maven/net.sourceforge.plantuml/plantuml@1.2019.1?classifier=sources
 - pkg:maven/net.sourceforge.plantuml/plantuml@1.2019.2
 - pkg:maven/net.sourceforge.plantuml/plantuml@1.2019.2?classifier=sources
@@ -62,6 +68,8 @@
 - pkg:maven/net.sourceforge.plantuml/plantuml@1.2019.7?classifier=sources
 - pkg:maven/net.sourceforge.plantuml/plantuml@1.2019.8
 - pkg:maven/net.sourceforge.plantuml/plantuml@1.2019.8?classifier=sources
+- pkg:maven/net.sourceforge.plantuml/plantuml@1.2019.9
+- pkg:maven/net.sourceforge.plantuml/plantuml@1.2019.9?classifier=sources
 - pkg:maven/net.sourceforge.plantuml/plantuml@2017.08
 - pkg:maven/net.sourceforge.plantuml/plantuml@2017.08?classifier=sources
 - pkg:maven/net.sourceforge.plantuml/plantuml@2017.09

@@ -1,0 +1,2 @@
+- pkg:maven/net.tokensmith/otter-translatable@1.5.1
+- pkg:maven/net.tokensmith/otter-translatable@1.5.1?classifier=sources

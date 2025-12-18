@@ -1,4 +1,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-ide-kit@RELEASE100?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-ide-kit@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-ide-kit@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-ide-kit@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-ide-kit@RELEASE90?classifier=sources

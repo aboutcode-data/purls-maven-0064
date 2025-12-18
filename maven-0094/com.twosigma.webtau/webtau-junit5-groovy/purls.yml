@@ -1,5 +1,11 @@
 - pkg:maven/com.twosigma.webtau/webtau-junit5-groovy@1.10
 - pkg:maven/com.twosigma.webtau/webtau-junit5-groovy@1.10?classifier=sources
+- pkg:maven/com.twosigma.webtau/webtau-junit5-groovy@1.11
+- pkg:maven/com.twosigma.webtau/webtau-junit5-groovy@1.11?classifier=sources
+- pkg:maven/com.twosigma.webtau/webtau-junit5-groovy@1.12
+- pkg:maven/com.twosigma.webtau/webtau-junit5-groovy@1.12?classifier=sources
+- pkg:maven/com.twosigma.webtau/webtau-junit5-groovy@1.13
+- pkg:maven/com.twosigma.webtau/webtau-junit5-groovy@1.13?classifier=sources
 - pkg:maven/com.twosigma.webtau/webtau-junit5-groovy@1.7
 - pkg:maven/com.twosigma.webtau/webtau-junit5-groovy@1.7?classifier=sources
 - pkg:maven/com.twosigma.webtau/webtau-junit5-groovy@1.8

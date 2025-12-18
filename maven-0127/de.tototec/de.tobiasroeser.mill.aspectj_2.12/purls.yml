@@ -1,0 +1,4 @@
+- pkg:maven/de.tototec/de.tobiasroeser.mill.aspectj_2.12@0.1.0
+- pkg:maven/de.tototec/de.tobiasroeser.mill.aspectj_2.12@0.1.0-6-1b2b4e
+- pkg:maven/de.tototec/de.tobiasroeser.mill.aspectj_2.12@0.1.0-6-1b2b4e?classifier=sources
+- pkg:maven/de.tototec/de.tobiasroeser.mill.aspectj_2.12@0.1.0?classifier=sources

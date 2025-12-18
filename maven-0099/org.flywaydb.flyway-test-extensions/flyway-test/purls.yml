@@ -1,0 +1,2 @@
+- pkg:maven/org.flywaydb.flyway-test-extensions/flyway-test@6.0.0
+- pkg:maven/org.flywaydb.flyway-test-extensions/flyway-test@6.0.0?classifier=sources

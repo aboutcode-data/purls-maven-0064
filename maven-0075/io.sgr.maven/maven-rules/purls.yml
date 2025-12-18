@@ -1,0 +1,2 @@
+- pkg:maven/io.sgr.maven/maven-rules@1.1.1
+- pkg:maven/io.sgr.maven/maven-rules@1.1.1?classifier=sources

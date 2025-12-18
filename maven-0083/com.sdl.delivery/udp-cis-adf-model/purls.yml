@@ -2,3 +2,9 @@
 - pkg:maven/com.sdl.delivery/udp-cis-adf-model@11.0.0-1023?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-cis-adf-model@11.0.0-1048
 - pkg:maven/com.sdl.delivery/udp-cis-adf-model@11.0.0-1048?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-cis-adf-model@11.0.0-1059
+- pkg:maven/com.sdl.delivery/udp-cis-adf-model@11.0.0-1059?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-cis-adf-model@11.0.0-1063
+- pkg:maven/com.sdl.delivery/udp-cis-adf-model@11.0.0-1063?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-cis-adf-model@11.1.0-1056
+- pkg:maven/com.sdl.delivery/udp-cis-adf-model@11.1.0-1056?classifier=sources

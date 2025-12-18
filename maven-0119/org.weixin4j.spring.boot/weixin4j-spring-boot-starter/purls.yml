@@ -1,2 +1,4 @@
 - pkg:maven/org.weixin4j.spring.boot/weixin4j-spring-boot-starter@1.0.0
 - pkg:maven/org.weixin4j.spring.boot/weixin4j-spring-boot-starter@1.0.0?classifier=sources
+- pkg:maven/org.weixin4j.spring.boot/weixin4j-spring-boot-starter@2.0.0
+- pkg:maven/org.weixin4j.spring.boot/weixin4j-spring-boot-starter@2.0.0?classifier=sources

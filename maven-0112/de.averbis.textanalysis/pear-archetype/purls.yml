@@ -1,1 +1,2 @@
 - pkg:maven/de.averbis.textanalysis/pear-archetype@1.0.0?classifier=sources
+- pkg:maven/de.averbis.textanalysis/pear-archetype@1.1.0?classifier=sources

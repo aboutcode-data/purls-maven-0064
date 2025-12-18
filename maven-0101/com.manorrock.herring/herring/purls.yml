@@ -10,3 +10,5 @@
 - pkg:maven/com.manorrock.herring/herring@1.4.0?classifier=sources
 - pkg:maven/com.manorrock.herring/herring@1.5.0
 - pkg:maven/com.manorrock.herring/herring@1.5.0?classifier=sources
+- pkg:maven/com.manorrock.herring/herring@19.10.0
+- pkg:maven/com.manorrock.herring/herring@19.10.0?classifier=sources

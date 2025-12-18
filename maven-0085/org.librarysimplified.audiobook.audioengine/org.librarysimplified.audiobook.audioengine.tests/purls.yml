@@ -1,0 +1,2 @@
+- pkg:maven/org.librarysimplified.audiobook.audioengine/org.librarysimplified.audiobook.audioengine.tests@3.0.0-beta001?classifier=sources
+- pkg:maven/org.librarysimplified.audiobook.audioengine/org.librarysimplified.audiobook.audioengine.tests@3.0.0-beta001?type=aar

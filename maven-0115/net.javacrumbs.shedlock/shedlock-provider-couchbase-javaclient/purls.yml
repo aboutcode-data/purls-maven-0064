@@ -20,3 +20,7 @@
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-couchbase-javaclient@2.4.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-couchbase-javaclient@2.5.0
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-couchbase-javaclient@2.5.0?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-couchbase-javaclient@2.6.0
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-couchbase-javaclient@2.6.0?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-couchbase-javaclient@3.0.0
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-couchbase-javaclient@3.0.0?classifier=sources

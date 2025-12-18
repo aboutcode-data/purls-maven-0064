@@ -1,0 +1,2 @@
+- pkg:maven/de.heikoseeberger/akka-http-avsystem-gencodec_2.12@1.28.0
+- pkg:maven/de.heikoseeberger/akka-http-avsystem-gencodec_2.12@1.28.0?classifier=sources

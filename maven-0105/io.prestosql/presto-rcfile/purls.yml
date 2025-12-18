@@ -34,3 +34,17 @@
 - pkg:maven/io.prestosql/presto-rcfile@316?classifier=sources
 - pkg:maven/io.prestosql/presto-rcfile@317
 - pkg:maven/io.prestosql/presto-rcfile@317?classifier=sources
+- pkg:maven/io.prestosql/presto-rcfile@318
+- pkg:maven/io.prestosql/presto-rcfile@318?classifier=sources
+- pkg:maven/io.prestosql/presto-rcfile@319
+- pkg:maven/io.prestosql/presto-rcfile@319?classifier=sources
+- pkg:maven/io.prestosql/presto-rcfile@320
+- pkg:maven/io.prestosql/presto-rcfile@320?classifier=sources
+- pkg:maven/io.prestosql/presto-rcfile@321
+- pkg:maven/io.prestosql/presto-rcfile@321?classifier=sources
+- pkg:maven/io.prestosql/presto-rcfile@322
+- pkg:maven/io.prestosql/presto-rcfile@322?classifier=sources
+- pkg:maven/io.prestosql/presto-rcfile@323
+- pkg:maven/io.prestosql/presto-rcfile@323?classifier=sources
+- pkg:maven/io.prestosql/presto-rcfile@324
+- pkg:maven/io.prestosql/presto-rcfile@324?classifier=sources

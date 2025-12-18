@@ -2,3 +2,9 @@
 - pkg:maven/com.cognitect.aws/support@669.2.364.0?classifier=sources
 - pkg:maven/com.cognitect.aws/support@697.2.391.0
 - pkg:maven/com.cognitect.aws/support@697.2.391.0?classifier=sources
+- pkg:maven/com.cognitect.aws/support@747.2.533.0
+- pkg:maven/com.cognitect.aws/support@747.2.533.0?classifier=sources
+- pkg:maven/com.cognitect.aws/support@762.2.561.0
+- pkg:maven/com.cognitect.aws/support@762.2.561.0?classifier=sources
+- pkg:maven/com.cognitect.aws/support@770.2.568.0
+- pkg:maven/com.cognitect.aws/support@770.2.568.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.rnkrsoft.platform/interface-platform-compiler@1.0.2
 - pkg:maven/com.rnkrsoft.platform/interface-platform-compiler@1.0.2?classifier=sources
+- pkg:maven/com.rnkrsoft.platform/interface-platform-compiler@1.0.3
+- pkg:maven/com.rnkrsoft.platform/interface-platform-compiler@1.0.3?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.bowergithub.simonwep/pickr@0.4.4?classifier=sources
 - pkg:maven/org.webjars.bowergithub.simonwep/pickr@1.2.6
 - pkg:maven/org.webjars.bowergithub.simonwep/pickr@1.2.6?classifier=sources
+- pkg:maven/org.webjars.bowergithub.simonwep/pickr@1.4.5
+- pkg:maven/org.webjars.bowergithub.simonwep/pickr@1.4.5?classifier=sources

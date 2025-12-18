@@ -1,0 +1,2 @@
+- pkg:maven/me.mattstudios.utils/matt-core@1.0.3-BETA
+- pkg:maven/me.mattstudios.utils/matt-core@1.0.3-BETA?classifier=sources

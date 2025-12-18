@@ -1,0 +1,2 @@
+- pkg:maven/com.qencode.java.api.client/qencode-java-api-client@1.0.2
+- pkg:maven/com.qencode.java.api.client/qencode-java-api-client@1.0.2?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.wellch4n/redis-schedule-spring-boot-starter@1.0-RELEASE
+- pkg:maven/com.wellch4n/redis-schedule-spring-boot-starter@1.0-RELEASE?classifier=sources
+- pkg:maven/com.wellch4n/redis-schedule-spring-boot-starter@1.1-RELEASE
+- pkg:maven/com.wellch4n/redis-schedule-spring-boot-starter@1.1-RELEASE?classifier=sources

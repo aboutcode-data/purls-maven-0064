@@ -1,0 +1,2 @@
+- pkg:maven/jakarta.batch/com.ibm.jbatch.tck@1.0.2
+- pkg:maven/jakarta.batch/com.ibm.jbatch.tck@1.0.2?classifier=sources

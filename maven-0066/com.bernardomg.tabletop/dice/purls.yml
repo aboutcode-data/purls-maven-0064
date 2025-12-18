@@ -12,3 +12,5 @@
 - pkg:maven/com.bernardomg.tabletop/dice@1.4.0?classifier=sources
 - pkg:maven/com.bernardomg.tabletop/dice@2.0.0
 - pkg:maven/com.bernardomg.tabletop/dice@2.0.0?classifier=sources
+- pkg:maven/com.bernardomg.tabletop/dice@2.0.1
+- pkg:maven/com.bernardomg.tabletop/dice@2.0.1?classifier=sources

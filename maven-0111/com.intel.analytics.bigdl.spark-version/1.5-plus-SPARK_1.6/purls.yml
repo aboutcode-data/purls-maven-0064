@@ -1,3 +1,5 @@
+- pkg:maven/com.intel.analytics.bigdl.spark-version/1.5-plus-SPARK_1.6@0.10.0
+- pkg:maven/com.intel.analytics.bigdl.spark-version/1.5-plus-SPARK_1.6@0.10.0?classifier=sources
 - pkg:maven/com.intel.analytics.bigdl.spark-version/1.5-plus-SPARK_1.6@0.2.0
 - pkg:maven/com.intel.analytics.bigdl.spark-version/1.5-plus-SPARK_1.6@0.2.0?classifier=sources
 - pkg:maven/com.intel.analytics.bigdl.spark-version/1.5-plus-SPARK_1.6@0.3.0
@@ -16,3 +18,5 @@
 - pkg:maven/com.intel.analytics.bigdl.spark-version/1.5-plus-SPARK_1.6@0.7.2?classifier=sources
 - pkg:maven/com.intel.analytics.bigdl.spark-version/1.5-plus-SPARK_1.6@0.8.0
 - pkg:maven/com.intel.analytics.bigdl.spark-version/1.5-plus-SPARK_1.6@0.8.0?classifier=sources
+- pkg:maven/com.intel.analytics.bigdl.spark-version/1.5-plus-SPARK_1.6@0.9.1
+- pkg:maven/com.intel.analytics.bigdl.spark-version/1.5-plus-SPARK_1.6@0.9.1?classifier=sources

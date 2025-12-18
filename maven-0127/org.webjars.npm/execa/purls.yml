@@ -10,3 +10,7 @@
 - pkg:maven/org.webjars.npm/execa@0.8.0?classifier=sources
 - pkg:maven/org.webjars.npm/execa@1.0.0
 - pkg:maven/org.webjars.npm/execa@1.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/execa@2.0.0-alpha.0
+- pkg:maven/org.webjars.npm/execa@2.0.0-alpha.0?classifier=sources
+- pkg:maven/org.webjars.npm/execa@2.0.4
+- pkg:maven/org.webjars.npm/execa@2.0.4?classifier=sources

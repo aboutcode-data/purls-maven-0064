@@ -1,0 +1,2 @@
+- pkg:maven/ch.obermuhlner/scriptengine-jshell@0.1.0
+- pkg:maven/ch.obermuhlner/scriptengine-jshell@0.1.0?classifier=sources

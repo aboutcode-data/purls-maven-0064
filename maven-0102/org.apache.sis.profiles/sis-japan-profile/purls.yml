@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.sis.profiles/sis-japan-profile@1.0
+- pkg:maven/org.apache.sis.profiles/sis-japan-profile@1.0?classifier=sources

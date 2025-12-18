@@ -1,2 +1,4 @@
 - pkg:maven/fish.payara.arquillian/payara-micro-deployer@1.1?classifier=sources
 - pkg:maven/fish.payara.arquillian/payara-micro-deployer@1.1?type=war
+- pkg:maven/fish.payara.arquillian/payara-micro-deployer@1.2?classifier=sources
+- pkg:maven/fish.payara.arquillian/payara-micro-deployer@1.2?type=war

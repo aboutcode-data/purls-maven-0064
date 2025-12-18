@@ -1,0 +1,4 @@
+- pkg:maven/com.github.deutschebank.symphony/symphony-api-spring-boot-starter@4.54.3
+- pkg:maven/com.github.deutschebank.symphony/symphony-api-spring-boot-starter@4.54.3?classifier=sources
+- pkg:maven/com.github.deutschebank.symphony/symphony-api-spring-boot-starter@4.55.1
+- pkg:maven/com.github.deutschebank.symphony/symphony-api-spring-boot-starter@4.55.1?classifier=sources

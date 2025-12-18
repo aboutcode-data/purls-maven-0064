@@ -1,0 +1,6 @@
+- pkg:maven/com.github.trickl/flux-extensions@0.0.2
+- pkg:maven/com.github.trickl/flux-extensions@0.0.2?classifier=sources
+- pkg:maven/com.github.trickl/flux-extensions@0.0.3
+- pkg:maven/com.github.trickl/flux-extensions@0.0.3?classifier=sources
+- pkg:maven/com.github.trickl/flux-extensions@untagged-88f30f4f0556410e8e84
+- pkg:maven/com.github.trickl/flux-extensions@untagged-88f30f4f0556410e8e84?classifier=sources

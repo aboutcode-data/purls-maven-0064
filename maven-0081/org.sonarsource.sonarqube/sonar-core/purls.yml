@@ -132,3 +132,5 @@
 - pkg:maven/org.sonarsource.sonarqube/sonar-core@7.9.1
 - pkg:maven/org.sonarsource.sonarqube/sonar-core@7.9.1?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-core@7.9?classifier=sources
+- pkg:maven/org.sonarsource.sonarqube/sonar-core@8.0
+- pkg:maven/org.sonarsource.sonarqube/sonar-core@8.0?classifier=sources

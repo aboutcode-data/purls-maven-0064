@@ -1,0 +1,6 @@
+- pkg:maven/org.kie.kogito.examples/jbpm-polyglot-example@0.3.0
+- pkg:maven/org.kie.kogito.examples/jbpm-polyglot-example@0.3.0?classifier=sources
+- pkg:maven/org.kie.kogito.examples/jbpm-polyglot-example@0.4.0
+- pkg:maven/org.kie.kogito.examples/jbpm-polyglot-example@0.4.0?classifier=sources
+- pkg:maven/org.kie.kogito.examples/jbpm-polyglot-example@0.5.1
+- pkg:maven/org.kie.kogito.examples/jbpm-polyglot-example@0.5.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.apifortress.apielements/gael@0.1
+- pkg:maven/com.apifortress.apielements/gael@0.1?classifier=sources

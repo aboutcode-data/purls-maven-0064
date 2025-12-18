@@ -1,0 +1,2 @@
+- pkg:maven/com.pinterest.singer/singer-commons@0.8.0-rc.1
+- pkg:maven/com.pinterest.singer/singer-commons@0.8.0-rc.1?classifier=sources

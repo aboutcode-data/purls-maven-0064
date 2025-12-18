@@ -8,3 +8,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.examples.undo@3.2.600?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.examples.undo@3.2.700
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.examples.undo@3.2.700?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.examples.undo@3.3.0
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.examples.undo@3.3.0?classifier=sources

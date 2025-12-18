@@ -1,2 +1,6 @@
 - pkg:maven/io.github.rocketmix/rocketmix-all-in-one-server@1.0.29?classifier=sources
 - pkg:maven/io.github.rocketmix/rocketmix-all-in-one-server@1.0.29?type=war
+- pkg:maven/io.github.rocketmix/rocketmix-all-in-one-server@1.0.30?classifier=sources
+- pkg:maven/io.github.rocketmix/rocketmix-all-in-one-server@1.0.30?type=war
+- pkg:maven/io.github.rocketmix/rocketmix-all-in-one-server@1.0.31?classifier=sources
+- pkg:maven/io.github.rocketmix/rocketmix-all-in-one-server@1.0.31?type=war

@@ -1,2 +1,4 @@
 - pkg:maven/dev.misfitlabs.kotlinguice4/kotlin-guice@1.4.0
 - pkg:maven/dev.misfitlabs.kotlinguice4/kotlin-guice@1.4.0?classifier=sources
+- pkg:maven/dev.misfitlabs.kotlinguice4/kotlin-guice@1.4.1
+- pkg:maven/dev.misfitlabs.kotlinguice4/kotlin-guice@1.4.1?classifier=sources
