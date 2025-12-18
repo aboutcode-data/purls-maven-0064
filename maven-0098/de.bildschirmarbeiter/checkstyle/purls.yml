@@ -2,3 +2,5 @@
 - pkg:maven/de.bildschirmarbeiter/checkstyle@1?classifier=sources
 - pkg:maven/de.bildschirmarbeiter/checkstyle@2
 - pkg:maven/de.bildschirmarbeiter/checkstyle@2?classifier=sources
+- pkg:maven/de.bildschirmarbeiter/checkstyle@3
+- pkg:maven/de.bildschirmarbeiter/checkstyle@3?classifier=sources

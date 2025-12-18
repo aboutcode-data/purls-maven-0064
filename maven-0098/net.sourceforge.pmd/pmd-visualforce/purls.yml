@@ -74,6 +74,10 @@
 - pkg:maven/net.sourceforge.pmd/pmd-visualforce@6.36.0?classifier=sources
 - pkg:maven/net.sourceforge.pmd/pmd-visualforce@6.37.0
 - pkg:maven/net.sourceforge.pmd/pmd-visualforce@6.37.0?classifier=sources
+- pkg:maven/net.sourceforge.pmd/pmd-visualforce@6.38.0
+- pkg:maven/net.sourceforge.pmd/pmd-visualforce@6.38.0?classifier=sources
+- pkg:maven/net.sourceforge.pmd/pmd-visualforce@6.39.0
+- pkg:maven/net.sourceforge.pmd/pmd-visualforce@6.39.0?classifier=sources
 - pkg:maven/net.sourceforge.pmd/pmd-visualforce@6.4.0
 - pkg:maven/net.sourceforge.pmd/pmd-visualforce@6.4.0?classifier=sources
 - pkg:maven/net.sourceforge.pmd/pmd-visualforce@6.5.0

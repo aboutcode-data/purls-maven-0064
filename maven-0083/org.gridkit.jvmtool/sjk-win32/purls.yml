@@ -22,6 +22,8 @@
 - pkg:maven/org.gridkit.jvmtool/sjk-win32@0.18?classifier=sources
 - pkg:maven/org.gridkit.jvmtool/sjk-win32@0.19
 - pkg:maven/org.gridkit.jvmtool/sjk-win32@0.19?classifier=sources
+- pkg:maven/org.gridkit.jvmtool/sjk-win32@0.20
+- pkg:maven/org.gridkit.jvmtool/sjk-win32@0.20?classifier=sources
 - pkg:maven/org.gridkit.jvmtool/sjk-win32@0.4.3
 - pkg:maven/org.gridkit.jvmtool/sjk-win32@0.4.3?classifier=sources
 - pkg:maven/org.gridkit.jvmtool/sjk-win32@0.4.4

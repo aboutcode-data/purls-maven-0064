@@ -178,3 +178,5 @@
 - pkg:maven/org.codehaus.cargo/datasource-cmt-local-war@1.9.5?type=war
 - pkg:maven/org.codehaus.cargo/datasource-cmt-local-war@1.9.6?classifier=sources
 - pkg:maven/org.codehaus.cargo/datasource-cmt-local-war@1.9.6?type=war
+- pkg:maven/org.codehaus.cargo/datasource-cmt-local-war@1.9.7?classifier=sources
+- pkg:maven/org.codehaus.cargo/datasource-cmt-local-war@1.9.7?type=war

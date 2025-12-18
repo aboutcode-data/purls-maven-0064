@@ -112,3 +112,5 @@
 - pkg:maven/org.kie.server/kie-server-test-web-service@7.57.0.Final?type=war
 - pkg:maven/org.kie.server/kie-server-test-web-service@7.58.0.Final?classifier=sources
 - pkg:maven/org.kie.server/kie-server-test-web-service@7.58.0.Final?type=war
+- pkg:maven/org.kie.server/kie-server-test-web-service@7.59.0.Final?classifier=sources
+- pkg:maven/org.kie.server/kie-server-test-web-service@7.59.0.Final?type=war

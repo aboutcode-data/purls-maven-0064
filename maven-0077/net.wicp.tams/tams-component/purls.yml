@@ -17,3 +17,5 @@
 - pkg:maven/net.wicp.tams/tams-component@1.2.7?classifier=sources
 - pkg:maven/net.wicp.tams/tams-component@1.2.8
 - pkg:maven/net.wicp.tams/tams-component@1.2.8?classifier=sources
+- pkg:maven/net.wicp.tams/tams-component@1.2.9
+- pkg:maven/net.wicp.tams/tams-component@1.2.9?classifier=sources

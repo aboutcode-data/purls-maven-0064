@@ -1,0 +1,4 @@
+- pkg:maven/io.atlasmap.examples.camel3/camel-example-atlasmap@2.3.0-M.3
+- pkg:maven/io.atlasmap.examples.camel3/camel-example-atlasmap@2.3.0-M.3?classifier=sources
+- pkg:maven/io.atlasmap.examples.camel3/camel-example-atlasmap@2.3.0-M.5
+- pkg:maven/io.atlasmap.examples.camel3/camel-example-atlasmap@2.3.0-M.5?classifier=sources

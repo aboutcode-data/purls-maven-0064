@@ -1,0 +1,2 @@
+- pkg:maven/dev.davidvarela.bottomnavscaffold/bottomNavScaffold@1.0.1-alpha1?classifier=sources
+- pkg:maven/dev.davidvarela.bottomnavscaffold/bottomNavScaffold@1.0.1?classifier=sources

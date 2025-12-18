@@ -113,3 +113,5 @@
 - pkg:maven/org.swisspush.gateleen/gateleen-test@1.1.8?classifier=sources
 - pkg:maven/org.swisspush.gateleen/gateleen-test@1.1.9
 - pkg:maven/org.swisspush.gateleen/gateleen-test@1.1.9?classifier=sources
+- pkg:maven/org.swisspush.gateleen/gateleen-test@1.2.1
+- pkg:maven/org.swisspush.gateleen/gateleen-test@1.2.2

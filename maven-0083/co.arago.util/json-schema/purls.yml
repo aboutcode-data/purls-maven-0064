@@ -1,0 +1,2 @@
+- pkg:maven/co.arago.util/json-schema@0.1.0
+- pkg:maven/co.arago.util/json-schema@0.1.0?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/org.ojalgo/ojalgo-unsafe@2.47.2?classifier=sources
 - pkg:maven/org.ojalgo/ojalgo-unsafe@3.0.0
 - pkg:maven/org.ojalgo/ojalgo-unsafe@3.0.0?classifier=sources
+- pkg:maven/org.ojalgo/ojalgo-unsafe@3.1.0
+- pkg:maven/org.ojalgo/ojalgo-unsafe@3.1.0?classifier=sources

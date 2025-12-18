@@ -1,6 +1,16 @@
 - pkg:maven/com.bihe0832.android/lib-dialog@4.1.0?type=aar
 - pkg:maven/com.bihe0832.android/lib-dialog@4.1.1?type=aar
 - pkg:maven/com.bihe0832.android/lib-dialog@4.1.2?type=aar
+- pkg:maven/com.bihe0832.android/lib-dialog@4.10.3?type=aar
+- pkg:maven/com.bihe0832.android/lib-dialog@4.11.0?type=aar
+- pkg:maven/com.bihe0832.android/lib-dialog@4.12.13?type=aar
+- pkg:maven/com.bihe0832.android/lib-dialog@4.12.14?type=aar
+- pkg:maven/com.bihe0832.android/lib-dialog@4.12.15?type=aar
+- pkg:maven/com.bihe0832.android/lib-dialog@4.12.1?type=aar
+- pkg:maven/com.bihe0832.android/lib-dialog@4.12.5?type=aar
+- pkg:maven/com.bihe0832.android/lib-dialog@4.12.7?type=aar
+- pkg:maven/com.bihe0832.android/lib-dialog@4.13.0?type=aar
+- pkg:maven/com.bihe0832.android/lib-dialog@4.13.2?type=aar
 - pkg:maven/com.bihe0832.android/lib-dialog@4.2.0?type=aar
 - pkg:maven/com.bihe0832.android/lib-dialog@4.2.1?type=aar
 - pkg:maven/com.bihe0832.android/lib-dialog@4.3.1?type=aar
@@ -12,3 +22,4 @@
 - pkg:maven/com.bihe0832.android/lib-dialog@4.7.17?type=aar
 - pkg:maven/com.bihe0832.android/lib-dialog@4.7.7?type=aar
 - pkg:maven/com.bihe0832.android/lib-dialog@4.8.2?type=aar
+- pkg:maven/com.bihe0832.android/lib-dialog@4.8.7?type=aar

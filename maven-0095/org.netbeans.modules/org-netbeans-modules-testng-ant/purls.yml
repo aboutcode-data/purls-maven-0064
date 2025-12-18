@@ -10,4 +10,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-testng-ant@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-testng-ant@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-testng-ant@RELEASE124?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-testng-ant@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-testng-ant@RELEASE90?classifier=sources

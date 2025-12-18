@@ -1,0 +1,2 @@
+- pkg:maven/org.opencds.cqf.cql.ls/cql-ls@1.5.2
+- pkg:maven/org.opencds.cqf.cql.ls/cql-ls@1.5.2?classifier=sources

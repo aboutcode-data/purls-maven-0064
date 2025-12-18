@@ -1,0 +1,6 @@
+- pkg:maven/org.nasdanika.core/exec-gen@2021.10.0
+- pkg:maven/org.nasdanika.core/exec-gen@2021.10.0?classifier=sources
+- pkg:maven/org.nasdanika.core/exec-gen@2021.9.0
+- pkg:maven/org.nasdanika.core/exec-gen@2021.9.0?classifier=sources
+- pkg:maven/org.nasdanika.core/exec-gen@2021.9.1
+- pkg:maven/org.nasdanika.core/exec-gen@2021.9.1?classifier=sources

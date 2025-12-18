@@ -1,0 +1,2 @@
+- pkg:maven/com.opsgenie.client/sdk-swagger@2.12.2
+- pkg:maven/com.opsgenie.client/sdk-swagger@2.12.2?classifier=sources

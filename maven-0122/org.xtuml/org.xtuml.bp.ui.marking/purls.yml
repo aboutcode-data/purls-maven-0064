@@ -1,0 +1,2 @@
+- pkg:maven/org.xtuml/org.xtuml.bp.ui.marking@7.1.0
+- pkg:maven/org.xtuml/org.xtuml.bp.ui.marking@7.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/ru.yoomoney.gradle.plugins/git-expired-branch-plugin@6.0.0?classifier=sources
+- pkg:maven/ru.yoomoney.gradle.plugins/git-expired-branch-plugin@6.1.0?classifier=sources

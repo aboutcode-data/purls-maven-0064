@@ -62,6 +62,12 @@
 - pkg:maven/org.rednoise/rita@2.4.100?classifier=sources
 - pkg:maven/org.rednoise/rita@2.4.103
 - pkg:maven/org.rednoise/rita@2.4.103?classifier=sources
+- pkg:maven/org.rednoise/rita@2.4.211
+- pkg:maven/org.rednoise/rita@2.4.211?classifier=sources
+- pkg:maven/org.rednoise/rita@2.4.303
+- pkg:maven/org.rednoise/rita@2.4.303?classifier=sources
+- pkg:maven/org.rednoise/rita@2.4.501
+- pkg:maven/org.rednoise/rita@2.4.501?classifier=sources
 - pkg:maven/org.rednoise/rita@2.4.65
 - pkg:maven/org.rednoise/rita@2.4.65?classifier=sources
 - pkg:maven/org.rednoise/rita@2.4.82

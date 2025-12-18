@@ -56,3 +56,5 @@
 - pkg:maven/com.usthe.sureness/sureness-core@1.0.4-beta.2?classifier=sources
 - pkg:maven/com.usthe.sureness/sureness-core@1.0.4-beta?classifier=sources
 - pkg:maven/com.usthe.sureness/sureness-core@1.0.4?classifier=sources
+- pkg:maven/com.usthe.sureness/sureness-core@1.0.5
+- pkg:maven/com.usthe.sureness/sureness-core@1.0.5?classifier=sources

@@ -9,3 +9,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-jaxws@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-jaxws@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-jaxws@RELEASE124?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-jaxws@RELEASE125?classifier=sources

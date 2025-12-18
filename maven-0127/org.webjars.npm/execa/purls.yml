@@ -1,5 +1,7 @@
 - pkg:maven/org.webjars.npm/execa@0.10.0
 - pkg:maven/org.webjars.npm/execa@0.10.0?classifier=sources
+- pkg:maven/org.webjars.npm/execa@0.2.2
+- pkg:maven/org.webjars.npm/execa@0.2.2?classifier=sources
 - pkg:maven/org.webjars.npm/execa@0.4.0
 - pkg:maven/org.webjars.npm/execa@0.4.0?classifier=sources
 - pkg:maven/org.webjars.npm/execa@0.6.0

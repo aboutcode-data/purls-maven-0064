@@ -1,0 +1,2 @@
+- pkg:maven/com.pig4cloud.plugin/nats-streaming-spring-boot-starter@1.0.0
+- pkg:maven/com.pig4cloud.plugin/nats-streaming-spring-boot-starter@1.0.0?classifier=sources

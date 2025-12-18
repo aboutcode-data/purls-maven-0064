@@ -1,2 +1,4 @@
 - pkg:maven/de.mhus.mvn.plugin/gpg-maven-plugin@1.7
 - pkg:maven/de.mhus.mvn.plugin/gpg-maven-plugin@1.7?classifier=sources
+- pkg:maven/de.mhus.mvn.plugin/gpg-maven-plugin@3.0.1
+- pkg:maven/de.mhus.mvn.plugin/gpg-maven-plugin@3.0.1?classifier=sources

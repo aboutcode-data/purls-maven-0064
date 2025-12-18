@@ -4,3 +4,5 @@
 - pkg:maven/com.lwohvye/eladmin-generator@2.6.11?classifier=sources
 - pkg:maven/com.lwohvye/eladmin-generator@2.6.12
 - pkg:maven/com.lwohvye/eladmin-generator@2.6.12?classifier=sources
+- pkg:maven/com.lwohvye/eladmin-generator@2.6.13
+- pkg:maven/com.lwohvye/eladmin-generator@2.6.13?classifier=sources

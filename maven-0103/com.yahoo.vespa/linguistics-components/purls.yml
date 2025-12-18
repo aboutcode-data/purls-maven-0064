@@ -1,0 +1,4 @@
+- pkg:maven/com.yahoo.vespa/linguistics-components@7.473.17?classifier=sources
+- pkg:maven/com.yahoo.vespa/linguistics-components@7.475.17?classifier=sources
+- pkg:maven/com.yahoo.vespa/linguistics-components@7.476.1?classifier=sources
+- pkg:maven/com.yahoo.vespa/linguistics-components@7.477.12?classifier=sources

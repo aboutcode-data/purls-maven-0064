@@ -9,3 +9,5 @@
 - pkg:maven/org.drools/drools-legacy-test-util@7.57.0.Final
 - pkg:maven/org.drools/drools-legacy-test-util@7.58.0.Beta1
 - pkg:maven/org.drools/drools-legacy-test-util@7.58.0.Final
+- pkg:maven/org.drools/drools-legacy-test-util@7.59.0.Beta1
+- pkg:maven/org.drools/drools-legacy-test-util@7.59.0.Final

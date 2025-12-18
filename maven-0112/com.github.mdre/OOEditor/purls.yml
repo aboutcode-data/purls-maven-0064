@@ -1,0 +1,2 @@
+- pkg:maven/com.github.mdre/OOEditor@0.0.3.2?classifier=sources
+- pkg:maven/com.github.mdre/OOEditor@0.0.3?classifier=sources

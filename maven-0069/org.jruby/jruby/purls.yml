@@ -240,3 +240,5 @@
 - pkg:maven/org.jruby/jruby@9.2.8.0?classifier=sources
 - pkg:maven/org.jruby/jruby@9.2.9.0
 - pkg:maven/org.jruby/jruby@9.2.9.0?classifier=sources
+- pkg:maven/org.jruby/jruby@9.3.0.0
+- pkg:maven/org.jruby/jruby@9.3.0.0?classifier=sources

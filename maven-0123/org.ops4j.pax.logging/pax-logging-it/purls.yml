@@ -24,6 +24,7 @@
 - pkg:maven/org.ops4j.pax.logging/pax-logging-it@1.9.1
 - pkg:maven/org.ops4j.pax.logging/pax-logging-it@2.0.0
 - pkg:maven/org.ops4j.pax.logging/pax-logging-it@2.0.1
+- pkg:maven/org.ops4j.pax.logging/pax-logging-it@2.0.10
 - pkg:maven/org.ops4j.pax.logging/pax-logging-it@2.0.2
 - pkg:maven/org.ops4j.pax.logging/pax-logging-it@2.0.3
 - pkg:maven/org.ops4j.pax.logging/pax-logging-it@2.0.4

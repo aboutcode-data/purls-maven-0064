@@ -22,3 +22,5 @@
 - pkg:maven/org.finos.symphony.toolkit/chat-workflow-spring-boot-starter@7.20.3?classifier=sources
 - pkg:maven/org.finos.symphony.toolkit/chat-workflow-spring-boot-starter@7.20.4
 - pkg:maven/org.finos.symphony.toolkit/chat-workflow-spring-boot-starter@7.20.4?classifier=sources
+- pkg:maven/org.finos.symphony.toolkit/chat-workflow-spring-boot-starter@7.20.5
+- pkg:maven/org.finos.symphony.toolkit/chat-workflow-spring-boot-starter@7.20.5?classifier=sources

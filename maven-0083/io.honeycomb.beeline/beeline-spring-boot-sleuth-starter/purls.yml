@@ -8,3 +8,5 @@
 - pkg:maven/io.honeycomb.beeline/beeline-spring-boot-sleuth-starter@1.5.0?classifier=sources
 - pkg:maven/io.honeycomb.beeline/beeline-spring-boot-sleuth-starter@1.5.1
 - pkg:maven/io.honeycomb.beeline/beeline-spring-boot-sleuth-starter@1.5.1?classifier=sources
+- pkg:maven/io.honeycomb.beeline/beeline-spring-boot-sleuth-starter@1.6.1
+- pkg:maven/io.honeycomb.beeline/beeline-spring-boot-sleuth-starter@1.6.1?classifier=sources

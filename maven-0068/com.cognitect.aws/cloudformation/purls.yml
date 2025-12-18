@@ -36,3 +36,7 @@
 - pkg:maven/com.cognitect.aws/cloudformation@811.2.934.0?classifier=sources
 - pkg:maven/com.cognitect.aws/cloudformation@811.2.958.0
 - pkg:maven/com.cognitect.aws/cloudformation@811.2.958.0?classifier=sources
+- pkg:maven/com.cognitect.aws/cloudformation@814.2.986.0
+- pkg:maven/com.cognitect.aws/cloudformation@814.2.986.0?classifier=sources
+- pkg:maven/com.cognitect.aws/cloudformation@814.2.991.0
+- pkg:maven/com.cognitect.aws/cloudformation@814.2.991.0?classifier=sources

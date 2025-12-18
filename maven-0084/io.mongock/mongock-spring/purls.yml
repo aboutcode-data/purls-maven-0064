@@ -1,0 +1,2 @@
+- pkg:maven/io.mongock/mongock-spring@5.0.5.BETA
+- pkg:maven/io.mongock/mongock-spring@5.0.5.BETA?classifier=sources

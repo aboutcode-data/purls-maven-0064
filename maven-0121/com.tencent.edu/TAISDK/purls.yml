@@ -11,3 +11,5 @@
 - pkg:maven/com.tencent.edu/TAISDK@1.2.3.64?classifier=sources
 - pkg:maven/com.tencent.edu/TAISDK@1.2.3.65?classifier=sources
 - pkg:maven/com.tencent.edu/TAISDK@1.2.3.67?classifier=sources
+- pkg:maven/com.tencent.edu/TAISDK@1.2.3.68?classifier=sources
+- pkg:maven/com.tencent.edu/TAISDK@1.2.3.69?classifier=sources

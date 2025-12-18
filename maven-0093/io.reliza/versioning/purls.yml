@@ -27,3 +27,11 @@
 - pkg:maven/io.reliza/versioning@2021.07.5?classifier=sources
 - pkg:maven/io.reliza/versioning@2021.07.6
 - pkg:maven/io.reliza/versioning@2021.07.6?classifier=sources
+- pkg:maven/io.reliza/versioning@2021.09.1
+- pkg:maven/io.reliza/versioning@2021.09.1?classifier=sources
+- pkg:maven/io.reliza/versioning@2021.09.3
+- pkg:maven/io.reliza/versioning@2021.09.3?classifier=sources
+- pkg:maven/io.reliza/versioning@2021.10.1
+- pkg:maven/io.reliza/versioning@2021.10.1?classifier=sources
+- pkg:maven/io.reliza/versioning@2021.10.3
+- pkg:maven/io.reliza/versioning@2021.10.3?classifier=sources

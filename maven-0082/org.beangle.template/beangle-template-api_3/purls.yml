@@ -1,0 +1,2 @@
+- pkg:maven/org.beangle.template/beangle-template-api_3@0.0.33
+- pkg:maven/org.beangle.template/beangle-template-api_3@0.0.33?classifier=sources

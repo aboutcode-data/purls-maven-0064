@@ -300,6 +300,13 @@
 - pkg:maven/com.codeborne/selenide@5.23.0?classifier=sources
 - pkg:maven/com.codeborne/selenide@5.23.1?classifier=sources
 - pkg:maven/com.codeborne/selenide@5.23.2?classifier=sources
+- pkg:maven/com.codeborne/selenide@5.23.3?classifier=sources
+- pkg:maven/com.codeborne/selenide@5.24.0?classifier=sources
+- pkg:maven/com.codeborne/selenide@5.24.1?classifier=sources
+- pkg:maven/com.codeborne/selenide@5.24.2?classifier=sources
+- pkg:maven/com.codeborne/selenide@5.24.3-selenium-4.0.0-rc-1?classifier=sources
+- pkg:maven/com.codeborne/selenide@5.24.3?classifier=sources
+- pkg:maven/com.codeborne/selenide@5.24.4?classifier=sources
 - pkg:maven/com.codeborne/selenide@5.3.0
 - pkg:maven/com.codeborne/selenide@5.3.0?classifier=sources
 - pkg:maven/com.codeborne/selenide@5.3.1

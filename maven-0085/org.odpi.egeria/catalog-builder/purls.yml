@@ -1,0 +1,2 @@
+- pkg:maven/org.odpi.egeria/catalog-builder@3.2
+- pkg:maven/org.odpi.egeria/catalog-builder@3.2?classifier=sources

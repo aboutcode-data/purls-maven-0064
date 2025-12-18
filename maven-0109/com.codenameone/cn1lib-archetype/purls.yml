@@ -22,6 +22,11 @@
 - pkg:maven/com.codenameone/cn1lib-archetype@7.0.34?classifier=sources
 - pkg:maven/com.codenameone/cn1lib-archetype@7.0.35?classifier=sources
 - pkg:maven/com.codenameone/cn1lib-archetype@7.0.36?classifier=sources
+- pkg:maven/com.codenameone/cn1lib-archetype@7.0.37?classifier=sources
+- pkg:maven/com.codenameone/cn1lib-archetype@7.0.38?classifier=sources
+- pkg:maven/com.codenameone/cn1lib-archetype@7.0.39?classifier=sources
+- pkg:maven/com.codenameone/cn1lib-archetype@7.0.40?classifier=sources
+- pkg:maven/com.codenameone/cn1lib-archetype@7.0.41?classifier=sources
 - pkg:maven/com.codenameone/cn1lib-archetype@7.0.7?classifier=sources
 - pkg:maven/com.codenameone/cn1lib-archetype@7.0.8-b2?classifier=sources
 - pkg:maven/com.codenameone/cn1lib-archetype@7.0.8-b3?classifier=sources

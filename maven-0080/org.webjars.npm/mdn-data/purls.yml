@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/mdn-data@1.1.4
 - pkg:maven/org.webjars.npm/mdn-data@1.1.4?classifier=sources
+- pkg:maven/org.webjars.npm/mdn-data@2.0.14
+- pkg:maven/org.webjars.npm/mdn-data@2.0.14?classifier=sources

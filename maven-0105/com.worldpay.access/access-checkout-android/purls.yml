@@ -8,3 +8,5 @@
 - pkg:maven/com.worldpay.access/access-checkout-android@2.0.0?type=aar
 - pkg:maven/com.worldpay.access/access-checkout-android@2.1.0?classifier=sources
 - pkg:maven/com.worldpay.access/access-checkout-android@2.1.0?type=aar
+- pkg:maven/com.worldpay.access/access-checkout-android@2.2.0?classifier=sources
+- pkg:maven/com.worldpay.access/access-checkout-android@2.2.0?type=aar

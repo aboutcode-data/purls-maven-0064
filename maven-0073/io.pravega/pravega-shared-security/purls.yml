@@ -1,3 +1,5 @@
+- pkg:maven/io.pravega/pravega-shared-security@0.10.0
+- pkg:maven/io.pravega/pravega-shared-security@0.10.0?classifier=sources
 - pkg:maven/io.pravega/pravega-shared-security@0.6.0
 - pkg:maven/io.pravega/pravega-shared-security@0.6.0?classifier=sources
 - pkg:maven/io.pravega/pravega-shared-security@0.6.1

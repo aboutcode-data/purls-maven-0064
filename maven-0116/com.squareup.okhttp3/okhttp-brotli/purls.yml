@@ -25,5 +25,6 @@
 - pkg:maven/com.squareup.okhttp3/okhttp-brotli@4.8.1?classifier=sources
 - pkg:maven/com.squareup.okhttp3/okhttp-brotli@4.9.0?classifier=sources
 - pkg:maven/com.squareup.okhttp3/okhttp-brotli@4.9.1?classifier=sources
+- pkg:maven/com.squareup.okhttp3/okhttp-brotli@4.9.2?classifier=sources
 - pkg:maven/com.squareup.okhttp3/okhttp-brotli@5.0.0-alpha.1?classifier=sources
 - pkg:maven/com.squareup.okhttp3/okhttp-brotli@5.0.0-alpha.2?classifier=sources

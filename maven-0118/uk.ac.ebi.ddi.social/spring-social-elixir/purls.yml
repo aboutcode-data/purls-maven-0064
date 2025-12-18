@@ -1,2 +1,4 @@
 - pkg:maven/uk.ac.ebi.ddi.social/spring-social-elixir@0.0.2
 - pkg:maven/uk.ac.ebi.ddi.social/spring-social-elixir@0.0.2?classifier=sources
+- pkg:maven/uk.ac.ebi.ddi.social/spring-social-elixir@0.0.4
+- pkg:maven/uk.ac.ebi.ddi.social/spring-social-elixir@0.0.4?classifier=sources

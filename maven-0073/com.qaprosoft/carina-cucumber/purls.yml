@@ -20,3 +20,5 @@
 - pkg:maven/com.qaprosoft/carina-cucumber@7.0.3?classifier=sources
 - pkg:maven/com.qaprosoft/carina-cucumber@7.1.4
 - pkg:maven/com.qaprosoft/carina-cucumber@7.1.4?classifier=sources
+- pkg:maven/com.qaprosoft/carina-cucumber@7.2.10
+- pkg:maven/com.qaprosoft/carina-cucumber@7.2.10?classifier=sources

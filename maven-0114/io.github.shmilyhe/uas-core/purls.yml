@@ -92,3 +92,5 @@
 - pkg:maven/io.github.shmilyhe/uas-core@1.4.7?classifier=sources
 - pkg:maven/io.github.shmilyhe/uas-core@1.4.8
 - pkg:maven/io.github.shmilyhe/uas-core@1.4.8?classifier=sources
+- pkg:maven/io.github.shmilyhe/uas-core@1.4.9
+- pkg:maven/io.github.shmilyhe/uas-core@1.4.9?classifier=sources

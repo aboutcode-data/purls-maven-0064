@@ -58,6 +58,8 @@
 - pkg:maven/com.aliyun.openservices/loghub-client-lib@0.6.38?classifier=sources
 - pkg:maven/com.aliyun.openservices/loghub-client-lib@0.6.3?classifier=sources
 - pkg:maven/com.aliyun.openservices/loghub-client-lib@0.6.4
+- pkg:maven/com.aliyun.openservices/loghub-client-lib@0.6.40
+- pkg:maven/com.aliyun.openservices/loghub-client-lib@0.6.40?classifier=sources
 - pkg:maven/com.aliyun.openservices/loghub-client-lib@0.6.4?classifier=sources
 - pkg:maven/com.aliyun.openservices/loghub-client-lib@0.6.5
 - pkg:maven/com.aliyun.openservices/loghub-client-lib@0.6.5?classifier=sources

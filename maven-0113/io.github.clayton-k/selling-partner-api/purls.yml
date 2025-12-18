@@ -1,0 +1,4 @@
+- pkg:maven/io.github.clayton-k/selling-partner-api@1.0.0-2021.09.02
+- pkg:maven/io.github.clayton-k/selling-partner-api@1.0.0-2021.09.02?classifier=sources
+- pkg:maven/io.github.clayton-k/selling-partner-api@1.0.0-2021.09.27
+- pkg:maven/io.github.clayton-k/selling-partner-api@1.0.0-2021.09.27?classifier=sources

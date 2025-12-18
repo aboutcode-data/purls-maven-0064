@@ -22,3 +22,9 @@
 - pkg:maven/za.co.absa.spline/consumer-rest-core@0.6.0?classifier=sources
 - pkg:maven/za.co.absa.spline/consumer-rest-core@0.6.1
 - pkg:maven/za.co.absa.spline/consumer-rest-core@0.6.1?classifier=sources
+- pkg:maven/za.co.absa.spline/consumer-rest-core@0.7.0
+- pkg:maven/za.co.absa.spline/consumer-rest-core@0.7.0?classifier=sources
+- pkg:maven/za.co.absa.spline/consumer-rest-core@0.7.1
+- pkg:maven/za.co.absa.spline/consumer-rest-core@0.7.1?classifier=sources
+- pkg:maven/za.co.absa.spline/consumer-rest-core@0.7.2
+- pkg:maven/za.co.absa.spline/consumer-rest-core@0.7.2?classifier=sources

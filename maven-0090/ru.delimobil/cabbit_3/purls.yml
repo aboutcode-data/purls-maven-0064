@@ -1,0 +1,6 @@
+- pkg:maven/ru.delimobil/cabbit_3@0.0.15
+- pkg:maven/ru.delimobil/cabbit_3@0.0.15?classifier=sources
+- pkg:maven/ru.delimobil/cabbit_3@0.0.16
+- pkg:maven/ru.delimobil/cabbit_3@0.0.16?classifier=sources
+- pkg:maven/ru.delimobil/cabbit_3@0.0.17
+- pkg:maven/ru.delimobil/cabbit_3@0.0.17?classifier=sources

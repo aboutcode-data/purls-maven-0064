@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun/aligeniessp_1.0@1.0.0
+- pkg:maven/com.aliyun/aligeniessp_1.0@1.0.0?classifier=sources

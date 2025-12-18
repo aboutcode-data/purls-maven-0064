@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.aries.typedevent/org.apache.aries.typedevent.bus@0.0.1-RC1
+- pkg:maven/org.apache.aries.typedevent/org.apache.aries.typedevent.bus@0.0.1-RC1?classifier=sources

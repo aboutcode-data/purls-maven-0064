@@ -408,3 +408,15 @@
 - pkg:maven/com.proofpoint.platform/units@2.53?classifier=sources
 - pkg:maven/com.proofpoint.platform/units@2.54
 - pkg:maven/com.proofpoint.platform/units@2.54?classifier=sources
+- pkg:maven/com.proofpoint.platform/units@2.55
+- pkg:maven/com.proofpoint.platform/units@2.55?classifier=sources
+- pkg:maven/com.proofpoint.platform/units@2.56
+- pkg:maven/com.proofpoint.platform/units@2.56?classifier=sources
+- pkg:maven/com.proofpoint.platform/units@2.57
+- pkg:maven/com.proofpoint.platform/units@2.57?classifier=sources
+- pkg:maven/com.proofpoint.platform/units@2.58
+- pkg:maven/com.proofpoint.platform/units@2.58?classifier=sources
+- pkg:maven/com.proofpoint.platform/units@2.59
+- pkg:maven/com.proofpoint.platform/units@2.59?classifier=sources
+- pkg:maven/com.proofpoint.platform/units@2.60
+- pkg:maven/com.proofpoint.platform/units@2.60?classifier=sources

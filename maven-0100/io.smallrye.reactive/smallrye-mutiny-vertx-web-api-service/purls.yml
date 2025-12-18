@@ -1,0 +1,2 @@
+- pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-web-api-service@2.13.0
+- pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-web-api-service@2.13.0?classifier=sources

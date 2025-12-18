@@ -44,3 +44,5 @@
 - pkg:maven/io.vertx/vertx-lang-groovy-gen@3.9.7?classifier=sources
 - pkg:maven/io.vertx/vertx-lang-groovy-gen@3.9.8
 - pkg:maven/io.vertx/vertx-lang-groovy-gen@3.9.8?classifier=sources
+- pkg:maven/io.vertx/vertx-lang-groovy-gen@3.9.9
+- pkg:maven/io.vertx/vertx-lang-groovy-gen@3.9.9?classifier=sources

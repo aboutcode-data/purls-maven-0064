@@ -66,3 +66,11 @@
 - pkg:maven/com.amazonaws/aws-android-sdk-kinesisvideo-signaling@2.27.0?type=aar
 - pkg:maven/com.amazonaws/aws-android-sdk-kinesisvideo-signaling@2.28.0?classifier=sources
 - pkg:maven/com.amazonaws/aws-android-sdk-kinesisvideo-signaling@2.28.0?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-kinesisvideo-signaling@2.29.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-kinesisvideo-signaling@2.29.0?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-kinesisvideo-signaling@2.30.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-kinesisvideo-signaling@2.30.0?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-kinesisvideo-signaling@2.31.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-kinesisvideo-signaling@2.31.0?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-kinesisvideo-signaling@2.32.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-kinesisvideo-signaling@2.32.0?type=aar

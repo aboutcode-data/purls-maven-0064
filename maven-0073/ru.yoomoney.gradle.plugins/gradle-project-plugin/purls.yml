@@ -7,3 +7,4 @@
 - pkg:maven/ru.yoomoney.gradle.plugins/gradle-project-plugin@7.3.3?classifier=sources
 - pkg:maven/ru.yoomoney.gradle.plugins/gradle-project-plugin@7.3.4?classifier=sources
 - pkg:maven/ru.yoomoney.gradle.plugins/gradle-project-plugin@7.4.0?classifier=sources
+- pkg:maven/ru.yoomoney.gradle.plugins/gradle-project-plugin@7.5.0?classifier=sources

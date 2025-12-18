@@ -1,0 +1,2 @@
+- pkg:maven/com.virjar.sekiro.business/sekiro-ratel@1.1
+- pkg:maven/com.virjar.sekiro.business/sekiro-ratel@1.1?classifier=sources

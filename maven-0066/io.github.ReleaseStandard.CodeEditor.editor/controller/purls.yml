@@ -1,0 +1,6 @@
+- pkg:maven/io.github.ReleaseStandard.CodeEditor.editor/controller@1.25.0?classifier=sources
+- pkg:maven/io.github.ReleaseStandard.CodeEditor.editor/controller@22?classifier=sources
+- pkg:maven/io.github.ReleaseStandard.CodeEditor.editor/controller@23.25.0?classifier=sources
+- pkg:maven/io.github.ReleaseStandard.CodeEditor.editor/controller@23.27.0?classifier=sources
+- pkg:maven/io.github.ReleaseStandard.CodeEditor.editor/controller@23.28.0?classifier=sources
+- pkg:maven/io.github.ReleaseStandard.CodeEditor.editor/controller@23?classifier=sources

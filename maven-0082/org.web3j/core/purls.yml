@@ -167,6 +167,8 @@
 - pkg:maven/org.web3j/core@4.8.6
 - pkg:maven/org.web3j/core@4.8.6?classifier=sources
 - pkg:maven/org.web3j/core@4.8.7
+- pkg:maven/org.web3j/core@4.8.7-android
+- pkg:maven/org.web3j/core@4.8.7-android?classifier=sources
 - pkg:maven/org.web3j/core@4.8.7?classifier=sources
 - pkg:maven/org.web3j/core@5.0.0
 - pkg:maven/org.web3j/core@5.0.0?classifier=sources

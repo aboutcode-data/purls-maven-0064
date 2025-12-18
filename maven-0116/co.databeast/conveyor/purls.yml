@@ -8,3 +8,5 @@
 - pkg:maven/co.databeast/conveyor@0.5-RELEASE?classifier=sources
 - pkg:maven/co.databeast/conveyor@0.6-RELEASE
 - pkg:maven/co.databeast/conveyor@0.6-RELEASE?classifier=sources
+- pkg:maven/co.databeast/conveyor@0.8-RELEASE
+- pkg:maven/co.databeast/conveyor@0.8-RELEASE?classifier=sources

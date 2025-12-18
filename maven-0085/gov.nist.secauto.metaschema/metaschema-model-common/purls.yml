@@ -1,0 +1,2 @@
+- pkg:maven/gov.nist.secauto.metaschema/metaschema-model-common@0.5.0
+- pkg:maven/gov.nist.secauto.metaschema/metaschema-model-common@0.5.0?classifier=sources

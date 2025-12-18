@@ -6,3 +6,9 @@
 - pkg:maven/com.infomaximum/cluster-graphql@1.0.1p1?classifier=sources
 - pkg:maven/com.infomaximum/cluster-graphql@1.0.1p2
 - pkg:maven/com.infomaximum/cluster-graphql@1.0.1p2?classifier=sources
+- pkg:maven/com.infomaximum/cluster-graphql@1.0.1p3
+- pkg:maven/com.infomaximum/cluster-graphql@1.0.1p3?classifier=sources
+- pkg:maven/com.infomaximum/cluster-graphql@1.0.1p4
+- pkg:maven/com.infomaximum/cluster-graphql@1.0.1p4?classifier=sources
+- pkg:maven/com.infomaximum/cluster-graphql@1.0.1p5
+- pkg:maven/com.infomaximum/cluster-graphql@1.0.1p5?classifier=sources

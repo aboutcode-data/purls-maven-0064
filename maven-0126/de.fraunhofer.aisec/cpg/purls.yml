@@ -45,3 +45,13 @@
 - pkg:maven/de.fraunhofer.aisec/cpg@3.5.1?classifier=sources
 - pkg:maven/de.fraunhofer.aisec/cpg@3.5.2
 - pkg:maven/de.fraunhofer.aisec/cpg@3.5.2?classifier=sources
+- pkg:maven/de.fraunhofer.aisec/cpg@4.0.0
+- pkg:maven/de.fraunhofer.aisec/cpg@4.0.0?classifier=sources
+- pkg:maven/de.fraunhofer.aisec/cpg@4.0.1
+- pkg:maven/de.fraunhofer.aisec/cpg@4.0.1?classifier=sources
+- pkg:maven/de.fraunhofer.aisec/cpg@4.0.2
+- pkg:maven/de.fraunhofer.aisec/cpg@4.0.2?classifier=sources
+- pkg:maven/de.fraunhofer.aisec/cpg@4.0.3
+- pkg:maven/de.fraunhofer.aisec/cpg@4.0.3?classifier=sources
+- pkg:maven/de.fraunhofer.aisec/cpg@4.0.4
+- pkg:maven/de.fraunhofer.aisec/cpg@4.0.4?classifier=sources

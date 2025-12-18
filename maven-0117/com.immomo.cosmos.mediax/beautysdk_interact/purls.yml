@@ -34,3 +34,5 @@
 - pkg:maven/com.immomo.cosmos.mediax/beautysdk_interact@2.1.0_07291606?type=aar
 - pkg:maven/com.immomo.cosmos.mediax/beautysdk_interact@2.1.0_07291632?classifier=sources
 - pkg:maven/com.immomo.cosmos.mediax/beautysdk_interact@2.1.0_07291632?type=aar
+- pkg:maven/com.immomo.cosmos.mediax/beautysdk_interact@2.1.1_08311519?classifier=sources
+- pkg:maven/com.immomo.cosmos.mediax/beautysdk_interact@2.1.1_08311519?type=aar

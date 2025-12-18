@@ -9,3 +9,4 @@
 - pkg:maven/org.librarysimplified.audiobook.audioengine/org.librarysimplified.audiobook.audioengine.tests@5.0.0-beta0006?classifier=sources
 - pkg:maven/org.librarysimplified.audiobook.audioengine/org.librarysimplified.audiobook.audioengine.tests@5.0.0?classifier=sources
 - pkg:maven/org.librarysimplified.audiobook.audioengine/org.librarysimplified.audiobook.audioengine.tests@6.0.0?classifier=sources
+- pkg:maven/org.librarysimplified.audiobook.audioengine/org.librarysimplified.audiobook.audioengine.tests@6.1.0?classifier=sources

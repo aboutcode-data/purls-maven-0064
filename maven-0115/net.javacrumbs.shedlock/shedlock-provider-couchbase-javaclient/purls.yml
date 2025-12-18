@@ -80,6 +80,12 @@
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-couchbase-javaclient@4.24.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-couchbase-javaclient@4.25.0
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-couchbase-javaclient@4.25.0?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-couchbase-javaclient@4.26.0
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-couchbase-javaclient@4.26.0?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-couchbase-javaclient@4.27.0
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-couchbase-javaclient@4.27.0?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-couchbase-javaclient@4.28.0
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-couchbase-javaclient@4.28.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-couchbase-javaclient@4.3.0
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-couchbase-javaclient@4.3.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-couchbase-javaclient@4.3.1

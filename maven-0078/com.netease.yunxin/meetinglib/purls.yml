@@ -2,3 +2,4 @@
 - pkg:maven/com.netease.yunxin/meetinglib@1.7.2?classifier=sources
 - pkg:maven/com.netease.yunxin/meetinglib@1.8.1?classifier=sources
 - pkg:maven/com.netease.yunxin/meetinglib@1.9.0?classifier=sources
+- pkg:maven/com.netease.yunxin/meetinglib@2.0.0?classifier=sources

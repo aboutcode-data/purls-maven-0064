@@ -24,3 +24,5 @@
 - pkg:maven/com.qencode.java.api.client/qencode-java-api-client@1.0.8?classifier=sources
 - pkg:maven/com.qencode.java.api.client/qencode-java-api-client@1.0.9
 - pkg:maven/com.qencode.java.api.client/qencode-java-api-client@1.0.9?classifier=sources
+- pkg:maven/com.qencode.java.api.client/qencode-java-api-client@1.1.1
+- pkg:maven/com.qencode.java.api.client/qencode-java-api-client@1.1.1?classifier=sources

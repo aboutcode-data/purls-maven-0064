@@ -1,0 +1,2 @@
+- pkg:maven/hu.blackbelt/flutter-maven-plugin@1.0.0
+- pkg:maven/hu.blackbelt/flutter-maven-plugin@1.0.0?classifier=sources
