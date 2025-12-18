@@ -38,6 +38,8 @@
 - pkg:maven/net.officefloor.server/officeserver_servlet@3.25.0?classifier=sources
 - pkg:maven/net.officefloor.server/officeserver_servlet@3.26.0
 - pkg:maven/net.officefloor.server/officeserver_servlet@3.26.0?classifier=sources
+- pkg:maven/net.officefloor.server/officeserver_servlet@3.27.0
+- pkg:maven/net.officefloor.server/officeserver_servlet@3.27.0?classifier=sources
 - pkg:maven/net.officefloor.server/officeserver_servlet@3.6.0
 - pkg:maven/net.officefloor.server/officeserver_servlet@3.6.0?classifier=sources
 - pkg:maven/net.officefloor.server/officeserver_servlet@3.6.1

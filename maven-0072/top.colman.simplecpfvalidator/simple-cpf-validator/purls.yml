@@ -1,2 +1,4 @@
 - pkg:maven/top.colman.simplecpfvalidator/simple-cpf-validator@1.0.0
 - pkg:maven/top.colman.simplecpfvalidator/simple-cpf-validator@1.0.0?classifier=sources
+- pkg:maven/top.colman.simplecpfvalidator/simple-cpf-validator@1.1.0
+- pkg:maven/top.colman.simplecpfvalidator/simple-cpf-validator@1.1.0?classifier=sources

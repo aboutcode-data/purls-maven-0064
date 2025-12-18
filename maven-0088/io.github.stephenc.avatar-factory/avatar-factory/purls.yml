@@ -1,0 +1,2 @@
+- pkg:maven/io.github.stephenc.avatar-factory/avatar-factory@1.12
+- pkg:maven/io.github.stephenc.avatar-factory/avatar-factory@1.12?classifier=sources

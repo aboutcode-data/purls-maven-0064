@@ -48,6 +48,8 @@
 - pkg:maven/net.officefloor.maven/officefloor-maven-plugin@3.25.0?classifier=sources
 - pkg:maven/net.officefloor.maven/officefloor-maven-plugin@3.26.0
 - pkg:maven/net.officefloor.maven/officefloor-maven-plugin@3.26.0?classifier=sources
+- pkg:maven/net.officefloor.maven/officefloor-maven-plugin@3.27.0
+- pkg:maven/net.officefloor.maven/officefloor-maven-plugin@3.27.0?classifier=sources
 - pkg:maven/net.officefloor.maven/officefloor-maven-plugin@3.3.0
 - pkg:maven/net.officefloor.maven/officefloor-maven-plugin@3.3.0?classifier=sources
 - pkg:maven/net.officefloor.maven/officefloor-maven-plugin@3.4.0

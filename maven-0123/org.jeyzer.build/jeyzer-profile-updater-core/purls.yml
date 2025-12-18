@@ -1,0 +1,2 @@
+- pkg:maven/org.jeyzer.build/jeyzer-profile-updater-core@2.0
+- pkg:maven/org.jeyzer.build/jeyzer-profile-updater-core@2.0?classifier=sources

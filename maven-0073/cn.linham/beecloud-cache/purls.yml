@@ -1,0 +1,2 @@
+- pkg:maven/cn.linham/beecloud-cache@4.0
+- pkg:maven/cn.linham/beecloud-cache@4.0?classifier=sources

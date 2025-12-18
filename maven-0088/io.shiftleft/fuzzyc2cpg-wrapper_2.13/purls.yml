@@ -1,0 +1,12 @@
+- pkg:maven/io.shiftleft/fuzzyc2cpg-wrapper_2.13@0.12.53
+- pkg:maven/io.shiftleft/fuzzyc2cpg-wrapper_2.13@0.12.53?classifier=sources
+- pkg:maven/io.shiftleft/fuzzyc2cpg-wrapper_2.13@0.12.55
+- pkg:maven/io.shiftleft/fuzzyc2cpg-wrapper_2.13@0.12.55?classifier=sources
+- pkg:maven/io.shiftleft/fuzzyc2cpg-wrapper_2.13@0.12.56
+- pkg:maven/io.shiftleft/fuzzyc2cpg-wrapper_2.13@0.12.56?classifier=sources
+- pkg:maven/io.shiftleft/fuzzyc2cpg-wrapper_2.13@0.12.57
+- pkg:maven/io.shiftleft/fuzzyc2cpg-wrapper_2.13@0.12.57?classifier=sources
+- pkg:maven/io.shiftleft/fuzzyc2cpg-wrapper_2.13@0.12.58
+- pkg:maven/io.shiftleft/fuzzyc2cpg-wrapper_2.13@0.12.58?classifier=sources
+- pkg:maven/io.shiftleft/fuzzyc2cpg-wrapper_2.13@0.12.59
+- pkg:maven/io.shiftleft/fuzzyc2cpg-wrapper_2.13@0.12.59?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/io.basestar/basestar-maven-plugin@1.1.8?classifier=sources
 - pkg:maven/io.basestar/basestar-maven-plugin@1.1.9
 - pkg:maven/io.basestar/basestar-maven-plugin@1.1.9?classifier=sources
+- pkg:maven/io.basestar/basestar-maven-plugin@1.2.1
+- pkg:maven/io.basestar/basestar-maven-plugin@1.2.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.kfoundation/kfoundation_2.13@0.2
+- pkg:maven/net.kfoundation/kfoundation_2.13@0.2?classifier=sources

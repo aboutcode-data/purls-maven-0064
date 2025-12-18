@@ -50,3 +50,5 @@
 - pkg:maven/nl.basjes.parse.httpdlog/httpdlog-parser@5.3?classifier=sources
 - pkg:maven/nl.basjes.parse.httpdlog/httpdlog-parser@5.4
 - pkg:maven/nl.basjes.parse.httpdlog/httpdlog-parser@5.4?classifier=sources
+- pkg:maven/nl.basjes.parse.httpdlog/httpdlog-parser@5.5
+- pkg:maven/nl.basjes.parse.httpdlog/httpdlog-parser@5.5?classifier=sources

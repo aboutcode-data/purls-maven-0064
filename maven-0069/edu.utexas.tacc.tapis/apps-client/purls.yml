@@ -1,0 +1,4 @@
+- pkg:maven/edu.utexas.tacc.tapis/apps-client@1.11.11
+- pkg:maven/edu.utexas.tacc.tapis/apps-client@1.11.11?classifier=sources
+- pkg:maven/edu.utexas.tacc.tapis/apps-client@1.11.12
+- pkg:maven/edu.utexas.tacc.tapis/apps-client@1.11.12?classifier=sources

@@ -34,3 +34,11 @@
 - pkg:maven/com.playtika.testcontainers/embedded-mysql@1.79?classifier=sources
 - pkg:maven/com.playtika.testcontainers/embedded-mysql@1.80
 - pkg:maven/com.playtika.testcontainers/embedded-mysql@1.80?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-mysql@1.81
+- pkg:maven/com.playtika.testcontainers/embedded-mysql@1.81?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-mysql@1.82
+- pkg:maven/com.playtika.testcontainers/embedded-mysql@1.82?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-mysql@1.83
+- pkg:maven/com.playtika.testcontainers/embedded-mysql@1.83?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-mysql@1.84
+- pkg:maven/com.playtika.testcontainers/embedded-mysql@1.84?classifier=sources

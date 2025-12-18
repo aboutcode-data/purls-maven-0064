@@ -38,3 +38,4 @@
 - pkg:maven/com.github.dcshock/forklift-activemq@3.6?classifier=sources
 - pkg:maven/com.github.dcshock/forklift-activemq@3.7
 - pkg:maven/com.github.dcshock/forklift-activemq@3.7?classifier=sources
+- pkg:maven/com.github.dcshock/forklift-activemq@3.8?classifier=sources

@@ -8,3 +8,7 @@
 - pkg:maven/io.github.ossnass/simplefx@0.3-11
 - pkg:maven/io.github.ossnass/simplefx@0.3-11?classifier=sources
 - pkg:maven/io.github.ossnass/simplefx@0.3?classifier=sources
+- pkg:maven/io.github.ossnass/simplefx@0.4
+- pkg:maven/io.github.ossnass/simplefx@0.4?classifier=sources
+- pkg:maven/io.github.ossnass/simplefx@0.5-11
+- pkg:maven/io.github.ossnass/simplefx@0.5-11?classifier=sources

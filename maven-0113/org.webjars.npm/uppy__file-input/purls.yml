@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.npm/uppy__file-input@1.4.0?classifier=sources
 - pkg:maven/org.webjars.npm/uppy__file-input@1.4.13
 - pkg:maven/org.webjars.npm/uppy__file-input@1.4.13?classifier=sources
+- pkg:maven/org.webjars.npm/uppy__file-input@1.4.17
+- pkg:maven/org.webjars.npm/uppy__file-input@1.4.17?classifier=sources

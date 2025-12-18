@@ -2,3 +2,9 @@
 - pkg:maven/com.google.apis/google-api-services-playablelocations@v3-rev20200622-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-playablelocations@v3-rev20200622-1.30.9
 - pkg:maven/com.google.apis/google-api-services-playablelocations@v3-rev20200622-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-playablelocations@v3-rev20200808-1.30.10
+- pkg:maven/com.google.apis/google-api-services-playablelocations@v3-rev20200808-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-playablelocations@v3-rev20200826-1.30.10
+- pkg:maven/com.google.apis/google-api-services-playablelocations@v3-rev20200826-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-playablelocations@v3-rev20201013-1.30.10
+- pkg:maven/com.google.apis/google-api-services-playablelocations@v3-rev20201013-1.30.10?classifier=sources

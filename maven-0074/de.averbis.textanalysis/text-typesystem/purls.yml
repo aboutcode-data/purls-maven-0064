@@ -1,0 +1,2 @@
+- pkg:maven/de.averbis.textanalysis/text-typesystem@3.25.0
+- pkg:maven/de.averbis.textanalysis/text-typesystem@3.25.0?classifier=sources

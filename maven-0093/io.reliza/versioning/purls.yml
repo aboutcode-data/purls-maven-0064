@@ -18,3 +18,4 @@
 - pkg:maven/io.reliza/versioning@2020.02.Stable.8?classifier=sources
 - pkg:maven/io.reliza/versioning@2020.05.Stable.1
 - pkg:maven/io.reliza/versioning@2020.05.Stable.1?classifier=sources
+- pkg:maven/io.reliza/versioning@2020.10.Stable.1?classifier=sources

@@ -34,3 +34,5 @@
 - pkg:maven/org.xmlunit/xmlunit-matchers@2.6.4?classifier=sources
 - pkg:maven/org.xmlunit/xmlunit-matchers@2.7.0
 - pkg:maven/org.xmlunit/xmlunit-matchers@2.7.0?classifier=sources
+- pkg:maven/org.xmlunit/xmlunit-matchers@2.8.0
+- pkg:maven/org.xmlunit/xmlunit-matchers@2.8.0?classifier=sources

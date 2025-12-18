@@ -1,0 +1,2 @@
+- pkg:maven/com.codeborne.assertlog/assertlog-log4j-junit4@0.1
+- pkg:maven/com.codeborne.assertlog/assertlog-log4j-junit4@0.1?classifier=sources

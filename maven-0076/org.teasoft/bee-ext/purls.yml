@@ -1,0 +1,6 @@
+- pkg:maven/org.teasoft/bee-ext@1.8
+- pkg:maven/org.teasoft/bee-ext@1.8.15
+- pkg:maven/org.teasoft/bee-ext@1.8.15?classifier=sources
+- pkg:maven/org.teasoft/bee-ext@1.8.99
+- pkg:maven/org.teasoft/bee-ext@1.8.99?classifier=sources
+- pkg:maven/org.teasoft/bee-ext@1.8?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.sling/org.apache.sling.feature.extension.unpack@0.1.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.feature.extension.unpack@0.1.0?classifier=sources

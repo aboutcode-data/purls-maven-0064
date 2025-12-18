@@ -1,0 +1,2 @@
+- pkg:maven/org.scalameta/svm-subs@101.0.0
+- pkg:maven/org.scalameta/svm-subs@101.0.0?classifier=sources

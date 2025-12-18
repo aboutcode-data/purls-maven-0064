@@ -1,6 +1,10 @@
+- pkg:maven/org.webjars.npm/bootstrap-icons@1.0.0
 - pkg:maven/org.webjars.npm/bootstrap-icons@1.0.0-alpha2
 - pkg:maven/org.webjars.npm/bootstrap-icons@1.0.0-alpha2?classifier=sources
 - pkg:maven/org.webjars.npm/bootstrap-icons@1.0.0-alpha3
 - pkg:maven/org.webjars.npm/bootstrap-icons@1.0.0-alpha3?classifier=sources
 - pkg:maven/org.webjars.npm/bootstrap-icons@1.0.0-alpha5
 - pkg:maven/org.webjars.npm/bootstrap-icons@1.0.0-alpha5?classifier=sources
+- pkg:maven/org.webjars.npm/bootstrap-icons@1.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/bootstrap-icons@1.1.0
+- pkg:maven/org.webjars.npm/bootstrap-icons@1.1.0?classifier=sources

@@ -51,6 +51,13 @@
 - pkg:maven/org.sonatype.nexus.assemblies/nexus-base-feature@3.25.1-04?classifier=sources
 - pkg:maven/org.sonatype.nexus.assemblies/nexus-base-feature@3.26.0-01?classifier=sources
 - pkg:maven/org.sonatype.nexus.assemblies/nexus-base-feature@3.26.0-02?classifier=sources
+- pkg:maven/org.sonatype.nexus.assemblies/nexus-base-feature@3.26.0-03?classifier=sources
+- pkg:maven/org.sonatype.nexus.assemblies/nexus-base-feature@3.26.0-04?classifier=sources
+- pkg:maven/org.sonatype.nexus.assemblies/nexus-base-feature@3.26.1-02?classifier=sources
+- pkg:maven/org.sonatype.nexus.assemblies/nexus-base-feature@3.27.0-02?classifier=sources
+- pkg:maven/org.sonatype.nexus.assemblies/nexus-base-feature@3.27.0-03?classifier=sources
+- pkg:maven/org.sonatype.nexus.assemblies/nexus-base-feature@3.28.0-01?classifier=sources
+- pkg:maven/org.sonatype.nexus.assemblies/nexus-base-feature@3.28.1-01?classifier=sources
 - pkg:maven/org.sonatype.nexus.assemblies/nexus-base-feature@3.3.0-01?classifier=sources
 - pkg:maven/org.sonatype.nexus.assemblies/nexus-base-feature@3.3.1-01?classifier=sources
 - pkg:maven/org.sonatype.nexus.assemblies/nexus-base-feature@3.3.2-02?classifier=sources

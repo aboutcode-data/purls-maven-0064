@@ -1,0 +1,4 @@
+- pkg:maven/com.github.mrpowers/spark-daria_2.11@0.38.0
+- pkg:maven/com.github.mrpowers/spark-daria_2.11@0.38.0?classifier=sources
+- pkg:maven/com.github.mrpowers/spark-daria_2.11@0.38.2
+- pkg:maven/com.github.mrpowers/spark-daria_2.11@0.38.2?classifier=sources

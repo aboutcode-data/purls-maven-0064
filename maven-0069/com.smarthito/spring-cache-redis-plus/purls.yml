@@ -1,0 +1,6 @@
+- pkg:maven/com.smarthito/spring-cache-redis-plus@1.0.0
+- pkg:maven/com.smarthito/spring-cache-redis-plus@1.0.0?classifier=sources
+- pkg:maven/com.smarthito/spring-cache-redis-plus@1.1.0
+- pkg:maven/com.smarthito/spring-cache-redis-plus@1.1.0?classifier=sources
+- pkg:maven/com.smarthito/spring-cache-redis-plus@1.2.0
+- pkg:maven/com.smarthito/spring-cache-redis-plus@1.2.0?classifier=sources

@@ -146,3 +146,7 @@
 - pkg:maven/com.flowlogix/flowlogix-tapestry@2.3.1
 - pkg:maven/com.flowlogix/flowlogix-tapestry@2.3.1?classifier=sources
 - pkg:maven/com.flowlogix/flowlogix-tapestry@2.3?classifier=sources
+- pkg:maven/com.flowlogix/flowlogix-tapestry@3.0
+- pkg:maven/com.flowlogix/flowlogix-tapestry@3.0?classifier=sources
+- pkg:maven/com.flowlogix/flowlogix-tapestry@4.0
+- pkg:maven/com.flowlogix/flowlogix-tapestry@4.0?classifier=sources

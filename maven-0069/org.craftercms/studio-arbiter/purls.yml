@@ -1,0 +1,2 @@
+- pkg:maven/org.craftercms/studio-arbiter@3.1.10E
+- pkg:maven/org.craftercms/studio-arbiter@3.1.10E?classifier=sources

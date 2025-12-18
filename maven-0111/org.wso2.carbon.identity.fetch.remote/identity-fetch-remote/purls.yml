@@ -1,6 +1,15 @@
 - pkg:maven/org.wso2.carbon.identity.fetch.remote/identity-fetch-remote@0.0.1?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.fetch.remote/identity-fetch-remote@0.7.0?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.fetch.remote/identity-fetch-remote@0.7.10?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.fetch.remote/identity-fetch-remote@0.7.11?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.fetch.remote/identity-fetch-remote@0.7.12?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.fetch.remote/identity-fetch-remote@0.7.13?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.fetch.remote/identity-fetch-remote@0.7.14?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.fetch.remote/identity-fetch-remote@0.7.15?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.fetch.remote/identity-fetch-remote@0.7.16?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.fetch.remote/identity-fetch-remote@0.7.17?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.fetch.remote/identity-fetch-remote@0.7.18?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.fetch.remote/identity-fetch-remote@0.7.19?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.fetch.remote/identity-fetch-remote@0.7.1?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.fetch.remote/identity-fetch-remote@0.7.2?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.fetch.remote/identity-fetch-remote@0.7.3?classifier=source-release&type=zip

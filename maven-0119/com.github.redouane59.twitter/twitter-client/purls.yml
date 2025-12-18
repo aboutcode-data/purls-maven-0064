@@ -1,0 +1,6 @@
+- pkg:maven/com.github.redouane59.twitter/twitter-client@1.0?classifier=sources
+- pkg:maven/com.github.redouane59.twitter/twitter-client@1.1?classifier=sources
+- pkg:maven/com.github.redouane59.twitter/twitter-client@1.2?classifier=sources
+- pkg:maven/com.github.redouane59.twitter/twitter-client@1.3?classifier=sources
+- pkg:maven/com.github.redouane59.twitter/twitter-client@1.4?classifier=sources
+- pkg:maven/com.github.redouane59.twitter/twitter-client@1.5?classifier=sources

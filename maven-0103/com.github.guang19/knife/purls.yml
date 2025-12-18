@@ -10,3 +10,7 @@
 - pkg:maven/com.github.guang19/knife@2.0.0?classifier=sources
 - pkg:maven/com.github.guang19/knife@3.0.0
 - pkg:maven/com.github.guang19/knife@3.0.0?classifier=sources
+- pkg:maven/com.github.guang19/knife@3.1.0
+- pkg:maven/com.github.guang19/knife@3.1.0?classifier=sources
+- pkg:maven/com.github.guang19/knife@3.2.0
+- pkg:maven/com.github.guang19/knife@3.2.0?classifier=sources

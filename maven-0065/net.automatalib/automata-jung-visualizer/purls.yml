@@ -1,3 +1,5 @@
+- pkg:maven/net.automatalib/automata-jung-visualizer@0.10.0
+- pkg:maven/net.automatalib/automata-jung-visualizer@0.10.0?classifier=sources
 - pkg:maven/net.automatalib/automata-jung-visualizer@0.5.1
 - pkg:maven/net.automatalib/automata-jung-visualizer@0.5.1?classifier=sources
 - pkg:maven/net.automatalib/automata-jung-visualizer@0.5.2

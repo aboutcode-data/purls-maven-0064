@@ -40,3 +40,5 @@
 - pkg:maven/com.github.scribejava/scribejava-httpclient-apache@6.9.0?classifier=sources
 - pkg:maven/com.github.scribejava/scribejava-httpclient-apache@7.0.0
 - pkg:maven/com.github.scribejava/scribejava-httpclient-apache@7.0.0?classifier=sources
+- pkg:maven/com.github.scribejava/scribejava-httpclient-apache@7.1.1
+- pkg:maven/com.github.scribejava/scribejava-httpclient-apache@7.1.1?classifier=sources

@@ -11,3 +11,7 @@
 - pkg:maven/im.arena/livescorecard@1.4.1?classifier=sources
 - pkg:maven/im.arena/livescorecard@1.5.0?classifier=sources
 - pkg:maven/im.arena/livescorecard@1.5.0?type=aar
+- pkg:maven/im.arena/livescorecard@1.6.0?classifier=sources
+- pkg:maven/im.arena/livescorecard@1.6.0?type=aar
+- pkg:maven/im.arena/livescorecard@1.7.0?classifier=sources
+- pkg:maven/im.arena/livescorecard@1.7.0?type=aar

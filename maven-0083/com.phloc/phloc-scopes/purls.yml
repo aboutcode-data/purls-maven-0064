@@ -4,3 +4,5 @@
 - pkg:maven/com.phloc/phloc-scopes@6.4.0?classifier=sources
 - pkg:maven/com.phloc/phloc-scopes@6.4.2
 - pkg:maven/com.phloc/phloc-scopes@6.4.2?classifier=sources
+- pkg:maven/com.phloc/phloc-scopes@6.4.3
+- pkg:maven/com.phloc/phloc-scopes@6.4.3?classifier=sources

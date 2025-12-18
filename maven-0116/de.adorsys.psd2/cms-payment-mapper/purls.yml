@@ -1,0 +1,4 @@
+- pkg:maven/de.adorsys.psd2/cms-payment-mapper@8.1
+- pkg:maven/de.adorsys.psd2/cms-payment-mapper@8.1?classifier=sources
+- pkg:maven/de.adorsys.psd2/cms-payment-mapper@9.0
+- pkg:maven/de.adorsys.psd2/cms-payment-mapper@9.0?classifier=sources

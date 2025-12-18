@@ -4,3 +4,7 @@
 - pkg:maven/com.zhaofujun.nest/nest-plus-demo@2.0.21?classifier=sources
 - pkg:maven/com.zhaofujun.nest/nest-plus-demo@2.0.22
 - pkg:maven/com.zhaofujun.nest/nest-plus-demo@2.0.22?classifier=sources
+- pkg:maven/com.zhaofujun.nest/nest-plus-demo@2.0.24
+- pkg:maven/com.zhaofujun.nest/nest-plus-demo@2.0.24?classifier=sources
+- pkg:maven/com.zhaofujun.nest/nest-plus-demo@2.1.0
+- pkg:maven/com.zhaofujun.nest/nest-plus-demo@2.1.0?classifier=sources

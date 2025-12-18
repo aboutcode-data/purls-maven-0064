@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/ecstatic@0.7.6?classifier=sources
 - pkg:maven/org.webjars.npm/ecstatic@0.8.0
 - pkg:maven/org.webjars.npm/ecstatic@0.8.0?classifier=sources
+- pkg:maven/org.webjars.npm/ecstatic@3.3.2
+- pkg:maven/org.webjars.npm/ecstatic@3.3.2?classifier=sources

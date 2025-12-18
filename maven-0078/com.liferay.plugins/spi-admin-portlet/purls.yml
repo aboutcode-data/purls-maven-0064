@@ -1,0 +1,15 @@
+- pkg:maven/com.liferay.plugins/spi-admin-portlet@7.0.10.52?type=war
+- pkg:maven/com.liferay.plugins/spi-admin-portlet@7.0.10.53?type=war
+- pkg:maven/com.liferay.plugins/spi-admin-portlet@7.0.10.54?type=war
+- pkg:maven/com.liferay.plugins/spi-admin-portlet@7.0.10.55?type=war
+- pkg:maven/com.liferay.plugins/spi-admin-portlet@7.0.10.56?type=war
+- pkg:maven/com.liferay.plugins/spi-admin-portlet@7.1.10.56?type=war
+- pkg:maven/com.liferay.plugins/spi-admin-portlet@7.1.10.57?type=war
+- pkg:maven/com.liferay.plugins/spi-admin-portlet@7.1.10.58?type=war
+- pkg:maven/com.liferay.plugins/spi-admin-portlet@7.1.10.59?type=war
+- pkg:maven/com.liferay.plugins/spi-admin-portlet@7.1.10.60?type=war
+- pkg:maven/com.liferay.plugins/spi-admin-portlet@7.2.10.31?type=war
+- pkg:maven/com.liferay.plugins/spi-admin-portlet@7.2.10.32?type=war
+- pkg:maven/com.liferay.plugins/spi-admin-portlet@7.2.10.33?type=war
+- pkg:maven/com.liferay.plugins/spi-admin-portlet@7.2.10.34?type=war
+- pkg:maven/com.liferay.plugins/spi-admin-portlet@7.2.10.35?type=war

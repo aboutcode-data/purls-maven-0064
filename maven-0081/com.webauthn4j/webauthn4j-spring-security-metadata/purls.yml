@@ -1,0 +1,2 @@
+- pkg:maven/com.webauthn4j/webauthn4j-spring-security-metadata@0.7.0.RELEASE
+- pkg:maven/com.webauthn4j/webauthn4j-spring-security-metadata@0.7.0.RELEASE?classifier=sources

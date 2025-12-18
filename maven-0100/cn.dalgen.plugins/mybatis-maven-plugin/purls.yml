@@ -51,3 +51,7 @@
 - pkg:maven/cn.dalgen.plugins/mybatis-maven-plugin@2.0.1.b
 - pkg:maven/cn.dalgen.plugins/mybatis-maven-plugin@2.0.1.b?classifier=sources
 - pkg:maven/cn.dalgen.plugins/mybatis-maven-plugin@2.0.1?classifier=sources
+- pkg:maven/cn.dalgen.plugins/mybatis-maven-plugin@2.1.1
+- pkg:maven/cn.dalgen.plugins/mybatis-maven-plugin@2.1.1?classifier=sources
+- pkg:maven/cn.dalgen.plugins/mybatis-maven-plugin@2.1.2
+- pkg:maven/cn.dalgen.plugins/mybatis-maven-plugin@2.1.2?classifier=sources

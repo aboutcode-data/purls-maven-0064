@@ -1,0 +1,2 @@
+- pkg:maven/se.bjurr.openapitowiremock/openapi-to-wiremock@0.0
+- pkg:maven/se.bjurr.openapitowiremock/openapi-to-wiremock@0.0?classifier=sources

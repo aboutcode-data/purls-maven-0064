@@ -1,2 +1,4 @@
 - pkg:maven/org.beangle.hibernate/beangle-hibernate-core@5.4.17.Final
 - pkg:maven/org.beangle.hibernate/beangle-hibernate-core@5.4.17.Final?classifier=sources
+- pkg:maven/org.beangle.hibernate/beangle-hibernate-core@5.4.21.Final
+- pkg:maven/org.beangle.hibernate/beangle-hibernate-core@5.4.21.Final?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.dromara/soul-bootstrap@2.0.1-RELEASE
 - pkg:maven/org.dromara/soul-bootstrap@2.0.1-RELEASE?classifier=sources
+- pkg:maven/org.dromara/soul-bootstrap@2.2.1
+- pkg:maven/org.dromara/soul-bootstrap@2.2.1?classifier=sources

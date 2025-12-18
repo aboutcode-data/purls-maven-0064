@@ -29,3 +29,5 @@
 - pkg:maven/com.github.alphemsoft/arum_filepicker@0.7?type=aar
 - pkg:maven/com.github.alphemsoft/arum_filepicker@0.8.2?classifier=sources
 - pkg:maven/com.github.alphemsoft/arum_filepicker@0.8.2?type=aar
+- pkg:maven/com.github.alphemsoft/arum_filepicker@0.8.9?classifier=sources
+- pkg:maven/com.github.alphemsoft/arum_filepicker@0.8.9?type=aar

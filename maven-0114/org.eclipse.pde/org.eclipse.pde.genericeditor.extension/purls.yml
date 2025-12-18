@@ -14,3 +14,5 @@
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.genericeditor.extension@1.0.600?classifier=sources
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.genericeditor.extension@1.0.700
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.genericeditor.extension@1.0.700?classifier=sources
+- pkg:maven/org.eclipse.pde/org.eclipse.pde.genericeditor.extension@1.1.0
+- pkg:maven/org.eclipse.pde/org.eclipse.pde.genericeditor.extension@1.1.0?classifier=sources

@@ -20,3 +20,7 @@
 - pkg:maven/io.wcm.samples/io.wcm.wcm.core.components.examples-core@1.4.0-2.10.0?classifier=sources
 - pkg:maven/io.wcm.samples/io.wcm.wcm.core.components.examples-core@1.4.2-2.10.0
 - pkg:maven/io.wcm.samples/io.wcm.wcm.core.components.examples-core@1.4.2-2.10.0?classifier=sources
+- pkg:maven/io.wcm.samples/io.wcm.wcm.core.components.examples-core@1.5.0-2.11.0
+- pkg:maven/io.wcm.samples/io.wcm.wcm.core.components.examples-core@1.5.0-2.11.0?classifier=sources
+- pkg:maven/io.wcm.samples/io.wcm.wcm.core.components.examples-core@1.5.2-2.11.0
+- pkg:maven/io.wcm.samples/io.wcm.wcm.core.components.examples-core@1.5.2-2.11.0?classifier=sources

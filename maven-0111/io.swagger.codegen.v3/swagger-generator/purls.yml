@@ -26,6 +26,8 @@
 - pkg:maven/io.swagger.codegen.v3/swagger-generator@3.0.20?type=war
 - pkg:maven/io.swagger.codegen.v3/swagger-generator@3.0.21?classifier=sources
 - pkg:maven/io.swagger.codegen.v3/swagger-generator@3.0.21?type=war
+- pkg:maven/io.swagger.codegen.v3/swagger-generator@3.0.22?classifier=sources
+- pkg:maven/io.swagger.codegen.v3/swagger-generator@3.0.22?type=war
 - pkg:maven/io.swagger.codegen.v3/swagger-generator@3.0.2?classifier=sources
 - pkg:maven/io.swagger.codegen.v3/swagger-generator@3.0.2?type=war
 - pkg:maven/io.swagger.codegen.v3/swagger-generator@3.0.3?classifier=sources

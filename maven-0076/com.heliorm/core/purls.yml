@@ -1,0 +1,10 @@
+- pkg:maven/com.heliorm/core@0.71
+- pkg:maven/com.heliorm/core@0.71?classifier=sources
+- pkg:maven/com.heliorm/core@0.72
+- pkg:maven/com.heliorm/core@0.72?classifier=sources
+- pkg:maven/com.heliorm/core@0.73
+- pkg:maven/com.heliorm/core@0.73?classifier=sources
+- pkg:maven/com.heliorm/core@0.75
+- pkg:maven/com.heliorm/core@0.75?classifier=sources
+- pkg:maven/com.heliorm/core@0.76
+- pkg:maven/com.heliorm/core@0.76?classifier=sources

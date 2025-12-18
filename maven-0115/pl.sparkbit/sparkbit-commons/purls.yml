@@ -1,0 +1,11 @@
+- pkg:maven/pl.sparkbit/sparkbit-commons@2.0.22?classifier=sources
+- pkg:maven/pl.sparkbit/sparkbit-commons@2.0.23
+- pkg:maven/pl.sparkbit/sparkbit-commons@2.0.23?classifier=sources
+- pkg:maven/pl.sparkbit/sparkbit-commons@2.0.24
+- pkg:maven/pl.sparkbit/sparkbit-commons@2.0.24?classifier=sources
+- pkg:maven/pl.sparkbit/sparkbit-commons@2.0.26
+- pkg:maven/pl.sparkbit/sparkbit-commons@2.0.26?classifier=sources
+- pkg:maven/pl.sparkbit/sparkbit-commons@2.0.27
+- pkg:maven/pl.sparkbit/sparkbit-commons@2.0.27?classifier=sources
+- pkg:maven/pl.sparkbit/sparkbit-commons@2.0.28
+- pkg:maven/pl.sparkbit/sparkbit-commons@2.0.28?classifier=sources

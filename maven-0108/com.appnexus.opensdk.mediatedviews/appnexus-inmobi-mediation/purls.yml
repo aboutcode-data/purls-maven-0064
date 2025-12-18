@@ -61,3 +61,4 @@
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-inmobi-mediation@7.4.1-8.2.0?type=aar
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-inmobi-mediation@7.5-8.2.0?type=aar
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-inmobi-mediation@7.5.1-8.2.0?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-inmobi-mediation@7.6-8.2.0?type=aar

@@ -10,3 +10,5 @@
 - pkg:maven/net.mingsoft/ms-mcms@5.0.0?classifier=sources
 - pkg:maven/net.mingsoft/ms-mcms@5.0.1
 - pkg:maven/net.mingsoft/ms-mcms@5.0.1?classifier=sources
+- pkg:maven/net.mingsoft/ms-mcms@5.1
+- pkg:maven/net.mingsoft/ms-mcms@5.1?classifier=sources

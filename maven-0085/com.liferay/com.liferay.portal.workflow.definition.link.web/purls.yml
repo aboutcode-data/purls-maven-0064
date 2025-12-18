@@ -10,6 +10,12 @@
 - pkg:maven/com.liferay/com.liferay.portal.workflow.definition.link.web@1.0.12
 - pkg:maven/com.liferay/com.liferay.portal.workflow.definition.link.web@1.0.12?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.definition.link.web@1.0.12?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.workflow.definition.link.web@1.0.13
+- pkg:maven/com.liferay/com.liferay.portal.workflow.definition.link.web@1.0.13?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.workflow.definition.link.web@1.0.13?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.workflow.definition.link.web@1.0.14
+- pkg:maven/com.liferay/com.liferay.portal.workflow.definition.link.web@1.0.14?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.workflow.definition.link.web@1.0.14?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.workflow.definition.link.web@1.0.15
 - pkg:maven/com.liferay/com.liferay.portal.workflow.definition.link.web@1.0.15?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.definition.link.web@1.0.15?classifier=sources-commercial
@@ -48,6 +54,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.workflow.definition.link.web@1.0.26
 - pkg:maven/com.liferay/com.liferay.portal.workflow.definition.link.web@1.0.26?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.definition.link.web@1.0.26?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.workflow.definition.link.web@1.0.27
+- pkg:maven/com.liferay/com.liferay.portal.workflow.definition.link.web@1.0.27?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.workflow.definition.link.web@1.0.27?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.workflow.definition.link.web@1.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.definition.link.web@1.0.3
 - pkg:maven/com.liferay/com.liferay.portal.workflow.definition.link.web@1.0.3?classifier=sources

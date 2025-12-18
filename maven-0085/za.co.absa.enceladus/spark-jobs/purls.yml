@@ -8,6 +8,16 @@
 - pkg:maven/za.co.absa.enceladus/spark-jobs@2.10.1?classifier=sources
 - pkg:maven/za.co.absa.enceladus/spark-jobs@2.10.2
 - pkg:maven/za.co.absa.enceladus/spark-jobs@2.10.2?classifier=sources
+- pkg:maven/za.co.absa.enceladus/spark-jobs@2.11.0
+- pkg:maven/za.co.absa.enceladus/spark-jobs@2.11.0?classifier=sources
+- pkg:maven/za.co.absa.enceladus/spark-jobs@2.12.0
+- pkg:maven/za.co.absa.enceladus/spark-jobs@2.12.0?classifier=sources
+- pkg:maven/za.co.absa.enceladus/spark-jobs@2.13.0
+- pkg:maven/za.co.absa.enceladus/spark-jobs@2.13.0?classifier=sources
+- pkg:maven/za.co.absa.enceladus/spark-jobs@2.14.0
+- pkg:maven/za.co.absa.enceladus/spark-jobs@2.14.0?classifier=sources
+- pkg:maven/za.co.absa.enceladus/spark-jobs@2.16.0
+- pkg:maven/za.co.absa.enceladus/spark-jobs@2.16.0?classifier=sources
 - pkg:maven/za.co.absa.enceladus/spark-jobs@2.2.0
 - pkg:maven/za.co.absa.enceladus/spark-jobs@2.2.0?classifier=sources
 - pkg:maven/za.co.absa.enceladus/spark-jobs@2.3.0

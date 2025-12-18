@@ -1,2 +1,6 @@
 - pkg:maven/org.zalando/problem-gson@0.24.0
 - pkg:maven/org.zalando/problem-gson@0.24.0?classifier=sources
+- pkg:maven/org.zalando/problem-gson@0.25.0
+- pkg:maven/org.zalando/problem-gson@0.25.0?classifier=sources
+- pkg:maven/org.zalando/problem-gson@0.26.0-RC.0
+- pkg:maven/org.zalando/problem-gson@0.26.0-RC.0?classifier=sources

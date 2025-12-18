@@ -2,3 +2,5 @@
 - pkg:maven/org.everit.persistence/org.everit.persistence.querydsl.dtoquery@1.0.0-alpha1?classifier=sources
 - pkg:maven/org.everit.persistence/org.everit.persistence.querydsl.dtoquery@1.1.0
 - pkg:maven/org.everit.persistence/org.everit.persistence.querydsl.dtoquery@1.1.0?classifier=sources
+- pkg:maven/org.everit.persistence/org.everit.persistence.querydsl.dtoquery@1.2.0
+- pkg:maven/org.everit.persistence/org.everit.persistence.querydsl.dtoquery@1.2.0?classifier=sources

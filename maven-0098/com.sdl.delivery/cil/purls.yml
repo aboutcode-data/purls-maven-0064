@@ -9,3 +9,4 @@
 - pkg:maven/com.sdl.delivery/cil@11.0.0-1064?classifier=sources
 - pkg:maven/com.sdl.delivery/cil@11.0.0-1066?classifier=sources
 - pkg:maven/com.sdl.delivery/cil@11.1.0-1051?classifier=sources
+- pkg:maven/com.sdl.delivery/cil@11.5.0-1045?classifier=sources

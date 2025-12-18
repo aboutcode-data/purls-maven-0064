@@ -72,3 +72,6 @@
 - pkg:maven/org.opendaylight.odlparent/odl-karaf-feat-jdbc@7.0.3?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/odl-karaf-feat-jdbc@7.0.4?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/odl-karaf-feat-jdbc@7.0.5?classifier=sources
+- pkg:maven/org.opendaylight.odlparent/odl-karaf-feat-jdbc@7.0.6?classifier=sources
+- pkg:maven/org.opendaylight.odlparent/odl-karaf-feat-jdbc@7.0.7?classifier=sources
+- pkg:maven/org.opendaylight.odlparent/odl-karaf-feat-jdbc@8.0.0?classifier=sources
