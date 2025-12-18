@@ -1,0 +1,2 @@
+- pkg:maven/am.ik.tsng/tsng@0.1.0
+- pkg:maven/am.ik.tsng/tsng@0.1.0?classifier=sources

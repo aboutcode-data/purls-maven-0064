@@ -1,0 +1,6 @@
+- pkg:maven/com.devebot.opflow/opflow-shade-okhttp@4.3.1
+- pkg:maven/com.devebot.opflow/opflow-shade-okhttp@4.3.1?classifier=sources
+- pkg:maven/com.devebot.opflow/opflow-shade-okhttp@4.4.1
+- pkg:maven/com.devebot.opflow/opflow-shade-okhttp@4.4.1-final
+- pkg:maven/com.devebot.opflow/opflow-shade-okhttp@4.4.1-final?classifier=sources
+- pkg:maven/com.devebot.opflow/opflow-shade-okhttp@4.4.1?classifier=sources

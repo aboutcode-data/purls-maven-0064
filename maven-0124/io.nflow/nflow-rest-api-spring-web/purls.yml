@@ -30,3 +30,9 @@
 - pkg:maven/io.nflow/nflow-rest-api-spring-web@6.1.0?classifier=sources
 - pkg:maven/io.nflow/nflow-rest-api-spring-web@6.2.0
 - pkg:maven/io.nflow/nflow-rest-api-spring-web@6.2.0?classifier=sources
+- pkg:maven/io.nflow/nflow-rest-api-spring-web@7.0.0
+- pkg:maven/io.nflow/nflow-rest-api-spring-web@7.0.0?classifier=sources
+- pkg:maven/io.nflow/nflow-rest-api-spring-web@7.1.0
+- pkg:maven/io.nflow/nflow-rest-api-spring-web@7.1.0?classifier=sources
+- pkg:maven/io.nflow/nflow-rest-api-spring-web@7.2.0
+- pkg:maven/io.nflow/nflow-rest-api-spring-web@7.2.0?classifier=sources

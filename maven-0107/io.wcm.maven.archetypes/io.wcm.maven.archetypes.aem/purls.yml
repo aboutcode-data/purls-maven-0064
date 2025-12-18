@@ -18,3 +18,4 @@
 - pkg:maven/io.wcm.maven.archetypes/io.wcm.maven.archetypes.aem@2.4.4?classifier=sources
 - pkg:maven/io.wcm.maven.archetypes/io.wcm.maven.archetypes.aem@2.4.6?classifier=sources
 - pkg:maven/io.wcm.maven.archetypes/io.wcm.maven.archetypes.aem@2.4.8?classifier=sources
+- pkg:maven/io.wcm.maven.archetypes/io.wcm.maven.archetypes.aem@3.0.0?classifier=sources

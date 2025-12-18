@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/bootstrap-modal-wrapper@2.0.1
+- pkg:maven/org.webjars.npm/bootstrap-modal-wrapper@2.0.1?classifier=sources

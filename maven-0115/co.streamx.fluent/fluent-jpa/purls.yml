@@ -24,3 +24,5 @@
 - pkg:maven/co.streamx.fluent/fluent-jpa@1.0.9?classifier=sources
 - pkg:maven/co.streamx.fluent/fluent-jpa@1.1.2
 - pkg:maven/co.streamx.fluent/fluent-jpa@1.1.2?classifier=sources
+- pkg:maven/co.streamx.fluent/fluent-jpa@1.2.0
+- pkg:maven/co.streamx.fluent/fluent-jpa@1.2.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.adobe.acs/acs-aem-commons-bundle@4.6.0
+- pkg:maven/com.adobe.acs/acs-aem-commons-bundle@4.6.0?classifier=sources

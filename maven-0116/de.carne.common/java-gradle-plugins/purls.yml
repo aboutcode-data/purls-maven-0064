@@ -14,3 +14,11 @@
 - pkg:maven/de.carne.common/java-gradle-plugins@0.7.4?classifier=sources
 - pkg:maven/de.carne.common/java-gradle-plugins@0.7.5
 - pkg:maven/de.carne.common/java-gradle-plugins@0.7.5?classifier=sources
+- pkg:maven/de.carne.common/java-gradle-plugins@0.8.0
+- pkg:maven/de.carne.common/java-gradle-plugins@0.8.0?classifier=sources
+- pkg:maven/de.carne.common/java-gradle-plugins@0.8.1
+- pkg:maven/de.carne.common/java-gradle-plugins@0.8.1?classifier=sources
+- pkg:maven/de.carne.common/java-gradle-plugins@0.8.2
+- pkg:maven/de.carne.common/java-gradle-plugins@0.8.2?classifier=sources
+- pkg:maven/de.carne.common/java-gradle-plugins@0.9.0
+- pkg:maven/de.carne.common/java-gradle-plugins@0.9.0?classifier=sources

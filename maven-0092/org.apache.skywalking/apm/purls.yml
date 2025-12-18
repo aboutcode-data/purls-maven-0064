@@ -12,3 +12,4 @@
 - pkg:maven/org.apache.skywalking/apm@6.4.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.skywalking/apm@6.5.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.skywalking/apm@6.6.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.skywalking/apm@7.0.0?classifier=source-release&type=zip

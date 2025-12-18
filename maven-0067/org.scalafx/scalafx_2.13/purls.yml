@@ -1,2 +1,4 @@
 - pkg:maven/org.scalafx/scalafx_2.13@12.0.2-R18
 - pkg:maven/org.scalafx/scalafx_2.13@12.0.2-R18?classifier=sources
+- pkg:maven/org.scalafx/scalafx_2.13@14-R19
+- pkg:maven/org.scalafx/scalafx_2.13@14-R19?classifier=sources

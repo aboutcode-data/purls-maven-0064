@@ -1,0 +1,4 @@
+- pkg:maven/com.devebot.jigsaw/java-secret-vault@0.3.0
+- pkg:maven/com.devebot.jigsaw/java-secret-vault@0.3.0?classifier=sources
+- pkg:maven/com.devebot.jigsaw/java-secret-vault@0.3.1
+- pkg:maven/com.devebot.jigsaw/java-secret-vault@0.3.1?classifier=sources

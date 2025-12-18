@@ -1,0 +1,2 @@
+- pkg:maven/org.zalando/problem-gson@0.24.0
+- pkg:maven/org.zalando/problem-gson@0.24.0?classifier=sources

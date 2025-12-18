@@ -1,0 +1,2 @@
+- pkg:maven/io.hyperfoil/hyperfoil-controller-api@0.8
+- pkg:maven/io.hyperfoil/hyperfoil-controller-api@0.8?classifier=sources

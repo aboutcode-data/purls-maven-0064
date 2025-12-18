@@ -2,4 +2,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-libs-smack@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-smack@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-smack@RELEASE112?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-libs-smack@RELEASE113?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-smack@RELEASE90?classifier=sources

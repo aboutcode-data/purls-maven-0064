@@ -6,3 +6,5 @@
 - pkg:maven/io.github.ketzalv/validationedittext@1.0.3?type=aar
 - pkg:maven/io.github.ketzalv/validationedittext@1.0.4?classifier=sources
 - pkg:maven/io.github.ketzalv/validationedittext@1.0.4?type=aar
+- pkg:maven/io.github.ketzalv/validationedittext@1.0.5?classifier=sources
+- pkg:maven/io.github.ketzalv/validationedittext@1.0.5?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/com.ganshane.specs/pop-sdk@20200325
+- pkg:maven/com.ganshane.specs/pop-sdk@20200325?classifier=sources

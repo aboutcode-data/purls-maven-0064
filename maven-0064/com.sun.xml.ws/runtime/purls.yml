@@ -1,2 +1,4 @@
 - pkg:maven/com.sun.xml.ws/runtime@2.3.2
+- pkg:maven/com.sun.xml.ws/runtime@2.3.2-1
+- pkg:maven/com.sun.xml.ws/runtime@2.3.2-1?classifier=sources
 - pkg:maven/com.sun.xml.ws/runtime@2.3.2?classifier=sources

@@ -219,6 +219,12 @@
 - pkg:maven/com.codeborne/selenide@5.0.1?classifier=sources
 - pkg:maven/com.codeborne/selenide@5.1.0
 - pkg:maven/com.codeborne/selenide@5.1.0?classifier=sources
+- pkg:maven/com.codeborne/selenide@5.10.0
+- pkg:maven/com.codeborne/selenide@5.10.0?classifier=sources
+- pkg:maven/com.codeborne/selenide@5.11.0
+- pkg:maven/com.codeborne/selenide@5.11.0?classifier=sources
+- pkg:maven/com.codeborne/selenide@5.11.1
+- pkg:maven/com.codeborne/selenide@5.11.1?classifier=sources
 - pkg:maven/com.codeborne/selenide@5.2.0
 - pkg:maven/com.codeborne/selenide@5.2.0?classifier=sources
 - pkg:maven/com.codeborne/selenide@5.2.1
@@ -255,3 +261,7 @@
 - pkg:maven/com.codeborne/selenide@5.6.1?classifier=sources
 - pkg:maven/com.codeborne/selenide@5.7.0
 - pkg:maven/com.codeborne/selenide@5.7.0?classifier=sources
+- pkg:maven/com.codeborne/selenide@5.8.0
+- pkg:maven/com.codeborne/selenide@5.8.0?classifier=sources
+- pkg:maven/com.codeborne/selenide@5.9.0
+- pkg:maven/com.codeborne/selenide@5.9.0?classifier=sources

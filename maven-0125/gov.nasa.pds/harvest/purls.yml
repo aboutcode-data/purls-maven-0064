@@ -1,2 +1,10 @@
 - pkg:maven/gov.nasa.pds/harvest@2.6.0
 - pkg:maven/gov.nasa.pds/harvest@2.6.0?classifier=sources
+- pkg:maven/gov.nasa.pds/harvest@3.0.0
+- pkg:maven/gov.nasa.pds/harvest@3.0.0?classifier=sources
+- pkg:maven/gov.nasa.pds/harvest@3.2.0
+- pkg:maven/gov.nasa.pds/harvest@3.2.0?classifier=sources
+- pkg:maven/gov.nasa.pds/harvest@3.2.1
+- pkg:maven/gov.nasa.pds/harvest@3.2.1?classifier=sources
+- pkg:maven/gov.nasa.pds/harvest@3.2.2
+- pkg:maven/gov.nasa.pds/harvest@3.2.2?classifier=sources

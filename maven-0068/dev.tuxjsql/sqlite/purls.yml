@@ -8,3 +8,5 @@
 - pkg:maven/dev.tuxjsql/sqlite@2.0?classifier=sources
 - pkg:maven/dev.tuxjsql/sqlite@2.0RC0
 - pkg:maven/dev.tuxjsql/sqlite@2.0RC0?classifier=sources
+- pkg:maven/dev.tuxjsql/sqlite@2.1
+- pkg:maven/dev.tuxjsql/sqlite@2.1?classifier=sources

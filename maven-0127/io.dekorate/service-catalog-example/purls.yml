@@ -1,0 +1,2 @@
+- pkg:maven/io.dekorate/service-catalog-example@0.12.0
+- pkg:maven/io.dekorate/service-catalog-example@0.12.0?classifier=sources

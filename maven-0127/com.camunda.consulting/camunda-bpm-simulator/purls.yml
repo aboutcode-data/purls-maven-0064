@@ -8,3 +8,5 @@
 - pkg:maven/com.camunda.consulting/camunda-bpm-simulator@1.1.2?classifier=sources
 - pkg:maven/com.camunda.consulting/camunda-bpm-simulator@1.3.0
 - pkg:maven/com.camunda.consulting/camunda-bpm-simulator@1.3.0?classifier=sources
+- pkg:maven/com.camunda.consulting/camunda-bpm-simulator@1.4.0
+- pkg:maven/com.camunda.consulting/camunda-bpm-simulator@1.4.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.testsigma-eng/testsigma-customfunctions@1.0
+- pkg:maven/io.github.testsigma-eng/testsigma-customfunctions@1.0?classifier=sources

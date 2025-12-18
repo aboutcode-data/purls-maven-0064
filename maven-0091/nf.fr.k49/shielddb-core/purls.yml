@@ -1,0 +1,2 @@
+- pkg:maven/nf.fr.k49/shielddb-core@0.1.1
+- pkg:maven/nf.fr.k49/shielddb-core@0.1.1?classifier=sources

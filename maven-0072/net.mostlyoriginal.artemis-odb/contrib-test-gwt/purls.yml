@@ -24,3 +24,5 @@
 - pkg:maven/net.mostlyoriginal.artemis-odb/contrib-test-gwt@2.3.0?type=war
 - pkg:maven/net.mostlyoriginal.artemis-odb/contrib-test-gwt@2.4.0?classifier=sources
 - pkg:maven/net.mostlyoriginal.artemis-odb/contrib-test-gwt@2.4.0?type=war
+- pkg:maven/net.mostlyoriginal.artemis-odb/contrib-test-gwt@2.5.0?classifier=sources
+- pkg:maven/net.mostlyoriginal.artemis-odb/contrib-test-gwt@2.5.0?type=war

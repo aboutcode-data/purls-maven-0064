@@ -1,4 +1,6 @@
 - pkg:maven/org.webjars.npm/angularjs-toaster@0.4.15
 - pkg:maven/org.webjars.npm/angularjs-toaster@0.4.15?classifier=sources
+- pkg:maven/org.webjars.npm/angularjs-toaster@1.2.0
+- pkg:maven/org.webjars.npm/angularjs-toaster@1.2.0?classifier=sources
 - pkg:maven/org.webjars.npm/angularjs-toaster@3.0.0
 - pkg:maven/org.webjars.npm/angularjs-toaster@3.0.0?classifier=sources

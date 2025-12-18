@@ -36,3 +36,5 @@
 - pkg:maven/com.nurego/nurego-java@1.0.8?classifier=sources
 - pkg:maven/com.nurego/nurego-java@1.0.9
 - pkg:maven/com.nurego/nurego-java@1.0.9?classifier=sources
+- pkg:maven/com.nurego/nurego-java@2.0
+- pkg:maven/com.nurego/nurego-java@2.0?classifier=sources

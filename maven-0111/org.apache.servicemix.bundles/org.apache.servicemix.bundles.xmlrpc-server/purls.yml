@@ -6,3 +6,7 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.xmlrpc-server@3.1.3_3?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.xmlrpc-server@3.1.3_3?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.xmlrpc-server@3.1.3_3?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.xmlrpc-server@3.1.3_4
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.xmlrpc-server@3.1.3_4?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.xmlrpc-server@3.1.3_4?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.xmlrpc-server@3.1.3_4?classifier=src&type=zip

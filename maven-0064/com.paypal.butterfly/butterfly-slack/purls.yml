@@ -1,3 +1,4 @@
+- pkg:maven/com.paypal.butterfly/butterfly-slack@3.0.0
 - pkg:maven/com.paypal.butterfly/butterfly-slack@3.0.0-M10
 - pkg:maven/com.paypal.butterfly/butterfly-slack@3.0.0-M10?classifier=sources
 - pkg:maven/com.paypal.butterfly/butterfly-slack@3.0.0-M11
@@ -6,3 +7,4 @@
 - pkg:maven/com.paypal.butterfly/butterfly-slack@3.0.0-M8?classifier=sources
 - pkg:maven/com.paypal.butterfly/butterfly-slack@3.0.0-M9
 - pkg:maven/com.paypal.butterfly/butterfly-slack@3.0.0-M9?classifier=sources
+- pkg:maven/com.paypal.butterfly/butterfly-slack@3.0.0?classifier=sources

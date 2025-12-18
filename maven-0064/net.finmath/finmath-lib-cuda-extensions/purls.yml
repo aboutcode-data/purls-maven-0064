@@ -10,3 +10,7 @@
 - pkg:maven/net.finmath/finmath-lib-cuda-extensions@4.0.5?classifier=sources
 - pkg:maven/net.finmath/finmath-lib-cuda-extensions@4.1.1
 - pkg:maven/net.finmath/finmath-lib-cuda-extensions@4.1.1?classifier=sources
+- pkg:maven/net.finmath/finmath-lib-cuda-extensions@4.1.2
+- pkg:maven/net.finmath/finmath-lib-cuda-extensions@4.1.2?classifier=sources
+- pkg:maven/net.finmath/finmath-lib-cuda-extensions@4.1.7
+- pkg:maven/net.finmath/finmath-lib-cuda-extensions@4.1.7?classifier=sources

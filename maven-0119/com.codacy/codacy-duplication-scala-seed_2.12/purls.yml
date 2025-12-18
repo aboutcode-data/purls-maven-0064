@@ -12,3 +12,7 @@
 - pkg:maven/com.codacy/codacy-duplication-scala-seed_2.12@2.0.0-pre.92
 - pkg:maven/com.codacy/codacy-duplication-scala-seed_2.12@2.0.0-pre.92?classifier=sources
 - pkg:maven/com.codacy/codacy-duplication-scala-seed_2.12@2.0.0-pre.9?classifier=sources
+- pkg:maven/com.codacy/codacy-duplication-scala-seed_2.12@2.0.1
+- pkg:maven/com.codacy/codacy-duplication-scala-seed_2.12@2.0.1-fixpom.cb63044
+- pkg:maven/com.codacy/codacy-duplication-scala-seed_2.12@2.0.1-fixpom.cb63044?classifier=sources
+- pkg:maven/com.codacy/codacy-duplication-scala-seed_2.12@2.0.1?classifier=sources

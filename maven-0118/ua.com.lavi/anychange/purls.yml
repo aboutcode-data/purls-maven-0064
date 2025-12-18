@@ -16,6 +16,8 @@
 - pkg:maven/ua.com.lavi/anychange@0.17?classifier=sources
 - pkg:maven/ua.com.lavi/anychange@0.18
 - pkg:maven/ua.com.lavi/anychange@0.18?classifier=sources
+- pkg:maven/ua.com.lavi/anychange@0.19
+- pkg:maven/ua.com.lavi/anychange@0.19?classifier=sources
 - pkg:maven/ua.com.lavi/anychange@0.2?classifier=sources
 - pkg:maven/ua.com.lavi/anychange@0.3
 - pkg:maven/ua.com.lavi/anychange@0.3?classifier=sources

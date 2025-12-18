@@ -154,3 +154,5 @@
 - pkg:maven/com.braintreepayments.api/data-collector@3.7.2?type=aar
 - pkg:maven/com.braintreepayments.api/data-collector@3.8.0?classifier=sources
 - pkg:maven/com.braintreepayments.api/data-collector@3.8.0?type=aar
+- pkg:maven/com.braintreepayments.api/data-collector@3.9.0?classifier=sources
+- pkg:maven/com.braintreepayments.api/data-collector@3.9.0?type=aar

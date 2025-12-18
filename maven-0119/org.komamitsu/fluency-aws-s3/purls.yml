@@ -5,3 +5,4 @@
 - pkg:maven/org.komamitsu/fluency-aws-s3@2.3.2?classifier=sources
 - pkg:maven/org.komamitsu/fluency-aws-s3@2.3.3
 - pkg:maven/org.komamitsu/fluency-aws-s3@2.4.0?classifier=sources
+- pkg:maven/org.komamitsu/fluency-aws-s3@2.4.1?classifier=sources

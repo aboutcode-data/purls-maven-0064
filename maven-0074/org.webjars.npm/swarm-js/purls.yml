@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/swarm-js@0.1.39
+- pkg:maven/org.webjars.npm/swarm-js@0.1.39?classifier=sources

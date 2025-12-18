@@ -1,0 +1,12 @@
+- pkg:maven/com.piesoftsol.oneservice.oneservice.eurekaservice/eurekaservice@2.0.0
+- pkg:maven/com.piesoftsol.oneservice.oneservice.eurekaservice/eurekaservice@2.0.0?classifier=sources
+- pkg:maven/com.piesoftsol.oneservice.oneservice.eurekaservice/eurekaservice@3.0.0-beta
+- pkg:maven/com.piesoftsol.oneservice.oneservice.eurekaservice/eurekaservice@3.0.0-beta?classifier=sources
+- pkg:maven/com.piesoftsol.oneservice.oneservice.eurekaservice/eurekaservice@3.0.1
+- pkg:maven/com.piesoftsol.oneservice.oneservice.eurekaservice/eurekaservice@3.0.1-beta
+- pkg:maven/com.piesoftsol.oneservice.oneservice.eurekaservice/eurekaservice@3.0.1-beta?classifier=sources
+- pkg:maven/com.piesoftsol.oneservice.oneservice.eurekaservice/eurekaservice@3.0.1?classifier=sources
+- pkg:maven/com.piesoftsol.oneservice.oneservice.eurekaservice/eurekaservice@4.0.1
+- pkg:maven/com.piesoftsol.oneservice.oneservice.eurekaservice/eurekaservice@4.0.1-beta
+- pkg:maven/com.piesoftsol.oneservice.oneservice.eurekaservice/eurekaservice@4.0.1-beta?classifier=sources
+- pkg:maven/com.piesoftsol.oneservice.oneservice.eurekaservice/eurekaservice@4.0.1?classifier=sources

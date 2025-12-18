@@ -1,0 +1,6 @@
+- pkg:maven/com.goyeau/mill-git-2.12.11_2.12@0.1.0-2-70ef59a
+- pkg:maven/com.goyeau/mill-git-2.12.11_2.12@0.1.0-2-70ef59a?classifier=sources
+- pkg:maven/com.goyeau/mill-git-2.12.11_2.12@05efc58
+- pkg:maven/com.goyeau/mill-git-2.12.11_2.12@05efc58?classifier=sources
+- pkg:maven/com.goyeau/mill-git-2.12.11_2.12@cd6e2a8
+- pkg:maven/com.goyeau/mill-git-2.12.11_2.12@cd6e2a8?classifier=sources

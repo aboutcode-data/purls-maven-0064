@@ -1,0 +1,4 @@
+- pkg:maven/org.shaneking.aspectj/org.shaneking.aspectj.test@0.4.7
+- pkg:maven/org.shaneking.aspectj/org.shaneking.aspectj.test@0.4.7?classifier=sources
+- pkg:maven/org.shaneking.aspectj/org.shaneking.aspectj.test@0.4.8
+- pkg:maven/org.shaneking.aspectj/org.shaneking.aspectj.test@0.4.8?classifier=sources

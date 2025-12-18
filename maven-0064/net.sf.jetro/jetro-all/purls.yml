@@ -1,2 +1,6 @@
 - pkg:maven/net.sf.jetro/jetro-all@0.2
 - pkg:maven/net.sf.jetro/jetro-all@1.0.0
+- pkg:maven/net.sf.jetro/jetro-all@2.0.0
+- pkg:maven/net.sf.jetro/jetro-all@2.1.0
+- pkg:maven/net.sf.jetro/jetro-all@2.1.1
+- pkg:maven/net.sf.jetro/jetro-all@2.1.2

@@ -2,4 +2,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-localhistory@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-localhistory@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-localhistory@RELEASE112?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-localhistory@RELEASE113?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-localhistory@RELEASE90?classifier=sources

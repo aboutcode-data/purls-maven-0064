@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.carbon.identity.conditional.auth.functions/org.wso2.carbon.identity.conditional.auth.functions.jwt.decode@1.1.0
+- pkg:maven/org.wso2.carbon.identity.conditional.auth.functions/org.wso2.carbon.identity.conditional.auth.functions.jwt.decode@1.1.0?classifier=sources

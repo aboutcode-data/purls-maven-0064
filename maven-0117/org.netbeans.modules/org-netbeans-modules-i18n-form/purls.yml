@@ -2,4 +2,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-i18n-form@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-i18n-form@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-i18n-form@RELEASE112?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-i18n-form@RELEASE113?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-i18n-form@RELEASE90?classifier=sources

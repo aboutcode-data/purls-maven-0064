@@ -1,0 +1,2 @@
+- pkg:maven/xyz.kamyar/chiselpack_2.12@3.3.5b4f718
+- pkg:maven/xyz.kamyar/chiselpack_2.12@3.3.5b4f718?classifier=sources

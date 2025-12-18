@@ -1,1 +1,2 @@
 - pkg:maven/io.github.thiyagu06/reactive-sqs-consumer@1.0?classifier=sources
+- pkg:maven/io.github.thiyagu06/reactive-sqs-consumer@1.1?classifier=sources

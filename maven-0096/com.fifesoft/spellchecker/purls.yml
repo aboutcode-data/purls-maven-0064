@@ -32,5 +32,6 @@
 - pkg:maven/com.fifesoft/spellchecker@3.0.2?classifier=src&type=zip
 - pkg:maven/com.fifesoft/spellchecker@3.0.3?classifier=sources
 - pkg:maven/com.fifesoft/spellchecker@3.0.4?classifier=sources
+- pkg:maven/com.fifesoft/spellchecker@3.1.0?classifier=sources
 - pkg:maven/com.fifesoft/spellchecker@r239
 - pkg:maven/com.fifesoft/spellchecker@r239?classifier=sources

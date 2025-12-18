@@ -1,2 +1,4 @@
 - pkg:maven/software.amazon.pay/amazon-pay-sdk-v2-java@4.3.0
 - pkg:maven/software.amazon.pay/amazon-pay-sdk-v2-java@4.3.0?classifier=sources
+- pkg:maven/software.amazon.pay/amazon-pay-sdk-v2-java@4.3.1
+- pkg:maven/software.amazon.pay/amazon-pay-sdk-v2-java@4.3.1?classifier=sources

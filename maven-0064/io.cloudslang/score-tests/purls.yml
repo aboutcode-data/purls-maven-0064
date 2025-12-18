@@ -36,6 +36,16 @@
 - pkg:maven/io.cloudslang/score-tests@0.3.132
 - pkg:maven/io.cloudslang/score-tests@0.3.133
 - pkg:maven/io.cloudslang/score-tests@0.3.134
+- pkg:maven/io.cloudslang/score-tests@0.3.135
+- pkg:maven/io.cloudslang/score-tests@0.3.136
+- pkg:maven/io.cloudslang/score-tests@0.3.139
+- pkg:maven/io.cloudslang/score-tests@0.3.140
+- pkg:maven/io.cloudslang/score-tests@0.3.141
+- pkg:maven/io.cloudslang/score-tests@0.3.142
+- pkg:maven/io.cloudslang/score-tests@0.3.143
+- pkg:maven/io.cloudslang/score-tests@0.3.144
+- pkg:maven/io.cloudslang/score-tests@0.3.145
+- pkg:maven/io.cloudslang/score-tests@0.3.146
 - pkg:maven/io.cloudslang/score-tests@0.3.16
 - pkg:maven/io.cloudslang/score-tests@0.3.20
 - pkg:maven/io.cloudslang/score-tests@0.3.22

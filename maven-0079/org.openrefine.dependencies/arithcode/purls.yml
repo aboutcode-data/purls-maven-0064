@@ -1,0 +1,2 @@
+- pkg:maven/org.openrefine.dependencies/arithcode@1.1
+- pkg:maven/org.openrefine.dependencies/arithcode@1.1?classifier=sources

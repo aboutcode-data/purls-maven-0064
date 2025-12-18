@@ -1,1 +1,2 @@
 - pkg:maven/io.allune/docker-server-client@2.5.0
+- pkg:maven/io.allune/docker-server-client@2.5.2

@@ -1,0 +1,2 @@
+- pkg:maven/de.mhus.apache.karaf.tooling/karaf-services-maven-plugin@4.2.8
+- pkg:maven/de.mhus.apache.karaf.tooling/karaf-services-maven-plugin@4.2.8?classifier=sources

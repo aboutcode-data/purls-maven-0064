@@ -1,0 +1,6 @@
+- pkg:maven/com.github.karsaig/approvalcrest-junit-jupiter@0.50
+- pkg:maven/com.github.karsaig/approvalcrest-junit-jupiter@0.50?classifier=sources
+- pkg:maven/com.github.karsaig/approvalcrest-junit-jupiter@0.54
+- pkg:maven/com.github.karsaig/approvalcrest-junit-jupiter@0.54?classifier=sources
+- pkg:maven/com.github.karsaig/approvalcrest-junit-jupiter@0.55.2
+- pkg:maven/com.github.karsaig/approvalcrest-junit-jupiter@0.55.2?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.plc4x/karaf-itest@0.5.0
+- pkg:maven/org.apache.plc4x/karaf-itest@0.6.0

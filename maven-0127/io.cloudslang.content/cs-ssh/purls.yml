@@ -10,3 +10,5 @@
 - pkg:maven/io.cloudslang.content/cs-ssh@0.0.37?classifier=sources
 - pkg:maven/io.cloudslang.content/cs-ssh@0.0.38
 - pkg:maven/io.cloudslang.content/cs-ssh@0.0.38?classifier=sources
+- pkg:maven/io.cloudslang.content/cs-ssh@0.0.42
+- pkg:maven/io.cloudslang.content/cs-ssh@0.0.42?classifier=sources

@@ -45,6 +45,11 @@
 - pkg:maven/org.optaplanner/optaplanner-wb-es-guide@7.31.0.Final?type=zip
 - pkg:maven/org.optaplanner/optaplanner-wb-es-guide@7.32.0.Final?type=zip
 - pkg:maven/org.optaplanner/optaplanner-wb-es-guide@7.33.0.Final?type=zip
+- pkg:maven/org.optaplanner/optaplanner-wb-es-guide@7.34.0.Final?type=zip
+- pkg:maven/org.optaplanner/optaplanner-wb-es-guide@7.35.0.Final?type=zip
+- pkg:maven/org.optaplanner/optaplanner-wb-es-guide@7.36.0.Final?type=zip
+- pkg:maven/org.optaplanner/optaplanner-wb-es-guide@7.36.1.Final?type=zip
+- pkg:maven/org.optaplanner/optaplanner-wb-es-guide@7.37.0.Final?type=zip
 - pkg:maven/org.optaplanner/optaplanner-wb-es-guide@7.4.1.Final?type=zip
 - pkg:maven/org.optaplanner/optaplanner-wb-es-guide@7.5.0.Final?type=zip
 - pkg:maven/org.optaplanner/optaplanner-wb-es-guide@7.6.0.Final?type=zip

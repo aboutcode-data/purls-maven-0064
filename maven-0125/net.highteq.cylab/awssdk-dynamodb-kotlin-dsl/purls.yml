@@ -1,0 +1,7 @@
+- pkg:maven/net.highteq.cylab/awssdk-dynamodb-kotlin-dsl@2.5.54_ALPHA1?classifier=sources
+- pkg:maven/net.highteq.cylab/awssdk-dynamodb-kotlin-dsl@2.5.54_ALPHA2?classifier=sources
+- pkg:maven/net.highteq.cylab/awssdk-dynamodb-kotlin-dsl@2.5.54_ALPHA3?classifier=sources
+- pkg:maven/net.highteq.cylab/awssdk-dynamodb-kotlin-dsl@2.5.54_ALPHA4?classifier=sources
+- pkg:maven/net.highteq.cylab/awssdk-dynamodb-kotlin-dsl@2.5.54_ALPHA5?classifier=sources
+- pkg:maven/net.highteq.cylab/awssdk-dynamodb-kotlin-dsl@2.5.54_ALPHA6?classifier=sources
+- pkg:maven/net.highteq.cylab/awssdk-dynamodb-kotlin-dsl@2.5.54_RC1?classifier=sources

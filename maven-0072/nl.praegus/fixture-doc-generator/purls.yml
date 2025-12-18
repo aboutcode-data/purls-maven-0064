@@ -1,2 +1,4 @@
 - pkg:maven/nl.praegus/fixture-doc-generator@1.0
 - pkg:maven/nl.praegus/fixture-doc-generator@1.0?classifier=sources
+- pkg:maven/nl.praegus/fixture-doc-generator@1.1
+- pkg:maven/nl.praegus/fixture-doc-generator@1.1?classifier=sources

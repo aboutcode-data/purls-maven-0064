@@ -1,0 +1,2 @@
+- pkg:maven/org.colomoto/bioLQM@0.7.1
+- pkg:maven/org.colomoto/bioLQM@0.7.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.opentelemetry/opentelemetry-sdk-contrib-jaeger-remote-sampler@0.4.0
+- pkg:maven/io.opentelemetry/opentelemetry-sdk-contrib-jaeger-remote-sampler@0.4.0?classifier=sources

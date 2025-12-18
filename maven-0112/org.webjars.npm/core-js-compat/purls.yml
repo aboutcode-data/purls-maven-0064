@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/core-js-compat@3.3.3?classifier=sources
 - pkg:maven/org.webjars.npm/core-js-compat@3.6.4
 - pkg:maven/org.webjars.npm/core-js-compat@3.6.4?classifier=sources
+- pkg:maven/org.webjars.npm/core-js-compat@3.6.5
+- pkg:maven/org.webjars.npm/core-js-compat@3.6.5?classifier=sources

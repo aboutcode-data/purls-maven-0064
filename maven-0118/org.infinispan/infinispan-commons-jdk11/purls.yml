@@ -1,0 +1,4 @@
+- pkg:maven/org.infinispan/infinispan-commons-jdk11@11.0.0.Dev04
+- pkg:maven/org.infinispan/infinispan-commons-jdk11@11.0.0.Dev04?classifier=sources
+- pkg:maven/org.infinispan/infinispan-commons-jdk11@11.0.0.Dev05
+- pkg:maven/org.infinispan/infinispan-commons-jdk11@11.0.0.Dev05?classifier=sources

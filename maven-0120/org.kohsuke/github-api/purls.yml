@@ -16,8 +16,16 @@
 - pkg:maven/org.kohsuke/github-api@1.106?classifier=sources
 - pkg:maven/org.kohsuke/github-api@1.107
 - pkg:maven/org.kohsuke/github-api@1.107?classifier=sources
+- pkg:maven/org.kohsuke/github-api@1.108
+- pkg:maven/org.kohsuke/github-api@1.108?classifier=sources
+- pkg:maven/org.kohsuke/github-api@1.109
+- pkg:maven/org.kohsuke/github-api@1.109?classifier=sources
 - pkg:maven/org.kohsuke/github-api@1.10?classifier=sources
 - pkg:maven/org.kohsuke/github-api@1.11
+- pkg:maven/org.kohsuke/github-api@1.110
+- pkg:maven/org.kohsuke/github-api@1.110?classifier=sources
+- pkg:maven/org.kohsuke/github-api@1.111
+- pkg:maven/org.kohsuke/github-api@1.111?classifier=sources
 - pkg:maven/org.kohsuke/github-api@1.11?classifier=sources
 - pkg:maven/org.kohsuke/github-api@1.12
 - pkg:maven/org.kohsuke/github-api@1.12?classifier=sources

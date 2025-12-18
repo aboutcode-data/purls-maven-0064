@@ -2,4 +2,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-breadcrumbs@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-breadcrumbs@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-breadcrumbs@RELEASE112?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-breadcrumbs@RELEASE113?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-editor-breadcrumbs@RELEASE90?classifier=sources

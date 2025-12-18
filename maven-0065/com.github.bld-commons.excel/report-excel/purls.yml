@@ -1,0 +1,2 @@
+- pkg:maven/com.github.bld-commons.excel/report-excel@2.0.5
+- pkg:maven/com.github.bld-commons.excel/report-excel@2.0.5?classifier=sources

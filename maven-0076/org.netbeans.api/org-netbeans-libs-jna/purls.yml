@@ -1,1 +1,2 @@
 - pkg:maven/org.netbeans.api/org-netbeans-libs-jna@RELEASE112?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-libs-jna@RELEASE113?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.navercorp.spring/spring-data-jdbc-plus-repository@2.0.0.RC1-PRE4
+- pkg:maven/com.navercorp.spring/spring-data-jdbc-plus-repository@2.0.0.RC1-PRE4?classifier=sources
+- pkg:maven/com.navercorp.spring/spring-data-jdbc-plus-repository@2.0.0.RC2
+- pkg:maven/com.navercorp.spring/spring-data-jdbc-plus-repository@2.0.0.RC2?classifier=sources

@@ -16,6 +16,14 @@
 - pkg:maven/com.redislabs/picocli-redis@1.11.7?classifier=sources
 - pkg:maven/com.redislabs/picocli-redis@1.11.9
 - pkg:maven/com.redislabs/picocli-redis@1.11.9?classifier=sources
+- pkg:maven/com.redislabs/picocli-redis@1.13.0
+- pkg:maven/com.redislabs/picocli-redis@1.13.0?classifier=sources
+- pkg:maven/com.redislabs/picocli-redis@1.14.0
+- pkg:maven/com.redislabs/picocli-redis@1.14.0?classifier=sources
+- pkg:maven/com.redislabs/picocli-redis@1.14.1
+- pkg:maven/com.redislabs/picocli-redis@1.14.1?classifier=sources
+- pkg:maven/com.redislabs/picocli-redis@1.15.0
+- pkg:maven/com.redislabs/picocli-redis@1.15.0?classifier=sources
 - pkg:maven/com.redislabs/picocli-redis@1.3.0
 - pkg:maven/com.redislabs/picocli-redis@1.3.0?classifier=sources
 - pkg:maven/com.redislabs/picocli-redis@1.3.3?classifier=sources

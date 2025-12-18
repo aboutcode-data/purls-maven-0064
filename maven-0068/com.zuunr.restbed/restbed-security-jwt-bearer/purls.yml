@@ -1,0 +1,2 @@
+- pkg:maven/com.zuunr.restbed/restbed-security-jwt-bearer@1.0.0.M1-bd8a554
+- pkg:maven/com.zuunr.restbed/restbed-security-jwt-bearer@1.0.0.M1-bd8a554?classifier=sources

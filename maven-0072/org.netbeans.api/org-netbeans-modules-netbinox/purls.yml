@@ -2,4 +2,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-netbinox@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-netbinox@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-netbinox@RELEASE112?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-netbinox@RELEASE113?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-netbinox@RELEASE90?classifier=sources

@@ -63,6 +63,8 @@
 - pkg:maven/com.google.dagger/dagger-producers@2.25?classifier=sources
 - pkg:maven/com.google.dagger/dagger-producers@2.26
 - pkg:maven/com.google.dagger/dagger-producers@2.26?classifier=sources
+- pkg:maven/com.google.dagger/dagger-producers@2.27
+- pkg:maven/com.google.dagger/dagger-producers@2.27?classifier=sources
 - pkg:maven/com.google.dagger/dagger-producers@2.2?classifier=sources
 - pkg:maven/com.google.dagger/dagger-producers@2.3
 - pkg:maven/com.google.dagger/dagger-producers@2.3?classifier=sources

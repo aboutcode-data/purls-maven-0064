@@ -1,2 +1,6 @@
+- pkg:maven/com.aerospike/aerospike-reactor-query-engine@4.4.10
+- pkg:maven/com.aerospike/aerospike-reactor-query-engine@4.4.10?classifier=sources
 - pkg:maven/com.aerospike/aerospike-reactor-query-engine@4.4.9
+- pkg:maven/com.aerospike/aerospike-reactor-query-engine@4.4.9.1
+- pkg:maven/com.aerospike/aerospike-reactor-query-engine@4.4.9.1?classifier=sources
 - pkg:maven/com.aerospike/aerospike-reactor-query-engine@4.4.9?classifier=sources

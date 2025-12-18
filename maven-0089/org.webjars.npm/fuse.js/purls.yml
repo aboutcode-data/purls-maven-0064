@@ -10,3 +10,9 @@
 - pkg:maven/org.webjars.npm/fuse.js@3.4.5?classifier=sources
 - pkg:maven/org.webjars.npm/fuse.js@3.4.6
 - pkg:maven/org.webjars.npm/fuse.js@3.4.6?classifier=sources
+- pkg:maven/org.webjars.npm/fuse.js@3.6.1
+- pkg:maven/org.webjars.npm/fuse.js@3.6.1?classifier=sources
+- pkg:maven/org.webjars.npm/fuse.js@5.1.0
+- pkg:maven/org.webjars.npm/fuse.js@5.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/fuse.js@5.2.3
+- pkg:maven/org.webjars.npm/fuse.js@5.2.3?classifier=sources

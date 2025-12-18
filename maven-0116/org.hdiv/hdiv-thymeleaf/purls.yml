@@ -34,3 +34,5 @@
 - pkg:maven/org.hdiv/hdiv-thymeleaf@3.4.0?classifier=sources
 - pkg:maven/org.hdiv/hdiv-thymeleaf@3.5.0.RC1
 - pkg:maven/org.hdiv/hdiv-thymeleaf@3.5.0.RC1?classifier=sources
+- pkg:maven/org.hdiv/hdiv-thymeleaf@3.5.0.RC2
+- pkg:maven/org.hdiv/hdiv-thymeleaf@3.5.0.RC2?classifier=sources

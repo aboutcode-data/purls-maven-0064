@@ -1,0 +1,2 @@
+- pkg:maven/com.rethinkdb/rethinkdb-kotlin-jvm@2.4.0
+- pkg:maven/com.rethinkdb/rethinkdb-kotlin-jvm@2.4.0?classifier=sources
