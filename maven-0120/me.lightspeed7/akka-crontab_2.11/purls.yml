@@ -1,0 +1,4 @@
+- pkg:maven/me.lightspeed7/akka-crontab_2.11@0.3.0
+- pkg:maven/me.lightspeed7/akka-crontab_2.11@0.3.0?classifier=sources
+- pkg:maven/me.lightspeed7/akka-crontab_2.11@0.3.1
+- pkg:maven/me.lightspeed7/akka-crontab_2.11@0.3.1?classifier=sources

@@ -32,3 +32,5 @@
 - pkg:maven/com.influxdb/influxdb-client-scala@1.9.0?classifier=sources
 - pkg:maven/com.influxdb/influxdb-client-scala@2.0.0
 - pkg:maven/com.influxdb/influxdb-client-scala@2.0.0?classifier=sources
+- pkg:maven/com.influxdb/influxdb-client-scala@2.1.0
+- pkg:maven/com.influxdb/influxdb-client-scala@2.1.0?classifier=sources

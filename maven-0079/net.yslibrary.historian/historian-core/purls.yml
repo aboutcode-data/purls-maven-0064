@@ -2,3 +2,4 @@
 - pkg:maven/net.yslibrary.historian/historian-core@0.2.0?classifier=sources
 - pkg:maven/net.yslibrary.historian/historian-core@0.3.0?classifier=sources
 - pkg:maven/net.yslibrary.historian/historian-core@0.3.1?classifier=sources
+- pkg:maven/net.yslibrary.historian/historian-core@0.4.0?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/com.github.hanshsieh/pixivj@1.0.0-beta?classifier=sources
 - pkg:maven/com.github.hanshsieh/pixivj@1.1.2-beta
 - pkg:maven/com.github.hanshsieh/pixivj@1.1.2-beta?classifier=sources
+- pkg:maven/com.github.hanshsieh/pixivj@1.2.3-beta
+- pkg:maven/com.github.hanshsieh/pixivj@1.2.3-beta?classifier=sources

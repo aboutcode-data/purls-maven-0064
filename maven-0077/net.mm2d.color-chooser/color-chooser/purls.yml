@@ -1,1 +1,2 @@
 - pkg:maven/net.mm2d.color-chooser/color-chooser@0.2.4?classifier=sources
+- pkg:maven/net.mm2d.color-chooser/color-chooser@0.2.5?classifier=sources

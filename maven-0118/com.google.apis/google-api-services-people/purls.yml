@@ -874,6 +874,16 @@
 - pkg:maven/com.google.apis/google-api-services-people@v1-rev20210223-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-people@v1-rev20210302-1.31.0
 - pkg:maven/com.google.apis/google-api-services-people@v1-rev20210302-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-people@v1-rev20210315-1.31.0
+- pkg:maven/com.google.apis/google-api-services-people@v1-rev20210315-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-people@v1-rev20210322-1.31.0
+- pkg:maven/com.google.apis/google-api-services-people@v1-rev20210322-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-people@v1-rev20210330-1.31.0
+- pkg:maven/com.google.apis/google-api-services-people@v1-rev20210330-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-people@v1-rev20210406-1.31.0
+- pkg:maven/com.google.apis/google-api-services-people@v1-rev20210406-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-people@v1-rev20210419-1.31.0
+- pkg:maven/com.google.apis/google-api-services-people@v1-rev20210419-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-people@v1-rev203-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-people@v1-rev203-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-people@v1-rev203-1.21.0

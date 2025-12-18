@@ -20,3 +20,5 @@
 - pkg:maven/com.github.timofeevda.jstressy/jstressy-vertx-metrics@1.0.21?classifier=sources
 - pkg:maven/com.github.timofeevda.jstressy/jstressy-vertx-metrics@1.0.22
 - pkg:maven/com.github.timofeevda.jstressy/jstressy-vertx-metrics@1.0.22?classifier=sources
+- pkg:maven/com.github.timofeevda.jstressy/jstressy-vertx-metrics@1.1.3
+- pkg:maven/com.github.timofeevda.jstressy/jstressy-vertx-metrics@1.1.3?classifier=sources

@@ -48,3 +48,7 @@
 - pkg:maven/com.n3twork.dynamap/dynamap@0.9.62?classifier=sources
 - pkg:maven/com.n3twork.dynamap/dynamap@0.9.63
 - pkg:maven/com.n3twork.dynamap/dynamap@0.9.63?classifier=sources
+- pkg:maven/com.n3twork.dynamap/dynamap@0.9.64
+- pkg:maven/com.n3twork.dynamap/dynamap@0.9.64?classifier=sources
+- pkg:maven/com.n3twork.dynamap/dynamap@0.9.65
+- pkg:maven/com.n3twork.dynamap/dynamap@0.9.65?classifier=sources

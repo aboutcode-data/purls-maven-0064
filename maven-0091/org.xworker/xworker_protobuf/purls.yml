@@ -1,0 +1,2 @@
+- pkg:maven/org.xworker/xworker_protobuf@3.11.4
+- pkg:maven/org.xworker/xworker_protobuf@3.11.4?classifier=sources

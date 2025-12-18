@@ -58,3 +58,5 @@
 - pkg:maven/com.huaweicloud/spring-cloud-huawei-servicecomb-discovery@1.5.1-Greenwich?classifier=sources
 - pkg:maven/com.huaweicloud/spring-cloud-huawei-servicecomb-discovery@1.5.1-Hoxton
 - pkg:maven/com.huaweicloud/spring-cloud-huawei-servicecomb-discovery@1.5.1-Hoxton?classifier=sources
+- pkg:maven/com.huaweicloud/spring-cloud-huawei-servicecomb-discovery@1.5.2-Hoxton
+- pkg:maven/com.huaweicloud/spring-cloud-huawei-servicecomb-discovery@1.5.2-Hoxton?classifier=sources

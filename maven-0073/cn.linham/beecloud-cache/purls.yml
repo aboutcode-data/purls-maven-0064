@@ -6,3 +6,5 @@
 - pkg:maven/cn.linham/beecloud-cache@5.1?classifier=sources
 - pkg:maven/cn.linham/beecloud-cache@5.5.1
 - pkg:maven/cn.linham/beecloud-cache@5.5.1?classifier=sources
+- pkg:maven/cn.linham/beecloud-cache@5.6.1
+- pkg:maven/cn.linham/beecloud-cache@5.6.1?classifier=sources

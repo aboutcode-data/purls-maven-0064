@@ -1,1 +1,3 @@
 - pkg:maven/org.odpi.egeria/data-engine-fvt@2.7
+- pkg:maven/org.odpi.egeria/data-engine-fvt@2.8
+- pkg:maven/org.odpi.egeria/data-engine-fvt@2.9

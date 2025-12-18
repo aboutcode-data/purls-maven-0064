@@ -40,5 +40,9 @@
 - pkg:maven/biz.turnonline.ecosystem/turnonline-product-billing-client@0.29?classifier=sources
 - pkg:maven/biz.turnonline.ecosystem/turnonline-product-billing-client@0.30
 - pkg:maven/biz.turnonline.ecosystem/turnonline-product-billing-client@0.30?classifier=sources
+- pkg:maven/biz.turnonline.ecosystem/turnonline-product-billing-client@0.31
+- pkg:maven/biz.turnonline.ecosystem/turnonline-product-billing-client@0.31?classifier=sources
+- pkg:maven/biz.turnonline.ecosystem/turnonline-product-billing-client@0.32
+- pkg:maven/biz.turnonline.ecosystem/turnonline-product-billing-client@0.32?classifier=sources
 - pkg:maven/biz.turnonline.ecosystem/turnonline-product-billing-client@0.9
 - pkg:maven/biz.turnonline.ecosystem/turnonline-product-billing-client@0.9?classifier=sources

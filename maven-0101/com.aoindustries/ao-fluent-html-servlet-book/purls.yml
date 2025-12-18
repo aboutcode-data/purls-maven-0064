@@ -1,2 +1,4 @@
 - pkg:maven/com.aoindustries/ao-fluent-html-servlet-book@0.1.0
 - pkg:maven/com.aoindustries/ao-fluent-html-servlet-book@0.1.0?classifier=sources
+- pkg:maven/com.aoindustries/ao-fluent-html-servlet-book@0.4.0
+- pkg:maven/com.aoindustries/ao-fluent-html-servlet-book@0.4.0?classifier=sources

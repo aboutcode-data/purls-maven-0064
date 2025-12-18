@@ -10,3 +10,9 @@
 - pkg:maven/com.trackier/android-sdk@1.0.3?type=aar
 - pkg:maven/com.trackier/android-sdk@1.0.4?classifier=sources
 - pkg:maven/com.trackier/android-sdk@1.0.4?type=aar
+- pkg:maven/com.trackier/android-sdk@1.0.5?classifier=sources
+- pkg:maven/com.trackier/android-sdk@1.0.5?type=aar
+- pkg:maven/com.trackier/android-sdk@1.0.6?classifier=sources
+- pkg:maven/com.trackier/android-sdk@1.0.6?type=aar
+- pkg:maven/com.trackier/android-sdk@1.1.0?classifier=sources
+- pkg:maven/com.trackier/android-sdk@1.1.0?type=aar

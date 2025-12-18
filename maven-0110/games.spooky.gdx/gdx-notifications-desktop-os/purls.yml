@@ -1,0 +1,2 @@
+- pkg:maven/games.spooky.gdx/gdx-notifications-desktop-os@0.1.0?classifier=sources
+- pkg:maven/games.spooky.gdx/gdx-notifications-desktop-os@1.0.0?classifier=sources

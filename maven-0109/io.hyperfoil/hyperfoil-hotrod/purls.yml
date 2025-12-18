@@ -1,0 +1,2 @@
+- pkg:maven/io.hyperfoil/hyperfoil-hotrod@0.15
+- pkg:maven/io.hyperfoil/hyperfoil-hotrod@0.15?classifier=sources

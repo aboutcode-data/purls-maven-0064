@@ -72,6 +72,7 @@
 - pkg:maven/com.dtflys.forest/forest-spring@1.4.8?classifier=sources
 - pkg:maven/com.dtflys.forest/forest-spring@1.4.9
 - pkg:maven/com.dtflys.forest/forest-spring@1.4.9?classifier=sources
+- pkg:maven/com.dtflys.forest/forest-spring@1.5.0
 - pkg:maven/com.dtflys.forest/forest-spring@1.5.0-BETA
 - pkg:maven/com.dtflys.forest/forest-spring@1.5.0-BETA1
 - pkg:maven/com.dtflys.forest/forest-spring@1.5.0-BETA10
@@ -112,3 +113,6 @@
 - pkg:maven/com.dtflys.forest/forest-spring@1.5.0-RC6?classifier=sources
 - pkg:maven/com.dtflys.forest/forest-spring@1.5.0-RC7
 - pkg:maven/com.dtflys.forest/forest-spring@1.5.0-RC7?classifier=sources
+- pkg:maven/com.dtflys.forest/forest-spring@1.5.0?classifier=sources
+- pkg:maven/com.dtflys.forest/forest-spring@1.5.1-BETA
+- pkg:maven/com.dtflys.forest/forest-spring@1.5.1-BETA?classifier=sources

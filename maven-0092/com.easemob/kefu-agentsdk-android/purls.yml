@@ -1,0 +1,4 @@
+- pkg:maven/com.easemob/kefu-agentsdk-android@1.0.3?classifier=sources
+- pkg:maven/com.easemob/kefu-agentsdk-android@1.0.4?classifier=sources
+- pkg:maven/com.easemob/kefu-agentsdk-android@1.0.9?classifier=sources
+- pkg:maven/com.easemob/kefu-agentsdk-android@1.0.9r2?classifier=sources

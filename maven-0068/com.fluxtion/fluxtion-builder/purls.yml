@@ -184,6 +184,8 @@
 - pkg:maven/com.fluxtion/fluxtion-builder@2.10.47?classifier=sources
 - pkg:maven/com.fluxtion/fluxtion-builder@2.10.48
 - pkg:maven/com.fluxtion/fluxtion-builder@2.10.48?classifier=sources
+- pkg:maven/com.fluxtion/fluxtion-builder@2.10.49
+- pkg:maven/com.fluxtion/fluxtion-builder@2.10.49?classifier=sources
 - pkg:maven/com.fluxtion/fluxtion-builder@2.10.6
 - pkg:maven/com.fluxtion/fluxtion-builder@2.10.6?classifier=sources
 - pkg:maven/com.fluxtion/fluxtion-builder@2.10.8

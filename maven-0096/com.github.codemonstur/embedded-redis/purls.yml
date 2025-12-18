@@ -1,2 +1,6 @@
+- pkg:maven/com.github.codemonstur/embedded-redis@0.10.0
+- pkg:maven/com.github.codemonstur/embedded-redis@0.10.0?classifier=sources
 - pkg:maven/com.github.codemonstur/embedded-redis@0.8.0
 - pkg:maven/com.github.codemonstur/embedded-redis@0.8.0?classifier=sources
+- pkg:maven/com.github.codemonstur/embedded-redis@0.9.0
+- pkg:maven/com.github.codemonstur/embedded-redis@0.9.0?classifier=sources

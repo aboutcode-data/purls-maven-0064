@@ -82,6 +82,9 @@
 - pkg:maven/org.eclipse.che.multiuser/che-multiuser-mysql-tck@7.26.2
 - pkg:maven/org.eclipse.che.multiuser/che-multiuser-mysql-tck@7.27.0
 - pkg:maven/org.eclipse.che.multiuser/che-multiuser-mysql-tck@7.27.1
+- pkg:maven/org.eclipse.che.multiuser/che-multiuser-mysql-tck@7.27.2
+- pkg:maven/org.eclipse.che.multiuser/che-multiuser-mysql-tck@7.28.0
+- pkg:maven/org.eclipse.che.multiuser/che-multiuser-mysql-tck@7.28.2
 - pkg:maven/org.eclipse.che.multiuser/che-multiuser-mysql-tck@7.3.0
 - pkg:maven/org.eclipse.che.multiuser/che-multiuser-mysql-tck@7.3.1
 - pkg:maven/org.eclipse.che.multiuser/che-multiuser-mysql-tck@7.3.2

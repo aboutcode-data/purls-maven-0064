@@ -8,5 +8,9 @@
 - pkg:maven/io.github.arainko/bencode_2.13@0.0.7%2B3-64e44a23?classifier=sources
 - pkg:maven/io.github.arainko/bencode_2.13@0.0.7%2B3-800fb7cd
 - pkg:maven/io.github.arainko/bencode_2.13@0.0.7%2B3-800fb7cd?classifier=sources
+- pkg:maven/io.github.arainko/bencode_2.13@0.1.0
+- pkg:maven/io.github.arainko/bencode_2.13@0.1.0%2B0-64e44a23%2B20210321-1159
+- pkg:maven/io.github.arainko/bencode_2.13@0.1.0%2B0-64e44a23%2B20210321-1159?classifier=sources
+- pkg:maven/io.github.arainko/bencode_2.13@0.1.0?classifier=sources
 - pkg:maven/io.github.arainko/bencode_2.13@31-78a78864
 - pkg:maven/io.github.arainko/bencode_2.13@31-78a78864?classifier=sources

@@ -368,6 +368,14 @@
 - pkg:maven/com.facebook.presto/presto-cli@0.248.1
 - pkg:maven/com.facebook.presto/presto-cli@0.248.1?classifier=sources
 - pkg:maven/com.facebook.presto/presto-cli@0.248?classifier=sources
+- pkg:maven/com.facebook.presto/presto-cli@0.249
+- pkg:maven/com.facebook.presto/presto-cli@0.249.1
+- pkg:maven/com.facebook.presto/presto-cli@0.249.1?classifier=sources
+- pkg:maven/com.facebook.presto/presto-cli@0.249?classifier=sources
+- pkg:maven/com.facebook.presto/presto-cli@0.250
+- pkg:maven/com.facebook.presto/presto-cli@0.250?classifier=sources
+- pkg:maven/com.facebook.presto/presto-cli@0.251
+- pkg:maven/com.facebook.presto/presto-cli@0.251?classifier=sources
 - pkg:maven/com.facebook.presto/presto-cli@0.52
 - pkg:maven/com.facebook.presto/presto-cli@0.52?classifier=sources
 - pkg:maven/com.facebook.presto/presto-cli@0.53

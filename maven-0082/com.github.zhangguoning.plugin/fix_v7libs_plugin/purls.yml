@@ -1,0 +1,2 @@
+- pkg:maven/com.github.zhangguoning.plugin/fix_v7libs_plugin@0.0.1
+- pkg:maven/com.github.zhangguoning.plugin/fix_v7libs_plugin@0.0.1?classifier=sources

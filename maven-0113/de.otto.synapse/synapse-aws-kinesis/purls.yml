@@ -129,3 +129,7 @@
 - pkg:maven/de.otto.synapse/synapse-aws-kinesis@0.23.1?classifier=sources
 - pkg:maven/de.otto.synapse/synapse-aws-kinesis@0.23.2
 - pkg:maven/de.otto.synapse/synapse-aws-kinesis@0.23.2?classifier=sources
+- pkg:maven/de.otto.synapse/synapse-aws-kinesis@0.23.3
+- pkg:maven/de.otto.synapse/synapse-aws-kinesis@0.23.3?classifier=sources
+- pkg:maven/de.otto.synapse/synapse-aws-kinesis@0.23.4
+- pkg:maven/de.otto.synapse/synapse-aws-kinesis@0.23.4?classifier=sources

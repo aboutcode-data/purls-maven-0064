@@ -31,3 +31,4 @@
 - pkg:maven/org.ops4j.pax.logging/pax-logging-it@2.0.6
 - pkg:maven/org.ops4j.pax.logging/pax-logging-it@2.0.7
 - pkg:maven/org.ops4j.pax.logging/pax-logging-it@2.0.8
+- pkg:maven/org.ops4j.pax.logging/pax-logging-it@2.0.9

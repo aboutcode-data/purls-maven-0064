@@ -70,6 +70,8 @@
 - pkg:maven/org.optaplanner/optaplanner-wb-es-guide@7.5.0.Final?type=zip
 - pkg:maven/org.optaplanner/optaplanner-wb-es-guide@7.50.0.Final?type=zip
 - pkg:maven/org.optaplanner/optaplanner-wb-es-guide@7.51.0.Final?type=zip
+- pkg:maven/org.optaplanner/optaplanner-wb-es-guide@7.52.0.Final?type=zip
+- pkg:maven/org.optaplanner/optaplanner-wb-es-guide@7.53.0.Final?type=zip
 - pkg:maven/org.optaplanner/optaplanner-wb-es-guide@7.6.0.Final?type=zip
 - pkg:maven/org.optaplanner/optaplanner-wb-es-guide@7.7.0.Final?type=zip
 - pkg:maven/org.optaplanner/optaplanner-wb-es-guide@7.8.0.Final?type=zip

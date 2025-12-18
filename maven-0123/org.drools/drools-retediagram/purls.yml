@@ -1,0 +1,4 @@
+- pkg:maven/org.drools/drools-retediagram@7.53.0.Final
+- pkg:maven/org.drools/drools-retediagram@7.53.0.Final?classifier=sources
+- pkg:maven/org.drools/drools-retediagram@7.53.1.Final
+- pkg:maven/org.drools/drools-retediagram@7.53.1.Final?classifier=sources

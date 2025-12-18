@@ -43,6 +43,8 @@
 - pkg:maven/br.com.anteros/Anteros-Persistence@1.0.3
 - pkg:maven/br.com.anteros/Anteros-Persistence@1.0.33
 - pkg:maven/br.com.anteros/Anteros-Persistence@1.0.33?classifier=sources
+- pkg:maven/br.com.anteros/Anteros-Persistence@1.0.36
+- pkg:maven/br.com.anteros/Anteros-Persistence@1.0.36?classifier=sources
 - pkg:maven/br.com.anteros/Anteros-Persistence@1.0.3?classifier=sources
 - pkg:maven/br.com.anteros/Anteros-Persistence@1.0.5
 - pkg:maven/br.com.anteros/Anteros-Persistence@1.0.5?classifier=sources

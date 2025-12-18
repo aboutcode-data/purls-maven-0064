@@ -18,6 +18,8 @@
 - pkg:maven/com.instabug.library/instabug-survey@10.4.1?type=aar
 - pkg:maven/com.instabug.library/instabug-survey@10.4.2?classifier=sources
 - pkg:maven/com.instabug.library/instabug-survey@10.4.2?type=aar
+- pkg:maven/com.instabug.library/instabug-survey@10.4.3?classifier=sources
+- pkg:maven/com.instabug.library/instabug-survey@10.4.3?type=aar
 - pkg:maven/com.instabug.library/instabug-survey@4.1.0?classifier=sources
 - pkg:maven/com.instabug.library/instabug-survey@4.1.0?type=aar
 - pkg:maven/com.instabug.library/instabug-survey@4.1.1?classifier=sources

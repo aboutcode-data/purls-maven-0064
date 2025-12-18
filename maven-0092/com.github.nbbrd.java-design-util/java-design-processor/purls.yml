@@ -1,0 +1,2 @@
+- pkg:maven/com.github.nbbrd.java-design-util/java-design-processor@1.1.3
+- pkg:maven/com.github.nbbrd.java-design-util/java-design-processor@1.1.3?classifier=sources

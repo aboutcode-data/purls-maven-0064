@@ -6,3 +6,5 @@
 - pkg:maven/fr.irit.smac.lib.may/common-interfaces@3.5.0?classifier=sources
 - pkg:maven/fr.irit.smac.lib.may/common-interfaces@3.6.0
 - pkg:maven/fr.irit.smac.lib.may/common-interfaces@3.6.0?classifier=sources
+- pkg:maven/fr.irit.smac.lib.may/common-interfaces@3.6.1
+- pkg:maven/fr.irit.smac.lib.may/common-interfaces@3.6.1?classifier=sources

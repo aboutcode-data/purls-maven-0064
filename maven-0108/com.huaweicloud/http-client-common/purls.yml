@@ -1,0 +1,2 @@
+- pkg:maven/com.huaweicloud/http-client-common@1.5.2-Hoxton
+- pkg:maven/com.huaweicloud/http-client-common@1.5.2-Hoxton?classifier=sources

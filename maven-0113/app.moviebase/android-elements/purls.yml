@@ -1,0 +1,2 @@
+- pkg:maven/app.moviebase/android-elements@1.6.0?classifier=sources
+- pkg:maven/app.moviebase/android-elements@1.6.1?classifier=sources

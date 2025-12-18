@@ -20,3 +20,7 @@
 - pkg:maven/net.e6tech/elements-web-tomcat@2.6.20?classifier=sources
 - pkg:maven/net.e6tech/elements-web-tomcat@2.6.21
 - pkg:maven/net.e6tech/elements-web-tomcat@2.6.21?classifier=sources
+- pkg:maven/net.e6tech/elements-web-tomcat@2.6.22
+- pkg:maven/net.e6tech/elements-web-tomcat@2.6.22?classifier=sources
+- pkg:maven/net.e6tech/elements-web-tomcat@2.6.23
+- pkg:maven/net.e6tech/elements-web-tomcat@2.6.23?classifier=sources

@@ -16,3 +16,9 @@
 - pkg:maven/com.google.dagger/hilt-compiler@2.32-alpha?classifier=sources
 - pkg:maven/com.google.dagger/hilt-compiler@2.33-beta
 - pkg:maven/com.google.dagger/hilt-compiler@2.33-beta?classifier=sources
+- pkg:maven/com.google.dagger/hilt-compiler@2.34-beta
+- pkg:maven/com.google.dagger/hilt-compiler@2.34-beta?classifier=sources
+- pkg:maven/com.google.dagger/hilt-compiler@2.34.1-beta
+- pkg:maven/com.google.dagger/hilt-compiler@2.34.1-beta?classifier=sources
+- pkg:maven/com.google.dagger/hilt-compiler@2.35
+- pkg:maven/com.google.dagger/hilt-compiler@2.35?classifier=sources

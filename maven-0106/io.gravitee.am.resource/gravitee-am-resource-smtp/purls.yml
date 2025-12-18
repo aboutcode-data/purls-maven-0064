@@ -1,0 +1,2 @@
+- pkg:maven/io.gravitee.am.resource/gravitee-am-resource-smtp@3.8.0?classifier=sources
+- pkg:maven/io.gravitee.am.resource/gravitee-am-resource-smtp@3.8.1?classifier=sources

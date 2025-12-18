@@ -1,5 +1,7 @@
 - pkg:maven/ch.exense.rtm/rtm@2.2.10
 - pkg:maven/ch.exense.rtm/rtm@2.2.10?classifier=sources
+- pkg:maven/ch.exense.rtm/rtm@2.2.11
+- pkg:maven/ch.exense.rtm/rtm@2.2.11?classifier=sources
 - pkg:maven/ch.exense.rtm/rtm@2.2.3?classifier=sources
 - pkg:maven/ch.exense.rtm/rtm@2.2.3?type=war
 - pkg:maven/ch.exense.rtm/rtm@2.2.4?classifier=sources

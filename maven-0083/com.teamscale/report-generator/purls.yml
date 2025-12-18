@@ -4,3 +4,6 @@
 - pkg:maven/com.teamscale/report-generator@19.0.0?classifier=sources
 - pkg:maven/com.teamscale/report-generator@20.0.0?classifier=sources
 - pkg:maven/com.teamscale/report-generator@21.0.0?classifier=sources
+- pkg:maven/com.teamscale/report-generator@21.1.0?classifier=sources
+- pkg:maven/com.teamscale/report-generator@21.2.0?classifier=sources
+- pkg:maven/com.teamscale/report-generator@21.2.1?classifier=sources

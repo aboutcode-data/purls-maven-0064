@@ -1,0 +1,1 @@
+- pkg:maven/com.avast.grpc.jwt/grpc-java-jwt@0.4.10?classifier=sources

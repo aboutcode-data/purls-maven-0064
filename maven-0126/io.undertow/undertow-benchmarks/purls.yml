@@ -25,6 +25,10 @@
 - pkg:maven/io.undertow/undertow-benchmarks@2.0.33.Final?classifier=sources
 - pkg:maven/io.undertow/undertow-benchmarks@2.0.34.Final
 - pkg:maven/io.undertow/undertow-benchmarks@2.0.34.Final?classifier=sources
+- pkg:maven/io.undertow/undertow-benchmarks@2.0.35.Final
+- pkg:maven/io.undertow/undertow-benchmarks@2.0.35.Final?classifier=sources
+- pkg:maven/io.undertow/undertow-benchmarks@2.0.36.Final
+- pkg:maven/io.undertow/undertow-benchmarks@2.0.36.Final?classifier=sources
 - pkg:maven/io.undertow/undertow-benchmarks@2.1.0.Final
 - pkg:maven/io.undertow/undertow-benchmarks@2.1.0.Final?classifier=sources
 - pkg:maven/io.undertow/undertow-benchmarks@2.1.1.Final
@@ -39,6 +43,8 @@
 - pkg:maven/io.undertow/undertow-benchmarks@2.1.5.Final?classifier=sources
 - pkg:maven/io.undertow/undertow-benchmarks@2.1.6.Final
 - pkg:maven/io.undertow/undertow-benchmarks@2.1.6.Final?classifier=sources
+- pkg:maven/io.undertow/undertow-benchmarks@2.1.7.Final
+- pkg:maven/io.undertow/undertow-benchmarks@2.1.7.Final?classifier=sources
 - pkg:maven/io.undertow/undertow-benchmarks@2.2.0.Final
 - pkg:maven/io.undertow/undertow-benchmarks@2.2.0.Final?classifier=sources
 - pkg:maven/io.undertow/undertow-benchmarks@2.2.1.Final
@@ -51,3 +57,7 @@
 - pkg:maven/io.undertow/undertow-benchmarks@2.2.4.Final?classifier=sources
 - pkg:maven/io.undertow/undertow-benchmarks@2.2.5.Final
 - pkg:maven/io.undertow/undertow-benchmarks@2.2.5.Final?classifier=sources
+- pkg:maven/io.undertow/undertow-benchmarks@2.2.6.Final
+- pkg:maven/io.undertow/undertow-benchmarks@2.2.6.Final?classifier=sources
+- pkg:maven/io.undertow/undertow-benchmarks@2.2.7.Final
+- pkg:maven/io.undertow/undertow-benchmarks@2.2.7.Final?classifier=sources

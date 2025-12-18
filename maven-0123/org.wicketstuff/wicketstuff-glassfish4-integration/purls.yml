@@ -68,6 +68,8 @@
 - pkg:maven/org.wicketstuff/wicketstuff-glassfish4-integration@7.16.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-glassfish4-integration@7.17.0
 - pkg:maven/org.wicketstuff/wicketstuff-glassfish4-integration@7.17.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-glassfish4-integration@7.18.0
+- pkg:maven/org.wicketstuff/wicketstuff-glassfish4-integration@7.18.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-glassfish4-integration@7.2.0
 - pkg:maven/org.wicketstuff/wicketstuff-glassfish4-integration@7.2.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-glassfish4-integration@7.3.0
@@ -112,6 +114,8 @@
 - pkg:maven/org.wicketstuff/wicketstuff-glassfish4-integration@8.10.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-glassfish4-integration@8.11.0
 - pkg:maven/org.wicketstuff/wicketstuff-glassfish4-integration@8.11.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-glassfish4-integration@8.12.0
+- pkg:maven/org.wicketstuff/wicketstuff-glassfish4-integration@8.12.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-glassfish4-integration@8.2.0
 - pkg:maven/org.wicketstuff/wicketstuff-glassfish4-integration@8.2.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-glassfish4-integration@8.3.0
@@ -148,3 +152,5 @@
 - pkg:maven/org.wicketstuff/wicketstuff-glassfish4-integration@9.1.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-glassfish4-integration@9.2.0
 - pkg:maven/org.wicketstuff/wicketstuff-glassfish4-integration@9.2.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-glassfish4-integration@9.3.0
+- pkg:maven/org.wicketstuff/wicketstuff-glassfish4-integration@9.3.0?classifier=sources

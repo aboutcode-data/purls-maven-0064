@@ -1,3 +1,4 @@
 - pkg:maven/com.isxcode.oxygen/spring-oxygen-freecode@0.0.1-alpha-1?classifier=sources
 - pkg:maven/com.isxcode.oxygen/spring-oxygen-freecode@0.0.1?classifier=sources
+- pkg:maven/com.isxcode.oxygen/spring-oxygen-freecode@0.0.2?classifier=sources
 - pkg:maven/com.isxcode.oxygen/spring-oxygen-freecode@v0.0.2-alpha-1?classifier=sources

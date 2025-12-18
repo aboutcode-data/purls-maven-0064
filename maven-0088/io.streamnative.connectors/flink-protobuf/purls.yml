@@ -1,0 +1,2 @@
+- pkg:maven/io.streamnative.connectors/flink-protobuf@2.7.6
+- pkg:maven/io.streamnative.connectors/flink-protobuf@2.7.6?classifier=sources

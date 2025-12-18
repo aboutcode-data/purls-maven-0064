@@ -8,6 +8,8 @@
 - pkg:maven/org.webjars.npm/react-dnd@2.1.4?classifier=sources
 - pkg:maven/org.webjars.npm/react-dnd@2.4.0
 - pkg:maven/org.webjars.npm/react-dnd@2.4.0?classifier=sources
+- pkg:maven/org.webjars.npm/react-dnd@2.6.0
+- pkg:maven/org.webjars.npm/react-dnd@2.6.0?classifier=sources
 - pkg:maven/org.webjars.npm/react-dnd@7.0.2
 - pkg:maven/org.webjars.npm/react-dnd@7.0.2?classifier=sources
 - pkg:maven/org.webjars.npm/react-dnd@9.5.1

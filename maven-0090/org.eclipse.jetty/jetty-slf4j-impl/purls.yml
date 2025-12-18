@@ -12,6 +12,8 @@
 - pkg:maven/org.eclipse.jetty/jetty-slf4j-impl@10.0.0?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-slf4j-impl@10.0.1
 - pkg:maven/org.eclipse.jetty/jetty-slf4j-impl@10.0.1?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-slf4j-impl@10.0.2
+- pkg:maven/org.eclipse.jetty/jetty-slf4j-impl@10.0.2?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-slf4j-impl@11.0.0
 - pkg:maven/org.eclipse.jetty/jetty-slf4j-impl@11.0.0-alpha0
 - pkg:maven/org.eclipse.jetty/jetty-slf4j-impl@11.0.0-alpha0?classifier=sources
@@ -24,3 +26,5 @@
 - pkg:maven/org.eclipse.jetty/jetty-slf4j-impl@11.0.0?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-slf4j-impl@11.0.1
 - pkg:maven/org.eclipse.jetty/jetty-slf4j-impl@11.0.1?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-slf4j-impl@11.0.2
+- pkg:maven/org.eclipse.jetty/jetty-slf4j-impl@11.0.2?classifier=sources

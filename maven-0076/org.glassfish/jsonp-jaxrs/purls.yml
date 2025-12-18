@@ -27,3 +27,5 @@
 - pkg:maven/org.glassfish/jsonp-jaxrs@2.0.0-RC3
 - pkg:maven/org.glassfish/jsonp-jaxrs@2.0.0-RC3?classifier=sources
 - pkg:maven/org.glassfish/jsonp-jaxrs@2.0.0?classifier=sources
+- pkg:maven/org.glassfish/jsonp-jaxrs@2.0.1
+- pkg:maven/org.glassfish/jsonp-jaxrs@2.0.1?classifier=sources

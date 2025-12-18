@@ -1,0 +1,2 @@
+- pkg:maven/com.github.taomus.fig/fig-spring-plugin@0.0.1-alpha?classifier=sources
+- pkg:maven/com.github.taomus.fig/fig-spring-plugin@0.0.1?classifier=sources

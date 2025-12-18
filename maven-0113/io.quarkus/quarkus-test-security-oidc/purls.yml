@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkus/quarkus-test-security-oidc@2.0.0.Alpha1
+- pkg:maven/io.quarkus/quarkus-test-security-oidc@2.0.0.Alpha1?classifier=sources

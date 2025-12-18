@@ -10,3 +10,5 @@
 - pkg:maven/com.thegoate/performance@0.15.8.202102222200?classifier=sources
 - pkg:maven/com.thegoate/performance@0.15.8.202102261845
 - pkg:maven/com.thegoate/performance@0.15.8.202102261845?classifier=sources
+- pkg:maven/com.thegoate/performance@0.15.8.202104192349
+- pkg:maven/com.thegoate/performance@0.15.8.202104192349?classifier=sources

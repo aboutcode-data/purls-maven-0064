@@ -1,0 +1,2 @@
+- pkg:maven/com.guicedee.activitymaster/activity-master-client@1.1.1.8-jre16
+- pkg:maven/com.guicedee.activitymaster/activity-master-client@1.1.1.8-jre16?classifier=sources

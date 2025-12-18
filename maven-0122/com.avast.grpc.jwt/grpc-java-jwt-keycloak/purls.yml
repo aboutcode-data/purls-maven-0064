@@ -1,0 +1,1 @@
+- pkg:maven/com.avast.grpc.jwt/grpc-java-jwt-keycloak@0.4.10?classifier=sources

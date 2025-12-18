@@ -1,0 +1,4 @@
+- pkg:maven/com.sensorsdata.analytics.android/SensorsAnalyticsSDK-Beta@4.0.1-beta?classifier=sources
+- pkg:maven/com.sensorsdata.analytics.android/SensorsAnalyticsSDK-Beta@4.0.1-beta?type=aar
+- pkg:maven/com.sensorsdata.analytics.android/SensorsAnalyticsSDK-Beta@4.0.2-beta?classifier=sources
+- pkg:maven/com.sensorsdata.analytics.android/SensorsAnalyticsSDK-Beta@4.0.2-beta?type=aar

@@ -110,6 +110,10 @@
 - pkg:maven/net.officefloor.core/officeframe@3.31.0?classifier=sources
 - pkg:maven/net.officefloor.core/officeframe@3.32.0
 - pkg:maven/net.officefloor.core/officeframe@3.32.0?classifier=sources
+- pkg:maven/net.officefloor.core/officeframe@3.33.0
+- pkg:maven/net.officefloor.core/officeframe@3.33.0?classifier=sources
+- pkg:maven/net.officefloor.core/officeframe@3.34.0
+- pkg:maven/net.officefloor.core/officeframe@3.34.0?classifier=sources
 - pkg:maven/net.officefloor.core/officeframe@3.4.0
 - pkg:maven/net.officefloor.core/officeframe@3.4.0?classifier=sources
 - pkg:maven/net.officefloor.core/officeframe@3.5.0

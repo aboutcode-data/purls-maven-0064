@@ -79,6 +79,8 @@
 - pkg:maven/org.nuiton.jaxx/jaxx-widgets-gis@2.44?classifier=sources
 - pkg:maven/org.nuiton.jaxx/jaxx-widgets-gis@2.45
 - pkg:maven/org.nuiton.jaxx/jaxx-widgets-gis@2.45?classifier=sources
+- pkg:maven/org.nuiton.jaxx/jaxx-widgets-gis@2.46
+- pkg:maven/org.nuiton.jaxx/jaxx-widgets-gis@2.46?classifier=sources
 - pkg:maven/org.nuiton.jaxx/jaxx-widgets-gis@3.0-alpha-1
 - pkg:maven/org.nuiton.jaxx/jaxx-widgets-gis@3.0-alpha-1?classifier=sources
 - pkg:maven/org.nuiton.jaxx/jaxx-widgets-gis@3.0-alpha-2

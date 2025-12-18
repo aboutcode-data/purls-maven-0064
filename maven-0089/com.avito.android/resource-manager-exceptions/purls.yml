@@ -1,3 +1,7 @@
+- pkg:maven/com.avito.android/resource-manager-exceptions@2021.10?classifier=sources
+- pkg:maven/com.avito.android/resource-manager-exceptions@2021.11?classifier=sources
+- pkg:maven/com.avito.android/resource-manager-exceptions@2021.12?classifier=sources
+- pkg:maven/com.avito.android/resource-manager-exceptions@2021.13?classifier=sources
 - pkg:maven/com.avito.android/resource-manager-exceptions@2021.7?classifier=sources
 - pkg:maven/com.avito.android/resource-manager-exceptions@2021.8?classifier=sources
 - pkg:maven/com.avito.android/resource-manager-exceptions@2021.9.1?classifier=sources

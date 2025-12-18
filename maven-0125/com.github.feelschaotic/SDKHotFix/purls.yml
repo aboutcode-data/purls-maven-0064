@@ -6,6 +6,8 @@
 - pkg:maven/com.github.feelschaotic/SDKHotFix@1.10-RELEASE?type=aar
 - pkg:maven/com.github.feelschaotic/SDKHotFix@1.12-RELEASE?classifier=sources
 - pkg:maven/com.github.feelschaotic/SDKHotFix@1.12-RELEASE?type=aar
+- pkg:maven/com.github.feelschaotic/SDKHotFix@1.13-RELEASE?classifier=sources
+- pkg:maven/com.github.feelschaotic/SDKHotFix@1.13-RELEASE?type=aar
 - pkg:maven/com.github.feelschaotic/SDKHotFix@1.2-RELEASE?classifier=sources
 - pkg:maven/com.github.feelschaotic/SDKHotFix@1.2-RELEASE?type=aar
 - pkg:maven/com.github.feelschaotic/SDKHotFix@1.3-RELEASE?classifier=sources

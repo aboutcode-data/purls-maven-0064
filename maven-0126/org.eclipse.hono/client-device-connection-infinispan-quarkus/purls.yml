@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.hono/client-device-connection-infinispan-quarkus@1.7.1
+- pkg:maven/org.eclipse.hono/client-device-connection-infinispan-quarkus@1.7.1?classifier=sources

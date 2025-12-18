@@ -1,1 +1,7 @@
+- pkg:maven/com.netflix.graphql.dgs/graphql-dgs-spring-boot-micrometer@3.10.2?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs/graphql-dgs-spring-boot-micrometer@3.11.0?classifier=sources
 - pkg:maven/com.netflix.graphql.dgs/graphql-dgs-spring-boot-micrometer@3.8.0?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs/graphql-dgs-spring-boot-micrometer@3.8.2?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs/graphql-dgs-spring-boot-micrometer@3.9.1?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs/graphql-dgs-spring-boot-micrometer@3.9.2?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs/graphql-dgs-spring-boot-micrometer@3.9.3?classifier=sources

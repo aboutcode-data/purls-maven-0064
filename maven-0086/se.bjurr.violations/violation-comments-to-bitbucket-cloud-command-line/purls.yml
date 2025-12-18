@@ -2,3 +2,9 @@
 - pkg:maven/se.bjurr.violations/violation-comments-to-bitbucket-cloud-command-line@1.11?classifier=sources
 - pkg:maven/se.bjurr.violations/violation-comments-to-bitbucket-cloud-command-line@1.13
 - pkg:maven/se.bjurr.violations/violation-comments-to-bitbucket-cloud-command-line@1.13?classifier=sources
+- pkg:maven/se.bjurr.violations/violation-comments-to-bitbucket-cloud-command-line@1.22.0?classifier=sources
+- pkg:maven/se.bjurr.violations/violation-comments-to-bitbucket-cloud-command-line@1.23.0?classifier=sources
+- pkg:maven/se.bjurr.violations/violation-comments-to-bitbucket-cloud-command-line@1.23.1?classifier=sources
+- pkg:maven/se.bjurr.violations/violation-comments-to-bitbucket-cloud-command-line@1.24.0?classifier=sources
+- pkg:maven/se.bjurr.violations/violation-comments-to-bitbucket-cloud-command-line@1.25.0?classifier=sources
+- pkg:maven/se.bjurr.violations/violation-comments-to-bitbucket-cloud-command-line@1.26.0?classifier=sources

@@ -48,3 +48,5 @@
 - pkg:maven/com.gitlab.cdc-java.deps/cdc-deps-vba@0.7.0?classifier=sources
 - pkg:maven/com.gitlab.cdc-java.deps/cdc-deps-vba@0.8.0
 - pkg:maven/com.gitlab.cdc-java.deps/cdc-deps-vba@0.8.0?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.deps/cdc-deps-vba@0.9.0
+- pkg:maven/com.gitlab.cdc-java.deps/cdc-deps-vba@0.9.0?classifier=sources

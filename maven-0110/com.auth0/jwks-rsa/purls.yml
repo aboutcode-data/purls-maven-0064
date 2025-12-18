@@ -16,6 +16,7 @@
 - pkg:maven/com.auth0/jwks-rsa@0.15.0?classifier=sources
 - pkg:maven/com.auth0/jwks-rsa@0.17.0
 - pkg:maven/com.auth0/jwks-rsa@0.17.0?classifier=sources
+- pkg:maven/com.auth0/jwks-rsa@0.17.1?classifier=sources
 - pkg:maven/com.auth0/jwks-rsa@0.2.0
 - pkg:maven/com.auth0/jwks-rsa@0.2.0?classifier=sources
 - pkg:maven/com.auth0/jwks-rsa@0.3.0

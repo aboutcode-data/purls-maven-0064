@@ -355,6 +355,9 @@
 - pkg:maven/com.liferay/com.liferay.marketplace.service@4.0.46
 - pkg:maven/com.liferay/com.liferay.marketplace.service@4.0.46?classifier=sources
 - pkg:maven/com.liferay/com.liferay.marketplace.service@4.0.46?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.marketplace.service@4.0.47
+- pkg:maven/com.liferay/com.liferay.marketplace.service@4.0.47?classifier=sources
+- pkg:maven/com.liferay/com.liferay.marketplace.service@4.0.47?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.marketplace.service@4.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.marketplace.service@4.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.marketplace.service@4.0.5
@@ -445,6 +448,9 @@
 - pkg:maven/com.liferay/com.liferay.marketplace.service@5.0.30
 - pkg:maven/com.liferay/com.liferay.marketplace.service@5.0.30?classifier=sources
 - pkg:maven/com.liferay/com.liferay.marketplace.service@5.0.30?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.marketplace.service@5.0.31
+- pkg:maven/com.liferay/com.liferay.marketplace.service@5.0.31?classifier=sources
+- pkg:maven/com.liferay/com.liferay.marketplace.service@5.0.31?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.marketplace.service@5.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.marketplace.service@5.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.marketplace.service@5.0.4
@@ -496,6 +502,9 @@
 - pkg:maven/com.liferay/com.liferay.marketplace.service@6.0.18
 - pkg:maven/com.liferay/com.liferay.marketplace.service@6.0.18?classifier=sources
 - pkg:maven/com.liferay/com.liferay.marketplace.service@6.0.18?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.marketplace.service@6.0.19
+- pkg:maven/com.liferay/com.liferay.marketplace.service@6.0.19?classifier=sources
+- pkg:maven/com.liferay/com.liferay.marketplace.service@6.0.19?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.marketplace.service@6.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.marketplace.service@6.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.marketplace.service@6.0.2
@@ -522,3 +531,12 @@
 - pkg:maven/com.liferay/com.liferay.marketplace.service@6.0.9
 - pkg:maven/com.liferay/com.liferay.marketplace.service@6.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.marketplace.service@6.0.9?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.marketplace.service@7.0.0
+- pkg:maven/com.liferay/com.liferay.marketplace.service@7.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.marketplace.service@7.0.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.marketplace.service@7.0.1
+- pkg:maven/com.liferay/com.liferay.marketplace.service@7.0.1?classifier=sources
+- pkg:maven/com.liferay/com.liferay.marketplace.service@7.0.1?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.marketplace.service@7.0.2
+- pkg:maven/com.liferay/com.liferay.marketplace.service@7.0.2?classifier=sources
+- pkg:maven/com.liferay/com.liferay.marketplace.service@7.0.2?classifier=sources-commercial

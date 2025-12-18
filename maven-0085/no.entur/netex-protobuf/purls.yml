@@ -41,6 +41,9 @@
 - pkg:maven/no.entur/netex-protobuf@1.41
 - pkg:maven/no.entur/netex-protobuf@1.42
 - pkg:maven/no.entur/netex-protobuf@1.43
+- pkg:maven/no.entur/netex-protobuf@1.44
+- pkg:maven/no.entur/netex-protobuf@1.45
+- pkg:maven/no.entur/netex-protobuf@1.46
 - pkg:maven/no.entur/netex-protobuf@1.5
 - pkg:maven/no.entur/netex-protobuf@1.6
 - pkg:maven/no.entur/netex-protobuf@1.7

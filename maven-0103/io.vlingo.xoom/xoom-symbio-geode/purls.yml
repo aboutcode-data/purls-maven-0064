@@ -1,0 +1,2 @@
+- pkg:maven/io.vlingo.xoom/xoom-symbio-geode@1.7.5
+- pkg:maven/io.vlingo.xoom/xoom-symbio-geode@1.7.5?classifier=sources

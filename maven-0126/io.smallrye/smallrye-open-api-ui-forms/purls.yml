@@ -13,8 +13,10 @@
 - pkg:maven/io.smallrye/smallrye-open-api-ui-forms@2.0.23
 - pkg:maven/io.smallrye/smallrye-open-api-ui-forms@2.0.24
 - pkg:maven/io.smallrye/smallrye-open-api-ui-forms@2.0.25
+- pkg:maven/io.smallrye/smallrye-open-api-ui-forms@2.0.26
 - pkg:maven/io.smallrye/smallrye-open-api-ui-forms@2.1.0
 - pkg:maven/io.smallrye/smallrye-open-api-ui-forms@2.1.0-RC1
 - pkg:maven/io.smallrye/smallrye-open-api-ui-forms@2.1.0-RC2
 - pkg:maven/io.smallrye/smallrye-open-api-ui-forms@2.1.1
 - pkg:maven/io.smallrye/smallrye-open-api-ui-forms@2.1.2
+- pkg:maven/io.smallrye/smallrye-open-api-ui-forms@2.1.3

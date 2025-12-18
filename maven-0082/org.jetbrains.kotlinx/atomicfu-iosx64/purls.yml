@@ -20,3 +20,5 @@
 - pkg:maven/org.jetbrains.kotlinx/atomicfu-iosx64@0.14.4?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/atomicfu-iosx64@0.15.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/atomicfu-iosx64@0.15.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/atomicfu-iosx64@0.15.2?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/atomicfu-iosx64@0.16.1?classifier=sources
