@@ -8,3 +8,5 @@
 - pkg:maven/org.flywaydb.flyway-test-extensions/flyway-test@6.4.0?classifier=sources
 - pkg:maven/org.flywaydb.flyway-test-extensions/flyway-test@7.0.0
 - pkg:maven/org.flywaydb.flyway-test-extensions/flyway-test@7.0.0?classifier=sources
+- pkg:maven/org.flywaydb.flyway-test-extensions/flyway-test@9.5.0
+- pkg:maven/org.flywaydb.flyway-test-extensions/flyway-test@9.5.0?classifier=sources

@@ -1,2 +1,6 @@
 - pkg:maven/tech.decentro.in.kyc/decentro-in-kyc-java-sdk@1.0.0
 - pkg:maven/tech.decentro.in.kyc/decentro-in-kyc-java-sdk@1.0.0?classifier=sources
+- pkg:maven/tech.decentro.in.kyc/decentro-in-kyc-java-sdk@1.1.0
+- pkg:maven/tech.decentro.in.kyc/decentro-in-kyc-java-sdk@1.1.0?classifier=sources
+- pkg:maven/tech.decentro.in.kyc/decentro-in-kyc-java-sdk@1.2.0
+- pkg:maven/tech.decentro.in.kyc/decentro-in-kyc-java-sdk@1.2.0?classifier=sources

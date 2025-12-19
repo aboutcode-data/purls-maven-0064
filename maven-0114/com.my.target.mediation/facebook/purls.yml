@@ -1,2 +1,3 @@
 - pkg:maven/com.my.target.mediation/facebook@6.5.0.0?type=aar
 - pkg:maven/com.my.target.mediation/facebook@6.6.0.0?type=aar
+- pkg:maven/com.my.target.mediation/facebook@6.6.0.1?type=aar

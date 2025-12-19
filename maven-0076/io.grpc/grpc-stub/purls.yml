@@ -187,6 +187,7 @@
 - pkg:maven/io.grpc/grpc-stub@1.50.0?classifier=sources
 - pkg:maven/io.grpc/grpc-stub@1.50.1?classifier=sources
 - pkg:maven/io.grpc/grpc-stub@1.50.2?classifier=sources
+- pkg:maven/io.grpc/grpc-stub@1.50.3?classifier=sources
 - pkg:maven/io.grpc/grpc-stub@1.51.0?classifier=sources
 - pkg:maven/io.grpc/grpc-stub@1.51.1?classifier=sources
 - pkg:maven/io.grpc/grpc-stub@1.51.3?classifier=sources
@@ -194,6 +195,8 @@
 - pkg:maven/io.grpc/grpc-stub@1.52.1?classifier=sources
 - pkg:maven/io.grpc/grpc-stub@1.53.0?classifier=sources
 - pkg:maven/io.grpc/grpc-stub@1.54.0?classifier=sources
+- pkg:maven/io.grpc/grpc-stub@1.54.1?classifier=sources
+- pkg:maven/io.grpc/grpc-stub@1.55.1?classifier=sources
 - pkg:maven/io.grpc/grpc-stub@1.6.0
 - pkg:maven/io.grpc/grpc-stub@1.6.0?classifier=sources
 - pkg:maven/io.grpc/grpc-stub@1.6.1

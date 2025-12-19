@@ -2,3 +2,4 @@
 - pkg:maven/nl.ncaj/core-foundation-extensions@0.1.1?classifier=sources
 - pkg:maven/nl.ncaj/core-foundation-extensions@0.2.0?classifier=sources
 - pkg:maven/nl.ncaj/core-foundation-extensions@0.3.0?classifier=sources
+- pkg:maven/nl.ncaj/core-foundation-extensions@0.3.1?classifier=sources

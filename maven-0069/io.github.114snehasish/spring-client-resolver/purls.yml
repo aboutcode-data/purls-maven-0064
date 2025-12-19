@@ -1,0 +1,2 @@
+- pkg:maven/io.github.114snehasish/spring-client-resolver@1.0.0
+- pkg:maven/io.github.114snehasish/spring-client-resolver@1.0.0?classifier=sources

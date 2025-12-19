@@ -42,6 +42,8 @@
 - pkg:maven/org.webjars.npm/sweetalert2@11.6.14?classifier=sources
 - pkg:maven/org.webjars.npm/sweetalert2@11.6.15
 - pkg:maven/org.webjars.npm/sweetalert2@11.6.15?classifier=sources
+- pkg:maven/org.webjars.npm/sweetalert2@11.7.3
+- pkg:maven/org.webjars.npm/sweetalert2@11.7.3?classifier=sources
 - pkg:maven/org.webjars.npm/sweetalert2@2.0.3
 - pkg:maven/org.webjars.npm/sweetalert2@2.0.3?classifier=sources
 - pkg:maven/org.webjars.npm/sweetalert2@5.2.0

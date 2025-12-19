@@ -1,0 +1,4 @@
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.consent.mgt.server.configs@5.25.165
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.consent.mgt.server.configs@5.25.165?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.consent.mgt.server.configs@5.25.166
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.consent.mgt.server.configs@5.25.166?classifier=sources

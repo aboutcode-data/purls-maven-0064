@@ -38,3 +38,5 @@
 - pkg:maven/tech.jhipster.lite/jhlite@0.30.0?classifier=sources
 - pkg:maven/tech.jhipster.lite/jhlite@0.31.0
 - pkg:maven/tech.jhipster.lite/jhlite@0.31.0?classifier=sources
+- pkg:maven/tech.jhipster.lite/jhlite@0.32.0
+- pkg:maven/tech.jhipster.lite/jhlite@0.32.0?classifier=sources

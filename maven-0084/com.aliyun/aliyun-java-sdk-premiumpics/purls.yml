@@ -1,2 +1,4 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-premiumpics@1.0.11
 - pkg:maven/com.aliyun/aliyun-java-sdk-premiumpics@1.0.11?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-premiumpics@1.9.1
+- pkg:maven/com.aliyun/aliyun-java-sdk-premiumpics@1.9.1?classifier=sources

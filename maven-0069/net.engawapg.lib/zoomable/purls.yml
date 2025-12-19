@@ -4,3 +4,5 @@
 - pkg:maven/net.engawapg.lib/zoomable@1.0.3-alpha?classifier=sources
 - pkg:maven/net.engawapg.lib/zoomable@1.1.0-beta?classifier=sources
 - pkg:maven/net.engawapg.lib/zoomable@1.4.0?classifier=sources
+- pkg:maven/net.engawapg.lib/zoomable@1.4.1?classifier=sources
+- pkg:maven/net.engawapg.lib/zoomable@1.4.2?classifier=sources

@@ -250,3 +250,7 @@
 - pkg:maven/org.drools/drools-canonical-model@8.35.0.Final?classifier=sources
 - pkg:maven/org.drools/drools-canonical-model@8.36.0.Final
 - pkg:maven/org.drools/drools-canonical-model@8.36.0.Final?classifier=sources
+- pkg:maven/org.drools/drools-canonical-model@8.37.0.Final
+- pkg:maven/org.drools/drools-canonical-model@8.37.0.Final?classifier=sources
+- pkg:maven/org.drools/drools-canonical-model@8.38.0.Final
+- pkg:maven/org.drools/drools-canonical-model@8.38.0.Final?classifier=sources

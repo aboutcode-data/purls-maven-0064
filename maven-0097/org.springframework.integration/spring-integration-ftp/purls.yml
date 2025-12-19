@@ -335,3 +335,5 @@
 - pkg:maven/org.springframework.integration/spring-integration-ftp@6.0.3?classifier=sources
 - pkg:maven/org.springframework.integration/spring-integration-ftp@6.0.4
 - pkg:maven/org.springframework.integration/spring-integration-ftp@6.0.4?classifier=sources
+- pkg:maven/org.springframework.integration/spring-integration-ftp@6.0.5
+- pkg:maven/org.springframework.integration/spring-integration-ftp@6.0.5?classifier=sources

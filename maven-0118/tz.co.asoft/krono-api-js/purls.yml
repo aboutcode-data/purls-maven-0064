@@ -1,1 +1,2 @@
 - pkg:maven/tz.co.asoft/krono-api-js@2.0.14?classifier=sources
+- pkg:maven/tz.co.asoft/krono-api-js@2.0.16?classifier=sources

@@ -233,3 +233,5 @@
 - pkg:maven/com.bertramlabs.plugins/asset-pipeline-core@3.4.7?classifier=sources
 - pkg:maven/com.bertramlabs.plugins/asset-pipeline-core@4.0.0?classifier=sources
 - pkg:maven/com.bertramlabs.plugins/asset-pipeline-core@4.1.0?classifier=sources
+- pkg:maven/com.bertramlabs.plugins/asset-pipeline-core@4.2.0?classifier=sources
+- pkg:maven/com.bertramlabs.plugins/asset-pipeline-core@4.3.0?classifier=sources

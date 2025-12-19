@@ -21,3 +21,4 @@
 - pkg:maven/io.spinnaker.gate/gate-x509@6.57.2?classifier=sources
 - pkg:maven/io.spinnaker.gate/gate-x509@6.57.3?classifier=sources
 - pkg:maven/io.spinnaker.gate/gate-x509@6.58.0?classifier=sources
+- pkg:maven/io.spinnaker.gate/gate-x509@6.58.1?classifier=sources

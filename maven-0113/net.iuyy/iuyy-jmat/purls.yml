@@ -1,0 +1,2 @@
+- pkg:maven/net.iuyy/iuyy-jmat@0.1-beta
+- pkg:maven/net.iuyy/iuyy-jmat@0.1-beta?classifier=sources

@@ -16,6 +16,8 @@
 - pkg:maven/org.sonarsource.java/java-symbolic-execution@7.16.0.30901?classifier=sources
 - pkg:maven/org.sonarsource.java/java-symbolic-execution@7.16.1.31255?classifier=sources
 - pkg:maven/org.sonarsource.java/java-symbolic-execution@7.17.0.31219?classifier=sources
+- pkg:maven/org.sonarsource.java/java-symbolic-execution@7.18.0.31443?classifier=sources
+- pkg:maven/org.sonarsource.java/java-symbolic-execution@7.19.0.31550?classifier=sources
 - pkg:maven/org.sonarsource.java/java-symbolic-execution@7.2.0.26923?classifier=sources
 - pkg:maven/org.sonarsource.java/java-symbolic-execution@7.3.0.27589?classifier=sources
 - pkg:maven/org.sonarsource.java/java-symbolic-execution@7.4.0.27839?classifier=sources

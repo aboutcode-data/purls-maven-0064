@@ -20,3 +20,4 @@
 - pkg:maven/io.spinnaker.kayenta/kayenta-wavefront@2.35.2?classifier=sources
 - pkg:maven/io.spinnaker.kayenta/kayenta-wavefront@2.35.3?classifier=sources
 - pkg:maven/io.spinnaker.kayenta/kayenta-wavefront@2.36.0?classifier=sources
+- pkg:maven/io.spinnaker.kayenta/kayenta-wavefront@2.36.1?classifier=sources

@@ -158,5 +158,11 @@
 - pkg:maven/org.metaeffekt.core/ae-inventory-processor@0.80.0?classifier=sources
 - pkg:maven/org.metaeffekt.core/ae-inventory-processor@0.81.0
 - pkg:maven/org.metaeffekt.core/ae-inventory-processor@0.81.0?classifier=sources
+- pkg:maven/org.metaeffekt.core/ae-inventory-processor@0.82.0
+- pkg:maven/org.metaeffekt.core/ae-inventory-processor@0.82.0?classifier=sources
+- pkg:maven/org.metaeffekt.core/ae-inventory-processor@0.83.0
+- pkg:maven/org.metaeffekt.core/ae-inventory-processor@0.83.0?classifier=sources
+- pkg:maven/org.metaeffekt.core/ae-inventory-processor@0.84.0
+- pkg:maven/org.metaeffekt.core/ae-inventory-processor@0.84.0?classifier=sources
 - pkg:maven/org.metaeffekt.core/ae-inventory-processor@0.9.0
 - pkg:maven/org.metaeffekt.core/ae-inventory-processor@0.9.0?classifier=sources

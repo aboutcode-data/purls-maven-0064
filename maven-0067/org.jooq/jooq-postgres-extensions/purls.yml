@@ -43,6 +43,8 @@
 - pkg:maven/org.jooq/jooq-postgres-extensions@3.16.16?classifier=sources
 - pkg:maven/org.jooq/jooq-postgres-extensions@3.16.17
 - pkg:maven/org.jooq/jooq-postgres-extensions@3.16.17?classifier=sources
+- pkg:maven/org.jooq/jooq-postgres-extensions@3.16.18
+- pkg:maven/org.jooq/jooq-postgres-extensions@3.16.18?classifier=sources
 - pkg:maven/org.jooq/jooq-postgres-extensions@3.16.1?classifier=sources
 - pkg:maven/org.jooq/jooq-postgres-extensions@3.16.2
 - pkg:maven/org.jooq/jooq-postgres-extensions@3.16.2?classifier=sources
@@ -67,6 +69,8 @@
 - pkg:maven/org.jooq/jooq-postgres-extensions@3.17.10?classifier=sources
 - pkg:maven/org.jooq/jooq-postgres-extensions@3.17.11
 - pkg:maven/org.jooq/jooq-postgres-extensions@3.17.11?classifier=sources
+- pkg:maven/org.jooq/jooq-postgres-extensions@3.17.12
+- pkg:maven/org.jooq/jooq-postgres-extensions@3.17.12?classifier=sources
 - pkg:maven/org.jooq/jooq-postgres-extensions@3.17.1?classifier=sources
 - pkg:maven/org.jooq/jooq-postgres-extensions@3.17.2
 - pkg:maven/org.jooq/jooq-postgres-extensions@3.17.2?classifier=sources
@@ -90,3 +94,5 @@
 - pkg:maven/org.jooq/jooq-postgres-extensions@3.18.1?classifier=sources
 - pkg:maven/org.jooq/jooq-postgres-extensions@3.18.2
 - pkg:maven/org.jooq/jooq-postgres-extensions@3.18.2?classifier=sources
+- pkg:maven/org.jooq/jooq-postgres-extensions@3.18.3
+- pkg:maven/org.jooq/jooq-postgres-extensions@3.18.3?classifier=sources

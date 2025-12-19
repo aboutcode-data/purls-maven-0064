@@ -1,0 +1,2 @@
+- pkg:maven/org.ufoss.kotysa/kotysa-sqlite@3.0.0?classifier=sources
+- pkg:maven/org.ufoss.kotysa/kotysa-sqlite@3.0.1?classifier=sources

@@ -12,3 +12,8 @@
 - pkg:maven/com.pulumi/ns1@3.1.0-alpha.1679335239%2Bf18b6c4d?classifier=sources
 - pkg:maven/com.pulumi/ns1@3.1.0-alpha.1679417174%2Bbf05973b?classifier=sources
 - pkg:maven/com.pulumi/ns1@3.1.0-alpha.1680026755%2B99b66fcd?classifier=sources
+- pkg:maven/com.pulumi/ns1@3.1.0-alpha.1680910095%2Bf11b6235?classifier=sources
+- pkg:maven/com.pulumi/ns1@3.1.0-alpha.1681940488%2Bc22076aa?classifier=sources
+- pkg:maven/com.pulumi/ns1@3.1.0-alpha.1683266364%2B781bbde8?classifier=sources
+- pkg:maven/com.pulumi/ns1@3.1.0-alpha.1683352358%2Bd3d88d36?classifier=sources
+- pkg:maven/com.pulumi/ns1@3.1.0-alpha.1683611465%2Bd35f86a0?classifier=sources

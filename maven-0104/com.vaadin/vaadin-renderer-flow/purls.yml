@@ -167,6 +167,10 @@
 - pkg:maven/com.vaadin/vaadin-renderer-flow@23.3.1
 - pkg:maven/com.vaadin/vaadin-renderer-flow@23.3.10
 - pkg:maven/com.vaadin/vaadin-renderer-flow@23.3.10?classifier=sources
+- pkg:maven/com.vaadin/vaadin-renderer-flow@23.3.11
+- pkg:maven/com.vaadin/vaadin-renderer-flow@23.3.11?classifier=sources
+- pkg:maven/com.vaadin/vaadin-renderer-flow@23.3.12
+- pkg:maven/com.vaadin/vaadin-renderer-flow@23.3.12?classifier=sources
 - pkg:maven/com.vaadin/vaadin-renderer-flow@23.3.1?classifier=sources
 - pkg:maven/com.vaadin/vaadin-renderer-flow@23.3.2
 - pkg:maven/com.vaadin/vaadin-renderer-flow@23.3.2?classifier=sources
@@ -192,3 +196,7 @@
 - pkg:maven/com.vaadin/vaadin-renderer-flow@24.0.2?classifier=sources
 - pkg:maven/com.vaadin/vaadin-renderer-flow@24.0.3
 - pkg:maven/com.vaadin/vaadin-renderer-flow@24.0.3?classifier=sources
+- pkg:maven/com.vaadin/vaadin-renderer-flow@24.0.4
+- pkg:maven/com.vaadin/vaadin-renderer-flow@24.0.4?classifier=sources
+- pkg:maven/com.vaadin/vaadin-renderer-flow@24.0.5
+- pkg:maven/com.vaadin/vaadin-renderer-flow@24.0.5?classifier=sources

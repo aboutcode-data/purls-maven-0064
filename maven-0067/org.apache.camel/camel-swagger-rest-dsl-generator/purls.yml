@@ -160,6 +160,8 @@
 - pkg:maven/org.apache.camel/camel-swagger-rest-dsl-generator@3.20.2?classifier=sources
 - pkg:maven/org.apache.camel/camel-swagger-rest-dsl-generator@3.20.3
 - pkg:maven/org.apache.camel/camel-swagger-rest-dsl-generator@3.20.3?classifier=sources
+- pkg:maven/org.apache.camel/camel-swagger-rest-dsl-generator@3.20.4
+- pkg:maven/org.apache.camel/camel-swagger-rest-dsl-generator@3.20.4?classifier=sources
 - pkg:maven/org.apache.camel/camel-swagger-rest-dsl-generator@3.3.0
 - pkg:maven/org.apache.camel/camel-swagger-rest-dsl-generator@3.3.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-swagger-rest-dsl-generator@3.4.0

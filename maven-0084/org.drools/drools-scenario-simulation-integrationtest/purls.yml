@@ -17,3 +17,5 @@
 - pkg:maven/org.drools/drools-scenario-simulation-integrationtest@8.34.0.Final
 - pkg:maven/org.drools/drools-scenario-simulation-integrationtest@8.35.0.Final
 - pkg:maven/org.drools/drools-scenario-simulation-integrationtest@8.36.0.Final
+- pkg:maven/org.drools/drools-scenario-simulation-integrationtest@8.37.0.Final
+- pkg:maven/org.drools/drools-scenario-simulation-integrationtest@8.38.0.Final

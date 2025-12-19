@@ -10,9 +10,15 @@
 - pkg:maven/io.github.thebesteric.framework.agile/agile-logger-rpc-rest-template@1.0.14?classifier=sources
 - pkg:maven/io.github.thebesteric.framework.agile/agile-logger-rpc-rest-template@1.0.15
 - pkg:maven/io.github.thebesteric.framework.agile/agile-logger-rpc-rest-template@1.0.15?classifier=sources
+- pkg:maven/io.github.thebesteric.framework.agile/agile-logger-rpc-rest-template@1.0.16
+- pkg:maven/io.github.thebesteric.framework.agile/agile-logger-rpc-rest-template@1.0.16?classifier=sources
 - pkg:maven/io.github.thebesteric.framework.agile/agile-logger-rpc-rest-template@1.0.7
 - pkg:maven/io.github.thebesteric.framework.agile/agile-logger-rpc-rest-template@1.0.7?classifier=sources
 - pkg:maven/io.github.thebesteric.framework.agile/agile-logger-rpc-rest-template@1.0.8
 - pkg:maven/io.github.thebesteric.framework.agile/agile-logger-rpc-rest-template@1.0.8?classifier=sources
 - pkg:maven/io.github.thebesteric.framework.agile/agile-logger-rpc-rest-template@1.0.9
 - pkg:maven/io.github.thebesteric.framework.agile/agile-logger-rpc-rest-template@1.0.9?classifier=sources
+- pkg:maven/io.github.thebesteric.framework.agile/agile-logger-rpc-rest-template@2.0.0
+- pkg:maven/io.github.thebesteric.framework.agile/agile-logger-rpc-rest-template@2.0.0?classifier=sources
+- pkg:maven/io.github.thebesteric.framework.agile/agile-logger-rpc-rest-template@2.0.1
+- pkg:maven/io.github.thebesteric.framework.agile/agile-logger-rpc-rest-template@2.0.1?classifier=sources

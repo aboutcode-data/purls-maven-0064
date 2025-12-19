@@ -1,5 +1,7 @@
 - pkg:maven/cn.org.opendfl/task-tool@1
 - pkg:maven/cn.org.opendfl/task-tool@1.1
+- pkg:maven/cn.org.opendfl/task-tool@1.10
+- pkg:maven/cn.org.opendfl/task-tool@1.10?classifier=sources
 - pkg:maven/cn.org.opendfl/task-tool@1.1?classifier=sources
 - pkg:maven/cn.org.opendfl/task-tool@1.2
 - pkg:maven/cn.org.opendfl/task-tool@1.2?classifier=sources
@@ -13,4 +15,10 @@
 - pkg:maven/cn.org.opendfl/task-tool@1.7?classifier=sources
 - pkg:maven/cn.org.opendfl/task-tool@1.8
 - pkg:maven/cn.org.opendfl/task-tool@1.8?classifier=sources
+- pkg:maven/cn.org.opendfl/task-tool@1.9
+- pkg:maven/cn.org.opendfl/task-tool@1.9?classifier=sources
 - pkg:maven/cn.org.opendfl/task-tool@1?classifier=sources
+- pkg:maven/cn.org.opendfl/task-tool@2.0
+- pkg:maven/cn.org.opendfl/task-tool@2.0?classifier=sources
+- pkg:maven/cn.org.opendfl/task-tool@2.1
+- pkg:maven/cn.org.opendfl/task-tool@2.1?classifier=sources

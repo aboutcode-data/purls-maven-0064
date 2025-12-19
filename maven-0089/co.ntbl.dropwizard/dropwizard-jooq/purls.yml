@@ -1,0 +1,4 @@
+- pkg:maven/co.ntbl.dropwizard/dropwizard-jooq@100.300.3168?classifier=sources
+- pkg:maven/co.ntbl.dropwizard/dropwizard-jooq@100.300.3183?classifier=sources
+- pkg:maven/co.ntbl.dropwizard/dropwizard-jooq@100.400.3168?classifier=sources
+- pkg:maven/co.ntbl.dropwizard/dropwizard-jooq@100.400.3183?classifier=sources

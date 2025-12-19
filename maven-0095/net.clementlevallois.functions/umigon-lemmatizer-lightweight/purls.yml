@@ -1,0 +1,2 @@
+- pkg:maven/net.clementlevallois.functions/umigon-lemmatizer-lightweight@0.10?classifier=sources
+- pkg:maven/net.clementlevallois.functions/umigon-lemmatizer-lightweight@0.11?classifier=sources

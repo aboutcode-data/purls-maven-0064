@@ -1,0 +1,2 @@
+- pkg:maven/org.dromara.solon-plugins/easypoi-web-solon@0.0.7
+- pkg:maven/org.dromara.solon-plugins/easypoi-web-solon@0.0.7?classifier=sources

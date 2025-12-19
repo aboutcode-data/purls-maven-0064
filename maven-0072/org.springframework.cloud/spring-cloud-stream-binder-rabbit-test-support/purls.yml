@@ -102,6 +102,8 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-stream-binder-rabbit-test-support@3.2.6?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-stream-binder-rabbit-test-support@3.2.7
 - pkg:maven/org.springframework.cloud/spring-cloud-stream-binder-rabbit-test-support@3.2.7?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-stream-binder-rabbit-test-support@3.2.8
+- pkg:maven/org.springframework.cloud/spring-cloud-stream-binder-rabbit-test-support@3.2.8?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-stream-binder-rabbit-test-support@4.0.0
 - pkg:maven/org.springframework.cloud/spring-cloud-stream-binder-rabbit-test-support@4.0.0?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-stream-binder-rabbit-test-support@4.0.1

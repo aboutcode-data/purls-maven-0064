@@ -16,3 +16,5 @@
 - pkg:maven/com.zarinpal/payment-provider-ktx@0.5.4?classifier=sources
 - pkg:maven/com.zarinpal/payment-provider-ktx@0.6.0-beta?classifier=sources
 - pkg:maven/com.zarinpal/payment-provider-ktx@0.6.0?classifier=sources
+- pkg:maven/com.zarinpal/payment-provider-ktx@0.6.1?classifier=sources
+- pkg:maven/com.zarinpal/payment-provider-ktx@0.6.2?classifier=sources

@@ -81,6 +81,8 @@
 - pkg:maven/org.dotwebstack.framework/backend-postgres@0.3.135?classifier=sources
 - pkg:maven/org.dotwebstack.framework/backend-postgres@0.3.136
 - pkg:maven/org.dotwebstack.framework/backend-postgres@0.3.136?classifier=sources
+- pkg:maven/org.dotwebstack.framework/backend-postgres@0.3.137
+- pkg:maven/org.dotwebstack.framework/backend-postgres@0.3.137?classifier=sources
 - pkg:maven/org.dotwebstack.framework/backend-postgres@0.3.19
 - pkg:maven/org.dotwebstack.framework/backend-postgres@0.3.19?classifier=sources
 - pkg:maven/org.dotwebstack.framework/backend-postgres@0.3.1?classifier=sources
@@ -241,3 +243,9 @@
 - pkg:maven/org.dotwebstack.framework/backend-postgres@0.3.99
 - pkg:maven/org.dotwebstack.framework/backend-postgres@0.3.99?classifier=sources
 - pkg:maven/org.dotwebstack.framework/backend-postgres@0.3.9?classifier=sources
+- pkg:maven/org.dotwebstack.framework/backend-postgres@0.4.0
+- pkg:maven/org.dotwebstack.framework/backend-postgres@0.4.0?classifier=sources
+- pkg:maven/org.dotwebstack.framework/backend-postgres@0.4.1
+- pkg:maven/org.dotwebstack.framework/backend-postgres@0.4.1?classifier=sources
+- pkg:maven/org.dotwebstack.framework/backend-postgres@0.4.2
+- pkg:maven/org.dotwebstack.framework/backend-postgres@0.4.2?classifier=sources

@@ -338,6 +338,8 @@
 - pkg:maven/org.flywaydb/flyway-gradle-plugin@9.16.2?classifier=sources
 - pkg:maven/org.flywaydb/flyway-gradle-plugin@9.16.3
 - pkg:maven/org.flywaydb/flyway-gradle-plugin@9.16.3?classifier=sources
+- pkg:maven/org.flywaydb/flyway-gradle-plugin@9.17.0
+- pkg:maven/org.flywaydb/flyway-gradle-plugin@9.17.0?classifier=sources
 - pkg:maven/org.flywaydb/flyway-gradle-plugin@9.2.0
 - pkg:maven/org.flywaydb/flyway-gradle-plugin@9.2.0?classifier=sources
 - pkg:maven/org.flywaydb/flyway-gradle-plugin@9.2.1

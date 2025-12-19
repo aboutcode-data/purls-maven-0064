@@ -64,6 +64,10 @@
 - pkg:maven/org.optaplanner/optaplanner-quarkus-benchmark-deployment@8.35.0.Final?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-quarkus-benchmark-deployment@8.36.0.Final
 - pkg:maven/org.optaplanner/optaplanner-quarkus-benchmark-deployment@8.36.0.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-quarkus-benchmark-deployment@8.37.0.Final
+- pkg:maven/org.optaplanner/optaplanner-quarkus-benchmark-deployment@8.37.0.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-quarkus-benchmark-deployment@8.38.0.Final
+- pkg:maven/org.optaplanner/optaplanner-quarkus-benchmark-deployment@8.38.0.Final?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-quarkus-benchmark-deployment@8.8.0.Final
 - pkg:maven/org.optaplanner/optaplanner-quarkus-benchmark-deployment@8.8.0.Final?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-quarkus-benchmark-deployment@8.9.0.Final
@@ -76,3 +80,7 @@
 - pkg:maven/org.optaplanner/optaplanner-quarkus-benchmark-deployment@9.35.0.Beta2?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-quarkus-benchmark-deployment@9.36.0.Beta3
 - pkg:maven/org.optaplanner/optaplanner-quarkus-benchmark-deployment@9.36.0.Beta3?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-quarkus-benchmark-deployment@9.37.0.Final
+- pkg:maven/org.optaplanner/optaplanner-quarkus-benchmark-deployment@9.37.0.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-quarkus-benchmark-deployment@9.38.0.Final
+- pkg:maven/org.optaplanner/optaplanner-quarkus-benchmark-deployment@9.38.0.Final?classifier=sources

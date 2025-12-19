@@ -82,6 +82,8 @@
 - pkg:maven/org.epos-eu.ics-c/epos-data-model-beans@1.2.7?classifier=sources
 - pkg:maven/org.epos-eu.ics-c/epos-data-model-beans@1.2.8
 - pkg:maven/org.epos-eu.ics-c/epos-data-model-beans@1.2.8?classifier=sources
+- pkg:maven/org.epos-eu.ics-c/epos-data-model-beans@1.2.9
+- pkg:maven/org.epos-eu.ics-c/epos-data-model-beans@1.2.9?classifier=sources
 - pkg:maven/org.epos-eu.ics-c/epos-data-model-beans@main
 - pkg:maven/org.epos-eu.ics-c/epos-data-model-beans@main?classifier=sources
 - pkg:maven/org.epos-eu.ics-c/epos-data-model-beans@no-versioning-approval

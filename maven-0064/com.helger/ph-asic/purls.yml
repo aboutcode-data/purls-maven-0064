@@ -30,3 +30,5 @@
 - pkg:maven/com.helger/ph-asic@1.7.0?classifier=sources
 - pkg:maven/com.helger/ph-asic@2.0.0
 - pkg:maven/com.helger/ph-asic@2.0.0?classifier=sources
+- pkg:maven/com.helger/ph-asic@3.0.0
+- pkg:maven/com.helger/ph-asic@3.0.0?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/io.quarkiverse.microprofile/quarkus-microprofile@2.7.2.Final?classifier=sources
 - pkg:maven/io.quarkiverse.microprofile/quarkus-microprofile@3.0.0.Alpha3
 - pkg:maven/io.quarkiverse.microprofile/quarkus-microprofile@3.0.0.Alpha3?classifier=sources
+- pkg:maven/io.quarkiverse.microprofile/quarkus-microprofile@3.0.0.Final
+- pkg:maven/io.quarkiverse.microprofile/quarkus-microprofile@3.0.0.Final?classifier=sources

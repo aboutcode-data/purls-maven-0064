@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.lyo.oslc4j.core/oslc4j-core-wink@5.1.0-alpha
+- pkg:maven/org.eclipse.lyo.oslc4j.core/oslc4j-core-wink@5.1.0-alpha?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/org.finos.symphony.bdk/symphony-bdk-test-spring-boot@2.13.0?classifier=sources
+- pkg:maven/org.finos.symphony.bdk/symphony-bdk-test-spring-boot@2.14.0?classifier=sources

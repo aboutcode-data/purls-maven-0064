@@ -1,0 +1,6 @@
+- pkg:maven/org.testingisdocumenting.webtau/webtau-websocket@1.52
+- pkg:maven/org.testingisdocumenting.webtau/webtau-websocket@1.52.1
+- pkg:maven/org.testingisdocumenting.webtau/webtau-websocket@1.52.1?classifier=sources
+- pkg:maven/org.testingisdocumenting.webtau/webtau-websocket@1.52?classifier=sources
+- pkg:maven/org.testingisdocumenting.webtau/webtau-websocket@1.53
+- pkg:maven/org.testingisdocumenting.webtau/webtau-websocket@1.53?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/io.bitbucket.boussami_nassim/MavenTestingLibrary@0.1?classifier=sources
+- pkg:maven/io.bitbucket.boussami_nassim/MavenTestingLibrary@1.0?classifier=sources

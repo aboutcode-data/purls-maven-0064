@@ -106,6 +106,8 @@
 - pkg:maven/org.wicketstuff/wicket-mount-example@8.13.0?type=war
 - pkg:maven/org.wicketstuff/wicket-mount-example@8.14.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicket-mount-example@8.14.0?type=war
+- pkg:maven/org.wicketstuff/wicket-mount-example@8.15.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicket-mount-example@8.15.0?type=war
 - pkg:maven/org.wicketstuff/wicket-mount-example@8.2.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicket-mount-example@8.2.0?type=war
 - pkg:maven/org.wicketstuff/wicket-mount-example@8.3.0?classifier=sources
@@ -146,6 +148,8 @@
 - pkg:maven/org.wicketstuff/wicket-mount-example@9.11.0?type=war
 - pkg:maven/org.wicketstuff/wicket-mount-example@9.12.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicket-mount-example@9.12.0?type=war
+- pkg:maven/org.wicketstuff/wicket-mount-example@9.13.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicket-mount-example@9.13.0?type=war
 - pkg:maven/org.wicketstuff/wicket-mount-example@9.2.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicket-mount-example@9.2.0?type=war
 - pkg:maven/org.wicketstuff/wicket-mount-example@9.3.0?classifier=sources
