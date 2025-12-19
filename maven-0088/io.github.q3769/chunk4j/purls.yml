@@ -10,3 +10,7 @@
 - pkg:maven/io.github.q3769/chunk4j@20211210.0.5?classifier=sources
 - pkg:maven/io.github.q3769/chunk4j@20211210.0.6
 - pkg:maven/io.github.q3769/chunk4j@20211210.0.6?classifier=sources
+- pkg:maven/io.github.q3769/chunk4j@20220116.0.0
+- pkg:maven/io.github.q3769/chunk4j@20220116.0.0?classifier=sources
+- pkg:maven/io.github.q3769/chunk4j@20220116.0.1
+- pkg:maven/io.github.q3769/chunk4j@20220116.0.1?classifier=sources

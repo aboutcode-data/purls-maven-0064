@@ -18,3 +18,7 @@
 - pkg:maven/org.choco-solver/examples@4.10.7?classifier=sources
 - pkg:maven/org.choco-solver/examples@4.10.7?classifier=src&type=tar.gz
 - pkg:maven/org.choco-solver/examples@4.10.7?classifier=src&type=zip
+- pkg:maven/org.choco-solver/examples@4.10.8
+- pkg:maven/org.choco-solver/examples@4.10.8?classifier=sources
+- pkg:maven/org.choco-solver/examples@4.10.8?classifier=src&type=tar.gz
+- pkg:maven/org.choco-solver/examples@4.10.8?classifier=src&type=zip

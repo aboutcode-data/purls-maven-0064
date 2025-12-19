@@ -2,3 +2,5 @@
 - pkg:maven/eu.europa.ec.eurostat/searoute-marnet@3.4?classifier=sources
 - pkg:maven/eu.europa.ec.eurostat/searoute-marnet@3.5
 - pkg:maven/eu.europa.ec.eurostat/searoute-marnet@3.5?classifier=sources
+- pkg:maven/eu.europa.ec.eurostat/searoute-marnet@3.6
+- pkg:maven/eu.europa.ec.eurostat/searoute-marnet@3.6?classifier=sources

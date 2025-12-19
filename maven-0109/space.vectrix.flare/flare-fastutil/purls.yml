@@ -2,3 +2,4 @@
 - pkg:maven/space.vectrix.flare/flare-fastutil@0.3.0?classifier=sources
 - pkg:maven/space.vectrix.flare/flare-fastutil@1.0.0?classifier=sources
 - pkg:maven/space.vectrix.flare/flare-fastutil@2.0.0?classifier=sources
+- pkg:maven/space.vectrix.flare/flare-fastutil@2.0.1?classifier=sources

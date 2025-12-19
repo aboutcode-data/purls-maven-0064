@@ -1,0 +1,2 @@
+- pkg:maven/com.larsreimann/modeling-core@1.0.0?classifier=sources
+- pkg:maven/com.larsreimann/modeling-core@2.0.0?classifier=sources

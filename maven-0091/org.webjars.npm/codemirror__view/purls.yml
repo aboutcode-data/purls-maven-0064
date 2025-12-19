@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/codemirror__view@0.19.40
+- pkg:maven/org.webjars.npm/codemirror__view@0.19.40?classifier=sources

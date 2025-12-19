@@ -50,3 +50,5 @@
 - pkg:maven/com.danielflower.apprunner/restabuild@0.8.13?classifier=sources
 - pkg:maven/com.danielflower.apprunner/restabuild@0.8.8
 - pkg:maven/com.danielflower.apprunner/restabuild@0.8.8?classifier=sources
+- pkg:maven/com.danielflower.apprunner/restabuild@1.0.0
+- pkg:maven/com.danielflower.apprunner/restabuild@1.0.0?classifier=sources

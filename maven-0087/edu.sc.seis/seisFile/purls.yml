@@ -22,3 +22,4 @@
 - pkg:maven/edu.sc.seis/seisFile@2.0.0?classifier=sources
 - pkg:maven/edu.sc.seis/seisFile@2.0.1?classifier=sources
 - pkg:maven/edu.sc.seis/seisFile@2.0.2?classifier=sources
+- pkg:maven/edu.sc.seis/seisFile@2.0.3?classifier=sources

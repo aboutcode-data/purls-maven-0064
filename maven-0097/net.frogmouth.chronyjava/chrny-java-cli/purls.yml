@@ -1,0 +1,2 @@
+- pkg:maven/net.frogmouth.chronyjava/chrny-java-cli@0.8
+- pkg:maven/net.frogmouth.chronyjava/chrny-java-cli@0.8?classifier=sources

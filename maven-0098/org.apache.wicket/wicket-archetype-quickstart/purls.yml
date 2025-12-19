@@ -192,6 +192,7 @@
 - pkg:maven/org.apache.wicket/wicket-archetype-quickstart@8.11.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-archetype-quickstart@8.12.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-archetype-quickstart@8.13.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-archetype-quickstart@8.14.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-archetype-quickstart@8.2.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-archetype-quickstart@8.3.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-archetype-quickstart@8.4.0?classifier=sources
@@ -214,3 +215,4 @@
 - pkg:maven/org.apache.wicket/wicket-archetype-quickstart@9.5.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-archetype-quickstart@9.6.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-archetype-quickstart@9.7.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-archetype-quickstart@9.8.0?classifier=sources

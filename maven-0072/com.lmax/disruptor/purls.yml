@@ -52,3 +52,4 @@
 - pkg:maven/com.lmax/disruptor@3.4.3?classifier=sources
 - pkg:maven/com.lmax/disruptor@3.4.4
 - pkg:maven/com.lmax/disruptor@3.4.4?classifier=sources
+- pkg:maven/com.lmax/disruptor@4.0.0.RC1?classifier=sources

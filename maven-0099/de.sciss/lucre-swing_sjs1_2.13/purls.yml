@@ -1,3 +1,5 @@
+- pkg:maven/de.sciss/lucre-swing_sjs1_2.13@2.10.0
+- pkg:maven/de.sciss/lucre-swing_sjs1_2.13@2.10.0?classifier=sources
 - pkg:maven/de.sciss/lucre-swing_sjs1_2.13@2.2.0
 - pkg:maven/de.sciss/lucre-swing_sjs1_2.13@2.2.0?classifier=sources
 - pkg:maven/de.sciss/lucre-swing_sjs1_2.13@2.3.0

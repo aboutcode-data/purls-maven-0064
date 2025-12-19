@@ -1,1 +1,2 @@
 - pkg:maven/net.gredler/aegis4j@1.0?classifier=sources
+- pkg:maven/net.gredler/aegis4j@1.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.helidon.build-tools/helidon-archetype-maven-plugin@3.0.0-M2
+- pkg:maven/io.helidon.build-tools/helidon-archetype-maven-plugin@3.0.0-M2?classifier=sources

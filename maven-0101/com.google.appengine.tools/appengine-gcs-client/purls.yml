@@ -46,3 +46,4 @@
 - pkg:maven/com.google.appengine.tools/appengine-gcs-client@0.8
 - pkg:maven/com.google.appengine.tools/appengine-gcs-client@0.8.1
 - pkg:maven/com.google.appengine.tools/appengine-gcs-client@0.8.2
+- pkg:maven/com.google.appengine.tools/appengine-gcs-client@0.8.3

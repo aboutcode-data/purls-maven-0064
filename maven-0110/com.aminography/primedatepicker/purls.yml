@@ -1,0 +1,2 @@
+- pkg:maven/com.aminography/primedatepicker@3.5.0?classifier=sources
+- pkg:maven/com.aminography/primedatepicker@3.6.0?classifier=sources

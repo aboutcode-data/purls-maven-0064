@@ -1,0 +1,2 @@
+- pkg:maven/io.github.oak/jsonrpc4j@1.6.1-oak
+- pkg:maven/io.github.oak/jsonrpc4j@1.6.1-oak?classifier=sources

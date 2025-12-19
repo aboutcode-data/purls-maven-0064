@@ -1,0 +1,4 @@
+- pkg:maven/org.datapunch/remote-shuffle-service-server@0.0.10
+- pkg:maven/org.datapunch/remote-shuffle-service-server@0.0.10?classifier=sources
+- pkg:maven/org.datapunch/remote-shuffle-service-server@0.0.13
+- pkg:maven/org.datapunch/remote-shuffle-service-server@0.0.13?classifier=sources

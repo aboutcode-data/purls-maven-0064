@@ -34,5 +34,15 @@
 - pkg:maven/group.rxcloud/capa-spi-aws-mesh@1.10.12.3-alpha-4?classifier=sources
 - pkg:maven/group.rxcloud/capa-spi-aws-mesh@1.10.12.3.RELEASE
 - pkg:maven/group.rxcloud/capa-spi-aws-mesh@1.10.12.3.RELEASE?classifier=sources
+- pkg:maven/group.rxcloud/capa-spi-aws-mesh@1.10.12.4.RELEASE
+- pkg:maven/group.rxcloud/capa-spi-aws-mesh@1.10.12.4.RELEASE?classifier=sources
 - pkg:maven/group.rxcloud/capa-spi-aws-mesh@1.10.9.2.RELEASE
 - pkg:maven/group.rxcloud/capa-spi-aws-mesh@1.10.9.2.RELEASE?classifier=sources
+- pkg:maven/group.rxcloud/capa-spi-aws-mesh@1.11.13.2.RELEASE
+- pkg:maven/group.rxcloud/capa-spi-aws-mesh@1.11.13.2.RELEASE?classifier=sources
+- pkg:maven/group.rxcloud/capa-spi-aws-mesh@1.11.13.3.RELEASE
+- pkg:maven/group.rxcloud/capa-spi-aws-mesh@1.11.13.3.RELEASE?classifier=sources
+- pkg:maven/group.rxcloud/capa-spi-aws-mesh@1.11.13.4.RELEASE
+- pkg:maven/group.rxcloud/capa-spi-aws-mesh@1.11.13.4.RELEASE?classifier=sources
+- pkg:maven/group.rxcloud/capa-spi-aws-mesh@1.11.13.5.RELEASE
+- pkg:maven/group.rxcloud/capa-spi-aws-mesh@1.11.13.5.RELEASE?classifier=sources

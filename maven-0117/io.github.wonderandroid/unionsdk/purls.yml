@@ -49,3 +49,6 @@
 - pkg:maven/io.github.wonderandroid/unionsdk@3.5.0.1?type=aar
 - pkg:maven/io.github.wonderandroid/unionsdk@3.5.0.2?type=aar
 - pkg:maven/io.github.wonderandroid/unionsdk@3.5.0.3?type=aar
+- pkg:maven/io.github.wonderandroid/unionsdk@3.6.0.0?type=aar
+- pkg:maven/io.github.wonderandroid/unionsdk@3.6.0.1?type=aar
+- pkg:maven/io.github.wonderandroid/unionsdk@3.6.0.2?type=aar

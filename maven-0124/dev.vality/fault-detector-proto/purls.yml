@@ -1,0 +1,2 @@
+- pkg:maven/dev.vality/fault-detector-proto@1.27-365aadc
+- pkg:maven/dev.vality/fault-detector-proto@1.27-365aadc?classifier=sources

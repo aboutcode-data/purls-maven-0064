@@ -1,0 +1,4 @@
+- pkg:maven/org.bedework/hibernate-core@5.2.5.1FinalBwPatched
+- pkg:maven/org.bedework/hibernate-core@5.2.5.1FinalBwPatched?classifier=sources
+- pkg:maven/org.bedework/hibernate-core@5.2.5.FinalBwPatched
+- pkg:maven/org.bedework/hibernate-core@5.2.5.FinalBwPatched?classifier=sources

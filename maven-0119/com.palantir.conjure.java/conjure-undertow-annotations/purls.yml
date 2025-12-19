@@ -1,0 +1,2 @@
+- pkg:maven/com.palantir.conjure.java/conjure-undertow-annotations@6.15.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java/conjure-undertow-annotations@6.16.0?classifier=sources

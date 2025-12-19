@@ -1,3 +1,5 @@
+- pkg:maven/pub.doric/devkit@0.10.0?classifier=sources
+- pkg:maven/pub.doric/devkit@0.10.0?type=aar
 - pkg:maven/pub.doric/devkit@0.7.10?classifier=sources
 - pkg:maven/pub.doric/devkit@0.7.10?type=aar
 - pkg:maven/pub.doric/devkit@0.7.11?classifier=sources
@@ -126,6 +128,8 @@
 - pkg:maven/pub.doric/devkit@0.9.30?type=aar
 - pkg:maven/pub.doric/devkit@0.9.31?classifier=sources
 - pkg:maven/pub.doric/devkit@0.9.31?type=aar
+- pkg:maven/pub.doric/devkit@0.9.32?classifier=sources
+- pkg:maven/pub.doric/devkit@0.9.32?type=aar
 - pkg:maven/pub.doric/devkit@0.9.3?classifier=sources
 - pkg:maven/pub.doric/devkit@0.9.3?type=aar
 - pkg:maven/pub.doric/devkit@0.9.4?classifier=sources

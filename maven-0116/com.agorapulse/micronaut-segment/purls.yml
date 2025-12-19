@@ -5,3 +5,6 @@
 - pkg:maven/com.agorapulse/micronaut-segment@1.0.3?classifier=sources
 - pkg:maven/com.agorapulse/micronaut-segment@1.0.4.1?classifier=sources
 - pkg:maven/com.agorapulse/micronaut-segment@1.0.4?classifier=sources
+- pkg:maven/com.agorapulse/micronaut-segment@1.1.0-micronaut-1.0?classifier=sources
+- pkg:maven/com.agorapulse/micronaut-segment@1.1.0-micronaut-2.0?classifier=sources
+- pkg:maven/com.agorapulse/micronaut-segment@1.1.0-micronaut-3.0?classifier=sources

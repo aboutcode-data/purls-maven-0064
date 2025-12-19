@@ -1,2 +1,7 @@
 - pkg:maven/com.github.nalukit.archetype/modular-springboot-webapp@2020.9.3?classifier=sources
 - pkg:maven/com.github.nalukit.archetype/modular-springboot-webapp@2020.9.6?classifier=sources
+- pkg:maven/com.github.nalukit.archetype/modular-springboot-webapp@2022.01.27?classifier=sources
+- pkg:maven/com.github.nalukit.archetype/modular-springboot-webapp@2022.1.21?classifier=sources
+- pkg:maven/com.github.nalukit.archetype/modular-springboot-webapp@2022.1.29?classifier=sources
+- pkg:maven/com.github.nalukit.archetype/modular-springboot-webapp@2022.1.30?classifier=sources
+- pkg:maven/com.github.nalukit.archetype/modular-springboot-webapp@2022.2.8?classifier=sources

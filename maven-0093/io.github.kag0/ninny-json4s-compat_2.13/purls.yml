@@ -1,0 +1,2 @@
+- pkg:maven/io.github.kag0/ninny-json4s-compat_2.13@0.7.0
+- pkg:maven/io.github.kag0/ninny-json4s-compat_2.13@0.7.0?classifier=sources

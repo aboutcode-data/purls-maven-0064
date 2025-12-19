@@ -7,3 +7,4 @@
 - pkg:maven/com.consoliads/loaderlibrary@11.0.6?classifier=sources
 - pkg:maven/com.consoliads/loaderlibrary@11.0.7?classifier=sources
 - pkg:maven/com.consoliads/loaderlibrary@v12.1.0-mediation-v13.0.0?classifier=sources
+- pkg:maven/com.consoliads/loaderlibrary@v12.1.0-mediation-v13.2.1?classifier=sources

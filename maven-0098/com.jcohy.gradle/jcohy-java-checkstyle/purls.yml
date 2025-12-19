@@ -7,4 +7,5 @@
 - pkg:maven/com.jcohy.gradle/jcohy-java-checkstyle@0.0.5.3?classifier=sources
 - pkg:maven/com.jcohy.gradle/jcohy-java-checkstyle@0.0.5.4?classifier=sources
 - pkg:maven/com.jcohy.gradle/jcohy-java-checkstyle@0.0.5.5?classifier=sources
+- pkg:maven/com.jcohy.gradle/jcohy-java-checkstyle@0.0.5.8?classifier=sources
 - pkg:maven/com.jcohy.gradle/jcohy-java-checkstyle@0.0.5?classifier=sources

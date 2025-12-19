@@ -1,0 +1,4 @@
+- pkg:maven/io.vacco.volach/vl-schema@0.3.0-MILESTONE-202201070803?classifier=sources
+- pkg:maven/io.vacco.volach/vl-schema@1.0.0-MILESTONE-202201240222?classifier=sources
+- pkg:maven/io.vacco.volach/vl-schema@1.2.0-MILESTONE-202201250508?classifier=sources
+- pkg:maven/io.vacco.volach/vl-schema@1.2.0-MILESTONE-202201250934?classifier=sources

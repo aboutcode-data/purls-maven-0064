@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/rapidoc@8.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/rapidoc@8.4.9
 - pkg:maven/org.webjars.npm/rapidoc@8.4.9?classifier=sources
+- pkg:maven/org.webjars.npm/rapidoc@9.1.4
+- pkg:maven/org.webjars.npm/rapidoc@9.1.4?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.softwaremill.sttp.client3/jsoniter_sjs1_2.12@3.4.1
+- pkg:maven/com.softwaremill.sttp.client3/jsoniter_sjs1_2.12@3.4.1?classifier=sources

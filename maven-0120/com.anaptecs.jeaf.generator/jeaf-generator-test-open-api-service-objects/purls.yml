@@ -1,2 +1,4 @@
 - pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-open-api-service-objects@1.6.14
 - pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-open-api-service-objects@1.6.14?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-open-api-service-objects@1.6.15
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-open-api-service-objects@1.6.15?classifier=sources

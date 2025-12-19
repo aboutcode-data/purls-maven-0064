@@ -1,1 +1,2 @@
 - pkg:maven/io.eyesprotocol.validator/ethereum-validator@0.1.0?classifier=sources
+- pkg:maven/io.eyesprotocol.validator/ethereum-validator@1.0.0?classifier=sources

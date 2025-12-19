@@ -7,3 +7,4 @@
 - pkg:maven/ru.yoomoney.tech/db-queue-scheduler-core@2.0.1?classifier=sources
 - pkg:maven/ru.yoomoney.tech/db-queue-scheduler-core@3.0.0?classifier=sources
 - pkg:maven/ru.yoomoney.tech/db-queue-scheduler-core@3.1.0?classifier=sources
+- pkg:maven/ru.yoomoney.tech/db-queue-scheduler-core@3.1.1?classifier=sources

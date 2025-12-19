@@ -1,2 +1,3 @@
 - pkg:maven/cn.bingerz.android/fastlocation@1.1.4-beta01?classifier=sources
 - pkg:maven/cn.bingerz.android/fastlocation@1.1.4?classifier=sources
+- pkg:maven/cn.bingerz.android/fastlocation@1.1.5?classifier=sources

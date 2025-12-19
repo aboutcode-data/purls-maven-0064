@@ -1,1 +1,2 @@
 - pkg:maven/com.github.bumptech.glide/cronet-integration@4.12.0?classifier=sources
+- pkg:maven/com.github.bumptech.glide/cronet-integration@4.13.0?classifier=sources

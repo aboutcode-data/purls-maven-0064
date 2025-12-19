@@ -91,6 +91,16 @@
 - pkg:maven/org.finos.legend.pure/legend-pure-m2-store-relational@1.44.1
 - pkg:maven/org.finos.legend.pure/legend-pure-m2-store-relational@1.44.1?classifier=sources
 - pkg:maven/org.finos.legend.pure/legend-pure-m2-store-relational@1.45.0?classifier=sources
+- pkg:maven/org.finos.legend.pure/legend-pure-m2-store-relational@1.46.0
+- pkg:maven/org.finos.legend.pure/legend-pure-m2-store-relational@1.46.0?classifier=sources
+- pkg:maven/org.finos.legend.pure/legend-pure-m2-store-relational@1.47.0
+- pkg:maven/org.finos.legend.pure/legend-pure-m2-store-relational@1.47.0?classifier=sources
+- pkg:maven/org.finos.legend.pure/legend-pure-m2-store-relational@1.48.0
+- pkg:maven/org.finos.legend.pure/legend-pure-m2-store-relational@1.48.0?classifier=sources
+- pkg:maven/org.finos.legend.pure/legend-pure-m2-store-relational@1.49.0
+- pkg:maven/org.finos.legend.pure/legend-pure-m2-store-relational@1.49.0?classifier=sources
+- pkg:maven/org.finos.legend.pure/legend-pure-m2-store-relational@1.50.0
+- pkg:maven/org.finos.legend.pure/legend-pure-m2-store-relational@1.50.0?classifier=sources
 - pkg:maven/org.finos.legend.pure/legend-pure-m2-store-relational@1.8.0
 - pkg:maven/org.finos.legend.pure/legend-pure-m2-store-relational@1.8.0?classifier=sources
 - pkg:maven/org.finos.legend.pure/legend-pure-m2-store-relational@1.9.0

@@ -1,0 +1,4 @@
+- pkg:maven/com.luhuiguo.fabric-sdk-java/fabric-sdk-java@2.2.11
+- pkg:maven/com.luhuiguo.fabric-sdk-java/fabric-sdk-java@2.2.11.GM
+- pkg:maven/com.luhuiguo.fabric-sdk-java/fabric-sdk-java@2.2.11.GM?classifier=sources
+- pkg:maven/com.luhuiguo.fabric-sdk-java/fabric-sdk-java@2.2.11?classifier=sources

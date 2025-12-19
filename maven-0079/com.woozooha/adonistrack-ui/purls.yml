@@ -14,6 +14,9 @@
 - pkg:maven/com.woozooha/adonistrack-ui@2.0.24
 - pkg:maven/com.woozooha/adonistrack-ui@2.0.25
 - pkg:maven/com.woozooha/adonistrack-ui@2.0.26
+- pkg:maven/com.woozooha/adonistrack-ui@2.0.27
+- pkg:maven/com.woozooha/adonistrack-ui@2.0.28
+- pkg:maven/com.woozooha/adonistrack-ui@2.0.29
 - pkg:maven/com.woozooha/adonistrack-ui@2.0.3
 - pkg:maven/com.woozooha/adonistrack-ui@2.0.4
 - pkg:maven/com.woozooha/adonistrack-ui@2.0.5

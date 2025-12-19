@@ -1,0 +1,2 @@
+- pkg:maven/dev.vality/swag-anapi-v2@1.64-601a6dc-server
+- pkg:maven/dev.vality/swag-anapi-v2@1.64-601a6dc-server?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.charlemaznable/logback-miner-cloud-extension@0.0.5
+- pkg:maven/com.github.charlemaznable/logback-miner-cloud-extension@0.0.5?classifier=sources

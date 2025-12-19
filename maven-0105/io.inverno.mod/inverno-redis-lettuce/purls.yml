@@ -1,0 +1,2 @@
+- pkg:maven/io.inverno.mod/inverno-redis-lettuce@1.4.0
+- pkg:maven/io.inverno.mod/inverno-redis-lettuce@1.4.0?classifier=sources

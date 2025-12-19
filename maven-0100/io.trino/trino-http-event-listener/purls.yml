@@ -3,3 +3,6 @@
 - pkg:maven/io.trino/trino-http-event-listener@365?classifier=sources
 - pkg:maven/io.trino/trino-http-event-listener@366?classifier=sources
 - pkg:maven/io.trino/trino-http-event-listener@367?classifier=sources
+- pkg:maven/io.trino/trino-http-event-listener@368?classifier=sources
+- pkg:maven/io.trino/trino-http-event-listener@369?classifier=sources
+- pkg:maven/io.trino/trino-http-event-listener@370?classifier=sources

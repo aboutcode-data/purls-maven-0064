@@ -10,6 +10,8 @@
 - pkg:maven/org.pac4j/play-pac4j_2.12@11.0.0-PLAY2.8-RC2
 - pkg:maven/org.pac4j/play-pac4j_2.12@11.0.0-PLAY2.8-RC2?classifier=sources
 - pkg:maven/org.pac4j/play-pac4j_2.12@11.0.0-PLAY2.8?classifier=sources
+- pkg:maven/org.pac4j/play-pac4j_2.12@11.1.0-PLAY2.8
+- pkg:maven/org.pac4j/play-pac4j_2.12@11.1.0-PLAY2.8?classifier=sources
 - pkg:maven/org.pac4j/play-pac4j_2.12@5.0.0
 - pkg:maven/org.pac4j/play-pac4j_2.12@5.0.0?classifier=sources
 - pkg:maven/org.pac4j/play-pac4j_2.12@6.0.0

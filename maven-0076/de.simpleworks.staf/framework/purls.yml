@@ -2,3 +2,5 @@
 - pkg:maven/de.simpleworks.staf/framework@0.50?classifier=sources
 - pkg:maven/de.simpleworks.staf/framework@0.60
 - pkg:maven/de.simpleworks.staf/framework@0.60?classifier=sources
+- pkg:maven/de.simpleworks.staf/framework@0.70
+- pkg:maven/de.simpleworks.staf/framework@0.70?classifier=sources

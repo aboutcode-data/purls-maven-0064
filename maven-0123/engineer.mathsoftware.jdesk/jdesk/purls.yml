@@ -1,0 +1,2 @@
+- pkg:maven/engineer.mathsoftware.jdesk/jdesk@0.1.0
+- pkg:maven/engineer.mathsoftware.jdesk/jdesk@0.1.0?classifier=sources

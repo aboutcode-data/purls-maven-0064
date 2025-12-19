@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/to-string-loader@1.2.0
+- pkg:maven/org.webjars.npm/to-string-loader@1.2.0?classifier=sources

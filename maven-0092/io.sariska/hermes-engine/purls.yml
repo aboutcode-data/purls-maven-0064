@@ -1,3 +1,5 @@
+- pkg:maven/io.sariska/hermes-engine@0.7.0-sariska-7589613?type=aar
+- pkg:maven/io.sariska/hermes-engine@0.7.0?type=aar
 - pkg:maven/io.sariska/hermes-engine@SNAPSHOT-~0.7.0?type=aar
 - pkg:maven/io.sariska/hermes-engine@v~0.7.0?type=aar
 - pkg:maven/io.sariska/hermes-engine@~0.7.0?type=aar

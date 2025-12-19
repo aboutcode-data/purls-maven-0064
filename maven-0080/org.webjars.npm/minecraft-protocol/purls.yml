@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/minecraft-protocol@1.30.0
+- pkg:maven/org.webjars.npm/minecraft-protocol@1.30.0?classifier=sources

@@ -36,6 +36,8 @@
 - pkg:maven/com.aliyun.dpa/oss-android-sdk@2.5.0?type=aar
 - pkg:maven/com.aliyun.dpa/oss-android-sdk@2.9.10?classifier=sources
 - pkg:maven/com.aliyun.dpa/oss-android-sdk@2.9.10?type=aar
+- pkg:maven/com.aliyun.dpa/oss-android-sdk@2.9.11?classifier=sources
+- pkg:maven/com.aliyun.dpa/oss-android-sdk@2.9.11?type=aar
 - pkg:maven/com.aliyun.dpa/oss-android-sdk@2.9.4?classifier=sources
 - pkg:maven/com.aliyun.dpa/oss-android-sdk@2.9.4?type=aar
 - pkg:maven/com.aliyun.dpa/oss-android-sdk@2.9.5?classifier=sources
