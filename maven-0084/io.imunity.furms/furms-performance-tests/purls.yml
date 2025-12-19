@@ -3,3 +3,4 @@
 - pkg:maven/io.imunity.furms/furms-performance-tests@4.1.0
 - pkg:maven/io.imunity.furms/furms-performance-tests@4.1.0-rc
 - pkg:maven/io.imunity.furms/furms-performance-tests@4.1.1
+- pkg:maven/io.imunity.furms/furms-performance-tests@4.1.2

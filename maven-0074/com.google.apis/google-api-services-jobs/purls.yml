@@ -612,6 +612,10 @@
 - pkg:maven/com.google.apis/google-api-services-jobs@v3-rev20220303-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-jobs@v3-rev20220325-1.32.1
 - pkg:maven/com.google.apis/google-api-services-jobs@v3-rev20220325-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-jobs@v3-rev20220513-1.32.1
+- pkg:maven/com.google.apis/google-api-services-jobs@v3-rev20220513-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-jobs@v3-rev20220606-1.32.1
+- pkg:maven/com.google.apis/google-api-services-jobs@v3-rev20220606-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-jobs@v3-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-jobs@v3-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-jobs@v3-rev21-1.22.0
@@ -1068,6 +1072,10 @@
 - pkg:maven/com.google.apis/google-api-services-jobs@v3p1beta1-rev20220303-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-jobs@v3p1beta1-rev20220325-1.32.1
 - pkg:maven/com.google.apis/google-api-services-jobs@v3p1beta1-rev20220325-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-jobs@v3p1beta1-rev20220513-1.32.1
+- pkg:maven/com.google.apis/google-api-services-jobs@v3p1beta1-rev20220513-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-jobs@v3p1beta1-rev20220606-1.32.1
+- pkg:maven/com.google.apis/google-api-services-jobs@v3p1beta1-rev20220606-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-jobs@v3p1beta1-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-jobs@v3p1beta1-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-jobs@v3p1beta1-rev21-1.22.0
@@ -1310,3 +1318,7 @@
 - pkg:maven/com.google.apis/google-api-services-jobs@v4-rev20220303-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-jobs@v4-rev20220325-1.32.1
 - pkg:maven/com.google.apis/google-api-services-jobs@v4-rev20220325-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-jobs@v4-rev20220513-1.32.1
+- pkg:maven/com.google.apis/google-api-services-jobs@v4-rev20220513-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-jobs@v4-rev20220606-1.32.1
+- pkg:maven/com.google.apis/google-api-services-jobs@v4-rev20220606-1.32.1?classifier=sources

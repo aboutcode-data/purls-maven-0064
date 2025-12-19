@@ -10,3 +10,4 @@
 - pkg:maven/org.netbeans.api/org-netbeans-libs-jna@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-jna@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-jna@RELEASE130?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-libs-jna@RELEASE140?classifier=sources

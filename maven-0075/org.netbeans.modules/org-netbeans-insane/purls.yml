@@ -13,4 +13,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-insane@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-insane@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-insane@RELEASE130?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-insane@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-insane@RELEASE90?classifier=sources

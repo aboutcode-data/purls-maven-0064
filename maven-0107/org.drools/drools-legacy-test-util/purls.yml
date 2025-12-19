@@ -21,6 +21,9 @@
 - pkg:maven/org.drools/drools-legacy-test-util@7.66.0.Final
 - pkg:maven/org.drools/drools-legacy-test-util@7.67.0.Final
 - pkg:maven/org.drools/drools-legacy-test-util@7.68.0.Final
+- pkg:maven/org.drools/drools-legacy-test-util@7.69.0.Final
+- pkg:maven/org.drools/drools-legacy-test-util@7.70.0.Final
+- pkg:maven/org.drools/drools-legacy-test-util@7.71.0.Final
 - pkg:maven/org.drools/drools-legacy-test-util@8.13.0.Beta
 - pkg:maven/org.drools/drools-legacy-test-util@8.14.0.Beta
 - pkg:maven/org.drools/drools-legacy-test-util@8.14.1.Beta
@@ -31,3 +34,6 @@
 - pkg:maven/org.drools/drools-legacy-test-util@8.18.0.Beta
 - pkg:maven/org.drools/drools-legacy-test-util@8.19.0.Beta
 - pkg:maven/org.drools/drools-legacy-test-util@8.20.0.Beta
+- pkg:maven/org.drools/drools-legacy-test-util@8.21.0.Beta
+- pkg:maven/org.drools/drools-legacy-test-util@8.22.0.Beta
+- pkg:maven/org.drools/drools-legacy-test-util@8.22.1.Beta

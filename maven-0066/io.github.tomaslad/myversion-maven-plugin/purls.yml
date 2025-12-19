@@ -1,0 +1,4 @@
+- pkg:maven/io.github.tomaslad/myversion-maven-plugin@8
+- pkg:maven/io.github.tomaslad/myversion-maven-plugin@8?classifier=sources
+- pkg:maven/io.github.tomaslad/myversion-maven-plugin@9
+- pkg:maven/io.github.tomaslad/myversion-maven-plugin@9?classifier=sources

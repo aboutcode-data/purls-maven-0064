@@ -67,5 +67,14 @@
 - pkg:maven/com.palantir.cassandra/cassandra-all@2.2.18-1.84.0?classifier=sources
 - pkg:maven/com.palantir.cassandra/cassandra-all@2.2.18-1.85.0?classifier=sources
 - pkg:maven/com.palantir.cassandra/cassandra-all@2.2.18-1.86.0-rc1?classifier=sources
+- pkg:maven/com.palantir.cassandra/cassandra-all@2.2.18-1.86.0?classifier=sources
+- pkg:maven/com.palantir.cassandra/cassandra-all@2.2.18-1.87.0?classifier=sources
+- pkg:maven/com.palantir.cassandra/cassandra-all@2.2.18-1.88.0?classifier=sources
+- pkg:maven/com.palantir.cassandra/cassandra-all@2.2.18-1.89.0?classifier=sources
+- pkg:maven/com.palantir.cassandra/cassandra-all@2.2.18-1.90.0-rc1?classifier=sources
+- pkg:maven/com.palantir.cassandra/cassandra-all@2.2.18-1.90.0?classifier=sources
+- pkg:maven/com.palantir.cassandra/cassandra-all@2.2.18-1.91.0-rc1?classifier=sources
+- pkg:maven/com.palantir.cassandra/cassandra-all@2.2.18-1.91.0?classifier=sources
+- pkg:maven/com.palantir.cassandra/cassandra-all@2.2.18-1.92.0?classifier=sources
 - pkg:maven/com.palantir.cassandra/cassandra-all@2.2.18-2.2.18-1.56.0?classifier=sources
 - pkg:maven/com.palantir.cassandra/cassandra-all@2.2.18-2.2.18-1.75.0-rc1?classifier=sources

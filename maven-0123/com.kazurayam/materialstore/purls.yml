@@ -30,3 +30,5 @@
 - pkg:maven/com.kazurayam/materialstore@0.7.0?classifier=sources
 - pkg:maven/com.kazurayam/materialstore@0.8.0?classifier=sources
 - pkg:maven/com.kazurayam/materialstore@0.8.3?classifier=sources
+- pkg:maven/com.kazurayam/materialstore@0.8.4?classifier=sources
+- pkg:maven/com.kazurayam/materialstore@0.8.5?classifier=sources

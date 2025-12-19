@@ -2,3 +2,9 @@
 - pkg:maven/io.github.Merry74751/other@0.2.RELEASE?classifier=sources
 - pkg:maven/io.github.Merry74751/other@0.3.RELEASE
 - pkg:maven/io.github.Merry74751/other@0.3.RELEASE?classifier=sources
+- pkg:maven/io.github.Merry74751/other@0.4.RELEASE
+- pkg:maven/io.github.Merry74751/other@0.4.RELEASE?classifier=sources
+- pkg:maven/io.github.Merry74751/other@0.5.RELEASE
+- pkg:maven/io.github.Merry74751/other@0.5.RELEASE?classifier=sources
+- pkg:maven/io.github.Merry74751/other@0.6
+- pkg:maven/io.github.Merry74751/other@0.6?classifier=sources

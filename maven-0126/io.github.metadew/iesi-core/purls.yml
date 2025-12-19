@@ -1,0 +1,8 @@
+- pkg:maven/io.github.metadew/iesi-core@0.8.0
+- pkg:maven/io.github.metadew/iesi-core@0.8.0-TEST
+- pkg:maven/io.github.metadew/iesi-core@0.8.0-TEST?classifier=sources
+- pkg:maven/io.github.metadew/iesi-core@0.8.0.0
+- pkg:maven/io.github.metadew/iesi-core@0.8.0.0?classifier=sources
+- pkg:maven/io.github.metadew/iesi-core@0.8.0?classifier=sources
+- pkg:maven/io.github.metadew/iesi-core@0.8.1
+- pkg:maven/io.github.metadew/iesi-core@0.8.1?classifier=sources

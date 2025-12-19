@@ -5,4 +5,6 @@
 - pkg:maven/me.legrange/haveibeenpwned@2.0
 - pkg:maven/me.legrange/haveibeenpwned@2.0?classifier=sources
 - pkg:maven/me.legrange/haveibeenpwned@3.0
+- pkg:maven/me.legrange/haveibeenpwned@3.0.1
+- pkg:maven/me.legrange/haveibeenpwned@3.0.1?classifier=sources
 - pkg:maven/me.legrange/haveibeenpwned@3.0?classifier=sources

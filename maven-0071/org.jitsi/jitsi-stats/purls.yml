@@ -1,0 +1,2 @@
+- pkg:maven/org.jitsi/jitsi-stats@1.0-15-ga3c317f
+- pkg:maven/org.jitsi/jitsi-stats@1.0-15-ga3c317f?classifier=sources

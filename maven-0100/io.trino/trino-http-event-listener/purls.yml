@@ -15,3 +15,9 @@
 - pkg:maven/io.trino/trino-http-event-listener@377?classifier=sources
 - pkg:maven/io.trino/trino-http-event-listener@378?classifier=sources
 - pkg:maven/io.trino/trino-http-event-listener@379?classifier=sources
+- pkg:maven/io.trino/trino-http-event-listener@380?classifier=sources
+- pkg:maven/io.trino/trino-http-event-listener@381?classifier=sources
+- pkg:maven/io.trino/trino-http-event-listener@382?classifier=sources
+- pkg:maven/io.trino/trino-http-event-listener@383?classifier=sources
+- pkg:maven/io.trino/trino-http-event-listener@384?classifier=sources
+- pkg:maven/io.trino/trino-http-event-listener@385?classifier=sources

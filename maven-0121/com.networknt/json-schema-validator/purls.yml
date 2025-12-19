@@ -187,6 +187,8 @@
 - pkg:maven/com.networknt/json-schema-validator@1.0.69?classifier=sources
 - pkg:maven/com.networknt/json-schema-validator@1.0.6?classifier=sources
 - pkg:maven/com.networknt/json-schema-validator@1.0.7
+- pkg:maven/com.networknt/json-schema-validator@1.0.70
+- pkg:maven/com.networknt/json-schema-validator@1.0.70?classifier=sources
 - pkg:maven/com.networknt/json-schema-validator@1.0.7?classifier=sources
 - pkg:maven/com.networknt/json-schema-validator@1.0.8
 - pkg:maven/com.networknt/json-schema-validator@1.0.8?classifier=sources

@@ -80,3 +80,5 @@
 - pkg:maven/io.orangebeard/fitnesse-toolchain-listener@1.2.8?classifier=sources
 - pkg:maven/io.orangebeard/fitnesse-toolchain-listener@1.2.9
 - pkg:maven/io.orangebeard/fitnesse-toolchain-listener@1.2.9?classifier=sources
+- pkg:maven/io.orangebeard/fitnesse-toolchain-listener@2.0-ALPHA
+- pkg:maven/io.orangebeard/fitnesse-toolchain-listener@2.0-ALPHA?classifier=sources

@@ -38,6 +38,12 @@
 - pkg:maven/org.kie/kie-dmn-trisotech@7.67.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-dmn-trisotech@7.68.0.Final
 - pkg:maven/org.kie/kie-dmn-trisotech@7.68.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-dmn-trisotech@7.69.0.Final
+- pkg:maven/org.kie/kie-dmn-trisotech@7.69.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-dmn-trisotech@7.70.0.Final
+- pkg:maven/org.kie/kie-dmn-trisotech@7.70.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-dmn-trisotech@7.71.0.Final
+- pkg:maven/org.kie/kie-dmn-trisotech@7.71.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-dmn-trisotech@8.13.0.Beta
 - pkg:maven/org.kie/kie-dmn-trisotech@8.13.0.Beta?classifier=sources
 - pkg:maven/org.kie/kie-dmn-trisotech@8.14.0.Beta
@@ -58,3 +64,9 @@
 - pkg:maven/org.kie/kie-dmn-trisotech@8.19.0.Beta?classifier=sources
 - pkg:maven/org.kie/kie-dmn-trisotech@8.20.0.Beta
 - pkg:maven/org.kie/kie-dmn-trisotech@8.20.0.Beta?classifier=sources
+- pkg:maven/org.kie/kie-dmn-trisotech@8.21.0.Beta
+- pkg:maven/org.kie/kie-dmn-trisotech@8.21.0.Beta?classifier=sources
+- pkg:maven/org.kie/kie-dmn-trisotech@8.22.0.Beta
+- pkg:maven/org.kie/kie-dmn-trisotech@8.22.0.Beta?classifier=sources
+- pkg:maven/org.kie/kie-dmn-trisotech@8.22.1.Beta
+- pkg:maven/org.kie/kie-dmn-trisotech@8.22.1.Beta?classifier=sources

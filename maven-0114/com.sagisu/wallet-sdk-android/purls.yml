@@ -1,0 +1,2 @@
+- pkg:maven/com.sagisu/wallet-sdk-android@1.0.0?classifier=sources
+- pkg:maven/com.sagisu/wallet-sdk-android@1.0.1?classifier=sources

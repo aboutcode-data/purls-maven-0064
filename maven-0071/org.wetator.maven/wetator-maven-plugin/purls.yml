@@ -2,3 +2,4 @@
 - pkg:maven/org.wetator.maven/wetator-maven-plugin@2.1.0
 - pkg:maven/org.wetator.maven/wetator-maven-plugin@2.1.1
 - pkg:maven/org.wetator.maven/wetator-maven-plugin@2.1.1-SNASPSHOT
+- pkg:maven/org.wetator.maven/wetator-maven-plugin@2.2.0

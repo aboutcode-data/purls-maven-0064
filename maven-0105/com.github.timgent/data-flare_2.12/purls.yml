@@ -58,3 +58,15 @@
 - pkg:maven/com.github.timgent/data-flare_2.12@2.4.5_0.1.13?classifier=sources
 - pkg:maven/com.github.timgent/data-flare_2.12@2.4.5_0.1.14
 - pkg:maven/com.github.timgent/data-flare_2.12@2.4.5_0.1.14?classifier=sources
+- pkg:maven/com.github.timgent/data-flare_2.12@3.0.0_0.1.14
+- pkg:maven/com.github.timgent/data-flare_2.12@3.0.0_0.1.14?classifier=sources
+- pkg:maven/com.github.timgent/data-flare_2.12@3.0.1_0.1.14
+- pkg:maven/com.github.timgent/data-flare_2.12@3.0.1_0.1.14?classifier=sources
+- pkg:maven/com.github.timgent/data-flare_2.12@3.0.2_0.1.14
+- pkg:maven/com.github.timgent/data-flare_2.12@3.0.2_0.1.14?classifier=sources
+- pkg:maven/com.github.timgent/data-flare_2.12@3.1.1_0.1.14
+- pkg:maven/com.github.timgent/data-flare_2.12@3.1.1_0.1.14?classifier=sources
+- pkg:maven/com.github.timgent/data-flare_2.12@3.1.2_0.1.14
+- pkg:maven/com.github.timgent/data-flare_2.12@3.1.2_0.1.14?classifier=sources
+- pkg:maven/com.github.timgent/data-flare_2.12@3.2.0_0.1.14
+- pkg:maven/com.github.timgent/data-flare_2.12@3.2.0_0.1.14?classifier=sources

@@ -38,3 +38,17 @@
 - pkg:maven/io.ep2p/kademlia-api@4.0.6-RELEASE?classifier=sources
 - pkg:maven/io.ep2p/kademlia-api@4.1.0-RELEASE
 - pkg:maven/io.ep2p/kademlia-api@4.1.0-RELEASE?classifier=sources
+- pkg:maven/io.ep2p/kademlia-api@4.1.1-RELEASE
+- pkg:maven/io.ep2p/kademlia-api@4.1.1-RELEASE?classifier=sources
+- pkg:maven/io.ep2p/kademlia-api@4.1.2-RELEASE
+- pkg:maven/io.ep2p/kademlia-api@4.1.2-RELEASE?classifier=sources
+- pkg:maven/io.ep2p/kademlia-api@4.1.4-RELEASE
+- pkg:maven/io.ep2p/kademlia-api@4.1.4-RELEASE?classifier=sources
+- pkg:maven/io.ep2p/kademlia-api@4.1.5-RELEASE
+- pkg:maven/io.ep2p/kademlia-api@4.1.5-RELEASE?classifier=sources
+- pkg:maven/io.ep2p/kademlia-api@4.1.6-RELEASE
+- pkg:maven/io.ep2p/kademlia-api@4.1.6-RELEASE?classifier=sources
+- pkg:maven/io.ep2p/kademlia-api@4.1.7-RELEASE
+- pkg:maven/io.ep2p/kademlia-api@4.1.7-RELEASE?classifier=sources
+- pkg:maven/io.ep2p/kademlia-api@4.1.8-RELEASE
+- pkg:maven/io.ep2p/kademlia-api@4.1.8-RELEASE?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.npm/types__datatables.net@1.10.20?classifier=sources
 - pkg:maven/org.webjars.npm/types__datatables.net@1.10.21
 - pkg:maven/org.webjars.npm/types__datatables.net@1.10.21?classifier=sources
+- pkg:maven/org.webjars.npm/types__datatables.net@1.10.22
+- pkg:maven/org.webjars.npm/types__datatables.net@1.10.22?classifier=sources

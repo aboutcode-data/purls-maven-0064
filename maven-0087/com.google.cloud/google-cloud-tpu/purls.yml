@@ -34,3 +34,5 @@
 - pkg:maven/com.google.cloud/google-cloud-tpu@2.2.6?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-tpu@2.2.7
 - pkg:maven/com.google.cloud/google-cloud-tpu@2.2.7?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-tpu@2.3.0
+- pkg:maven/com.google.cloud/google-cloud-tpu@2.3.0?classifier=sources

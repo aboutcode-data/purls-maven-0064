@@ -107,3 +107,5 @@
 - pkg:maven/org.libtorrent4j/libtorrent4j@2.0.5-25?classifier=sources
 - pkg:maven/org.libtorrent4j/libtorrent4j@2.0.5-26-RC1
 - pkg:maven/org.libtorrent4j/libtorrent4j@2.0.5-26-RC1?classifier=sources
+- pkg:maven/org.libtorrent4j/libtorrent4j@2.0.6-26
+- pkg:maven/org.libtorrent4j/libtorrent4j@2.0.6-26?classifier=sources

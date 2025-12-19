@@ -6,3 +6,5 @@
 - pkg:maven/net.pwall.json/json-kotlin-maven@0.68?classifier=sources
 - pkg:maven/net.pwall.json/json-kotlin-maven@0.77
 - pkg:maven/net.pwall.json/json-kotlin-maven@0.77?classifier=sources
+- pkg:maven/net.pwall.json/json-kotlin-maven@0.78
+- pkg:maven/net.pwall.json/json-kotlin-maven@0.78?classifier=sources

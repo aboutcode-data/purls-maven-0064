@@ -4,3 +4,5 @@
 - pkg:maven/com.lokiy.support/kotlin-kit@0.0.8?type=aar
 - pkg:maven/com.lokiy.support/kotlin-kit@0.1.0?classifier=sources
 - pkg:maven/com.lokiy.support/kotlin-kit@0.1.0?type=aar
+- pkg:maven/com.lokiy.support/kotlin-kit@0.1.4?classifier=sources
+- pkg:maven/com.lokiy.support/kotlin-kit@0.1.4?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.bill95/yuki-helper@0.1.3?classifier=sources
+- pkg:maven/io.github.bill95/yuki-helper@0.1.3?type=aar

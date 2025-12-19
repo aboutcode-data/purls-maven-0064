@@ -22,3 +22,7 @@
 - pkg:maven/com.semanticcms/semanticcms-tag-reference-book@1.7.1?classifier=sources
 - pkg:maven/com.semanticcms/semanticcms-tag-reference-book@1.7.2
 - pkg:maven/com.semanticcms/semanticcms-tag-reference-book@1.7.2?classifier=sources
+- pkg:maven/com.semanticcms/semanticcms-tag-reference-book@1.8.0
+- pkg:maven/com.semanticcms/semanticcms-tag-reference-book@1.8.0?classifier=sources
+- pkg:maven/com.semanticcms/semanticcms-tag-reference-book@1.9.0
+- pkg:maven/com.semanticcms/semanticcms-tag-reference-book@1.9.0?classifier=sources

@@ -4,6 +4,9 @@
 - pkg:maven/io.jooby/jooby-swagger-ui@2.13.0
 - pkg:maven/io.jooby/jooby-swagger-ui@2.14.0
 - pkg:maven/io.jooby/jooby-swagger-ui@2.14.1
+- pkg:maven/io.jooby/jooby-swagger-ui@2.14.2
+- pkg:maven/io.jooby/jooby-swagger-ui@2.15.0
+- pkg:maven/io.jooby/jooby-swagger-ui@2.15.1
 - pkg:maven/io.jooby/jooby-swagger-ui@2.7.0
 - pkg:maven/io.jooby/jooby-swagger-ui@2.7.1
 - pkg:maven/io.jooby/jooby-swagger-ui@2.7.2

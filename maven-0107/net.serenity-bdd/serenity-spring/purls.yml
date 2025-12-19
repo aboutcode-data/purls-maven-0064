@@ -776,3 +776,5 @@
 - pkg:maven/net.serenity-bdd/serenity-spring@3.2.3?classifier=sources
 - pkg:maven/net.serenity-bdd/serenity-spring@3.2.4
 - pkg:maven/net.serenity-bdd/serenity-spring@3.2.4?classifier=sources
+- pkg:maven/net.serenity-bdd/serenity-spring@3.2.5
+- pkg:maven/net.serenity-bdd/serenity-spring@3.2.5?classifier=sources

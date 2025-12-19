@@ -134,3 +134,5 @@
 - pkg:maven/org.ujorm/ujo-wicket@2.21?classifier=sources
 - pkg:maven/org.ujorm/ujo-wicket@2.22
 - pkg:maven/org.ujorm/ujo-wicket@2.22?classifier=sources
+- pkg:maven/org.ujorm/ujo-wicket@2.24
+- pkg:maven/org.ujorm/ujo-wicket@2.24?classifier=sources

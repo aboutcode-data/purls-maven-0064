@@ -1,2 +1,3 @@
 - pkg:maven/no.priv.bang.beans/beans-bom@1.1.2
 - pkg:maven/no.priv.bang.beans/beans-bom@1.1.4
+- pkg:maven/no.priv.bang.beans/beans-bom@1.2.0

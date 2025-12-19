@@ -1,0 +1,4 @@
+- pkg:maven/app.cybrid/cybrid-android-sdk@0.0.1?classifier=sources
+- pkg:maven/app.cybrid/cybrid-android-sdk@0.0.2?classifier=sources
+- pkg:maven/app.cybrid/cybrid-android-sdk@0.0.3?classifier=sources
+- pkg:maven/app.cybrid/cybrid-android-sdk@v0.0.3?classifier=sources

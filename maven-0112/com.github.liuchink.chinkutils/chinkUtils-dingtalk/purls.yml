@@ -1,0 +1,2 @@
+- pkg:maven/com.github.liuchink.chinkutils/chinkUtils-dingtalk@0.0.3.RELEASE
+- pkg:maven/com.github.liuchink.chinkutils/chinkUtils-dingtalk@0.0.3.RELEASE?classifier=sources

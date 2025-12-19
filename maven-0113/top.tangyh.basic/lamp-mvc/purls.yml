@@ -1,0 +1,2 @@
+- pkg:maven/top.tangyh.basic/lamp-mvc@3.7.0
+- pkg:maven/top.tangyh.basic/lamp-mvc@3.7.0?classifier=sources

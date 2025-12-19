@@ -1,6 +1,8 @@
+- pkg:maven/io.agora.rtc/voice-sdk@3.4.0?type=aar
 - pkg:maven/io.agora.rtc/voice-sdk@3.4.11.1?type=aar
 - pkg:maven/io.agora.rtc/voice-sdk@3.4.11.3?type=aar
 - pkg:maven/io.agora.rtc/voice-sdk@3.4.11?type=aar
+- pkg:maven/io.agora.rtc/voice-sdk@3.4.1?type=aar
 - pkg:maven/io.agora.rtc/voice-sdk@3.4.5?type=aar
 - pkg:maven/io.agora.rtc/voice-sdk@3.4.7.1?type=aar
 - pkg:maven/io.agora.rtc/voice-sdk@3.4.7.2?type=aar
@@ -27,4 +29,8 @@
 - pkg:maven/io.agora.rtc/voice-sdk@3.6.2.2?type=aar
 - pkg:maven/io.agora.rtc/voice-sdk@3.6.2.3?type=aar
 - pkg:maven/io.agora.rtc/voice-sdk@3.6.2?type=aar
+- pkg:maven/io.agora.rtc/voice-sdk@3.6.3?type=aar
+- pkg:maven/io.agora.rtc/voice-sdk@3.7.0.1?type=aar
+- pkg:maven/io.agora.rtc/voice-sdk@3.7.0.2?type=aar
+- pkg:maven/io.agora.rtc/voice-sdk@3.7.0.3?type=aar
 - pkg:maven/io.agora.rtc/voice-sdk@3.7.0?type=aar

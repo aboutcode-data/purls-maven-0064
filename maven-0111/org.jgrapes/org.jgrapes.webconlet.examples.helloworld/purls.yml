@@ -1,3 +1,4 @@
 - pkg:maven/org.jgrapes/org.jgrapes.webconlet.examples.helloworld@0.1.0?classifier=sources
 - pkg:maven/org.jgrapes/org.jgrapes.webconlet.examples.helloworld@0.2.0?classifier=sources
 - pkg:maven/org.jgrapes/org.jgrapes.webconlet.examples.helloworld@0.3.0?classifier=sources
+- pkg:maven/org.jgrapes/org.jgrapes.webconlet.examples.helloworld@0.4.0?classifier=sources

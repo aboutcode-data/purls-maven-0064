@@ -4,3 +4,9 @@
 - pkg:maven/com.immomo.cosmos.mediax/effect@3.0.1-202203081202?type=aar
 - pkg:maven/com.immomo.cosmos.mediax/effect@3.0.1-202203081203?classifier=sources
 - pkg:maven/com.immomo.cosmos.mediax/effect@3.0.1-202203081203?type=aar
+- pkg:maven/com.immomo.cosmos.mediax/effect@3.0.1-202205312247?classifier=sources
+- pkg:maven/com.immomo.cosmos.mediax/effect@3.0.1-202205312247?type=aar
+- pkg:maven/com.immomo.cosmos.mediax/effect@3.0.1-202206021822?classifier=sources
+- pkg:maven/com.immomo.cosmos.mediax/effect@3.0.1-202206021822?type=aar
+- pkg:maven/com.immomo.cosmos.mediax/effect@3.0.1-202206061902?classifier=sources
+- pkg:maven/com.immomo.cosmos.mediax/effect@3.0.1-202206061902?type=aar

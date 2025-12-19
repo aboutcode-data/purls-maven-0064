@@ -1,0 +1,2 @@
+- pkg:maven/com.cwpad/nrod-model@0.0.3
+- pkg:maven/com.cwpad/nrod-model@0.0.3?classifier=sources

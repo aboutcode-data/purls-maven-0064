@@ -1,0 +1,2 @@
+- pkg:maven/cn.fastword/fastword-all@1.0.0-RELEASES
+- pkg:maven/cn.fastword/fastword-all@1.0.0-RELEASES?classifier=sources

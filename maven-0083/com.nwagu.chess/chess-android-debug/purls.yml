@@ -1,1 +1,2 @@
 - pkg:maven/com.nwagu.chess/chess-android-debug@0.0.2?classifier=sources
+- pkg:maven/com.nwagu.chess/chess-android-debug@0.0.3?classifier=sources

@@ -3,6 +3,7 @@
 - pkg:maven/com.squareup.okhttp3/okhttp-brotli@4.1.1
 - pkg:maven/com.squareup.okhttp3/okhttp-brotli@4.1.1?classifier=sources
 - pkg:maven/com.squareup.okhttp3/okhttp-brotli@4.10.0-RC1?classifier=sources
+- pkg:maven/com.squareup.okhttp3/okhttp-brotli@4.10.0?classifier=sources
 - pkg:maven/com.squareup.okhttp3/okhttp-brotli@4.2.0
 - pkg:maven/com.squareup.okhttp3/okhttp-brotli@4.2.0?classifier=sources
 - pkg:maven/com.squareup.okhttp3/okhttp-brotli@4.2.1
@@ -34,3 +35,4 @@
 - pkg:maven/com.squareup.okhttp3/okhttp-brotli@5.0.0-alpha.5?classifier=sources
 - pkg:maven/com.squareup.okhttp3/okhttp-brotli@5.0.0-alpha.6?classifier=sources
 - pkg:maven/com.squareup.okhttp3/okhttp-brotli@5.0.0-alpha.7?classifier=sources
+- pkg:maven/com.squareup.okhttp3/okhttp-brotli@5.0.0-alpha.8?classifier=sources

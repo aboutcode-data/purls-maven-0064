@@ -1,0 +1,2 @@
+- pkg:maven/io.github.ks-shim.j-image-hash/JImageHash@1.0.0
+- pkg:maven/io.github.ks-shim.j-image-hash/JImageHash@1.0.0?classifier=sources

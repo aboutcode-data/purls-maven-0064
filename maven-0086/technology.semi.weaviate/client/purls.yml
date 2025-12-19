@@ -28,3 +28,9 @@
 - pkg:maven/technology.semi.weaviate/client@2.3.0?classifier=sources
 - pkg:maven/technology.semi.weaviate/client@2.4.0
 - pkg:maven/technology.semi.weaviate/client@2.4.0?classifier=sources
+- pkg:maven/technology.semi.weaviate/client@3.0.0
+- pkg:maven/technology.semi.weaviate/client@3.0.0?classifier=sources
+- pkg:maven/technology.semi.weaviate/client@3.1.0
+- pkg:maven/technology.semi.weaviate/client@3.1.0?classifier=sources
+- pkg:maven/technology.semi.weaviate/client@3.1.1
+- pkg:maven/technology.semi.weaviate/client@3.1.1?classifier=sources

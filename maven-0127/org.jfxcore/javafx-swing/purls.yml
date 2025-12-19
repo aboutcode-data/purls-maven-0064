@@ -1,0 +1,2 @@
+- pkg:maven/org.jfxcore/javafx-swing@18-ea%2B0
+- pkg:maven/org.jfxcore/javafx-swing@18-ea%2B0?classifier=sources

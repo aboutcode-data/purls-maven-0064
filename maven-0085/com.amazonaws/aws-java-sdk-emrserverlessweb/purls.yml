@@ -1,0 +1,2 @@
+- pkg:maven/com.amazonaws/aws-java-sdk-emrserverlessweb@1.12.229
+- pkg:maven/com.amazonaws/aws-java-sdk-emrserverlessweb@1.12.229?classifier=sources

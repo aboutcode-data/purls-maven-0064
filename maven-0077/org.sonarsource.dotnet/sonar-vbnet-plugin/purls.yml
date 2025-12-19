@@ -37,3 +37,5 @@
 - pkg:maven/org.sonarsource.dotnet/sonar-vbnet-plugin@8.36.1.44192?classifier=sources
 - pkg:maven/org.sonarsource.dotnet/sonar-vbnet-plugin@8.37.0.45539?classifier=sources
 - pkg:maven/org.sonarsource.dotnet/sonar-vbnet-plugin@8.38.0.46746?classifier=sources
+- pkg:maven/org.sonarsource.dotnet/sonar-vbnet-plugin@8.39.0.47922?classifier=sources
+- pkg:maven/org.sonarsource.dotnet/sonar-vbnet-plugin@8.40.0.48530?classifier=sources

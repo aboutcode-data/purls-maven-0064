@@ -22,3 +22,5 @@
 - pkg:maven/net.pwall.log/log-front@2.6?classifier=sources
 - pkg:maven/net.pwall.log/log-front@3.0
 - pkg:maven/net.pwall.log/log-front@3.0?classifier=sources
+- pkg:maven/net.pwall.log/log-front@4.0
+- pkg:maven/net.pwall.log/log-front@4.0?classifier=sources

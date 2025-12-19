@@ -14,7 +14,11 @@
 - pkg:maven/com.liferay.faces.demo/com.liferay.faces.demo.alloy.showcase.webapp@3.0.3?type=war
 - pkg:maven/com.liferay.faces.demo/com.liferay.faces.demo.alloy.showcase.webapp@3.1.0?classifier=sources
 - pkg:maven/com.liferay.faces.demo/com.liferay.faces.demo.alloy.showcase.webapp@3.1.0?type=war
+- pkg:maven/com.liferay.faces.demo/com.liferay.faces.demo.alloy.showcase.webapp@3.1.1?classifier=sources
+- pkg:maven/com.liferay.faces.demo/com.liferay.faces.demo.alloy.showcase.webapp@3.1.1?type=war
 - pkg:maven/com.liferay.faces.demo/com.liferay.faces.demo.alloy.showcase.webapp@4.0.0?classifier=sources
 - pkg:maven/com.liferay.faces.demo/com.liferay.faces.demo.alloy.showcase.webapp@4.0.0?type=war
 - pkg:maven/com.liferay.faces.demo/com.liferay.faces.demo.alloy.showcase.webapp@4.1.0?classifier=sources
 - pkg:maven/com.liferay.faces.demo/com.liferay.faces.demo.alloy.showcase.webapp@4.1.0?type=war
+- pkg:maven/com.liferay.faces.demo/com.liferay.faces.demo.alloy.showcase.webapp@4.1.1?classifier=sources
+- pkg:maven/com.liferay.faces.demo/com.liferay.faces.demo.alloy.showcase.webapp@4.1.1?type=war

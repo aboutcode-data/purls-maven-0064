@@ -4,3 +4,7 @@
 - pkg:maven/biz.aQute.bnd/biz.aQute.bnd.util@6.1.0?classifier=sources
 - pkg:maven/biz.aQute.bnd/biz.aQute.bnd.util@6.2.0
 - pkg:maven/biz.aQute.bnd/biz.aQute.bnd.util@6.2.0?classifier=sources
+- pkg:maven/biz.aQute.bnd/biz.aQute.bnd.util@6.3.0
+- pkg:maven/biz.aQute.bnd/biz.aQute.bnd.util@6.3.0?classifier=sources
+- pkg:maven/biz.aQute.bnd/biz.aQute.bnd.util@6.3.1
+- pkg:maven/biz.aQute.bnd/biz.aQute.bnd.util@6.3.1?classifier=sources
