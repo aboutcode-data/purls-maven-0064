@@ -1,0 +1,2 @@
+- pkg:maven/tech.justagod/sc-api@0.1.0?classifier=sources
+- pkg:maven/tech.justagod/sc-api@1.0.1?classifier=sources

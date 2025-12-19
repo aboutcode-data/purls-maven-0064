@@ -1,0 +1,2 @@
+- pkg:maven/io.github.hejie12hj/watermark@1.0.1
+- pkg:maven/io.github.hejie12hj/watermark@1.0.1?classifier=sources

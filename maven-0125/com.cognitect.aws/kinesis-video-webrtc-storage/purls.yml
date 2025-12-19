@@ -1,0 +1,2 @@
+- pkg:maven/com.cognitect.aws/kinesis-video-webrtc-storage@825.2.1283.0
+- pkg:maven/com.cognitect.aws/kinesis-video-webrtc-storage@825.2.1283.0?classifier=sources

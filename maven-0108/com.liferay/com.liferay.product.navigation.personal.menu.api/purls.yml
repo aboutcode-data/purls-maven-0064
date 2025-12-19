@@ -82,6 +82,9 @@
 - pkg:maven/com.liferay/com.liferay.product.navigation.personal.menu.api@1.2.7
 - pkg:maven/com.liferay/com.liferay.product.navigation.personal.menu.api@1.2.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.personal.menu.api@1.2.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.product.navigation.personal.menu.api@1.2.8
+- pkg:maven/com.liferay/com.liferay.product.navigation.personal.menu.api@1.2.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.product.navigation.personal.menu.api@1.2.8?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.product.navigation.personal.menu.api@1.2.9
 - pkg:maven/com.liferay/com.liferay.product.navigation.personal.menu.api@1.2.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.personal.menu.api@1.2.9?classifier=sources-commercial
@@ -98,6 +101,12 @@
 - pkg:maven/com.liferay/com.liferay.product.navigation.personal.menu.api@2.0.12
 - pkg:maven/com.liferay/com.liferay.product.navigation.personal.menu.api@2.0.12?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.personal.menu.api@2.0.12?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.product.navigation.personal.menu.api@2.0.13
+- pkg:maven/com.liferay/com.liferay.product.navigation.personal.menu.api@2.0.13?classifier=sources
+- pkg:maven/com.liferay/com.liferay.product.navigation.personal.menu.api@2.0.13?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.product.navigation.personal.menu.api@2.0.14
+- pkg:maven/com.liferay/com.liferay.product.navigation.personal.menu.api@2.0.14?classifier=sources
+- pkg:maven/com.liferay/com.liferay.product.navigation.personal.menu.api@2.0.14?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.product.navigation.personal.menu.api@2.0.15
 - pkg:maven/com.liferay/com.liferay.product.navigation.personal.menu.api@2.0.15?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.personal.menu.api@2.0.15?classifier=sources-commercial
@@ -119,6 +128,9 @@
 - pkg:maven/com.liferay/com.liferay.product.navigation.personal.menu.api@2.0.20
 - pkg:maven/com.liferay/com.liferay.product.navigation.personal.menu.api@2.0.20?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.personal.menu.api@2.0.20?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.product.navigation.personal.menu.api@2.0.21
+- pkg:maven/com.liferay/com.liferay.product.navigation.personal.menu.api@2.0.21?classifier=sources
+- pkg:maven/com.liferay/com.liferay.product.navigation.personal.menu.api@2.0.21?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.product.navigation.personal.menu.api@2.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.personal.menu.api@2.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.product.navigation.personal.menu.api@2.0.3

@@ -44,3 +44,5 @@
 - pkg:maven/cloud.piranha.extension/piranha-extension-webprofile@22.12.0?classifier=sources
 - pkg:maven/cloud.piranha.extension/piranha-extension-webprofile@22.9.0
 - pkg:maven/cloud.piranha.extension/piranha-extension-webprofile@22.9.0?classifier=sources
+- pkg:maven/cloud.piranha.extension/piranha-extension-webprofile@23.1.0
+- pkg:maven/cloud.piranha.extension/piranha-extension-webprofile@23.1.0?classifier=sources

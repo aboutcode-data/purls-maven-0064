@@ -180,6 +180,10 @@
 - pkg:maven/net.sourceforge.plantuml/plantuml@1.2022.7?classifier=sources
 - pkg:maven/net.sourceforge.plantuml/plantuml@1.2022.8
 - pkg:maven/net.sourceforge.plantuml/plantuml@1.2022.8?classifier=sources
+- pkg:maven/net.sourceforge.plantuml/plantuml@1.2023.0
+- pkg:maven/net.sourceforge.plantuml/plantuml@1.2023.0?classifier=sources
+- pkg:maven/net.sourceforge.plantuml/plantuml@1.2023.1
+- pkg:maven/net.sourceforge.plantuml/plantuml@1.2023.1?classifier=sources
 - pkg:maven/net.sourceforge.plantuml/plantuml@2017.08
 - pkg:maven/net.sourceforge.plantuml/plantuml@2017.08?classifier=sources
 - pkg:maven/net.sourceforge.plantuml/plantuml@2017.09

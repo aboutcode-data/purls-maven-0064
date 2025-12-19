@@ -7,4 +7,10 @@
 - pkg:maven/cn.org.opendfl/task-tool@1.3?classifier=sources
 - pkg:maven/cn.org.opendfl/task-tool@1.4
 - pkg:maven/cn.org.opendfl/task-tool@1.4?classifier=sources
+- pkg:maven/cn.org.opendfl/task-tool@1.6
+- pkg:maven/cn.org.opendfl/task-tool@1.6?classifier=sources
+- pkg:maven/cn.org.opendfl/task-tool@1.7
+- pkg:maven/cn.org.opendfl/task-tool@1.7?classifier=sources
+- pkg:maven/cn.org.opendfl/task-tool@1.8
+- pkg:maven/cn.org.opendfl/task-tool@1.8?classifier=sources
 - pkg:maven/cn.org.opendfl/task-tool@1?classifier=sources

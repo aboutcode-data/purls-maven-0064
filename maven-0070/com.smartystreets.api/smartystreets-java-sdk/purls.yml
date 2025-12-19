@@ -68,6 +68,10 @@
 - pkg:maven/com.smartystreets.api/smartystreets-java-sdk@3.12.9?classifier=sources
 - pkg:maven/com.smartystreets.api/smartystreets-java-sdk@3.13.0
 - pkg:maven/com.smartystreets.api/smartystreets-java-sdk@3.13.0?classifier=sources
+- pkg:maven/com.smartystreets.api/smartystreets-java-sdk@3.13.11
+- pkg:maven/com.smartystreets.api/smartystreets-java-sdk@3.13.11?classifier=sources
+- pkg:maven/com.smartystreets.api/smartystreets-java-sdk@3.13.12
+- pkg:maven/com.smartystreets.api/smartystreets-java-sdk@3.13.12?classifier=sources
 - pkg:maven/com.smartystreets.api/smartystreets-java-sdk@3.13.2
 - pkg:maven/com.smartystreets.api/smartystreets-java-sdk@3.13.2?classifier=sources
 - pkg:maven/com.smartystreets.api/smartystreets-java-sdk@3.13.3

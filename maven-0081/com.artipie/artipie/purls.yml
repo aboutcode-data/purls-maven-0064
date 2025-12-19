@@ -8,3 +8,5 @@
 - pkg:maven/com.artipie/artipie@0.2.4?classifier=sources
 - pkg:maven/com.artipie/artipie@v0.27.12
 - pkg:maven/com.artipie/artipie@v0.27.12?classifier=sources
+- pkg:maven/com.artipie/artipie@v0.28.0
+- pkg:maven/com.artipie/artipie@v0.28.0?classifier=sources

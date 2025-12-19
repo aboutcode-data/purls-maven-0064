@@ -2,3 +2,4 @@
 - pkg:maven/dk.danskebank.markets/event-router@1.1.0?classifier=sources
 - pkg:maven/dk.danskebank.markets/event-router@2.0.0?classifier=sources
 - pkg:maven/dk.danskebank.markets/event-router@2.0.1?classifier=sources
+- pkg:maven/dk.danskebank.markets/event-router@2.0.2?classifier=sources

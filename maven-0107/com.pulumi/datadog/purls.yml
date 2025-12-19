@@ -1,2 +1,8 @@
 - pkg:maven/com.pulumi/datadog@4.12.0-alpha.1666375300%2B95e1fada?classifier=sources
 - pkg:maven/com.pulumi/datadog@4.12.0?classifier=sources
+- pkg:maven/com.pulumi/datadog@4.13.0-alpha.1673372420%2Be744082c?classifier=sources
+- pkg:maven/com.pulumi/datadog@4.13.0?classifier=sources
+- pkg:maven/com.pulumi/datadog@4.14.0-alpha.1673416336%2Bac720b23?classifier=sources
+- pkg:maven/com.pulumi/datadog@4.14.0-alpha.1673555859%2B527e7162?classifier=sources
+- pkg:maven/com.pulumi/datadog@4.14.0-alpha.1674846756%2B081e202d?classifier=sources
+- pkg:maven/com.pulumi/datadog@4.14.0?classifier=sources

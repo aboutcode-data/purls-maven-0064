@@ -122,6 +122,7 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-component-archetype@13.1-rc-1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-component-archetype@13.10-rc-1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-component-archetype@13.10.10?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-component-archetype@13.10.11?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-component-archetype@13.10.1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-component-archetype@13.10.2?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-component-archetype@13.10.3?classifier=sources
@@ -160,6 +161,9 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-component-archetype@14.0?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-component-archetype@14.1-rc-1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-component-archetype@14.10.1?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-component-archetype@14.10.2?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-component-archetype@14.10.3?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-component-archetype@14.10.4?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-component-archetype@14.10?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-component-archetype@14.1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-component-archetype@14.2-rc-1?classifier=sources
@@ -186,6 +190,8 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-component-archetype@14.8?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-component-archetype@14.9-rc-1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-component-archetype@14.9?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-component-archetype@15.0-rc-1?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-component-archetype@15.0?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-component-archetype@3.3-milestone-1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-component-archetype@3.3-milestone-2?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-component-archetype@3.3-rc-1?classifier=sources

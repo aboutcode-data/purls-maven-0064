@@ -62,3 +62,7 @@
 - pkg:maven/org.rdlinux/ez-mybatis-spring-boot-start@0.3.1.RS?classifier=sources
 - pkg:maven/org.rdlinux/ez-mybatis-spring-boot-start@0.3.2.RS
 - pkg:maven/org.rdlinux/ez-mybatis-spring-boot-start@0.3.2.RS?classifier=sources
+- pkg:maven/org.rdlinux/ez-mybatis-spring-boot-start@0.3.3.RS
+- pkg:maven/org.rdlinux/ez-mybatis-spring-boot-start@0.3.3.RS?classifier=sources
+- pkg:maven/org.rdlinux/ez-mybatis-spring-boot-start@0.3.4.RS
+- pkg:maven/org.rdlinux/ez-mybatis-spring-boot-start@0.3.4.RS?classifier=sources

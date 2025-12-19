@@ -154,6 +154,9 @@
 - pkg:maven/com.liferay/com.liferay.map.taglib@2.0.25
 - pkg:maven/com.liferay/com.liferay.map.taglib@2.0.25?classifier=sources
 - pkg:maven/com.liferay/com.liferay.map.taglib@2.0.25?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.map.taglib@2.0.26
+- pkg:maven/com.liferay/com.liferay.map.taglib@2.0.26?classifier=sources
+- pkg:maven/com.liferay/com.liferay.map.taglib@2.0.26?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.map.taglib@2.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.map.taglib@2.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.map.taglib@2.0.3
@@ -229,6 +232,9 @@
 - pkg:maven/com.liferay/com.liferay.map.taglib@3.0.24
 - pkg:maven/com.liferay/com.liferay.map.taglib@3.0.24?classifier=sources
 - pkg:maven/com.liferay/com.liferay.map.taglib@3.0.24?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.map.taglib@3.0.25
+- pkg:maven/com.liferay/com.liferay.map.taglib@3.0.25?classifier=sources
+- pkg:maven/com.liferay/com.liferay.map.taglib@3.0.25?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.map.taglib@3.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.map.taglib@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.map.taglib@3.0.3
@@ -304,6 +310,12 @@
 - pkg:maven/com.liferay/com.liferay.map.taglib@4.0.24
 - pkg:maven/com.liferay/com.liferay.map.taglib@4.0.24?classifier=sources
 - pkg:maven/com.liferay/com.liferay.map.taglib@4.0.24?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.map.taglib@4.0.25
+- pkg:maven/com.liferay/com.liferay.map.taglib@4.0.25?classifier=sources
+- pkg:maven/com.liferay/com.liferay.map.taglib@4.0.25?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.map.taglib@4.0.26
+- pkg:maven/com.liferay/com.liferay.map.taglib@4.0.26?classifier=sources
+- pkg:maven/com.liferay/com.liferay.map.taglib@4.0.26?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.map.taglib@4.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.map.taglib@4.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.map.taglib@4.0.3
@@ -352,6 +364,9 @@
 - pkg:maven/com.liferay/com.liferay.map.taglib@5.0.16
 - pkg:maven/com.liferay/com.liferay.map.taglib@5.0.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.map.taglib@5.0.16?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.map.taglib@5.0.17
+- pkg:maven/com.liferay/com.liferay.map.taglib@5.0.17?classifier=sources
+- pkg:maven/com.liferay/com.liferay.map.taglib@5.0.17?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.map.taglib@5.0.18
 - pkg:maven/com.liferay/com.liferay.map.taglib@5.0.18?classifier=sources
 - pkg:maven/com.liferay/com.liferay.map.taglib@5.0.18?classifier=sources-commercial

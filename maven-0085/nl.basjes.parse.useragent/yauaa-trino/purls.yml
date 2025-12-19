@@ -8,6 +8,10 @@
 - pkg:maven/nl.basjes.parse.useragent/yauaa-trino@7.0.0?classifier=sources
 - pkg:maven/nl.basjes.parse.useragent/yauaa-trino@7.1.0
 - pkg:maven/nl.basjes.parse.useragent/yauaa-trino@7.1.0?classifier=sources
+- pkg:maven/nl.basjes.parse.useragent/yauaa-trino@7.10.0
+- pkg:maven/nl.basjes.parse.useragent/yauaa-trino@7.10.0?classifier=sources
+- pkg:maven/nl.basjes.parse.useragent/yauaa-trino@7.11.0
+- pkg:maven/nl.basjes.parse.useragent/yauaa-trino@7.11.0?classifier=sources
 - pkg:maven/nl.basjes.parse.useragent/yauaa-trino@7.2.0
 - pkg:maven/nl.basjes.parse.useragent/yauaa-trino@7.2.0?classifier=sources
 - pkg:maven/nl.basjes.parse.useragent/yauaa-trino@7.3.0

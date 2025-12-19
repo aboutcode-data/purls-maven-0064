@@ -1,0 +1,4 @@
+- pkg:maven/dev.i-whammy/outdated-maven-plugin@0.1.0
+- pkg:maven/dev.i-whammy/outdated-maven-plugin@0.1.0?classifier=sources
+- pkg:maven/dev.i-whammy/outdated-maven-plugin@1.0.0
+- pkg:maven/dev.i-whammy/outdated-maven-plugin@1.0.0?classifier=sources

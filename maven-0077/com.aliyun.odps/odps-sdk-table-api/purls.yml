@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun.odps/odps-sdk-table-api@0.43.0-table-api-public
+- pkg:maven/com.aliyun.odps/odps-sdk-table-api@0.43.0-table-api-public?classifier=sources

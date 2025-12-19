@@ -1,1 +1,2 @@
 - pkg:maven/dev.yorkie/yorkie-android@0.2.19-alpha.3?classifier=sources
+- pkg:maven/dev.yorkie/yorkie-android@0.2.19?classifier=sources

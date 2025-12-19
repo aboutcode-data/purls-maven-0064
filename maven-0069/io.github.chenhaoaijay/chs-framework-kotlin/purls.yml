@@ -7,3 +7,5 @@
 - pkg:maven/io.github.chenhaoaijay/chs-framework-kotlin@2.0.7?type=aar
 - pkg:maven/io.github.chenhaoaijay/chs-framework-kotlin@2.0.8?type=aar
 - pkg:maven/io.github.chenhaoaijay/chs-framework-kotlin@2.0?type=aar
+- pkg:maven/io.github.chenhaoaijay/chs-framework-kotlin@2.1.0?type=aar
+- pkg:maven/io.github.chenhaoaijay/chs-framework-kotlin@2.1.1?type=aar

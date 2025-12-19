@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/highlightjs__cdn-assets@11.4.0?classifier=sources
 - pkg:maven/org.webjars.npm/highlightjs__cdn-assets@11.6.0
 - pkg:maven/org.webjars.npm/highlightjs__cdn-assets@11.6.0?classifier=sources
+- pkg:maven/org.webjars.npm/highlightjs__cdn-assets@11.7.0
+- pkg:maven/org.webjars.npm/highlightjs__cdn-assets@11.7.0?classifier=sources

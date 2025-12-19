@@ -29,6 +29,7 @@
 - pkg:maven/org.eclipse.mylyn.docs/org.eclipse.mylyn.wikitext.tests@3.0.44.202211082139
 - pkg:maven/org.eclipse.mylyn.docs/org.eclipse.mylyn.wikitext.tests@3.0.45.202211090053
 - pkg:maven/org.eclipse.mylyn.docs/org.eclipse.mylyn.wikitext.tests@3.0.45.202211090110
+- pkg:maven/org.eclipse.mylyn.docs/org.eclipse.mylyn.wikitext.tests@3.0.46.202301111837
 - pkg:maven/org.eclipse.mylyn.docs/org.eclipse.mylyn.wikitext.tests@3.0.6
 - pkg:maven/org.eclipse.mylyn.docs/org.eclipse.mylyn.wikitext.tests@3.0.7
 - pkg:maven/org.eclipse.mylyn.docs/org.eclipse.mylyn.wikitext.tests@3.0.8

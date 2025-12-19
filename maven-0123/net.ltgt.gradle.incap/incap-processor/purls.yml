@@ -3,3 +3,4 @@
 - pkg:maven/net.ltgt.gradle.incap/incap-processor@0.2
 - pkg:maven/net.ltgt.gradle.incap/incap-processor@0.2?classifier=sources
 - pkg:maven/net.ltgt.gradle.incap/incap-processor@0.3?classifier=sources
+- pkg:maven/net.ltgt.gradle.incap/incap-processor@1.0.0?classifier=sources

@@ -150,6 +150,7 @@
 - pkg:maven/com.braintreepayments.api/data-collector@3.19.0?classifier=sources
 - pkg:maven/com.braintreepayments.api/data-collector@3.2.0?classifier=sources
 - pkg:maven/com.braintreepayments.api/data-collector@3.2.0?type=aar
+- pkg:maven/com.braintreepayments.api/data-collector@3.20.0?classifier=sources
 - pkg:maven/com.braintreepayments.api/data-collector@3.3.0?classifier=sources
 - pkg:maven/com.braintreepayments.api/data-collector@3.3.0?type=aar
 - pkg:maven/com.braintreepayments.api/data-collector@3.4.0?classifier=sources
@@ -193,6 +194,9 @@
 - pkg:maven/com.braintreepayments.api/data-collector@4.21.0?classifier=sources
 - pkg:maven/com.braintreepayments.api/data-collector@4.21.1?classifier=sources
 - pkg:maven/com.braintreepayments.api/data-collector@4.22.0?classifier=sources
+- pkg:maven/com.braintreepayments.api/data-collector@4.23.0?classifier=sources
+- pkg:maven/com.braintreepayments.api/data-collector@4.23.1?classifier=sources
+- pkg:maven/com.braintreepayments.api/data-collector@4.24.0?classifier=sources
 - pkg:maven/com.braintreepayments.api/data-collector@4.3.0?classifier=sources
 - pkg:maven/com.braintreepayments.api/data-collector@4.4.0?classifier=sources
 - pkg:maven/com.braintreepayments.api/data-collector@4.4.1?classifier=sources

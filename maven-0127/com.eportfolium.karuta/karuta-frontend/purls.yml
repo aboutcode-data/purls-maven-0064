@@ -33,3 +33,4 @@
 - pkg:maven/com.eportfolium.karuta/karuta-frontend@3.2.1?type=war
 - pkg:maven/com.eportfolium.karuta/karuta-frontend@3.2.2?classifier=sources
 - pkg:maven/com.eportfolium.karuta/karuta-frontend@3.2.2?type=war
+- pkg:maven/com.eportfolium.karuta/karuta-frontend@3.2.3?type=war

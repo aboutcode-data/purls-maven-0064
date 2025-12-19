@@ -8,6 +8,7 @@
 - pkg:maven/com.liferay.plugins/spi-admin-portlet@7.0.10.59?type=war
 - pkg:maven/com.liferay.plugins/spi-admin-portlet@7.0.10.60?type=war
 - pkg:maven/com.liferay.plugins/spi-admin-portlet@7.0.10.61?type=war
+- pkg:maven/com.liferay.plugins/spi-admin-portlet@7.0.10.62?type=war
 - pkg:maven/com.liferay.plugins/spi-admin-portlet@7.0.10.63?type=war
 - pkg:maven/com.liferay.plugins/spi-admin-portlet@7.0.10.64?type=war
 - pkg:maven/com.liferay.plugins/spi-admin-portlet@7.1.10.56?type=war

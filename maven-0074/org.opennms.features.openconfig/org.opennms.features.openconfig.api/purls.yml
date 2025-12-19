@@ -1,0 +1,2 @@
+- pkg:maven/org.opennms.features.openconfig/org.opennms.features.openconfig.api@31.0.3
+- pkg:maven/org.opennms.features.openconfig/org.opennms.features.openconfig.api@31.0.3?classifier=sources

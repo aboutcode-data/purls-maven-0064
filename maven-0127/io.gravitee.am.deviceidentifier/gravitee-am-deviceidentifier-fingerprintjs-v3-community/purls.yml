@@ -18,6 +18,8 @@
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-fingerprintjs-v3-community@3.15.13?classifier=sources
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-fingerprintjs-v3-community@3.15.14?classifier=sources
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-fingerprintjs-v3-community@3.15.15?classifier=sources
+- pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-fingerprintjs-v3-community@3.15.16?classifier=sources
+- pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-fingerprintjs-v3-community@3.15.17?classifier=sources
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-fingerprintjs-v3-community@3.15.1?classifier=sources
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-fingerprintjs-v3-community@3.15.2?classifier=sources
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-fingerprintjs-v3-community@3.15.3?classifier=sources
@@ -43,6 +45,8 @@
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-fingerprintjs-v3-community@3.18.11?classifier=sources
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-fingerprintjs-v3-community@3.18.12?classifier=sources
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-fingerprintjs-v3-community@3.18.13?classifier=sources
+- pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-fingerprintjs-v3-community@3.18.14?classifier=sources
+- pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-fingerprintjs-v3-community@3.18.15?classifier=sources
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-fingerprintjs-v3-community@3.18.1?classifier=sources
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-fingerprintjs-v3-community@3.18.2?classifier=sources
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-fingerprintjs-v3-community@3.18.3?classifier=sources
@@ -57,4 +61,8 @@
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-fingerprintjs-v3-community@3.19.1?classifier=sources
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-fingerprintjs-v3-community@3.19.2?classifier=sources
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-fingerprintjs-v3-community@3.19.3?classifier=sources
+- pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-fingerprintjs-v3-community@3.19.4?classifier=sources
+- pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-fingerprintjs-v3-community@3.19.5?classifier=sources
 - pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-fingerprintjs-v3-community@3.20.0-alpha.1?classifier=sources
+- pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-fingerprintjs-v3-community@3.20.0-alpha.2?classifier=sources
+- pkg:maven/io.gravitee.am.deviceidentifier/gravitee-am-deviceidentifier-fingerprintjs-v3-community@3.20.0?classifier=sources

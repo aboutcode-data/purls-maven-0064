@@ -73,6 +73,8 @@
 - pkg:maven/de.ruedigermoeller/service-support@5.1.0?classifier=sources
 - pkg:maven/de.ruedigermoeller/service-support@5.1.10?classifier=sources
 - pkg:maven/de.ruedigermoeller/service-support@5.1.12?classifier=sources
+- pkg:maven/de.ruedigermoeller/service-support@5.1.13?classifier=sources
+- pkg:maven/de.ruedigermoeller/service-support@5.1.14?classifier=sources
 - pkg:maven/de.ruedigermoeller/service-support@5.1.2?classifier=sources
 - pkg:maven/de.ruedigermoeller/service-support@5.1.4?classifier=sources
 - pkg:maven/de.ruedigermoeller/service-support@5.1.5?classifier=sources

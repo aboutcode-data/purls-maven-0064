@@ -10,3 +10,4 @@
 - pkg:maven/org.apache.solr/solr-s3-repository@8.11.2?classifier=sources
 - pkg:maven/org.apache.solr/solr-s3-repository@9.0.0?classifier=sources
 - pkg:maven/org.apache.solr/solr-s3-repository@9.1.0?classifier=sources
+- pkg:maven/org.apache.solr/solr-s3-repository@9.1.1?classifier=sources

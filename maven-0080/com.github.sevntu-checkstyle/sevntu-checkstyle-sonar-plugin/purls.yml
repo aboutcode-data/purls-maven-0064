@@ -23,3 +23,4 @@
 - pkg:maven/com.github.sevntu-checkstyle/sevntu-checkstyle-sonar-plugin@1.42.0?classifier=sources
 - pkg:maven/com.github.sevntu-checkstyle/sevntu-checkstyle-sonar-plugin@1.43.0?classifier=sources
 - pkg:maven/com.github.sevntu-checkstyle/sevntu-checkstyle-sonar-plugin@1.44.0?classifier=sources
+- pkg:maven/com.github.sevntu-checkstyle/sevntu-checkstyle-sonar-plugin@1.44.1?classifier=sources

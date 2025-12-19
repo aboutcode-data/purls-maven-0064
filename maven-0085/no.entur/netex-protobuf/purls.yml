@@ -7,6 +7,8 @@
 - pkg:maven/no.entur/netex-protobuf@1.10
 - pkg:maven/no.entur/netex-protobuf@1.100
 - pkg:maven/no.entur/netex-protobuf@1.101
+- pkg:maven/no.entur/netex-protobuf@1.102
+- pkg:maven/no.entur/netex-protobuf@1.103
 - pkg:maven/no.entur/netex-protobuf@1.11
 - pkg:maven/no.entur/netex-protobuf@1.12
 - pkg:maven/no.entur/netex-protobuf@1.13

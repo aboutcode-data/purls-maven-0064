@@ -41,6 +41,7 @@
 - pkg:maven/uk.co.real-logic/artio-binary-entrypoint-codecs@0.136?classifier=sources
 - pkg:maven/uk.co.real-logic/artio-binary-entrypoint-codecs@0.137?classifier=sources
 - pkg:maven/uk.co.real-logic/artio-binary-entrypoint-codecs@0.138?classifier=sources
+- pkg:maven/uk.co.real-logic/artio-binary-entrypoint-codecs@0.139?classifier=sources
 - pkg:maven/uk.co.real-logic/artio-binary-entrypoint-codecs@0.90?classifier=sources
 - pkg:maven/uk.co.real-logic/artio-binary-entrypoint-codecs@0.91?classifier=sources
 - pkg:maven/uk.co.real-logic/artio-binary-entrypoint-codecs@0.92?classifier=sources

@@ -20,6 +20,8 @@
 - pkg:maven/org.glassfish.jersey.ext/jersey-spring5@2.36?classifier=sources
 - pkg:maven/org.glassfish.jersey.ext/jersey-spring5@2.37
 - pkg:maven/org.glassfish.jersey.ext/jersey-spring5@2.37?classifier=sources
+- pkg:maven/org.glassfish.jersey.ext/jersey-spring5@2.38
+- pkg:maven/org.glassfish.jersey.ext/jersey-spring5@2.38?classifier=sources
 - pkg:maven/org.glassfish.jersey.ext/jersey-spring5@3.0.0-M1
 - pkg:maven/org.glassfish.jersey.ext/jersey-spring5@3.0.0-M1?classifier=sources
 - pkg:maven/org.glassfish.jersey.ext/jersey-spring5@3.0.0-M6

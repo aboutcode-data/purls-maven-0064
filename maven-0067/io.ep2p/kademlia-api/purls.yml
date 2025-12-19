@@ -70,3 +70,13 @@
 - pkg:maven/io.ep2p/kademlia-api@4.1.8-RELEASE?classifier=sources
 - pkg:maven/io.ep2p/kademlia-api@4.1.9-RELEASE
 - pkg:maven/io.ep2p/kademlia-api@4.1.9-RELEASE?classifier=sources
+- pkg:maven/io.ep2p/kademlia-api@5.0.0-RELEASE
+- pkg:maven/io.ep2p/kademlia-api@5.0.0-RELEASE?classifier=sources
+- pkg:maven/io.ep2p/kademlia-api@5.0.1-RELEASE
+- pkg:maven/io.ep2p/kademlia-api@5.0.1-RELEASE?classifier=sources
+- pkg:maven/io.ep2p/kademlia-api@5.0.2-RELEASE
+- pkg:maven/io.ep2p/kademlia-api@5.0.2-RELEASE?classifier=sources
+- pkg:maven/io.ep2p/kademlia-api@5.1.0-RELEASE
+- pkg:maven/io.ep2p/kademlia-api@5.1.0-RELEASE?classifier=sources
+- pkg:maven/io.ep2p/kademlia-api@5.1.1-RELEASE
+- pkg:maven/io.ep2p/kademlia-api@5.1.1-RELEASE?classifier=sources

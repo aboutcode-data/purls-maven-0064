@@ -13,3 +13,6 @@
 - pkg:maven/com.infobip/google-webrtc@1.0.38790?type=aar
 - pkg:maven/com.infobip/google-webrtc@1.0.38791?type=aar
 - pkg:maven/com.infobip/google-webrtc@1.0.38792?type=aar
+- pkg:maven/com.infobip/google-webrtc@1.0.39061?type=aar
+- pkg:maven/com.infobip/google-webrtc@1.0.39061d?type=aar
+- pkg:maven/com.infobip/google-webrtc@1.0.39079?type=aar

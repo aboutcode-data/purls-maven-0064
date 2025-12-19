@@ -1,1 +1,2 @@
 - pkg:maven/com.exasol/exasol-jdbc@7.1.16?classifier=sources
+- pkg:maven/com.exasol/exasol-jdbc@7.1.17?classifier=sources

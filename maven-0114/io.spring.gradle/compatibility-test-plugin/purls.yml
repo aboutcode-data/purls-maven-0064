@@ -1,0 +1,1 @@
+- pkg:maven/io.spring.gradle/compatibility-test-plugin@0.0.2?classifier=sources

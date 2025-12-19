@@ -12,3 +12,5 @@
 - pkg:maven/io.github.jas34/scheduled-mysql-persistence@1.2.2?classifier=sources
 - pkg:maven/io.github.jas34/scheduled-mysql-persistence@2.0.0
 - pkg:maven/io.github.jas34/scheduled-mysql-persistence@2.0.0?classifier=sources
+- pkg:maven/io.github.jas34/scheduled-mysql-persistence@v2.0.1
+- pkg:maven/io.github.jas34/scheduled-mysql-persistence@v2.0.1?classifier=sources

@@ -8,3 +8,4 @@
 - pkg:maven/com.adobe.marketing.mobile/lifecycle@1.0.8?type=aar
 - pkg:maven/com.adobe.marketing.mobile/lifecycle@1.1.0?type=aar
 - pkg:maven/com.adobe.marketing.mobile/lifecycle@1.1.1?type=aar
+- pkg:maven/com.adobe.marketing.mobile/lifecycle@1.1.2?type=aar

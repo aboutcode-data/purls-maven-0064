@@ -36,6 +36,10 @@
 - pkg:maven/io.ably/ably-android@1.2.20?type=aar
 - pkg:maven/io.ably/ably-android@1.2.21?classifier=sources
 - pkg:maven/io.ably/ably-android@1.2.21?type=aar
+- pkg:maven/io.ably/ably-android@1.2.22?classifier=sources
+- pkg:maven/io.ably/ably-android@1.2.22?type=aar
+- pkg:maven/io.ably/ably-android@1.2.23?classifier=sources
+- pkg:maven/io.ably/ably-android@1.2.23?type=aar
 - pkg:maven/io.ably/ably-android@1.2.2?classifier=sources
 - pkg:maven/io.ably/ably-android@1.2.2?type=aar
 - pkg:maven/io.ably/ably-android@1.2.3?classifier=sources

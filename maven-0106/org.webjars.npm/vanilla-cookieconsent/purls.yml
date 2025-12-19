@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/vanilla-cookieconsent@2.8.9
+- pkg:maven/org.webjars.npm/vanilla-cookieconsent@2.8.9?classifier=sources

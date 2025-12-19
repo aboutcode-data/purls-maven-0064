@@ -2,4 +2,15 @@
 - pkg:maven/com.pulumi/tls@4.7.0-alpha.1662043469%2Bcfb5fa94?classifier=sources
 - pkg:maven/com.pulumi/tls@4.7.0-alpha.1663282617%2Bc2b2da70?classifier=sources
 - pkg:maven/com.pulumi/tls@4.7.0-alpha.1663343800%2B3f8b12c6?classifier=sources
+- pkg:maven/com.pulumi/tls@4.7.0-alpha.1671746594%2B37348708?classifier=sources
+- pkg:maven/com.pulumi/tls@4.7.0-alpha.1672775852%2B13916ed0?classifier=sources
+- pkg:maven/com.pulumi/tls@4.7.0-alpha.1672866643%2Bd1406993?classifier=sources
+- pkg:maven/com.pulumi/tls@4.7.0-alpha.1672867366%2B3e0a229b?classifier=sources
+- pkg:maven/com.pulumi/tls@4.7.0-alpha.1673036557%2Bbe790d36?classifier=sources
+- pkg:maven/com.pulumi/tls@4.7.0-alpha.1673556398%2B262da4ba?classifier=sources
+- pkg:maven/com.pulumi/tls@4.7.0-alpha.1674768909%2Bb63f5b55?classifier=sources
+- pkg:maven/com.pulumi/tls@4.7.0-alpha.1674773193%2Bf959fc1f?classifier=sources
+- pkg:maven/com.pulumi/tls@4.7.0?classifier=sources
+- pkg:maven/com.pulumi/tls@4.8.0-alpha.1674847859%2B710ca655?classifier=sources
+- pkg:maven/com.pulumi/tls@4.8.0?classifier=sources
 - pkg:maven/com.pulumi/tls@v4.7.0-alpha.1657285216%2B364315ad?classifier=sources

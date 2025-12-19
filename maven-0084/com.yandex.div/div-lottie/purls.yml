@@ -8,6 +8,7 @@
 - pkg:maven/com.yandex.div/div-lottie@17.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div-lottie@18.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div-lottie@19.0.0?classifier=sources
+- pkg:maven/com.yandex.div/div-lottie@20.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div-lottie@5.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div-lottie@6.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div-lottie@7.0.0?classifier=sources

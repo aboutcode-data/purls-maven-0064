@@ -2,3 +2,7 @@
 - pkg:maven/icu.xuyijie/Base64Utils@1.0.0?classifier=sources
 - pkg:maven/icu.xuyijie/Base64Utils@1.1.0
 - pkg:maven/icu.xuyijie/Base64Utils@1.1.0?classifier=sources
+- pkg:maven/icu.xuyijie/Base64Utils@1.2.0
+- pkg:maven/icu.xuyijie/Base64Utils@1.2.0?classifier=sources
+- pkg:maven/icu.xuyijie/Base64Utils@1.2.1
+- pkg:maven/icu.xuyijie/Base64Utils@1.2.1?classifier=sources

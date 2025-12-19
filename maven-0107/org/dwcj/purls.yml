@@ -1,0 +1,2 @@
+- pkg:maven/org/dwcj@0.010alpha
+- pkg:maven/org/dwcj@0.010alpha?classifier=sources

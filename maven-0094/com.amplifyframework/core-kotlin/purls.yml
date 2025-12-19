@@ -96,6 +96,12 @@
 - pkg:maven/com.amplifyframework/core-kotlin@0.21.0?type=aar
 - pkg:maven/com.amplifyframework/core-kotlin@0.21.10?classifier=sources
 - pkg:maven/com.amplifyframework/core-kotlin@0.21.10?type=aar
+- pkg:maven/com.amplifyframework/core-kotlin@0.21.11?classifier=sources
+- pkg:maven/com.amplifyframework/core-kotlin@0.21.11?type=aar
+- pkg:maven/com.amplifyframework/core-kotlin@0.21.12?classifier=sources
+- pkg:maven/com.amplifyframework/core-kotlin@0.21.12?type=aar
+- pkg:maven/com.amplifyframework/core-kotlin@0.21.13?classifier=sources
+- pkg:maven/com.amplifyframework/core-kotlin@0.21.13?type=aar
 - pkg:maven/com.amplifyframework/core-kotlin@0.21.1?classifier=sources
 - pkg:maven/com.amplifyframework/core-kotlin@0.21.1?type=aar
 - pkg:maven/com.amplifyframework/core-kotlin@0.21.2?classifier=sources
