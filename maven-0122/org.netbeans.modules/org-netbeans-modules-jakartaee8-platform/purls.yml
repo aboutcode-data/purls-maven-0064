@@ -8,3 +8,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-jakartaee8-platform@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-jakartaee8-platform@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-jakartaee8-platform@RELEASE160?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-jakartaee8-platform@RELEASE170?classifier=sources

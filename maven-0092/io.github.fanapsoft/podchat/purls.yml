@@ -2,3 +2,4 @@
 - pkg:maven/io.github.fanapsoft/podchat@0.9.20.0-light?type=aar
 - pkg:maven/io.github.fanapsoft/podchat@0.9.20.1-light?type=aar
 - pkg:maven/io.github.fanapsoft/podchat@0.9.21.0-light?type=aar
+- pkg:maven/io.github.fanapsoft/podchat@0.9.22.0-light?type=aar

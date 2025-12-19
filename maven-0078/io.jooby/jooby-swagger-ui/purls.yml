@@ -9,6 +9,7 @@
 - pkg:maven/io.jooby/jooby-swagger-ui@2.15.1
 - pkg:maven/io.jooby/jooby-swagger-ui@2.16.0
 - pkg:maven/io.jooby/jooby-swagger-ui@2.16.1
+- pkg:maven/io.jooby/jooby-swagger-ui@2.16.2
 - pkg:maven/io.jooby/jooby-swagger-ui@2.7.0
 - pkg:maven/io.jooby/jooby-swagger-ui@2.7.1
 - pkg:maven/io.jooby/jooby-swagger-ui@2.7.2
@@ -33,3 +34,5 @@
 - pkg:maven/io.jooby/jooby-swagger-ui@2.9.6
 - pkg:maven/io.jooby/jooby-swagger-ui@3.0.0.M1
 - pkg:maven/io.jooby/jooby-swagger-ui@3.0.0.M2
+- pkg:maven/io.jooby/jooby-swagger-ui@3.0.0.M3
+- pkg:maven/io.jooby/jooby-swagger-ui@3.0.0.M4

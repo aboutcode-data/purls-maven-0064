@@ -2,6 +2,14 @@
 - pkg:maven/org.choco-solver/examples@4.10.10?classifier=sources
 - pkg:maven/org.choco-solver/examples@4.10.10?classifier=src&type=tar.gz
 - pkg:maven/org.choco-solver/examples@4.10.10?classifier=src&type=zip
+- pkg:maven/org.choco-solver/examples@4.10.11
+- pkg:maven/org.choco-solver/examples@4.10.11?classifier=sources
+- pkg:maven/org.choco-solver/examples@4.10.11?classifier=src&type=tar.gz
+- pkg:maven/org.choco-solver/examples@4.10.11?classifier=src&type=zip
+- pkg:maven/org.choco-solver/examples@4.10.12
+- pkg:maven/org.choco-solver/examples@4.10.12?classifier=sources
+- pkg:maven/org.choco-solver/examples@4.10.12?classifier=src&type=tar.gz
+- pkg:maven/org.choco-solver/examples@4.10.12?classifier=src&type=zip
 - pkg:maven/org.choco-solver/examples@4.10.3
 - pkg:maven/org.choco-solver/examples@4.10.3?classifier=sources
 - pkg:maven/org.choco-solver/examples@4.10.3?classifier=src&type=tar.gz

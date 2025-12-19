@@ -124,6 +124,9 @@
 - pkg:maven/com.liferay/com.liferay.staging.taglib@3.1.46
 - pkg:maven/com.liferay/com.liferay.staging.taglib@3.1.46?classifier=sources
 - pkg:maven/com.liferay/com.liferay.staging.taglib@3.1.46?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.staging.taglib@3.1.47
+- pkg:maven/com.liferay/com.liferay.staging.taglib@3.1.47?classifier=sources
+- pkg:maven/com.liferay/com.liferay.staging.taglib@3.1.47?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.staging.taglib@3.1.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.staging.taglib@3.1.5
 - pkg:maven/com.liferay/com.liferay.staging.taglib@3.1.5?classifier=sources
@@ -607,6 +610,15 @@
 - pkg:maven/com.liferay/com.liferay.staging.taglib@7.0.32
 - pkg:maven/com.liferay/com.liferay.staging.taglib@7.0.32?classifier=sources
 - pkg:maven/com.liferay/com.liferay.staging.taglib@7.0.32?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.staging.taglib@7.0.33
+- pkg:maven/com.liferay/com.liferay.staging.taglib@7.0.33?classifier=sources
+- pkg:maven/com.liferay/com.liferay.staging.taglib@7.0.33?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.staging.taglib@7.0.34
+- pkg:maven/com.liferay/com.liferay.staging.taglib@7.0.34?classifier=sources
+- pkg:maven/com.liferay/com.liferay.staging.taglib@7.0.34?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.staging.taglib@7.0.35
+- pkg:maven/com.liferay/com.liferay.staging.taglib@7.0.35?classifier=sources
+- pkg:maven/com.liferay/com.liferay.staging.taglib@7.0.35?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.staging.taglib@7.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.staging.taglib@7.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.staging.taglib@7.0.4

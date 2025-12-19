@@ -2,3 +2,5 @@
 - pkg:maven/io.github.pckhoi.keycloak/webhook@19.0.1.1?classifier=sources
 - pkg:maven/io.github.pckhoi.keycloak/webhook@19.0.2.1
 - pkg:maven/io.github.pckhoi.keycloak/webhook@19.0.2.1?classifier=sources
+- pkg:maven/io.github.pckhoi.keycloak/webhook@20.0.3.1
+- pkg:maven/io.github.pckhoi.keycloak/webhook@20.0.3.1?classifier=sources

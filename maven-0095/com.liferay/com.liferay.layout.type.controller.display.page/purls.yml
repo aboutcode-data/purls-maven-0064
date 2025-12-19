@@ -278,6 +278,9 @@
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.display.page@2.0.41
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.display.page@2.0.41?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.display.page@2.0.41?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.display.page@2.0.42
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.display.page@2.0.42?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.display.page@2.0.42?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.display.page@2.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.display.page@2.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.display.page@2.0.5
@@ -368,6 +371,12 @@
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.display.page@3.0.30
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.display.page@3.0.30?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.display.page@3.0.30?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.display.page@3.0.31
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.display.page@3.0.31?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.display.page@3.0.31?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.display.page@3.0.32
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.display.page@3.0.32?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.display.page@3.0.32?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.display.page@3.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.display.page@3.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.display.page@3.0.4

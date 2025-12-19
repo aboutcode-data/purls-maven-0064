@@ -5,3 +5,4 @@
 - pkg:maven/org.opensearch.dataprepper/data-prepper-api@1.5.2?classifier=sources
 - pkg:maven/org.opensearch.dataprepper/data-prepper-api@2.0.0?classifier=sources
 - pkg:maven/org.opensearch.dataprepper/data-prepper-api@2.0.1?classifier=sources
+- pkg:maven/org.opensearch.dataprepper/data-prepper-api@2.1.0?classifier=sources

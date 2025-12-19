@@ -1,2 +1,3 @@
 - pkg:maven/com.epam.wilma/wilma-service-api@2.0.451
 - pkg:maven/com.epam.wilma/wilma-service-api@2.0.451?classifier=sources
+- pkg:maven/com.epam.wilma/wilma-service-api@2.5.493?classifier=sources

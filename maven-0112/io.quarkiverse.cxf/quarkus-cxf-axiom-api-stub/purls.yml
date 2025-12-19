@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.cxf/quarkus-cxf-axiom-api-stub@2.0.0.Alpha1
+- pkg:maven/io.quarkiverse.cxf/quarkus-cxf-axiom-api-stub@2.0.0.Alpha1?classifier=sources

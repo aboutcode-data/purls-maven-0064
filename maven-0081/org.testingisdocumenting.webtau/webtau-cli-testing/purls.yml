@@ -29,3 +29,4 @@
 - pkg:maven/org.testingisdocumenting.webtau/webtau-cli-testing@1.48
 - pkg:maven/org.testingisdocumenting.webtau/webtau-cli-testing@1.49
 - pkg:maven/org.testingisdocumenting.webtau/webtau-cli-testing@1.50
+- pkg:maven/org.testingisdocumenting.webtau/webtau-cli-testing@1.51

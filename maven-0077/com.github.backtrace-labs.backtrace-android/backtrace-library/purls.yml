@@ -50,3 +50,5 @@
 - pkg:maven/com.github.backtrace-labs.backtrace-android/backtrace-library@3.7.4?classifier=sources
 - pkg:maven/com.github.backtrace-labs.backtrace-android/backtrace-library@3.7.5-rc1?classifier=sources
 - pkg:maven/com.github.backtrace-labs.backtrace-android/backtrace-library@3.7.5-rc2?classifier=sources
+- pkg:maven/com.github.backtrace-labs.backtrace-android/backtrace-library@3.7.5-rc3?classifier=sources
+- pkg:maven/com.github.backtrace-labs.backtrace-android/backtrace-library@3.7.5?classifier=sources

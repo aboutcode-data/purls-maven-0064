@@ -1,0 +1,2 @@
+- pkg:maven/org.infrastructurebuilder/ibcore-read-detect-model@0.20.0
+- pkg:maven/org.infrastructurebuilder/ibcore-read-detect-model@0.20.0?classifier=sources

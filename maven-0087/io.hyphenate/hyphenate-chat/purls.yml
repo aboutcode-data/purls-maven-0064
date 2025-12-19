@@ -58,6 +58,8 @@
 - pkg:maven/io.hyphenate/hyphenate-chat@3.9.4.1?type=aar
 - pkg:maven/io.hyphenate/hyphenate-chat@3.9.4.2?classifier=sources
 - pkg:maven/io.hyphenate/hyphenate-chat@3.9.4.2?type=aar
+- pkg:maven/io.hyphenate/hyphenate-chat@3.9.4.3?classifier=sources
+- pkg:maven/io.hyphenate/hyphenate-chat@3.9.4.3?type=aar
 - pkg:maven/io.hyphenate/hyphenate-chat@3.9.4?classifier=sources
 - pkg:maven/io.hyphenate/hyphenate-chat@3.9.4?type=aar
 - pkg:maven/io.hyphenate/hyphenate-chat@3.9.5.1?classifier=sources
@@ -77,5 +79,9 @@
 - pkg:maven/io.hyphenate/hyphenate-chat@3.9.7?type=aar
 - pkg:maven/io.hyphenate/hyphenate-chat@3.9.8?classifier=sources
 - pkg:maven/io.hyphenate/hyphenate-chat@3.9.8?type=aar
+- pkg:maven/io.hyphenate/hyphenate-chat@3.9.9.2?classifier=sources
+- pkg:maven/io.hyphenate/hyphenate-chat@3.9.9.2?type=aar
 - pkg:maven/io.hyphenate/hyphenate-chat@3.9.9?classifier=sources
 - pkg:maven/io.hyphenate/hyphenate-chat@3.9.9?type=aar
+- pkg:maven/io.hyphenate/hyphenate-chat@4.0.0?classifier=sources
+- pkg:maven/io.hyphenate/hyphenate-chat@4.0.0?type=aar

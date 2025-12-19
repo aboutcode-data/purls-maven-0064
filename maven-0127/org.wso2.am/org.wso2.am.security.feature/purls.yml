@@ -1,1 +1,2 @@
+- pkg:maven/org.wso2.am/org.wso2.am.security.feature@4.2.0-beta?classifier=sources
 - pkg:maven/org.wso2.am/org.wso2.am.security.feature@4.2.0-m1?classifier=sources

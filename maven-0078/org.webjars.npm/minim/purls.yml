@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/minim@0.23.8
+- pkg:maven/org.webjars.npm/minim@0.23.8?classifier=sources

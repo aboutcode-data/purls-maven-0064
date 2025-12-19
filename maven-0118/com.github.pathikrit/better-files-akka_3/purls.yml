@@ -1,0 +1,2 @@
+- pkg:maven/com.github.pathikrit/better-files-akka_3@3.9.2
+- pkg:maven/com.github.pathikrit/better-files-akka_3@3.9.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.knaw-huc/annorepo-client@0.3.7
+- pkg:maven/io.github.knaw-huc/annorepo-client@0.3.7?classifier=sources

@@ -16,4 +16,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-project-spi-intern-impl@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-project-spi-intern-impl@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-project-spi-intern-impl@RELEASE160?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-project-spi-intern-impl@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-project-spi-intern-impl@RELEASE90?classifier=sources

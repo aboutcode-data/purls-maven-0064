@@ -22,6 +22,12 @@
 - pkg:maven/io.dataease/dataease-plugin-view@1.18.0?classifier=sources
 - pkg:maven/io.dataease/dataease-plugin-view@1.18.1
 - pkg:maven/io.dataease/dataease-plugin-view@1.18.1?classifier=sources
+- pkg:maven/io.dataease/dataease-plugin-view@1.18.2
+- pkg:maven/io.dataease/dataease-plugin-view@1.18.2?classifier=sources
+- pkg:maven/io.dataease/dataease-plugin-view@1.18.3
+- pkg:maven/io.dataease/dataease-plugin-view@1.18.3?classifier=sources
+- pkg:maven/io.dataease/dataease-plugin-view@1.18.4
+- pkg:maven/io.dataease/dataease-plugin-view@1.18.4?classifier=sources
 - pkg:maven/io.dataease/dataease-plugin-view@1.8.0
 - pkg:maven/io.dataease/dataease-plugin-view@1.8.0?classifier=sources
 - pkg:maven/io.dataease/dataease-plugin-view@1.9.0

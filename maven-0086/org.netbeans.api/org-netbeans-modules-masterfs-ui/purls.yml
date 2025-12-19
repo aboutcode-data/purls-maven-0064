@@ -16,4 +16,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-masterfs-ui@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-masterfs-ui@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-masterfs-ui@RELEASE160?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-masterfs-ui@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-masterfs-ui@RELEASE90?classifier=sources

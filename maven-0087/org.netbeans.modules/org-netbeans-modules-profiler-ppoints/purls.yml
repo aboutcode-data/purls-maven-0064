@@ -16,4 +16,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-ppoints@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-ppoints@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-ppoints@RELEASE160?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-ppoints@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-ppoints@RELEASE90?classifier=sources

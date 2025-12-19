@@ -1,2 +1,4 @@
+- pkg:maven/com.raxdenstudios/commons-core@4.37.0?classifier=sources
+- pkg:maven/com.raxdenstudios/commons-core@4.41.0?classifier=sources
 - pkg:maven/com.raxdenstudios/commons-core@4.5.0?classifier=sources
 - pkg:maven/com.raxdenstudios/commons-core@4.6.0?classifier=sources

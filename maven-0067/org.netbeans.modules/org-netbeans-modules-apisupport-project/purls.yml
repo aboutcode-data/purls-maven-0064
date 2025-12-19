@@ -16,4 +16,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-apisupport-project@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-apisupport-project@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-apisupport-project@RELEASE160?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-apisupport-project@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-apisupport-project@RELEASE90?classifier=sources

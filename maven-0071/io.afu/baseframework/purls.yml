@@ -26,6 +26,8 @@
 - pkg:maven/io.afu/baseframework@1.1.8?classifier=sources
 - pkg:maven/io.afu/baseframework@1.1.9
 - pkg:maven/io.afu/baseframework@1.1.9?classifier=sources
+- pkg:maven/io.afu/baseframework@1.2.0
+- pkg:maven/io.afu/baseframework@1.2.0?classifier=sources
 - pkg:maven/io.afu/baseframework@wd-1.1.0
 - pkg:maven/io.afu/baseframework@wd-1.1.0?classifier=sources
 - pkg:maven/io.afu/baseframework@wd-1.1.1

@@ -323,5 +323,10 @@
 - pkg:maven/com.palantir.conjure.java/conjure-java-undertow-runtime@6.68.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java/conjure-java-undertow-runtime@6.69.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java/conjure-java-undertow-runtime@6.7.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java/conjure-java-undertow-runtime@6.70.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java/conjure-java-undertow-runtime@6.71.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java/conjure-java-undertow-runtime@6.72.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java/conjure-java-undertow-runtime@6.73.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java/conjure-java-undertow-runtime@6.74.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java/conjure-java-undertow-runtime@6.8.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java/conjure-java-undertow-runtime@6.9.0?classifier=sources

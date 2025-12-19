@@ -8,3 +8,5 @@
 - pkg:maven/wtf.metio.memoization/memoization-jool@2022.12.6?classifier=sources
 - pkg:maven/wtf.metio.memoization/memoization-jool@2023.1.10
 - pkg:maven/wtf.metio.memoization/memoization-jool@2023.1.10?classifier=sources
+- pkg:maven/wtf.metio.memoization/memoization-jool@2023.2.14
+- pkg:maven/wtf.metio.memoization/memoization-jool@2023.2.14?classifier=sources

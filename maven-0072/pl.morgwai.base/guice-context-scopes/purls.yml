@@ -42,3 +42,5 @@
 - pkg:maven/pl.morgwai.base/guice-context-scopes@6.3?classifier=sources
 - pkg:maven/pl.morgwai.base/guice-context-scopes@6.4
 - pkg:maven/pl.morgwai.base/guice-context-scopes@6.4?classifier=sources
+- pkg:maven/pl.morgwai.base/guice-context-scopes@6.5
+- pkg:maven/pl.morgwai.base/guice-context-scopes@6.5?classifier=sources

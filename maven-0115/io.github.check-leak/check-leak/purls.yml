@@ -1,0 +1,2 @@
+- pkg:maven/io.github.check-leak/check-leak@0.8
+- pkg:maven/io.github.check-leak/check-leak@0.8?classifier=sources

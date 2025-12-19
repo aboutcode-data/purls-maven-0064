@@ -16,3 +16,5 @@
 - pkg:maven/org.myguide/player@2.2.1?type=aar
 - pkg:maven/org.myguide/player@2.2.2?classifier=sources
 - pkg:maven/org.myguide/player@2.2.2?type=aar
+- pkg:maven/org.myguide/player@2.3.0?classifier=sources
+- pkg:maven/org.myguide/player@2.3.0?type=aar

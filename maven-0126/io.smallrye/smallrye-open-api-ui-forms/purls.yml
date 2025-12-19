@@ -59,3 +59,4 @@
 - pkg:maven/io.smallrye/smallrye-open-api-ui-forms@3.1.0-RC5
 - pkg:maven/io.smallrye/smallrye-open-api-ui-forms@3.1.1
 - pkg:maven/io.smallrye/smallrye-open-api-ui-forms@3.1.2
+- pkg:maven/io.smallrye/smallrye-open-api-ui-forms@3.2.0

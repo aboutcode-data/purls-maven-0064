@@ -4,6 +4,7 @@
 - pkg:maven/com.exactpro.th2/grpc-act-template@3.1.1?classifier=sources
 - pkg:maven/com.exactpro.th2/grpc-act-template@3.1.2?classifier=sources
 - pkg:maven/com.exactpro.th2/grpc-act-template@3.10.0?classifier=sources
+- pkg:maven/com.exactpro.th2/grpc-act-template@3.11.0?classifier=sources
 - pkg:maven/com.exactpro.th2/grpc-act-template@3.2.0?classifier=sources
 - pkg:maven/com.exactpro.th2/grpc-act-template@3.3.0?classifier=sources
 - pkg:maven/com.exactpro.th2/grpc-act-template@3.4.0?classifier=sources

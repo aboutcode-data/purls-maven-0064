@@ -2,3 +2,5 @@
 - pkg:maven/org.cleartk/cleartk-corpus@0.8.0?classifier=sources
 - pkg:maven/org.cleartk/cleartk-corpus@2.0.0
 - pkg:maven/org.cleartk/cleartk-corpus@2.0.0?classifier=sources
+- pkg:maven/org.cleartk/cleartk-corpus@3.0.0
+- pkg:maven/org.cleartk/cleartk-corpus@3.0.0?classifier=sources

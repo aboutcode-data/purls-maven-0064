@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/tsconfig__node16@1.0.3
+- pkg:maven/org.webjars.npm/tsconfig__node16@1.0.3?classifier=sources

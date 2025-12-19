@@ -226,10 +226,14 @@
 - pkg:maven/org.http4k/http4k-serverless-openwhisk@4.35.4.0?classifier=sources
 - pkg:maven/org.http4k/http4k-serverless-openwhisk@4.36.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-serverless-openwhisk@4.37.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-serverless-openwhisk@4.38.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-serverless-openwhisk@4.38.0.1?classifier=sources
+- pkg:maven/org.http4k/http4k-serverless-openwhisk@4.39.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-serverless-openwhisk@4.4.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-serverless-openwhisk@4.4.0.1?classifier=sources
 - pkg:maven/org.http4k/http4k-serverless-openwhisk@4.4.1.0?classifier=sources
 - pkg:maven/org.http4k/http4k-serverless-openwhisk@4.4.2.0?classifier=sources
+- pkg:maven/org.http4k/http4k-serverless-openwhisk@4.40.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-serverless-openwhisk@4.5.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-serverless-openwhisk@4.5.0.1?classifier=sources
 - pkg:maven/org.http4k/http4k-serverless-openwhisk@4.6.0.0?classifier=sources

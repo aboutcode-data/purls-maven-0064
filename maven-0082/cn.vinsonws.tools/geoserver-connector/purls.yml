@@ -1,0 +1,14 @@
+- pkg:maven/cn.vinsonws.tools/geoserver-connector@0.1-dev-202302080944
+- pkg:maven/cn.vinsonws.tools/geoserver-connector@0.1-dev-202302080944?classifier=sources
+- pkg:maven/cn.vinsonws.tools/geoserver-connector@0.1-dev-20230215
+- pkg:maven/cn.vinsonws.tools/geoserver-connector@0.1-dev-2023021511
+- pkg:maven/cn.vinsonws.tools/geoserver-connector@0.1-dev-2023021511?classifier=sources
+- pkg:maven/cn.vinsonws.tools/geoserver-connector@0.1-dev-20230215?classifier=sources
+- pkg:maven/cn.vinsonws.tools/geoserver-connector@0.1-dev-2023021711
+- pkg:maven/cn.vinsonws.tools/geoserver-connector@0.1-dev-2023021711?classifier=sources
+- pkg:maven/cn.vinsonws.tools/geoserver-connector@0.1-dev-2023021715
+- pkg:maven/cn.vinsonws.tools/geoserver-connector@0.1-dev-2023021715?classifier=sources
+- pkg:maven/cn.vinsonws.tools/geoserver-connector@0.1-dev-2023021717
+- pkg:maven/cn.vinsonws.tools/geoserver-connector@0.1-dev-2023021717?classifier=sources
+- pkg:maven/cn.vinsonws.tools/geoserver-connector@0.1-dev-2023022310
+- pkg:maven/cn.vinsonws.tools/geoserver-connector@0.1-dev-2023022310?classifier=sources

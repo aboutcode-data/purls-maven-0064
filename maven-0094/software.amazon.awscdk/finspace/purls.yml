@@ -200,3 +200,11 @@
 - pkg:maven/software.amazon.awscdk/finspace@1.190.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/finspace@1.191.0
 - pkg:maven/software.amazon.awscdk/finspace@1.191.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/finspace@1.192.0
+- pkg:maven/software.amazon.awscdk/finspace@1.192.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/finspace@1.193.0
+- pkg:maven/software.amazon.awscdk/finspace@1.193.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/finspace@1.194.0
+- pkg:maven/software.amazon.awscdk/finspace@1.194.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/finspace@1.195.0
+- pkg:maven/software.amazon.awscdk/finspace@1.195.0?classifier=sources

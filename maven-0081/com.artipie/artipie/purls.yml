@@ -10,3 +10,5 @@
 - pkg:maven/com.artipie/artipie@v0.27.12?classifier=sources
 - pkg:maven/com.artipie/artipie@v0.28.0
 - pkg:maven/com.artipie/artipie@v0.28.0?classifier=sources
+- pkg:maven/com.artipie/artipie@v0.28.1
+- pkg:maven/com.artipie/artipie@v0.28.1?classifier=sources

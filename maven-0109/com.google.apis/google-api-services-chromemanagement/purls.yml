@@ -70,3 +70,9 @@
 - pkg:maven/com.google.apis/google-api-services-chromemanagement@v1-rev20230127-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-chromemanagement@v1-rev20230129-2.0.0
 - pkg:maven/com.google.apis/google-api-services-chromemanagement@v1-rev20230129-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-chromemanagement@v1-rev20230202-2.0.0
+- pkg:maven/com.google.apis/google-api-services-chromemanagement@v1-rev20230202-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-chromemanagement@v1-rev20230209-2.0.0
+- pkg:maven/com.google.apis/google-api-services-chromemanagement@v1-rev20230209-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-chromemanagement@v1-rev20230217-2.0.0
+- pkg:maven/com.google.apis/google-api-services-chromemanagement@v1-rev20230217-2.0.0?classifier=sources

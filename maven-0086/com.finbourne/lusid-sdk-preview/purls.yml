@@ -16,5 +16,11 @@
 - pkg:maven/com.finbourne/lusid-sdk-preview@0.11.4808?classifier=sources
 - pkg:maven/com.finbourne/lusid-sdk-preview@0.11.4860
 - pkg:maven/com.finbourne/lusid-sdk-preview@0.11.4860?classifier=sources
+- pkg:maven/com.finbourne/lusid-sdk-preview@0.11.5272
+- pkg:maven/com.finbourne/lusid-sdk-preview@0.11.5272?classifier=sources
+- pkg:maven/com.finbourne/lusid-sdk-preview@0.11.5276
+- pkg:maven/com.finbourne/lusid-sdk-preview@0.11.5276?classifier=sources
+- pkg:maven/com.finbourne/lusid-sdk-preview@0.11.5277
+- pkg:maven/com.finbourne/lusid-sdk-preview@0.11.5277?classifier=sources
 - pkg:maven/com.finbourne/lusid-sdk-preview@publish.sh
 - pkg:maven/com.finbourne/lusid-sdk-preview@publish.sh?classifier=sources

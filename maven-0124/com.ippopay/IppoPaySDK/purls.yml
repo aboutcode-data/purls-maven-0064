@@ -24,3 +24,4 @@
 - pkg:maven/com.ippopay/IppoPaySDK@2.1.1?type=aar
 - pkg:maven/com.ippopay/IppoPaySDK@2.1.2?classifier=sources
 - pkg:maven/com.ippopay/IppoPaySDK@2.1.2?type=aar
+- pkg:maven/com.ippopay/IppoPaySDK@2.1.3?classifier=sources

@@ -263,6 +263,7 @@
 - pkg:maven/org.wso2.transport.http/http-parent@6.3.40?classifier=source-release&type=zip
 - pkg:maven/org.wso2.transport.http/http-parent@6.3.41?classifier=source-release&type=zip
 - pkg:maven/org.wso2.transport.http/http-parent@6.3.42?classifier=source-release&type=zip
+- pkg:maven/org.wso2.transport.http/http-parent@6.3.43?classifier=source-release&type=zip
 - pkg:maven/org.wso2.transport.http/http-parent@6.3.4?classifier=source-release&type=zip
 - pkg:maven/org.wso2.transport.http/http-parent@6.3.5?classifier=source-release&type=zip
 - pkg:maven/org.wso2.transport.http/http-parent@6.3.6?classifier=source-release&type=zip

@@ -22,3 +22,4 @@
 - pkg:maven/org.broadinstitute/barclay@4.0.2?classifier=sources
 - pkg:maven/org.broadinstitute/barclay@4.1.0
 - pkg:maven/org.broadinstitute/barclay@4.1.0?classifier=sources
+- pkg:maven/org.broadinstitute/barclay@5.0.0?classifier=sources

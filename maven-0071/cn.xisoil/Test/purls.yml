@@ -1,0 +1,2 @@
+- pkg:maven/cn.xisoil/Test@1.0.1-RELEASE
+- pkg:maven/cn.xisoil/Test@1.0.1-RELEASE?classifier=sources

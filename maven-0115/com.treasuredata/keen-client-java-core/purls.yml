@@ -10,3 +10,4 @@
 - pkg:maven/com.treasuredata/keen-client-java-core@2.0.0.5
 - pkg:maven/com.treasuredata/keen-client-java-core@2.0.0.5?classifier=sources
 - pkg:maven/com.treasuredata/keen-client-java-core@2.0.0?classifier=sources
+- pkg:maven/com.treasuredata/keen-client-java-core@3.0.0?classifier=sources

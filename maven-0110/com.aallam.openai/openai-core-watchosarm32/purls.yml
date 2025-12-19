@@ -1,1 +1,3 @@
 - pkg:maven/com.aallam.openai/openai-core-watchosarm32@2.1.3?classifier=sources
+- pkg:maven/com.aallam.openai/openai-core-watchosarm32@3.0.0-beta01?classifier=sources
+- pkg:maven/com.aallam.openai/openai-core-watchosarm32@3.0.0-beta02?classifier=sources

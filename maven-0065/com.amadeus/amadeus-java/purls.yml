@@ -57,3 +57,4 @@
 - pkg:maven/com.amadeus/amadeus-java@6.4.0?classifier=sources
 - pkg:maven/com.amadeus/amadeus-java@6.4.1?classifier=sources
 - pkg:maven/com.amadeus/amadeus-java@6.5.0?classifier=sources
+- pkg:maven/com.amadeus/amadeus-java@7.0.0?classifier=sources

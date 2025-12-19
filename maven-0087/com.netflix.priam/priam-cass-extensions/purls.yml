@@ -104,6 +104,7 @@
 - pkg:maven/com.netflix.priam/priam-cass-extensions@3.1.120?classifier=sources
 - pkg:maven/com.netflix.priam/priam-cass-extensions@3.1.121?classifier=sources
 - pkg:maven/com.netflix.priam/priam-cass-extensions@3.1.122?classifier=sources
+- pkg:maven/com.netflix.priam/priam-cass-extensions@3.1.123?classifier=sources
 - pkg:maven/com.netflix.priam/priam-cass-extensions@3.1.12?classifier=sources
 - pkg:maven/com.netflix.priam/priam-cass-extensions@3.1.13
 - pkg:maven/com.netflix.priam/priam-cass-extensions@3.1.13?classifier=sources
@@ -433,3 +434,4 @@
 - pkg:maven/com.netflix.priam/priam-cass-extensions@4.0.0-alpha8?classifier=sources
 - pkg:maven/com.netflix.priam/priam-cass-extensions@4.0.0-alpha9
 - pkg:maven/com.netflix.priam/priam-cass-extensions@4.0.0-alpha9?classifier=sources
+- pkg:maven/com.netflix.priam/priam-cass-extensions@4.1.0?classifier=sources
