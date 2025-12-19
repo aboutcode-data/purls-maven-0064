@@ -1,0 +1,4 @@
+- pkg:maven/com.thoughtworks.sbt-api-mappings/sbt-api-mappings_2.12_1.0@3.0.2%2B103-c718b20c
+- pkg:maven/com.thoughtworks.sbt-api-mappings/sbt-api-mappings_2.12_1.0@3.0.2%2B103-c718b20c?classifier=sources
+- pkg:maven/com.thoughtworks.sbt-api-mappings/sbt-api-mappings_2.12_1.0@3.0.2%2B104-3e380bbc
+- pkg:maven/com.thoughtworks.sbt-api-mappings/sbt-api-mappings_2.12_1.0@3.0.2%2B104-3e380bbc?classifier=sources

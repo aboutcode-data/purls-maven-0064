@@ -1,0 +1,2 @@
+- pkg:maven/cn.org.codecrafters/simple-jwt-jjwt@1.0.0-alpha
+- pkg:maven/cn.org.codecrafters/simple-jwt-jjwt@1.0.0-alpha?classifier=sources

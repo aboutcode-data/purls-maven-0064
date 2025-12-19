@@ -102,6 +102,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.store.file.system@2.0.40
 - pkg:maven/com.liferay/com.liferay.portal.store.file.system@2.0.40?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.store.file.system@2.0.40?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.store.file.system@2.0.41
+- pkg:maven/com.liferay/com.liferay.portal.store.file.system@2.0.41?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.store.file.system@2.0.41?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.store.file.system@2.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.store.file.system@2.0.5
 - pkg:maven/com.liferay/com.liferay.portal.store.file.system@2.0.5?classifier=sources
@@ -205,6 +208,8 @@
 - pkg:maven/com.liferay/com.liferay.portal.store.file.system@3.0.35
 - pkg:maven/com.liferay/com.liferay.portal.store.file.system@3.0.35?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.store.file.system@3.0.35?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.store.file.system@3.0.36
+- pkg:maven/com.liferay/com.liferay.portal.store.file.system@3.0.36?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.store.file.system@3.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.store.file.system@3.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.store.file.system@3.0.4
@@ -298,6 +303,8 @@
 - pkg:maven/com.liferay/com.liferay.portal.store.file.system@4.0.30
 - pkg:maven/com.liferay/com.liferay.portal.store.file.system@4.0.30?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.store.file.system@4.0.30?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.store.file.system@4.0.31
+- pkg:maven/com.liferay/com.liferay.portal.store.file.system@4.0.31?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.store.file.system@4.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.store.file.system@4.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.store.file.system@4.0.4
@@ -388,6 +395,8 @@
 - pkg:maven/com.liferay/com.liferay.portal.store.file.system@5.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.store.file.system@5.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.store.file.system@5.0.3
+- pkg:maven/com.liferay/com.liferay.portal.store.file.system@5.0.30
+- pkg:maven/com.liferay/com.liferay.portal.store.file.system@5.0.30?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.store.file.system@5.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.store.file.system@5.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.store.file.system@5.0.4
@@ -445,6 +454,8 @@
 - pkg:maven/com.liferay/com.liferay.portal.store.file.system@6.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.store.file.system@6.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.store.file.system@6.0.2
+- pkg:maven/com.liferay/com.liferay.portal.store.file.system@6.0.20
+- pkg:maven/com.liferay/com.liferay.portal.store.file.system@6.0.20?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.store.file.system@6.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.store.file.system@6.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.store.file.system@6.0.3

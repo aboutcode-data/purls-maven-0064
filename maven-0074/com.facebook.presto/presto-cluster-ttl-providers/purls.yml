@@ -32,3 +32,4 @@
 - pkg:maven/com.facebook.presto/presto-cluster-ttl-providers@0.280?classifier=sources
 - pkg:maven/com.facebook.presto/presto-cluster-ttl-providers@0.281?classifier=sources
 - pkg:maven/com.facebook.presto/presto-cluster-ttl-providers@0.282?classifier=sources
+- pkg:maven/com.facebook.presto/presto-cluster-ttl-providers@0.283?classifier=sources

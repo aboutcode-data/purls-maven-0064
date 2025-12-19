@@ -14,3 +14,4 @@
 - pkg:maven/com.epam.deltix/SdmxQueryBuilder@1.6.27?classifier=sources
 - pkg:maven/com.epam.deltix/SdmxQueryBuilder@1.6.8?classifier=sources
 - pkg:maven/com.epam.deltix/SdmxQueryBuilder@1.6.9?classifier=sources
+- pkg:maven/com.epam.deltix/SdmxQueryBuilder@1.7.0?classifier=sources

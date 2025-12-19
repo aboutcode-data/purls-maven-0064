@@ -6,3 +6,7 @@
 - pkg:maven/com.aliyun.odps/odps-sdk-table-api@0.43.3-public?classifier=sources
 - pkg:maven/com.aliyun.odps/odps-sdk-table-api@0.43.4-public
 - pkg:maven/com.aliyun.odps/odps-sdk-table-api@0.43.4-public?classifier=sources
+- pkg:maven/com.aliyun.odps/odps-sdk-table-api@0.45.0-public
+- pkg:maven/com.aliyun.odps/odps-sdk-table-api@0.45.0-public?classifier=sources
+- pkg:maven/com.aliyun.odps/odps-sdk-table-api@0.45.1-public
+- pkg:maven/com.aliyun.odps/odps-sdk-table-api@0.45.1-public?classifier=sources

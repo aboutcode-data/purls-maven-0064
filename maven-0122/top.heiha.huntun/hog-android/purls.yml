@@ -1,0 +1,2 @@
+- pkg:maven/top.heiha.huntun/hog-android@1.0.0?classifier=sources
+- pkg:maven/top.heiha.huntun/hog-android@1.0.1?classifier=sources

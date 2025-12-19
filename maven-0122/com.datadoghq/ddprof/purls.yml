@@ -24,3 +24,9 @@
 - pkg:maven/com.datadoghq/ddprof@0.61.0?classifier=sources
 - pkg:maven/com.datadoghq/ddprof@0.62.0?classifier=sources
 - pkg:maven/com.datadoghq/ddprof@0.63.0?classifier=sources
+- pkg:maven/com.datadoghq/ddprof@0.65.0?classifier=sources
+- pkg:maven/com.datadoghq/ddprof@0.66.0?classifier=sources
+- pkg:maven/com.datadoghq/ddprof@0.67.0?classifier=sources
+- pkg:maven/com.datadoghq/ddprof@0.68.0?classifier=sources
+- pkg:maven/com.datadoghq/ddprof@0.69.0?classifier=sources
+- pkg:maven/com.datadoghq/ddprof@0.70.0?classifier=sources

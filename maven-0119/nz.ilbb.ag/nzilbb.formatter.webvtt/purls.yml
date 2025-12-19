@@ -1,2 +1,4 @@
 - pkg:maven/nz.ilbb.ag/nzilbb.formatter.webvtt@0.6.2
 - pkg:maven/nz.ilbb.ag/nzilbb.formatter.webvtt@0.6.2?classifier=sources
+- pkg:maven/nz.ilbb.ag/nzilbb.formatter.webvtt@0.7.0
+- pkg:maven/nz.ilbb.ag/nzilbb.formatter.webvtt@0.7.0?classifier=sources

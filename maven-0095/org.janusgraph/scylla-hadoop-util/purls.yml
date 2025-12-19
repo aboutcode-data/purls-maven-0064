@@ -93,5 +93,12 @@
 - pkg:maven/org.janusgraph/scylla-hadoop-util@1.0.0-20230704-222258.fd1991e
 - pkg:maven/org.janusgraph/scylla-hadoop-util@1.0.0-20230705-152651.16846ad
 - pkg:maven/org.janusgraph/scylla-hadoop-util@1.0.0-20230713-053843.666a81c
+- pkg:maven/org.janusgraph/scylla-hadoop-util@1.0.0-20230721-184042.029b4d2
+- pkg:maven/org.janusgraph/scylla-hadoop-util@1.0.0-20230804-114920.8e3816f
+- pkg:maven/org.janusgraph/scylla-hadoop-util@1.0.0-20230804-222847.6d3ec8d
+- pkg:maven/org.janusgraph/scylla-hadoop-util@1.0.0-20230805-010807.0cb1221
+- pkg:maven/org.janusgraph/scylla-hadoop-util@1.0.0-20230805-060925.b584085
+- pkg:maven/org.janusgraph/scylla-hadoop-util@1.0.0-20230809-023245.eef961a
+- pkg:maven/org.janusgraph/scylla-hadoop-util@1.0.0-20230813-211103.20abdde
 - pkg:maven/org.janusgraph/scylla-hadoop-util@1.0.0-rc2
 - pkg:maven/org.janusgraph/scylla-hadoop-util@1.0.0-rc2-20230226-113902.ba672b9

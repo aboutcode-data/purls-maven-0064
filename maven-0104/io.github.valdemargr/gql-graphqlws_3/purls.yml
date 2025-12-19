@@ -240,6 +240,14 @@
 - pkg:maven/io.github.valdemargr/gql-graphqlws_3@0.2.8-1-94e510b?classifier=sources
 - pkg:maven/io.github.valdemargr/gql-graphqlws_3@0.2.8-10-6b65513
 - pkg:maven/io.github.valdemargr/gql-graphqlws_3@0.2.8-10-6b65513?classifier=sources
+- pkg:maven/io.github.valdemargr/gql-graphqlws_3@0.2.8-101-7b409af
+- pkg:maven/io.github.valdemargr/gql-graphqlws_3@0.2.8-101-7b409af?classifier=sources
+- pkg:maven/io.github.valdemargr/gql-graphqlws_3@0.2.8-103-f410f05
+- pkg:maven/io.github.valdemargr/gql-graphqlws_3@0.2.8-103-f410f05?classifier=sources
+- pkg:maven/io.github.valdemargr/gql-graphqlws_3@0.2.8-105-14b2198
+- pkg:maven/io.github.valdemargr/gql-graphqlws_3@0.2.8-105-14b2198?classifier=sources
+- pkg:maven/io.github.valdemargr/gql-graphqlws_3@0.2.8-107-71162e0
+- pkg:maven/io.github.valdemargr/gql-graphqlws_3@0.2.8-107-71162e0?classifier=sources
 - pkg:maven/io.github.valdemargr/gql-graphqlws_3@0.2.8-14-f0f6ba2
 - pkg:maven/io.github.valdemargr/gql-graphqlws_3@0.2.8-14-f0f6ba2?classifier=sources
 - pkg:maven/io.github.valdemargr/gql-graphqlws_3@0.2.8-16-20209c6

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.camel/camel-aws2-step-functions@4.0.0
+- pkg:maven/org.apache.camel/camel-aws2-step-functions@4.0.0?classifier=sources

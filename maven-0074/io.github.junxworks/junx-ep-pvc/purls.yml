@@ -1,0 +1,4 @@
+- pkg:maven/io.github.junxworks/junx-ep-pvc@1.1.6
+- pkg:maven/io.github.junxworks/junx-ep-pvc@1.1.6?classifier=sources
+- pkg:maven/io.github.junxworks/junx-ep-pvc@2.1.0
+- pkg:maven/io.github.junxworks/junx-ep-pvc@2.1.0?classifier=sources

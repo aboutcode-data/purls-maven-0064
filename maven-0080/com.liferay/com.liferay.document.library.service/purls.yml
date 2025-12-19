@@ -226,6 +226,9 @@
 - pkg:maven/com.liferay/com.liferay.document.library.service@2.0.56
 - pkg:maven/com.liferay/com.liferay.document.library.service@2.0.56?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.service@2.0.56?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.document.library.service@2.0.57
+- pkg:maven/com.liferay/com.liferay.document.library.service@2.0.57?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.service@2.0.57?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.service@2.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.service@2.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.service@2.0.6
@@ -490,6 +493,9 @@
 - pkg:maven/com.liferay/com.liferay.document.library.service@3.0.84
 - pkg:maven/com.liferay/com.liferay.document.library.service@3.0.84?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.service@3.0.84?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.document.library.service@3.0.85
+- pkg:maven/com.liferay/com.liferay.document.library.service@3.0.85?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.service@3.0.86?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.service@3.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.service@3.0.8?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.service@3.0.9
@@ -739,6 +745,8 @@
 - pkg:maven/com.liferay/com.liferay.document.library.service@4.0.82
 - pkg:maven/com.liferay/com.liferay.document.library.service@4.0.82?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.service@4.0.82?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.document.library.service@4.0.83
+- pkg:maven/com.liferay/com.liferay.document.library.service@4.0.83?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.service@4.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.service@4.0.8?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.service@4.0.9
@@ -991,6 +999,9 @@
 - pkg:maven/com.liferay/com.liferay.document.library.service@5.0.83
 - pkg:maven/com.liferay/com.liferay.document.library.service@5.0.83?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.service@5.0.83?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.document.library.service@5.0.84
+- pkg:maven/com.liferay/com.liferay.document.library.service@5.0.84?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.service@5.0.85?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.service@5.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.service@5.0.8?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.service@5.0.9
@@ -1001,6 +1012,13 @@
 - pkg:maven/com.liferay/com.liferay.document.library.service@6.0.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.service@6.0.1
 - pkg:maven/com.liferay/com.liferay.document.library.service@6.0.10
+- pkg:maven/com.liferay/com.liferay.document.library.service@6.0.100
+- pkg:maven/com.liferay/com.liferay.document.library.service@6.0.100?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.service@6.0.100?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.document.library.service@6.0.101
+- pkg:maven/com.liferay/com.liferay.document.library.service@6.0.101?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.service@6.0.102?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.service@6.0.103?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.service@6.0.10?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.service@6.0.10?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.service@6.0.11

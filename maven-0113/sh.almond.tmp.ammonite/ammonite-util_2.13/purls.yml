@@ -22,3 +22,9 @@
 - pkg:maven/sh.almond.tmp.ammonite/ammonite-util_2.13@3.0.0-M0-50-9a35e1dd?classifier=sources
 - pkg:maven/sh.almond.tmp.ammonite/ammonite-util_2.13@3.0.0-M0-50-f03f2d82
 - pkg:maven/sh.almond.tmp.ammonite/ammonite-util_2.13@3.0.0-M0-50-f03f2d82?classifier=sources
+- pkg:maven/sh.almond.tmp.ammonite/ammonite-util_2.13@3.0.0-M0-58-8d00463c
+- pkg:maven/sh.almond.tmp.ammonite/ammonite-util_2.13@3.0.0-M0-58-8d00463c?classifier=sources
+- pkg:maven/sh.almond.tmp.ammonite/ammonite-util_2.13@3.0.0-M0-67-83057fea
+- pkg:maven/sh.almond.tmp.ammonite/ammonite-util_2.13@3.0.0-M0-67-83057fea?classifier=sources
+- pkg:maven/sh.almond.tmp.ammonite/ammonite-util_2.13@3.0.0-M0-67-fcfedca6
+- pkg:maven/sh.almond.tmp.ammonite/ammonite-util_2.13@3.0.0-M0-67-fcfedca6?classifier=sources

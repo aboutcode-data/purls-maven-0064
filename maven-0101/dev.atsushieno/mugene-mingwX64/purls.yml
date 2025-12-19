@@ -1,1 +1,2 @@
 - pkg:maven/dev.atsushieno/mugene-mingwX64@0.4.0?classifier=sources
+- pkg:maven/dev.atsushieno/mugene-mingwX64@0.4.3?classifier=sources

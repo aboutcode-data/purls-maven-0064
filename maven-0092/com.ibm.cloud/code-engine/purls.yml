@@ -6,5 +6,7 @@
 - pkg:maven/com.ibm.cloud/code-engine@2.0.5?classifier=sources
 - pkg:maven/com.ibm.cloud/code-engine@3.1.0
 - pkg:maven/com.ibm.cloud/code-engine@3.1.0?classifier=sources
+- pkg:maven/com.ibm.cloud/code-engine@4.0.0
+- pkg:maven/com.ibm.cloud/code-engine@4.0.0?classifier=sources
 - pkg:maven/com.ibm.cloud/code-engine@v2.0.3
 - pkg:maven/com.ibm.cloud/code-engine@v2.0.3?classifier=sources

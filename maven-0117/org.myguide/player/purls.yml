@@ -28,3 +28,9 @@
 - pkg:maven/org.myguide/player@2023.05?type=aar
 - pkg:maven/org.myguide/player@2023.06?classifier=sources
 - pkg:maven/org.myguide/player@2023.06?type=aar
+- pkg:maven/org.myguide/player@2023.07.01?classifier=sources
+- pkg:maven/org.myguide/player@2023.07.01?type=aar
+- pkg:maven/org.myguide/player@2023.07?classifier=sources
+- pkg:maven/org.myguide/player@2023.07?type=aar
+- pkg:maven/org.myguide/player@2023.08?classifier=sources
+- pkg:maven/org.myguide/player@2023.08?type=aar

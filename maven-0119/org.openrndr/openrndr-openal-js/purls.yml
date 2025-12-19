@@ -15,3 +15,5 @@
 - pkg:maven/org.openrndr/openrndr-openal-js@0.4.3-alpha9?classifier=sources
 - pkg:maven/org.openrndr/openrndr-openal-js@0.4.3?classifier=sources
 - pkg:maven/org.openrndr/openrndr-openal-js@0.4.4-alpha1?classifier=sources
+- pkg:maven/org.openrndr/openrndr-openal-js@0.4.4-alpha2?classifier=sources
+- pkg:maven/org.openrndr/openrndr-openal-js@0.4.4-alpha3?classifier=sources

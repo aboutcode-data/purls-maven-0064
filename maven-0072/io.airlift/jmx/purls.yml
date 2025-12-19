@@ -338,3 +338,5 @@
 - pkg:maven/io.airlift/jmx@233?classifier=sources
 - pkg:maven/io.airlift/jmx@234
 - pkg:maven/io.airlift/jmx@234?classifier=sources
+- pkg:maven/io.airlift/jmx@235
+- pkg:maven/io.airlift/jmx@235?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/space.scalapatisserie/muffin-sttp-http-interop_3@0.3.1
+- pkg:maven/space.scalapatisserie/muffin-sttp-http-interop_3@0.3.1?classifier=sources

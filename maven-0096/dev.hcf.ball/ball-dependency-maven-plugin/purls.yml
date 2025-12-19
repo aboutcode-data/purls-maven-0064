@@ -14,3 +14,7 @@
 - pkg:maven/dev.hcf.ball/ball-dependency-maven-plugin@1.0.6.20230424?classifier=sources
 - pkg:maven/dev.hcf.ball/ball-dependency-maven-plugin@1.0.7.20230520
 - pkg:maven/dev.hcf.ball/ball-dependency-maven-plugin@1.0.7.20230520?classifier=sources
+- pkg:maven/dev.hcf.ball/ball-dependency-maven-plugin@1.0.8.20230715
+- pkg:maven/dev.hcf.ball/ball-dependency-maven-plugin@1.0.8.20230715?classifier=sources
+- pkg:maven/dev.hcf.ball/ball-dependency-maven-plugin@1.0.9.20230720
+- pkg:maven/dev.hcf.ball/ball-dependency-maven-plugin@1.0.9.20230720?classifier=sources

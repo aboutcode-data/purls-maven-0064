@@ -20,3 +20,4 @@
 - pkg:maven/com.yoc.visx.sdk/visx-sdk@3.1.1?classifier=sources
 - pkg:maven/com.yoc.visx.sdk/visx-sdk@3.2.0?classifier=sources
 - pkg:maven/com.yoc.visx.sdk/visx-sdk@4.0.0?classifier=sources
+- pkg:maven/com.yoc.visx.sdk/visx-sdk@4.1.0?classifier=sources

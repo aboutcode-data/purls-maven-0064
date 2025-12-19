@@ -2,6 +2,10 @@
 - pkg:maven/tech.deepdreams/billing-events@0.0.1-RELEASE?classifier=sources
 - pkg:maven/tech.deepdreams/billing-events@0.1.10-RELEASE
 - pkg:maven/tech.deepdreams/billing-events@0.1.10-RELEASE?classifier=sources
+- pkg:maven/tech.deepdreams/billing-events@0.1.11-RELEASE
+- pkg:maven/tech.deepdreams/billing-events@0.1.11-RELEASE?classifier=sources
+- pkg:maven/tech.deepdreams/billing-events@0.1.12-RELEASE
+- pkg:maven/tech.deepdreams/billing-events@0.1.12-RELEASE?classifier=sources
 - pkg:maven/tech.deepdreams/billing-events@0.1.4-RELEASE
 - pkg:maven/tech.deepdreams/billing-events@0.1.4-RELEASE?classifier=sources
 - pkg:maven/tech.deepdreams/billing-events@0.1.5-RELEASE

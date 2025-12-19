@@ -1,1 +1,2 @@
 - pkg:maven/io.github.libktx/ktx-ai@1.11.0-rc6?classifier=sources
+- pkg:maven/io.github.libktx/ktx-ai@1.12.0-rc1?classifier=sources

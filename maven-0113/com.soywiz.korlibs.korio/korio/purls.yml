@@ -68,3 +68,4 @@
 - pkg:maven/com.soywiz.korlibs.korio/korio@4.0.6?classifier=sources
 - pkg:maven/com.soywiz.korlibs.korio/korio@4.0.7?classifier=sources
 - pkg:maven/com.soywiz.korlibs.korio/korio@4.0.8?classifier=sources
+- pkg:maven/com.soywiz.korlibs.korio/korio@4.0.9?classifier=sources

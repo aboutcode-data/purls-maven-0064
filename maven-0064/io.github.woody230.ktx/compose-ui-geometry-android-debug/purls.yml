@@ -1,1 +1,2 @@
 - pkg:maven/io.github.woody230.ktx/compose-ui-geometry-android-debug@5.0.0?classifier=sources
+- pkg:maven/io.github.woody230.ktx/compose-ui-geometry-android-debug@6.0.0?classifier=sources

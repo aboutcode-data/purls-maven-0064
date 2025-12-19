@@ -1,2 +1,4 @@
 - pkg:maven/dev.aherscu.qa/qa-testing-utils@0.0.26
 - pkg:maven/dev.aherscu.qa/qa-testing-utils@0.0.26?classifier=sources
+- pkg:maven/dev.aherscu.qa/qa-testing-utils@0.0.27
+- pkg:maven/dev.aherscu.qa/qa-testing-utils@0.0.27?classifier=sources

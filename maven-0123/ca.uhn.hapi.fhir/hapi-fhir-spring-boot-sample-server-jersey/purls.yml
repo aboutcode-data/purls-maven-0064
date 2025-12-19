@@ -44,6 +44,8 @@
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-spring-boot-sample-server-jersey@6.4.4?classifier=sources
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-spring-boot-sample-server-jersey@6.4.6
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-spring-boot-sample-server-jersey@6.4.6?classifier=sources
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-spring-boot-sample-server-jersey@6.4.7
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-spring-boot-sample-server-jersey@6.4.7?classifier=sources
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-spring-boot-sample-server-jersey@6.6.0
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-spring-boot-sample-server-jersey@6.6.0?classifier=sources
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-spring-boot-sample-server-jersey@6.6.1

@@ -8,6 +8,9 @@
 - pkg:maven/it.unibo.alchemist/alchemist-multivesta-adapter@25.16.1?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-multivesta-adapter@25.16.2?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-multivesta-adapter@26.0.0?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-multivesta-adapter@26.0.10?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-multivesta-adapter@26.0.11?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-multivesta-adapter@26.0.12?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-multivesta-adapter@26.0.1?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-multivesta-adapter@26.0.2?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-multivesta-adapter@26.0.3?classifier=sources
@@ -16,3 +19,4 @@
 - pkg:maven/it.unibo.alchemist/alchemist-multivesta-adapter@26.0.6?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-multivesta-adapter@26.0.7?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-multivesta-adapter@26.0.8?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-multivesta-adapter@26.0.9?classifier=sources

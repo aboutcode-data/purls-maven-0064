@@ -12,3 +12,5 @@
 - pkg:maven/org.keycloak/keycloak-rest-admin-ui-ext@21.1.2?classifier=sources
 - pkg:maven/org.keycloak/keycloak-rest-admin-ui-ext@22.0.0
 - pkg:maven/org.keycloak/keycloak-rest-admin-ui-ext@22.0.0?classifier=sources
+- pkg:maven/org.keycloak/keycloak-rest-admin-ui-ext@22.0.1
+- pkg:maven/org.keycloak/keycloak-rest-admin-ui-ext@22.0.1?classifier=sources

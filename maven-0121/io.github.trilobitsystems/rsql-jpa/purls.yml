@@ -1,0 +1,2 @@
+- pkg:maven/io.github.trilobitsystems/rsql-jpa@v2023.31.73
+- pkg:maven/io.github.trilobitsystems/rsql-jpa@v2023.31.73?classifier=sources

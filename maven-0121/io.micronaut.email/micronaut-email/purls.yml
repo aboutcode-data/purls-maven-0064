@@ -20,3 +20,5 @@
 - pkg:maven/io.micronaut.email/micronaut-email@2.0.0-M6?classifier=sources
 - pkg:maven/io.micronaut.email/micronaut-email@2.0.0?classifier=sources
 - pkg:maven/io.micronaut.email/micronaut-email@2.0.1?classifier=sources
+- pkg:maven/io.micronaut.email/micronaut-email@2.0.2?classifier=sources
+- pkg:maven/io.micronaut.email/micronaut-email@2.1.0?classifier=sources

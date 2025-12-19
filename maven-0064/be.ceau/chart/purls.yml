@@ -18,3 +18,5 @@
 - pkg:maven/be.ceau/chart@2.5.0?classifier=sources
 - pkg:maven/be.ceau/chart@2.6.0
 - pkg:maven/be.ceau/chart@2.6.0?classifier=sources
+- pkg:maven/be.ceau/chart@2.7.0
+- pkg:maven/be.ceau/chart@2.7.0?classifier=sources

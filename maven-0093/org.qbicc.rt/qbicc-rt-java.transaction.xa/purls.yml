@@ -38,3 +38,5 @@
 - pkg:maven/org.qbicc.rt/qbicc-rt-java.transaction.xa@17.alpha.0.54?classifier=sources
 - pkg:maven/org.qbicc.rt/qbicc-rt-java.transaction.xa@17.alpha.0.55
 - pkg:maven/org.qbicc.rt/qbicc-rt-java.transaction.xa@17.alpha.0.55?classifier=sources
+- pkg:maven/org.qbicc.rt/qbicc-rt-java.transaction.xa@17.alpha.0.56
+- pkg:maven/org.qbicc.rt/qbicc-rt-java.transaction.xa@17.alpha.0.56?classifier=sources

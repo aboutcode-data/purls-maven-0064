@@ -1,0 +1,4 @@
+- pkg:maven/io.github.niyiomotoso/the-guardian-api-java-client@1.0.0
+- pkg:maven/io.github.niyiomotoso/the-guardian-api-java-client@1.0.0?classifier=sources
+- pkg:maven/io.github.niyiomotoso/the-guardian-api-java-client@1.1.0
+- pkg:maven/io.github.niyiomotoso/the-guardian-api-java-client@1.1.0?classifier=sources

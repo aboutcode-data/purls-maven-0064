@@ -62,4 +62,7 @@
 - pkg:maven/aws.sdk.kotlin/resiliencehub@0.27.2-beta?classifier=sources
 - pkg:maven/aws.sdk.kotlin/resiliencehub@0.28.0-beta?classifier=sources
 - pkg:maven/aws.sdk.kotlin/resiliencehub@0.28.1-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/resiliencehub@0.28.2-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/resiliencehub@0.29.0-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/resiliencehub@0.29.1-beta?classifier=sources
 - pkg:maven/aws.sdk.kotlin/resiliencehub@0.9.5-beta?classifier=sources

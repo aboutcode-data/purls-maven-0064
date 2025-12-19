@@ -1,2 +1,8 @@
 - pkg:maven/net.solarnetwork.external/net.solarnetwork.external.opendnp3-bindings@2.3.2
+- pkg:maven/net.solarnetwork.external/net.solarnetwork.external.opendnp3-bindings@2.3.2.SN01
+- pkg:maven/net.solarnetwork.external/net.solarnetwork.external.opendnp3-bindings@2.3.2.SN01?classifier=sources
+- pkg:maven/net.solarnetwork.external/net.solarnetwork.external.opendnp3-bindings@2.3.2.SN02
+- pkg:maven/net.solarnetwork.external/net.solarnetwork.external.opendnp3-bindings@2.3.2.SN02?classifier=sources
 - pkg:maven/net.solarnetwork.external/net.solarnetwork.external.opendnp3-bindings@2.3.2?classifier=sources
+- pkg:maven/net.solarnetwork.external/net.solarnetwork.external.opendnp3-bindings@3.1.2.SN01
+- pkg:maven/net.solarnetwork.external/net.solarnetwork.external.opendnp3-bindings@3.1.2.SN01?classifier=sources

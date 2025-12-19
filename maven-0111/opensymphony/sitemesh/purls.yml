@@ -5,3 +5,6 @@
 - pkg:maven/opensymphony/sitemesh@2.4
 - pkg:maven/opensymphony/sitemesh@2.4.1
 - pkg:maven/opensymphony/sitemesh@2.4.2
+- pkg:maven/opensymphony/sitemesh@2.4.3?classifier=sources
+- pkg:maven/opensymphony/sitemesh@2.4.4?classifier=sources
+- pkg:maven/opensymphony/sitemesh@2.5.0?classifier=sources

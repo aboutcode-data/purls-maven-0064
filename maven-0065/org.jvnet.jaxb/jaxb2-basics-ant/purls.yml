@@ -1,0 +1,2 @@
+- pkg:maven/org.jvnet.jaxb/jaxb2-basics-ant@2.0.4
+- pkg:maven/org.jvnet.jaxb/jaxb2-basics-ant@2.0.4?classifier=sources

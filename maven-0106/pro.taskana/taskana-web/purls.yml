@@ -65,5 +65,10 @@
 - pkg:maven/pro.taskana/taskana-web@6.0.0
 - pkg:maven/pro.taskana/taskana-web@6.0.1
 - pkg:maven/pro.taskana/taskana-web@6.0.2
+- pkg:maven/pro.taskana/taskana-web@6.0.3
 - pkg:maven/pro.taskana/taskana-web@6.1.0
+- pkg:maven/pro.taskana/taskana-web@6.1.1
 - pkg:maven/pro.taskana/taskana-web@6.2.0
+- pkg:maven/pro.taskana/taskana-web@6.2.1
+- pkg:maven/pro.taskana/taskana-web@6.3.0
+- pkg:maven/pro.taskana/taskana-web@6.3.1

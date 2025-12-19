@@ -180,6 +180,8 @@
 - pkg:maven/com.amplifyframework/aws-api-appsync@1.38.6?type=aar
 - pkg:maven/com.amplifyframework/aws-api-appsync@1.38.7?classifier=sources
 - pkg:maven/com.amplifyframework/aws-api-appsync@1.38.7?type=aar
+- pkg:maven/com.amplifyframework/aws-api-appsync@1.38.8?classifier=sources
+- pkg:maven/com.amplifyframework/aws-api-appsync@1.38.8?type=aar
 - pkg:maven/com.amplifyframework/aws-api-appsync@1.4.0?classifier=sources
 - pkg:maven/com.amplifyframework/aws-api-appsync@1.4.0?type=aar
 - pkg:maven/com.amplifyframework/aws-api-appsync@1.4.1?classifier=sources
@@ -214,6 +216,10 @@
 - pkg:maven/com.amplifyframework/aws-api-appsync@1.6.9?type=aar
 - pkg:maven/com.amplifyframework/aws-api-appsync@2.0.0?classifier=sources
 - pkg:maven/com.amplifyframework/aws-api-appsync@2.0.0?type=aar
+- pkg:maven/com.amplifyframework/aws-api-appsync@2.10.0?classifier=sources
+- pkg:maven/com.amplifyframework/aws-api-appsync@2.11.0?classifier=sources
+- pkg:maven/com.amplifyframework/aws-api-appsync@2.11.1?classifier=sources
+- pkg:maven/com.amplifyframework/aws-api-appsync@2.11.2?classifier=sources
 - pkg:maven/com.amplifyframework/aws-api-appsync@2.3.0?classifier=sources
 - pkg:maven/com.amplifyframework/aws-api-appsync@2.4.0?classifier=sources
 - pkg:maven/com.amplifyframework/aws-api-appsync@2.4.1?classifier=sources
@@ -230,6 +236,7 @@
 - pkg:maven/com.amplifyframework/aws-api-appsync@2.8.6?classifier=sources
 - pkg:maven/com.amplifyframework/aws-api-appsync@2.8.7?classifier=sources
 - pkg:maven/com.amplifyframework/aws-api-appsync@2.9.0?classifier=sources
+- pkg:maven/com.amplifyframework/aws-api-appsync@2.9.1?classifier=sources
 - pkg:maven/com.amplifyframework/aws-api-appsync@main?classifier=sources
 - pkg:maven/com.amplifyframework/aws-api-appsync@main?type=aar
 - pkg:maven/com.amplifyframework/aws-api-appsync@v1.37.0-cpkey-preview.0?classifier=sources

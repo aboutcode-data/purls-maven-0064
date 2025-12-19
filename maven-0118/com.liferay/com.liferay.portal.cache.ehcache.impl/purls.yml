@@ -41,6 +41,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.cache.ehcache.impl@1.0.21
 - pkg:maven/com.liferay/com.liferay.portal.cache.ehcache.impl@1.0.21?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.cache.ehcache.impl@1.0.21?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.cache.ehcache.impl@1.0.22
+- pkg:maven/com.liferay/com.liferay.portal.cache.ehcache.impl@1.0.22?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.cache.ehcache.impl@1.0.23?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.cache.ehcache.impl@1.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.cache.ehcache.impl@1.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.cache.ehcache.impl@1.0.3
@@ -77,6 +80,8 @@
 - pkg:maven/com.liferay/com.liferay.portal.cache.ehcache.impl@2.0.12
 - pkg:maven/com.liferay/com.liferay.portal.cache.ehcache.impl@2.0.12?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.cache.ehcache.impl@2.0.12?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.cache.ehcache.impl@2.0.13
+- pkg:maven/com.liferay/com.liferay.portal.cache.ehcache.impl@2.0.13?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.cache.ehcache.impl@2.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.cache.ehcache.impl@2.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.cache.ehcache.impl@2.0.2
@@ -119,6 +124,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.cache.ehcache.impl@3.0.13
 - pkg:maven/com.liferay/com.liferay.portal.cache.ehcache.impl@3.0.13?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.cache.ehcache.impl@3.0.13?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.cache.ehcache.impl@3.0.14
+- pkg:maven/com.liferay/com.liferay.portal.cache.ehcache.impl@3.0.14?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.cache.ehcache.impl@3.0.15?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.cache.ehcache.impl@3.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.cache.ehcache.impl@3.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.cache.ehcache.impl@3.0.2
@@ -194,6 +202,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.cache.ehcache.impl@4.0.23
 - pkg:maven/com.liferay/com.liferay.portal.cache.ehcache.impl@4.0.23?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.cache.ehcache.impl@4.0.23?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.cache.ehcache.impl@4.0.24
+- pkg:maven/com.liferay/com.liferay.portal.cache.ehcache.impl@4.0.24?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.cache.ehcache.impl@4.0.25?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.cache.ehcache.impl@4.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.cache.ehcache.impl@4.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.cache.ehcache.impl@4.0.3

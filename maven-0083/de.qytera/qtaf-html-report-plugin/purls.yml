@@ -18,5 +18,11 @@
 - pkg:maven/de.qytera/qtaf-html-report-plugin@0.0.8?classifier=sources
 - pkg:maven/de.qytera/qtaf-html-report-plugin@0.0.9
 - pkg:maven/de.qytera/qtaf-html-report-plugin@0.0.9?classifier=sources
+- pkg:maven/de.qytera/qtaf-html-report-plugin@0.1.0
+- pkg:maven/de.qytera/qtaf-html-report-plugin@0.1.0?classifier=sources
+- pkg:maven/de.qytera/qtaf-html-report-plugin@0.1.1
+- pkg:maven/de.qytera/qtaf-html-report-plugin@0.1.1?classifier=sources
+- pkg:maven/de.qytera/qtaf-html-report-plugin@0.2.0
+- pkg:maven/de.qytera/qtaf-html-report-plugin@0.2.0?classifier=sources
 - pkg:maven/de.qytera/qtaf-html-report-plugin@SNAPSHOT-LOCAL-03
 - pkg:maven/de.qytera/qtaf-html-report-plugin@SNAPSHOT-LOCAL-03?classifier=sources

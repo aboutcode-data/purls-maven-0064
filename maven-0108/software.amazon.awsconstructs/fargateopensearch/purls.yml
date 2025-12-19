@@ -28,3 +28,5 @@
 - pkg:maven/software.amazon.awsconstructs/fargateopensearch@2.40.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/fargateopensearch@2.41.0
 - pkg:maven/software.amazon.awsconstructs/fargateopensearch@2.41.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/fargateopensearch@2.42.0
+- pkg:maven/software.amazon.awsconstructs/fargateopensearch@2.42.0?classifier=sources

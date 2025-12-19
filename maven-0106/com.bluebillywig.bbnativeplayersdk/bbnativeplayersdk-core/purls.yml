@@ -6,6 +6,9 @@
 - pkg:maven/com.bluebillywig.bbnativeplayersdk/bbnativeplayersdk-core@7.103.0?classifier=sources
 - pkg:maven/com.bluebillywig.bbnativeplayersdk/bbnativeplayersdk-core@7.107.1?classifier=sources
 - pkg:maven/com.bluebillywig.bbnativeplayersdk/bbnativeplayersdk-core@7.109.1?classifier=sources
+- pkg:maven/com.bluebillywig.bbnativeplayersdk/bbnativeplayersdk-core@7.111.0?classifier=sources
+- pkg:maven/com.bluebillywig.bbnativeplayersdk/bbnativeplayersdk-core@7.112.1?classifier=sources
+- pkg:maven/com.bluebillywig.bbnativeplayersdk/bbnativeplayersdk-core@7.113.2?classifier=sources
 - pkg:maven/com.bluebillywig.bbnativeplayersdk/bbnativeplayersdk-core@7.67.0?classifier=sources
 - pkg:maven/com.bluebillywig.bbnativeplayersdk/bbnativeplayersdk-core@7.68.0?classifier=sources
 - pkg:maven/com.bluebillywig.bbnativeplayersdk/bbnativeplayersdk-core@7.68.1?classifier=sources

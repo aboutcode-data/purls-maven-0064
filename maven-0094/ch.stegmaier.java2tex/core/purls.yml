@@ -16,3 +16,5 @@
 - pkg:maven/ch.stegmaier.java2tex/core@0.6.3?classifier=sources
 - pkg:maven/ch.stegmaier.java2tex/core@0.6.4
 - pkg:maven/ch.stegmaier.java2tex/core@0.6.4?classifier=sources
+- pkg:maven/ch.stegmaier.java2tex/core@0.6.8
+- pkg:maven/ch.stegmaier.java2tex/core@0.6.8?classifier=sources

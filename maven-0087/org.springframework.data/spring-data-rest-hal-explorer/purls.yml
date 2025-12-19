@@ -139,6 +139,8 @@
 - pkg:maven/org.springframework.data/spring-data-rest-hal-explorer@3.7.13?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-rest-hal-explorer@3.7.14
 - pkg:maven/org.springframework.data/spring-data-rest-hal-explorer@3.7.14?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-rest-hal-explorer@3.7.15
+- pkg:maven/org.springframework.data/spring-data-rest-hal-explorer@3.7.15?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-rest-hal-explorer@3.7.1?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-rest-hal-explorer@3.7.2
 - pkg:maven/org.springframework.data/spring-data-rest-hal-explorer@3.7.2?classifier=sources
@@ -174,6 +176,8 @@
 - pkg:maven/org.springframework.data/spring-data-rest-hal-explorer@4.0.7?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-rest-hal-explorer@4.0.8
 - pkg:maven/org.springframework.data/spring-data-rest-hal-explorer@4.0.8?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-rest-hal-explorer@4.0.9
+- pkg:maven/org.springframework.data/spring-data-rest-hal-explorer@4.0.9?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-rest-hal-explorer@4.1.0
 - pkg:maven/org.springframework.data/spring-data-rest-hal-explorer@4.1.0?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-rest-hal-explorer@4.1.1

@@ -28,3 +28,5 @@
 - pkg:maven/io.github.hagay3/skuber_2.13@3.0.6?classifier=sources
 - pkg:maven/io.github.hagay3/skuber_2.13@3.0.7
 - pkg:maven/io.github.hagay3/skuber_2.13@3.0.7?classifier=sources
+- pkg:maven/io.github.hagay3/skuber_2.13@3.1
+- pkg:maven/io.github.hagay3/skuber_2.13@3.1?classifier=sources

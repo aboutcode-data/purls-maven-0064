@@ -580,6 +580,8 @@
 - pkg:maven/com.liferay/com.liferay.headless.delivery.api@42.1.0
 - pkg:maven/com.liferay/com.liferay.headless.delivery.api@42.1.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.delivery.api@42.1.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.headless.delivery.api@42.2.0
+- pkg:maven/com.liferay/com.liferay.headless.delivery.api@42.2.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.delivery.api@43.0.0
 - pkg:maven/com.liferay/com.liferay.headless.delivery.api@43.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.delivery.api@43.0.0?classifier=sources-commercial
@@ -589,6 +591,8 @@
 - pkg:maven/com.liferay/com.liferay.headless.delivery.api@43.1.0
 - pkg:maven/com.liferay/com.liferay.headless.delivery.api@43.1.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.delivery.api@43.1.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.headless.delivery.api@43.2.0
+- pkg:maven/com.liferay/com.liferay.headless.delivery.api@43.2.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.delivery.api@44.0.0
 - pkg:maven/com.liferay/com.liferay.headless.delivery.api@44.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.delivery.api@44.0.0?classifier=sources-commercial
@@ -598,6 +602,11 @@
 - pkg:maven/com.liferay/com.liferay.headless.delivery.api@44.1.0
 - pkg:maven/com.liferay/com.liferay.headless.delivery.api@44.1.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.delivery.api@44.1.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.headless.delivery.api@44.1.1
+- pkg:maven/com.liferay/com.liferay.headless.delivery.api@44.1.1?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.delivery.api@44.1.1?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.headless.delivery.api@44.2.0
+- pkg:maven/com.liferay/com.liferay.headless.delivery.api@44.2.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.delivery.api@45.0.0
 - pkg:maven/com.liferay/com.liferay.headless.delivery.api@45.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.delivery.api@45.0.0?classifier=sources-commercial
@@ -673,6 +682,13 @@
 - pkg:maven/com.liferay/com.liferay.headless.delivery.api@48.1.0
 - pkg:maven/com.liferay/com.liferay.headless.delivery.api@48.1.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.delivery.api@48.1.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.headless.delivery.api@48.1.1
+- pkg:maven/com.liferay/com.liferay.headless.delivery.api@48.1.1?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.delivery.api@48.1.1?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.headless.delivery.api@48.2.0
+- pkg:maven/com.liferay/com.liferay.headless.delivery.api@48.2.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.delivery.api@48.3.0
+- pkg:maven/com.liferay/com.liferay.headless.delivery.api@48.3.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.delivery.api@5.0.0
 - pkg:maven/com.liferay/com.liferay.headless.delivery.api@5.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.delivery.api@5.0.0?classifier=sources-commercial

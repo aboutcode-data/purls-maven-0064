@@ -114,6 +114,10 @@
 - pkg:maven/org.neo4j/neo4j-cypher-physical-planning@3.5.0-beta03?classifier=sources
 - pkg:maven/org.neo4j/neo4j-cypher-physical-planning@5.1.0
 - pkg:maven/org.neo4j/neo4j-cypher-physical-planning@5.1.0?classifier=sources
+- pkg:maven/org.neo4j/neo4j-cypher-physical-planning@5.10.0
+- pkg:maven/org.neo4j/neo4j-cypher-physical-planning@5.10.0?classifier=sources
+- pkg:maven/org.neo4j/neo4j-cypher-physical-planning@5.11.0
+- pkg:maven/org.neo4j/neo4j-cypher-physical-planning@5.11.0?classifier=sources
 - pkg:maven/org.neo4j/neo4j-cypher-physical-planning@5.2.0
 - pkg:maven/org.neo4j/neo4j-cypher-physical-planning@5.2.0?classifier=sources
 - pkg:maven/org.neo4j/neo4j-cypher-physical-planning@5.3.0

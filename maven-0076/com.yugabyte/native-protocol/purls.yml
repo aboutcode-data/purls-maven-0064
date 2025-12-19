@@ -2,3 +2,5 @@
 - pkg:maven/com.yugabyte/native-protocol@1.4.11-yb-3?classifier=sources
 - pkg:maven/com.yugabyte/native-protocol@1.5.1-yb-1
 - pkg:maven/com.yugabyte/native-protocol@1.5.1-yb-1?classifier=sources
+- pkg:maven/com.yugabyte/native-protocol@1.5.1-yb-2
+- pkg:maven/com.yugabyte/native-protocol@1.5.1-yb-2?classifier=sources

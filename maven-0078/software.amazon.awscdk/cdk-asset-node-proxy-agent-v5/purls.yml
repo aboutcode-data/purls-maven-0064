@@ -146,6 +146,8 @@
 - pkg:maven/software.amazon.awscdk/cdk-asset-node-proxy-agent-v5@2.0.164?classifier=sources
 - pkg:maven/software.amazon.awscdk/cdk-asset-node-proxy-agent-v5@2.0.165
 - pkg:maven/software.amazon.awscdk/cdk-asset-node-proxy-agent-v5@2.0.165?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-asset-node-proxy-agent-v5@2.0.166
+- pkg:maven/software.amazon.awscdk/cdk-asset-node-proxy-agent-v5@2.0.166?classifier=sources
 - pkg:maven/software.amazon.awscdk/cdk-asset-node-proxy-agent-v5@2.0.16?classifier=sources
 - pkg:maven/software.amazon.awscdk/cdk-asset-node-proxy-agent-v5@2.0.17
 - pkg:maven/software.amazon.awscdk/cdk-asset-node-proxy-agent-v5@2.0.17?classifier=sources
