@@ -50,3 +50,4 @@
 - pkg:maven/com.palantir.conjure.java/conjure-undertow-annotations@6.64.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java/conjure-undertow-annotations@6.65.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java/conjure-undertow-annotations@6.66.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java/conjure-undertow-annotations@6.68.0?classifier=sources

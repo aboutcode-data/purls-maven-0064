@@ -1,0 +1,2 @@
+- pkg:maven/com.payfurl/payfurlsdk@1.0.20221104
+- pkg:maven/com.payfurl/payfurlsdk@1.0.20221104?classifier=sources

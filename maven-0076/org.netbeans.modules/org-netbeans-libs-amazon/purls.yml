@@ -14,3 +14,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-amazon@RELEASE130?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-amazon@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-amazon@RELEASE150?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-libs-amazon@RELEASE160?classifier=sources

@@ -15,4 +15,5 @@
 - pkg:maven/io.github.quillraven.fleks/Fleks@1.6-KMP?classifier=sources
 - pkg:maven/io.github.quillraven.fleks/Fleks@2.0?classifier=sources
 - pkg:maven/io.github.quillraven.fleks/Fleks@2.1?classifier=sources
+- pkg:maven/io.github.quillraven.fleks/Fleks@2.2?classifier=sources
 - pkg:maven/io.github.quillraven.fleks/Fleks@preRelease-20211120?classifier=sources

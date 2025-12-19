@@ -465,6 +465,12 @@
 - pkg:maven/com.google.cloud/google-cloud-spanner@6.31.2?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-spanner@6.32.0
 - pkg:maven/com.google.cloud/google-cloud-spanner@6.32.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-spanner@6.33.0
+- pkg:maven/com.google.cloud/google-cloud-spanner@6.33.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-spanner@6.34.0
+- pkg:maven/com.google.cloud/google-cloud-spanner@6.34.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-spanner@6.34.1
+- pkg:maven/com.google.cloud/google-cloud-spanner@6.34.1?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-spanner@6.4.0
 - pkg:maven/com.google.cloud/google-cloud-spanner@6.4.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-spanner@6.4.1

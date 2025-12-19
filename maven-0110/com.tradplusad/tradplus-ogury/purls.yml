@@ -179,3 +179,11 @@
 - pkg:maven/com.tradplusad/tradplus-ogury@34.8.7.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-ogury@34.8.7.0?type=aar
 - pkg:maven/com.tradplusad/tradplus-ogury@34.8.7.10.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-ogury@34.8.8.0.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-ogury@34.8.8.0?type=aar
+- pkg:maven/com.tradplusad/tradplus-ogury@34.8.9.0.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-ogury@34.8.9.0?type=aar
+- pkg:maven/com.tradplusad/tradplus-ogury@34.8.9.10.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-ogury@34.8.9.10?type=aar
+- pkg:maven/com.tradplusad/tradplus-ogury@34.9.0.0.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-ogury@34.9.0.0?type=aar

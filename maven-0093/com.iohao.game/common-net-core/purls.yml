@@ -1,0 +1,2 @@
+- pkg:maven/com.iohao.game/common-net-core@17.1.27
+- pkg:maven/com.iohao.game/common-net-core@17.1.27?classifier=sources

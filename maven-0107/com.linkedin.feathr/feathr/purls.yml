@@ -1,0 +1,2 @@
+- pkg:maven/com.linkedin.feathr/feathr@0.10.1-rc2?classifier=sources
+- pkg:maven/com.linkedin.feathr/feathr@0.9.1?classifier=sources

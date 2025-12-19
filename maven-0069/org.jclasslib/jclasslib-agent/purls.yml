@@ -1,1 +1,2 @@
 - pkg:maven/org.jclasslib/jclasslib-agent@6.0.2?classifier=sources
+- pkg:maven/org.jclasslib/jclasslib-agent@6.0.4?classifier=sources

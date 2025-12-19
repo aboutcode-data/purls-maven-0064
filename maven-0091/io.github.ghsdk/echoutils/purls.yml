@@ -1,3 +1,5 @@
+- pkg:maven/io.github.ghsdk/echoutils@1.0.10?classifier=sources
+- pkg:maven/io.github.ghsdk/echoutils@1.0.12?classifier=sources
 - pkg:maven/io.github.ghsdk/echoutils@1.0.1?classifier=sources
 - pkg:maven/io.github.ghsdk/echoutils@1.0.3?classifier=sources
 - pkg:maven/io.github.ghsdk/echoutils@1.0.4?classifier=sources

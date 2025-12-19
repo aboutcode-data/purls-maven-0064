@@ -16,3 +16,5 @@
 - pkg:maven/com.dukescript.nbjavac/nb-javac@jdk-18.0.1%2B10?classifier=sources
 - pkg:maven/com.dukescript.nbjavac/nb-javac@jdk-19%2B33
 - pkg:maven/com.dukescript.nbjavac/nb-javac@jdk-19%2B33?classifier=sources
+- pkg:maven/com.dukescript.nbjavac/nb-javac@jdk-19.0.1-ga
+- pkg:maven/com.dukescript.nbjavac/nb-javac@jdk-19.0.1-ga?classifier=sources

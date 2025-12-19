@@ -1,0 +1,2 @@
+- pkg:maven/ru.quipy/tiny-mongo-event-store-spring-boot-starter@2.1.1
+- pkg:maven/ru.quipy/tiny-mongo-event-store-spring-boot-starter@2.1.1?classifier=sources

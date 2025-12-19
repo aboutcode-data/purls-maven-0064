@@ -6,3 +6,5 @@
 - pkg:maven/org.a05annex/a05annexUtil@0.8.7?classifier=sources
 - pkg:maven/org.a05annex/a05annexUtil@0.9.1
 - pkg:maven/org.a05annex/a05annexUtil@0.9.1?classifier=sources
+- pkg:maven/org.a05annex/a05annexUtil@0.9.4
+- pkg:maven/org.a05annex/a05annexUtil@0.9.4?classifier=sources

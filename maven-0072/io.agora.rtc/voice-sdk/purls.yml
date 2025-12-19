@@ -1,3 +1,5 @@
+- pkg:maven/io.agora.rtc/voice-sdk@12-15-ci-test-2?type=aar
+- pkg:maven/io.agora.rtc/voice-sdk@12-15-ci-test?type=aar
 - pkg:maven/io.agora.rtc/voice-sdk@3.4.0?type=aar
 - pkg:maven/io.agora.rtc/voice-sdk@3.4.11.1?type=aar
 - pkg:maven/io.agora.rtc/voice-sdk@3.4.11.3?type=aar
@@ -40,4 +42,6 @@
 - pkg:maven/io.agora.rtc/voice-sdk@4.0.0-rc.1?type=aar
 - pkg:maven/io.agora.rtc/voice-sdk@4.0.0.3?type=aar
 - pkg:maven/io.agora.rtc/voice-sdk@4.0.0.4?type=aar
+- pkg:maven/io.agora.rtc/voice-sdk@4.0.1.4-ci-test?type=aar
 - pkg:maven/io.agora.rtc/voice-sdk@4.0.1?type=aar
+- pkg:maven/io.agora.rtc/voice-sdk@4.1.0?type=aar

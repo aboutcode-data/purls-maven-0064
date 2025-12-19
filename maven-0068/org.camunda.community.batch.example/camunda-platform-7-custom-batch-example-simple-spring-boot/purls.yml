@@ -1,3 +1,5 @@
+- pkg:maven/org.camunda.community.batch.example/camunda-platform-7-custom-batch-example-simple-spring-boot@1.18.1
+- pkg:maven/org.camunda.community.batch.example/camunda-platform-7-custom-batch-example-simple-spring-boot@1.18.1?classifier=sources
 - pkg:maven/org.camunda.community.batch.example/camunda-platform-7-custom-batch-example-simple-spring-boot@1.6.0
 - pkg:maven/org.camunda.community.batch.example/camunda-platform-7-custom-batch-example-simple-spring-boot@1.6.0?classifier=sources
 - pkg:maven/org.camunda.community.batch.example/camunda-platform-7-custom-batch-example-simple-spring-boot@v1.6.0

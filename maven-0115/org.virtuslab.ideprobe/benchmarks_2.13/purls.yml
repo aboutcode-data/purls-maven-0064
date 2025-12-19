@@ -68,3 +68,5 @@
 - pkg:maven/org.virtuslab.ideprobe/benchmarks_2.13@0.48.0?classifier=sources
 - pkg:maven/org.virtuslab.ideprobe/benchmarks_2.13@0.49.0
 - pkg:maven/org.virtuslab.ideprobe/benchmarks_2.13@0.49.0?classifier=sources
+- pkg:maven/org.virtuslab.ideprobe/benchmarks_2.13@0.50.0
+- pkg:maven/org.virtuslab.ideprobe/benchmarks_2.13@0.50.0?classifier=sources

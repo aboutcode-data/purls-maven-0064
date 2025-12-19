@@ -4,3 +4,4 @@
 - pkg:maven/org.mybatis.caches/mybatis-memcached@1.0.0?classifier=sources
 - pkg:maven/org.mybatis.caches/mybatis-memcached@1.1.0?classifier=sources
 - pkg:maven/org.mybatis.caches/mybatis-memcached@1.1.0?type=zip
+- pkg:maven/org.mybatis.caches/mybatis-memcached@1.1.1?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.scalaz/scalaz-concurrent_3@7.2.34
 - pkg:maven/org.scalaz/scalaz-concurrent_3@7.2.34?classifier=sources
+- pkg:maven/org.scalaz/scalaz-concurrent_3@7.2.35
+- pkg:maven/org.scalaz/scalaz-concurrent_3@7.2.35?classifier=sources

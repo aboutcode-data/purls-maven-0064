@@ -1,0 +1,4 @@
+- pkg:maven/com.myzlab.ksearch.springboot.jpa/k@2.0.11
+- pkg:maven/com.myzlab.ksearch.springboot.jpa/k@2.0.11?classifier=sources
+- pkg:maven/com.myzlab.ksearch.springboot.jpa/k@2.0.12
+- pkg:maven/com.myzlab.ksearch.springboot.jpa/k@2.0.12?classifier=sources

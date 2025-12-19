@@ -1,2 +1,4 @@
 - pkg:maven/com.adobe.aem/core-forms-components-af-core@1.0.38
 - pkg:maven/com.adobe.aem/core-forms-components-af-core@1.0.52
+- pkg:maven/com.adobe.aem/core-forms-components-af-core@1.0.54
+- pkg:maven/com.adobe.aem/core-forms-components-af-core@1.0.56

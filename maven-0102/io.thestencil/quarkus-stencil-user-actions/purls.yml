@@ -1,0 +1,2 @@
+- pkg:maven/io.thestencil/quarkus-stencil-user-actions@1.148.16
+- pkg:maven/io.thestencil/quarkus-stencil-user-actions@1.148.16?classifier=sources

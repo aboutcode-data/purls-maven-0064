@@ -1,0 +1,2 @@
+- pkg:maven/com.github.CCweixiao/hbase-sdk-adapter-common@3.0.0
+- pkg:maven/com.github.CCweixiao/hbase-sdk-adapter-common@3.0.0?classifier=sources

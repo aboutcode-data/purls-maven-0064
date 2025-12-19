@@ -6,3 +6,5 @@
 - pkg:maven/com.google.apis/google-api-services-integrations@v1alpha-rev20221019-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-integrations@v1alpha-rev20221025-2.0.0
 - pkg:maven/com.google.apis/google-api-services-integrations@v1alpha-rev20221025-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-integrations@v1alpha-rev20221122-2.0.0
+- pkg:maven/com.google.apis/google-api-services-integrations@v1alpha-rev20221122-2.0.0?classifier=sources

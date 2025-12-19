@@ -198,6 +198,8 @@
 - pkg:maven/org.kill-bill.billing/killbill-api@0.53.8?classifier=sources
 - pkg:maven/org.kill-bill.billing/killbill-api@0.53.9
 - pkg:maven/org.kill-bill.billing/killbill-api@0.53.9?classifier=sources
+- pkg:maven/org.kill-bill.billing/killbill-api@0.54.0
+- pkg:maven/org.kill-bill.billing/killbill-api@0.54.0?classifier=sources
 - pkg:maven/org.kill-bill.billing/killbill-api@0.8.2
 - pkg:maven/org.kill-bill.billing/killbill-api@0.8.2?classifier=sources
 - pkg:maven/org.kill-bill.billing/killbill-api@0.8.3

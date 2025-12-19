@@ -1,3 +1,4 @@
+- pkg:maven/org.n52.sensorweb-server.dao-impl/dao-impl-repo@4.0.0
 - pkg:maven/org.n52.sensorweb-server.dao-impl/dao-impl-repo@4.0.0-PR.1
 - pkg:maven/org.n52.sensorweb-server.dao-impl/dao-impl-repo@4.0.0-PR.10
 - pkg:maven/org.n52.sensorweb-server.dao-impl/dao-impl-repo@4.0.0-PR.10?classifier=sources
@@ -7,6 +8,14 @@
 - pkg:maven/org.n52.sensorweb-server.dao-impl/dao-impl-repo@4.0.0-PR.12?classifier=sources
 - pkg:maven/org.n52.sensorweb-server.dao-impl/dao-impl-repo@4.0.0-PR.13
 - pkg:maven/org.n52.sensorweb-server.dao-impl/dao-impl-repo@4.0.0-PR.13?classifier=sources
+- pkg:maven/org.n52.sensorweb-server.dao-impl/dao-impl-repo@4.0.0-PR.14
+- pkg:maven/org.n52.sensorweb-server.dao-impl/dao-impl-repo@4.0.0-PR.14?classifier=sources
+- pkg:maven/org.n52.sensorweb-server.dao-impl/dao-impl-repo@4.0.0-PR.15
+- pkg:maven/org.n52.sensorweb-server.dao-impl/dao-impl-repo@4.0.0-PR.15?classifier=sources
+- pkg:maven/org.n52.sensorweb-server.dao-impl/dao-impl-repo@4.0.0-PR.16
+- pkg:maven/org.n52.sensorweb-server.dao-impl/dao-impl-repo@4.0.0-PR.16?classifier=sources
+- pkg:maven/org.n52.sensorweb-server.dao-impl/dao-impl-repo@4.0.0-PR.17
+- pkg:maven/org.n52.sensorweb-server.dao-impl/dao-impl-repo@4.0.0-PR.17?classifier=sources
 - pkg:maven/org.n52.sensorweb-server.dao-impl/dao-impl-repo@4.0.0-PR.1?classifier=sources
 - pkg:maven/org.n52.sensorweb-server.dao-impl/dao-impl-repo@4.0.0-PR.2
 - pkg:maven/org.n52.sensorweb-server.dao-impl/dao-impl-repo@4.0.0-PR.2?classifier=sources
@@ -24,3 +33,6 @@
 - pkg:maven/org.n52.sensorweb-server.dao-impl/dao-impl-repo@4.0.0-PR.8?classifier=sources
 - pkg:maven/org.n52.sensorweb-server.dao-impl/dao-impl-repo@4.0.0-PR.9
 - pkg:maven/org.n52.sensorweb-server.dao-impl/dao-impl-repo@4.0.0-PR.9?classifier=sources
+- pkg:maven/org.n52.sensorweb-server.dao-impl/dao-impl-repo@4.0.0?classifier=sources
+- pkg:maven/org.n52.sensorweb-server.dao-impl/dao-impl-repo@4.0.1
+- pkg:maven/org.n52.sensorweb-server.dao-impl/dao-impl-repo@4.0.1?classifier=sources

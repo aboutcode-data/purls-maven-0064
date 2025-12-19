@@ -2,3 +2,5 @@
 - pkg:maven/org.codebrewer.intellij.platform/intellij-platform-plugin-utilities@1.0.2.M2
 - pkg:maven/org.codebrewer.intellij.platform/intellij-platform-plugin-utilities@1.0.2.M2?classifier=sources
 - pkg:maven/org.codebrewer.intellij.platform/intellij-platform-plugin-utilities@1.0.2?classifier=sources
+- pkg:maven/org.codebrewer.intellij.platform/intellij-platform-plugin-utilities@1.0.3
+- pkg:maven/org.codebrewer.intellij.platform/intellij-platform-plugin-utilities@1.0.3?classifier=sources

@@ -26,3 +26,5 @@
 - pkg:maven/org.apache.opennlp/opennlp-morfologik-addon@1.9.4?classifier=sources
 - pkg:maven/org.apache.opennlp/opennlp-morfologik-addon@2.0.0
 - pkg:maven/org.apache.opennlp/opennlp-morfologik-addon@2.0.0?classifier=sources
+- pkg:maven/org.apache.opennlp/opennlp-morfologik-addon@2.1.0
+- pkg:maven/org.apache.opennlp/opennlp-morfologik-addon@2.1.0?classifier=sources

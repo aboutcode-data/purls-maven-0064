@@ -1,0 +1,2 @@
+- pkg:maven/io.github.alexarchambault.tmp/scalajscli-1.12.0_2.13@1.1.3-sc1
+- pkg:maven/io.github.alexarchambault.tmp/scalajscli-1.12.0_2.13@1.1.3-sc1?classifier=sources

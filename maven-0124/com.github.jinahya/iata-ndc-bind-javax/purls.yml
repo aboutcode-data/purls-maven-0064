@@ -1,0 +1,2 @@
+- pkg:maven/com.github.jinahya/iata-ndc-bind-javax@0.0.1
+- pkg:maven/com.github.jinahya/iata-ndc-bind-javax@0.0.1?classifier=sources

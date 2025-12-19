@@ -12,3 +12,5 @@
 - pkg:maven/org.open-metadata/openmetadata-java-client@0.12.2-REPUBLISHED
 - pkg:maven/org.open-metadata/openmetadata-java-client@0.12.2-REPUBLISHED?classifier=sources
 - pkg:maven/org.open-metadata/openmetadata-java-client@0.12.2?classifier=sources
+- pkg:maven/org.open-metadata/openmetadata-java-client@0.13.1
+- pkg:maven/org.open-metadata/openmetadata-java-client@0.13.1?classifier=sources

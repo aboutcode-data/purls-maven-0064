@@ -1,0 +1,6 @@
+- pkg:maven/software.amazon.awscdk/grafana@1.183.0
+- pkg:maven/software.amazon.awscdk/grafana@1.183.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/grafana@1.184.0
+- pkg:maven/software.amazon.awscdk/grafana@1.184.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/grafana@1.184.1
+- pkg:maven/software.amazon.awscdk/grafana@1.184.1?classifier=sources

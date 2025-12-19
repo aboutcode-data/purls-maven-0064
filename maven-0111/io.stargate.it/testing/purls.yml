@@ -168,8 +168,12 @@
 - pkg:maven/io.stargate.it/testing@1.0.67?classifier=sources
 - pkg:maven/io.stargate.it/testing@1.0.68
 - pkg:maven/io.stargate.it/testing@1.0.68?classifier=sources
+- pkg:maven/io.stargate.it/testing@1.0.69
+- pkg:maven/io.stargate.it/testing@1.0.69?classifier=sources
 - pkg:maven/io.stargate.it/testing@1.0.6?classifier=sources
 - pkg:maven/io.stargate.it/testing@1.0.7
+- pkg:maven/io.stargate.it/testing@1.0.70
+- pkg:maven/io.stargate.it/testing@1.0.70?classifier=sources
 - pkg:maven/io.stargate.it/testing@1.0.7?classifier=sources
 - pkg:maven/io.stargate.it/testing@1.0.8
 - pkg:maven/io.stargate.it/testing@1.0.8?classifier=sources
@@ -223,3 +227,9 @@
 - pkg:maven/io.stargate.it/testing@2.0.0-RC-1
 - pkg:maven/io.stargate.it/testing@2.0.0-RC-1?classifier=sources
 - pkg:maven/io.stargate.it/testing@2.0.0?classifier=sources
+- pkg:maven/io.stargate.it/testing@2.0.1
+- pkg:maven/io.stargate.it/testing@2.0.1?classifier=sources
+- pkg:maven/io.stargate.it/testing@2.0.2
+- pkg:maven/io.stargate.it/testing@2.0.2?classifier=sources
+- pkg:maven/io.stargate.it/testing@2.0.3
+- pkg:maven/io.stargate.it/testing@2.0.3?classifier=sources

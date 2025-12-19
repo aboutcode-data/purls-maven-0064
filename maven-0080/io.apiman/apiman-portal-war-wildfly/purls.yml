@@ -1,0 +1,4 @@
+- pkg:maven/io.apiman/apiman-portal-war-wildfly@3.0.0.Final?classifier=sources
+- pkg:maven/io.apiman/apiman-portal-war-wildfly@3.0.0.Final?type=war
+- pkg:maven/io.apiman/apiman-portal-war-wildfly@3.0.0.RC6?classifier=sources
+- pkg:maven/io.apiman/apiman-portal-war-wildfly@3.0.0.RC6?type=war

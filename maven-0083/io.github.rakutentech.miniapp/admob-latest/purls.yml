@@ -9,3 +9,4 @@
 - pkg:maven/io.github.rakutentech.miniapp/admob-latest@4.2.0?classifier=sources
 - pkg:maven/io.github.rakutentech.miniapp/admob-latest@4.3.0?classifier=sources
 - pkg:maven/io.github.rakutentech.miniapp/admob-latest@5.0.0?classifier=sources
+- pkg:maven/io.github.rakutentech.miniapp/admob-latest@5.0.1?classifier=sources

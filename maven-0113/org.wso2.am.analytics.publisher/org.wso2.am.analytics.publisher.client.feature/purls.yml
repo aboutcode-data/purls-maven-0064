@@ -15,3 +15,4 @@
 - pkg:maven/org.wso2.am.analytics.publisher/org.wso2.am.analytics.publisher.client.feature@1.0.4?classifier=sources
 - pkg:maven/org.wso2.am.analytics.publisher/org.wso2.am.analytics.publisher.client.feature@1.0.5?classifier=sources
 - pkg:maven/org.wso2.am.analytics.publisher/org.wso2.am.analytics.publisher.client.feature@1.0.6?classifier=sources
+- pkg:maven/org.wso2.am.analytics.publisher/org.wso2.am.analytics.publisher.client.feature@1.1.0?classifier=sources

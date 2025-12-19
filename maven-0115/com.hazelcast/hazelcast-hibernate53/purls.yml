@@ -18,3 +18,5 @@
 - pkg:maven/com.hazelcast/hazelcast-hibernate53@2.2.1?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-hibernate53@2.3.0
 - pkg:maven/com.hazelcast/hazelcast-hibernate53@2.3.0?classifier=sources
+- pkg:maven/com.hazelcast/hazelcast-hibernate53@5.0.0
+- pkg:maven/com.hazelcast/hazelcast-hibernate53@5.0.0?classifier=sources

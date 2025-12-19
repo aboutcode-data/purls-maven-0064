@@ -48,3 +48,6 @@
 - pkg:maven/org.drools/drools-legacy-test-util@8.28.0.Beta
 - pkg:maven/org.drools/drools-legacy-test-util@8.29.0.Final
 - pkg:maven/org.drools/drools-legacy-test-util@8.30.0.Final
+- pkg:maven/org.drools/drools-legacy-test-util@8.31.0.Final
+- pkg:maven/org.drools/drools-legacy-test-util@8.31.1.Final
+- pkg:maven/org.drools/drools-legacy-test-util@8.32.0.Final
