@@ -30,3 +30,4 @@
 - pkg:maven/com.configcat/configcat-android-client@6.0.3?classifier=sources
 - pkg:maven/com.configcat/configcat-android-client@6.0.4?classifier=sources
 - pkg:maven/com.configcat/configcat-android-client@7.0.0?classifier=sources
+- pkg:maven/com.configcat/configcat-android-client@7.0.3?classifier=sources

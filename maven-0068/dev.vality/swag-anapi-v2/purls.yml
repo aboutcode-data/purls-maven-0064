@@ -10,3 +10,5 @@
 - pkg:maven/dev.vality/swag-anapi-v2@1.69-0405be2-server?classifier=sources
 - pkg:maven/dev.vality/swag-anapi-v2@1.71-048ff68-server
 - pkg:maven/dev.vality/swag-anapi-v2@1.71-048ff68-server?classifier=sources
+- pkg:maven/dev.vality/swag-anapi-v2@1.76-ec7a406-server
+- pkg:maven/dev.vality/swag-anapi-v2@1.76-ec7a406-server?classifier=sources

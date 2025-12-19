@@ -1,0 +1,2 @@
+- pkg:maven/com.wgtwo.api.v0.grpc/sipbreakout@0.1.2
+- pkg:maven/com.wgtwo.api.v0.grpc/sipbreakout@0.1.2?classifier=sources

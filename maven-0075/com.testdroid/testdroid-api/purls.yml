@@ -249,3 +249,7 @@
 - pkg:maven/com.testdroid/testdroid-api@2.99
 - pkg:maven/com.testdroid/testdroid-api@2.99?classifier=sources
 - pkg:maven/com.testdroid/testdroid-api@2.9?classifier=sources
+- pkg:maven/com.testdroid/testdroid-api@3.0
+- pkg:maven/com.testdroid/testdroid-api@3.0?classifier=sources
+- pkg:maven/com.testdroid/testdroid-api@3.1
+- pkg:maven/com.testdroid/testdroid-api@3.1?classifier=sources

@@ -1,0 +1,5 @@
+- pkg:maven/io.github.leofuso/actuator-kafka-stream@v2.7.0.1.RELEASE?classifier=sources
+- pkg:maven/io.github.leofuso/actuator-kafka-stream@v2.7.0.2.RELEASE?classifier=sources
+- pkg:maven/io.github.leofuso/actuator-kafka-stream@v2.7.0.3.RELEASE?classifier=sources
+- pkg:maven/io.github.leofuso/actuator-kafka-stream@v2.7.0.4.RELEASE?classifier=sources
+- pkg:maven/io.github.leofuso/actuator-kafka-stream@v2.7.0.RELEASE?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/org.apache.flink/flink-ml-lib@1.9.2?classifier=sources
 - pkg:maven/org.apache.flink/flink-ml-lib@1.9.3
 - pkg:maven/org.apache.flink/flink-ml-lib@1.9.3?classifier=sources
+- pkg:maven/org.apache.flink/flink-ml-lib@2.1.0
+- pkg:maven/org.apache.flink/flink-ml-lib@2.1.0?classifier=sources

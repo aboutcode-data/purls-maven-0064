@@ -34,3 +34,6 @@
 - pkg:maven/com.palantir.conjure.java/conjure-undertow-annotations@6.48.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java/conjure-undertow-annotations@6.49.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java/conjure-undertow-annotations@6.50.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java/conjure-undertow-annotations@6.51.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java/conjure-undertow-annotations@6.52.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java/conjure-undertow-annotations@6.53.0?classifier=sources

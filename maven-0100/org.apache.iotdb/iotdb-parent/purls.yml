@@ -11,7 +11,9 @@
 - pkg:maven/org.apache.iotdb/iotdb-parent@0.12.3?classifier=source-release&type=zip
 - pkg:maven/org.apache.iotdb/iotdb-parent@0.12.4?classifier=source-release&type=zip
 - pkg:maven/org.apache.iotdb/iotdb-parent@0.12.5?classifier=source-release&type=zip
+- pkg:maven/org.apache.iotdb/iotdb-parent@0.12.6?classifier=source-release&type=zip
 - pkg:maven/org.apache.iotdb/iotdb-parent@0.13.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.iotdb/iotdb-parent@0.14.0-preview1?classifier=source-release&type=zip
 - pkg:maven/org.apache.iotdb/iotdb-parent@0.8.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.iotdb/iotdb-parent@0.8.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.iotdb/iotdb-parent@0.8.2?classifier=source-release&type=zip

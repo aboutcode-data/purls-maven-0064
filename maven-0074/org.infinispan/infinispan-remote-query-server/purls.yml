@@ -186,6 +186,8 @@
 - pkg:maven/org.infinispan/infinispan-remote-query-server@14.0.0.Dev02?classifier=sources
 - pkg:maven/org.infinispan/infinispan-remote-query-server@14.0.0.Dev03
 - pkg:maven/org.infinispan/infinispan-remote-query-server@14.0.0.Dev03?classifier=sources
+- pkg:maven/org.infinispan/infinispan-remote-query-server@14.0.0.Dev04
+- pkg:maven/org.infinispan/infinispan-remote-query-server@14.0.0.Dev04?classifier=sources
 - pkg:maven/org.infinispan/infinispan-remote-query-server@6.0.0.Alpha4
 - pkg:maven/org.infinispan/infinispan-remote-query-server@6.0.0.Alpha4?classifier=sources
 - pkg:maven/org.infinispan/infinispan-remote-query-server@6.0.0.Beta1

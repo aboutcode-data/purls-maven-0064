@@ -8,3 +8,7 @@
 - pkg:maven/io.github.dvgaba/easy-rules-tutorials@1.0.1?type=war
 - pkg:maven/io.github.dvgaba/easy-rules-tutorials@1.0.2?classifier=sources
 - pkg:maven/io.github.dvgaba/easy-rules-tutorials@1.0.2?type=war
+- pkg:maven/io.github.dvgaba/easy-rules-tutorials@1.0.3?classifier=sources
+- pkg:maven/io.github.dvgaba/easy-rules-tutorials@1.0.3?type=war
+- pkg:maven/io.github.dvgaba/easy-rules-tutorials@1.0.4?classifier=sources
+- pkg:maven/io.github.dvgaba/easy-rules-tutorials@1.0.4?type=war

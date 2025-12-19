@@ -1,0 +1,2 @@
+- pkg:maven/io.github.aliaksei-karaliou/provideable@0.0.1
+- pkg:maven/io.github.aliaksei-karaliou/provideable@0.0.1?classifier=sources

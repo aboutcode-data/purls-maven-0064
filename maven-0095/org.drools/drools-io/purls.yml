@@ -1,0 +1,2 @@
+- pkg:maven/org.drools/drools-io@8.25.0.Beta
+- pkg:maven/org.drools/drools-io@8.25.0.Beta?classifier=sources

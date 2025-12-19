@@ -1,0 +1,2 @@
+- pkg:maven/ch.exense.step/step-framework-server-plugins@2.0.0
+- pkg:maven/ch.exense.step/step-framework-server-plugins@2.0.0?classifier=sources

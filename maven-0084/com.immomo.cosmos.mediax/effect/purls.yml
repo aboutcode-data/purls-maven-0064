@@ -10,3 +10,7 @@
 - pkg:maven/com.immomo.cosmos.mediax/effect@3.0.1-202206021822?type=aar
 - pkg:maven/com.immomo.cosmos.mediax/effect@3.0.1-202206061902?classifier=sources
 - pkg:maven/com.immomo.cosmos.mediax/effect@3.0.1-202206061902?type=aar
+- pkg:maven/com.immomo.cosmos.mediax/effect@3.0.1-202206161504?classifier=sources
+- pkg:maven/com.immomo.cosmos.mediax/effect@3.0.1-202206161504?type=aar
+- pkg:maven/com.immomo.cosmos.mediax/effect@3.0.1-202206161621?classifier=sources
+- pkg:maven/com.immomo.cosmos.mediax/effect@3.0.1-202206161621?type=aar

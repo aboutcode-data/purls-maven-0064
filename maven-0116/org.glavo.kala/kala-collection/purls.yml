@@ -3,3 +3,7 @@
 - pkg:maven/org.glavo.kala/kala-collection@0.37.0?classifier=sources
 - pkg:maven/org.glavo.kala/kala-collection@0.38.0?classifier=sources
 - pkg:maven/org.glavo.kala/kala-collection@0.39.0?classifier=sources
+- pkg:maven/org.glavo.kala/kala-collection@0.40.0?classifier=sources
+- pkg:maven/org.glavo.kala/kala-collection@0.41.0?classifier=sources
+- pkg:maven/org.glavo.kala/kala-collection@0.42.0?classifier=sources
+- pkg:maven/org.glavo.kala/kala-collection@0.43.0?classifier=sources

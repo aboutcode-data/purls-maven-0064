@@ -1,0 +1,2 @@
+- pkg:maven/io.github.kubrickliu/safe-call@1.0.1
+- pkg:maven/io.github.kubrickliu/safe-call@1.0.1?classifier=sources

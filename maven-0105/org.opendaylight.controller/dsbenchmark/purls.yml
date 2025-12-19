@@ -158,3 +158,4 @@
 - pkg:maven/org.opendaylight.controller/dsbenchmark@5.0.4
 - pkg:maven/org.opendaylight.controller/dsbenchmark@5.0.4?classifier=sources
 - pkg:maven/org.opendaylight.controller/dsbenchmark@5.0.5?classifier=sources
+- pkg:maven/org.opendaylight.controller/dsbenchmark@6.0.0?classifier=sources

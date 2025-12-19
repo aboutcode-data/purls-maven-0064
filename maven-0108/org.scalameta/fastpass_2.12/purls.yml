@@ -38,6 +38,7 @@
 - pkg:maven/org.scalameta/fastpass_2.12@1.8.0?classifier=sources
 - pkg:maven/org.scalameta/fastpass_2.12@1.9.0
 - pkg:maven/org.scalameta/fastpass_2.12@1.9.0?classifier=sources
+- pkg:maven/org.scalameta/fastpass_2.12@2.0.0
 - pkg:maven/org.scalameta/fastpass_2.12@2.0.0-M1
 - pkg:maven/org.scalameta/fastpass_2.12@2.0.0-M1?classifier=sources
 - pkg:maven/org.scalameta/fastpass_2.12@2.0.0-M2
@@ -46,3 +47,12 @@
 - pkg:maven/org.scalameta/fastpass_2.12@2.0.0-M3?classifier=sources
 - pkg:maven/org.scalameta/fastpass_2.12@2.0.0-M4
 - pkg:maven/org.scalameta/fastpass_2.12@2.0.0-M4?classifier=sources
+- pkg:maven/org.scalameta/fastpass_2.12@2.0.0-RC1
+- pkg:maven/org.scalameta/fastpass_2.12@2.0.0-RC1?classifier=sources
+- pkg:maven/org.scalameta/fastpass_2.12@2.0.0-RC2
+- pkg:maven/org.scalameta/fastpass_2.12@2.0.0-RC2?classifier=sources
+- pkg:maven/org.scalameta/fastpass_2.12@2.0.0?classifier=sources
+- pkg:maven/org.scalameta/fastpass_2.12@2.0.1
+- pkg:maven/org.scalameta/fastpass_2.12@2.0.1?classifier=sources
+- pkg:maven/org.scalameta/fastpass_2.12@2.1.0
+- pkg:maven/org.scalameta/fastpass_2.12@2.1.0?classifier=sources

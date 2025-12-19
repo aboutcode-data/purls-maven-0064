@@ -1,0 +1,2 @@
+- pkg:maven/io.opencaesar.oml/oml-convert-gradle@1.3.0
+- pkg:maven/io.opencaesar.oml/oml-convert-gradle@1.3.0?classifier=sources

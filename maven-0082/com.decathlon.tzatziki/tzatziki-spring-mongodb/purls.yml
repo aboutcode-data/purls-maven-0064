@@ -1,0 +1,2 @@
+- pkg:maven/com.decathlon.tzatziki/tzatziki-spring-mongodb@1.0.46
+- pkg:maven/com.decathlon.tzatziki/tzatziki-spring-mongodb@1.0.46?classifier=sources

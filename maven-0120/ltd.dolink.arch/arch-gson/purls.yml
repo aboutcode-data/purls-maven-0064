@@ -5,3 +5,4 @@
 - pkg:maven/ltd.dolink.arch/arch-gson@0.1.6?classifier=sources
 - pkg:maven/ltd.dolink.arch/arch-gson@0.1.7?classifier=sources
 - pkg:maven/ltd.dolink.arch/arch-gson@1.0.0?classifier=sources
+- pkg:maven/ltd.dolink.arch/arch-gson@1.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.acm19/aws-request-signing-apache-interceptor@2.1.1
+- pkg:maven/io.github.acm19/aws-request-signing-apache-interceptor@2.1.1?classifier=sources

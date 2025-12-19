@@ -3,3 +3,4 @@
 - pkg:maven/me.2bab/koncat-gradle-plugin@1.0.1?classifier=sources
 - pkg:maven/me.2bab/koncat-gradle-plugin@2.0.0?classifier=sources
 - pkg:maven/me.2bab/koncat-gradle-plugin@2.0.1?classifier=sources
+- pkg:maven/me.2bab/koncat-gradle-plugin@2.1.0?classifier=sources

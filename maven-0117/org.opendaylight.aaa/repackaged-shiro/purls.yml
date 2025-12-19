@@ -38,3 +38,4 @@
 - pkg:maven/org.opendaylight.aaa/repackaged-shiro@0.15.4
 - pkg:maven/org.opendaylight.aaa/repackaged-shiro@0.15.4?classifier=sources
 - pkg:maven/org.opendaylight.aaa/repackaged-shiro@0.15.5?classifier=sources
+- pkg:maven/org.opendaylight.aaa/repackaged-shiro@0.16.0?classifier=sources

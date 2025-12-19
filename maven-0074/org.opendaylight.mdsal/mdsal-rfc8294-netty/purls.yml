@@ -1,3 +1,4 @@
+- pkg:maven/org.opendaylight.mdsal/mdsal-rfc8294-netty@10.0.0?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-rfc8294-netty@7.0.0
 - pkg:maven/org.opendaylight.mdsal/mdsal-rfc8294-netty@7.0.0?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-rfc8294-netty@7.0.1

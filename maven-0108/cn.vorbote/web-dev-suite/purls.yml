@@ -37,3 +37,9 @@
 - pkg:maven/cn.vorbote/web-dev-suite@3.0.0?classifier=sources
 - pkg:maven/cn.vorbote/web-dev-suite@3.1.0
 - pkg:maven/cn.vorbote/web-dev-suite@3.1.0?classifier=sources
+- pkg:maven/cn.vorbote/web-dev-suite@3.2.0
+- pkg:maven/cn.vorbote/web-dev-suite@3.2.0?classifier=sources
+- pkg:maven/cn.vorbote/web-dev-suite@3.3.0
+- pkg:maven/cn.vorbote/web-dev-suite@3.3.0?classifier=sources
+- pkg:maven/cn.vorbote/web-dev-suite@3.3.1
+- pkg:maven/cn.vorbote/web-dev-suite@3.3.1?classifier=sources

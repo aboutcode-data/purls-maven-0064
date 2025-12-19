@@ -1,6 +1,10 @@
+- pkg:maven/io.github.fornewid/material-motion-compose-core@0.10.0-alpha?classifier=sources
 - pkg:maven/io.github.fornewid/material-motion-compose-core@0.8.3?classifier=sources
 - pkg:maven/io.github.fornewid/material-motion-compose-core@0.8.4?classifier=sources
 - pkg:maven/io.github.fornewid/material-motion-compose-core@0.9.0-alpha09?classifier=sources
 - pkg:maven/io.github.fornewid/material-motion-compose-core@0.9.0-beta01?classifier=sources
 - pkg:maven/io.github.fornewid/material-motion-compose-core@0.9.0-beta02?classifier=sources
 - pkg:maven/io.github.fornewid/material-motion-compose-core@0.9.0-beta03?classifier=sources
+- pkg:maven/io.github.fornewid/material-motion-compose-core@0.9.0-rc01?classifier=sources
+- pkg:maven/io.github.fornewid/material-motion-compose-core@0.9.0-rc02?classifier=sources
+- pkg:maven/io.github.fornewid/material-motion-compose-core@0.9.0-rc03?classifier=sources

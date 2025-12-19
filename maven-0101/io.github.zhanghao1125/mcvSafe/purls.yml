@@ -1,1 +1,2 @@
 - pkg:maven/io.github.zhanghao1125/mcvSafe@1.2.2?classifier=sources
+- pkg:maven/io.github.zhanghao1125/mcvSafe@1.2.3?classifier=sources

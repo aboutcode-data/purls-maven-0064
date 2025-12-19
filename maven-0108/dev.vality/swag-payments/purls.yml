@@ -2,3 +2,15 @@
 - pkg:maven/dev.vality/swag-payments@1.627-0089567-client?classifier=sources
 - pkg:maven/dev.vality/swag-payments@1.627-0089567-server
 - pkg:maven/dev.vality/swag-payments@1.627-0089567-server?classifier=sources
+- pkg:maven/dev.vality/swag-payments@1.628-b1f2846-client
+- pkg:maven/dev.vality/swag-payments@1.628-b1f2846-client?classifier=sources
+- pkg:maven/dev.vality/swag-payments@1.628-b1f2846-server
+- pkg:maven/dev.vality/swag-payments@1.628-b1f2846-server?classifier=sources
+- pkg:maven/dev.vality/swag-payments@1.629-b701eb2-client
+- pkg:maven/dev.vality/swag-payments@1.629-b701eb2-client?classifier=sources
+- pkg:maven/dev.vality/swag-payments@1.629-b701eb2-server
+- pkg:maven/dev.vality/swag-payments@1.629-b701eb2-server?classifier=sources
+- pkg:maven/dev.vality/swag-payments@1.630-007b1ea-client
+- pkg:maven/dev.vality/swag-payments@1.630-007b1ea-client?classifier=sources
+- pkg:maven/dev.vality/swag-payments@1.630-007b1ea-server
+- pkg:maven/dev.vality/swag-payments@1.630-007b1ea-server?classifier=sources

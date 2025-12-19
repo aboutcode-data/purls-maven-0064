@@ -1,0 +1,12 @@
+- pkg:maven/build.bleep/bleep-cli_2.13@0.0.1-M10
+- pkg:maven/build.bleep/bleep-cli_2.13@0.0.1-M10?classifier=sources
+- pkg:maven/build.bleep/bleep-cli_2.13@0.0.1-M11
+- pkg:maven/build.bleep/bleep-cli_2.13@0.0.1-M11?classifier=sources
+- pkg:maven/build.bleep/bleep-cli_2.13@0.0.1-M12
+- pkg:maven/build.bleep/bleep-cli_2.13@0.0.1-M12?classifier=sources
+- pkg:maven/build.bleep/bleep-cli_2.13@0.0.1-M13
+- pkg:maven/build.bleep/bleep-cli_2.13@0.0.1-M13?classifier=sources
+- pkg:maven/build.bleep/bleep-cli_2.13@0.0.1-M8
+- pkg:maven/build.bleep/bleep-cli_2.13@0.0.1-M8?classifier=sources
+- pkg:maven/build.bleep/bleep-cli_2.13@0.0.1-M9
+- pkg:maven/build.bleep/bleep-cli_2.13@0.0.1-M9?classifier=sources

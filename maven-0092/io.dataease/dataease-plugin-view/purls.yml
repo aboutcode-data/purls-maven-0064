@@ -4,6 +4,10 @@
 - pkg:maven/io.dataease/dataease-plugin-view@1.11.0?classifier=sources
 - pkg:maven/io.dataease/dataease-plugin-view@1.11.1
 - pkg:maven/io.dataease/dataease-plugin-view@1.11.1?classifier=sources
+- pkg:maven/io.dataease/dataease-plugin-view@1.11.3
+- pkg:maven/io.dataease/dataease-plugin-view@1.11.3?classifier=sources
+- pkg:maven/io.dataease/dataease-plugin-view@1.12.0
+- pkg:maven/io.dataease/dataease-plugin-view@1.12.0?classifier=sources
 - pkg:maven/io.dataease/dataease-plugin-view@1.8.0
 - pkg:maven/io.dataease/dataease-plugin-view@1.8.0?classifier=sources
 - pkg:maven/io.dataease/dataease-plugin-view@1.9.0

@@ -66,3 +66,5 @@
 - pkg:maven/org.apache.orc/orc-shims@1.7.3?classifier=sources
 - pkg:maven/org.apache.orc/orc-shims@1.7.4
 - pkg:maven/org.apache.orc/orc-shims@1.7.4?classifier=sources
+- pkg:maven/org.apache.orc/orc-shims@1.7.5
+- pkg:maven/org.apache.orc/orc-shims@1.7.5?classifier=sources

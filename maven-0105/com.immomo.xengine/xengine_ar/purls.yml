@@ -1,0 +1,2 @@
+- pkg:maven/com.immomo.xengine/xengine_ar@4.5.4.20220715.1914?classifier=sources
+- pkg:maven/com.immomo.xengine/xengine_ar@4.5.4.20220715.1914?type=aar

@@ -12,6 +12,8 @@
 - pkg:maven/io.wcm/io.wcm.wcm.core.components@1.10.0-2.18.6?classifier=sources
 - pkg:maven/io.wcm/io.wcm.wcm.core.components@1.11.0-2.19.0
 - pkg:maven/io.wcm/io.wcm.wcm.core.components@1.11.0-2.19.0?classifier=sources
+- pkg:maven/io.wcm/io.wcm.wcm.core.components@1.12.0-2.20.0
+- pkg:maven/io.wcm/io.wcm.wcm.core.components@1.12.0-2.20.0?classifier=sources
 - pkg:maven/io.wcm/io.wcm.wcm.core.components@1.2.0-2.7.0
 - pkg:maven/io.wcm/io.wcm.wcm.core.components@1.2.0-2.7.0?classifier=sources
 - pkg:maven/io.wcm/io.wcm.wcm.core.components@1.2.2-2.8.0

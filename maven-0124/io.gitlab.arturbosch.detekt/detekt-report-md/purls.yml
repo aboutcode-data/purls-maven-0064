@@ -1,0 +1,2 @@
+- pkg:maven/io.gitlab.arturbosch.detekt/detekt-report-md@1.21.0-RC2?classifier=sources
+- pkg:maven/io.gitlab.arturbosch.detekt/detekt-report-md@1.21.0?classifier=sources

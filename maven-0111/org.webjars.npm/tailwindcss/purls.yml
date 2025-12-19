@@ -38,3 +38,5 @@
 - pkg:maven/org.webjars.npm/tailwindcss@3.0.23?classifier=sources
 - pkg:maven/org.webjars.npm/tailwindcss@3.0.24
 - pkg:maven/org.webjars.npm/tailwindcss@3.0.24?classifier=sources
+- pkg:maven/org.webjars.npm/tailwindcss@3.1.4
+- pkg:maven/org.webjars.npm/tailwindcss@3.1.4?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.paypal.android/paypal-web-checkout@0.0.0?classifier=sources
+- pkg:maven/com.paypal.android/paypal-web-checkout@0.0.1?classifier=sources

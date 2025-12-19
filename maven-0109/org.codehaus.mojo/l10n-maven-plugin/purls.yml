@@ -2,3 +2,6 @@
 - pkg:maven/org.codehaus.mojo/l10n-maven-plugin@1.0-alpha-1?classifier=sources
 - pkg:maven/org.codehaus.mojo/l10n-maven-plugin@1.0-alpha-2
 - pkg:maven/org.codehaus.mojo/l10n-maven-plugin@1.0-alpha-2?classifier=sources
+- pkg:maven/org.codehaus.mojo/l10n-maven-plugin@1.0.0
+- pkg:maven/org.codehaus.mojo/l10n-maven-plugin@1.0.0?classifier=source-release&type=zip
+- pkg:maven/org.codehaus.mojo/l10n-maven-plugin@1.0.0?classifier=sources

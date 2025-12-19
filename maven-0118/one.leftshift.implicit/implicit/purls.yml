@@ -1,3 +1,4 @@
 - pkg:maven/one.leftshift.implicit/implicit@1.2.0
 - pkg:maven/one.leftshift.implicit/implicit@1.2.0?classifier=sources
 - pkg:maven/one.leftshift.implicit/implicit@1.3.0?classifier=sources
+- pkg:maven/one.leftshift.implicit/implicit@1.4.0?classifier=sources

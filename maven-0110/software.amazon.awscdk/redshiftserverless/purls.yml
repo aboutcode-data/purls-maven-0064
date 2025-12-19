@@ -1,0 +1,10 @@
+- pkg:maven/software.amazon.awscdk/redshiftserverless@1.163.0
+- pkg:maven/software.amazon.awscdk/redshiftserverless@1.163.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/redshiftserverless@1.163.1
+- pkg:maven/software.amazon.awscdk/redshiftserverless@1.163.1?classifier=sources
+- pkg:maven/software.amazon.awscdk/redshiftserverless@1.163.2
+- pkg:maven/software.amazon.awscdk/redshiftserverless@1.163.2?classifier=sources
+- pkg:maven/software.amazon.awscdk/redshiftserverless@1.164.0
+- pkg:maven/software.amazon.awscdk/redshiftserverless@1.164.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/redshiftserverless@1.165.0
+- pkg:maven/software.amazon.awscdk/redshiftserverless@1.165.0?classifier=sources

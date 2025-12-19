@@ -16,3 +16,5 @@
 - pkg:maven/com.sap.cds/cds4j-jdbc-spi@1.28.0?classifier=sources
 - pkg:maven/com.sap.cds/cds4j-jdbc-spi@1.29.0
 - pkg:maven/com.sap.cds/cds4j-jdbc-spi@1.29.0?classifier=sources
+- pkg:maven/com.sap.cds/cds4j-jdbc-spi@1.30.0
+- pkg:maven/com.sap.cds/cds4j-jdbc-spi@1.30.0?classifier=sources

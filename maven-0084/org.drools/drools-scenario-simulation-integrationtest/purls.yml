@@ -1,3 +1,6 @@
 - pkg:maven/org.drools/drools-scenario-simulation-integrationtest@8.21.0.Beta
 - pkg:maven/org.drools/drools-scenario-simulation-integrationtest@8.22.0.Beta
 - pkg:maven/org.drools/drools-scenario-simulation-integrationtest@8.22.1.Beta
+- pkg:maven/org.drools/drools-scenario-simulation-integrationtest@8.23.0.Beta
+- pkg:maven/org.drools/drools-scenario-simulation-integrationtest@8.24.0.Beta
+- pkg:maven/org.drools/drools-scenario-simulation-integrationtest@8.25.0.Beta

@@ -16,3 +16,4 @@
 - pkg:maven/com.tvd12/ezydata-database@1.2.2?classifier=sources
 - pkg:maven/com.tvd12/ezydata-database@1.2.3
 - pkg:maven/com.tvd12/ezydata-database@1.2.3?classifier=sources
+- pkg:maven/com.tvd12/ezydata-database@1.2.4

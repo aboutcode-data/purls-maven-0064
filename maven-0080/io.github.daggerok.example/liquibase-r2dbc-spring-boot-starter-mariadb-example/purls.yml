@@ -1,0 +1,4 @@
+- pkg:maven/io.github.daggerok.example/liquibase-r2dbc-spring-boot-starter-mariadb-example@2.0.4
+- pkg:maven/io.github.daggerok.example/liquibase-r2dbc-spring-boot-starter-mariadb-example@2.0.4?classifier=sources
+- pkg:maven/io.github.daggerok.example/liquibase-r2dbc-spring-boot-starter-mariadb-example@2.0.5
+- pkg:maven/io.github.daggerok.example/liquibase-r2dbc-spring-boot-starter-mariadb-example@2.0.5?classifier=sources

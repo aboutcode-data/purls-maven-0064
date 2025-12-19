@@ -1,0 +1,1 @@
+- pkg:maven/org.embulk/embulk-filter-column@0.9.0?classifier=sources
