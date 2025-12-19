@@ -664,3 +664,7 @@
 - pkg:maven/it.cnr.si.cool.jconon/cool-jconon@5.2.1?type=war
 - pkg:maven/it.cnr.si.cool.jconon/cool-jconon@5.2.2?classifier=sources
 - pkg:maven/it.cnr.si.cool.jconon/cool-jconon@5.2.2?type=war
+- pkg:maven/it.cnr.si.cool.jconon/cool-jconon@5.2.3?classifier=sources
+- pkg:maven/it.cnr.si.cool.jconon/cool-jconon@5.2.3?type=war
+- pkg:maven/it.cnr.si.cool.jconon/cool-jconon@5.2.4?classifier=sources
+- pkg:maven/it.cnr.si.cool.jconon/cool-jconon@5.2.4?type=war

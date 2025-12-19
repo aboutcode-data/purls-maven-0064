@@ -35,4 +35,6 @@
 - pkg:maven/com.hazelcast/hazelcast-sql-core@4.2.6?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-sql-core@4.2.7
 - pkg:maven/com.hazelcast/hazelcast-sql-core@4.2.7?classifier=sources
+- pkg:maven/com.hazelcast/hazelcast-sql-core@4.2.8
+- pkg:maven/com.hazelcast/hazelcast-sql-core@4.2.8?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-sql-core@4.2?classifier=sources

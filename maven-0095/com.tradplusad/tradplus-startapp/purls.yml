@@ -93,3 +93,6 @@
 - pkg:maven/com.tradplusad/tradplus-startapp@28.9.5.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-startapp@28.9.6.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-startapp@28.9.6.10.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-startapp@28.9.6.20.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-startapp@28.9.7.0.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-startapp@28.9.7.10.1?type=aar

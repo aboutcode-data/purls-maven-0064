@@ -65,6 +65,10 @@
 - pkg:maven/io.github.jogold/cloudstructs@0.6.32?classifier=sources
 - pkg:maven/io.github.jogold/cloudstructs@0.6.33
 - pkg:maven/io.github.jogold/cloudstructs@0.6.33?classifier=sources
+- pkg:maven/io.github.jogold/cloudstructs@0.6.34
+- pkg:maven/io.github.jogold/cloudstructs@0.6.34?classifier=sources
+- pkg:maven/io.github.jogold/cloudstructs@0.6.35
+- pkg:maven/io.github.jogold/cloudstructs@0.6.35?classifier=sources
 - pkg:maven/io.github.jogold/cloudstructs@0.6.3?classifier=sources
 - pkg:maven/io.github.jogold/cloudstructs@0.6.4
 - pkg:maven/io.github.jogold/cloudstructs@0.6.4?classifier=sources

@@ -24,3 +24,7 @@
 - pkg:maven/com.foursoft.harness.kbl/kbl-v24@3.0.2?classifier=sources
 - pkg:maven/com.foursoft.harness.kbl/kbl-v24@3.0.3
 - pkg:maven/com.foursoft.harness.kbl/kbl-v24@3.0.3?classifier=sources
+- pkg:maven/com.foursoft.harness.kbl/kbl-v24@4.0.0
+- pkg:maven/com.foursoft.harness.kbl/kbl-v24@4.0.0?classifier=sources
+- pkg:maven/com.foursoft.harness.kbl/kbl-v24@5.0.0
+- pkg:maven/com.foursoft.harness.kbl/kbl-v24@5.0.0?classifier=sources

@@ -66,6 +66,8 @@
 - pkg:maven/us.fatehi/schemacrawler-distrib@16.18.1
 - pkg:maven/us.fatehi/schemacrawler-distrib@16.18.2
 - pkg:maven/us.fatehi/schemacrawler-distrib@16.19.1
+- pkg:maven/us.fatehi/schemacrawler-distrib@16.19.10
+- pkg:maven/us.fatehi/schemacrawler-distrib@16.19.11
 - pkg:maven/us.fatehi/schemacrawler-distrib@16.19.2
 - pkg:maven/us.fatehi/schemacrawler-distrib@16.19.3
 - pkg:maven/us.fatehi/schemacrawler-distrib@16.19.4

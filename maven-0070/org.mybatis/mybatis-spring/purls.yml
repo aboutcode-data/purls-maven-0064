@@ -51,5 +51,7 @@
 - pkg:maven/org.mybatis/mybatis-spring@2.0.7
 - pkg:maven/org.mybatis/mybatis-spring@2.0.7?classifier=sources
 - pkg:maven/org.mybatis/mybatis-spring@2.1.0?classifier=sources
+- pkg:maven/org.mybatis/mybatis-spring@2.1.1?classifier=sources
 - pkg:maven/org.mybatis/mybatis-spring@3.0.0?classifier=sources
 - pkg:maven/org.mybatis/mybatis-spring@3.0.1?classifier=sources
+- pkg:maven/org.mybatis/mybatis-spring@3.0.2?classifier=sources

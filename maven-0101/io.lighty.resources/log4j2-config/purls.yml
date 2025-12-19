@@ -2,3 +2,4 @@
 - pkg:maven/io.lighty.resources/log4j2-config@17.1.0
 - pkg:maven/io.lighty.resources/log4j2-config@17.2.0
 - pkg:maven/io.lighty.resources/log4j2-config@18.0.0
+- pkg:maven/io.lighty.resources/log4j2-config@18.1.0

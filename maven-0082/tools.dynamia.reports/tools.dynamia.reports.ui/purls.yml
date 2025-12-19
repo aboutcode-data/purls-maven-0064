@@ -4,3 +4,5 @@
 - pkg:maven/tools.dynamia.reports/tools.dynamia.reports.ui@1.3.0?classifier=sources
 - pkg:maven/tools.dynamia.reports/tools.dynamia.reports.ui@1.4.0
 - pkg:maven/tools.dynamia.reports/tools.dynamia.reports.ui@1.4.0?classifier=sources
+- pkg:maven/tools.dynamia.reports/tools.dynamia.reports.ui@2.0.0
+- pkg:maven/tools.dynamia.reports/tools.dynamia.reports.ui@2.0.0?classifier=sources

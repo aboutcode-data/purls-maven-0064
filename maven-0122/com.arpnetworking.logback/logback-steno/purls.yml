@@ -50,3 +50,7 @@
 - pkg:maven/com.arpnetworking.logback/logback-steno@1.9.2?classifier=sources
 - pkg:maven/com.arpnetworking.logback/logback-steno@1.9.3
 - pkg:maven/com.arpnetworking.logback/logback-steno@1.9.3?classifier=sources
+- pkg:maven/com.arpnetworking.logback/logback-steno@2.0.0
+- pkg:maven/com.arpnetworking.logback/logback-steno@2.0.0?classifier=sources
+- pkg:maven/com.arpnetworking.logback/logback-steno@2.1.0
+- pkg:maven/com.arpnetworking.logback/logback-steno@2.1.0?classifier=sources

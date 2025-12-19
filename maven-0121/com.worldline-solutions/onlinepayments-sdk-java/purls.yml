@@ -16,6 +16,8 @@
 - pkg:maven/com.worldline-solutions/onlinepayments-sdk-java@4.0.0?classifier=sources
 - pkg:maven/com.worldline-solutions/onlinepayments-sdk-java@4.1.0
 - pkg:maven/com.worldline-solutions/onlinepayments-sdk-java@4.1.0?classifier=sources
+- pkg:maven/com.worldline-solutions/onlinepayments-sdk-java@4.10.0
+- pkg:maven/com.worldline-solutions/onlinepayments-sdk-java@4.10.0?classifier=sources
 - pkg:maven/com.worldline-solutions/onlinepayments-sdk-java@4.2.0
 - pkg:maven/com.worldline-solutions/onlinepayments-sdk-java@4.2.0?classifier=sources
 - pkg:maven/com.worldline-solutions/onlinepayments-sdk-java@4.3.0

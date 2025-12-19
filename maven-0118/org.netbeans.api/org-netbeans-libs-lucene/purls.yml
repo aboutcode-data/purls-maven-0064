@@ -17,4 +17,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-libs-lucene@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-lucene@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-lucene@RELEASE170?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-libs-lucene@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-lucene@RELEASE90?classifier=sources

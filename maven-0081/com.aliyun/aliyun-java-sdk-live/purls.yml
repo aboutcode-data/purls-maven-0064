@@ -105,6 +105,10 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-live@3.9.34?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-live@3.9.35
 - pkg:maven/com.aliyun/aliyun-java-sdk-live@3.9.35?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-live@3.9.36
+- pkg:maven/com.aliyun/aliyun-java-sdk-live@3.9.36?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-live@3.9.37
+- pkg:maven/com.aliyun/aliyun-java-sdk-live@3.9.37?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-live@3.9.3?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-live@3.9.4
 - pkg:maven/com.aliyun/aliyun-java-sdk-live@3.9.4?classifier=sources

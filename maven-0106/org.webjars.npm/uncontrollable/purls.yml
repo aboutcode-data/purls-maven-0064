@@ -20,3 +20,5 @@
 - pkg:maven/org.webjars.npm/uncontrollable@7.1.1?classifier=sources
 - pkg:maven/org.webjars.npm/uncontrollable@7.2.1
 - pkg:maven/org.webjars.npm/uncontrollable@7.2.1?classifier=sources
+- pkg:maven/org.webjars.npm/uncontrollable@8.0.2
+- pkg:maven/org.webjars.npm/uncontrollable@8.0.2?classifier=sources

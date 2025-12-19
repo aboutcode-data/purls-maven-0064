@@ -37,6 +37,10 @@
 - pkg:maven/com.aliyun/alibabacloud-ros20190910@1.2.24?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-ros20190910@1.2.25
 - pkg:maven/com.aliyun/alibabacloud-ros20190910@1.2.25?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-ros20190910@1.2.26
+- pkg:maven/com.aliyun/alibabacloud-ros20190910@1.2.26?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-ros20190910@1.2.27
+- pkg:maven/com.aliyun/alibabacloud-ros20190910@1.2.27?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-ros20190910@1.2.2?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-ros20190910@1.2.3
 - pkg:maven/com.aliyun/alibabacloud-ros20190910@1.2.3?classifier=sources

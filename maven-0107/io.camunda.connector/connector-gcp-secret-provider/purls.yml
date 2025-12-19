@@ -1,0 +1,2 @@
+- pkg:maven/io.camunda.connector/connector-gcp-secret-provider@0.10.0-rc1
+- pkg:maven/io.camunda.connector/connector-gcp-secret-provider@0.10.0-rc1?classifier=sources

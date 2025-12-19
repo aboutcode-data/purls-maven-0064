@@ -42,3 +42,5 @@
 - pkg:maven/org.drools/drools-drl-quarkus@8.37.0.Final?classifier=sources
 - pkg:maven/org.drools/drools-drl-quarkus@8.38.0.Final
 - pkg:maven/org.drools/drools-drl-quarkus@8.38.0.Final?classifier=sources
+- pkg:maven/org.drools/drools-drl-quarkus@8.39.0.Final
+- pkg:maven/org.drools/drools-drl-quarkus@8.39.0.Final?classifier=sources

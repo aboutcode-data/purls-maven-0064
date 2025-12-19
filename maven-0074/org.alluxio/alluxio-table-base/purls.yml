@@ -90,3 +90,7 @@
 - pkg:maven/org.alluxio/alluxio-table-base@291-gamma?classifier=sources
 - pkg:maven/org.alluxio/alluxio-table-base@294
 - pkg:maven/org.alluxio/alluxio-table-base@294?classifier=sources
+- pkg:maven/org.alluxio/alluxio-table-base@295
+- pkg:maven/org.alluxio/alluxio-table-base@295?classifier=sources
+- pkg:maven/org.alluxio/alluxio-table-base@300
+- pkg:maven/org.alluxio/alluxio-table-base@300?classifier=sources

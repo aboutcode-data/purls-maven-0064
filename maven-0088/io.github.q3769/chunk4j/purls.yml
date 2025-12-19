@@ -69,6 +69,8 @@
 - pkg:maven/io.github.q3769/chunk4j@20230309.0.1
 - pkg:maven/io.github.q3769/chunk4j@20230309.0.1?classifier=sources
 - pkg:maven/io.github.q3769/chunk4j@20230309.0.2
+- pkg:maven/io.github.q3769/chunk4j@20230309.0.20230514
+- pkg:maven/io.github.q3769/chunk4j@20230309.0.20230514?classifier=sources
 - pkg:maven/io.github.q3769/chunk4j@20230309.0.2?classifier=sources
 - pkg:maven/io.github.q3769/chunk4j@20230309.0.3
 - pkg:maven/io.github.q3769/chunk4j@20230309.0.3?classifier=sources
@@ -78,3 +80,5 @@
 - pkg:maven/io.github.q3769/chunk4j@20230309.0.5?classifier=sources
 - pkg:maven/io.github.q3769/chunk4j@20230309.0.6
 - pkg:maven/io.github.q3769/chunk4j@20230309.0.6?classifier=sources
+- pkg:maven/io.github.q3769/chunk4j@20230309.0.7
+- pkg:maven/io.github.q3769/chunk4j@20230309.0.7?classifier=sources

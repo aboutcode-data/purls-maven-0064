@@ -7,3 +7,8 @@
 - pkg:maven/it.unibo.alchemist/alchemist-multivesta-adapter@25.16.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-multivesta-adapter@25.16.1?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-multivesta-adapter@25.16.2?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-multivesta-adapter@26.0.0?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-multivesta-adapter@26.0.1?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-multivesta-adapter@26.0.2?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-multivesta-adapter@26.0.3?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-multivesta-adapter@26.0.4?classifier=sources

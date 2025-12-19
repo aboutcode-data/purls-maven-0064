@@ -16,3 +16,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-jaxws@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-jaxws@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-jaxws@RELEASE170?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-jaxws@RELEASE180?classifier=sources

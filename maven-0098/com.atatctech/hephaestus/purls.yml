@@ -9,3 +9,5 @@
 - pkg:maven/com.atatctech/hephaestus@1.0.1b6?classifier=sources
 - pkg:maven/com.atatctech/hephaestus@1.0.1b7?classifier=sources
 - pkg:maven/com.atatctech/hephaestus@1.0.1b8?classifier=sources
+- pkg:maven/com.atatctech/hephaestus@1.0.2b0?classifier=sources
+- pkg:maven/com.atatctech/hephaestus@1.0.2b1?classifier=sources

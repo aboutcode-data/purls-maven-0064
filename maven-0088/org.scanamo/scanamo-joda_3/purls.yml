@@ -4,3 +4,5 @@
 - pkg:maven/org.scanamo/scanamo-joda_3@1.0.0-M24?classifier=sources
 - pkg:maven/org.scanamo/scanamo-joda_3@1.0.0-M25
 - pkg:maven/org.scanamo/scanamo-joda_3@1.0.0-M25?classifier=sources
+- pkg:maven/org.scanamo/scanamo-joda_3@1.0.0-M26
+- pkg:maven/org.scanamo/scanamo-joda_3@1.0.0-M26?classifier=sources

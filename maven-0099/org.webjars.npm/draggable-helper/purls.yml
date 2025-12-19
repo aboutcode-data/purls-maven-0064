@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/draggable-helper@1.0.10?classifier=sources
 - pkg:maven/org.webjars.npm/draggable-helper@5.0.5
 - pkg:maven/org.webjars.npm/draggable-helper@5.0.5?classifier=sources
+- pkg:maven/org.webjars.npm/draggable-helper@6.0.5
+- pkg:maven/org.webjars.npm/draggable-helper@6.0.5?classifier=sources

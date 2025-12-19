@@ -1,0 +1,13 @@
+- pkg:maven/in.trainman.book/trainman-booking-sdk@0.0.2?classifier=sources
+- pkg:maven/in.trainman.book/trainman-booking-sdk@1
+- pkg:maven/in.trainman.book/trainman-booking-sdk@1.0.0
+- pkg:maven/in.trainman.book/trainman-booking-sdk@1.0.0?classifier=sources
+- pkg:maven/in.trainman.book/trainman-booking-sdk@1?classifier=sources
+- pkg:maven/in.trainman.book/trainman-booking-sdk@2
+- pkg:maven/in.trainman.book/trainman-booking-sdk@2.0.0?classifier=sources
+- pkg:maven/in.trainman.book/trainman-booking-sdk@testing-1
+- pkg:maven/in.trainman.book/trainman-booking-sdk@testing-1?classifier=sources
+- pkg:maven/in.trainman.book/trainman-booking-sdk@testing-2
+- pkg:maven/in.trainman.book/trainman-booking-sdk@testing-3
+- pkg:maven/in.trainman.book/trainman-booking-sdk@testing-4
+- pkg:maven/in.trainman.book/trainman-booking-sdk@testing-5?classifier=sources

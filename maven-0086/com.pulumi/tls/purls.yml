@@ -34,4 +34,9 @@
 - pkg:maven/com.pulumi/tls@5.1.0-alpha.1683270222%2B142eeb43?classifier=sources
 - pkg:maven/com.pulumi/tls@5.1.0-alpha.1683354300%2Bd1613ec5?classifier=sources
 - pkg:maven/com.pulumi/tls@5.1.0-alpha.1683613744%2B7c6979e1?classifier=sources
+- pkg:maven/com.pulumi/tls@5.1.0-alpha.1683788254%2Bd2e07d5a?classifier=sources
+- pkg:maven/com.pulumi/tls@5.1.0-alpha.1684218144%2B5b4cbe4c?classifier=sources
+- pkg:maven/com.pulumi/tls@5.1.0-alpha.1684391197%2Bbfbb4e55?classifier=sources
+- pkg:maven/com.pulumi/tls@5.1.0-alpha.1685085554%2B53d5a359?classifier=sources
+- pkg:maven/com.pulumi/tls@5.1.0-alpha.1685168898%2B47c19fbc?classifier=sources
 - pkg:maven/com.pulumi/tls@v4.7.0-alpha.1657285216%2B364315ad?classifier=sources

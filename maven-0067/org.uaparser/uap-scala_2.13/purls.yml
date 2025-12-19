@@ -8,6 +8,8 @@
 - pkg:maven/org.uaparser/uap-scala_2.13@0.13.0?classifier=sources
 - pkg:maven/org.uaparser/uap-scala_2.13@0.14.0
 - pkg:maven/org.uaparser/uap-scala_2.13@0.14.0?classifier=sources
+- pkg:maven/org.uaparser/uap-scala_2.13@0.15.0
+- pkg:maven/org.uaparser/uap-scala_2.13@0.15.0?classifier=sources
 - pkg:maven/org.uaparser/uap-scala_2.13@0.8.0
 - pkg:maven/org.uaparser/uap-scala_2.13@0.8.0?classifier=sources
 - pkg:maven/org.uaparser/uap-scala_2.13@0.9.0

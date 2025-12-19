@@ -28,3 +28,5 @@
 - pkg:maven/org.drools/drools-io@8.37.0.Final?classifier=sources
 - pkg:maven/org.drools/drools-io@8.38.0.Final
 - pkg:maven/org.drools/drools-io@8.38.0.Final?classifier=sources
+- pkg:maven/org.drools/drools-io@8.39.0.Final
+- pkg:maven/org.drools/drools-io@8.39.0.Final?classifier=sources

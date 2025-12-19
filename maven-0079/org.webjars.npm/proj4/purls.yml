@@ -22,3 +22,5 @@
 - pkg:maven/org.webjars.npm/proj4@2.7.2?classifier=sources
 - pkg:maven/org.webjars.npm/proj4@2.7.5
 - pkg:maven/org.webjars.npm/proj4@2.7.5?classifier=sources
+- pkg:maven/org.webjars.npm/proj4@2.9.0
+- pkg:maven/org.webjars.npm/proj4@2.9.0?classifier=sources

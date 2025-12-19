@@ -4,3 +4,5 @@
 - pkg:maven/net.scalax.djx314/depts-abs_2.12@0.0.1-M617?classifier=sources
 - pkg:maven/net.scalax.djx314/depts-abs_2.12@0.0.1-M643
 - pkg:maven/net.scalax.djx314/depts-abs_2.12@0.0.1-M643?classifier=sources
+- pkg:maven/net.scalax.djx314/depts-abs_2.12@0.0.1-M704
+- pkg:maven/net.scalax.djx314/depts-abs_2.12@0.0.1-M704?classifier=sources

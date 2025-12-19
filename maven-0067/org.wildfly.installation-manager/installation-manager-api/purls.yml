@@ -13,3 +13,6 @@
 - pkg:maven/org.wildfly.installation-manager/installation-manager-api@1.0.0.Final
 - pkg:maven/org.wildfly.installation-manager/installation-manager-api@1.0.0.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.installation-manager/installation-manager-api@1.0.0.Final?classifier=sources
+- pkg:maven/org.wildfly.installation-manager/installation-manager-api@1.0.1.Final
+- pkg:maven/org.wildfly.installation-manager/installation-manager-api@1.0.1.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.installation-manager/installation-manager-api@1.0.1.Final?classifier=sources

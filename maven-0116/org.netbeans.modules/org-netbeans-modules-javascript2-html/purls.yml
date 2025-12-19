@@ -8,3 +8,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-html@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-html@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-html@RELEASE170?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-html@RELEASE180?classifier=sources

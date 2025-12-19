@@ -73,10 +73,16 @@
 - pkg:maven/org.kie.kogito/jitexecutor-runner@1.37.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/jitexecutor-runner@1.38.0.Final
 - pkg:maven/org.kie.kogito/jitexecutor-runner@1.38.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/jitexecutor-runner@1.39.0.Final
+- pkg:maven/org.kie.kogito/jitexecutor-runner@1.39.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/jitexecutor-runner@1.4.0.Final
 - pkg:maven/org.kie.kogito/jitexecutor-runner@1.4.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/jitexecutor-runner@1.4.1.Final
 - pkg:maven/org.kie.kogito/jitexecutor-runner@1.4.1.Final?classifier=sources
+- pkg:maven/org.kie.kogito/jitexecutor-runner@1.40.0.Final
+- pkg:maven/org.kie.kogito/jitexecutor-runner@1.40.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/jitexecutor-runner@1.40.1.Final
+- pkg:maven/org.kie.kogito/jitexecutor-runner@1.40.1.Final?classifier=sources
 - pkg:maven/org.kie.kogito/jitexecutor-runner@1.5.0.Final
 - pkg:maven/org.kie.kogito/jitexecutor-runner@1.5.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/jitexecutor-runner@1.6.0.Final

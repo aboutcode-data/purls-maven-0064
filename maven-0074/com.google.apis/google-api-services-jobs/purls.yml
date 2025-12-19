@@ -1346,3 +1346,5 @@
 - pkg:maven/com.google.apis/google-api-services-jobs@v4-rev20221024-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-jobs@v4-rev20221219-2.0.0
 - pkg:maven/com.google.apis/google-api-services-jobs@v4-rev20221219-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-jobs@v4-rev20230523-2.0.0
+- pkg:maven/com.google.apis/google-api-services-jobs@v4-rev20230523-2.0.0?classifier=sources

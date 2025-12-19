@@ -22,7 +22,17 @@
 - pkg:maven/org.finos.vuu/vuu-ui@0.4.63?classifier=sources
 - pkg:maven/org.finos.vuu/vuu-ui@0.4.64
 - pkg:maven/org.finos.vuu/vuu-ui@0.4.64?classifier=sources
+- pkg:maven/org.finos.vuu/vuu-ui@0.5.00
 - pkg:maven/org.finos.vuu/vuu-ui@0.5.00-beta1
 - pkg:maven/org.finos.vuu/vuu-ui@0.5.00-beta1?classifier=sources
 - pkg:maven/org.finos.vuu/vuu-ui@0.5.00-beta2
 - pkg:maven/org.finos.vuu/vuu-ui@0.5.00-beta2?classifier=sources
+- pkg:maven/org.finos.vuu/vuu-ui@0.5.00?classifier=sources
+- pkg:maven/org.finos.vuu/vuu-ui@0.5.02
+- pkg:maven/org.finos.vuu/vuu-ui@0.5.02?classifier=sources
+- pkg:maven/org.finos.vuu/vuu-ui@0.5.03
+- pkg:maven/org.finos.vuu/vuu-ui@0.5.03?classifier=sources
+- pkg:maven/org.finos.vuu/vuu-ui@0.5.04
+- pkg:maven/org.finos.vuu/vuu-ui@0.5.04?classifier=sources
+- pkg:maven/org.finos.vuu/vuu-ui@0.5.06
+- pkg:maven/org.finos.vuu/vuu-ui@0.5.06?classifier=sources

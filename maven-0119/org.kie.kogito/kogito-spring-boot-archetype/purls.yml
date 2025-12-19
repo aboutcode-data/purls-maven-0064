@@ -33,3 +33,6 @@
 - pkg:maven/org.kie.kogito/kogito-spring-boot-archetype@1.36.1.Final?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-spring-boot-archetype@1.37.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-spring-boot-archetype@1.38.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-spring-boot-archetype@1.39.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-spring-boot-archetype@1.40.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-spring-boot-archetype@1.40.1.Final?classifier=sources

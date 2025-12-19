@@ -1,1 +1,2 @@
 - pkg:maven/co.moengage/moe-android-sdk@12.7.02-beta?classifier=sources
+- pkg:maven/co.moengage/moe-android-sdk@12.8.00?classifier=sources

@@ -54,3 +54,4 @@
 - pkg:maven/com.qaprosoft/carina-cucumber@7.4.31?classifier=sources
 - pkg:maven/com.qaprosoft/carina-cucumber@8.0.0
 - pkg:maven/com.qaprosoft/carina-cucumber@8.0.0?classifier=sources
+- pkg:maven/com.qaprosoft/carina-cucumber@8.0.1

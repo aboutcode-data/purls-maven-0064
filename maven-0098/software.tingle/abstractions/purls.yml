@@ -5,3 +5,4 @@
 - pkg:maven/software.tingle/abstractions@1.0.4?classifier=sources
 - pkg:maven/software.tingle/abstractions@1.0.5?classifier=sources
 - pkg:maven/software.tingle/abstractions@1.0?classifier=sources
+- pkg:maven/software.tingle/abstractions@1.1.0?classifier=sources

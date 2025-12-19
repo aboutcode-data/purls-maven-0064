@@ -1,0 +1,2 @@
+- pkg:maven/io.github.vdaburon/junit-reporter-kpi-compare-jmeter-report-csv@1.0
+- pkg:maven/io.github.vdaburon/junit-reporter-kpi-compare-jmeter-report-csv@1.0?classifier=sources

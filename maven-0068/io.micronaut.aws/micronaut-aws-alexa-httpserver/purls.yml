@@ -75,6 +75,8 @@
 - pkg:maven/io.micronaut.aws/micronaut-aws-alexa-httpserver@3.16.1?classifier=sources
 - pkg:maven/io.micronaut.aws/micronaut-aws-alexa-httpserver@3.17.0?classifier=sources
 - pkg:maven/io.micronaut.aws/micronaut-aws-alexa-httpserver@3.17.1?classifier=sources
+- pkg:maven/io.micronaut.aws/micronaut-aws-alexa-httpserver@3.17.2?classifier=sources
+- pkg:maven/io.micronaut.aws/micronaut-aws-alexa-httpserver@3.17.3?classifier=sources
 - pkg:maven/io.micronaut.aws/micronaut-aws-alexa-httpserver@3.2.0?classifier=sources
 - pkg:maven/io.micronaut.aws/micronaut-aws-alexa-httpserver@3.2.1?classifier=sources
 - pkg:maven/io.micronaut.aws/micronaut-aws-alexa-httpserver@3.2.2?classifier=sources
@@ -101,3 +103,6 @@
 - pkg:maven/io.micronaut.aws/micronaut-aws-alexa-httpserver@4.0.0-M1?classifier=sources
 - pkg:maven/io.micronaut.aws/micronaut-aws-alexa-httpserver@4.0.0-M2?classifier=sources
 - pkg:maven/io.micronaut.aws/micronaut-aws-alexa-httpserver@4.0.0-M3?classifier=sources
+- pkg:maven/io.micronaut.aws/micronaut-aws-alexa-httpserver@4.0.0-M4?classifier=sources
+- pkg:maven/io.micronaut.aws/micronaut-aws-alexa-httpserver@4.0.0-M5?classifier=sources
+- pkg:maven/io.micronaut.aws/micronaut-aws-alexa-httpserver@4.0.0-M6?classifier=sources

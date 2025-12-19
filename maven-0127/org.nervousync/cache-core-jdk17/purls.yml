@@ -1,0 +1,2 @@
+- pkg:maven/org.nervousync/cache-core-jdk17@1.0.0
+- pkg:maven/org.nervousync/cache-core-jdk17@1.0.0?classifier=sources

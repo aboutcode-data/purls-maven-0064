@@ -1,0 +1,2 @@
+- pkg:maven/ru.l3r8y/unixized@1.0.0
+- pkg:maven/ru.l3r8y/unixized@1.0.0?classifier=sources

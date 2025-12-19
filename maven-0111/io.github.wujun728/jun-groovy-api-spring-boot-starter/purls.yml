@@ -6,3 +6,5 @@
 - pkg:maven/io.github.wujun728/jun-groovy-api-spring-boot-starter@0.0.2-releases?classifier=sources
 - pkg:maven/io.github.wujun728/jun-groovy-api-spring-boot-starter@1.0.0-releases
 - pkg:maven/io.github.wujun728/jun-groovy-api-spring-boot-starter@1.0.0-releases?classifier=sources
+- pkg:maven/io.github.wujun728/jun-groovy-api-spring-boot-starter@1.0.1-RELEASE
+- pkg:maven/io.github.wujun728/jun-groovy-api-spring-boot-starter@1.0.1-RELEASE?classifier=sources

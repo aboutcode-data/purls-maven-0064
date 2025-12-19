@@ -83,3 +83,5 @@
 - pkg:maven/com.ubertob.kondor/kondor-core@1.8.6?classifier=sources
 - pkg:maven/com.ubertob.kondor/kondor-core@1.8.7?classifier=sources
 - pkg:maven/com.ubertob.kondor/kondor-core@1.9.0?classifier=sources
+- pkg:maven/com.ubertob.kondor/kondor-core@1.9.1?classifier=sources
+- pkg:maven/com.ubertob.kondor/kondor-core@1.9.2?classifier=sources
