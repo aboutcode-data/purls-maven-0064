@@ -2,3 +2,5 @@
 - pkg:maven/io.github.skymw/MiHuTool@0.0.1-RELEASE?classifier=sources
 - pkg:maven/io.github.skymw/MiHuTool@1.0.1
 - pkg:maven/io.github.skymw/MiHuTool@1.0.1?classifier=sources
+- pkg:maven/io.github.skymw/MiHuTool@1.0.2
+- pkg:maven/io.github.skymw/MiHuTool@1.0.2?classifier=sources

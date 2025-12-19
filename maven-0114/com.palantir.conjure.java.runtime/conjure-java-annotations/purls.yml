@@ -7,3 +7,8 @@
 - pkg:maven/com.palantir.conjure.java.runtime/conjure-java-annotations@7.38.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/conjure-java-annotations@7.39.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/conjure-java-annotations@7.40.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/conjure-java-annotations@7.41.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/conjure-java-annotations@7.42.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/conjure-java-annotations@7.43.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/conjure-java-annotations@7.44.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/conjure-java-annotations@7.45.0?classifier=sources

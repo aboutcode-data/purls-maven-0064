@@ -8,3 +8,5 @@
 - pkg:maven/net.sf.aguacate.security.service/security-service@0.2.3?classifier=sources
 - pkg:maven/net.sf.aguacate.security.service/security-service@0.2.4
 - pkg:maven/net.sf.aguacate.security.service/security-service@0.2.4?classifier=sources
+- pkg:maven/net.sf.aguacate.security.service/security-service@0.2.5
+- pkg:maven/net.sf.aguacate.security.service/security-service@0.2.5?classifier=sources

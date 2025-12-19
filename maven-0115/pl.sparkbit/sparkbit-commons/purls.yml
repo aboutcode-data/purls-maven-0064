@@ -47,3 +47,5 @@
 - pkg:maven/pl.sparkbit/sparkbit-commons@2.0.46?classifier=sources
 - pkg:maven/pl.sparkbit/sparkbit-commons@2.0.47
 - pkg:maven/pl.sparkbit/sparkbit-commons@2.0.47?classifier=sources
+- pkg:maven/pl.sparkbit/sparkbit-commons@2.0.48
+- pkg:maven/pl.sparkbit/sparkbit-commons@2.0.48?classifier=sources

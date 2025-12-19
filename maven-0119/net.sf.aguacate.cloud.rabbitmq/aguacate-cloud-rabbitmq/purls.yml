@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.aguacate.cloud.rabbitmq/aguacate-cloud-rabbitmq@0.0.1
+- pkg:maven/net.sf.aguacate.cloud.rabbitmq/aguacate-cloud-rabbitmq@0.0.1?classifier=sources

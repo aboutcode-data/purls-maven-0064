@@ -414,6 +414,8 @@
 - pkg:maven/com.armanbilge/schrodinger-kernel_3@0.4-b984f19?classifier=sources
 - pkg:maven/com.armanbilge/schrodinger-kernel_3@0.4-ba25be9
 - pkg:maven/com.armanbilge/schrodinger-kernel_3@0.4-ba25be9?classifier=sources
+- pkg:maven/com.armanbilge/schrodinger-kernel_3@0.4-be55d29
+- pkg:maven/com.armanbilge/schrodinger-kernel_3@0.4-be55d29?classifier=sources
 - pkg:maven/com.armanbilge/schrodinger-kernel_3@0.4-bf902d7
 - pkg:maven/com.armanbilge/schrodinger-kernel_3@0.4-bf902d7?classifier=sources
 - pkg:maven/com.armanbilge/schrodinger-kernel_3@0.4-c19de3a

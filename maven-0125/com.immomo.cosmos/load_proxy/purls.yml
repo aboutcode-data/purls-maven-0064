@@ -1,0 +1,2 @@
+- pkg:maven/com.immomo.cosmos/load_proxy@2.3.0.20230331.1140?classifier=sources
+- pkg:maven/com.immomo.cosmos/load_proxy@2.3.0.20230331.1140?type=aar

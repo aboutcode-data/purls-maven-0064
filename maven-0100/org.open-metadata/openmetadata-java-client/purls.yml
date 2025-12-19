@@ -18,5 +18,7 @@
 - pkg:maven/org.open-metadata/openmetadata-java-client@0.13.2-beta
 - pkg:maven/org.open-metadata/openmetadata-java-client@0.13.2-beta?classifier=sources
 - pkg:maven/org.open-metadata/openmetadata-java-client@0.13.2?classifier=sources
+- pkg:maven/org.open-metadata/openmetadata-java-client@1.0.0-alpha
+- pkg:maven/org.open-metadata/openmetadata-java-client@1.0.0-alpha?classifier=sources
 - pkg:maven/org.open-metadata/openmetadata-java-client@DEMO_BETA1
 - pkg:maven/org.open-metadata/openmetadata-java-client@DEMO_BETA1?classifier=sources

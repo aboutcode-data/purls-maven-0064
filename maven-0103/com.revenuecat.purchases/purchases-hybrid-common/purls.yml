@@ -65,6 +65,9 @@
 - pkg:maven/com.revenuecat.purchases/purchases-hybrid-common@4.13.2?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-hybrid-common@4.13.3?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-hybrid-common@4.13.4?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-hybrid-common@4.13.5?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-hybrid-common@4.14.0?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-hybrid-common@4.14.1?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-hybrid-common@4.2.0?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-hybrid-common@4.2.1?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-hybrid-common@4.2.2?classifier=sources
@@ -89,4 +92,7 @@
 - pkg:maven/com.revenuecat.purchases/purchases-hybrid-common@4.7.0?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-hybrid-common@4.8.0?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-hybrid-common@4.9.0?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-hybrid-common@5.0.0-beta.1?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-hybrid-common@5.0.0-beta.2?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-hybrid-common@5.0.0-beta.3?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-hybrid-common@AMAZON.RC1?classifier=sources

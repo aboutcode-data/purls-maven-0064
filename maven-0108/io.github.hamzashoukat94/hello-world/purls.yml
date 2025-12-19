@@ -20,6 +20,8 @@
 - pkg:maven/io.github.hamzashoukat94/hello-world@1.1.1?classifier=sources
 - pkg:maven/io.github.hamzashoukat94/hello-world@10.0.0
 - pkg:maven/io.github.hamzashoukat94/hello-world@10.0.0?classifier=sources
+- pkg:maven/io.github.hamzashoukat94/hello-world@11.0.0
+- pkg:maven/io.github.hamzashoukat94/hello-world@11.0.0?classifier=sources
 - pkg:maven/io.github.hamzashoukat94/hello-world@2.0.0
 - pkg:maven/io.github.hamzashoukat94/hello-world@2.0.0?classifier=sources
 - pkg:maven/io.github.hamzashoukat94/hello-world@3.0.0

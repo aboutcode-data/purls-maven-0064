@@ -2,3 +2,5 @@
 - pkg:maven/com.payermax/payment@1.2.38?type=aar
 - pkg:maven/com.payermax/payment@1.2.39?classifier=sources
 - pkg:maven/com.payermax/payment@1.2.39?type=aar
+- pkg:maven/com.payermax/payment@2.0.0?classifier=sources
+- pkg:maven/com.payermax/payment@2.0.0?type=aar

@@ -2,3 +2,5 @@
 - pkg:maven/com.telefonica/androidlogger@0.0.2?classifier=sources
 - pkg:maven/com.telefonica/androidlogger@1.0.0?classifier=sources
 - pkg:maven/com.telefonica/androidlogger@1.1.0?classifier=sources
+- pkg:maven/com.telefonica/androidlogger@1.1.1?classifier=sources
+- pkg:maven/com.telefonica/androidlogger@undefined?classifier=sources

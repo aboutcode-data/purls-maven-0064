@@ -36,3 +36,5 @@
 - pkg:maven/io.jooby/jooby-swagger-ui@3.0.0.M2
 - pkg:maven/io.jooby/jooby-swagger-ui@3.0.0.M3
 - pkg:maven/io.jooby/jooby-swagger-ui@3.0.0.M4
+- pkg:maven/io.jooby/jooby-swagger-ui@3.0.0.M5
+- pkg:maven/io.jooby/jooby-swagger-ui@3.0.0.M6

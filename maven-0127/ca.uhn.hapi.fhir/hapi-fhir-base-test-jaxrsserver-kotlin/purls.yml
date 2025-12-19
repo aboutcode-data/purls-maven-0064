@@ -17,3 +17,6 @@
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-base-test-jaxrsserver-kotlin@6.2.5?type=war
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-base-test-jaxrsserver-kotlin@6.4.0?type=war
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-base-test-jaxrsserver-kotlin@6.4.1?type=war
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-base-test-jaxrsserver-kotlin@6.4.2?type=war
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-base-test-jaxrsserver-kotlin@6.4.3?type=war
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-base-test-jaxrsserver-kotlin@6.4.4?type=war

@@ -1,2 +1,4 @@
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.control.demandbalancer@2.0.0
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.control.demandbalancer@2.0.0?classifier=sources
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.control.demandbalancer@3.0.0
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.control.demandbalancer@3.0.0?classifier=sources

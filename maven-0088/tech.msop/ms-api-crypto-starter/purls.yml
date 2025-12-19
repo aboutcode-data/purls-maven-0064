@@ -1,0 +1,2 @@
+- pkg:maven/tech.msop/ms-api-crypto-starter@0.2.2.RELEASE
+- pkg:maven/tech.msop/ms-api-crypto-starter@0.2.2.RELEASE?classifier=sources

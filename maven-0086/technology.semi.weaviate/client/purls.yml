@@ -60,3 +60,8 @@
 - pkg:maven/technology.semi.weaviate/client@3.6.2?classifier=sources
 - pkg:maven/technology.semi.weaviate/client@3.6.3
 - pkg:maven/technology.semi.weaviate/client@3.6.3?classifier=sources
+- pkg:maven/technology.semi.weaviate/client@3.6.4
+- pkg:maven/technology.semi.weaviate/client@3.6.4?classifier=sources
+- pkg:maven/technology.semi.weaviate/client@3.6.5
+- pkg:maven/technology.semi.weaviate/client@3.6.5?classifier=sources
+- pkg:maven/technology.semi.weaviate/client@4.0.0?classifier=sources

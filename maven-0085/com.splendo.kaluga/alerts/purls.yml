@@ -6,3 +6,5 @@
 - pkg:maven/com.splendo.kaluga/alerts@0.3.0?classifier=sources
 - pkg:maven/com.splendo.kaluga/alerts@0.4.0?classifier=sources
 - pkg:maven/com.splendo.kaluga/alerts@0.5.0?classifier=sources
+- pkg:maven/com.splendo.kaluga/alerts@1.0.0?classifier=sources
+- pkg:maven/com.splendo.kaluga/alerts@1.1.0?classifier=sources

@@ -21,3 +21,5 @@
 - pkg:maven/com.infobip/infobip-api-java-client@3.1.0?classifier=sources
 - pkg:maven/com.infobip/infobip-api-java-client@3.2.0
 - pkg:maven/com.infobip/infobip-api-java-client@3.2.0?classifier=sources
+- pkg:maven/com.infobip/infobip-api-java-client@4.0.0
+- pkg:maven/com.infobip/infobip-api-java-client@4.0.0?classifier=sources

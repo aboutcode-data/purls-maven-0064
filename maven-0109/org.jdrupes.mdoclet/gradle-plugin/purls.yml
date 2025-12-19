@@ -16,3 +16,4 @@
 - pkg:maven/org.jdrupes.mdoclet/gradle-plugin@1.0.9
 - pkg:maven/org.jdrupes.mdoclet/gradle-plugin@1.0.9?classifier=sources
 - pkg:maven/org.jdrupes.mdoclet/gradle-plugin@1.1.0?classifier=sources
+- pkg:maven/org.jdrupes.mdoclet/gradle-plugin@1.1.1?classifier=sources

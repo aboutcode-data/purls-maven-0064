@@ -48,3 +48,5 @@
 - pkg:maven/cn.wanghaomiao/JsoupXpath@2.5.1?classifier=sources
 - pkg:maven/cn.wanghaomiao/JsoupXpath@2.5.2
 - pkg:maven/cn.wanghaomiao/JsoupXpath@2.5.2?classifier=sources
+- pkg:maven/cn.wanghaomiao/JsoupXpath@2.5.3
+- pkg:maven/cn.wanghaomiao/JsoupXpath@2.5.3?classifier=sources

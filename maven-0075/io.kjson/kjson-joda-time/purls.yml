@@ -1,0 +1,2 @@
+- pkg:maven/io.kjson/kjson-joda-time@0.2
+- pkg:maven/io.kjson/kjson-joda-time@0.2?classifier=sources

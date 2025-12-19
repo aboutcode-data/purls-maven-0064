@@ -8,3 +8,5 @@
 - pkg:maven/com.mofum.scope/scope-orm-mybatis@2.0.0.BETA3
 - pkg:maven/com.mofum.scope/scope-orm-mybatis@2.0.0.BETA3?classifier=sources
 - pkg:maven/com.mofum.scope/scope-orm-mybatis@2.0.0.BETA?classifier=sources
+- pkg:maven/com.mofum.scope/scope-orm-mybatis@2.0.0.RELEASE
+- pkg:maven/com.mofum.scope/scope-orm-mybatis@2.0.0.RELEASE?classifier=sources

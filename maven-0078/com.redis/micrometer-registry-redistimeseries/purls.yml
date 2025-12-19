@@ -10,3 +10,4 @@
 - pkg:maven/com.redis/micrometer-registry-redistimeseries@0.3.3?classifier=sources
 - pkg:maven/com.redis/micrometer-registry-redistimeseries@0.3.4?classifier=sources
 - pkg:maven/com.redis/micrometer-registry-redistimeseries@0.4.0?classifier=sources
+- pkg:maven/com.redis/micrometer-registry-redistimeseries@0.4.1?classifier=sources

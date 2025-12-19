@@ -2,3 +2,7 @@
 - pkg:maven/com.zepben/command-line-arguments@1.1.0?classifier=sources
 - pkg:maven/com.zepben/command-line-arguments@1.2.0-SNAPSHOT1
 - pkg:maven/com.zepben/command-line-arguments@1.2.0-SNAPSHOT1?classifier=sources
+- pkg:maven/com.zepben/command-line-arguments@2.0.0
+- pkg:maven/com.zepben/command-line-arguments@2.0.0-SNAPSHOT1
+- pkg:maven/com.zepben/command-line-arguments@2.0.0-SNAPSHOT1?classifier=sources
+- pkg:maven/com.zepben/command-line-arguments@2.0.0?classifier=sources

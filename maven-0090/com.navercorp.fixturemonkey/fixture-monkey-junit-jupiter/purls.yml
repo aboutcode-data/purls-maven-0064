@@ -13,3 +13,6 @@
 - pkg:maven/com.navercorp.fixturemonkey/fixture-monkey-junit-jupiter@0.4.7?classifier=sources
 - pkg:maven/com.navercorp.fixturemonkey/fixture-monkey-junit-jupiter@0.4.8?classifier=sources
 - pkg:maven/com.navercorp.fixturemonkey/fixture-monkey-junit-jupiter@0.4.9?classifier=sources
+- pkg:maven/com.navercorp.fixturemonkey/fixture-monkey-junit-jupiter@0.5.0?classifier=sources
+- pkg:maven/com.navercorp.fixturemonkey/fixture-monkey-junit-jupiter@0.5.1?classifier=sources
+- pkg:maven/com.navercorp.fixturemonkey/fixture-monkey-junit-jupiter@0.5.2?classifier=sources

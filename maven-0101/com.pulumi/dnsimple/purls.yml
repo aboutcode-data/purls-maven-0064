@@ -3,3 +3,6 @@
 - pkg:maven/com.pulumi/dnsimple@3.5.0-alpha.1673416427%2Bc8ec4697?classifier=sources
 - pkg:maven/com.pulumi/dnsimple@3.5.0-alpha.1673555872%2B77b13972?classifier=sources
 - pkg:maven/com.pulumi/dnsimple@3.5.0-alpha.1675064447%2B5268d766?classifier=sources
+- pkg:maven/com.pulumi/dnsimple@3.5.0-alpha.1677783337%2B8da2cd6b?classifier=sources
+- pkg:maven/com.pulumi/dnsimple@3.5.0-alpha.1679353074%2Bf2ff2c17?classifier=sources
+- pkg:maven/com.pulumi/dnsimple@3.5.0-alpha.1679413370%2B0c4a67ae?classifier=sources

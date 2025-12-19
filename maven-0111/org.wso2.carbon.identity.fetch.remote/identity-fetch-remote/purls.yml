@@ -30,3 +30,4 @@
 - pkg:maven/org.wso2.carbon.identity.fetch.remote/identity-fetch-remote@0.8.0?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.fetch.remote/identity-fetch-remote@0.8.1?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.fetch.remote/identity-fetch-remote@0.8.3?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.fetch.remote/identity-fetch-remote@0.8.4?classifier=source-release&type=zip

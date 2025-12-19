@@ -1,0 +1,2 @@
+- pkg:maven/fun.songbo.web/songbo-fun-jedis@1.0.0
+- pkg:maven/fun.songbo.web/songbo-fun-jedis@1.0.0?classifier=sources

@@ -74,6 +74,7 @@
 - pkg:maven/org.springframework.security/spring-security-bom@5.3.9.RELEASE?classifier=sources
 - pkg:maven/org.springframework.security/spring-security-bom@5.4.0?classifier=sources
 - pkg:maven/org.springframework.security/spring-security-bom@5.4.10?classifier=sources
+- pkg:maven/org.springframework.security/spring-security-bom@5.4.11?classifier=sources
 - pkg:maven/org.springframework.security/spring-security-bom@5.4.1?classifier=sources
 - pkg:maven/org.springframework.security/spring-security-bom@5.4.2?classifier=sources
 - pkg:maven/org.springframework.security/spring-security-bom@5.4.3?classifier=sources

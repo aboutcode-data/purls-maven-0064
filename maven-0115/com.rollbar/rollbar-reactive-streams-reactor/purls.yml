@@ -1,1 +1,2 @@
+- pkg:maven/com.rollbar/rollbar-reactive-streams-reactor@1.10.0?classifier=sources
 - pkg:maven/com.rollbar/rollbar-reactive-streams-reactor@1.9.0?classifier=sources

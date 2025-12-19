@@ -8,3 +8,5 @@
 - pkg:maven/org.linkki-framework.archetypes/linkki-archetype-spring-application-vaadin23@2.3.0?classifier=sources
 - pkg:maven/org.linkki-framework.archetypes/linkki-archetype-spring-application-vaadin23@2.3.1?classifier=sources
 - pkg:maven/org.linkki-framework.archetypes/linkki-archetype-spring-application-vaadin23@2.3.2?classifier=sources
+- pkg:maven/org.linkki-framework.archetypes/linkki-archetype-spring-application-vaadin23@2.3.3?classifier=sources
+- pkg:maven/org.linkki-framework.archetypes/linkki-archetype-spring-application-vaadin23@2.3.4?classifier=sources

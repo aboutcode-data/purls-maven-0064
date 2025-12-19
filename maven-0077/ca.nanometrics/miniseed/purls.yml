@@ -1,0 +1,4 @@
+- pkg:maven/ca.nanometrics/miniseed@0.0.2
+- pkg:maven/ca.nanometrics/miniseed@0.0.2?classifier=sources
+- pkg:maven/ca.nanometrics/miniseed@0.0.3
+- pkg:maven/ca.nanometrics/miniseed@0.0.3?classifier=sources

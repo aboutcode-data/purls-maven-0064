@@ -9,3 +9,4 @@
 - pkg:maven/io.micronaut.testresources/micronaut-test-resources-hibernate-reactive-mysql@1.2.2?classifier=sources
 - pkg:maven/io.micronaut.testresources/micronaut-test-resources-hibernate-reactive-mysql@1.2.3?classifier=sources
 - pkg:maven/io.micronaut.testresources/micronaut-test-resources-hibernate-reactive-mysql@1.2.4?classifier=sources
+- pkg:maven/io.micronaut.testresources/micronaut-test-resources-hibernate-reactive-mysql@1.2.5?classifier=sources

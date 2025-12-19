@@ -13,3 +13,4 @@
 - pkg:maven/org.apache.unomi/unomi-groovy-actions@1.8.0?classifier=sources
 - pkg:maven/org.apache.unomi/unomi-groovy-actions@2.0.0?classifier=sources
 - pkg:maven/org.apache.unomi/unomi-groovy-actions@2.1.0?classifier=sources
+- pkg:maven/org.apache.unomi/unomi-groovy-actions@2.2.0?classifier=sources

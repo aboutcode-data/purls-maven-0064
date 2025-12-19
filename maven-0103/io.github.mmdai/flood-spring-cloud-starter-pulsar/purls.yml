@@ -18,3 +18,4 @@
 - pkg:maven/io.github.mmdai/flood-spring-cloud-starter-pulsar@2.7.5.0
 - pkg:maven/io.github.mmdai/flood-spring-cloud-starter-pulsar@2.7.6.0
 - pkg:maven/io.github.mmdai/flood-spring-cloud-starter-pulsar@2.7.6.1
+- pkg:maven/io.github.mmdai/flood-spring-cloud-starter-pulsar@2.7.8.0

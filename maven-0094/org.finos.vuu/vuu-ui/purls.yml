@@ -14,3 +14,5 @@
 - pkg:maven/org.finos.vuu/vuu-ui@0.4.50?classifier=sources
 - pkg:maven/org.finos.vuu/vuu-ui@0.4.51
 - pkg:maven/org.finos.vuu/vuu-ui@0.4.51?classifier=sources
+- pkg:maven/org.finos.vuu/vuu-ui@0.4.61
+- pkg:maven/org.finos.vuu/vuu-ui@0.4.61?classifier=sources

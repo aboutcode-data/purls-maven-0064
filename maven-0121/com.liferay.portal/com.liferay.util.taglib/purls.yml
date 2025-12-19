@@ -24,6 +24,12 @@
 - pkg:maven/com.liferay.portal/com.liferay.util.taglib@12.1.2?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.util.taglib@13.0.0
 - pkg:maven/com.liferay.portal/com.liferay.util.taglib@13.0.0?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.util.taglib@14.0.0
+- pkg:maven/com.liferay.portal/com.liferay.util.taglib@14.0.0?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.util.taglib@15.0.0
+- pkg:maven/com.liferay.portal/com.liferay.util.taglib@15.0.0?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.util.taglib@15.1.0
+- pkg:maven/com.liferay.portal/com.liferay.util.taglib@15.1.0?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.util.taglib@2.0.0
 - pkg:maven/com.liferay.portal/com.liferay.util.taglib@2.0.0?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.util.taglib@2.1.0

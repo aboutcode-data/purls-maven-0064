@@ -1,0 +1,2 @@
+- pkg:maven/org.taxilang/swagger2taxi@1.36.0
+- pkg:maven/org.taxilang/swagger2taxi@1.36.0?classifier=sources

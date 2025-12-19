@@ -66,3 +66,5 @@
 - pkg:maven/gg.jte/jte@2.2.4?classifier=sources
 - pkg:maven/gg.jte/jte@2.2.6
 - pkg:maven/gg.jte/jte@2.2.6?classifier=sources
+- pkg:maven/gg.jte/jte@2.3.0
+- pkg:maven/gg.jte/jte@2.3.0?classifier=sources

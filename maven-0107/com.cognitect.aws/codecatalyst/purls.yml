@@ -1,2 +1,4 @@
 - pkg:maven/com.cognitect.aws/codecatalyst@825.2.1266.0
 - pkg:maven/com.cognitect.aws/codecatalyst@825.2.1266.0?classifier=sources
+- pkg:maven/com.cognitect.aws/codecatalyst@845.2.1345.0
+- pkg:maven/com.cognitect.aws/codecatalyst@845.2.1345.0?classifier=sources

@@ -216,6 +216,14 @@
 - pkg:maven/software.amazon.awscdk/apigatewayv2-integrations@1.194.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/apigatewayv2-integrations@1.195.0
 - pkg:maven/software.amazon.awscdk/apigatewayv2-integrations@1.195.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/apigatewayv2-integrations@1.196.0
+- pkg:maven/software.amazon.awscdk/apigatewayv2-integrations@1.196.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/apigatewayv2-integrations@1.197.0
+- pkg:maven/software.amazon.awscdk/apigatewayv2-integrations@1.197.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/apigatewayv2-integrations@1.198.0
+- pkg:maven/software.amazon.awscdk/apigatewayv2-integrations@1.198.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/apigatewayv2-integrations@1.198.1
+- pkg:maven/software.amazon.awscdk/apigatewayv2-integrations@1.198.1?classifier=sources
 - pkg:maven/software.amazon.awscdk/apigatewayv2-integrations@1.72.0
 - pkg:maven/software.amazon.awscdk/apigatewayv2-integrations@1.72.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/apigatewayv2-integrations@1.73.0

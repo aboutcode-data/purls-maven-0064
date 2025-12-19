@@ -1,0 +1,2 @@
+- pkg:maven/com.squareup.wire/wire-runtime-mingwx64@4.5.3?classifier=sources
+- pkg:maven/com.squareup.wire/wire-runtime-mingwx64@4.5.4?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/org.webjars.npm/purecss@2.0.6?classifier=sources
 - pkg:maven/org.webjars.npm/purecss@2.1.0
 - pkg:maven/org.webjars.npm/purecss@2.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/purecss@3.0.0
+- pkg:maven/org.webjars.npm/purecss@3.0.0?classifier=sources

@@ -31,6 +31,7 @@
 - pkg:maven/com.github.emc-mongoose/mongoose-storage-driver-fs@4.2.10?classifier=sources
 - pkg:maven/com.github.emc-mongoose/mongoose-storage-driver-fs@4.2.11
 - pkg:maven/com.github.emc-mongoose/mongoose-storage-driver-fs@4.2.11?classifier=sources
+- pkg:maven/com.github.emc-mongoose/mongoose-storage-driver-fs@4.2.13?classifier=sources
 - pkg:maven/com.github.emc-mongoose/mongoose-storage-driver-fs@4.2.1?classifier=sources
 - pkg:maven/com.github.emc-mongoose/mongoose-storage-driver-fs@4.2.3
 - pkg:maven/com.github.emc-mongoose/mongoose-storage-driver-fs@4.2.3?classifier=sources

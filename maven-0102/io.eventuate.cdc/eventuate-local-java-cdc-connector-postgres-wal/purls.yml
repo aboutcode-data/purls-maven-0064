@@ -3,3 +3,4 @@
 - pkg:maven/io.eventuate.cdc/eventuate-local-java-cdc-connector-postgres-wal@0.12.0.RELEASE?classifier=sources
 - pkg:maven/io.eventuate.cdc/eventuate-local-java-cdc-connector-postgres-wal@0.13.0.RELEASE?classifier=sources
 - pkg:maven/io.eventuate.cdc/eventuate-local-java-cdc-connector-postgres-wal@0.14.0.RELEASE?classifier=sources
+- pkg:maven/io.eventuate.cdc/eventuate-local-java-cdc-connector-postgres-wal@0.15.0.RELEASE?classifier=sources

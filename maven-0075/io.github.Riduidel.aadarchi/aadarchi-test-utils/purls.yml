@@ -1,3 +1,5 @@
+- pkg:maven/io.github.Riduidel.aadarchi/aadarchi-test-utils@0.1.10
+- pkg:maven/io.github.Riduidel.aadarchi/aadarchi-test-utils@0.1.10?classifier=sources
 - pkg:maven/io.github.Riduidel.aadarchi/aadarchi-test-utils@0.1.6
 - pkg:maven/io.github.Riduidel.aadarchi/aadarchi-test-utils@0.1.6?classifier=sources
 - pkg:maven/io.github.Riduidel.aadarchi/aadarchi-test-utils@0.1.8

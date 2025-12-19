@@ -1,0 +1,2 @@
+- pkg:maven/io.github.flutterplayer/fijkplayer-full@0.1.18?classifier=sources
+- pkg:maven/io.github.flutterplayer/fijkplayer-full@0.1.18?type=aar

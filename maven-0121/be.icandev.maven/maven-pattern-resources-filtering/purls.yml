@@ -1,0 +1,4 @@
+- pkg:maven/be.icandev.maven/maven-pattern-resources-filtering@1.0.0
+- pkg:maven/be.icandev.maven/maven-pattern-resources-filtering@1.0.0?classifier=sources
+- pkg:maven/be.icandev.maven/maven-pattern-resources-filtering@1.1.0
+- pkg:maven/be.icandev.maven/maven-pattern-resources-filtering@1.1.0?classifier=sources

@@ -1,3 +1,4 @@
 - pkg:maven/br.dev.dig.storage/storage-android-sharedpreferences@0.1.0?classifier=sources
 - pkg:maven/br.dev.dig.storage/storage-android-sharedpreferences@1.0.0?classifier=sources
 - pkg:maven/br.dev.dig.storage/storage-android-sharedpreferences@1.1.0?classifier=sources
+- pkg:maven/br.dev.dig.storage/storage-android-sharedpreferences@1.2.0?classifier=sources

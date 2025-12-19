@@ -70,6 +70,9 @@
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.server.jdbc.test@23.1.1
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.server.jdbc.test@23.1.2
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.server.jdbc.test@23.1.4
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.server.jdbc.test@23.1.5
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.server.jdbc.test@23.1.6
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.server.jdbc.test@23.1.8
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.server.jdbc.test@5.2.0.M4
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.server.jdbc.test@5.2.0.M5
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.server.jdbc.test@6.0.0.M6

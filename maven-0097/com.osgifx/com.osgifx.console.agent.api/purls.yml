@@ -8,3 +8,5 @@
 - pkg:maven/com.osgifx/com.osgifx.console.agent.api@2.2.9?classifier=sources
 - pkg:maven/com.osgifx/com.osgifx.console.agent.api@2.3.0
 - pkg:maven/com.osgifx/com.osgifx.console.agent.api@2.3.0?classifier=sources
+- pkg:maven/com.osgifx/com.osgifx.console.agent.api@2.3.1
+- pkg:maven/com.osgifx/com.osgifx.console.agent.api@2.3.1?classifier=sources

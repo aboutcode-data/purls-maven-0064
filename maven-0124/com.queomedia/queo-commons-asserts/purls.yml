@@ -1,0 +1,2 @@
+- pkg:maven/com.queomedia/queo-commons-asserts@2.0.2
+- pkg:maven/com.queomedia/queo-commons-asserts@2.0.2?classifier=sources
