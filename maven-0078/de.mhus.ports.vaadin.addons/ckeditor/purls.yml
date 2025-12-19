@@ -6,3 +6,5 @@
 - pkg:maven/de.mhus.ports.vaadin.addons/ckeditor@7.1.0?classifier=sources
 - pkg:maven/de.mhus.ports.vaadin.addons/ckeditor@7.2.0
 - pkg:maven/de.mhus.ports.vaadin.addons/ckeditor@7.2.0?classifier=sources
+- pkg:maven/de.mhus.ports.vaadin.addons/ckeditor@7.4.0
+- pkg:maven/de.mhus.ports.vaadin.addons/ckeditor@7.4.0?classifier=sources

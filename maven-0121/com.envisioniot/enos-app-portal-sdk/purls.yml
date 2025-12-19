@@ -1,0 +1,2 @@
+- pkg:maven/com.envisioniot/enos-app-portal-sdk@0.0.17
+- pkg:maven/com.envisioniot/enos-app-portal-sdk@0.0.17?classifier=sources

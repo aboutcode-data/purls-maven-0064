@@ -1,0 +1,2 @@
+- pkg:maven/io.dataease/dataease-plugin-view@1.8.0
+- pkg:maven/io.dataease/dataease-plugin-view@1.8.0?classifier=sources

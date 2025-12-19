@@ -1,0 +1,2 @@
+- pkg:maven/io.github.thridparty-cloud2/quecloud-sdk-dev-mgr@1.0.0
+- pkg:maven/io.github.thridparty-cloud2/quecloud-sdk-dev-mgr@1.0.0?classifier=sources

@@ -63,3 +63,4 @@
 - pkg:maven/org.codenarc/CodeNarc@2.0.0?classifier=sources
 - pkg:maven/org.codenarc/CodeNarc@2.1.0?classifier=sources
 - pkg:maven/org.codenarc/CodeNarc@2.2.0?classifier=sources
+- pkg:maven/org.codenarc/CodeNarc@3.0.0?classifier=sources

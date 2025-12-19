@@ -1,0 +1,4 @@
+- pkg:maven/cn.hippo4j/hippo4j-core-spring-boot-starter@1.1.0-alpha.2
+- pkg:maven/cn.hippo4j/hippo4j-core-spring-boot-starter@1.1.0-alpha.2?classifier=sources
+- pkg:maven/cn.hippo4j/hippo4j-core-spring-boot-starter@1.1.0-beta
+- pkg:maven/cn.hippo4j/hippo4j-core-spring-boot-starter@1.1.0-beta?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/fish.focus.uvms.spatial/spatial-model@2.2.11?classifier=sources
+- pkg:maven/fish.focus.uvms.spatial/spatial-model@2.2.12?classifier=sources

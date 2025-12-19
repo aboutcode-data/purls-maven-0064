@@ -3,3 +3,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-html@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-html@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-html@RELEASE126?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-html@RELEASE130?classifier=sources

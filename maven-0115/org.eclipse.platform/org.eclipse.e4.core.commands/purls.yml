@@ -22,3 +22,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.core.commands@0.13.0?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.core.commands@1.0.0
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.core.commands@1.0.0?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.e4.core.commands@1.0.100
+- pkg:maven/org.eclipse.platform/org.eclipse.e4.core.commands@1.0.100?classifier=sources

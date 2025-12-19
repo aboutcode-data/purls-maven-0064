@@ -12,3 +12,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-languages-apacheconf@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-languages-apacheconf@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-languages-apacheconf@RELEASE126?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-languages-apacheconf@RELEASE130?classifier=sources

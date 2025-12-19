@@ -16,3 +16,7 @@
 - pkg:maven/com.avides.spring/spring-rabbit@2.4.0?classifier=sources
 - pkg:maven/com.avides.spring/spring-rabbit@2.5.0
 - pkg:maven/com.avides.spring/spring-rabbit@2.5.0?classifier=sources
+- pkg:maven/com.avides.spring/spring-rabbit@2.6.0
+- pkg:maven/com.avides.spring/spring-rabbit@2.6.0?classifier=sources
+- pkg:maven/com.avides.spring/spring-rabbit@2.7.0
+- pkg:maven/com.avides.spring/spring-rabbit@2.7.0?classifier=sources

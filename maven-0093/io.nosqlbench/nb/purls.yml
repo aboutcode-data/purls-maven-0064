@@ -312,3 +312,6 @@
 - pkg:maven/io.nosqlbench/nb@4.15.85
 - pkg:maven/io.nosqlbench/nb@4.15.86
 - pkg:maven/io.nosqlbench/nb@4.15.87
+- pkg:maven/io.nosqlbench/nb@4.15.88
+- pkg:maven/io.nosqlbench/nb@4.15.89
+- pkg:maven/io.nosqlbench/nb@4.15.90

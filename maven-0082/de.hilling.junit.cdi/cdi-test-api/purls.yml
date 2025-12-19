@@ -59,6 +59,8 @@
 - pkg:maven/de.hilling.junit.cdi/cdi-test-api@3.3.8?classifier=sources
 - pkg:maven/de.hilling.junit.cdi/cdi-test-api@3.3.9
 - pkg:maven/de.hilling.junit.cdi/cdi-test-api@3.3.9?classifier=sources
+- pkg:maven/de.hilling.junit.cdi/cdi-test-api@3.4.0
+- pkg:maven/de.hilling.junit.cdi/cdi-test-api@3.4.0?classifier=sources
 - pkg:maven/de.hilling.junit.cdi/cdi-test-api@4.0.0-RC1
 - pkg:maven/de.hilling.junit.cdi/cdi-test-api@4.0.0-RC1?classifier=sources
 - pkg:maven/de.hilling.junit.cdi/cdi-test-api@4.0.0-RC2
@@ -67,3 +69,5 @@
 - pkg:maven/de.hilling.junit.cdi/cdi-test-api@4.0.0-RC3?classifier=sources
 - pkg:maven/de.hilling.junit.cdi/cdi-test-api@4.0.0-RC4
 - pkg:maven/de.hilling.junit.cdi/cdi-test-api@4.0.0-RC4?classifier=sources
+- pkg:maven/de.hilling.junit.cdi/cdi-test-api@4.0.0-RC6
+- pkg:maven/de.hilling.junit.cdi/cdi-test-api@4.0.0-RC6?classifier=sources

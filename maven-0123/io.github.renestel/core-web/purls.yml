@@ -1,0 +1,2 @@
+- pkg:maven/io.github.renestel/core-web@00.00.022
+- pkg:maven/io.github.renestel/core-web@00.00.022?classifier=sources

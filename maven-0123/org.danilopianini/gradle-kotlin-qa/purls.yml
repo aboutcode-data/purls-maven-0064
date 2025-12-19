@@ -1,6 +1,10 @@
 - pkg:maven/org.danilopianini/gradle-kotlin-qa@0.1.0?classifier=sources
 - pkg:maven/org.danilopianini/gradle-kotlin-qa@0.10.0?classifier=sources
 - pkg:maven/org.danilopianini/gradle-kotlin-qa@0.10.1?classifier=sources
+- pkg:maven/org.danilopianini/gradle-kotlin-qa@0.11.0?classifier=sources
+- pkg:maven/org.danilopianini/gradle-kotlin-qa@0.12.0?classifier=sources
+- pkg:maven/org.danilopianini/gradle-kotlin-qa@0.12.1?classifier=sources
+- pkg:maven/org.danilopianini/gradle-kotlin-qa@0.13.0?classifier=sources
 - pkg:maven/org.danilopianini/gradle-kotlin-qa@0.2.0?classifier=sources
 - pkg:maven/org.danilopianini/gradle-kotlin-qa@0.2.1?classifier=sources
 - pkg:maven/org.danilopianini/gradle-kotlin-qa@0.2.2?classifier=sources

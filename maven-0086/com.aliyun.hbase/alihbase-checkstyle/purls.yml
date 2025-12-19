@@ -34,4 +34,6 @@
 - pkg:maven/com.aliyun.hbase/alihbase-checkstyle@2.8.4
 - pkg:maven/com.aliyun.hbase/alihbase-checkstyle@2.8.5
 - pkg:maven/com.aliyun.hbase/alihbase-checkstyle@2.8.6
+- pkg:maven/com.aliyun.hbase/alihbase-checkstyle@2.8.6.98
+- pkg:maven/com.aliyun.hbase/alihbase-checkstyle@2.8.6.99
 - pkg:maven/com.aliyun.hbase/alihbase-checkstyle@2.8.7

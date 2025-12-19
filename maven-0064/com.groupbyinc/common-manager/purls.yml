@@ -162,6 +162,12 @@
 - pkg:maven/com.groupbyinc/common-manager@194?classifier=sources
 - pkg:maven/com.groupbyinc/common-manager@195
 - pkg:maven/com.groupbyinc/common-manager@195?classifier=sources
+- pkg:maven/com.groupbyinc/common-manager@196
+- pkg:maven/com.groupbyinc/common-manager@196?classifier=sources
+- pkg:maven/com.groupbyinc/common-manager@197
+- pkg:maven/com.groupbyinc/common-manager@197?classifier=sources
+- pkg:maven/com.groupbyinc/common-manager@198
+- pkg:maven/com.groupbyinc/common-manager@198?classifier=sources
 - pkg:maven/com.groupbyinc/common-manager@38
 - pkg:maven/com.groupbyinc/common-manager@38?classifier=sources
 - pkg:maven/com.groupbyinc/common-manager@39

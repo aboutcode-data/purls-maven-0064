@@ -28,3 +28,5 @@
 - pkg:maven/org.bedework/bw-util-cli@4.0.26?classifier=sources
 - pkg:maven/org.bedework/bw-util-cli@4.1.0
 - pkg:maven/org.bedework/bw-util-cli@4.1.0?classifier=sources
+- pkg:maven/org.bedework/bw-util-cli@5.0.0
+- pkg:maven/org.bedework/bw-util-cli@5.0.0?classifier=sources

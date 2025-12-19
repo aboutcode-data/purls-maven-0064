@@ -1,0 +1,1 @@
+- pkg:maven/io.kamon/spring-cloud-sleuth-kamon-apm-reporter@1.0.0-alpha1?classifier=sources

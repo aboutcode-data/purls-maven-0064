@@ -57,6 +57,8 @@
 - pkg:maven/org.apache.tika/tika-parsers@1.27
 - pkg:maven/org.apache.tika/tika-parsers@1.27?classifier=sources
 - pkg:maven/org.apache.tika/tika-parsers@1.28
+- pkg:maven/org.apache.tika/tika-parsers@1.28.1
+- pkg:maven/org.apache.tika/tika-parsers@1.28.1?classifier=sources
 - pkg:maven/org.apache.tika/tika-parsers@1.28?classifier=sources
 - pkg:maven/org.apache.tika/tika-parsers@1.2?classifier=sources
 - pkg:maven/org.apache.tika/tika-parsers@1.3

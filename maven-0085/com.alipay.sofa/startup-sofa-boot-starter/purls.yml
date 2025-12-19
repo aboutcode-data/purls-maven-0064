@@ -1,4 +1,5 @@
 - pkg:maven/com.alipay.sofa/startup-sofa-boot-starter@3.10.0
+- pkg:maven/com.alipay.sofa/startup-sofa-boot-starter@3.11.0
 - pkg:maven/com.alipay.sofa/startup-sofa-boot-starter@3.4.3
 - pkg:maven/com.alipay.sofa/startup-sofa-boot-starter@3.4.4
 - pkg:maven/com.alipay.sofa/startup-sofa-boot-starter@3.4.5

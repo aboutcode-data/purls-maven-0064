@@ -62,6 +62,8 @@
 - pkg:maven/com.google.apis/google-api-services-runtimeconfig@v1-rev20210322-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-runtimeconfig@v1-rev20210809-1.32.1
 - pkg:maven/com.google.apis/google-api-services-runtimeconfig@v1-rev20210809-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-runtimeconfig@v1-rev20220321-1.32.1
+- pkg:maven/com.google.apis/google-api-services-runtimeconfig@v1-rev20220321-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-runtimeconfig@v1-rev3-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-runtimeconfig@v1-rev3-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-runtimeconfig@v1-rev3-1.20.0
@@ -850,6 +852,8 @@
 - pkg:maven/com.google.apis/google-api-services-runtimeconfig@v1beta1-rev20211018-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-runtimeconfig@v1beta1-rev20211108-1.32.1
 - pkg:maven/com.google.apis/google-api-services-runtimeconfig@v1beta1-rev20211108-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-runtimeconfig@v1beta1-rev20220321-1.32.1
+- pkg:maven/com.google.apis/google-api-services-runtimeconfig@v1beta1-rev20220321-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-runtimeconfig@v1beta1-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-runtimeconfig@v1beta1-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-runtimeconfig@v1beta1-rev21-1.20.0

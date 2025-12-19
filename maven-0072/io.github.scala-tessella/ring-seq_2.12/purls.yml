@@ -1,0 +1,4 @@
+- pkg:maven/io.github.scala-tessella/ring-seq_2.12@0.1.2%2B1-1449b9d8
+- pkg:maven/io.github.scala-tessella/ring-seq_2.12@0.1.2%2B1-1449b9d8?classifier=sources
+- pkg:maven/io.github.scala-tessella/ring-seq_2.12@0.1.3
+- pkg:maven/io.github.scala-tessella/ring-seq_2.12@0.1.3?classifier=sources

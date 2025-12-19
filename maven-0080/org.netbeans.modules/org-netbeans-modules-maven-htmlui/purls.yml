@@ -12,4 +12,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-htmlui@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-htmlui@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-htmlui@RELEASE126?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-htmlui@RELEASE130?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-htmlui@RELEASE90?classifier=sources

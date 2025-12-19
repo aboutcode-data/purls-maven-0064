@@ -10,3 +10,5 @@
 - pkg:maven/com.google.ortools/ortools-linux-x86-64@9.1.9491?classifier=sources
 - pkg:maven/com.google.ortools/ortools-linux-x86-64@9.2.9972
 - pkg:maven/com.google.ortools/ortools-linux-x86-64@9.2.9972?classifier=sources
+- pkg:maven/com.google.ortools/ortools-linux-x86-64@9.3.10497
+- pkg:maven/com.google.ortools/ortools-linux-x86-64@9.3.10497?classifier=sources

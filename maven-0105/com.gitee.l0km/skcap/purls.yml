@@ -48,3 +48,5 @@
 - pkg:maven/com.gitee.l0km/skcap@1.5.1-ip
 - pkg:maven/com.gitee.l0km/skcap@1.5.1-ip?classifier=sources
 - pkg:maven/com.gitee.l0km/skcap@1.5.1?classifier=sources
+- pkg:maven/com.gitee.l0km/skcap@1.5.2
+- pkg:maven/com.gitee.l0km/skcap@1.5.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.middolsundear.stork/stork-service-discovery-nacos@1.0.0
+- pkg:maven/io.github.middolsundear.stork/stork-service-discovery-nacos@1.0.0?classifier=sources

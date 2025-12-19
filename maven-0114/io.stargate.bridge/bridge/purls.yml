@@ -1,0 +1,8 @@
+- pkg:maven/io.stargate.bridge/bridge@2.0.0-ALPHA-2
+- pkg:maven/io.stargate.bridge/bridge@2.0.0-ALPHA-2?classifier=sources
+- pkg:maven/io.stargate.bridge/bridge@2.0.0-ALPHA-3
+- pkg:maven/io.stargate.bridge/bridge@2.0.0-ALPHA-3?classifier=sources
+- pkg:maven/io.stargate.bridge/bridge@2.0.0-ALPHA-4
+- pkg:maven/io.stargate.bridge/bridge@2.0.0-ALPHA-4?classifier=sources
+- pkg:maven/io.stargate.bridge/bridge@2.0.0-ALPHA-5
+- pkg:maven/io.stargate.bridge/bridge@2.0.0-ALPHA-5?classifier=sources

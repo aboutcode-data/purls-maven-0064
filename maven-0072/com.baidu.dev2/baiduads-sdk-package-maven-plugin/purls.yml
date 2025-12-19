@@ -1,0 +1,2 @@
+- pkg:maven/com.baidu.dev2/baiduads-sdk-package-maven-plugin@2022.0.0
+- pkg:maven/com.baidu.dev2/baiduads-sdk-package-maven-plugin@2022.0.0?classifier=sources

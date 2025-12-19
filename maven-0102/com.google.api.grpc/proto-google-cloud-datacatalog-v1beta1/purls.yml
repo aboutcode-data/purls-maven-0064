@@ -130,6 +130,8 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-datacatalog-v1beta1@0.43.2?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-datacatalog-v1beta1@0.43.3
 - pkg:maven/com.google.api.grpc/proto-google-cloud-datacatalog-v1beta1@0.43.3?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-datacatalog-v1beta1@0.44.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-datacatalog-v1beta1@0.44.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-datacatalog-v1beta1@0.5.0-alpha
 - pkg:maven/com.google.api.grpc/proto-google-cloud-datacatalog-v1beta1@0.5.0-alpha?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-datacatalog-v1beta1@0.6.0-alpha

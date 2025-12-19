@@ -2,6 +2,12 @@
 - pkg:maven/org.wso2.is/api-resources-full@5.12.0-alpha10?type=war
 - pkg:maven/org.wso2.is/api-resources-full@5.12.0-alpha11?classifier=sources
 - pkg:maven/org.wso2.is/api-resources-full@5.12.0-alpha11?type=war
+- pkg:maven/org.wso2.is/api-resources-full@5.12.0-alpha12?classifier=sources
+- pkg:maven/org.wso2.is/api-resources-full@5.12.0-alpha12?type=war
+- pkg:maven/org.wso2.is/api-resources-full@5.12.0-alpha13?classifier=sources
+- pkg:maven/org.wso2.is/api-resources-full@5.12.0-alpha13?type=war
+- pkg:maven/org.wso2.is/api-resources-full@5.12.0-alpha14?classifier=sources
+- pkg:maven/org.wso2.is/api-resources-full@5.12.0-alpha14?type=war
 - pkg:maven/org.wso2.is/api-resources-full@5.12.0-alpha2?classifier=sources
 - pkg:maven/org.wso2.is/api-resources-full@5.12.0-alpha2?type=war
 - pkg:maven/org.wso2.is/api-resources-full@5.12.0-alpha3?classifier=sources

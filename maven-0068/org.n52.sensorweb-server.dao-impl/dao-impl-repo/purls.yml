@@ -12,3 +12,5 @@
 - pkg:maven/org.n52.sensorweb-server.dao-impl/dao-impl-repo@4.0.0-PR.6?classifier=sources
 - pkg:maven/org.n52.sensorweb-server.dao-impl/dao-impl-repo@4.0.0-PR.7
 - pkg:maven/org.n52.sensorweb-server.dao-impl/dao-impl-repo@4.0.0-PR.7?classifier=sources
+- pkg:maven/org.n52.sensorweb-server.dao-impl/dao-impl-repo@4.0.0-PR.8
+- pkg:maven/org.n52.sensorweb-server.dao-impl/dao-impl-repo@4.0.0-PR.8?classifier=sources

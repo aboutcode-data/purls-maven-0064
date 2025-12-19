@@ -130,6 +130,8 @@
 - pkg:maven/io.cloudslang/score-tests@0.3.249
 - pkg:maven/io.cloudslang/score-tests@0.3.25
 - pkg:maven/io.cloudslang/score-tests@0.3.250
+- pkg:maven/io.cloudslang/score-tests@0.3.251
+- pkg:maven/io.cloudslang/score-tests@0.3.252
 - pkg:maven/io.cloudslang/score-tests@0.3.26
 - pkg:maven/io.cloudslang/score-tests@0.3.27
 - pkg:maven/io.cloudslang/score-tests@0.3.28

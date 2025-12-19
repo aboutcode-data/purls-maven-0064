@@ -8,3 +8,4 @@
 - pkg:maven/com.codemybrainsout.rating/ratingdialog@1.0.7?classifier=sources
 - pkg:maven/com.codemybrainsout.rating/ratingdialog@1.0.8?classifier=sources
 - pkg:maven/com.codemybrainsout.rating/ratingdialog@1.1.0?classifier=sources
+- pkg:maven/com.codemybrainsout.rating/ratingdialog@2.0.0?classifier=sources

@@ -141,6 +141,8 @@
 - pkg:maven/org.eolang/eo-maven-plugin@0.21.0
 - pkg:maven/org.eolang/eo-maven-plugin@0.21.0?classifier=sources
 - pkg:maven/org.eolang/eo-maven-plugin@0.21.1
+- pkg:maven/org.eolang/eo-maven-plugin@0.21.10
+- pkg:maven/org.eolang/eo-maven-plugin@0.21.10?classifier=sources
 - pkg:maven/org.eolang/eo-maven-plugin@0.21.1?classifier=sources
 - pkg:maven/org.eolang/eo-maven-plugin@0.21.2
 - pkg:maven/org.eolang/eo-maven-plugin@0.21.2?classifier=sources

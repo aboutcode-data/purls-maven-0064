@@ -4,6 +4,7 @@
 - pkg:maven/org.opendaylight.odlparent/odl-karaf-feat-war@1.8.3-Carbon?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/odl-karaf-feat-war@1.8.4-Carbon?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/odl-karaf-feat-war@1.9.0?classifier=sources
+- pkg:maven/org.opendaylight.odlparent/odl-karaf-feat-war@10.0.0?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/odl-karaf-feat-war@2.0.0?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/odl-karaf-feat-war@2.0.1?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/odl-karaf-feat-war@2.0.2?classifier=sources

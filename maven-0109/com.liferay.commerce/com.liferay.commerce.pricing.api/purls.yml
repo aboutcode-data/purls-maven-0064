@@ -85,6 +85,12 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.pricing.api@11.2.0
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.pricing.api@11.2.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.pricing.api@11.2.0?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.pricing.api@12.0.0
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.pricing.api@12.0.0?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.pricing.api@12.0.0?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.pricing.api@12.1.0
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.pricing.api@12.1.0?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.pricing.api@12.1.0?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.pricing.api@2.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.pricing.api@2.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.pricing.api@2.0.0?classifier=sources-commercial

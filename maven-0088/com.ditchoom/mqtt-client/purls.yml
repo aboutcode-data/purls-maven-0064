@@ -3,6 +3,10 @@
 - pkg:maven/com.ditchoom/mqtt-client@0.0.15?classifier=sources
 - pkg:maven/com.ditchoom/mqtt-client@0.0.16?classifier=sources
 - pkg:maven/com.ditchoom/mqtt-client@0.0.17?classifier=sources
+- pkg:maven/com.ditchoom/mqtt-client@0.0.18?classifier=sources
+- pkg:maven/com.ditchoom/mqtt-client@0.0.20?classifier=sources
+- pkg:maven/com.ditchoom/mqtt-client@0.0.21?classifier=sources
+- pkg:maven/com.ditchoom/mqtt-client@0.0.22?classifier=sources
 - pkg:maven/com.ditchoom/mqtt-client@0.0.4?classifier=sources
 - pkg:maven/com.ditchoom/mqtt-client@0.0.5?classifier=sources
 - pkg:maven/com.ditchoom/mqtt-client@0.0.7?classifier=sources

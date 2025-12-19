@@ -1,3 +1,4 @@
 - pkg:maven/org.dreamcat/common-x@0.0.1.210127?classifier=sources
 - pkg:maven/org.dreamcat/common-x@0.1.210912?classifier=sources
 - pkg:maven/org.dreamcat/common-x@0.1.220126?classifier=sources
+- pkg:maven/org.dreamcat/common-x@0.2?classifier=sources

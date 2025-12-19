@@ -5,3 +5,6 @@
 - pkg:maven/io.apicurio/apicurio-common-app-components-config@0.1.4.Final
 - pkg:maven/io.apicurio/apicurio-common-app-components-config@0.1.5.Final
 - pkg:maven/io.apicurio/apicurio-common-app-components-config@0.1.6.Final
+- pkg:maven/io.apicurio/apicurio-common-app-components-config@0.1.7.Final
+- pkg:maven/io.apicurio/apicurio-common-app-components-config@0.1.8.Final
+- pkg:maven/io.apicurio/apicurio-common-app-components-config@0.1.9.Final

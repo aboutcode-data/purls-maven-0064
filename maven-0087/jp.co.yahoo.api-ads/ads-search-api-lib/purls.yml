@@ -14,3 +14,5 @@
 - pkg:maven/jp.co.yahoo.api-ads/ads-search-api-lib@0.0.8?classifier=sources
 - pkg:maven/jp.co.yahoo.api-ads/ads-search-api-lib@0.0.9
 - pkg:maven/jp.co.yahoo.api-ads/ads-search-api-lib@0.0.9?classifier=sources
+- pkg:maven/jp.co.yahoo.api-ads/ads-search-api-lib@1.0.0
+- pkg:maven/jp.co.yahoo.api-ads/ads-search-api-lib@1.0.0?classifier=sources

@@ -1242,6 +1242,10 @@
 - pkg:maven/org.wso2.identity.apps/totp-authentication-portal@1.0.660?type=war
 - pkg:maven/org.wso2.identity.apps/totp-authentication-portal@1.0.661?classifier=sources
 - pkg:maven/org.wso2.identity.apps/totp-authentication-portal@1.0.661?type=war
+- pkg:maven/org.wso2.identity.apps/totp-authentication-portal@1.0.662?classifier=sources
+- pkg:maven/org.wso2.identity.apps/totp-authentication-portal@1.0.662?type=war
+- pkg:maven/org.wso2.identity.apps/totp-authentication-portal@1.0.663?classifier=sources
+- pkg:maven/org.wso2.identity.apps/totp-authentication-portal@1.0.663?type=war
 - pkg:maven/org.wso2.identity.apps/totp-authentication-portal@1.0.66?classifier=sources
 - pkg:maven/org.wso2.identity.apps/totp-authentication-portal@1.0.66?type=war
 - pkg:maven/org.wso2.identity.apps/totp-authentication-portal@1.0.67?classifier=sources

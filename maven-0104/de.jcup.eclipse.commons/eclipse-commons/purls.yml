@@ -1,1 +1,2 @@
 - pkg:maven/de.jcup.eclipse.commons/eclipse-commons@1.0.0?classifier=sources
+- pkg:maven/de.jcup.eclipse.commons/eclipse-commons@1.1.0?classifier=sources

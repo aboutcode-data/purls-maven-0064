@@ -7,4 +7,6 @@
 - pkg:maven/com.github.luoshu-open/luoshu-config@0.23?classifier=sources
 - pkg:maven/com.github.luoshu-open/luoshu-config@0.26
 - pkg:maven/com.github.luoshu-open/luoshu-config@0.26?classifier=sources
+- pkg:maven/com.github.luoshu-open/luoshu-config@0.27
+- pkg:maven/com.github.luoshu-open/luoshu-config@0.27?classifier=sources
 - pkg:maven/com.github.luoshu-open/luoshu-config@0.2?classifier=sources

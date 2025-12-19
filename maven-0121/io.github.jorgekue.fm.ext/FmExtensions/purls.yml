@@ -1,0 +1,2 @@
+- pkg:maven/io.github.jorgekue.fm.ext/FmExtensions@0.0.1
+- pkg:maven/io.github.jorgekue.fm.ext/FmExtensions@0.0.1?classifier=sources
