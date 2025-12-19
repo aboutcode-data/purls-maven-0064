@@ -1,0 +1,7 @@
+- pkg:maven/org.anyline/anyline-jdbc-tdengine@8.5.7-20220829
+- pkg:maven/org.anyline/anyline-jdbc-tdengine@8.5.7-20220831
+- pkg:maven/org.anyline/anyline-jdbc-tdengine@8.5.7-20220831?classifier=sources
+- pkg:maven/org.anyline/anyline-jdbc-tdengine@8.5.7-20220902
+- pkg:maven/org.anyline/anyline-jdbc-tdengine@8.5.7-20220902?classifier=sources
+- pkg:maven/org.anyline/anyline-jdbc-tdengine@8.5.7-20220903
+- pkg:maven/org.anyline/anyline-jdbc-tdengine@8.5.7-20220903?classifier=sources

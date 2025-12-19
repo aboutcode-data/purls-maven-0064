@@ -8,3 +8,7 @@
 - pkg:maven/com.github.myibu/simple-redisclient@1.0.1a?classifier=sources
 - pkg:maven/com.github.myibu/simple-redisclient@1.0.1b
 - pkg:maven/com.github.myibu/simple-redisclient@1.0.1b?classifier=sources
+- pkg:maven/com.github.myibu/simple-redisclient@1.0.2
+- pkg:maven/com.github.myibu/simple-redisclient@1.0.2?classifier=sources
+- pkg:maven/com.github.myibu/simple-redisclient@1.0.3
+- pkg:maven/com.github.myibu/simple-redisclient@1.0.3?classifier=sources

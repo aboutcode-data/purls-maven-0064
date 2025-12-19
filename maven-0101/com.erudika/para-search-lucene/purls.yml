@@ -82,3 +82,5 @@
 - pkg:maven/com.erudika/para-search-lucene@1.45.3?classifier=sources
 - pkg:maven/com.erudika/para-search-lucene@1.45.4
 - pkg:maven/com.erudika/para-search-lucene@1.45.4?classifier=sources
+- pkg:maven/com.erudika/para-search-lucene@1.45.5
+- pkg:maven/com.erudika/para-search-lucene@1.45.5?classifier=sources

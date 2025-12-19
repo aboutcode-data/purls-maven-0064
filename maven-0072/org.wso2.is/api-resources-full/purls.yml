@@ -76,3 +76,5 @@
 - pkg:maven/org.wso2.is/api-resources-full@5.13.0-m3?type=war
 - pkg:maven/org.wso2.is/api-resources-full@6.0.0-alpha3?classifier=sources
 - pkg:maven/org.wso2.is/api-resources-full@6.0.0-alpha3?type=war
+- pkg:maven/org.wso2.is/api-resources-full@6.0.0?classifier=sources
+- pkg:maven/org.wso2.is/api-resources-full@6.0.0?type=war

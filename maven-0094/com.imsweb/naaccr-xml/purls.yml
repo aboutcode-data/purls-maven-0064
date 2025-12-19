@@ -119,3 +119,4 @@
 - pkg:maven/com.imsweb/naaccr-xml@8.7?classifier=sources
 - pkg:maven/com.imsweb/naaccr-xml@8.8?classifier=sources
 - pkg:maven/com.imsweb/naaccr-xml@8.9?classifier=sources
+- pkg:maven/com.imsweb/naaccr-xml@9.0?classifier=sources

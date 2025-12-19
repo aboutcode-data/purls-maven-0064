@@ -233,7 +233,11 @@
 - pkg:maven/io.janstenpickle/trace4cats-tail-sampling-redis-store_2.13@0.13.1%2B31-9657d41e?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-tail-sampling-redis-store_2.13@0.13.1%2B35-38bb8a82
 - pkg:maven/io.janstenpickle/trace4cats-tail-sampling-redis-store_2.13@0.13.1%2B35-38bb8a82?classifier=sources
+- pkg:maven/io.janstenpickle/trace4cats-tail-sampling-redis-store_2.13@0.13.1%2B38-213a14c1
+- pkg:maven/io.janstenpickle/trace4cats-tail-sampling-redis-store_2.13@0.13.1%2B38-213a14c1?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-tail-sampling-redis-store_2.13@0.13.1?classifier=sources
+- pkg:maven/io.janstenpickle/trace4cats-tail-sampling-redis-store_2.13@0.14.0
+- pkg:maven/io.janstenpickle/trace4cats-tail-sampling-redis-store_2.13@0.14.0?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-tail-sampling-redis-store_2.13@0.6.0%2B66-03a73d22
 - pkg:maven/io.janstenpickle/trace4cats-tail-sampling-redis-store_2.13@0.6.0%2B66-03a73d22?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-tail-sampling-redis-store_2.13@0.6.0%2B74-3c4c4402

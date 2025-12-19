@@ -1,0 +1,4 @@
+- pkg:maven/com.evolvedbinary.thirdparty.com.xmlmind/ditac@3.11.1
+- pkg:maven/com.evolvedbinary.thirdparty.com.xmlmind/ditac@3.11.1.1
+- pkg:maven/com.evolvedbinary.thirdparty.com.xmlmind/ditac@3.11.1.1?classifier=sources
+- pkg:maven/com.evolvedbinary.thirdparty.com.xmlmind/ditac@3.11.1?classifier=sources

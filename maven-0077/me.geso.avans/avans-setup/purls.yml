@@ -68,3 +68,5 @@
 - pkg:maven/me.geso.avans/avans-setup@2.4.0?classifier=sources
 - pkg:maven/me.geso.avans/avans-setup@2.5.0
 - pkg:maven/me.geso.avans/avans-setup@2.5.0?classifier=sources
+- pkg:maven/me.geso.avans/avans-setup@2.6.0
+- pkg:maven/me.geso.avans/avans-setup@2.6.0?classifier=sources

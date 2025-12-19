@@ -5,3 +5,5 @@
 - pkg:maven/de.charlex.billing/billing-suspend@4.0.2?classifier=sources
 - pkg:maven/de.charlex.billing/billing-suspend@4.1.0.1?classifier=sources
 - pkg:maven/de.charlex.billing/billing-suspend@4.1.0?classifier=sources
+- pkg:maven/de.charlex.billing/billing-suspend@5.0.0.0-rc01?classifier=sources
+- pkg:maven/de.charlex.billing/billing-suspend@5.0.0.0-rc02?classifier=sources

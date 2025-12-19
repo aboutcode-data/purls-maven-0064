@@ -28,3 +28,7 @@
 - pkg:maven/com.arize/arize-api-client@2.0.2-shade
 - pkg:maven/com.arize/arize-api-client@2.0.2-shade?classifier=sources
 - pkg:maven/com.arize/arize-api-client@2.0.2?classifier=sources
+- pkg:maven/com.arize/arize-api-client@2.0.3
+- pkg:maven/com.arize/arize-api-client@2.0.3-shade
+- pkg:maven/com.arize/arize-api-client@2.0.3-shade?classifier=sources
+- pkg:maven/com.arize/arize-api-client@2.0.3?classifier=sources

@@ -30,6 +30,8 @@
 - pkg:maven/com.appslandia/appslandia-plum@1.8?classifier=sources
 - pkg:maven/com.appslandia/appslandia-plum@1.9
 - pkg:maven/com.appslandia/appslandia-plum@1.9?classifier=sources
+- pkg:maven/com.appslandia/appslandia-plum@10.0.0
+- pkg:maven/com.appslandia/appslandia-plum@10.0.0?classifier=sources
 - pkg:maven/com.appslandia/appslandia-plum@2.0
 - pkg:maven/com.appslandia/appslandia-plum@2.0?classifier=sources
 - pkg:maven/com.appslandia/appslandia-plum@2.1

@@ -1,0 +1,2 @@
+- pkg:maven/net.solarnetwork.common/net.solarnetwork.common.osgi@1.0.0
+- pkg:maven/net.solarnetwork.common/net.solarnetwork.common.osgi@1.0.0?classifier=sources

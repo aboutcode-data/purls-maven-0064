@@ -1,0 +1,2 @@
+- pkg:maven/org.openmole.endpoints4s/http4s-server_3@10.0.0%2Bn
+- pkg:maven/org.openmole.endpoints4s/http4s-server_3@10.0.0%2Bn?classifier=sources

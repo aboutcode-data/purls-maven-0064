@@ -2,3 +2,5 @@
 - pkg:maven/com.github.houbb/slf4j-common@0.1.144?classifier=sources
 - pkg:maven/com.github.houbb/slf4j-common@1.0.0
 - pkg:maven/com.github.houbb/slf4j-common@1.0.0?classifier=sources
+- pkg:maven/com.github.houbb/slf4j-common@1.1.0
+- pkg:maven/com.github.houbb/slf4j-common@1.1.0?classifier=sources

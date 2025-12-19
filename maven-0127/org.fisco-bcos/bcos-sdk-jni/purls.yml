@@ -4,3 +4,4 @@
 - pkg:maven/org.fisco-bcos/bcos-sdk-jni@3.0.0-rc3-bugfix?classifier=sources
 - pkg:maven/org.fisco-bcos/bcos-sdk-jni@3.0.0-rc3?classifier=sources
 - pkg:maven/org.fisco-bcos/bcos-sdk-jni@3.0.0-rc4?classifier=sources
+- pkg:maven/org.fisco-bcos/bcos-sdk-jni@3.0.0?classifier=sources

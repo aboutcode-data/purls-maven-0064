@@ -5,4 +5,5 @@
 - pkg:maven/dev.jahir/Kuper@2.3.6?classifier=sources
 - pkg:maven/dev.jahir/Kuper@2.3.8?classifier=sources
 - pkg:maven/dev.jahir/Kuper@2.3.9?classifier=sources
+- pkg:maven/dev.jahir/Kuper@2.4.0?classifier=sources
 - pkg:maven/dev.jahir/Kuper@228?classifier=sources

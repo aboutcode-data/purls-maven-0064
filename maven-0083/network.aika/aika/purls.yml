@@ -22,5 +22,9 @@
 - pkg:maven/network.aika/aika@1.4.26?classifier=sources
 - pkg:maven/network.aika/aika@1.4.27
 - pkg:maven/network.aika/aika@1.4.27?classifier=sources
+- pkg:maven/network.aika/aika@1.4.28
+- pkg:maven/network.aika/aika@1.4.28?classifier=sources
+- pkg:maven/network.aika/aika@1.4.29
+- pkg:maven/network.aika/aika@1.4.29?classifier=sources
 - pkg:maven/network.aika/aika@2.0.2.ALPHA
 - pkg:maven/network.aika/aika@2.0.2.ALPHA?classifier=sources

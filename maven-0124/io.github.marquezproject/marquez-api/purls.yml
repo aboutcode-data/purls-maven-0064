@@ -24,3 +24,5 @@
 - pkg:maven/io.github.marquezproject/marquez-api@0.21.0?classifier=sources
 - pkg:maven/io.github.marquezproject/marquez-api@0.22.0?classifier=sources
 - pkg:maven/io.github.marquezproject/marquez-api@0.23.0?classifier=sources
+- pkg:maven/io.github.marquezproject/marquez-api@0.24.0?classifier=sources
+- pkg:maven/io.github.marquezproject/marquez-api@0.25.0?classifier=sources

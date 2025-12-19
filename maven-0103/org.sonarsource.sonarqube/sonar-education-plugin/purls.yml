@@ -1,0 +1,2 @@
+- pkg:maven/org.sonarsource.sonarqube/sonar-education-plugin@9.6.0.59041?classifier=sources
+- pkg:maven/org.sonarsource.sonarqube/sonar-education-plugin@9.6.1.59531?classifier=sources

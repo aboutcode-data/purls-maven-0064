@@ -1,0 +1,2 @@
+- pkg:maven/org.signal.forks/noise-java@0.1.0
+- pkg:maven/org.signal.forks/noise-java@0.1.0?classifier=sources

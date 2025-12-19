@@ -1,0 +1,4 @@
+- pkg:maven/dev.entao.app/viewbuilder@0.5.0?classifier=sources
+- pkg:maven/dev.entao.app/viewbuilder@0.6.0?classifier=sources
+- pkg:maven/dev.entao.app/viewbuilder@0.7.0?classifier=sources
+- pkg:maven/dev.entao.app/viewbuilder@0.8.0?classifier=sources

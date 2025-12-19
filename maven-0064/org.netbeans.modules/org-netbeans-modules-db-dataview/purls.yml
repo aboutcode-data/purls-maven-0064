@@ -14,4 +14,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-db-dataview@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-db-dataview@RELEASE130?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-db-dataview@RELEASE140?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-db-dataview@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-db-dataview@RELEASE90?classifier=sources

@@ -356,6 +356,7 @@
 - pkg:maven/net.nemerosa.ontrack/ontrack-extension-sonarqube@4.2.30?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-extension-sonarqube@4.2.31?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-extension-sonarqube@4.2.32?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-extension-sonarqube@4.2.33?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-extension-sonarqube@4.2.3?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-extension-sonarqube@4.2.4?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-extension-sonarqube@4.2.5?classifier=sources
@@ -363,6 +364,9 @@
 - pkg:maven/net.nemerosa.ontrack/ontrack-extension-sonarqube@4.2.7?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-extension-sonarqube@4.2.8?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-extension-sonarqube@4.2.9?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-extension-sonarqube@4.3-beta.0?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-extension-sonarqube@4.3-beta.1?classifier=sources
+- pkg:maven/net.nemerosa.ontrack/ontrack-extension-sonarqube@4.3.0?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-extension-sonarqube@feature-732-back-to-central-5e58285
 - pkg:maven/net.nemerosa.ontrack/ontrack-extension-sonarqube@feature-732-back-to-central-5e58285?classifier=sources
 - pkg:maven/net.nemerosa.ontrack/ontrack-extension-sonarqube@feature-735-ui-publication-7c8bc12

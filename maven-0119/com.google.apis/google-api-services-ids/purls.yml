@@ -4,3 +4,9 @@
 - pkg:maven/com.google.apis/google-api-services-ids@v1-rev20220320-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-ids@v1-rev20220511-1.32.1
 - pkg:maven/com.google.apis/google-api-services-ids@v1-rev20220511-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-ids@v1-rev20220511-2.0.0
+- pkg:maven/com.google.apis/google-api-services-ids@v1-rev20220511-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-ids@v1-rev20220810-2.0.0
+- pkg:maven/com.google.apis/google-api-services-ids@v1-rev20220810-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-ids@v1-rev20220828-2.0.0
+- pkg:maven/com.google.apis/google-api-services-ids@v1-rev20220828-2.0.0?classifier=sources

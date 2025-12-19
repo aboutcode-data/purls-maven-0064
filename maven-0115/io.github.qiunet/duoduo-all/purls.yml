@@ -1,0 +1,2 @@
+- pkg:maven/io.github.qiunet/duoduo-all@7.0.0
+- pkg:maven/io.github.qiunet/duoduo-all@7.0.0?classifier=sources

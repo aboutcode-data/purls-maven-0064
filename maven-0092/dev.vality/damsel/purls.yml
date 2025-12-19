@@ -52,3 +52,9 @@
 - pkg:maven/dev.vality/damsel@1.567-33c5665?classifier=sources
 - pkg:maven/dev.vality/damsel@1.568-9362c08
 - pkg:maven/dev.vality/damsel@1.568-9362c08?classifier=sources
+- pkg:maven/dev.vality/damsel@1.569-09e7a75
+- pkg:maven/dev.vality/damsel@1.569-09e7a75?classifier=sources
+- pkg:maven/dev.vality/damsel@1.570-53dab99
+- pkg:maven/dev.vality/damsel@1.570-53dab99?classifier=sources
+- pkg:maven/dev.vality/damsel@1.571-c6c7369
+- pkg:maven/dev.vality/damsel@1.571-c6c7369?classifier=sources

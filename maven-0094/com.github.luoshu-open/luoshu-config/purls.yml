@@ -15,4 +15,6 @@
 - pkg:maven/com.github.luoshu-open/luoshu-config@0.29?classifier=sources
 - pkg:maven/com.github.luoshu-open/luoshu-config@0.2?classifier=sources
 - pkg:maven/com.github.luoshu-open/luoshu-config@0.3
+- pkg:maven/com.github.luoshu-open/luoshu-config@0.31
+- pkg:maven/com.github.luoshu-open/luoshu-config@0.31?classifier=sources
 - pkg:maven/com.github.luoshu-open/luoshu-config@0.3?classifier=sources

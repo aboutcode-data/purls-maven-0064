@@ -242,6 +242,7 @@
 - pkg:maven/io.nosqlbench/nb@3.12.99?classifier=sources
 - pkg:maven/io.nosqlbench/nb@4.15.100
 - pkg:maven/io.nosqlbench/nb@4.15.101
+- pkg:maven/io.nosqlbench/nb@4.15.102
 - pkg:maven/io.nosqlbench/nb@4.15.31
 - pkg:maven/io.nosqlbench/nb@4.15.31?classifier=sources
 - pkg:maven/io.nosqlbench/nb@4.15.33

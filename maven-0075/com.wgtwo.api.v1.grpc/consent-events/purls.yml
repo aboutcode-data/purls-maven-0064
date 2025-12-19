@@ -1,0 +1,2 @@
+- pkg:maven/com.wgtwo.api.v1.grpc/consent-events@1.8.0
+- pkg:maven/com.wgtwo.api.v1.grpc/consent-events@1.8.0?classifier=sources

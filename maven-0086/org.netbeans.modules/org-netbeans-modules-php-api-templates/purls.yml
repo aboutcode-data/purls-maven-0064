@@ -14,3 +14,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-api-templates@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-api-templates@RELEASE130?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-api-templates@RELEASE140?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-api-templates@RELEASE150?classifier=sources

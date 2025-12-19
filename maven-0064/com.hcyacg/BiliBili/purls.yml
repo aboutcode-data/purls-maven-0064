@@ -2,3 +2,4 @@
 - pkg:maven/com.hcyacg/BiliBili@1.1.2?classifier=sources
 - pkg:maven/com.hcyacg/BiliBili@1.1.3?classifier=sources
 - pkg:maven/com.hcyacg/BiliBili@1.1.4?classifier=sources
+- pkg:maven/com.hcyacg/BiliBili@1.1.5-fix?classifier=sources

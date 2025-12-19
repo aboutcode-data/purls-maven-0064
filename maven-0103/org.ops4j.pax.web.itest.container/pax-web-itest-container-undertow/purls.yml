@@ -44,6 +44,7 @@
 - pkg:maven/org.ops4j.pax.web.itest.container/pax-web-itest-container-undertow@7.2.28
 - pkg:maven/org.ops4j.pax.web.itest.container/pax-web-itest-container-undertow@7.2.29
 - pkg:maven/org.ops4j.pax.web.itest.container/pax-web-itest-container-undertow@7.2.3
+- pkg:maven/org.ops4j.pax.web.itest.container/pax-web-itest-container-undertow@7.2.30
 - pkg:maven/org.ops4j.pax.web.itest.container/pax-web-itest-container-undertow@7.2.4
 - pkg:maven/org.ops4j.pax.web.itest.container/pax-web-itest-container-undertow@7.2.5
 - pkg:maven/org.ops4j.pax.web.itest.container/pax-web-itest-container-undertow@7.2.6
@@ -69,6 +70,7 @@
 - pkg:maven/org.ops4j.pax.web.itest.container/pax-web-itest-container-undertow@7.3.23
 - pkg:maven/org.ops4j.pax.web.itest.container/pax-web-itest-container-undertow@7.3.24
 - pkg:maven/org.ops4j.pax.web.itest.container/pax-web-itest-container-undertow@7.3.25
+- pkg:maven/org.ops4j.pax.web.itest.container/pax-web-itest-container-undertow@7.3.26
 - pkg:maven/org.ops4j.pax.web.itest.container/pax-web-itest-container-undertow@7.3.3
 - pkg:maven/org.ops4j.pax.web.itest.container/pax-web-itest-container-undertow@7.3.4
 - pkg:maven/org.ops4j.pax.web.itest.container/pax-web-itest-container-undertow@7.3.5

@@ -2,3 +2,4 @@
 - pkg:maven/org.linkki-framework.archetypes/linkki-archetype-plain-application-vaadin23@2.0.1?classifier=sources
 - pkg:maven/org.linkki-framework.archetypes/linkki-archetype-plain-application-vaadin23@2.1.0?classifier=sources
 - pkg:maven/org.linkki-framework.archetypes/linkki-archetype-plain-application-vaadin23@2.1.1?classifier=sources
+- pkg:maven/org.linkki-framework.archetypes/linkki-archetype-plain-application-vaadin23@2.1.2?classifier=sources

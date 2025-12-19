@@ -1,2 +1,4 @@
 - pkg:maven/io.personium/personium-client-java@1.4.15
 - pkg:maven/io.personium/personium-client-java@1.4.15?classifier=sources
+- pkg:maven/io.personium/personium-client-java@1.5.0
+- pkg:maven/io.personium/personium-client-java@1.5.0?classifier=sources

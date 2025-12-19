@@ -60,6 +60,12 @@
 - pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1-rev20220415-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1-rev20220429-1.32.1
 - pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1-rev20220429-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1-rev20220429-2.0.0
+- pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1-rev20220429-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1-rev20220806-2.0.0
+- pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1-rev20220806-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1-rev20220826-2.0.0
+- pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1-rev20220826-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1-rev3-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1-rev3-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1-rev3-1.25.0
@@ -178,6 +184,12 @@
 - pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1beta-rev20220402-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1beta-rev20220429-1.32.1
 - pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1beta-rev20220429-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1beta-rev20220429-2.0.0
+- pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1beta-rev20220429-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1beta-rev20220806-2.0.0
+- pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1beta-rev20220806-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1beta-rev20220826-2.0.0
+- pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1beta-rev20220826-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1beta-rev6-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1beta-rev6-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1beta-rev6-1.25.0

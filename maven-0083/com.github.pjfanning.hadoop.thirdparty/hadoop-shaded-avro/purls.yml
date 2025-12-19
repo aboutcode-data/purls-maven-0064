@@ -1,0 +1,1 @@
+- pkg:maven/com.github.pjfanning.hadoop.thirdparty/hadoop-shaded-avro@1.2.0-rc1?classifier=sources

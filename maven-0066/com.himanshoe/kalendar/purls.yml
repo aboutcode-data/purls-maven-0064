@@ -5,3 +5,5 @@
 - pkg:maven/com.himanshoe/kalendar@1.0.0-RC3?classifier=sources
 - pkg:maven/com.himanshoe/kalendar@1.0.0-RC4?classifier=sources
 - pkg:maven/com.himanshoe/kalendar@1.0.0-RC5?classifier=sources
+- pkg:maven/com.himanshoe/kalendar@1.0.0?classifier=sources
+- pkg:maven/com.himanshoe/kalendar@1.1.0?classifier=sources

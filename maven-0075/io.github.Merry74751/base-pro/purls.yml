@@ -4,3 +4,5 @@
 - pkg:maven/io.github.Merry74751/base-pro@0.4.RELEASE?classifier=sources
 - pkg:maven/io.github.Merry74751/base-pro@0.6
 - pkg:maven/io.github.Merry74751/base-pro@0.6?classifier=sources
+- pkg:maven/io.github.Merry74751/base-pro@0.7
+- pkg:maven/io.github.Merry74751/base-pro@0.7?classifier=sources

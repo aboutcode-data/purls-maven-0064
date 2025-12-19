@@ -32,6 +32,8 @@
 - pkg:maven/org.apache.activemq.examples.openwire/virtual-topic-mapping@2.23.0?classifier=sources
 - pkg:maven/org.apache.activemq.examples.openwire/virtual-topic-mapping@2.23.1
 - pkg:maven/org.apache.activemq.examples.openwire/virtual-topic-mapping@2.23.1?classifier=sources
+- pkg:maven/org.apache.activemq.examples.openwire/virtual-topic-mapping@2.24.0
+- pkg:maven/org.apache.activemq.examples.openwire/virtual-topic-mapping@2.24.0?classifier=sources
 - pkg:maven/org.apache.activemq.examples.openwire/virtual-topic-mapping@2.6.0
 - pkg:maven/org.apache.activemq.examples.openwire/virtual-topic-mapping@2.6.0?classifier=sources
 - pkg:maven/org.apache.activemq.examples.openwire/virtual-topic-mapping@2.6.1

@@ -4,3 +4,9 @@
 - pkg:maven/com.xuelangcloud/suanpan-java-sdk@2.0.11?classifier=sources
 - pkg:maven/com.xuelangcloud/suanpan-java-sdk@2.0.12
 - pkg:maven/com.xuelangcloud/suanpan-java-sdk@2.0.12?classifier=sources
+- pkg:maven/com.xuelangcloud/suanpan-java-sdk@2.0.13
+- pkg:maven/com.xuelangcloud/suanpan-java-sdk@2.0.13?classifier=sources
+- pkg:maven/com.xuelangcloud/suanpan-java-sdk@2.1.0
+- pkg:maven/com.xuelangcloud/suanpan-java-sdk@2.1.0?classifier=sources
+- pkg:maven/com.xuelangcloud/suanpan-java-sdk@2.1.1
+- pkg:maven/com.xuelangcloud/suanpan-java-sdk@2.1.1?classifier=sources

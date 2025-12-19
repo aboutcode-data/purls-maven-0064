@@ -54,3 +54,5 @@
 - pkg:maven/com.adobe.cq/core.wcm.components.it.http@2.20.4?classifier=sources
 - pkg:maven/com.adobe.cq/core.wcm.components.it.http@2.20.6
 - pkg:maven/com.adobe.cq/core.wcm.components.it.http@2.20.6?classifier=sources
+- pkg:maven/com.adobe.cq/core.wcm.components.it.http@2.20.8
+- pkg:maven/com.adobe.cq/core.wcm.components.it.http@2.20.8?classifier=sources

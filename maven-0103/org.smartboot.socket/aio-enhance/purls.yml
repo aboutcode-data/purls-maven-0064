@@ -16,5 +16,7 @@
 - pkg:maven/org.smartboot.socket/aio-enhance@1.5.18?classifier=sources
 - pkg:maven/org.smartboot.socket/aio-enhance@1.5.19
 - pkg:maven/org.smartboot.socket/aio-enhance@1.5.19?classifier=sources
+- pkg:maven/org.smartboot.socket/aio-enhance@1.5.20
+- pkg:maven/org.smartboot.socket/aio-enhance@1.5.20?classifier=sources
 - pkg:maven/org.smartboot.socket/aio-enhance@1.6.0
 - pkg:maven/org.smartboot.socket/aio-enhance@1.6.0?classifier=sources

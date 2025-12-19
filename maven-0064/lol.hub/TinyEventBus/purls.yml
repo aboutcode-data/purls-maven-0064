@@ -1,0 +1,2 @@
+- pkg:maven/lol.hub/TinyEventBus@4.0.0
+- pkg:maven/lol.hub/TinyEventBus@4.0.0?classifier=sources

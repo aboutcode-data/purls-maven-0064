@@ -3,3 +3,5 @@
 - pkg:maven/io.github.rakutentech.sdkutils/sdk-utils@1.1.0?classifier=sources
 - pkg:maven/io.github.rakutentech.sdkutils/sdk-utils@1.2.0?classifier=sources
 - pkg:maven/io.github.rakutentech.sdkutils/sdk-utils@2.0.0?classifier=sources
+- pkg:maven/io.github.rakutentech.sdkutils/sdk-utils@2.1.0?classifier=sources
+- pkg:maven/io.github.rakutentech.sdkutils/sdk-utils@2.1.1?classifier=sources
