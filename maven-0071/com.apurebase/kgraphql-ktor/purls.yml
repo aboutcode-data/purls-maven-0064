@@ -9,4 +9,5 @@
 - pkg:maven/com.apurebase/kgraphql-ktor@0.17.7?classifier=sources
 - pkg:maven/com.apurebase/kgraphql-ktor@0.17.8?classifier=sources
 - pkg:maven/com.apurebase/kgraphql-ktor@0.17.9?classifier=sources
+- pkg:maven/com.apurebase/kgraphql-ktor@0.18.0?classifier=sources
 - pkg:maven/com.apurebase/kgraphql-ktor@version?classifier=sources

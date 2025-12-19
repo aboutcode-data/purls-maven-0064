@@ -1,2 +1,4 @@
 - pkg:maven/org.kurento.module/markerdetector@6.15.0
 - pkg:maven/org.kurento.module/markerdetector@6.15.0?classifier=sources
+- pkg:maven/org.kurento.module/markerdetector@6.18.0
+- pkg:maven/org.kurento.module/markerdetector@6.18.0?classifier=sources

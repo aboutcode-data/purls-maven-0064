@@ -573,5 +573,14 @@
 - pkg:maven/com.yahoo.vespa/linguistics@8.44.22?classifier=sources
 - pkg:maven/com.yahoo.vespa/linguistics@8.45.22?classifier=sources
 - pkg:maven/com.yahoo.vespa/linguistics@8.46.19?classifier=sources
+- pkg:maven/com.yahoo.vespa/linguistics@8.47.18?classifier=sources
+- pkg:maven/com.yahoo.vespa/linguistics@8.48.22?classifier=sources
+- pkg:maven/com.yahoo.vespa/linguistics@8.51.18?classifier=sources
+- pkg:maven/com.yahoo.vespa/linguistics@8.52.15?classifier=sources
+- pkg:maven/com.yahoo.vespa/linguistics@8.53.21?classifier=sources
+- pkg:maven/com.yahoo.vespa/linguistics@8.54.61?classifier=sources
+- pkg:maven/com.yahoo.vespa/linguistics@8.56.20?classifier=sources
+- pkg:maven/com.yahoo.vespa/linguistics@8.57.18?classifier=sources
+- pkg:maven/com.yahoo.vespa/linguistics@8.61.17?classifier=sources
 - pkg:maven/com.yahoo.vespa/linguistics@8.7.17?classifier=sources
 - pkg:maven/com.yahoo.vespa/linguistics@8.8.35?classifier=sources

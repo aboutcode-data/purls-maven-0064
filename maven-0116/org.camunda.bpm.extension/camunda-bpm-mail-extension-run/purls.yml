@@ -1,0 +1,2 @@
+- pkg:maven/org.camunda.bpm.extension/camunda-bpm-mail-extension-run@1.4.3
+- pkg:maven/org.camunda.bpm.extension/camunda-bpm-mail-extension-run@1.4.3?classifier=sources

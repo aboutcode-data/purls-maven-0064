@@ -1,5 +1,7 @@
 - pkg:maven/org.xworker/xworker_protobuf@1.4.5
 - pkg:maven/org.xworker/xworker_protobuf@1.4.5?classifier=sources
+- pkg:maven/org.xworker/xworker_protobuf@2.0.1
+- pkg:maven/org.xworker/xworker_protobuf@2.0.1?classifier=sources
 - pkg:maven/org.xworker/xworker_protobuf@3.11.4
 - pkg:maven/org.xworker/xworker_protobuf@3.11.4?classifier=sources
 - pkg:maven/org.xworker/xworker_protobuf@3.11.5

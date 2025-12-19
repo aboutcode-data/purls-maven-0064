@@ -18,3 +18,4 @@
 - pkg:maven/org.lightningdevkit/ldk-java@0.0.110.1?classifier=sources
 - pkg:maven/org.lightningdevkit/ldk-java@0.0.110.2?classifier=sources
 - pkg:maven/org.lightningdevkit/ldk-java@0.0.110.3?classifier=sources
+- pkg:maven/org.lightningdevkit/ldk-java@0.0.111.0?classifier=sources

@@ -6,3 +6,4 @@
 - pkg:maven/com.applovin.mediation/nend-adapter@8.0.1.0?type=aar
 - pkg:maven/com.applovin.mediation/nend-adapter@8.0.1.1?classifier=sources
 - pkg:maven/com.applovin.mediation/nend-adapter@8.2.0.0?classifier=sources
+- pkg:maven/com.applovin.mediation/nend-adapter@8.2.0.1?classifier=sources

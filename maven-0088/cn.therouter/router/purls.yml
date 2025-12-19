@@ -1,2 +1,8 @@
 - pkg:maven/cn.therouter/router@1.1.0?classifier=sources
 - pkg:maven/cn.therouter/router@1.1.0?type=aar
+- pkg:maven/cn.therouter/router@1.1.1-rc1?classifier=sources
+- pkg:maven/cn.therouter/router@1.1.1-rc1?type=aar
+- pkg:maven/cn.therouter/router@1.1.1-rc2?classifier=sources
+- pkg:maven/cn.therouter/router@1.1.1-rc2?type=aar
+- pkg:maven/cn.therouter/router@1.1.1-rc3?classifier=sources
+- pkg:maven/cn.therouter/router@1.1.1-rc3?type=aar

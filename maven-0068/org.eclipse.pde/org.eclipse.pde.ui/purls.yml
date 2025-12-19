@@ -42,5 +42,7 @@
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.ui@3.13.400?classifier=sources
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.ui@3.13.500
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.ui@3.13.500?classifier=sources
+- pkg:maven/org.eclipse.pde/org.eclipse.pde.ui@3.13.600
+- pkg:maven/org.eclipse.pde/org.eclipse.pde.ui@3.13.600?classifier=sources
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.ui@3.9.100
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.ui@3.9.100?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/za.co.absa.cobrix/cobol-parser_2.13@2.6.0
+- pkg:maven/za.co.absa.cobrix/cobol-parser_2.13@2.6.0?classifier=sources

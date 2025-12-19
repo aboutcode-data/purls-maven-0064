@@ -1,0 +1,2 @@
+- pkg:maven/io.github.tatooinoyo/jira-client@0.6-beta
+- pkg:maven/io.github.tatooinoyo/jira-client@0.6-beta?classifier=sources

@@ -212,6 +212,8 @@
 - pkg:maven/com.graphhopper/graphhopper-web-api@5.0?classifier=sources
 - pkg:maven/com.graphhopper/graphhopper-web-api@5.3
 - pkg:maven/com.graphhopper/graphhopper-web-api@5.3?classifier=sources
+- pkg:maven/com.graphhopper/graphhopper-web-api@6.0
+- pkg:maven/com.graphhopper/graphhopper-web-api@6.0?classifier=sources
 - pkg:maven/com.graphhopper/graphhopper-web-api@client_hc_no_vehicle
 - pkg:maven/com.graphhopper/graphhopper-web-api@client_hc_no_vehicle?classifier=sources
 - pkg:maven/com.graphhopper/graphhopper-web-api@feature_1850_01

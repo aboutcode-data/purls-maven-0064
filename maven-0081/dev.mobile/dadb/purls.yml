@@ -11,3 +11,6 @@
 - pkg:maven/dev.mobile/dadb@0.0.7?classifier=sources
 - pkg:maven/dev.mobile/dadb@0.0.8?classifier=sources
 - pkg:maven/dev.mobile/dadb@0.0.9?classifier=sources
+- pkg:maven/dev.mobile/dadb@1.0.0?classifier=sources
+- pkg:maven/dev.mobile/dadb@1.1.0?classifier=sources
+- pkg:maven/dev.mobile/dadb@1.2.0?classifier=sources

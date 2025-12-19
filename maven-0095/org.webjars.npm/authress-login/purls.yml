@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/authress-login@1.4.143
+- pkg:maven/org.webjars.npm/authress-login@1.4.143?classifier=sources

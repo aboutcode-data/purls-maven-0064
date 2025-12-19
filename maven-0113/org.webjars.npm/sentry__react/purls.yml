@@ -1,0 +1,6 @@
+- pkg:maven/org.webjars.npm/sentry__react@6.19.7
+- pkg:maven/org.webjars.npm/sentry__react@6.19.7?classifier=sources
+- pkg:maven/org.webjars.npm/sentry__react@7.0.0-rc.0
+- pkg:maven/org.webjars.npm/sentry__react@7.0.0-rc.0?classifier=sources
+- pkg:maven/org.webjars.npm/sentry__react@7.15.0
+- pkg:maven/org.webjars.npm/sentry__react@7.15.0?classifier=sources

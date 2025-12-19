@@ -4,3 +4,5 @@
 - pkg:maven/org.apache.kyuubi/kyuubi-server-plugin@1.5.1-incubating?classifier=sources
 - pkg:maven/org.apache.kyuubi/kyuubi-server-plugin@1.5.2-incubating
 - pkg:maven/org.apache.kyuubi/kyuubi-server-plugin@1.5.2-incubating?classifier=sources
+- pkg:maven/org.apache.kyuubi/kyuubi-server-plugin@1.6.0-incubating
+- pkg:maven/org.apache.kyuubi/kyuubi-server-plugin@1.6.0-incubating?classifier=sources

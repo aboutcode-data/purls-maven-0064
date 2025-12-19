@@ -2,3 +2,5 @@
 - pkg:maven/uk.co.caprica/native-streams@1.0.0?classifier=sources
 - pkg:maven/uk.co.caprica/native-streams@2.0.0
 - pkg:maven/uk.co.caprica/native-streams@2.0.0?classifier=sources
+- pkg:maven/uk.co.caprica/native-streams@3.0.0
+- pkg:maven/uk.co.caprica/native-streams@3.0.0?classifier=sources

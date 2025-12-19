@@ -12,3 +12,7 @@
 - pkg:maven/com.gurtam/wiatag-kit@1.0.1?type=aar
 - pkg:maven/com.gurtam/wiatag-kit@1.0.3?classifier=sources
 - pkg:maven/com.gurtam/wiatag-kit@1.0.3?type=aar
+- pkg:maven/com.gurtam/wiatag-kit@1.0.5-alpha?classifier=sources
+- pkg:maven/com.gurtam/wiatag-kit@1.0.5-alpha?type=aar
+- pkg:maven/com.gurtam/wiatag-kit@1.0.5?classifier=sources
+- pkg:maven/com.gurtam/wiatag-kit@1.0.5?type=aar

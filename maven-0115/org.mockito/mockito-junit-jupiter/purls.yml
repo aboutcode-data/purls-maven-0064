@@ -110,3 +110,4 @@
 - pkg:maven/org.mockito/mockito-junit-jupiter@4.6.0?classifier=sources
 - pkg:maven/org.mockito/mockito-junit-jupiter@4.6.1?classifier=sources
 - pkg:maven/org.mockito/mockito-junit-jupiter@4.7.0?classifier=sources
+- pkg:maven/org.mockito/mockito-junit-jupiter@4.8.0?classifier=sources

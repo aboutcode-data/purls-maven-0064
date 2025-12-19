@@ -32,3 +32,13 @@
 - pkg:maven/com.arize/arize-api-client@2.0.3-shade
 - pkg:maven/com.arize/arize-api-client@2.0.3-shade?classifier=sources
 - pkg:maven/com.arize/arize-api-client@2.0.3?classifier=sources
+- pkg:maven/com.arize/arize-api-client@2.0.4
+- pkg:maven/com.arize/arize-api-client@2.0.4-shade
+- pkg:maven/com.arize/arize-api-client@2.0.4-shade?classifier=sources
+- pkg:maven/com.arize/arize-api-client@2.0.4?classifier=sources
+- pkg:maven/com.arize/arize-api-client@2.0.5
+- pkg:maven/com.arize/arize-api-client@2.0.5-shade
+- pkg:maven/com.arize/arize-api-client@2.0.5-shade?classifier=sources
+- pkg:maven/com.arize/arize-api-client@2.0.5?classifier=sources
+- pkg:maven/com.arize/arize-api-client@2.0.6-shade?classifier=sources
+- pkg:maven/com.arize/arize-api-client@2.0.6?classifier=sources

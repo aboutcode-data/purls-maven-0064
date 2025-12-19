@@ -18,3 +18,5 @@
 - pkg:maven/io.honeycomb.beeline/beeline-spring-boot-sleuth-starter@2.0.0?classifier=sources
 - pkg:maven/io.honeycomb.beeline/beeline-spring-boot-sleuth-starter@2.1.0
 - pkg:maven/io.honeycomb.beeline/beeline-spring-boot-sleuth-starter@2.1.0?classifier=sources
+- pkg:maven/io.honeycomb.beeline/beeline-spring-boot-sleuth-starter@2.1.1
+- pkg:maven/io.honeycomb.beeline/beeline-spring-boot-sleuth-starter@2.1.1?classifier=sources

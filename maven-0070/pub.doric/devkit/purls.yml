@@ -60,6 +60,14 @@
 - pkg:maven/pub.doric/devkit@0.10.34?type=aar
 - pkg:maven/pub.doric/devkit@0.10.35?classifier=sources
 - pkg:maven/pub.doric/devkit@0.10.35?type=aar
+- pkg:maven/pub.doric/devkit@0.10.36?classifier=sources
+- pkg:maven/pub.doric/devkit@0.10.36?type=aar
+- pkg:maven/pub.doric/devkit@0.10.37?classifier=sources
+- pkg:maven/pub.doric/devkit@0.10.37?type=aar
+- pkg:maven/pub.doric/devkit@0.10.38?classifier=sources
+- pkg:maven/pub.doric/devkit@0.10.38?type=aar
+- pkg:maven/pub.doric/devkit@0.10.39?classifier=sources
+- pkg:maven/pub.doric/devkit@0.10.39?type=aar
 - pkg:maven/pub.doric/devkit@0.10.3?classifier=sources
 - pkg:maven/pub.doric/devkit@0.10.3?type=aar
 - pkg:maven/pub.doric/devkit@0.10.4?classifier=sources

@@ -364,6 +364,10 @@
 - pkg:maven/com.google.apis/google-api-services-securitycenter@v1-rev20220824-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-securitycenter@v1-rev20220825-2.0.0
 - pkg:maven/com.google.apis/google-api-services-securitycenter@v1-rev20220825-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-securitycenter@v1-rev20220915-2.0.0
+- pkg:maven/com.google.apis/google-api-services-securitycenter@v1-rev20220915-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-securitycenter@v1-rev20220921-2.0.0
+- pkg:maven/com.google.apis/google-api-services-securitycenter@v1-rev20220921-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-securitycenter@v1-rev22-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-securitycenter@v1-rev22-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-securitycenter@v1-rev22-1.25.0
@@ -818,6 +822,10 @@
 - pkg:maven/com.google.apis/google-api-services-securitycenter@v1beta1-rev20220824-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-securitycenter@v1beta1-rev20220825-2.0.0
 - pkg:maven/com.google.apis/google-api-services-securitycenter@v1beta1-rev20220825-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-securitycenter@v1beta1-rev20220915-2.0.0
+- pkg:maven/com.google.apis/google-api-services-securitycenter@v1beta1-rev20220915-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-securitycenter@v1beta1-rev20220921-2.0.0
+- pkg:maven/com.google.apis/google-api-services-securitycenter@v1beta1-rev20220921-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-securitycenter@v1beta1-rev22-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-securitycenter@v1beta1-rev22-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-securitycenter@v1beta1-rev22-1.25.0
@@ -1046,6 +1054,10 @@
 - pkg:maven/com.google.apis/google-api-services-securitycenter@v1beta2-rev20220824-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-securitycenter@v1beta2-rev20220825-2.0.0
 - pkg:maven/com.google.apis/google-api-services-securitycenter@v1beta2-rev20220825-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-securitycenter@v1beta2-rev20220915-2.0.0
+- pkg:maven/com.google.apis/google-api-services-securitycenter@v1beta2-rev20220915-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-securitycenter@v1beta2-rev20220921-2.0.0
+- pkg:maven/com.google.apis/google-api-services-securitycenter@v1beta2-rev20220921-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-securitycenter@v1p1alpha1-rev1-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-securitycenter@v1p1alpha1-rev1-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-securitycenter@v1p1alpha1-rev1-1.25.0

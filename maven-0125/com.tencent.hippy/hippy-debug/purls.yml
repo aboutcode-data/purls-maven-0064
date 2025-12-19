@@ -3,3 +3,4 @@
 - pkg:maven/com.tencent.hippy/hippy-debug@2.14.2?classifier=sources
 - pkg:maven/com.tencent.hippy/hippy-debug@2.14.4?classifier=sources
 - pkg:maven/com.tencent.hippy/hippy-debug@2.14.5?classifier=sources
+- pkg:maven/com.tencent.hippy/hippy-debug@2.14.7?classifier=sources

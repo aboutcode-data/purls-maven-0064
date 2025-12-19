@@ -5,3 +5,6 @@
 - pkg:maven/com.hexagonkt/rest@2.0.18?classifier=sources
 - pkg:maven/com.hexagonkt/rest@2.0.19?classifier=sources
 - pkg:maven/com.hexagonkt/rest@2.0.21?classifier=sources
+- pkg:maven/com.hexagonkt/rest@2.0.23?classifier=sources
+- pkg:maven/com.hexagonkt/rest@2.0.24?classifier=sources
+- pkg:maven/com.hexagonkt/rest@2.0.25?classifier=sources

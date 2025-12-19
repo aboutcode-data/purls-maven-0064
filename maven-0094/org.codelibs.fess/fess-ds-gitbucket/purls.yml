@@ -60,3 +60,5 @@
 - pkg:maven/org.codelibs.fess/fess-ds-gitbucket@14.2.0?classifier=sources
 - pkg:maven/org.codelibs.fess/fess-ds-gitbucket@14.3.0
 - pkg:maven/org.codelibs.fess/fess-ds-gitbucket@14.3.0?classifier=sources
+- pkg:maven/org.codelibs.fess/fess-ds-gitbucket@14.4.0
+- pkg:maven/org.codelibs.fess/fess-ds-gitbucket@14.4.0?classifier=sources

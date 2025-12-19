@@ -1,1 +1,2 @@
 - pkg:maven/io.deephaven/deephaven-plugin-gc-app@0.16.0?classifier=sources
+- pkg:maven/io.deephaven/deephaven-plugin-gc-app@0.16.1?classifier=sources

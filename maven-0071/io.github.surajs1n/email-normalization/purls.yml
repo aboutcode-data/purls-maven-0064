@@ -1,0 +1,2 @@
+- pkg:maven/io.github.surajs1n/email-normalization@1.0.0
+- pkg:maven/io.github.surajs1n/email-normalization@1.0.0?classifier=sources

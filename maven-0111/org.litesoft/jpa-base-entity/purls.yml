@@ -2,3 +2,13 @@
 - pkg:maven/org.litesoft/jpa-base-entity@1.0.1?classifier=sources
 - pkg:maven/org.litesoft/jpa-base-entity@2.0.3
 - pkg:maven/org.litesoft/jpa-base-entity@2.0.3?classifier=sources
+- pkg:maven/org.litesoft/jpa-base-entity@2.0.4
+- pkg:maven/org.litesoft/jpa-base-entity@2.0.4?classifier=sources
+- pkg:maven/org.litesoft/jpa-base-entity@2.0.5
+- pkg:maven/org.litesoft/jpa-base-entity@2.0.5?classifier=sources
+- pkg:maven/org.litesoft/jpa-base-entity@2.0.8
+- pkg:maven/org.litesoft/jpa-base-entity@2.0.8?classifier=sources
+- pkg:maven/org.litesoft/jpa-base-entity@3.0.3
+- pkg:maven/org.litesoft/jpa-base-entity@3.0.3?classifier=sources
+- pkg:maven/org.litesoft/jpa-base-entity@3.0.5
+- pkg:maven/org.litesoft/jpa-base-entity@3.0.5?classifier=sources

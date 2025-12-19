@@ -1,0 +1,6 @@
+- pkg:maven/com.netease.nim/camellia-console-spring-boot-starter@1.0.61
+- pkg:maven/com.netease.nim/camellia-console-spring-boot-starter@1.0.61?classifier=sources
+- pkg:maven/com.netease.nim/camellia-console-spring-boot-starter@1.1.0
+- pkg:maven/com.netease.nim/camellia-console-spring-boot-starter@1.1.0?classifier=sources
+- pkg:maven/com.netease.nim/camellia-console-spring-boot-starter@1.1.1
+- pkg:maven/com.netease.nim/camellia-console-spring-boot-starter@1.1.1?classifier=sources

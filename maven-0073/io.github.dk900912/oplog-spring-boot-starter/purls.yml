@@ -16,3 +16,5 @@
 - pkg:maven/io.github.dk900912/oplog-spring-boot-starter@1.0.8
 - pkg:maven/io.github.dk900912/oplog-spring-boot-starter@1.0.9
 - pkg:maven/io.github.dk900912/oplog-spring-boot-starter@1.1
+- pkg:maven/io.github.dk900912/oplog-spring-boot-starter@1.2
+- pkg:maven/io.github.dk900912/oplog-spring-boot-starter@1.3

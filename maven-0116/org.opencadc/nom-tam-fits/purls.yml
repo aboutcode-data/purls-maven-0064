@@ -2,3 +2,5 @@
 - pkg:maven/org.opencadc/nom-tam-fits@1.16.3?classifier=sources
 - pkg:maven/org.opencadc/nom-tam-fits@1.16.4?classifier=sources
 - pkg:maven/org.opencadc/nom-tam-fits@1.16.5?classifier=sources
+- pkg:maven/org.opencadc/nom-tam-fits@1.16.6?classifier=sources
+- pkg:maven/org.opencadc/nom-tam-fits@1.16.7?classifier=sources

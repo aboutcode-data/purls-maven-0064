@@ -1,0 +1,2 @@
+- pkg:maven/com.gavinmogan.digitalocean/digitalocean-api-client@2.18
+- pkg:maven/com.gavinmogan.digitalocean/digitalocean-api-client@2.18?classifier=sources

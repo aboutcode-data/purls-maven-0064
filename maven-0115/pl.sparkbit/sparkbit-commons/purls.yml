@@ -37,3 +37,5 @@
 - pkg:maven/pl.sparkbit/sparkbit-commons@2.0.41?classifier=sources
 - pkg:maven/pl.sparkbit/sparkbit-commons@2.0.42
 - pkg:maven/pl.sparkbit/sparkbit-commons@2.0.42?classifier=sources
+- pkg:maven/pl.sparkbit/sparkbit-commons@2.0.43
+- pkg:maven/pl.sparkbit/sparkbit-commons@2.0.43?classifier=sources

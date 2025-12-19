@@ -12,3 +12,5 @@
 - pkg:maven/org.apache.unomi/unomi-root@1.5.6?classifier=source-release&type=zip
 - pkg:maven/org.apache.unomi/unomi-root@1.5.7?classifier=source-release&type=zip
 - pkg:maven/org.apache.unomi/unomi-root@1.6.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.unomi/unomi-root@1.6.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.unomi/unomi-root@2.0.0?classifier=source-release&type=zip
