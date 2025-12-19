@@ -1,0 +1,2 @@
+- pkg:maven/com.jeantuffier.statemachine/core-iosx64@0.2.0-dev12?classifier=sources
+- pkg:maven/com.jeantuffier.statemachine/core-iosx64@0.2.0-dev13?classifier=sources

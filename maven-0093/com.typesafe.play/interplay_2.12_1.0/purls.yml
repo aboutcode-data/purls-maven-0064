@@ -8,3 +8,5 @@
 - pkg:maven/com.typesafe.play/interplay_2.12_1.0@3.1.0-RC15
 - pkg:maven/com.typesafe.play/interplay_2.12_1.0@3.1.0-RC15?classifier=sources
 - pkg:maven/com.typesafe.play/interplay_2.12_1.0@3.1.0?classifier=sources
+- pkg:maven/com.typesafe.play/interplay_2.12_1.0@3.1.1
+- pkg:maven/com.typesafe.play/interplay_2.12_1.0@3.1.1?classifier=sources

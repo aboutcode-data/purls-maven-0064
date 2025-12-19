@@ -1,0 +1,2 @@
+- pkg:maven/io.dyte/proto-entities-iosx64@2.48.2?classifier=sources
+- pkg:maven/io.dyte/proto-entities-iosx64@2.49.0?classifier=sources

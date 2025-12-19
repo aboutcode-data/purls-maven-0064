@@ -68,3 +68,5 @@
 - pkg:maven/net.e6tech/elements-web-tomcat@2.6.44?classifier=sources
 - pkg:maven/net.e6tech/elements-web-tomcat@2.6.45
 - pkg:maven/net.e6tech/elements-web-tomcat@2.6.45?classifier=sources
+- pkg:maven/net.e6tech/elements-web-tomcat@2.6.46
+- pkg:maven/net.e6tech/elements-web-tomcat@2.6.46?classifier=sources

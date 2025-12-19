@@ -1,3 +1,11 @@
+- pkg:maven/software.amazon.awssdk/ivsrealtime@2.20.100
+- pkg:maven/software.amazon.awssdk/ivsrealtime@2.20.100?classifier=sources
+- pkg:maven/software.amazon.awssdk/ivsrealtime@2.20.101
+- pkg:maven/software.amazon.awssdk/ivsrealtime@2.20.101?classifier=sources
+- pkg:maven/software.amazon.awssdk/ivsrealtime@2.20.102
+- pkg:maven/software.amazon.awssdk/ivsrealtime@2.20.102?classifier=sources
+- pkg:maven/software.amazon.awssdk/ivsrealtime@2.20.103
+- pkg:maven/software.amazon.awssdk/ivsrealtime@2.20.103?classifier=sources
 - pkg:maven/software.amazon.awssdk/ivsrealtime@2.20.31
 - pkg:maven/software.amazon.awssdk/ivsrealtime@2.20.31?classifier=sources
 - pkg:maven/software.amazon.awssdk/ivsrealtime@2.20.32
@@ -132,3 +140,7 @@
 - pkg:maven/software.amazon.awssdk/ivsrealtime@2.20.96?classifier=sources
 - pkg:maven/software.amazon.awssdk/ivsrealtime@2.20.97
 - pkg:maven/software.amazon.awssdk/ivsrealtime@2.20.97?classifier=sources
+- pkg:maven/software.amazon.awssdk/ivsrealtime@2.20.98
+- pkg:maven/software.amazon.awssdk/ivsrealtime@2.20.98?classifier=sources
+- pkg:maven/software.amazon.awssdk/ivsrealtime@2.20.99
+- pkg:maven/software.amazon.awssdk/ivsrealtime@2.20.99?classifier=sources

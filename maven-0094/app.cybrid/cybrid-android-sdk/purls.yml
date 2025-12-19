@@ -22,5 +22,9 @@
 - pkg:maven/app.cybrid/cybrid-android-sdk@0.0.7?classifier=sources
 - pkg:maven/app.cybrid/cybrid-android-sdk@0.0.80?classifier=sources
 - pkg:maven/app.cybrid/cybrid-android-sdk@0.0.81?classifier=sources
+- pkg:maven/app.cybrid/cybrid-android-sdk@0.0.82?classifier=sources
+- pkg:maven/app.cybrid/cybrid-android-sdk@0.0.84?classifier=sources
+- pkg:maven/app.cybrid/cybrid-android-sdk@0.0.85?classifier=sources
+- pkg:maven/app.cybrid/cybrid-android-sdk@0.0.86?classifier=sources
 - pkg:maven/app.cybrid/cybrid-android-sdk@0.0.8?classifier=sources
 - pkg:maven/app.cybrid/cybrid-android-sdk@v0.0.3?classifier=sources

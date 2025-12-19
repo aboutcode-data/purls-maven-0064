@@ -1,0 +1,2 @@
+- pkg:maven/cn.ponfee/disjob-dispatch-api@1.12
+- pkg:maven/cn.ponfee/disjob-dispatch-api@1.12?classifier=sources

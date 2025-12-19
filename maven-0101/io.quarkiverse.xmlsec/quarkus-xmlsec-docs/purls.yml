@@ -9,3 +9,5 @@
 - pkg:maven/io.quarkiverse.xmlsec/quarkus-xmlsec-docs@2.0.0.Alpha4
 - pkg:maven/io.quarkiverse.xmlsec/quarkus-xmlsec-docs@2.0.0.Alpha4?classifier=sources
 - pkg:maven/io.quarkiverse.xmlsec/quarkus-xmlsec-docs@2.0.0?classifier=sources
+- pkg:maven/io.quarkiverse.xmlsec/quarkus-xmlsec-docs@2.1.0
+- pkg:maven/io.quarkiverse.xmlsec/quarkus-xmlsec-docs@2.1.0?classifier=sources

@@ -30,3 +30,5 @@
 - pkg:maven/io.github.zhaohaoh/es-plus-core@0.1.25
 - pkg:maven/io.github.zhaohaoh/es-plus-core@0.1.25?classifier=sources
 - pkg:maven/io.github.zhaohaoh/es-plus-core@0.1.2?classifier=sources
+- pkg:maven/io.github.zhaohaoh/es-plus-core@0.2.0
+- pkg:maven/io.github.zhaohaoh/es-plus-core@0.2.0?classifier=sources

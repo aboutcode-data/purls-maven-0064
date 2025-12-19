@@ -138,6 +138,7 @@
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-blueprint@3.14.6?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-blueprint@3.14.7?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-blueprint@3.14.8?classifier=sources
+- pkg:maven/org.apache.camel.archetypes/camel-archetype-blueprint@3.14.9?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-blueprint@3.15.0?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-blueprint@3.16.0?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-blueprint@3.17.0?classifier=sources
@@ -149,6 +150,7 @@
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-blueprint@3.18.5?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-blueprint@3.18.6?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-blueprint@3.18.7?classifier=sources
+- pkg:maven/org.apache.camel.archetypes/camel-archetype-blueprint@3.18.8?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-blueprint@3.19.0?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-blueprint@3.2.0?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-blueprint@3.20.0?classifier=sources
@@ -157,6 +159,8 @@
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-blueprint@3.20.3?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-blueprint@3.20.4?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-blueprint@3.20.5?classifier=sources
+- pkg:maven/org.apache.camel.archetypes/camel-archetype-blueprint@3.20.6?classifier=sources
+- pkg:maven/org.apache.camel.archetypes/camel-archetype-blueprint@3.21.0?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-blueprint@3.3.0?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-blueprint@3.4.0?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-blueprint@3.4.1?classifier=sources

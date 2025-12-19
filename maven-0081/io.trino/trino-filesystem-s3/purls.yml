@@ -1,0 +1,8 @@
+- pkg:maven/io.trino/trino-filesystem-s3@419
+- pkg:maven/io.trino/trino-filesystem-s3@419?classifier=sources
+- pkg:maven/io.trino/trino-filesystem-s3@420
+- pkg:maven/io.trino/trino-filesystem-s3@420?classifier=sources
+- pkg:maven/io.trino/trino-filesystem-s3@421
+- pkg:maven/io.trino/trino-filesystem-s3@421?classifier=sources
+- pkg:maven/io.trino/trino-filesystem-s3@422
+- pkg:maven/io.trino/trino-filesystem-s3@422?classifier=sources

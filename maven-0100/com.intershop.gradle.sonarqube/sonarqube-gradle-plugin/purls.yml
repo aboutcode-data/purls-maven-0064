@@ -1,0 +1,1 @@
+- pkg:maven/com.intershop.gradle.sonarqube/sonarqube-gradle-plugin@2.1.3?classifier=sources

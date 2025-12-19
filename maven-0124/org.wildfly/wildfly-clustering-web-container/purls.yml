@@ -104,3 +104,5 @@
 - pkg:maven/org.wildfly/wildfly-clustering-web-container@28.0.1.Final?classifier=sources
 - pkg:maven/org.wildfly/wildfly-clustering-web-container@29.0.0.Alpha1
 - pkg:maven/org.wildfly/wildfly-clustering-web-container@29.0.0.Alpha1?classifier=sources
+- pkg:maven/org.wildfly/wildfly-clustering-web-container@29.0.0.Beta1
+- pkg:maven/org.wildfly/wildfly-clustering-web-container@29.0.0.Beta1?classifier=sources

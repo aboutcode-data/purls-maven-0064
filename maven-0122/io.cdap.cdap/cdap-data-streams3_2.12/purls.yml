@@ -20,3 +20,5 @@
 - pkg:maven/io.cdap.cdap/cdap-data-streams3_2.12@6.8.3?classifier=sources
 - pkg:maven/io.cdap.cdap/cdap-data-streams3_2.12@6.9.0
 - pkg:maven/io.cdap.cdap/cdap-data-streams3_2.12@6.9.0?classifier=sources
+- pkg:maven/io.cdap.cdap/cdap-data-streams3_2.12@6.9.1
+- pkg:maven/io.cdap.cdap/cdap-data-streams3_2.12@6.9.1?classifier=sources

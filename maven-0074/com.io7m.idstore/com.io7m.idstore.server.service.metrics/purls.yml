@@ -1,0 +1,2 @@
+- pkg:maven/com.io7m.idstore/com.io7m.idstore.server.service.metrics@1.0.0-beta0008
+- pkg:maven/com.io7m.idstore/com.io7m.idstore.server.service.metrics@1.0.0-beta0008?classifier=sources

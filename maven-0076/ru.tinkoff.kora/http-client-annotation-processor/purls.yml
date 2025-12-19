@@ -12,3 +12,5 @@
 - pkg:maven/ru.tinkoff.kora/http-client-annotation-processor@0.11.7?classifier=sources
 - pkg:maven/ru.tinkoff.kora/http-client-annotation-processor@0.11.8?classifier=sources
 - pkg:maven/ru.tinkoff.kora/http-client-annotation-processor@0.11.9?classifier=sources
+- pkg:maven/ru.tinkoff.kora/http-client-annotation-processor@0.12.0?classifier=sources
+- pkg:maven/ru.tinkoff.kora/http-client-annotation-processor@0.13.0?classifier=sources

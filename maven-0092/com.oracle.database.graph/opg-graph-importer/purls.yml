@@ -2,3 +2,5 @@
 - pkg:maven/com.oracle.database.graph/opg-graph-importer@23.1.0?classifier=sources
 - pkg:maven/com.oracle.database.graph/opg-graph-importer@23.2.0
 - pkg:maven/com.oracle.database.graph/opg-graph-importer@23.2.0?classifier=sources
+- pkg:maven/com.oracle.database.graph/opg-graph-importer@23.2.1
+- pkg:maven/com.oracle.database.graph/opg-graph-importer@23.2.1?classifier=sources

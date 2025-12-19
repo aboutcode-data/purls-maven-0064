@@ -80,6 +80,14 @@
 - pkg:maven/com.appslandia/appslandia-plum@14.0.0?classifier=sources
 - pkg:maven/com.appslandia/appslandia-plum@15.0.0
 - pkg:maven/com.appslandia/appslandia-plum@15.0.0?classifier=sources
+- pkg:maven/com.appslandia/appslandia-plum@15.1.0
+- pkg:maven/com.appslandia/appslandia-plum@15.1.0?classifier=sources
+- pkg:maven/com.appslandia/appslandia-plum@15.2.0
+- pkg:maven/com.appslandia/appslandia-plum@15.2.0?classifier=sources
+- pkg:maven/com.appslandia/appslandia-plum@15.3.0
+- pkg:maven/com.appslandia/appslandia-plum@15.3.0?classifier=sources
+- pkg:maven/com.appslandia/appslandia-plum@15.4.0
+- pkg:maven/com.appslandia/appslandia-plum@15.4.0?classifier=sources
 - pkg:maven/com.appslandia/appslandia-plum@2.0
 - pkg:maven/com.appslandia/appslandia-plum@2.0?classifier=sources
 - pkg:maven/com.appslandia/appslandia-plum@2.1

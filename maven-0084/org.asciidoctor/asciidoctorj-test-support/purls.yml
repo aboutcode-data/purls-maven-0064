@@ -10,3 +10,4 @@
 - pkg:maven/org.asciidoctor/asciidoctorj-test-support@2.5.7?classifier=sources
 - pkg:maven/org.asciidoctor/asciidoctorj-test-support@2.5.8?classifier=sources
 - pkg:maven/org.asciidoctor/asciidoctorj-test-support@2.5.9?classifier=sources
+- pkg:maven/org.asciidoctor/asciidoctorj-test-support@3.0.0-alpha.1?classifier=sources

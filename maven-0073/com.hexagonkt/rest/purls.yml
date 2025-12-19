@@ -10,3 +10,11 @@
 - pkg:maven/com.hexagonkt/rest@2.0.25?classifier=sources
 - pkg:maven/com.hexagonkt/rest@2.0.26?classifier=sources
 - pkg:maven/com.hexagonkt/rest@2.1.2?classifier=sources
+- pkg:maven/com.hexagonkt/rest@3.0.0-B1?classifier=sources
+- pkg:maven/com.hexagonkt/rest@3.0.0-B2?classifier=sources
+- pkg:maven/com.hexagonkt/rest@3.0.0-B3?classifier=sources
+- pkg:maven/com.hexagonkt/rest@3.0.0-B4?classifier=sources
+- pkg:maven/com.hexagonkt/rest@3.0.0-B5?classifier=sources
+- pkg:maven/com.hexagonkt/rest@3.0.0-B6?classifier=sources
+- pkg:maven/com.hexagonkt/rest@3.0.0-B7?classifier=sources
+- pkg:maven/com.hexagonkt/rest@3.0.0-B8?classifier=sources

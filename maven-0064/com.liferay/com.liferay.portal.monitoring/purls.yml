@@ -285,6 +285,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.monitoring@6.0.38
 - pkg:maven/com.liferay/com.liferay.portal.monitoring@6.0.38?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.monitoring@6.0.38?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.monitoring@6.0.39
+- pkg:maven/com.liferay/com.liferay.portal.monitoring@6.0.39?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.monitoring@6.0.39?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.monitoring@6.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.monitoring@6.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.monitoring@6.0.4
@@ -402,6 +405,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.monitoring@7.0.38
 - pkg:maven/com.liferay/com.liferay.portal.monitoring@7.0.38?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.monitoring@7.0.38?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.monitoring@7.0.39
+- pkg:maven/com.liferay/com.liferay.portal.monitoring@7.0.39?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.monitoring@7.0.39?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.monitoring@7.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.monitoring@7.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.monitoring@7.0.4
@@ -567,6 +573,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.monitoring@9.0.20
 - pkg:maven/com.liferay/com.liferay.portal.monitoring@9.0.20?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.monitoring@9.0.20?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.monitoring@9.0.21
+- pkg:maven/com.liferay/com.liferay.portal.monitoring@9.0.21?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.monitoring@9.0.21?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.monitoring@9.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.monitoring@9.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.monitoring@9.0.3

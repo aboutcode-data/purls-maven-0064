@@ -153,3 +153,6 @@
 - pkg:maven/org.http4k/http4k-connect-example@3.9.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-example@5.0.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-example@5.0.1.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-example@5.1.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-example@5.1.1.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-example@5.1.2.0?classifier=sources

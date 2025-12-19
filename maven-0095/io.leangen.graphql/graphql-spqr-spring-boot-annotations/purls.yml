@@ -6,3 +6,5 @@
 - pkg:maven/io.leangen.graphql/graphql-spqr-spring-boot-annotations@0.0.6?classifier=sources
 - pkg:maven/io.leangen.graphql/graphql-spqr-spring-boot-annotations@0.0.7
 - pkg:maven/io.leangen.graphql/graphql-spqr-spring-boot-annotations@0.0.7?classifier=sources
+- pkg:maven/io.leangen.graphql/graphql-spqr-spring-boot-annotations@1.0.0
+- pkg:maven/io.leangen.graphql/graphql-spqr-spring-boot-annotations@1.0.0?classifier=sources

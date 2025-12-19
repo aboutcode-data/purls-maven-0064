@@ -5,3 +5,4 @@
 - pkg:maven/org.apache.eventmesh/eventmesh-starter@1.6.0-release?classifier=sources
 - pkg:maven/org.apache.eventmesh/eventmesh-starter@1.7.0-release?classifier=sources
 - pkg:maven/org.apache.eventmesh/eventmesh-starter@1.8.0-release?classifier=sources
+- pkg:maven/org.apache.eventmesh/eventmesh-starter@1.9.0-release?classifier=sources

@@ -34,3 +34,5 @@
 - pkg:maven/com.sdl.delivery/udp-cis-api@11.5.0-1209?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-cis-api@11.6.0-1179
 - pkg:maven/com.sdl.delivery/udp-cis-api@11.6.0-1179?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-cis-api@12.0.0-1348
+- pkg:maven/com.sdl.delivery/udp-cis-api@12.0.0-1348?classifier=sources

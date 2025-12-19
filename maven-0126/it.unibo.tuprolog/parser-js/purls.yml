@@ -48,3 +48,8 @@
 - pkg:maven/it.unibo.tuprolog/parser-js@0.20.2?classifier=sources
 - pkg:maven/it.unibo.tuprolog/parser-js@0.20.3?classifier=sources
 - pkg:maven/it.unibo.tuprolog/parser-js@0.20.4?classifier=sources
+- pkg:maven/it.unibo.tuprolog/parser-js@0.31.10?classifier=sources
+- pkg:maven/it.unibo.tuprolog/parser-js@0.31.5-dev0m%2B0c07eb350?classifier=sources
+- pkg:maven/it.unibo.tuprolog/parser-js@0.31.7?classifier=sources
+- pkg:maven/it.unibo.tuprolog/parser-js@0.31.8?classifier=sources
+- pkg:maven/it.unibo.tuprolog/parser-js@0.31.9?classifier=sources

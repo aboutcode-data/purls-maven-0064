@@ -15,6 +15,10 @@
 - pkg:maven/me.proton.core/data@10.6.0?classifier=sources
 - pkg:maven/me.proton.core/data@10.7.0?classifier=sources
 - pkg:maven/me.proton.core/data@10.7.1?classifier=sources
+- pkg:maven/me.proton.core/data@11.0.0?classifier=sources
+- pkg:maven/me.proton.core/data@12.0.0?classifier=sources
+- pkg:maven/me.proton.core/data@13.0.0?classifier=sources
+- pkg:maven/me.proton.core/data@13.0.1?classifier=sources
 - pkg:maven/me.proton.core/data@2.0.0-alpha01?classifier=sources
 - pkg:maven/me.proton.core/data@2.0.0?classifier=sources
 - pkg:maven/me.proton.core/data@3.0.0?classifier=sources

@@ -8,6 +8,10 @@
 - pkg:maven/me.proton.core/challenge-dagger@10.6.0?classifier=sources
 - pkg:maven/me.proton.core/challenge-dagger@10.7.0?classifier=sources
 - pkg:maven/me.proton.core/challenge-dagger@10.7.1?classifier=sources
+- pkg:maven/me.proton.core/challenge-dagger@11.0.0?classifier=sources
+- pkg:maven/me.proton.core/challenge-dagger@12.0.0?classifier=sources
+- pkg:maven/me.proton.core/challenge-dagger@13.0.0?classifier=sources
+- pkg:maven/me.proton.core/challenge-dagger@13.0.1?classifier=sources
 - pkg:maven/me.proton.core/challenge-dagger@7.1.10?classifier=sources
 - pkg:maven/me.proton.core/challenge-dagger@7.1.11?classifier=sources
 - pkg:maven/me.proton.core/challenge-dagger@7.1.6?classifier=sources

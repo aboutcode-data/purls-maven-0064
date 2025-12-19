@@ -1,0 +1,2 @@
+- pkg:maven/com.carlosedp/mill-docker-nativeimage_mill0.11_2.13@0.6.0
+- pkg:maven/com.carlosedp/mill-docker-nativeimage_mill0.11_2.13@0.6.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.infrastructurebuilder.usurped/download-maven-plugin@1.7.1.1
+- pkg:maven/org.infrastructurebuilder.usurped/download-maven-plugin@1.7.1.1?classifier=sources

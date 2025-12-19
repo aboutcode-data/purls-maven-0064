@@ -16,3 +16,5 @@
 - pkg:maven/io.imunity.furms/furms-performance-tests@4.2.5
 - pkg:maven/io.imunity.furms/furms-performance-tests@4.2.6
 - pkg:maven/io.imunity.furms/furms-performance-tests@4.2.7
+- pkg:maven/io.imunity.furms/furms-performance-tests@4.2.8
+- pkg:maven/io.imunity.furms/furms-performance-tests@4.2.9

@@ -37,3 +37,4 @@
 - pkg:maven/com.infomaximum/cluster-graphql@1.1.4p7?classifier=sources
 - pkg:maven/com.infomaximum/cluster-graphql@1.1.4p8?classifier=sources
 - pkg:maven/com.infomaximum/cluster-graphql@1.1.4p9?classifier=sources
+- pkg:maven/com.infomaximum/cluster-graphql@1.1.5?classifier=sources

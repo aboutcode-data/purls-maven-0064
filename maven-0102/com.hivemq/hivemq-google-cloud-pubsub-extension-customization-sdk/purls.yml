@@ -4,6 +4,8 @@
 - pkg:maven/com.hivemq/hivemq-google-cloud-pubsub-extension-customization-sdk@4.13.0?classifier=sources
 - pkg:maven/com.hivemq/hivemq-google-cloud-pubsub-extension-customization-sdk@4.14.0?classifier=sources
 - pkg:maven/com.hivemq/hivemq-google-cloud-pubsub-extension-customization-sdk@4.15.0?classifier=sources
+- pkg:maven/com.hivemq/hivemq-google-cloud-pubsub-extension-customization-sdk@4.16.0?classifier=sources
+- pkg:maven/com.hivemq/hivemq-google-cloud-pubsub-extension-customization-sdk@4.17.0?classifier=sources
 - pkg:maven/com.hivemq/hivemq-google-cloud-pubsub-extension-customization-sdk@4.9.0?classifier=sources
 - pkg:maven/com.hivemq/hivemq-google-cloud-pubsub-extension-customization-sdk@4.9.1?classifier=sources
 - pkg:maven/com.hivemq/hivemq-google-cloud-pubsub-extension-customization-sdk@4.9.2?classifier=sources
@@ -12,3 +14,5 @@
 - pkg:maven/com.hivemq/hivemq-google-cloud-pubsub-extension-customization-sdk@4.9.5?classifier=sources
 - pkg:maven/com.hivemq/hivemq-google-cloud-pubsub-extension-customization-sdk@4.9.6?classifier=sources
 - pkg:maven/com.hivemq/hivemq-google-cloud-pubsub-extension-customization-sdk@4.9.7?classifier=sources
+- pkg:maven/com.hivemq/hivemq-google-cloud-pubsub-extension-customization-sdk@4.9.8?classifier=sources
+- pkg:maven/com.hivemq/hivemq-google-cloud-pubsub-extension-customization-sdk@4.9.9?classifier=sources

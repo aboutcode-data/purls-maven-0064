@@ -30,3 +30,4 @@
 - pkg:maven/org.apache.iotdb/iotdb-parent@1.0.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.iotdb/iotdb-parent@1.0.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.iotdb/iotdb-parent@1.1.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.iotdb/iotdb-parent@1.1.1?classifier=source-release&type=zip

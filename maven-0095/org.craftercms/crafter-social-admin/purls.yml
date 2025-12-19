@@ -131,6 +131,8 @@
 - pkg:maven/org.craftercms/crafter-social-admin@4.0.1?type=war
 - pkg:maven/org.craftercms/crafter-social-admin@4.0.2?type=war
 - pkg:maven/org.craftercms/crafter-social-admin@4.0.4?type=war
+- pkg:maven/org.craftercms/crafter-social-admin@4.0.5?type=war
+- pkg:maven/org.craftercms/crafter-social-admin@4.0.6?type=war
 - pkg:maven/org.craftercms/crafter-social-admin@v2.5.0-Beta4?type=war
 - pkg:maven/org.craftercms/crafter-social-admin@v2.5.0-Beta5?type=war
 - pkg:maven/org.craftercms/crafter-social-admin@v2.5.0-Beta6?type=war

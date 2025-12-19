@@ -62,6 +62,9 @@
 - pkg:maven/com.liferay/com.liferay.fragment.entry.processor.portlet@1.0.28
 - pkg:maven/com.liferay/com.liferay.fragment.entry.processor.portlet@1.0.28?classifier=sources
 - pkg:maven/com.liferay/com.liferay.fragment.entry.processor.portlet@1.0.28?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.fragment.entry.processor.portlet@1.0.29
+- pkg:maven/com.liferay/com.liferay.fragment.entry.processor.portlet@1.0.29?classifier=sources
+- pkg:maven/com.liferay/com.liferay.fragment.entry.processor.portlet@1.0.29?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.fragment.entry.processor.portlet@1.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.fragment.entry.processor.portlet@1.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.fragment.entry.processor.portlet@1.0.3
@@ -182,6 +185,9 @@
 - pkg:maven/com.liferay/com.liferay.fragment.entry.processor.portlet@2.0.38
 - pkg:maven/com.liferay/com.liferay.fragment.entry.processor.portlet@2.0.38?classifier=sources
 - pkg:maven/com.liferay/com.liferay.fragment.entry.processor.portlet@2.0.38?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.fragment.entry.processor.portlet@2.0.39
+- pkg:maven/com.liferay/com.liferay.fragment.entry.processor.portlet@2.0.39?classifier=sources
+- pkg:maven/com.liferay/com.liferay.fragment.entry.processor.portlet@2.0.39?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.fragment.entry.processor.portlet@2.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.fragment.entry.processor.portlet@2.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.fragment.entry.processor.portlet@2.0.4

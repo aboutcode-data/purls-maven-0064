@@ -14,5 +14,7 @@
 - pkg:maven/com.tookanapp.app/tookanagent@1.2.5?type=aar
 - pkg:maven/com.tookanapp.app/tookanagent@1.2.6?classifier=sources
 - pkg:maven/com.tookanapp.app/tookanagent@1.2.6?type=aar
+- pkg:maven/com.tookanapp.app/tookanagent@1.2.7?classifier=sources
+- pkg:maven/com.tookanapp.app/tookanagent@1.2.7?type=aar
 - pkg:maven/com.tookanapp.app/tookanagent@1.2?classifier=sources
 - pkg:maven/com.tookanapp.app/tookanagent@1.2?type=aar

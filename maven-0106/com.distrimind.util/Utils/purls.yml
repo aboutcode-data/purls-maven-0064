@@ -12,3 +12,6 @@
 - pkg:maven/com.distrimind.util/Utils@5.26.0-STABLE?classifier=sources
 - pkg:maven/com.distrimind.util/Utils@5.26.1-STABLE?classifier=sources
 - pkg:maven/com.distrimind.util/Utils@5.26.2-STABLE?classifier=sources
+- pkg:maven/com.distrimind.util/Utils@5.27.0-STABLE?classifier=sources
+- pkg:maven/com.distrimind.util/Utils@5.27.3-STABLE?classifier=sources
+- pkg:maven/com.distrimind.util/Utils@5.27.4-STABLE?classifier=sources

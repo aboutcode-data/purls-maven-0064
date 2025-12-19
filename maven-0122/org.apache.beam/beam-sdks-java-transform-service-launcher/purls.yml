@@ -1,0 +1,1 @@
+- pkg:maven/org.apache.beam/beam-sdks-java-transform-service-launcher@2.49.0?classifier=sources

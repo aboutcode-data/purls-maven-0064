@@ -24,6 +24,13 @@
 - pkg:maven/com.yandex.div/div-lottie@25.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div-lottie@25.1.0?classifier=sources
 - pkg:maven/com.yandex.div/div-lottie@25.2.0?classifier=sources
+- pkg:maven/com.yandex.div/div-lottie@25.3.0?classifier=sources
+- pkg:maven/com.yandex.div/div-lottie@25.4.0?classifier=sources
+- pkg:maven/com.yandex.div/div-lottie@25.4.1?classifier=sources
+- pkg:maven/com.yandex.div/div-lottie@25.5.0?classifier=sources
+- pkg:maven/com.yandex.div/div-lottie@25.6.0?classifier=sources
+- pkg:maven/com.yandex.div/div-lottie@25.7.0?classifier=sources
+- pkg:maven/com.yandex.div/div-lottie@26.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div-lottie@5.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div-lottie@6.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div-lottie@7.0.0?classifier=sources

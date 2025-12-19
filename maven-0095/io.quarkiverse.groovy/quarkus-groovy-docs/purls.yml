@@ -1,1 +1,4 @@
 - pkg:maven/io.quarkiverse.groovy/quarkus-groovy-docs@3.0.0
+- pkg:maven/io.quarkiverse.groovy/quarkus-groovy-docs@3.1.0
+- pkg:maven/io.quarkiverse.groovy/quarkus-groovy-docs@3.2.0
+- pkg:maven/io.quarkiverse.groovy/quarkus-groovy-docs@3.2.1

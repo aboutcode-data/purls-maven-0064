@@ -7,6 +7,8 @@
 - pkg:maven/ch.softappeal.yass2/yass2-coroutines@13.0.0?classifier=sources
 - pkg:maven/ch.softappeal.yass2/yass2-coroutines@13.1.0?classifier=sources
 - pkg:maven/ch.softappeal.yass2/yass2-coroutines@13.1.1?classifier=sources
+- pkg:maven/ch.softappeal.yass2/yass2-coroutines@14.0.0?classifier=sources
+- pkg:maven/ch.softappeal.yass2/yass2-coroutines@15.0.0?classifier=sources
 - pkg:maven/ch.softappeal.yass2/yass2-coroutines@7.0.2?classifier=sources
 - pkg:maven/ch.softappeal.yass2/yass2-coroutines@7.1.0?classifier=sources
 - pkg:maven/ch.softappeal.yass2/yass2-coroutines@8.0.0?classifier=sources

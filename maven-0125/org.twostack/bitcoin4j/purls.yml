@@ -11,3 +11,5 @@
 - pkg:maven/org.twostack/bitcoin4j@1.6.2?classifier=sources
 - pkg:maven/org.twostack/bitcoin4j@1.6.3?classifier=sources
 - pkg:maven/org.twostack/bitcoin4j@1.6.4?classifier=sources
+- pkg:maven/org.twostack/bitcoin4j@1.6.6?classifier=sources
+- pkg:maven/org.twostack/bitcoin4j@1.6.7?classifier=sources

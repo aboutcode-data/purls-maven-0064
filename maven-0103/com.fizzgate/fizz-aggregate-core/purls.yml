@@ -1,0 +1,10 @@
+- pkg:maven/com.fizzgate/fizz-aggregate-core@1.0.0
+- pkg:maven/com.fizzgate/fizz-aggregate-core@1.0.0?classifier=sources
+- pkg:maven/com.fizzgate/fizz-aggregate-core@1.0.1
+- pkg:maven/com.fizzgate/fizz-aggregate-core@1.0.1?classifier=sources
+- pkg:maven/com.fizzgate/fizz-aggregate-core@2.0.0
+- pkg:maven/com.fizzgate/fizz-aggregate-core@2.0.0?classifier=sources
+- pkg:maven/com.fizzgate/fizz-aggregate-core@2.0.1
+- pkg:maven/com.fizzgate/fizz-aggregate-core@2.0.1?classifier=sources
+- pkg:maven/com.fizzgate/fizz-aggregate-core@3.0.0
+- pkg:maven/com.fizzgate/fizz-aggregate-core@3.0.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/io.gitee.litong/jwt-api@1.0.4
+- pkg:maven/io.gitee.litong/jwt-api@1.0.4?classifier=sources
+- pkg:maven/io.gitee.litong/jwt-api@1.0.5
+- pkg:maven/io.gitee.litong/jwt-api@1.0.5?classifier=sources

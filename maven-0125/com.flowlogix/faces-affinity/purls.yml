@@ -1,0 +1,2 @@
+- pkg:maven/com.flowlogix/faces-affinity@0.5
+- pkg:maven/com.flowlogix/faces-affinity@0.5?classifier=sources

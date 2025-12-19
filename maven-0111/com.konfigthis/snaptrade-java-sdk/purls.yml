@@ -16,3 +16,7 @@
 - pkg:maven/com.konfigthis/snaptrade-java-sdk@2.4.0?classifier=sources
 - pkg:maven/com.konfigthis/snaptrade-java-sdk@3.0.0
 - pkg:maven/com.konfigthis/snaptrade-java-sdk@3.0.0?classifier=sources
+- pkg:maven/com.konfigthis/snaptrade-java-sdk@4.0.0
+- pkg:maven/com.konfigthis/snaptrade-java-sdk@4.0.0?classifier=sources
+- pkg:maven/com.konfigthis/snaptrade-java-sdk@4.1.0
+- pkg:maven/com.konfigthis/snaptrade-java-sdk@4.1.0?classifier=sources

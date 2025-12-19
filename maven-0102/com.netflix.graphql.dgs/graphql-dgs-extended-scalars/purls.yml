@@ -74,3 +74,6 @@
 - pkg:maven/com.netflix.graphql.dgs/graphql-dgs-extended-scalars@6.0.5?classifier=sources
 - pkg:maven/com.netflix.graphql.dgs/graphql-dgs-extended-scalars@7.0.0?classifier=sources
 - pkg:maven/com.netflix.graphql.dgs/graphql-dgs-extended-scalars@7.1.0?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs/graphql-dgs-extended-scalars@7.2.0?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs/graphql-dgs-extended-scalars@7.3.0?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs/graphql-dgs-extended-scalars@7.3.2?classifier=sources

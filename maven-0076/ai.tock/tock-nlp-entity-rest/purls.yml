@@ -72,3 +72,5 @@
 - pkg:maven/ai.tock/tock-nlp-entity-rest@22.9.5?classifier=sources
 - pkg:maven/ai.tock/tock-nlp-entity-rest@23.3.0
 - pkg:maven/ai.tock/tock-nlp-entity-rest@23.3.0?classifier=sources
+- pkg:maven/ai.tock/tock-nlp-entity-rest@23.3.1
+- pkg:maven/ai.tock/tock-nlp-entity-rest@23.3.1?classifier=sources

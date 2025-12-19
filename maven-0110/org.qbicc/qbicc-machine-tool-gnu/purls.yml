@@ -138,6 +138,10 @@
 - pkg:maven/org.qbicc/qbicc-machine-tool-gnu@0.71.0?classifier=sources
 - pkg:maven/org.qbicc/qbicc-machine-tool-gnu@0.72.0
 - pkg:maven/org.qbicc/qbicc-machine-tool-gnu@0.72.0?classifier=sources
+- pkg:maven/org.qbicc/qbicc-machine-tool-gnu@0.73.0
+- pkg:maven/org.qbicc/qbicc-machine-tool-gnu@0.73.0?classifier=sources
+- pkg:maven/org.qbicc/qbicc-machine-tool-gnu@0.74.0
+- pkg:maven/org.qbicc/qbicc-machine-tool-gnu@0.74.0?classifier=sources
 - pkg:maven/org.qbicc/qbicc-machine-tool-gnu@0.8.0
 - pkg:maven/org.qbicc/qbicc-machine-tool-gnu@0.8.0?classifier=sources
 - pkg:maven/org.qbicc/qbicc-machine-tool-gnu@0.9.0
