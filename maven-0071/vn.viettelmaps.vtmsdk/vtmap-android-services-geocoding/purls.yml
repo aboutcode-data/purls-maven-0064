@@ -1,2 +1,6 @@
+- pkg:maven/vn.viettelmaps.vtmsdk/vtmap-android-services-geocoding@1.0.10
+- pkg:maven/vn.viettelmaps.vtmsdk/vtmap-android-services-geocoding@1.0.10?classifier=sources
 - pkg:maven/vn.viettelmaps.vtmsdk/vtmap-android-services-geocoding@1.0.8
 - pkg:maven/vn.viettelmaps.vtmsdk/vtmap-android-services-geocoding@1.0.8?classifier=sources
+- pkg:maven/vn.viettelmaps.vtmsdk/vtmap-android-services-geocoding@1.0.9
+- pkg:maven/vn.viettelmaps.vtmsdk/vtmap-android-services-geocoding@1.0.9?classifier=sources

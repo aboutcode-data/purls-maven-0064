@@ -28,3 +28,5 @@
 - pkg:maven/org.odpi.egeria/data-science-client@3.4
 - pkg:maven/org.odpi.egeria/data-science-client@3.5
 - pkg:maven/org.odpi.egeria/data-science-client@3.6
+- pkg:maven/org.odpi.egeria/data-science-client@3.7
+- pkg:maven/org.odpi.egeria/data-science-client@3.8

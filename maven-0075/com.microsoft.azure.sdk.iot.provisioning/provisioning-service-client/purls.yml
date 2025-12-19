@@ -50,9 +50,11 @@
 - pkg:maven/com.microsoft.azure.sdk.iot.provisioning/provisioning-service-client@1.9.3?classifier=sources
 - pkg:maven/com.microsoft.azure.sdk.iot.provisioning/provisioning-service-client@1.9.4
 - pkg:maven/com.microsoft.azure.sdk.iot.provisioning/provisioning-service-client@1.9.4?classifier=sources
+- pkg:maven/com.microsoft.azure.sdk.iot.provisioning/provisioning-service-client@2.0.0
 - pkg:maven/com.microsoft.azure.sdk.iot.provisioning/provisioning-service-client@2.0.0-preview-001
 - pkg:maven/com.microsoft.azure.sdk.iot.provisioning/provisioning-service-client@2.0.0-preview-001?classifier=sources
 - pkg:maven/com.microsoft.azure.sdk.iot.provisioning/provisioning-service-client@2.0.0-preview-002
 - pkg:maven/com.microsoft.azure.sdk.iot.provisioning/provisioning-service-client@2.0.0-preview-002?classifier=sources
+- pkg:maven/com.microsoft.azure.sdk.iot.provisioning/provisioning-service-client@2.0.0?classifier=sources
 - pkg:maven/com.microsoft.azure.sdk.iot.provisioning/provisioning-service-client@2.0.1-preview-001
 - pkg:maven/com.microsoft.azure.sdk.iot.provisioning/provisioning-service-client@2.0.1-preview-001?classifier=sources

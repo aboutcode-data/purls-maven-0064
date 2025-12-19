@@ -1,3 +1,4 @@
 - pkg:maven/com.trendyol.android.devtools/view-inspector@0.1.0?classifier=sources
 - pkg:maven/com.trendyol.android.devtools/view-inspector@0.1.1?classifier=sources
 - pkg:maven/com.trendyol.android.devtools/view-inspector@0.2.0?classifier=sources
+- pkg:maven/com.trendyol.android.devtools/view-inspector@0.2.1?classifier=sources

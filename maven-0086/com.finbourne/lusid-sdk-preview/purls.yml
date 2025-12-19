@@ -1,2 +1,10 @@
+- pkg:maven/com.finbourne/lusid-sdk-preview@0.0.2
+- pkg:maven/com.finbourne/lusid-sdk-preview@0.0.2?classifier=sources
+- pkg:maven/com.finbourne/lusid-sdk-preview@0.0.3
 - pkg:maven/com.finbourne/lusid-sdk-preview@0.0.3855
 - pkg:maven/com.finbourne/lusid-sdk-preview@0.0.3855?classifier=sources
+- pkg:maven/com.finbourne/lusid-sdk-preview@0.0.3?classifier=sources
+- pkg:maven/com.finbourne/lusid-sdk-preview@0.0.4
+- pkg:maven/com.finbourne/lusid-sdk-preview@0.0.4?classifier=sources
+- pkg:maven/com.finbourne/lusid-sdk-preview@publish.sh
+- pkg:maven/com.finbourne/lusid-sdk-preview@publish.sh?classifier=sources

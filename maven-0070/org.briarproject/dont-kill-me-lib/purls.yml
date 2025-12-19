@@ -1,1 +1,4 @@
 - pkg:maven/org.briarproject/dont-kill-me-lib@0.1?classifier=sources
+- pkg:maven/org.briarproject/dont-kill-me-lib@0.2.1?classifier=sources
+- pkg:maven/org.briarproject/dont-kill-me-lib@0.2.2?classifier=sources
+- pkg:maven/org.briarproject/dont-kill-me-lib@0.2?classifier=sources

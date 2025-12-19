@@ -71,3 +71,9 @@
 - pkg:maven/de.fraunhofer.aisec/cpg@4.3.4?classifier=sources
 - pkg:maven/de.fraunhofer.aisec/cpg@4.3.5
 - pkg:maven/de.fraunhofer.aisec/cpg@4.3.5?classifier=sources
+- pkg:maven/de.fraunhofer.aisec/cpg@4.4.0
+- pkg:maven/de.fraunhofer.aisec/cpg@4.4.0?classifier=sources
+- pkg:maven/de.fraunhofer.aisec/cpg@4.4.1
+- pkg:maven/de.fraunhofer.aisec/cpg@4.4.1?classifier=sources
+- pkg:maven/de.fraunhofer.aisec/cpg@4.4.2
+- pkg:maven/de.fraunhofer.aisec/cpg@4.4.2?classifier=sources

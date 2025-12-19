@@ -88,3 +88,5 @@
 - pkg:maven/com.qudini/qudini-reactive-logging@0.0.60?classifier=sources
 - pkg:maven/com.qudini/qudini-reactive-logging@0.0.61
 - pkg:maven/com.qudini/qudini-reactive-logging@0.0.61?classifier=sources
+- pkg:maven/com.qudini/qudini-reactive-logging@0.0.62
+- pkg:maven/com.qudini/qudini-reactive-logging@0.0.62?classifier=sources

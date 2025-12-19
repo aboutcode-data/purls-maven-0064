@@ -1,0 +1,2 @@
+- pkg:maven/com.distrimind.madkit/MaDKitLanEdition@2.4.2-STABLE?classifier=sources
+- pkg:maven/com.distrimind.madkit/MaDKitLanEdition@2.4.3-STABLE?classifier=sources

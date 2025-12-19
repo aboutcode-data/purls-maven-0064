@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/firebase__app-check-compat@0.2.5
+- pkg:maven/org.webjars.npm/firebase__app-check-compat@0.2.5?classifier=sources

@@ -5,3 +5,4 @@
 - pkg:maven/com.algolia/instantsearch-compose@2.11.2?classifier=sources
 - pkg:maven/com.algolia/instantsearch-compose@2.11.3?classifier=sources
 - pkg:maven/com.algolia/instantsearch-compose@2.11.4?classifier=sources
+- pkg:maven/com.algolia/instantsearch-compose@3.0.0-beta01?classifier=sources

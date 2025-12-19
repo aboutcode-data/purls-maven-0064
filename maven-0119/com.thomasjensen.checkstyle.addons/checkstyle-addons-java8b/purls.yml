@@ -1,0 +1,2 @@
+- pkg:maven/com.thomasjensen.checkstyle.addons/checkstyle-addons-java8b@7.0.0?classifier=sources
+- pkg:maven/com.thomasjensen.checkstyle.addons/checkstyle-addons-java8b@7.0.1?classifier=sources

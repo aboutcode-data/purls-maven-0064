@@ -712,6 +712,8 @@
 - pkg:maven/com.google.apis/google-api-services-serviceusage@v1-rev20220129-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-serviceusage@v1-rev20220319-1.32.1
 - pkg:maven/com.google.apis/google-api-services-serviceusage@v1-rev20220319-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-serviceusage@v1-rev20220405-1.32.1
+- pkg:maven/com.google.apis/google-api-services-serviceusage@v1-rev20220405-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-serviceusage@v1-rev209-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-serviceusage@v1-rev209-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-serviceusage@v1-rev209-1.25.0
@@ -2194,6 +2196,8 @@
 - pkg:maven/com.google.apis/google-api-services-serviceusage@v1beta1-rev20220129-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-serviceusage@v1beta1-rev20220319-1.32.1
 - pkg:maven/com.google.apis/google-api-services-serviceusage@v1beta1-rev20220319-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-serviceusage@v1beta1-rev20220405-1.32.1
+- pkg:maven/com.google.apis/google-api-services-serviceusage@v1beta1-rev20220405-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-serviceusage@v1beta1-rev203-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-serviceusage@v1beta1-rev203-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-serviceusage@v1beta1-rev203-1.25.0

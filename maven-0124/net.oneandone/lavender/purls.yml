@@ -24,6 +24,8 @@
 - pkg:maven/net.oneandone/lavender@2.10.1?classifier=sources
 - pkg:maven/net.oneandone/lavender@2.11.0
 - pkg:maven/net.oneandone/lavender@2.11.0?classifier=sources
+- pkg:maven/net.oneandone/lavender@2.11.1
+- pkg:maven/net.oneandone/lavender@2.11.1?classifier=sources
 - pkg:maven/net.oneandone/lavender@2.2.0
 - pkg:maven/net.oneandone/lavender@2.2.0?classifier=sources
 - pkg:maven/net.oneandone/lavender@2.2.1

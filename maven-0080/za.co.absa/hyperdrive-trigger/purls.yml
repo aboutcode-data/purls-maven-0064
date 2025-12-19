@@ -48,3 +48,7 @@
 - pkg:maven/za.co.absa/hyperdrive-trigger@0.5.6?type=war
 - pkg:maven/za.co.absa/hyperdrive-trigger@0.5.7?classifier=sources
 - pkg:maven/za.co.absa/hyperdrive-trigger@0.5.7?type=war
+- pkg:maven/za.co.absa/hyperdrive-trigger@0.5.8?classifier=sources
+- pkg:maven/za.co.absa/hyperdrive-trigger@0.5.8?type=war
+- pkg:maven/za.co.absa/hyperdrive-trigger@0.5.9?classifier=sources
+- pkg:maven/za.co.absa/hyperdrive-trigger@0.5.9?type=war

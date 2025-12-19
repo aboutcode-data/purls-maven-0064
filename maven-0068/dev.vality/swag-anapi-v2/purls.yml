@@ -2,3 +2,11 @@
 - pkg:maven/dev.vality/swag-anapi-v2@1.64-601a6dc-server?classifier=sources
 - pkg:maven/dev.vality/swag-anapi-v2@1.65-c94701b-server
 - pkg:maven/dev.vality/swag-anapi-v2@1.65-c94701b-server?classifier=sources
+- pkg:maven/dev.vality/swag-anapi-v2@1.66-f571365-server
+- pkg:maven/dev.vality/swag-anapi-v2@1.66-f571365-server?classifier=sources
+- pkg:maven/dev.vality/swag-anapi-v2@1.68-bb14531-server
+- pkg:maven/dev.vality/swag-anapi-v2@1.68-bb14531-server?classifier=sources
+- pkg:maven/dev.vality/swag-anapi-v2@1.69-0405be2-server
+- pkg:maven/dev.vality/swag-anapi-v2@1.69-0405be2-server?classifier=sources
+- pkg:maven/dev.vality/swag-anapi-v2@1.71-048ff68-server
+- pkg:maven/dev.vality/swag-anapi-v2@1.71-048ff68-server?classifier=sources

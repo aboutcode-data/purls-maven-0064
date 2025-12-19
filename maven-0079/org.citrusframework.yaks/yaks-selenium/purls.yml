@@ -1,3 +1,5 @@
+- pkg:maven/org.citrusframework.yaks/yaks-selenium@0.10.0
+- pkg:maven/org.citrusframework.yaks/yaks-selenium@0.10.0?classifier=sources
 - pkg:maven/org.citrusframework.yaks/yaks-selenium@0.3.0
 - pkg:maven/org.citrusframework.yaks/yaks-selenium@0.3.0?classifier=sources
 - pkg:maven/org.citrusframework.yaks/yaks-selenium@0.4.0

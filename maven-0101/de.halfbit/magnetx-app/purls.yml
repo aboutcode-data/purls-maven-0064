@@ -80,3 +80,4 @@
 - pkg:maven/de.halfbit/magnetx-app@3.4?classifier=sources
 - pkg:maven/de.halfbit/magnetx-app@3.5
 - pkg:maven/de.halfbit/magnetx-app@3.5?classifier=sources
+- pkg:maven/de.halfbit/magnetx-app@3.6-rc1?classifier=sources

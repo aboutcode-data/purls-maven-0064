@@ -422,6 +422,8 @@
 - pkg:maven/com.google.apis/google-api-services-cloudtrace@v1-rev20210812-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudtrace@v1-rev20220224-1.32.1
 - pkg:maven/com.google.apis/google-api-services-cloudtrace@v1-rev20220224-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudtrace@v1-rev20220330-1.32.1
+- pkg:maven/com.google.apis/google-api-services-cloudtrace@v1-rev20220330-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudtrace@v1-rev3-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-cloudtrace@v1-rev3-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudtrace@v1-rev3-1.19.1
@@ -962,6 +964,8 @@
 - pkg:maven/com.google.apis/google-api-services-cloudtrace@v2-rev20210812-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudtrace@v2-rev20220224-1.32.1
 - pkg:maven/com.google.apis/google-api-services-cloudtrace@v2-rev20220224-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudtrace@v2-rev20220330-1.32.1
+- pkg:maven/com.google.apis/google-api-services-cloudtrace@v2-rev20220330-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudtrace@v2-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-cloudtrace@v2-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudtrace@v2-rev21-1.21.0
@@ -1462,6 +1466,10 @@
 - pkg:maven/com.google.apis/google-api-services-cloudtrace@v2beta1-rev20210812-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudtrace@v2beta1-rev20220224-1.32.1
 - pkg:maven/com.google.apis/google-api-services-cloudtrace@v2beta1-rev20220224-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudtrace@v2beta1-rev20220330-1.32.1
+- pkg:maven/com.google.apis/google-api-services-cloudtrace@v2beta1-rev20220330-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudtrace@v2beta1-rev20220421-1.32.1
+- pkg:maven/com.google.apis/google-api-services-cloudtrace@v2beta1-rev20220421-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudtrace@v2beta1-rev3-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-cloudtrace@v2beta1-rev3-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudtrace@v2beta1-rev3-1.25.0

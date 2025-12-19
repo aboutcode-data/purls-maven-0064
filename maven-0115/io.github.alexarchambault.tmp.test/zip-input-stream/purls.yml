@@ -1,0 +1,2 @@
+- pkg:maven/io.github.alexarchambault.tmp.test/zip-input-stream@0.0.3
+- pkg:maven/io.github.alexarchambault.tmp.test/zip-input-stream@0.0.3?classifier=sources

@@ -5,3 +5,4 @@
 - pkg:maven/com.powsybl/powsybl-build-tools@5
 - pkg:maven/com.powsybl/powsybl-build-tools@6
 - pkg:maven/com.powsybl/powsybl-build-tools@7
+- pkg:maven/com.powsybl/powsybl-build-tools@8

@@ -2,3 +2,5 @@
 - pkg:maven/com.io7m.jeucreader/com.io7m.jeucreader.documentation@1.1.2?type=zip
 - pkg:maven/com.io7m.jeucreader/com.io7m.jeucreader.documentation@2.0.0?classifier=sources
 - pkg:maven/com.io7m.jeucreader/com.io7m.jeucreader.documentation@2.0.0?type=zip
+- pkg:maven/com.io7m.jeucreader/com.io7m.jeucreader.documentation@3.0.0?classifier=sources
+- pkg:maven/com.io7m.jeucreader/com.io7m.jeucreader.documentation@3.0.0?type=zip

@@ -1,0 +1,2 @@
+- pkg:maven/ch.regdata.rps.engine.client/rps-engine-api-client@3.10.0
+- pkg:maven/ch.regdata.rps.engine.client/rps-engine-api-client@3.10.0?classifier=sources

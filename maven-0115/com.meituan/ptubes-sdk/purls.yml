@@ -1,0 +1,4 @@
+- pkg:maven/com.meituan/ptubes-sdk@0.0.2-snapshot
+- pkg:maven/com.meituan/ptubes-sdk@0.0.2-snapshot?classifier=sources
+- pkg:maven/com.meituan/ptubes-sdk@1.0.0
+- pkg:maven/com.meituan/ptubes-sdk@1.0.0?classifier=sources

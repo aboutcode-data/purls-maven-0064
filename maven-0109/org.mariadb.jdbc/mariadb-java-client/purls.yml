@@ -174,3 +174,5 @@
 - pkg:maven/org.mariadb.jdbc/mariadb-java-client@3.0.2-rc?classifier=sources
 - pkg:maven/org.mariadb.jdbc/mariadb-java-client@3.0.3
 - pkg:maven/org.mariadb.jdbc/mariadb-java-client@3.0.3?classifier=sources
+- pkg:maven/org.mariadb.jdbc/mariadb-java-client@3.0.4
+- pkg:maven/org.mariadb.jdbc/mariadb-java-client@3.0.4?classifier=sources

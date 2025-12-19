@@ -2,6 +2,8 @@
 - pkg:maven/org.webjars.npm/rc-field-form@0.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/rc-field-form@1.22.0-2
 - pkg:maven/org.webjars.npm/rc-field-form@1.22.0-2?classifier=sources
+- pkg:maven/org.webjars.npm/rc-field-form@1.26.3
+- pkg:maven/org.webjars.npm/rc-field-form@1.26.3?classifier=sources
 - pkg:maven/org.webjars.npm/rc-field-form@1.4.4
 - pkg:maven/org.webjars.npm/rc-field-form@1.4.4?classifier=sources
 - pkg:maven/org.webjars.npm/rc-field-form@1.8.0

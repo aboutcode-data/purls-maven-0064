@@ -90,6 +90,8 @@
 - pkg:maven/org.apache.activemq/activemq-log4j-appender@5.16.4?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-log4j-appender@5.17.0
 - pkg:maven/org.apache.activemq/activemq-log4j-appender@5.17.0?classifier=sources
+- pkg:maven/org.apache.activemq/activemq-log4j-appender@5.17.1
+- pkg:maven/org.apache.activemq/activemq-log4j-appender@5.17.1?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-log4j-appender@5.8.0
 - pkg:maven/org.apache.activemq/activemq-log4j-appender@5.8.0?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-log4j-appender@5.9.0

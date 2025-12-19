@@ -70,3 +70,5 @@
 - pkg:maven/org.pepsoft.worldpainter/WPGUI@2.8.7?classifier=sources
 - pkg:maven/org.pepsoft.worldpainter/WPGUI@2.8.8
 - pkg:maven/org.pepsoft.worldpainter/WPGUI@2.8.8?classifier=sources
+- pkg:maven/org.pepsoft.worldpainter/WPGUI@2.9.0
+- pkg:maven/org.pepsoft.worldpainter/WPGUI@2.9.0?classifier=sources

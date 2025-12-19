@@ -1,0 +1,2 @@
+- pkg:maven/com.taobao.arthas/fastjson@1.2.80-fix
+- pkg:maven/com.taobao.arthas/fastjson@1.2.80-fix?classifier=sources

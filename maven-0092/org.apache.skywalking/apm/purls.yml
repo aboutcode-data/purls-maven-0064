@@ -26,3 +26,4 @@
 - pkg:maven/org.apache.skywalking/apm@8.8.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.skywalking/apm@8.9.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.skywalking/apm@8.9.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.skywalking/apm@9.0.0?classifier=source-release&type=zip

@@ -1,0 +1,2 @@
+- pkg:maven/com.itheima.em/EagleMap-sdk@1.0
+- pkg:maven/com.itheima.em/EagleMap-sdk@1.0?classifier=sources

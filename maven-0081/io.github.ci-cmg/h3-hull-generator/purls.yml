@@ -1,0 +1,4 @@
+- pkg:maven/io.github.ci-cmg/h3-hull-generator@1.0.0
+- pkg:maven/io.github.ci-cmg/h3-hull-generator@1.0.0?classifier=sources
+- pkg:maven/io.github.ci-cmg/h3-hull-generator@2.0.0
+- pkg:maven/io.github.ci-cmg/h3-hull-generator@2.0.0?classifier=sources

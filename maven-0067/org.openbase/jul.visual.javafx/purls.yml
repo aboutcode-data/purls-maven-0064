@@ -1,3 +1,4 @@
+- pkg:maven/org.openbase/jul.visual.javafx@%223.2-SNAPSHOT%22?classifier=sources
 - pkg:maven/org.openbase/jul.visual.javafx@1.4.0
 - pkg:maven/org.openbase/jul.visual.javafx@1.4.0?classifier=sources
 - pkg:maven/org.openbase/jul.visual.javafx@1.4.1
@@ -79,3 +80,4 @@
 - pkg:maven/org.openbase/jul.visual.javafx@3.0.3
 - pkg:maven/org.openbase/jul.visual.javafx@3.0.3?classifier=sources
 - pkg:maven/org.openbase/jul.visual.javafx@3.1.0?classifier=sources
+- pkg:maven/org.openbase/jul.visual.javafx@3.2.0?classifier=sources

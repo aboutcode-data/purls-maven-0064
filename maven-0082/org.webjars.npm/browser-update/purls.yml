@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/browser-update@3.3.38
+- pkg:maven/org.webjars.npm/browser-update@3.3.38?classifier=sources

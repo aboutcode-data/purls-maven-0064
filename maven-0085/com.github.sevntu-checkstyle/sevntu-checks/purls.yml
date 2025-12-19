@@ -42,3 +42,5 @@
 - pkg:maven/com.github.sevntu-checkstyle/sevntu-checks@1.40.0?classifier=sources
 - pkg:maven/com.github.sevntu-checkstyle/sevntu-checks@1.41.0
 - pkg:maven/com.github.sevntu-checkstyle/sevntu-checks@1.41.0?classifier=sources
+- pkg:maven/com.github.sevntu-checkstyle/sevntu-checks@1.42.0
+- pkg:maven/com.github.sevntu-checkstyle/sevntu-checks@1.42.0?classifier=sources

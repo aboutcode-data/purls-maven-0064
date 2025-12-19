@@ -1,1 +1,5 @@
 - pkg:maven/me.kcybulski.bricks/bricks-test@1.0?classifier=sources
+- pkg:maven/me.kcybulski.bricks/bricks-test@1.2?classifier=sources
+- pkg:maven/me.kcybulski.bricks/bricks-test@1.4?classifier=sources
+- pkg:maven/me.kcybulski.bricks/bricks-test@2.0?classifier=sources
+- pkg:maven/me.kcybulski.bricks/bricks-test@2.1?classifier=sources

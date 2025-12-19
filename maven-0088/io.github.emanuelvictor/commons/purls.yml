@@ -1,0 +1,11 @@
+- pkg:maven/io.github.emanuelvictor/commons@0.1
+- pkg:maven/io.github.emanuelvictor/commons@0.10
+- pkg:maven/io.github.emanuelvictor/commons@0.10?classifier=sources
+- pkg:maven/io.github.emanuelvictor/commons@0.11
+- pkg:maven/io.github.emanuelvictor/commons@0.11?classifier=sources
+- pkg:maven/io.github.emanuelvictor/commons@0.13
+- pkg:maven/io.github.emanuelvictor/commons@0.13?classifier=sources
+- pkg:maven/io.github.emanuelvictor/commons@0.14
+- pkg:maven/io.github.emanuelvictor/commons@0.14?classifier=sources
+- pkg:maven/io.github.emanuelvictor/commons@0.9
+- pkg:maven/io.github.emanuelvictor/commons@0.9?classifier=sources

@@ -6,3 +6,4 @@
 - pkg:maven/co.early.fore/fore-kt-android-compose@1.1.0-rc01?classifier=sources
 - pkg:maven/co.early.fore/fore-kt-android-compose@1.1.0-rc03?classifier=sources
 - pkg:maven/co.early.fore/fore-kt-android-compose@1.1.0?classifier=sources
+- pkg:maven/co.early.fore/fore-kt-android-compose@1.1.1?classifier=sources

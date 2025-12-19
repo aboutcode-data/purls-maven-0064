@@ -1,0 +1,2 @@
+- pkg:maven/com.wudgaby.platform/redis-alone-spring-boot-autoconfigure@1.0.2
+- pkg:maven/com.wudgaby.platform/redis-alone-spring-boot-autoconfigure@1.0.2?classifier=sources

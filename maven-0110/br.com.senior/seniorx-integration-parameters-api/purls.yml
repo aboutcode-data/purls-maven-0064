@@ -6,3 +6,11 @@
 - pkg:maven/br.com.senior/seniorx-integration-parameters-api@0.0.3-alpha?classifier=sources
 - pkg:maven/br.com.senior/seniorx-integration-parameters-api@0.0.4-alpha
 - pkg:maven/br.com.senior/seniorx-integration-parameters-api@0.0.4-alpha?classifier=sources
+- pkg:maven/br.com.senior/seniorx-integration-parameters-api@0.0.5-alpha
+- pkg:maven/br.com.senior/seniorx-integration-parameters-api@0.0.5-alpha?classifier=sources
+- pkg:maven/br.com.senior/seniorx-integration-parameters-api@0.0.6-alpha
+- pkg:maven/br.com.senior/seniorx-integration-parameters-api@0.0.6-alpha?classifier=sources
+- pkg:maven/br.com.senior/seniorx-integration-parameters-api@1.0.0
+- pkg:maven/br.com.senior/seniorx-integration-parameters-api@1.0.0?classifier=sources
+- pkg:maven/br.com.senior/seniorx-integration-parameters-api@1.0.1
+- pkg:maven/br.com.senior/seniorx-integration-parameters-api@1.0.1?classifier=sources

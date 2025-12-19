@@ -12,3 +12,5 @@
 - pkg:maven/org.beangle.hibernate/beangle-hibernate-core@5.5.6.Final?classifier=sources
 - pkg:maven/org.beangle.hibernate/beangle-hibernate-core@5.6.1.Final
 - pkg:maven/org.beangle.hibernate/beangle-hibernate-core@5.6.1.Final?classifier=sources
+- pkg:maven/org.beangle.hibernate/beangle-hibernate-core@5.6.8.Final
+- pkg:maven/org.beangle.hibernate/beangle-hibernate-core@5.6.8.Final?classifier=sources

@@ -18,3 +18,5 @@
 - pkg:maven/io.h8.borscht/borscht-classic_3@1.2.7?classifier=sources
 - pkg:maven/io.h8.borscht/borscht-classic_3@1.2.8
 - pkg:maven/io.h8.borscht/borscht-classic_3@1.2.8?classifier=sources
+- pkg:maven/io.h8.borscht/borscht-classic_3@1.2.9
+- pkg:maven/io.h8.borscht/borscht-classic_3@1.2.9?classifier=sources

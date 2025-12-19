@@ -10,3 +10,5 @@
 - pkg:maven/com.infor.m3/xtendm3-maven-plugin@0.1.4?classifier=sources
 - pkg:maven/com.infor.m3/xtendm3-maven-plugin@0.1.6
 - pkg:maven/com.infor.m3/xtendm3-maven-plugin@0.1.6?classifier=sources
+- pkg:maven/com.infor.m3/xtendm3-maven-plugin@0.1.7
+- pkg:maven/com.infor.m3/xtendm3-maven-plugin@0.1.7?classifier=sources

@@ -15,3 +15,5 @@
 - pkg:maven/com.pvsstudio/pvsstudio-gradle-plugin@7.15.53134?classifier=sources
 - pkg:maven/com.pvsstudio/pvsstudio-gradle-plugin@7.16.55312?classifier=sources
 - pkg:maven/com.pvsstudio/pvsstudio-gradle-plugin@7.17.56957?classifier=sources
+- pkg:maven/com.pvsstudio/pvsstudio-gradle-plugin@7.18.59224?classifier=sources
+- pkg:maven/com.pvsstudio/pvsstudio-gradle-plugin@7.18.59878?classifier=sources

@@ -80,3 +80,5 @@
 - pkg:maven/com.yahoo.maha/maha-postgres-executor@6.97?classifier=sources
 - pkg:maven/com.yahoo.maha/maha-postgres-executor@6.98
 - pkg:maven/com.yahoo.maha/maha-postgres-executor@6.98?classifier=sources
+- pkg:maven/com.yahoo.maha/maha-postgres-executor@6.99
+- pkg:maven/com.yahoo.maha/maha-postgres-executor@6.99?classifier=sources

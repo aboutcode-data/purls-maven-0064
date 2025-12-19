@@ -1,0 +1,5 @@
+- pkg:maven/com.distrimind.util/Utils@5.23.0-STABLE?classifier=sources
+- pkg:maven/com.distrimind.util/Utils@5.23.1-STABLE?classifier=sources
+- pkg:maven/com.distrimind.util/Utils@5.23.2-STABLE?classifier=sources
+- pkg:maven/com.distrimind.util/Utils@5.23.4-STABLE?classifier=sources
+- pkg:maven/com.distrimind.util/Utils@5.23.5-STABLE?classifier=sources

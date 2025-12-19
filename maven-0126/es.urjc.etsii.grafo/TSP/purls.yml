@@ -2,3 +2,5 @@
 - pkg:maven/es.urjc.etsii.grafo/TSP@0.10?classifier=sources
 - pkg:maven/es.urjc.etsii.grafo/TSP@0.11
 - pkg:maven/es.urjc.etsii.grafo/TSP@0.11?classifier=sources
+- pkg:maven/es.urjc.etsii.grafo/TSP@0.12
+- pkg:maven/es.urjc.etsii.grafo/TSP@0.12?classifier=sources

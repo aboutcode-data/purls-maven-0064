@@ -1,0 +1,2 @@
+- pkg:maven/pub.adfly/adapter-ironsource@0.11.5.0?classifier=sources
+- pkg:maven/pub.adfly/adapter-ironsource@0.11.5.0?type=aar
