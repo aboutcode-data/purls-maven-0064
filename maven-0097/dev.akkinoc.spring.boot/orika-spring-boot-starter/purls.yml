@@ -32,3 +32,5 @@
 - pkg:maven/dev.akkinoc.spring.boot/orika-spring-boot-starter@2.3.3?classifier=sources
 - pkg:maven/dev.akkinoc.spring.boot/orika-spring-boot-starter@2.4.0
 - pkg:maven/dev.akkinoc.spring.boot/orika-spring-boot-starter@2.4.0?classifier=sources
+- pkg:maven/dev.akkinoc.spring.boot/orika-spring-boot-starter@2.4.1
+- pkg:maven/dev.akkinoc.spring.boot/orika-spring-boot-starter@2.4.1?classifier=sources

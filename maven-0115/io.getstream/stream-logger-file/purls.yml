@@ -1,6 +1,9 @@
 - pkg:maven/io.getstream/stream-logger-file@5.10.0?classifier=sources
 - pkg:maven/io.getstream/stream-logger-file@5.11.0?classifier=sources
 - pkg:maven/io.getstream/stream-logger-file@5.11.1?classifier=sources
+- pkg:maven/io.getstream/stream-logger-file@5.11.2?classifier=sources
+- pkg:maven/io.getstream/stream-logger-file@5.11.3?classifier=sources
+- pkg:maven/io.getstream/stream-logger-file@5.11.4?classifier=sources
 - pkg:maven/io.getstream/stream-logger-file@5.2.0?classifier=sources
 - pkg:maven/io.getstream/stream-logger-file@5.3.0?classifier=sources
 - pkg:maven/io.getstream/stream-logger-file@5.3.1?classifier=sources
@@ -13,3 +16,4 @@
 - pkg:maven/io.getstream/stream-logger-file@5.8.1?classifier=sources
 - pkg:maven/io.getstream/stream-logger-file@5.8.2?classifier=sources
 - pkg:maven/io.getstream/stream-logger-file@5.9.0?classifier=sources
+- pkg:maven/io.getstream/stream-logger-file@6.0.0-beta1?classifier=sources

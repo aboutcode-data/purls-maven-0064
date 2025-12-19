@@ -2,6 +2,7 @@
 - pkg:maven/com.scoperetail.simurai/simurai-ui-web-app@1.10
 - pkg:maven/com.scoperetail.simurai/simurai-ui-web-app@1.11
 - pkg:maven/com.scoperetail.simurai/simurai-ui-web-app@1.12
+- pkg:maven/com.scoperetail.simurai/simurai-ui-web-app@1.26
 - pkg:maven/com.scoperetail.simurai/simurai-ui-web-app@1.3
 - pkg:maven/com.scoperetail.simurai/simurai-ui-web-app@1.6
 - pkg:maven/com.scoperetail.simurai/simurai-ui-web-app@1.7

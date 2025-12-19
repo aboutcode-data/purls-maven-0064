@@ -37,3 +37,4 @@
 - pkg:maven/com.github.michaelgantman/MgntUtils@1.6.0.2?classifier=sources
 - pkg:maven/com.github.michaelgantman/MgntUtils@1.6.0.3?classifier=sources
 - pkg:maven/com.github.michaelgantman/MgntUtils@1.6.0.4?classifier=sources
+- pkg:maven/com.github.michaelgantman/MgntUtils@1.6.0.5?classifier=sources

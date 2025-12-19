@@ -1,0 +1,2 @@
+- pkg:maven/cn.nexthuman.open/sdk-java@1.0.2
+- pkg:maven/cn.nexthuman.open/sdk-java@1.0.2?classifier=sources

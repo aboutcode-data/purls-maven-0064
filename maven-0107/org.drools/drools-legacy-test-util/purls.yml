@@ -47,3 +47,4 @@
 - pkg:maven/org.drools/drools-legacy-test-util@8.27.0.Beta
 - pkg:maven/org.drools/drools-legacy-test-util@8.28.0.Beta
 - pkg:maven/org.drools/drools-legacy-test-util@8.29.0.Final
+- pkg:maven/org.drools/drools-legacy-test-util@8.30.0.Final

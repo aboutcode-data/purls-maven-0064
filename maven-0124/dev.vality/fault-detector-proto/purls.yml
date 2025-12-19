@@ -1,2 +1,8 @@
 - pkg:maven/dev.vality/fault-detector-proto@1.27-365aadc
 - pkg:maven/dev.vality/fault-detector-proto@1.27-365aadc?classifier=sources
+- pkg:maven/dev.vality/fault-detector-proto@1.30-a45d5ab
+- pkg:maven/dev.vality/fault-detector-proto@1.30-a45d5ab?classifier=sources
+- pkg:maven/dev.vality/fault-detector-proto@1.31-4f06a96
+- pkg:maven/dev.vality/fault-detector-proto@1.31-4f06a96?classifier=sources
+- pkg:maven/dev.vality/fault-detector-proto@1.32-32f0b84
+- pkg:maven/dev.vality/fault-detector-proto@1.32-32f0b84?classifier=sources

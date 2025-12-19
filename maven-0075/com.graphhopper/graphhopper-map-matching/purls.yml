@@ -30,5 +30,11 @@
 - pkg:maven/com.graphhopper/graphhopper-map-matching@5.3?classifier=sources
 - pkg:maven/com.graphhopper/graphhopper-map-matching@6.0
 - pkg:maven/com.graphhopper/graphhopper-map-matching@6.0?classifier=sources
+- pkg:maven/com.graphhopper/graphhopper-map-matching@6.1
+- pkg:maven/com.graphhopper/graphhopper-map-matching@6.1?classifier=sources
+- pkg:maven/com.graphhopper/graphhopper-map-matching@6.2
+- pkg:maven/com.graphhopper/graphhopper-map-matching@6.2?classifier=sources
+- pkg:maven/com.graphhopper/graphhopper-map-matching@7.0-pre1
+- pkg:maven/com.graphhopper/graphhopper-map-matching@7.0-pre1?classifier=sources
 - pkg:maven/com.graphhopper/graphhopper-map-matching@client_hc_no_vehicle
 - pkg:maven/com.graphhopper/graphhopper-map-matching@client_hc_no_vehicle?classifier=sources

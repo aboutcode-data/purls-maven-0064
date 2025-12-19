@@ -1,0 +1,4 @@
+- pkg:maven/wtf.metio.memoization/memoization-tck@2022.11.15
+- pkg:maven/wtf.metio.memoization/memoization-tck@2022.11.15?classifier=sources
+- pkg:maven/wtf.metio.memoization/memoization-tck@2022.11.8
+- pkg:maven/wtf.metio.memoization/memoization-tck@2022.11.8?classifier=sources

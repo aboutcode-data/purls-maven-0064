@@ -1,0 +1,2 @@
+- pkg:maven/io.github.timbotetsu/kaptcha-java-17@0.0.10
+- pkg:maven/io.github.timbotetsu/kaptcha-java-17@0.0.10?classifier=sources

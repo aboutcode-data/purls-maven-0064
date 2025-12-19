@@ -1,0 +1,2 @@
+- pkg:maven/com.coderhop/spring-rebound@1.0.7
+- pkg:maven/com.coderhop/spring-rebound@1.0.7?classifier=sources

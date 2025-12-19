@@ -1,0 +1,2 @@
+- pkg:maven/io.mongock/mongock-springboot-v3@5.2.0
+- pkg:maven/io.mongock/mongock-springboot-v3@5.2.0?classifier=sources

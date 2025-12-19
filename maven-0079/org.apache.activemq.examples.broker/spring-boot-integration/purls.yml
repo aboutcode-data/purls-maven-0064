@@ -38,6 +38,8 @@
 - pkg:maven/org.apache.activemq.examples.broker/spring-boot-integration@2.25.0?classifier=sources
 - pkg:maven/org.apache.activemq.examples.broker/spring-boot-integration@2.26.0
 - pkg:maven/org.apache.activemq.examples.broker/spring-boot-integration@2.26.0?classifier=sources
+- pkg:maven/org.apache.activemq.examples.broker/spring-boot-integration@2.27.0
+- pkg:maven/org.apache.activemq.examples.broker/spring-boot-integration@2.27.0?classifier=sources
 - pkg:maven/org.apache.activemq.examples.broker/spring-boot-integration@2.7.0
 - pkg:maven/org.apache.activemq.examples.broker/spring-boot-integration@2.7.0?classifier=sources
 - pkg:maven/org.apache.activemq.examples.broker/spring-boot-integration@2.8.0

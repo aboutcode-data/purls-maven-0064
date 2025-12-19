@@ -1,0 +1,2 @@
+- pkg:maven/software.amazon.awsconstructs/fargateopensearch@2.27.0
+- pkg:maven/software.amazon.awsconstructs/fargateopensearch@2.27.0?classifier=sources

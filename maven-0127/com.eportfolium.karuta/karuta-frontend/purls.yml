@@ -1,3 +1,4 @@
+- pkg:maven/com.eportfolium.karuta/karuta-frontend@3.1.0-Beta1.0.11-1?type=war
 - pkg:maven/com.eportfolium.karuta/karuta-frontend@3.1.0-Beta1.0.11?type=war
 - pkg:maven/com.eportfolium.karuta/karuta-frontend@3.1.0-Beta1.0.12?type=war
 - pkg:maven/com.eportfolium.karuta/karuta-frontend@3.1.0-Beta1.0.2?type=war
@@ -7,6 +8,7 @@
 - pkg:maven/com.eportfolium.karuta/karuta-frontend@3.1.0-Beta1.0.7?type=war
 - pkg:maven/com.eportfolium.karuta/karuta-frontend@3.1.0-Beta1.0.8?type=war
 - pkg:maven/com.eportfolium.karuta/karuta-frontend@3.1.0-Beta1.10?type=war
+- pkg:maven/com.eportfolium.karuta/karuta-frontend@3.1.0-Beta1.11.1?type=war
 - pkg:maven/com.eportfolium.karuta/karuta-frontend@3.1.0-Beta1.11?type=war
 - pkg:maven/com.eportfolium.karuta/karuta-frontend@3.1.0-Beta1.1?type=war
 - pkg:maven/com.eportfolium.karuta/karuta-frontend@3.1.0-Beta1.3?type=war

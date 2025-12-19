@@ -128,3 +128,5 @@
 - pkg:maven/com.itv/bucky-example_2.12@3.0.0-alpha
 - pkg:maven/com.itv/bucky-example_2.12@3.0.0-alpha?classifier=sources
 - pkg:maven/com.itv/bucky-example_2.12@3.0.0?classifier=sources
+- pkg:maven/com.itv/bucky-example_2.12@3.0.1
+- pkg:maven/com.itv/bucky-example_2.12@3.0.1?classifier=sources

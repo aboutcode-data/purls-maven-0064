@@ -114,6 +114,8 @@
 - pkg:maven/com.approvaltests/approvaltests-tests@18.3.0?classifier=sources
 - pkg:maven/com.approvaltests/approvaltests-tests@18.4.0
 - pkg:maven/com.approvaltests/approvaltests-tests@18.4.0?classifier=sources
+- pkg:maven/com.approvaltests/approvaltests-tests@18.5.0
+- pkg:maven/com.approvaltests/approvaltests-tests@18.5.0?classifier=sources
 - pkg:maven/com.approvaltests/approvaltests-tests@7.0.0
 - pkg:maven/com.approvaltests/approvaltests-tests@7.0.0?classifier=sources
 - pkg:maven/com.approvaltests/approvaltests-tests@8.0.0

@@ -1,0 +1,1 @@
+- pkg:maven/me.proton.core.gradle-plugins/include-core-build@1.0.0?classifier=sources

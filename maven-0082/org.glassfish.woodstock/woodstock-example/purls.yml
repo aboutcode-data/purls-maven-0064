@@ -1,2 +1,4 @@
 - pkg:maven/org.glassfish.woodstock/woodstock-example@5.0.0?classifier=sources
 - pkg:maven/org.glassfish.woodstock/woodstock-example@5.0.0?type=war
+- pkg:maven/org.glassfish.woodstock/woodstock-example@6.0.0?classifier=sources
+- pkg:maven/org.glassfish.woodstock/woodstock-example@6.0.0?type=war

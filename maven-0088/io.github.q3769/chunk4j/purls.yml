@@ -36,3 +36,17 @@
 - pkg:maven/io.github.q3769/chunk4j@20221001.0.4?classifier=sources
 - pkg:maven/io.github.q3769/chunk4j@20221016.0.0
 - pkg:maven/io.github.q3769/chunk4j@20221016.0.0?classifier=sources
+- pkg:maven/io.github.q3769/chunk4j@20221016.0.1
+- pkg:maven/io.github.q3769/chunk4j@20221016.0.1?classifier=sources
+- pkg:maven/io.github.q3769/chunk4j@20221016.0.2
+- pkg:maven/io.github.q3769/chunk4j@20221016.0.2?classifier=sources
+- pkg:maven/io.github.q3769/chunk4j@20221028.0.0
+- pkg:maven/io.github.q3769/chunk4j@20221028.0.0?classifier=sources
+- pkg:maven/io.github.q3769/chunk4j@20221028.0.1
+- pkg:maven/io.github.q3769/chunk4j@20221028.0.1?classifier=sources
+- pkg:maven/io.github.q3769/chunk4j@20221028.0.3
+- pkg:maven/io.github.q3769/chunk4j@20221028.0.3?classifier=sources
+- pkg:maven/io.github.q3769/chunk4j@20221028.0.4
+- pkg:maven/io.github.q3769/chunk4j@20221028.0.4?classifier=sources
+- pkg:maven/io.github.q3769/chunk4j@20221028.1.0
+- pkg:maven/io.github.q3769/chunk4j@20221028.1.0?classifier=sources

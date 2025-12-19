@@ -41,3 +41,5 @@
 - pkg:maven/com.tencent.polaris/polaris-ratelimit-factory@1.7.4?classifier=sources
 - pkg:maven/com.tencent.polaris/polaris-ratelimit-factory@1.8.0
 - pkg:maven/com.tencent.polaris/polaris-ratelimit-factory@1.8.0?classifier=sources
+- pkg:maven/com.tencent.polaris/polaris-ratelimit-factory@1.9.1
+- pkg:maven/com.tencent.polaris/polaris-ratelimit-factory@1.9.1?classifier=sources

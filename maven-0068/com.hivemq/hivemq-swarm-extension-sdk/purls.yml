@@ -14,6 +14,7 @@
 - pkg:maven/com.hivemq/hivemq-swarm-extension-sdk@4.7.0?classifier=sources
 - pkg:maven/com.hivemq/hivemq-swarm-extension-sdk@4.7.10?classifier=sources
 - pkg:maven/com.hivemq/hivemq-swarm-extension-sdk@4.7.11?classifier=sources
+- pkg:maven/com.hivemq/hivemq-swarm-extension-sdk@4.7.12?classifier=sources
 - pkg:maven/com.hivemq/hivemq-swarm-extension-sdk@4.7.1?classifier=sources
 - pkg:maven/com.hivemq/hivemq-swarm-extension-sdk@4.7.2?classifier=sources
 - pkg:maven/com.hivemq/hivemq-swarm-extension-sdk@4.7.3?classifier=sources
@@ -28,4 +29,7 @@
 - pkg:maven/com.hivemq/hivemq-swarm-extension-sdk@4.8.2?classifier=sources
 - pkg:maven/com.hivemq/hivemq-swarm-extension-sdk@4.8.3?classifier=sources
 - pkg:maven/com.hivemq/hivemq-swarm-extension-sdk@4.8.4?classifier=sources
+- pkg:maven/com.hivemq/hivemq-swarm-extension-sdk@4.8.5?classifier=sources
+- pkg:maven/com.hivemq/hivemq-swarm-extension-sdk@4.8.6?classifier=sources
 - pkg:maven/com.hivemq/hivemq-swarm-extension-sdk@4.9.0?classifier=sources
+- pkg:maven/com.hivemq/hivemq-swarm-extension-sdk@4.9.1?classifier=sources

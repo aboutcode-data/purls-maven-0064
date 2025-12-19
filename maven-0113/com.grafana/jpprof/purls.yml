@@ -1,0 +1,3 @@
+- pkg:maven/com.grafana/jpprof@0.1.0?classifier=sources
+- pkg:maven/com.grafana/jpprof@0.1.3?classifier=sources
+- pkg:maven/com.grafana/jpprof@0.1.4?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/io.smallrye.reactive/mutiny-zero-flow-adapters@0.4.3
 - pkg:maven/io.smallrye.reactive/mutiny-zero-flow-adapters@0.4.3?classifier=sources
+- pkg:maven/io.smallrye.reactive/mutiny-zero-flow-adapters@0.5.0
+- pkg:maven/io.smallrye.reactive/mutiny-zero-flow-adapters@0.5.0?classifier=sources

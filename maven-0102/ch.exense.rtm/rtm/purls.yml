@@ -20,7 +20,11 @@
 - pkg:maven/ch.exense.rtm/rtm@2.3.0?classifier=sources
 - pkg:maven/ch.exense.rtm/rtm@2.3.3
 - pkg:maven/ch.exense.rtm/rtm@2.3.3?classifier=sources
+- pkg:maven/ch.exense.rtm/rtm@2.3.4
+- pkg:maven/ch.exense.rtm/rtm@2.3.4?classifier=sources
 - pkg:maven/ch.exense.rtm/rtm@2.6.7
 - pkg:maven/ch.exense.rtm/rtm@2.6.7?classifier=sources
 - pkg:maven/ch.exense.rtm/rtm@2.6.8
 - pkg:maven/ch.exense.rtm/rtm@2.6.8?classifier=sources
+- pkg:maven/ch.exense.rtm/rtm@3.0.0
+- pkg:maven/ch.exense.rtm/rtm@3.0.0?classifier=sources

@@ -1,5 +1,7 @@
 - pkg:maven/com.epam.healenium/tree-comparing@0.4.10
 - pkg:maven/com.epam.healenium/tree-comparing@0.4.10?classifier=sources
+- pkg:maven/com.epam.healenium/tree-comparing@0.4.11
+- pkg:maven/com.epam.healenium/tree-comparing@0.4.11?classifier=sources
 - pkg:maven/com.epam.healenium/tree-comparing@0.4.4
 - pkg:maven/com.epam.healenium/tree-comparing@0.4.6
 - pkg:maven/com.epam.healenium/tree-comparing@0.4.7

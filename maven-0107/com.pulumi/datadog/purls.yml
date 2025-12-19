@@ -1,0 +1,2 @@
+- pkg:maven/com.pulumi/datadog@4.12.0-alpha.1666375300%2B95e1fada?classifier=sources
+- pkg:maven/com.pulumi/datadog@4.12.0?classifier=sources

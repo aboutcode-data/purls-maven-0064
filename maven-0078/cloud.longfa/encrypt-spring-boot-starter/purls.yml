@@ -1,0 +1,10 @@
+- pkg:maven/cloud.longfa/encrypt-spring-boot-starter@1.0.1-alphal
+- pkg:maven/cloud.longfa/encrypt-spring-boot-starter@1.0.1-alphal?classifier=sources
+- pkg:maven/cloud.longfa/encrypt-spring-boot-starter@1.0.2-RELEASE
+- pkg:maven/cloud.longfa/encrypt-spring-boot-starter@1.0.2-RELEASE?classifier=sources
+- pkg:maven/cloud.longfa/encrypt-spring-boot-starter@1.0.3-RELEASE
+- pkg:maven/cloud.longfa/encrypt-spring-boot-starter@1.0.3-RELEASE?classifier=sources
+- pkg:maven/cloud.longfa/encrypt-spring-boot-starter@1.0.5-RELEASE
+- pkg:maven/cloud.longfa/encrypt-spring-boot-starter@1.0.5-RELEASE?classifier=sources
+- pkg:maven/cloud.longfa/encrypt-spring-boot-starter@1.0.6-RELEASE
+- pkg:maven/cloud.longfa/encrypt-spring-boot-starter@1.0.6-RELEASE?classifier=sources

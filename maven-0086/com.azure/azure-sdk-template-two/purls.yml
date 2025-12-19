@@ -47,4 +47,14 @@
 - pkg:maven/com.azure/azure-sdk-template-two@1.0.0-beta.1881692?classifier=sources
 - pkg:maven/com.azure/azure-sdk-template-two@1.0.0-beta.1881977
 - pkg:maven/com.azure/azure-sdk-template-two@1.0.0-beta.1881977?classifier=sources
+- pkg:maven/com.azure/azure-sdk-template-two@1.0.0-beta.1910861?classifier=sources
+- pkg:maven/com.azure/azure-sdk-template-two@1.0.0-beta.1920762?classifier=sources
+- pkg:maven/com.azure/azure-sdk-template-two@1.0.0-beta.1920883?classifier=sources
+- pkg:maven/com.azure/azure-sdk-template-two@1.0.0-beta.1934440?classifier=sources
+- pkg:maven/com.azure/azure-sdk-template-two@1.0.0-beta.1936255?classifier=sources
+- pkg:maven/com.azure/azure-sdk-template-two@1.0.0-beta.1936320?classifier=sources
+- pkg:maven/com.azure/azure-sdk-template-two@1.0.0-beta.1936821?classifier=sources
+- pkg:maven/com.azure/azure-sdk-template-two@1.0.0-beta.1943110?classifier=sources
+- pkg:maven/com.azure/azure-sdk-template-two@1.0.0-beta.1950192?classifier=sources
+- pkg:maven/com.azure/azure-sdk-template-two@1.0.0-beta.1987269?classifier=sources
 - pkg:maven/com.azure/azure-sdk-template-two@1.0.0-beta.1?classifier=sources

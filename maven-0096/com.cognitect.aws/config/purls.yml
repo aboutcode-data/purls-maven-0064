@@ -66,3 +66,5 @@
 - pkg:maven/com.cognitect.aws/config@822.2.1193.0?classifier=sources
 - pkg:maven/com.cognitect.aws/config@823.2.1216.0
 - pkg:maven/com.cognitect.aws/config@823.2.1216.0?classifier=sources
+- pkg:maven/com.cognitect.aws/config@825.2.1250.0
+- pkg:maven/com.cognitect.aws/config@825.2.1250.0?classifier=sources

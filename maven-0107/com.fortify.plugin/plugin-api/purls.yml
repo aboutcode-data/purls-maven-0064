@@ -1,1 +1,2 @@
 - pkg:maven/com.fortify.plugin/plugin-api@1.0.1.1?classifier=sources
+- pkg:maven/com.fortify.plugin/plugin-api@1.1.2220.0?classifier=sources

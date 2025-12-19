@@ -1,0 +1,2 @@
+- pkg:maven/io.rocketbase.commons/commons-rest-posthog@2.5.0
+- pkg:maven/io.rocketbase.commons/commons-rest-posthog@2.5.0?classifier=sources

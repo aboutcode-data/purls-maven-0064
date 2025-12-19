@@ -7,3 +7,4 @@
 - pkg:maven/co.early.persista/persista@0.2.3?classifier=sources
 - pkg:maven/co.early.persista/persista@1.0.0?classifier=sources
 - pkg:maven/co.early.persista/persista@1.1.0?classifier=sources
+- pkg:maven/co.early.persista/persista@1.2.0?classifier=sources

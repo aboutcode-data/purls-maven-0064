@@ -24,3 +24,5 @@
 - pkg:maven/org.matrix.android/matrix-android-sdk2@1.4.4?classifier=sources
 - pkg:maven/org.matrix.android/matrix-android-sdk2@1.5.1?classifier=sources
 - pkg:maven/org.matrix.android/matrix-android-sdk2@1.5.2?classifier=sources
+- pkg:maven/org.matrix.android/matrix-android-sdk2@1.5.4?classifier=sources
+- pkg:maven/org.matrix.android/matrix-android-sdk2@1.5.7?classifier=sources

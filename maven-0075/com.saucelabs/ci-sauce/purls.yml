@@ -120,6 +120,10 @@
 - pkg:maven/com.saucelabs/ci-sauce@1.159?classifier=sources
 - pkg:maven/com.saucelabs/ci-sauce@1.161
 - pkg:maven/com.saucelabs/ci-sauce@1.161?classifier=sources
+- pkg:maven/com.saucelabs/ci-sauce@1.162
+- pkg:maven/com.saucelabs/ci-sauce@1.162?classifier=sources
+- pkg:maven/com.saucelabs/ci-sauce@1.163
+- pkg:maven/com.saucelabs/ci-sauce@1.163?classifier=sources
 - pkg:maven/com.saucelabs/ci-sauce@1.75
 - pkg:maven/com.saucelabs/ci-sauce@1.75?classifier=sources
 - pkg:maven/com.saucelabs/ci-sauce@1.76
@@ -164,3 +168,5 @@
 - pkg:maven/com.saucelabs/ci-sauce@1.98?classifier=sources
 - pkg:maven/com.saucelabs/ci-sauce@1.99
 - pkg:maven/com.saucelabs/ci-sauce@1.99?classifier=sources
+- pkg:maven/com.saucelabs/ci-sauce@v0.1.0-rc1
+- pkg:maven/com.saucelabs/ci-sauce@v0.1.0-rc1?classifier=sources

@@ -1,2 +1,5 @@
 - pkg:maven/org.xbib/benchmark@1.0.0?classifier=sources
 - pkg:maven/org.xbib/benchmark@1.0.1?classifier=sources
+- pkg:maven/org.xbib/benchmark@2.0.0?classifier=sources
+- pkg:maven/org.xbib/benchmark@3.0.0?classifier=sources
+- pkg:maven/org.xbib/benchmark@3.0.1?classifier=sources

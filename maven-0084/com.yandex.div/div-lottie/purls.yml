@@ -1,4 +1,10 @@
+- pkg:maven/com.yandex.div/div-lottie@10.0.0?classifier=sources
+- pkg:maven/com.yandex.div/div-lottie@11.0.0?classifier=sources
+- pkg:maven/com.yandex.div/div-lottie@12.0.0?classifier=sources
+- pkg:maven/com.yandex.div/div-lottie@13.0.0?classifier=sources
+- pkg:maven/com.yandex.div/div-lottie@14.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div-lottie@5.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div-lottie@6.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div-lottie@7.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div-lottie@8.0.0?classifier=sources
+- pkg:maven/com.yandex.div/div-lottie@9.0.1?classifier=sources

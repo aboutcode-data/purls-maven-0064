@@ -54,3 +54,7 @@
 - pkg:maven/io.github.bdezonia/zorbage@1.9.7?classifier=sources
 - pkg:maven/io.github.bdezonia/zorbage@1.9.8
 - pkg:maven/io.github.bdezonia/zorbage@1.9.8?classifier=sources
+- pkg:maven/io.github.bdezonia/zorbage@1.9.9
+- pkg:maven/io.github.bdezonia/zorbage@1.9.9?classifier=sources
+- pkg:maven/io.github.bdezonia/zorbage@2.0.0
+- pkg:maven/io.github.bdezonia/zorbage@2.0.0?classifier=sources

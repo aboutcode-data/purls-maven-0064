@@ -1,1 +1,2 @@
 - pkg:maven/fr.raluy.simplespreadsheet/SimpleSpreadsheet@0.0.1?classifier=sources
+- pkg:maven/fr.raluy.simplespreadsheet/SimpleSpreadsheet@1.0.0?classifier=sources

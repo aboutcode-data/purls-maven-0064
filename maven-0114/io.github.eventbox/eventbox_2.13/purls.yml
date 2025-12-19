@@ -1,0 +1,2 @@
+- pkg:maven/io.github.eventbox/eventbox_2.13@2.7
+- pkg:maven/io.github.eventbox/eventbox_2.13@2.7?classifier=sources

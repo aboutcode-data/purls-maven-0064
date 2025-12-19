@@ -12,3 +12,5 @@
 - pkg:maven/com.github.davidmoten/xuml-diagrams@0.4.3?type=war
 - pkg:maven/com.github.davidmoten/xuml-diagrams@0.5?classifier=sources
 - pkg:maven/com.github.davidmoten/xuml-diagrams@0.5?type=war
+- pkg:maven/com.github.davidmoten/xuml-diagrams@0.6?classifier=sources
+- pkg:maven/com.github.davidmoten/xuml-diagrams@0.6?type=war

@@ -3,3 +3,4 @@
 - pkg:maven/com.pulumi/aiven@5.3.1?classifier=sources
 - pkg:maven/com.pulumi/aiven@5.4.0-alpha.1663017441%2B92f9c7cd?classifier=sources
 - pkg:maven/com.pulumi/aiven@5.4.0?classifier=sources
+- pkg:maven/com.pulumi/aiven@5.5.0-alpha.1667328310%2B544f7d85?classifier=sources

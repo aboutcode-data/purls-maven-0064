@@ -1,0 +1,4 @@
+- pkg:maven/com.limemojito.oss.trading.trading-data-stream/example-cli@1.0.0
+- pkg:maven/com.limemojito.oss.trading.trading-data-stream/example-cli@1.0.0?classifier=sources
+- pkg:maven/com.limemojito.oss.trading.trading-data-stream/example-cli@1.1.0
+- pkg:maven/com.limemojito.oss.trading.trading-data-stream/example-cli@1.1.0?classifier=sources
