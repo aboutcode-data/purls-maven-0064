@@ -1,3 +1,5 @@
 - pkg:maven/org.mvnpm/core-js-compat@3.32.2?classifier=sources
 - pkg:maven/org.mvnpm/core-js-compat@3.33.0?classifier=sources
 - pkg:maven/org.mvnpm/core-js-compat@3.33.1?classifier=sources
+- pkg:maven/org.mvnpm/core-js-compat@3.33.2?classifier=sources
+- pkg:maven/org.mvnpm/core-js-compat@3.33.3?classifier=sources

@@ -133,3 +133,11 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-rethinkdb@8.6.5-jdk17-20230825
 - pkg:maven/org.anyline/anyline-data-jdbc-rethinkdb@8.6.5-jdk17-20230903
 - pkg:maven/org.anyline/anyline-data-jdbc-rethinkdb@8.6.5-jdk17-20230917
+- pkg:maven/org.anyline/anyline-data-jdbc-rethinkdb@8.7.1-20231105
+- pkg:maven/org.anyline/anyline-data-jdbc-rethinkdb@8.7.1-20231107
+- pkg:maven/org.anyline/anyline-data-jdbc-rethinkdb@8.7.1-20231108
+- pkg:maven/org.anyline/anyline-data-jdbc-rethinkdb@8.7.1-20231111
+- pkg:maven/org.anyline/anyline-data-jdbc-rethinkdb@8.7.1-20231117
+- pkg:maven/org.anyline/anyline-data-jdbc-rethinkdb@8.7.1-20231120
+- pkg:maven/org.anyline/anyline-data-jdbc-rethinkdb@8.7.1-jdk17-20231108
+- pkg:maven/org.anyline/anyline-data-jdbc-rethinkdb@8.7.1-jdk17-20231115

@@ -17,3 +17,4 @@
 - pkg:maven/org.ehrbase.openehr.sdk/test-coverage@2.2.0
 - pkg:maven/org.ehrbase.openehr.sdk/test-coverage@2.3.0
 - pkg:maven/org.ehrbase.openehr.sdk/test-coverage@2.4.0
+- pkg:maven/org.ehrbase.openehr.sdk/test-coverage@2.5.0

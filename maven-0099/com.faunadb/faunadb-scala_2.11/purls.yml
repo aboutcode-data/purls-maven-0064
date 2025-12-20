@@ -76,5 +76,7 @@
 - pkg:maven/com.faunadb/faunadb-scala_2.11@4.3.0?classifier=sources
 - pkg:maven/com.faunadb/faunadb-scala_2.11@4.4.0
 - pkg:maven/com.faunadb/faunadb-scala_2.11@4.4.0?classifier=sources
+- pkg:maven/com.faunadb/faunadb-scala_2.11@4.5.0
+- pkg:maven/com.faunadb/faunadb-scala_2.11@4.5.0?classifier=sources
 - pkg:maven/com.faunadb/faunadb-scala_2.11@5.0.0-beta
 - pkg:maven/com.faunadb/faunadb-scala_2.11@5.0.0-beta?classifier=sources

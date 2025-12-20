@@ -678,3 +678,7 @@
 - pkg:maven/com.cedarsoftware/n-cube@5.1.0?classifier=sources
 - pkg:maven/com.cedarsoftware/n-cube@5.2.0
 - pkg:maven/com.cedarsoftware/n-cube@5.2.0?classifier=sources
+- pkg:maven/com.cedarsoftware/n-cube@5.3.0?classifier=sources
+- pkg:maven/com.cedarsoftware/n-cube@5.3.1?classifier=sources
+- pkg:maven/com.cedarsoftware/n-cube@5.5.0?classifier=sources
+- pkg:maven/com.cedarsoftware/n-cube@5.5.1?classifier=sources

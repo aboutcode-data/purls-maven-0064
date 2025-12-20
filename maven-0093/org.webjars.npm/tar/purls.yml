@@ -34,3 +34,5 @@
 - pkg:maven/org.webjars.npm/tar@6.1.12?classifier=sources
 - pkg:maven/org.webjars.npm/tar@6.1.13
 - pkg:maven/org.webjars.npm/tar@6.1.13?classifier=sources
+- pkg:maven/org.webjars.npm/tar@6.2.0
+- pkg:maven/org.webjars.npm/tar@6.2.0?classifier=sources

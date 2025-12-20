@@ -1,3 +1,4 @@
+- pkg:maven/com.perforce.halm/reporting-tool@1.1.10?classifier=sources
 - pkg:maven/com.perforce.halm/reporting-tool@1.1.6?classifier=sources
 - pkg:maven/com.perforce.halm/reporting-tool@1.1.7?classifier=sources
 - pkg:maven/com.perforce.halm/reporting-tool@1.1.8?classifier=sources

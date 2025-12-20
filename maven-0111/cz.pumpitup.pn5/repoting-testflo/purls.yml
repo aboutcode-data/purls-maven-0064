@@ -74,6 +74,8 @@
 - pkg:maven/cz.pumpitup.pn5/repoting-testflo@0.7.42?classifier=sources
 - pkg:maven/cz.pumpitup.pn5/repoting-testflo@0.7.43
 - pkg:maven/cz.pumpitup.pn5/repoting-testflo@0.7.43?classifier=sources
+- pkg:maven/cz.pumpitup.pn5/repoting-testflo@0.7.44
+- pkg:maven/cz.pumpitup.pn5/repoting-testflo@0.7.44?classifier=sources
 - pkg:maven/cz.pumpitup.pn5/repoting-testflo@0.7.6
 - pkg:maven/cz.pumpitup.pn5/repoting-testflo@0.7.6?classifier=sources
 - pkg:maven/cz.pumpitup.pn5/repoting-testflo@0.7.7

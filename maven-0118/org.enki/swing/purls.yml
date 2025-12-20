@@ -1,2 +1,4 @@
 - pkg:maven/org.enki/swing@0.0.63
 - pkg:maven/org.enki/swing@0.0.63?classifier=sources
+- pkg:maven/org.enki/swing@0.0.72
+- pkg:maven/org.enki/swing@0.0.72?classifier=sources

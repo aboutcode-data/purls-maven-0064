@@ -10,3 +10,5 @@
 - pkg:maven/com.raxdenstudios/commons-core@5.0.2?classifier=sources
 - pkg:maven/com.raxdenstudios/commons-core@5.0.3?classifier=sources
 - pkg:maven/com.raxdenstudios/commons-core@5.0.4?classifier=sources
+- pkg:maven/com.raxdenstudios/commons-core@5.1.0?classifier=sources
+- pkg:maven/com.raxdenstudios/commons-core@5.2.0?classifier=sources

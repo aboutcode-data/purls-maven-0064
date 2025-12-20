@@ -30,3 +30,5 @@
 - pkg:maven/net.sf.matrixjavalib.build/checkstyle-config@1.9?classifier=sources
 - pkg:maven/net.sf.matrixjavalib.build/checkstyle-config@18
 - pkg:maven/net.sf.matrixjavalib.build/checkstyle-config@18?classifier=sources
+- pkg:maven/net.sf.matrixjavalib.build/checkstyle-config@19
+- pkg:maven/net.sf.matrixjavalib.build/checkstyle-config@19?classifier=sources

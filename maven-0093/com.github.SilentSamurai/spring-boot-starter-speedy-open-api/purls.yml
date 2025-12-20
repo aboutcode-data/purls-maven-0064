@@ -1,0 +1,2 @@
+- pkg:maven/com.github.SilentSamurai/spring-boot-starter-speedy-open-api@0.0.2
+- pkg:maven/com.github.SilentSamurai/spring-boot-starter-speedy-open-api@0.0.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.vmunier/sbt-web-scalajs_2.12_1.0@1.3.0
+- pkg:maven/com.vmunier/sbt-web-scalajs_2.12_1.0@1.3.0?classifier=sources

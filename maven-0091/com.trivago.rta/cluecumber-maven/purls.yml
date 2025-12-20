@@ -8,3 +8,5 @@
 - pkg:maven/com.trivago.rta/cluecumber-maven@3.3.0
 - pkg:maven/com.trivago.rta/cluecumber-maven@3.3.1
 - pkg:maven/com.trivago.rta/cluecumber-maven@3.4.0
+- pkg:maven/com.trivago.rta/cluecumber-maven@3.5.0
+- pkg:maven/com.trivago.rta/cluecumber-maven@3.5.1

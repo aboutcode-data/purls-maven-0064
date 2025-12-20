@@ -4,4 +4,6 @@
 - pkg:maven/com.erpya/adempiere-business-processors@1.0.3?classifier=sources
 - pkg:maven/com.erpya/adempiere-business-processors@1.0.4?classifier=sources
 - pkg:maven/com.erpya/adempiere-business-processors@1.0.5?classifier=sources
+- pkg:maven/com.erpya/adempiere-business-processors@adempiere-3.9.4-abp-1.0.3?classifier=sources
+- pkg:maven/com.erpya/adempiere-business-processors@adempiere-3.9.4-abp-1.0.4?classifier=sources
 - pkg:maven/com.erpya/adempiere-business-processors@shw-1.0.0?classifier=sources

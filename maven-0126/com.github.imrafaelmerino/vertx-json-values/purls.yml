@@ -12,3 +12,5 @@
 - pkg:maven/com.github.imrafaelmerino/vertx-json-values@0.7?classifier=sources
 - pkg:maven/com.github.imrafaelmerino/vertx-json-values@0.8
 - pkg:maven/com.github.imrafaelmerino/vertx-json-values@0.8?classifier=sources
+- pkg:maven/com.github.imrafaelmerino/vertx-json-values@1.0.0
+- pkg:maven/com.github.imrafaelmerino/vertx-json-values@1.0.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.enki/geo@0.0.68
 - pkg:maven/org.enki/geo@0.0.68?classifier=sources
+- pkg:maven/org.enki/geo@0.0.69
+- pkg:maven/org.enki/geo@0.0.69?classifier=sources

@@ -16,6 +16,8 @@
 - pkg:maven/org.apache.camel.springboot/camel-hyperledger-aries-starter@3.20.6?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-hyperledger-aries-starter@3.20.7
 - pkg:maven/org.apache.camel.springboot/camel-hyperledger-aries-starter@3.20.7?classifier=sources
+- pkg:maven/org.apache.camel.springboot/camel-hyperledger-aries-starter@3.20.8
+- pkg:maven/org.apache.camel.springboot/camel-hyperledger-aries-starter@3.20.8?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-hyperledger-aries-starter@3.21.0
 - pkg:maven/org.apache.camel.springboot/camel-hyperledger-aries-starter@3.21.0?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-hyperledger-aries-starter@3.21.1

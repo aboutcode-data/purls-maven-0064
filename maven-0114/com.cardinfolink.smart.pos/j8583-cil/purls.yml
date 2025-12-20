@@ -1,1 +1,2 @@
 - pkg:maven/com.cardinfolink.smart.pos/j8583-cil@1.0?classifier=sources
+- pkg:maven/com.cardinfolink.smart.pos/j8583-cil@1.1?classifier=sources

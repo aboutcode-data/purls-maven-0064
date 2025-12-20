@@ -62,3 +62,5 @@
 - pkg:maven/io.github.happybavarian07/Admin-Panel@8.3.2?classifier=sources
 - pkg:maven/io.github.happybavarian07/Admin-Panel@8.4.0
 - pkg:maven/io.github.happybavarian07/Admin-Panel@8.4.0?classifier=sources
+- pkg:maven/io.github.happybavarian07/Admin-Panel@8.6.0
+- pkg:maven/io.github.happybavarian07/Admin-Panel@8.6.0?classifier=sources

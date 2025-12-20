@@ -1,0 +1,4 @@
+- pkg:maven/com.github.karelcemus/play-i18n_3@2.4.0
+- pkg:maven/com.github.karelcemus/play-i18n_3@2.4.0?classifier=sources
+- pkg:maven/com.github.karelcemus/play-i18n_3@3.0.0
+- pkg:maven/com.github.karelcemus/play-i18n_3@3.0.0?classifier=sources

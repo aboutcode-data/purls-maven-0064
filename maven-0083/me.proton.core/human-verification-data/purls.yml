@@ -62,6 +62,12 @@
 - pkg:maven/me.proton.core/human-verification-data@17.1.0?classifier=sources
 - pkg:maven/me.proton.core/human-verification-data@17.2.0?classifier=sources
 - pkg:maven/me.proton.core/human-verification-data@17.2.1?classifier=sources
+- pkg:maven/me.proton.core/human-verification-data@17.3.0?classifier=sources
+- pkg:maven/me.proton.core/human-verification-data@18.0.0?classifier=sources
+- pkg:maven/me.proton.core/human-verification-data@18.1.0?classifier=sources
+- pkg:maven/me.proton.core/human-verification-data@18.1.1?classifier=sources
+- pkg:maven/me.proton.core/human-verification-data@18.2.0?classifier=sources
+- pkg:maven/me.proton.core/human-verification-data@18.2.1?classifier=sources
 - pkg:maven/me.proton.core/human-verification-data@2.0.0-alpha01?classifier=sources
 - pkg:maven/me.proton.core/human-verification-data@2.0.0?classifier=sources
 - pkg:maven/me.proton.core/human-verification-data@3.0.0?classifier=sources

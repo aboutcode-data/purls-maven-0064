@@ -32,3 +32,4 @@
 - pkg:maven/org.bonitasoft.engine/bonita-engine-standalone@7.9.5
 - pkg:maven/org.bonitasoft.engine/bonita-engine-standalone@7.9.5?classifier=sources
 - pkg:maven/org.bonitasoft.engine/bonita-engine-standalone@8.0.0?classifier=sources
+- pkg:maven/org.bonitasoft.engine/bonita-engine-standalone@9.0.0?classifier=sources

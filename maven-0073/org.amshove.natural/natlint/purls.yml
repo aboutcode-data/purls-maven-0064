@@ -1,1 +1,2 @@
+- pkg:maven/org.amshove.natural/natlint@0.10?classifier=sources
 - pkg:maven/org.amshove.natural/natlint@0.9?classifier=sources

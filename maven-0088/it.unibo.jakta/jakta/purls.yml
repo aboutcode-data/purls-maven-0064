@@ -22,7 +22,17 @@
 - pkg:maven/it.unibo.jakta/jakta@0.7.23?classifier=sources
 - pkg:maven/it.unibo.jakta/jakta@0.7.24?classifier=sources
 - pkg:maven/it.unibo.jakta/jakta@0.7.25?classifier=sources
+- pkg:maven/it.unibo.jakta/jakta@0.7.26?classifier=sources
+- pkg:maven/it.unibo.jakta/jakta@0.7.27?classifier=sources
+- pkg:maven/it.unibo.jakta/jakta@0.7.28?classifier=sources
+- pkg:maven/it.unibo.jakta/jakta@0.7.29?classifier=sources
 - pkg:maven/it.unibo.jakta/jakta@0.7.2?classifier=sources
+- pkg:maven/it.unibo.jakta/jakta@0.7.30?classifier=sources
+- pkg:maven/it.unibo.jakta/jakta@0.7.31?classifier=sources
+- pkg:maven/it.unibo.jakta/jakta@0.7.32?classifier=sources
+- pkg:maven/it.unibo.jakta/jakta@0.7.33?classifier=sources
+- pkg:maven/it.unibo.jakta/jakta@0.7.34?classifier=sources
+- pkg:maven/it.unibo.jakta/jakta@0.7.35?classifier=sources
 - pkg:maven/it.unibo.jakta/jakta@0.7.3?classifier=sources
 - pkg:maven/it.unibo.jakta/jakta@0.7.4?classifier=sources
 - pkg:maven/it.unibo.jakta/jakta@0.7.5?classifier=sources

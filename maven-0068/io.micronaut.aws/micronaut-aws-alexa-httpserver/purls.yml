@@ -123,3 +123,4 @@
 - pkg:maven/io.micronaut.aws/micronaut-aws-alexa-httpserver@4.0.6?classifier=sources
 - pkg:maven/io.micronaut.aws/micronaut-aws-alexa-httpserver@4.0.7?classifier=sources
 - pkg:maven/io.micronaut.aws/micronaut-aws-alexa-httpserver@4.1.0?classifier=sources
+- pkg:maven/io.micronaut.aws/micronaut-aws-alexa-httpserver@4.1.1?classifier=sources

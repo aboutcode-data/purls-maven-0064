@@ -2,3 +2,5 @@
 - pkg:maven/eu.clarin.switchboard/profiler@1.0.10?classifier=sources
 - pkg:maven/eu.clarin.switchboard/profiler@1.0.11
 - pkg:maven/eu.clarin.switchboard/profiler@1.0.11?classifier=sources
+- pkg:maven/eu.clarin.switchboard/profiler@1.0.14
+- pkg:maven/eu.clarin.switchboard/profiler@1.0.14?classifier=sources

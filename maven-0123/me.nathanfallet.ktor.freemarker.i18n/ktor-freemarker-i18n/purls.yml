@@ -2,3 +2,5 @@
 - pkg:maven/me.nathanfallet.ktor.freemarker.i18n/ktor-freemarker-i18n@1.0.0?classifier=sources
 - pkg:maven/me.nathanfallet.ktor.freemarker.i18n/ktor-freemarker-i18n@1.0.1
 - pkg:maven/me.nathanfallet.ktor.freemarker.i18n/ktor-freemarker-i18n@1.0.1?classifier=sources
+- pkg:maven/me.nathanfallet.ktor.freemarker.i18n/ktor-freemarker-i18n@1.2.1
+- pkg:maven/me.nathanfallet.ktor.freemarker.i18n/ktor-freemarker-i18n@1.2.1?classifier=sources

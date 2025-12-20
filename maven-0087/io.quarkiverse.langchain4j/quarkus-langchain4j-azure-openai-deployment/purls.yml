@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-azure-openai-deployment@0.2.0
+- pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-azure-openai-deployment@0.2.0?classifier=sources

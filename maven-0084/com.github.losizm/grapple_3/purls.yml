@@ -8,5 +8,7 @@
 - pkg:maven/com.github.losizm/grapple_3@12.1.0?classifier=sources
 - pkg:maven/com.github.losizm/grapple_3@13.0.0
 - pkg:maven/com.github.losizm/grapple_3@13.0.0?classifier=sources
+- pkg:maven/com.github.losizm/grapple_3@14.0.0
+- pkg:maven/com.github.losizm/grapple_3@14.0.0?classifier=sources
 - pkg:maven/com.github.losizm/grapple_3@9.0.0
 - pkg:maven/com.github.losizm/grapple_3@9.0.0?classifier=sources

@@ -1,3 +1,12 @@
+- pkg:maven/io.hyperfoil.tools/horreum-infra-common@0.10.0
+- pkg:maven/io.hyperfoil.tools/horreum-infra-common@0.10.1
+- pkg:maven/io.hyperfoil.tools/horreum-infra-common@0.10.2
+- pkg:maven/io.hyperfoil.tools/horreum-infra-common@0.10.3
+- pkg:maven/io.hyperfoil.tools/horreum-infra-common@0.10.3?classifier=sources
+- pkg:maven/io.hyperfoil.tools/horreum-infra-common@0.10.4
+- pkg:maven/io.hyperfoil.tools/horreum-infra-common@0.10.4?classifier=sources
+- pkg:maven/io.hyperfoil.tools/horreum-infra-common@0.10.5
+- pkg:maven/io.hyperfoil.tools/horreum-infra-common@0.10.5?classifier=sources
 - pkg:maven/io.hyperfoil.tools/horreum-infra-common@0.8.0
 - pkg:maven/io.hyperfoil.tools/horreum-infra-common@0.8.1
 - pkg:maven/io.hyperfoil.tools/horreum-infra-common@0.8.2
@@ -9,3 +18,5 @@
 - pkg:maven/io.hyperfoil.tools/horreum-infra-common@0.9.2
 - pkg:maven/io.hyperfoil.tools/horreum-infra-common@0.9.3
 - pkg:maven/io.hyperfoil.tools/horreum-infra-common@0.9.4
+- pkg:maven/io.hyperfoil.tools/horreum-infra-common@0.9.5
+- pkg:maven/io.hyperfoil.tools/horreum-infra-common@0.9.6

@@ -86,6 +86,7 @@
 - pkg:maven/com.orientechnologies/orientdb-community@3.2.21?classifier=sources
 - pkg:maven/com.orientechnologies/orientdb-community@3.2.22?classifier=sources
 - pkg:maven/com.orientechnologies/orientdb-community@3.2.23?classifier=sources
+- pkg:maven/com.orientechnologies/orientdb-community@3.2.24?classifier=sources
 - pkg:maven/com.orientechnologies/orientdb-community@3.2.2?classifier=sources
 - pkg:maven/com.orientechnologies/orientdb-community@3.2.3?classifier=sources
 - pkg:maven/com.orientechnologies/orientdb-community@3.2.4?classifier=sources

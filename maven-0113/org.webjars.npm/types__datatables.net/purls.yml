@@ -16,3 +16,5 @@
 - pkg:maven/org.webjars.npm/types__datatables.net@1.10.24?classifier=sources
 - pkg:maven/org.webjars.npm/types__datatables.net@1.10.26
 - pkg:maven/org.webjars.npm/types__datatables.net@1.10.26?classifier=sources
+- pkg:maven/org.webjars.npm/types__datatables.net@1.10.28
+- pkg:maven/org.webjars.npm/types__datatables.net@1.10.28?classifier=sources

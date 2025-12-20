@@ -68,3 +68,7 @@
 - pkg:maven/tech.jhipster.lite/jhlite@0.45.0?classifier=sources
 - pkg:maven/tech.jhipster.lite/jhlite@0.46.0
 - pkg:maven/tech.jhipster.lite/jhlite@0.46.0?classifier=sources
+- pkg:maven/tech.jhipster.lite/jhlite@0.47.0
+- pkg:maven/tech.jhipster.lite/jhlite@0.47.0?classifier=sources
+- pkg:maven/tech.jhipster.lite/jhlite@0.48.0
+- pkg:maven/tech.jhipster.lite/jhlite@0.48.0?classifier=sources

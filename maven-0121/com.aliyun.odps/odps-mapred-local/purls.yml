@@ -84,3 +84,7 @@
 - pkg:maven/com.aliyun.odps/odps-mapred-local@0.45.2-public?classifier=sources
 - pkg:maven/com.aliyun.odps/odps-mapred-local@0.45.3-public
 - pkg:maven/com.aliyun.odps/odps-mapred-local@0.45.3-public?classifier=sources
+- pkg:maven/com.aliyun.odps/odps-mapred-local@0.45.5-public
+- pkg:maven/com.aliyun.odps/odps-mapred-local@0.45.5-public?classifier=sources
+- pkg:maven/com.aliyun.odps/odps-mapred-local@0.45.6-public
+- pkg:maven/com.aliyun.odps/odps-mapred-local@0.45.6-public?classifier=sources

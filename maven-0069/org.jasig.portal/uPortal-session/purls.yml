@@ -1,0 +1,2 @@
+- pkg:maven/org.jasig.portal/uPortal-session@5.16.0
+- pkg:maven/org.jasig.portal/uPortal-session@5.16.0?classifier=sources

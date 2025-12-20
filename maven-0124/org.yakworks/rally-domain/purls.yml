@@ -117,3 +117,4 @@
 - pkg:maven/org.yakworks/rally-domain@7.3.58?classifier=sources
 - pkg:maven/org.yakworks/rally-domain@7.3.59?classifier=sources
 - pkg:maven/org.yakworks/rally-domain@7.3.60?classifier=sources
+- pkg:maven/org.yakworks/rally-domain@7.3.61?classifier=sources

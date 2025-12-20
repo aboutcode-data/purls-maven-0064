@@ -15,3 +15,6 @@
 - pkg:maven/dev.inmo/tgbotapi.api-linuxx64@9.2.2?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.api-linuxx64@9.2.3?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.api-linuxx64@9.2.4?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.api-linuxx64@9.3.0?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.api-linuxx64@9.4.0?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.api-linuxx64@9.4.1?classifier=sources

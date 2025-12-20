@@ -1,0 +1,4 @@
+- pkg:maven/com.pinapelz/jholodex@1.4
+- pkg:maven/com.pinapelz/jholodex@1.41
+- pkg:maven/com.pinapelz/jholodex@1.41?classifier=sources
+- pkg:maven/com.pinapelz/jholodex@1.4?classifier=sources

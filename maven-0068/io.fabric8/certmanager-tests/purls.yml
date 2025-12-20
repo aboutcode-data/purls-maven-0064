@@ -40,3 +40,4 @@
 - pkg:maven/io.fabric8/certmanager-tests@6.8.1
 - pkg:maven/io.fabric8/certmanager-tests@6.9.0
 - pkg:maven/io.fabric8/certmanager-tests@6.9.1
+- pkg:maven/io.fabric8/certmanager-tests@6.9.2

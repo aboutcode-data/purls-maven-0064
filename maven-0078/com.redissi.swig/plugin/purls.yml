@@ -2,3 +2,6 @@
 - pkg:maven/com.redissi.swig/plugin@0.5.0?classifier=sources
 - pkg:maven/com.redissi.swig/plugin@0.5.1?classifier=sources
 - pkg:maven/com.redissi.swig/plugin@1.0.0-beta01?classifier=sources
+- pkg:maven/com.redissi.swig/plugin@1.0.0-beta02?classifier=sources
+- pkg:maven/com.redissi.swig/plugin@1.0.0-beta03?classifier=sources
+- pkg:maven/com.redissi.swig/plugin@1.0.0-beta04?classifier=sources

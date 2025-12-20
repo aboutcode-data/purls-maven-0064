@@ -100,3 +100,7 @@
 - pkg:maven/org.scalameta/mdoc-js_2.13@2.3.8?classifier=sources
 - pkg:maven/org.scalameta/mdoc-js_2.13@2.4.0
 - pkg:maven/org.scalameta/mdoc-js_2.13@2.4.0?classifier=sources
+- pkg:maven/org.scalameta/mdoc-js_2.13@2.5.0
+- pkg:maven/org.scalameta/mdoc-js_2.13@2.5.0?classifier=sources
+- pkg:maven/org.scalameta/mdoc-js_2.13@2.5.1
+- pkg:maven/org.scalameta/mdoc-js_2.13@2.5.1?classifier=sources

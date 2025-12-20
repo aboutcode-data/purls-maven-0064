@@ -134,6 +134,9 @@
 - pkg:maven/org.apache.felix/org.apache.felix.http.jetty@4.2.18?classifier=source-release&type=zip
 - pkg:maven/org.apache.felix/org.apache.felix.http.jetty@4.2.18?classifier=sources
 - pkg:maven/org.apache.felix/org.apache.felix.http.jetty@4.2.2
+- pkg:maven/org.apache.felix/org.apache.felix.http.jetty@4.2.20
+- pkg:maven/org.apache.felix/org.apache.felix.http.jetty@4.2.20?classifier=source-release&type=zip
+- pkg:maven/org.apache.felix/org.apache.felix.http.jetty@4.2.20?classifier=sources
 - pkg:maven/org.apache.felix/org.apache.felix.http.jetty@4.2.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.felix/org.apache.felix.http.jetty@4.2.2?classifier=sources
 - pkg:maven/org.apache.felix/org.apache.felix.http.jetty@4.2.6
@@ -163,3 +166,6 @@
 - pkg:maven/org.apache.felix/org.apache.felix.http.jetty@5.1.2
 - pkg:maven/org.apache.felix/org.apache.felix.http.jetty@5.1.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.felix/org.apache.felix.http.jetty@5.1.2?classifier=sources
+- pkg:maven/org.apache.felix/org.apache.felix.http.jetty@5.1.4
+- pkg:maven/org.apache.felix/org.apache.felix.http.jetty@5.1.4?classifier=source-release&type=zip
+- pkg:maven/org.apache.felix/org.apache.felix.http.jetty@5.1.4?classifier=sources

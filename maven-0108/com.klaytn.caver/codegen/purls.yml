@@ -26,6 +26,11 @@
 - pkg:maven/com.klaytn.caver/codegen@1.10.2-rc.1-android?classifier=sources
 - pkg:maven/com.klaytn.caver/codegen@1.10.2-rc.1?classifier=sources
 - pkg:maven/com.klaytn.caver/codegen@1.10.2?classifier=sources
+- pkg:maven/com.klaytn.caver/codegen@1.11.0-rc.1-android?classifier=sources
+- pkg:maven/com.klaytn.caver/codegen@1.11.1-android?classifier=sources
+- pkg:maven/com.klaytn.caver/codegen@1.11.1-rc.1-android?classifier=sources
+- pkg:maven/com.klaytn.caver/codegen@1.11.1-rc.1?classifier=sources
+- pkg:maven/com.klaytn.caver/codegen@1.11.1?classifier=sources
 - pkg:maven/com.klaytn.caver/codegen@1.2.0
 - pkg:maven/com.klaytn.caver/codegen@1.2.0-android
 - pkg:maven/com.klaytn.caver/codegen@1.2.0-android?classifier=sources

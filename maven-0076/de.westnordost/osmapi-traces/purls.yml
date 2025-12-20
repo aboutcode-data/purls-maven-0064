@@ -10,3 +10,5 @@
 - pkg:maven/de.westnordost/osmapi-traces@1.4?classifier=sources
 - pkg:maven/de.westnordost/osmapi-traces@2.0
 - pkg:maven/de.westnordost/osmapi-traces@2.0?classifier=sources
+- pkg:maven/de.westnordost/osmapi-traces@3.0
+- pkg:maven/de.westnordost/osmapi-traces@3.0?classifier=sources

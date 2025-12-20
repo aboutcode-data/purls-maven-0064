@@ -4,3 +4,7 @@
 - pkg:maven/com.github.losizm/bolster_3@3.0.0?classifier=sources
 - pkg:maven/com.github.losizm/bolster_3@4.0.0
 - pkg:maven/com.github.losizm/bolster_3@4.0.0?classifier=sources
+- pkg:maven/com.github.losizm/bolster_3@5.0.0
+- pkg:maven/com.github.losizm/bolster_3@5.0.0?classifier=sources
+- pkg:maven/com.github.losizm/bolster_3@5.1.0
+- pkg:maven/com.github.losizm/bolster_3@5.1.0?classifier=sources

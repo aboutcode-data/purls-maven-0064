@@ -1,1 +1,2 @@
 - pkg:maven/me.nathanfallet.usecases/UseCases-native@1.0.0?classifier=sources
+- pkg:maven/me.nathanfallet.usecases/UseCases-native@1.2.0?classifier=sources

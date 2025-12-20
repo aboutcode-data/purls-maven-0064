@@ -66,6 +66,8 @@
 - pkg:maven/com.vaadin/vaadin-renderer-flow@22.1.3?classifier=sources
 - pkg:maven/com.vaadin/vaadin-renderer-flow@22.1.4
 - pkg:maven/com.vaadin/vaadin-renderer-flow@22.1.4?classifier=sources
+- pkg:maven/com.vaadin/vaadin-renderer-flow@22.1.5
+- pkg:maven/com.vaadin/vaadin-renderer-flow@22.1.5?classifier=sources
 - pkg:maven/com.vaadin/vaadin-renderer-flow@23.0.0
 - pkg:maven/com.vaadin/vaadin-renderer-flow@23.0.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-renderer-flow@23.0.1
@@ -211,6 +213,12 @@
 - pkg:maven/com.vaadin/vaadin-renderer-flow@23.3.25?classifier=sources
 - pkg:maven/com.vaadin/vaadin-renderer-flow@23.3.26
 - pkg:maven/com.vaadin/vaadin-renderer-flow@23.3.26?classifier=sources
+- pkg:maven/com.vaadin/vaadin-renderer-flow@23.3.27
+- pkg:maven/com.vaadin/vaadin-renderer-flow@23.3.27?classifier=sources
+- pkg:maven/com.vaadin/vaadin-renderer-flow@23.3.28
+- pkg:maven/com.vaadin/vaadin-renderer-flow@23.3.28?classifier=sources
+- pkg:maven/com.vaadin/vaadin-renderer-flow@23.3.29
+- pkg:maven/com.vaadin/vaadin-renderer-flow@23.3.29?classifier=sources
 - pkg:maven/com.vaadin/vaadin-renderer-flow@23.3.2?classifier=sources
 - pkg:maven/com.vaadin/vaadin-renderer-flow@23.3.3
 - pkg:maven/com.vaadin/vaadin-renderer-flow@23.3.3?classifier=sources
@@ -269,6 +277,8 @@
 - pkg:maven/com.vaadin/vaadin-renderer-flow@24.1.13?classifier=sources
 - pkg:maven/com.vaadin/vaadin-renderer-flow@24.1.14
 - pkg:maven/com.vaadin/vaadin-renderer-flow@24.1.14?classifier=sources
+- pkg:maven/com.vaadin/vaadin-renderer-flow@24.1.15
+- pkg:maven/com.vaadin/vaadin-renderer-flow@24.1.15?classifier=sources
 - pkg:maven/com.vaadin/vaadin-renderer-flow@24.1.1?classifier=sources
 - pkg:maven/com.vaadin/vaadin-renderer-flow@24.1.2
 - pkg:maven/com.vaadin/vaadin-renderer-flow@24.1.2?classifier=sources
@@ -290,3 +300,11 @@
 - pkg:maven/com.vaadin/vaadin-renderer-flow@24.2.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-renderer-flow@24.2.1
 - pkg:maven/com.vaadin/vaadin-renderer-flow@24.2.1?classifier=sources
+- pkg:maven/com.vaadin/vaadin-renderer-flow@24.2.2
+- pkg:maven/com.vaadin/vaadin-renderer-flow@24.2.2?classifier=sources
+- pkg:maven/com.vaadin/vaadin-renderer-flow@24.2.3
+- pkg:maven/com.vaadin/vaadin-renderer-flow@24.2.3?classifier=sources
+- pkg:maven/com.vaadin/vaadin-renderer-flow@24.2.4
+- pkg:maven/com.vaadin/vaadin-renderer-flow@24.2.4?classifier=sources
+- pkg:maven/com.vaadin/vaadin-renderer-flow@24.2.5
+- pkg:maven/com.vaadin/vaadin-renderer-flow@24.2.5?classifier=sources

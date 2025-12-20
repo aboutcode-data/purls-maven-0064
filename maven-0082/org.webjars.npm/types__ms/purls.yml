@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/types__ms@0.7.31?classifier=sources
 - pkg:maven/org.webjars.npm/types__ms@0.7.32
 - pkg:maven/org.webjars.npm/types__ms@0.7.32?classifier=sources
+- pkg:maven/org.webjars.npm/types__ms@0.7.34
+- pkg:maven/org.webjars.npm/types__ms@0.7.34?classifier=sources

@@ -11,3 +11,4 @@
 - pkg:maven/org.embulk/embulk-util-config@0.3.3?classifier=sources
 - pkg:maven/org.embulk/embulk-util-config@0.3.4?classifier=sources
 - pkg:maven/org.embulk/embulk-util-config@0.4.0?classifier=sources
+- pkg:maven/org.embulk/embulk-util-config@0.4.1?classifier=sources

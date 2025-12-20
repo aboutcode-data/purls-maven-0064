@@ -240,3 +240,5 @@
 - pkg:maven/io.zipkin.zipkin2/zipkin@2.9.3?classifier=sources
 - pkg:maven/io.zipkin.zipkin2/zipkin@2.9.4
 - pkg:maven/io.zipkin.zipkin2/zipkin@2.9.4?classifier=sources
+- pkg:maven/io.zipkin.zipkin2/zipkin@3.0.0-rc0
+- pkg:maven/io.zipkin.zipkin2/zipkin@3.0.0-rc0?classifier=sources

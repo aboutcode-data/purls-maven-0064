@@ -1,0 +1,1 @@
+- pkg:maven/io.kestra.plugin/plugin-jdbc-sqlite@0.13.0?classifier=sources

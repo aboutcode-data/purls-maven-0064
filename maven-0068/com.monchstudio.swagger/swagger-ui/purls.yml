@@ -1,0 +1,2 @@
+- pkg:maven/com.monchstudio.swagger/swagger-ui@2.1.2
+- pkg:maven/com.monchstudio.swagger/swagger-ui@2.1.2?classifier=sources

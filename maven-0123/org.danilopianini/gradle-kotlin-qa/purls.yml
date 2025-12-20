@@ -78,6 +78,9 @@
 - pkg:maven/org.danilopianini/gradle-kotlin-qa@0.52.0?classifier=sources
 - pkg:maven/org.danilopianini/gradle-kotlin-qa@0.53.0?classifier=sources
 - pkg:maven/org.danilopianini/gradle-kotlin-qa@0.54.0?classifier=sources
+- pkg:maven/org.danilopianini/gradle-kotlin-qa@0.54.1?classifier=sources
+- pkg:maven/org.danilopianini/gradle-kotlin-qa@0.55.0?classifier=sources
+- pkg:maven/org.danilopianini/gradle-kotlin-qa@0.55.1?classifier=sources
 - pkg:maven/org.danilopianini/gradle-kotlin-qa@0.6.0?classifier=sources
 - pkg:maven/org.danilopianini/gradle-kotlin-qa@0.7.0?classifier=sources
 - pkg:maven/org.danilopianini/gradle-kotlin-qa@0.7.1?classifier=sources

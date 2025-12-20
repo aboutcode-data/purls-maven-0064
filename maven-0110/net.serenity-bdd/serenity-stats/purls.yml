@@ -469,8 +469,16 @@
 - pkg:maven/net.serenity-bdd/serenity-stats@4.0.16?classifier=sources
 - pkg:maven/net.serenity-bdd/serenity-stats@4.0.18
 - pkg:maven/net.serenity-bdd/serenity-stats@4.0.18?classifier=sources
+- pkg:maven/net.serenity-bdd/serenity-stats@4.0.19
+- pkg:maven/net.serenity-bdd/serenity-stats@4.0.19?classifier=sources
 - pkg:maven/net.serenity-bdd/serenity-stats@4.0.1?classifier=sources
 - pkg:maven/net.serenity-bdd/serenity-stats@4.0.2
+- pkg:maven/net.serenity-bdd/serenity-stats@4.0.21
+- pkg:maven/net.serenity-bdd/serenity-stats@4.0.21?classifier=sources
+- pkg:maven/net.serenity-bdd/serenity-stats@4.0.22
+- pkg:maven/net.serenity-bdd/serenity-stats@4.0.22?classifier=sources
+- pkg:maven/net.serenity-bdd/serenity-stats@4.0.24
+- pkg:maven/net.serenity-bdd/serenity-stats@4.0.24?classifier=sources
 - pkg:maven/net.serenity-bdd/serenity-stats@4.0.2?classifier=sources
 - pkg:maven/net.serenity-bdd/serenity-stats@4.0.3
 - pkg:maven/net.serenity-bdd/serenity-stats@4.0.3?classifier=sources

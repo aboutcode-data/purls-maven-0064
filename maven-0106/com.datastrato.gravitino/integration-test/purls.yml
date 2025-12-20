@@ -1,0 +1,1 @@
+- pkg:maven/com.datastrato.gravitino/integration-test@0.1.8?classifier=sources
