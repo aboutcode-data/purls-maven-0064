@@ -1014,6 +1014,7 @@
 - pkg:maven/com.liferay/com.liferay.document.library.service@5.0.8?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.service@5.0.9
 - pkg:maven/com.liferay/com.liferay.document.library.service@5.0.90?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.service@5.0.91?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.service@5.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.service@5.0.9?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.service@6.0.0
@@ -1055,6 +1056,8 @@
 - pkg:maven/com.liferay/com.liferay.document.library.service@6.0.122?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.service@6.0.123?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.service@6.0.124?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.service@6.0.125?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.service@6.0.126?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.service@6.0.12?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.service@6.0.12?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.service@6.0.13

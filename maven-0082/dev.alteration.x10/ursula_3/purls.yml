@@ -1,0 +1,2 @@
+- pkg:maven/dev.alteration.x10/ursula_3@0.0.1
+- pkg:maven/dev.alteration.x10/ursula_3@0.0.1?classifier=sources

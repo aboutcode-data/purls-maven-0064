@@ -5,3 +5,7 @@
 - pkg:maven/io.quarkiverse.fx/quarkus-fx-docs@0.4.0
 - pkg:maven/io.quarkiverse.fx/quarkus-fx-docs@0.4.1
 - pkg:maven/io.quarkiverse.fx/quarkus-fx-docs@0.4.2
+- pkg:maven/io.quarkiverse.fx/quarkus-fx-docs@0.5.0
+- pkg:maven/io.quarkiverse.fx/quarkus-fx-docs@0.5.1
+- pkg:maven/io.quarkiverse.fx/quarkus-fx-docs@0.5.2
+- pkg:maven/io.quarkiverse.fx/quarkus-fx-docs@0.5.3

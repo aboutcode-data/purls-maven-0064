@@ -68,3 +68,4 @@
 - pkg:maven/org.apache.syncope/syncope@3.0.5?classifier=source-release&type=zip
 - pkg:maven/org.apache.syncope/syncope@3.0.6?classifier=source-release&type=zip
 - pkg:maven/org.apache.syncope/syncope@3.0.7?classifier=source-release&type=zip
+- pkg:maven/org.apache.syncope/syncope@3.0.8?classifier=source-release&type=zip

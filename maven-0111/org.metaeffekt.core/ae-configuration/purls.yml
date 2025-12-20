@@ -34,6 +34,10 @@
 - pkg:maven/org.metaeffekt.core/ae-configuration@0.114.0?classifier=sources
 - pkg:maven/org.metaeffekt.core/ae-configuration@0.115.0
 - pkg:maven/org.metaeffekt.core/ae-configuration@0.115.0?classifier=sources
+- pkg:maven/org.metaeffekt.core/ae-configuration@0.116.0
+- pkg:maven/org.metaeffekt.core/ae-configuration@0.116.0?classifier=sources
+- pkg:maven/org.metaeffekt.core/ae-configuration@0.117.0
+- pkg:maven/org.metaeffekt.core/ae-configuration@0.117.0?classifier=sources
 - pkg:maven/org.metaeffekt.core/ae-configuration@0.12.0
 - pkg:maven/org.metaeffekt.core/ae-configuration@0.12.0?classifier=sources
 - pkg:maven/org.metaeffekt.core/ae-configuration@0.13.0

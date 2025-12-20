@@ -44,3 +44,5 @@
 - pkg:maven/fish.payara.arquillian/payara-micro-deployer@3.0.alpha8?type=war
 - pkg:maven/fish.payara.arquillian/payara-micro-deployer@3.0?classifier=sources
 - pkg:maven/fish.payara.arquillian/payara-micro-deployer@3.0?type=war
+- pkg:maven/fish.payara.arquillian/payara-micro-deployer@4.0.alpha1?classifier=sources
+- pkg:maven/fish.payara.arquillian/payara-micro-deployer@4.0.alpha1?type=war

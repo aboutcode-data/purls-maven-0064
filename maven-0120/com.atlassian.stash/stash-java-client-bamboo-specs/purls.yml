@@ -1,3 +1,4 @@
 - pkg:maven/com.atlassian.stash/stash-java-client-bamboo-specs@2.1.0
 - pkg:maven/com.atlassian.stash/stash-java-client-bamboo-specs@2.1.0?classifier=sources
 - pkg:maven/com.atlassian.stash/stash-java-client-bamboo-specs@2.3.11?classifier=sources
+- pkg:maven/com.atlassian.stash/stash-java-client-bamboo-specs@2.3.12?classifier=sources

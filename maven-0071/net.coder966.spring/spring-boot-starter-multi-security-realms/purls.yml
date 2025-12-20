@@ -8,3 +8,4 @@
 - pkg:maven/net.coder966.spring/spring-boot-starter-multi-security-realms@0.0.8?classifier=sources
 - pkg:maven/net.coder966.spring/spring-boot-starter-multi-security-realms@0.0.9?classifier=sources
 - pkg:maven/net.coder966.spring/spring-boot-starter-multi-security-realms@0.1.0?classifier=sources
+- pkg:maven/net.coder966.spring/spring-boot-starter-multi-security-realms@0.1.1?classifier=sources

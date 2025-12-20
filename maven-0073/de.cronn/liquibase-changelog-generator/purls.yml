@@ -1,0 +1,1 @@
+- pkg:maven/de.cronn/liquibase-changelog-generator@1.0?classifier=sources

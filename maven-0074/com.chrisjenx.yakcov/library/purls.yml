@@ -1,0 +1,5 @@
+- pkg:maven/com.chrisjenx.yakcov/library@1.0.0-5d3bba8?classifier=sources
+- pkg:maven/com.chrisjenx.yakcov/library@1.0.1-aa0f44c?classifier=sources
+- pkg:maven/com.chrisjenx.yakcov/library@1.0.1?classifier=sources
+- pkg:maven/com.chrisjenx.yakcov/library@1.0.2?classifier=sources
+- pkg:maven/com.chrisjenx.yakcov/library@1.0.3?classifier=sources

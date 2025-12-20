@@ -13,3 +13,4 @@
 - pkg:maven/com.factset.sdk/universalscreening@1.0.8?classifier=sources
 - pkg:maven/com.factset.sdk/universalscreening@1.0.9?classifier=sources
 - pkg:maven/com.factset.sdk/universalscreening@2.0.0?classifier=sources
+- pkg:maven/com.factset.sdk/universalscreening@2.1.0?classifier=sources

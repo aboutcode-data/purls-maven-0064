@@ -24,3 +24,5 @@
 - pkg:maven/me.zalo/ZBrowser@1.0.1.9.reup?classifier=sources
 - pkg:maven/me.zalo/ZBrowser@1.0.1.9?classifier=sources
 - pkg:maven/me.zalo/ZBrowser@1.0.2.0?classifier=sources
+- pkg:maven/me.zalo/ZBrowser@1.0.2.1?classifier=sources
+- pkg:maven/me.zalo/ZBrowser@1.0.2.2?classifier=sources

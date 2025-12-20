@@ -6,3 +6,7 @@
 - pkg:maven/org.metaeffekt.core/ae-container-control@0.114.0?classifier=sources
 - pkg:maven/org.metaeffekt.core/ae-container-control@0.115.0
 - pkg:maven/org.metaeffekt.core/ae-container-control@0.115.0?classifier=sources
+- pkg:maven/org.metaeffekt.core/ae-container-control@0.116.0
+- pkg:maven/org.metaeffekt.core/ae-container-control@0.116.0?classifier=sources
+- pkg:maven/org.metaeffekt.core/ae-container-control@0.117.0
+- pkg:maven/org.metaeffekt.core/ae-container-control@0.117.0?classifier=sources

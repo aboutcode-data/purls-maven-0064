@@ -173,4 +173,8 @@
 - pkg:maven/org.cdk8s/cdk8s-cdktf-resolver@0.0.91?classifier=sources
 - pkg:maven/org.cdk8s/cdk8s-cdktf-resolver@0.0.92
 - pkg:maven/org.cdk8s/cdk8s-cdktf-resolver@0.0.92?classifier=sources
+- pkg:maven/org.cdk8s/cdk8s-cdktf-resolver@0.0.93
+- pkg:maven/org.cdk8s/cdk8s-cdktf-resolver@0.0.93?classifier=sources
+- pkg:maven/org.cdk8s/cdk8s-cdktf-resolver@0.0.94
+- pkg:maven/org.cdk8s/cdk8s-cdktf-resolver@0.0.94?classifier=sources
 - pkg:maven/org.cdk8s/cdk8s-cdktf-resolver@0.0.9?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/io.github.electrostat-lab/snaploader@1.0.0-beta
+- pkg:maven/io.github.electrostat-lab/snaploader@1.0.0-beta?classifier=sources
+- pkg:maven/io.github.electrostat-lab/snaploader@1.0.0-delta
+- pkg:maven/io.github.electrostat-lab/snaploader@1.0.0-delta?classifier=sources
+- pkg:maven/io.github.electrostat-lab/snaploader@1.0.0-gamma
+- pkg:maven/io.github.electrostat-lab/snaploader@1.0.0-gamma?classifier=sources

@@ -1,3 +1,5 @@
 - pkg:maven/io.trino/trino-http-server-event-listener@449?classifier=sources
 - pkg:maven/io.trino/trino-http-server-event-listener@450?classifier=sources
 - pkg:maven/io.trino/trino-http-server-event-listener@451?classifier=sources
+- pkg:maven/io.trino/trino-http-server-event-listener@452?classifier=sources
+- pkg:maven/io.trino/trino-http-server-event-listener@453?classifier=sources

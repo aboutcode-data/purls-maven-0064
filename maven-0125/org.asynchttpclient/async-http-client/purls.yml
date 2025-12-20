@@ -286,9 +286,11 @@
 - pkg:maven/org.asynchttpclient/async-http-client@2.8.1?classifier=sources
 - pkg:maven/org.asynchttpclient/async-http-client@2.9.0
 - pkg:maven/org.asynchttpclient/async-http-client@2.9.0?classifier=sources
+- pkg:maven/org.asynchttpclient/async-http-client@3.0.0
 - pkg:maven/org.asynchttpclient/async-http-client@3.0.0.Beta1
 - pkg:maven/org.asynchttpclient/async-http-client@3.0.0.Beta1?classifier=sources
 - pkg:maven/org.asynchttpclient/async-http-client@3.0.0.Beta2
 - pkg:maven/org.asynchttpclient/async-http-client@3.0.0.Beta2?classifier=sources
 - pkg:maven/org.asynchttpclient/async-http-client@3.0.0.Beta3
 - pkg:maven/org.asynchttpclient/async-http-client@3.0.0.Beta3?classifier=sources
+- pkg:maven/org.asynchttpclient/async-http-client@3.0.0?classifier=sources

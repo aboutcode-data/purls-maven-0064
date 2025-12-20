@@ -6,3 +6,5 @@
 - pkg:maven/dev.jeka/openapi-plugin@0.10.38.2?classifier=sources
 - pkg:maven/dev.jeka/openapi-plugin@0.11.0-0
 - pkg:maven/dev.jeka/openapi-plugin@0.11.0-0?classifier=sources
+- pkg:maven/dev.jeka/openapi-plugin@0.11.0-1
+- pkg:maven/dev.jeka/openapi-plugin@0.11.0-1?classifier=sources

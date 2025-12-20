@@ -39,3 +39,5 @@
 - pkg:maven/io.github.emanuelvictor/commons@2.1?classifier=sources
 - pkg:maven/io.github.emanuelvictor/commons@2.2
 - pkg:maven/io.github.emanuelvictor/commons@2.2?classifier=sources
+- pkg:maven/io.github.emanuelvictor/commons@2.5
+- pkg:maven/io.github.emanuelvictor/commons@2.5?classifier=sources

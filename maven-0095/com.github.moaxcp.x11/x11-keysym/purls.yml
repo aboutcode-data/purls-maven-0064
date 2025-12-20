@@ -1,0 +1,2 @@
+- pkg:maven/com.github.moaxcp.x11/x11-keysym@0.18.1?classifier=sources
+- pkg:maven/com.github.moaxcp.x11/x11-keysym@0.18.2?classifier=sources

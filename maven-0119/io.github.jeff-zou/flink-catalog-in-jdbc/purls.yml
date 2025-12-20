@@ -50,3 +50,7 @@
 - pkg:maven/io.github.jeff-zou/flink-catalog-in-jdbc@1.8.8-flink-1.15?classifier=sources
 - pkg:maven/io.github.jeff-zou/flink-catalog-in-jdbc@1.8.8?classifier=sources
 - pkg:maven/io.github.jeff-zou/flink-catalog-in-jdbc@1.8?classifier=sources
+- pkg:maven/io.github.jeff-zou/flink-catalog-in-jdbc@2.0.0
+- pkg:maven/io.github.jeff-zou/flink-catalog-in-jdbc@2.0.0?classifier=sources
+- pkg:maven/io.github.jeff-zou/flink-catalog-in-jdbc@2.0.1
+- pkg:maven/io.github.jeff-zou/flink-catalog-in-jdbc@2.0.1?classifier=sources

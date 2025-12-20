@@ -1,1 +1,2 @@
 - pkg:maven/org.mvnpm/on-finished@2.3.0?classifier=sources
+- pkg:maven/org.mvnpm/on-finished@2.4.1?classifier=sources

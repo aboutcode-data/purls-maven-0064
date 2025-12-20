@@ -19,3 +19,7 @@
 - pkg:maven/com.github.leeonky/RESTful-cucumber@0.0.7?classifier=sources
 - pkg:maven/com.github.leeonky/RESTful-cucumber@0.0.8?classifier=sources
 - pkg:maven/com.github.leeonky/RESTful-cucumber@0.0.9?classifier=sources
+- pkg:maven/com.github.leeonky/RESTful-cucumber@0.6.7?classifier=sources
+- pkg:maven/com.github.leeonky/RESTful-cucumber@0.6.8?classifier=sources
+- pkg:maven/com.github.leeonky/RESTful-cucumber@0.7.0?classifier=sources
+- pkg:maven/com.github.leeonky/RESTful-cucumber@0.7.1?classifier=sources

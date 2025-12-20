@@ -39,6 +39,10 @@
 - pkg:maven/edu.stanford.protege/webprotege-backend-api@1.0.23?classifier=sources
 - pkg:maven/edu.stanford.protege/webprotege-backend-api@1.0.24-WHO
 - pkg:maven/edu.stanford.protege/webprotege-backend-api@1.0.24-WHO?classifier=sources
+- pkg:maven/edu.stanford.protege/webprotege-backend-api@1.0.25-WHO
+- pkg:maven/edu.stanford.protege/webprotege-backend-api@1.0.25-WHO?classifier=sources
+- pkg:maven/edu.stanford.protege/webprotege-backend-api@1.0.26-WHO
+- pkg:maven/edu.stanford.protege/webprotege-backend-api@1.0.26-WHO?classifier=sources
 - pkg:maven/edu.stanford.protege/webprotege-backend-api@1.0.2?classifier=sources
 - pkg:maven/edu.stanford.protege/webprotege-backend-api@1.0.3
 - pkg:maven/edu.stanford.protege/webprotege-backend-api@1.0.3?classifier=sources

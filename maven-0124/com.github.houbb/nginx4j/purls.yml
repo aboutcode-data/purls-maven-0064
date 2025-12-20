@@ -26,6 +26,16 @@
 - pkg:maven/com.github.houbb/nginx4j@0.20.0?classifier=sources
 - pkg:maven/com.github.houbb/nginx4j@0.22.0
 - pkg:maven/com.github.houbb/nginx4j@0.22.0?classifier=sources
+- pkg:maven/com.github.houbb/nginx4j@0.23.0
+- pkg:maven/com.github.houbb/nginx4j@0.23.0?classifier=sources
+- pkg:maven/com.github.houbb/nginx4j@0.24.0
+- pkg:maven/com.github.houbb/nginx4j@0.24.0?classifier=sources
+- pkg:maven/com.github.houbb/nginx4j@0.25.0
+- pkg:maven/com.github.houbb/nginx4j@0.25.0?classifier=sources
+- pkg:maven/com.github.houbb/nginx4j@0.26.0
+- pkg:maven/com.github.houbb/nginx4j@0.26.0?classifier=sources
+- pkg:maven/com.github.houbb/nginx4j@0.27.0
+- pkg:maven/com.github.houbb/nginx4j@0.27.0?classifier=sources
 - pkg:maven/com.github.houbb/nginx4j@0.3.0
 - pkg:maven/com.github.houbb/nginx4j@0.3.0?classifier=sources
 - pkg:maven/com.github.houbb/nginx4j@0.4.0

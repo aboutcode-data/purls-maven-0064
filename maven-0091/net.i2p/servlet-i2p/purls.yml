@@ -51,3 +51,4 @@
 - pkg:maven/net.i2p/servlet-i2p@2.5.0?classifier=sources
 - pkg:maven/net.i2p/servlet-i2p@2.5.1?classifier=sources
 - pkg:maven/net.i2p/servlet-i2p@2.5.2?classifier=sources
+- pkg:maven/net.i2p/servlet-i2p@2.6.0?classifier=sources

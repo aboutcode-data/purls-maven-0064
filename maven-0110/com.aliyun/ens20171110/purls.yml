@@ -62,3 +62,9 @@
 - pkg:maven/com.aliyun/ens20171110@5.0.0?classifier=sources
 - pkg:maven/com.aliyun/ens20171110@6.0.0
 - pkg:maven/com.aliyun/ens20171110@6.0.0?classifier=sources
+- pkg:maven/com.aliyun/ens20171110@6.1.0
+- pkg:maven/com.aliyun/ens20171110@6.1.0?classifier=sources
+- pkg:maven/com.aliyun/ens20171110@6.2.0
+- pkg:maven/com.aliyun/ens20171110@6.2.0?classifier=sources
+- pkg:maven/com.aliyun/ens20171110@6.2.1
+- pkg:maven/com.aliyun/ens20171110@6.2.1?classifier=sources

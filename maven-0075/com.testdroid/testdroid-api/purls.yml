@@ -298,6 +298,10 @@
 - pkg:maven/com.testdroid/testdroid-api@3.3
 - pkg:maven/com.testdroid/testdroid-api@3.30
 - pkg:maven/com.testdroid/testdroid-api@3.30?classifier=sources
+- pkg:maven/com.testdroid/testdroid-api@3.31.0
+- pkg:maven/com.testdroid/testdroid-api@3.31.0?classifier=sources
+- pkg:maven/com.testdroid/testdroid-api@3.32.0
+- pkg:maven/com.testdroid/testdroid-api@3.32.0?classifier=sources
 - pkg:maven/com.testdroid/testdroid-api@3.3?classifier=sources
 - pkg:maven/com.testdroid/testdroid-api@3.4
 - pkg:maven/com.testdroid/testdroid-api@3.4?classifier=sources

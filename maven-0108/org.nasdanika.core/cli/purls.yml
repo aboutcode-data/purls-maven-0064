@@ -118,3 +118,5 @@
 - pkg:maven/org.nasdanika.core/cli@2024.6.0?classifier=sources
 - pkg:maven/org.nasdanika.core/cli@2024.7.0
 - pkg:maven/org.nasdanika.core/cli@2024.7.0?classifier=sources
+- pkg:maven/org.nasdanika.core/cli@2024.7.1
+- pkg:maven/org.nasdanika.core/cli@2024.7.1?classifier=sources

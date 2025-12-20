@@ -1,0 +1,8 @@
+- pkg:maven/com.squareup.misk/misk-testing-api@2024.08.01.044246-e38725d?classifier=sources
+- pkg:maven/com.squareup.misk/misk-testing-api@2024.08.01.215058-0ad5f3f?classifier=sources
+- pkg:maven/com.squareup.misk/misk-testing-api@2024.08.02.013704-07e9f85?classifier=sources
+- pkg:maven/com.squareup.misk/misk-testing-api@2024.08.02.044409-111a013?classifier=sources
+- pkg:maven/com.squareup.misk/misk-testing-api@2024.08.02.131124-227cc49?classifier=sources
+- pkg:maven/com.squareup.misk/misk-testing-api@2024.08.02.151821-d6b5605?classifier=sources
+- pkg:maven/com.squareup.misk/misk-testing-api@2024.08.02.175958-01e95c4?classifier=sources
+- pkg:maven/com.squareup.misk/misk-testing-api@2024.08.02.191652-d13f8e1?classifier=sources

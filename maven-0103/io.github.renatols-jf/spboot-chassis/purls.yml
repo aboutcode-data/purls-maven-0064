@@ -12,3 +12,4 @@
 - pkg:maven/io.github.renatols-jf/spboot-chassis@0.1.0-rc2?classifier=sources
 - pkg:maven/io.github.renatols-jf/spboot-chassis@0.1.0-rc3?classifier=sources
 - pkg:maven/io.github.renatols-jf/spboot-chassis@0.1.0-rc4?classifier=sources
+- pkg:maven/io.github.renatols-jf/spboot-chassis@0.1.0?classifier=sources

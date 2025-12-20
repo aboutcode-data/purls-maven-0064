@@ -226,6 +226,10 @@
 - pkg:maven/org.eclipse.persistence/eclipselink@4.0.3-RC2?type=zip
 - pkg:maven/org.eclipse.persistence/eclipselink@4.0.3?classifier=sources
 - pkg:maven/org.eclipse.persistence/eclipselink@4.0.3?type=zip
+- pkg:maven/org.eclipse.persistence/eclipselink@4.0.4-RC1?classifier=sources
+- pkg:maven/org.eclipse.persistence/eclipselink@4.0.4-RC1?type=zip
+- pkg:maven/org.eclipse.persistence/eclipselink@4.0.4?classifier=sources
+- pkg:maven/org.eclipse.persistence/eclipselink@4.0.4?type=zip
 - pkg:maven/org.eclipse.persistence/eclipselink@5.0.0-B01?classifier=sources
 - pkg:maven/org.eclipse.persistence/eclipselink@5.0.0-B01?type=zip
 - pkg:maven/org.eclipse.persistence/eclipselink@5.0.0-B02?classifier=sources
