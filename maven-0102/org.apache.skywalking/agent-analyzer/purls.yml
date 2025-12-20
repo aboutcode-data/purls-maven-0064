@@ -1,5 +1,6 @@
 - pkg:maven/org.apache.skywalking/agent-analyzer@10.0.1
 - pkg:maven/org.apache.skywalking/agent-analyzer@10.0.1?classifier=sources
+- pkg:maven/org.apache.skywalking/agent-analyzer@10.1.0
 - pkg:maven/org.apache.skywalking/agent-analyzer@8.1.0
 - pkg:maven/org.apache.skywalking/agent-analyzer@8.2.0
 - pkg:maven/org.apache.skywalking/agent-analyzer@8.3.0

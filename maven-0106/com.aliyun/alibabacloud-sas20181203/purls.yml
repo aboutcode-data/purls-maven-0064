@@ -222,3 +222,5 @@
 - pkg:maven/com.aliyun/alibabacloud-sas20181203@2.2.9?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-sas20181203@3.0.0
 - pkg:maven/com.aliyun/alibabacloud-sas20181203@3.0.0?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-sas20181203@3.0.1
+- pkg:maven/com.aliyun/alibabacloud-sas20181203@3.0.1?classifier=sources

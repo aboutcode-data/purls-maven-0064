@@ -1,0 +1,2 @@
+- pkg:maven/io.github.cerve-development/ui-navigation-wasm-js@0.1.9?classifier=sources
+- pkg:maven/io.github.cerve-development/ui-navigation-wasm-js@0.2.0?classifier=sources

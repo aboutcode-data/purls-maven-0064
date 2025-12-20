@@ -1,4 +1,6 @@
 - pkg:maven/org.webjars.npm/mui__icons-material@5.11.0
 - pkg:maven/org.webjars.npm/mui__icons-material@5.11.0?classifier=sources
+- pkg:maven/org.webjars.npm/mui__icons-material@5.14.3
 - pkg:maven/org.webjars.npm/mui__icons-material@5.15.15
 - pkg:maven/org.webjars.npm/mui__icons-material@5.15.15?classifier=sources
+- pkg:maven/org.webjars.npm/mui__icons-material@5.16.7

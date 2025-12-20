@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/tinymce-i18n@23.8.14?classifier=sources
 - pkg:maven/org.webjars.npm/tinymce-i18n@24.1.22
 - pkg:maven/org.webjars.npm/tinymce-i18n@24.1.22?classifier=sources
+- pkg:maven/org.webjars.npm/tinymce-i18n@24.10.7
+- pkg:maven/org.webjars.npm/tinymce-i18n@24.9.30

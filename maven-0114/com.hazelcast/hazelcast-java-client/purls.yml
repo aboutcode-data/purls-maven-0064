@@ -1,0 +1,2 @@
+- pkg:maven/com.hazelcast/hazelcast-java-client@5.5.0-BETA
+- pkg:maven/com.hazelcast/hazelcast-java-client@5.5.0-BETA?classifier=sources

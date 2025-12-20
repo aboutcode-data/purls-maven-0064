@@ -8,3 +8,4 @@
 - pkg:maven/org.webjars.npm/mui__styled-engine@5.15.14?classifier=sources
 - pkg:maven/org.webjars.npm/mui__styled-engine@5.15.9
 - pkg:maven/org.webjars.npm/mui__styled-engine@5.15.9?classifier=sources
+- pkg:maven/org.webjars.npm/mui__styled-engine@5.16.6

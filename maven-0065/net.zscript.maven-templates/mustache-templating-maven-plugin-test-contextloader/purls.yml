@@ -1,0 +1,2 @@
+- pkg:maven/net.zscript.maven-templates/mustache-templating-maven-plugin-test-contextloader@1.0.0
+- pkg:maven/net.zscript.maven-templates/mustache-templating-maven-plugin-test-contextloader@1.0.0?classifier=sources

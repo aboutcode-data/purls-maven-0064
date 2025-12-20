@@ -11,3 +11,4 @@
 - pkg:maven/com.styra/opa@1.5.3?classifier=sources
 - pkg:maven/com.styra/opa@1.6.0?classifier=sources
 - pkg:maven/com.styra/opa@1.7.0?classifier=sources
+- pkg:maven/com.styra/opa@1.8.0?classifier=sources

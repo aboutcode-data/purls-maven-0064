@@ -24,3 +24,5 @@
 - pkg:maven/com.schemaapp/schemaapp.core@1.4?classifier=sources
 - pkg:maven/com.schemaapp/schemaapp.core@2.0.0
 - pkg:maven/com.schemaapp/schemaapp.core@2.0.0?classifier=sources
+- pkg:maven/com.schemaapp/schemaapp.core@2.0.1
+- pkg:maven/com.schemaapp/schemaapp.core@2.0.1?classifier=sources

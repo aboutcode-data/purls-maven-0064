@@ -70,6 +70,7 @@
 - pkg:maven/org.webjars.npm/dompurify@2.5.0
 - pkg:maven/org.webjars.npm/dompurify@2.5.0?classifier=sources
 - pkg:maven/org.webjars.npm/dompurify@2.5.6
+- pkg:maven/org.webjars.npm/dompurify@2.5.7
 - pkg:maven/org.webjars.npm/dompurify@3.0.1
 - pkg:maven/org.webjars.npm/dompurify@3.0.1?classifier=sources
 - pkg:maven/org.webjars.npm/dompurify@3.0.2

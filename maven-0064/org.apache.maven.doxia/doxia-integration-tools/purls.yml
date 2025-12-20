@@ -30,6 +30,7 @@
 - pkg:maven/org.apache.maven.doxia/doxia-integration-tools@1.9.2
 - pkg:maven/org.apache.maven.doxia/doxia-integration-tools@1.9.2?classifier=sources
 - pkg:maven/org.apache.maven.doxia/doxia-integration-tools@1.9?classifier=sources
+- pkg:maven/org.apache.maven.doxia/doxia-integration-tools@2.0.0
 - pkg:maven/org.apache.maven.doxia/doxia-integration-tools@2.0.0-M1
 - pkg:maven/org.apache.maven.doxia/doxia-integration-tools@2.0.0-M10
 - pkg:maven/org.apache.maven.doxia/doxia-integration-tools@2.0.0-M10?classifier=sources
@@ -60,3 +61,4 @@
 - pkg:maven/org.apache.maven.doxia/doxia-integration-tools@2.0.0-M7?classifier=sources
 - pkg:maven/org.apache.maven.doxia/doxia-integration-tools@2.0.0-M8
 - pkg:maven/org.apache.maven.doxia/doxia-integration-tools@2.0.0-M8?classifier=sources
+- pkg:maven/org.apache.maven.doxia/doxia-integration-tools@2.0.0?classifier=sources

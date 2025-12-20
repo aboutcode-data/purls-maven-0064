@@ -1,0 +1,1 @@
+- pkg:maven/io.crossplane.providers/crossplane-provider-terraform-model@0.18.0?classifier=sources

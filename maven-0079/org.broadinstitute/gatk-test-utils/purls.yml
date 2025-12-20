@@ -50,3 +50,4 @@
 - pkg:maven/org.broadinstitute/gatk-test-utils@4.4.0.0?classifier=sources
 - pkg:maven/org.broadinstitute/gatk-test-utils@4.5.0.0?classifier=sources
 - pkg:maven/org.broadinstitute/gatk-test-utils@4.6.0.0?classifier=sources
+- pkg:maven/org.broadinstitute/gatk-test-utils@4.6.1.0?classifier=sources

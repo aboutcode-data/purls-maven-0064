@@ -9,4 +9,8 @@
 - pkg:maven/kr.co.t-id/sdk-auth@2.5.0-beta3?classifier=sources
 - pkg:maven/kr.co.t-id/sdk-auth@2.5.0-beta4?classifier=sources
 - pkg:maven/kr.co.t-id/sdk-auth@2.5.0?classifier=sources
+- pkg:maven/kr.co.t-id/sdk-auth@2.5.1-beta10?classifier=sources
+- pkg:maven/kr.co.t-id/sdk-auth@2.5.1-beta11?classifier=sources
 - pkg:maven/kr.co.t-id/sdk-auth@2.5.1-beta7?classifier=sources
+- pkg:maven/kr.co.t-id/sdk-auth@2.5.1-beta8?classifier=sources
+- pkg:maven/kr.co.t-id/sdk-auth@2.5.1-beta9?classifier=sources

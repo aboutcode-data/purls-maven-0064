@@ -78,3 +78,7 @@
 - pkg:maven/net.thk-systems.commons/cumin@4.3.2?classifier=sources
 - pkg:maven/net.thk-systems.commons/cumin@4.3.3
 - pkg:maven/net.thk-systems.commons/cumin@4.3.3?classifier=sources
+- pkg:maven/net.thk-systems.commons/cumin@4.3.4
+- pkg:maven/net.thk-systems.commons/cumin@4.3.4?classifier=sources
+- pkg:maven/net.thk-systems.commons/cumin@4.4.0
+- pkg:maven/net.thk-systems.commons/cumin@4.4.0?classifier=sources

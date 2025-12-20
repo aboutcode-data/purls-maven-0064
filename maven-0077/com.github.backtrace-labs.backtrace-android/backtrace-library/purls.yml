@@ -68,3 +68,4 @@
 - pkg:maven/com.github.backtrace-labs.backtrace-android/backtrace-library@3.8.3-rc1?classifier=sources
 - pkg:maven/com.github.backtrace-labs.backtrace-android/backtrace-library@3.8.3-rc2?classifier=sources
 - pkg:maven/com.github.backtrace-labs.backtrace-android/backtrace-library@3.8.3?classifier=sources
+- pkg:maven/com.github.backtrace-labs.backtrace-android/backtrace-library@3.8.4?classifier=sources

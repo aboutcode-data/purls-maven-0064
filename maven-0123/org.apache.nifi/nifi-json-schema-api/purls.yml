@@ -4,6 +4,8 @@
 - pkg:maven/org.apache.nifi/nifi-json-schema-api@1.26.0?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-json-schema-api@1.27.0
 - pkg:maven/org.apache.nifi/nifi-json-schema-api@1.27.0?classifier=sources
+- pkg:maven/org.apache.nifi/nifi-json-schema-api@1.28.0
+- pkg:maven/org.apache.nifi/nifi-json-schema-api@1.28.0?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-json-schema-api@2.0.0-M2
 - pkg:maven/org.apache.nifi/nifi-json-schema-api@2.0.0-M2?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-json-schema-api@2.0.0-M3

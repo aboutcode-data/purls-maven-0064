@@ -26,3 +26,5 @@
 - pkg:maven/com.github.nbbrd.java-io-util/java-io-picocsv@0.0.30?classifier=sources
 - pkg:maven/com.github.nbbrd.java-io-util/java-io-picocsv@0.0.31
 - pkg:maven/com.github.nbbrd.java-io-util/java-io-picocsv@0.0.31?classifier=sources
+- pkg:maven/com.github.nbbrd.java-io-util/java-io-picocsv@0.0.32
+- pkg:maven/com.github.nbbrd.java-io-util/java-io-picocsv@0.0.32?classifier=sources

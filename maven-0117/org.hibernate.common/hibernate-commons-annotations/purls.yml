@@ -43,3 +43,5 @@
 - pkg:maven/org.hibernate.common/hibernate-commons-annotations@6.0.6.Final?classifier=sources
 - pkg:maven/org.hibernate.common/hibernate-commons-annotations@7.0.0.Final?classifier=sources
 - pkg:maven/org.hibernate.common/hibernate-commons-annotations@7.0.1.Final?classifier=sources
+- pkg:maven/org.hibernate.common/hibernate-commons-annotations@7.0.2.Final?classifier=sources
+- pkg:maven/org.hibernate.common/hibernate-commons-annotations@7.0.3.Final?classifier=sources

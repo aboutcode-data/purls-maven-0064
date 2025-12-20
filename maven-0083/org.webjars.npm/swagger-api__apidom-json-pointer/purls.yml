@@ -16,3 +16,4 @@
 - pkg:maven/org.webjars.npm/swagger-api__apidom-json-pointer@0.83.0?classifier=sources
 - pkg:maven/org.webjars.npm/swagger-api__apidom-json-pointer@0.86.0
 - pkg:maven/org.webjars.npm/swagger-api__apidom-json-pointer@0.86.0?classifier=sources
+- pkg:maven/org.webjars.npm/swagger-api__apidom-json-pointer@1.0.0-alpha.9

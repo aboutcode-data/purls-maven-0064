@@ -14,3 +14,7 @@
 - pkg:maven/io.github.ezadmin126/ezadmin-core@2.9.15
 - pkg:maven/io.github.ezadmin126/ezadmin-core@2.9.15?classifier=sources
 - pkg:maven/io.github.ezadmin126/ezadmin-core@2.9.16?classifier=sources
+- pkg:maven/io.github.ezadmin126/ezadmin-core@2.9.17?classifier=sources
+- pkg:maven/io.github.ezadmin126/ezadmin-core@2.9.18.1?classifier=sources
+- pkg:maven/io.github.ezadmin126/ezadmin-core@2.9.18.3?classifier=sources
+- pkg:maven/io.github.ezadmin126/ezadmin-core@2.9.18?classifier=sources

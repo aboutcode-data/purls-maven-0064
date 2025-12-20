@@ -1,2 +1,3 @@
 - pkg:maven/io.ebean/ebean-agent-test@13.13.1
 - pkg:maven/io.ebean/ebean-agent-test@13.14.1
+- pkg:maven/io.ebean/ebean-agent-test@14.7.0

@@ -1,0 +1,2 @@
+- pkg:maven/io.allurx.kit/kit-mybatis@2.0.0?classifier=sources
+- pkg:maven/io.allurx.kit/kit-mybatis@2.1.0?classifier=sources

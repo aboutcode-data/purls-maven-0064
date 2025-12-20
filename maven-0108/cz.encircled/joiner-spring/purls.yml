@@ -57,6 +57,8 @@
 - pkg:maven/cz.encircled/joiner-spring@0.4.7
 - pkg:maven/cz.encircled/joiner-spring@0.4.7?classifier=sources
 - pkg:maven/cz.encircled/joiner-spring@1.1
+- pkg:maven/cz.encircled/joiner-spring@1.12
+- pkg:maven/cz.encircled/joiner-spring@1.12?classifier=sources
 - pkg:maven/cz.encircled/joiner-spring@1.1?classifier=sources
 - pkg:maven/cz.encircled/joiner-spring@1.2
 - pkg:maven/cz.encircled/joiner-spring@1.2?classifier=sources

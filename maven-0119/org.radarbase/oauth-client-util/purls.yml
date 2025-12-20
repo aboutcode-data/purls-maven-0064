@@ -4,4 +4,5 @@
 - pkg:maven/org.radarbase/oauth-client-util@0.8.1?classifier=sources
 - pkg:maven/org.radarbase/oauth-client-util@0.8.2?classifier=sources
 - pkg:maven/org.radarbase/oauth-client-util@0.8.3?classifier=sources
+- pkg:maven/org.radarbase/oauth-client-util@0.8.5?classifier=sources
 - pkg:maven/org.radarbase/oauth-client-util@2.0.0?classifier=sources

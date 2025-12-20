@@ -86,3 +86,4 @@
 - pkg:maven/com.liferay/com.liferay.wiki.test.util@3.0.8
 - pkg:maven/com.liferay/com.liferay.wiki.test.util@3.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.test.util@3.0.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.wiki.test.util@4.0.0?classifier=sources
