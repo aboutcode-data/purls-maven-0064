@@ -621,6 +621,7 @@
 - pkg:maven/com.liferay/com.liferay.layout.page.template.service@3.0.82?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.page.template.service@3.0.83?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.page.template.service@3.0.84?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.page.template.service@3.0.85?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.page.template.service@3.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.page.template.service@3.0.8?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.layout.page.template.service@3.0.9
@@ -631,6 +632,9 @@
 - pkg:maven/com.liferay/com.liferay.layout.page.template.service@4.0.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.layout.page.template.service@4.0.1
 - pkg:maven/com.liferay/com.liferay.layout.page.template.service@4.0.10
+- pkg:maven/com.liferay/com.liferay.layout.page.template.service@4.0.100?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.page.template.service@4.0.101?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.page.template.service@4.0.102?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.page.template.service@4.0.10?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.page.template.service@4.0.10?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.layout.page.template.service@4.0.11

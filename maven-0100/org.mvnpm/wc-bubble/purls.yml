@@ -1,1 +1,2 @@
+- pkg:maven/org.mvnpm/wc-bubble@0.1.4?classifier=sources
 - pkg:maven/org.mvnpm/wc-bubble@0.1.5?classifier=sources

@@ -10,3 +10,6 @@
 - pkg:maven/com.millicast/millicast-sdk-android-shared@1.7.1?classifier=sources
 - pkg:maven/com.millicast/millicast-sdk-android-shared@1.7.2?classifier=sources
 - pkg:maven/com.millicast/millicast-sdk-android-shared@1.7.3?classifier=sources
+- pkg:maven/com.millicast/millicast-sdk-android-shared@1.7.4?classifier=sources
+- pkg:maven/com.millicast/millicast-sdk-android-shared@1.8.0-alpha.1?classifier=sources
+- pkg:maven/com.millicast/millicast-sdk-android-shared@1.8.0-alpha.2?classifier=sources

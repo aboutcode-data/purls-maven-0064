@@ -8,3 +8,5 @@
 - pkg:maven/pt.codeforge/tooler-tools@0.0.7?classifier=sources
 - pkg:maven/pt.codeforge/tooler-tools@0.0.8
 - pkg:maven/pt.codeforge/tooler-tools@0.0.8?classifier=sources
+- pkg:maven/pt.codeforge/tooler-tools@0.1.0
+- pkg:maven/pt.codeforge/tooler-tools@0.1.0?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/es.urjc.etsii.grafo/mork-common@0.17?classifier=sources
 - pkg:maven/es.urjc.etsii.grafo/mork-common@0.18
 - pkg:maven/es.urjc.etsii.grafo/mork-common@0.18?classifier=sources
+- pkg:maven/es.urjc.etsii.grafo/mork-common@0.19
+- pkg:maven/es.urjc.etsii.grafo/mork-common@0.19?classifier=sources

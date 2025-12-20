@@ -12,3 +12,4 @@
 - pkg:maven/org.fisco-bcos/bcos-sdk-jni@3.4.0?classifier=sources
 - pkg:maven/org.fisco-bcos/bcos-sdk-jni@3.5.0?classifier=sources
 - pkg:maven/org.fisco-bcos/bcos-sdk-jni@3.6.0?classifier=sources
+- pkg:maven/org.fisco-bcos/bcos-sdk-jni@3.7.0?classifier=sources

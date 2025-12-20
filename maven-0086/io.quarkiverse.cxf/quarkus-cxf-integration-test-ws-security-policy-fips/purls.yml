@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.cxf/quarkus-cxf-integration-test-ws-security-policy-fips@3.8.1
+- pkg:maven/io.quarkiverse.cxf/quarkus-cxf-integration-test-ws-security-policy-fips@3.8.1?classifier=sources

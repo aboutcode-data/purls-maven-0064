@@ -64,6 +64,7 @@
 - pkg:maven/com.yandex.div/div-lottie@29.6.0?classifier=sources
 - pkg:maven/com.yandex.div/div-lottie@29.7.0?classifier=sources
 - pkg:maven/com.yandex.div/div-lottie@29.8.0?classifier=sources
+- pkg:maven/com.yandex.div/div-lottie@29.9.0?classifier=sources
 - pkg:maven/com.yandex.div/div-lottie@5.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div-lottie@6.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div-lottie@7.0.0?classifier=sources

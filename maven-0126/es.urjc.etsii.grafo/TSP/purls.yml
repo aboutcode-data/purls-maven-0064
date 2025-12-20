@@ -20,3 +20,5 @@
 - pkg:maven/es.urjc.etsii.grafo/TSP@0.17?classifier=sources
 - pkg:maven/es.urjc.etsii.grafo/TSP@0.18
 - pkg:maven/es.urjc.etsii.grafo/TSP@0.18?classifier=sources
+- pkg:maven/es.urjc.etsii.grafo/TSP@0.19
+- pkg:maven/es.urjc.etsii.grafo/TSP@0.19?classifier=sources

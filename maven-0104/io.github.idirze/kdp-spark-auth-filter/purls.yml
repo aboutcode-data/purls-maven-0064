@@ -1,0 +1,2 @@
+- pkg:maven/io.github.idirze/kdp-spark-auth-filter@0.0.1
+- pkg:maven/io.github.idirze/kdp-spark-auth-filter@0.0.1?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/commonmark@0.28.1?classifier=sources
 - pkg:maven/org.webjars.npm/commonmark@0.30.0
 - pkg:maven/org.webjars.npm/commonmark@0.30.0?classifier=sources
+- pkg:maven/org.webjars.npm/commonmark@0.31.0
+- pkg:maven/org.webjars.npm/commonmark@0.31.0?classifier=sources

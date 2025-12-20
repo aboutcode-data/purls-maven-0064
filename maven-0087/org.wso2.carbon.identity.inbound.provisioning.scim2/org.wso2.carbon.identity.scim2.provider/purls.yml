@@ -490,6 +490,12 @@
 - pkg:maven/org.wso2.carbon.identity.inbound.provisioning.scim2/org.wso2.carbon.identity.scim2.provider@3.4.68?type=war
 - pkg:maven/org.wso2.carbon.identity.inbound.provisioning.scim2/org.wso2.carbon.identity.scim2.provider@3.4.69?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.inbound.provisioning.scim2/org.wso2.carbon.identity.scim2.provider@3.4.69?type=war
+- pkg:maven/org.wso2.carbon.identity.inbound.provisioning.scim2/org.wso2.carbon.identity.scim2.provider@3.4.72?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.inbound.provisioning.scim2/org.wso2.carbon.identity.scim2.provider@3.4.72?type=war
+- pkg:maven/org.wso2.carbon.identity.inbound.provisioning.scim2/org.wso2.carbon.identity.scim2.provider@3.4.73?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.inbound.provisioning.scim2/org.wso2.carbon.identity.scim2.provider@3.4.73?type=war
+- pkg:maven/org.wso2.carbon.identity.inbound.provisioning.scim2/org.wso2.carbon.identity.scim2.provider@3.4.74?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.inbound.provisioning.scim2/org.wso2.carbon.identity.scim2.provider@3.4.74?type=war
 - pkg:maven/org.wso2.carbon.identity.inbound.provisioning.scim2/org.wso2.carbon.identity.scim2.provider@3.4.7?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.inbound.provisioning.scim2/org.wso2.carbon.identity.scim2.provider@3.4.7?type=war
 - pkg:maven/org.wso2.carbon.identity.inbound.provisioning.scim2/org.wso2.carbon.identity.scim2.provider@3.4.8?classifier=sources

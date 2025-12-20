@@ -68,3 +68,5 @@
 - pkg:maven/org.wvlet.airframe/sbt-airframe_2.12_1.0@24.2.3?classifier=sources
 - pkg:maven/org.wvlet.airframe/sbt-airframe_2.12_1.0@24.3.0
 - pkg:maven/org.wvlet.airframe/sbt-airframe_2.12_1.0@24.3.0?classifier=sources
+- pkg:maven/org.wvlet.airframe/sbt-airframe_2.12_1.0@24.4.0
+- pkg:maven/org.wvlet.airframe/sbt-airframe_2.12_1.0@24.4.0?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/org.scala-js/sbt-scalajs_2.12_1.0@1.14.0?classifier=sources
 - pkg:maven/org.scala-js/sbt-scalajs_2.12_1.0@1.15.0
 - pkg:maven/org.scala-js/sbt-scalajs_2.12_1.0@1.15.0?classifier=sources
+- pkg:maven/org.scala-js/sbt-scalajs_2.12_1.0@1.16.0
+- pkg:maven/org.scala-js/sbt-scalajs_2.12_1.0@1.16.0?classifier=sources

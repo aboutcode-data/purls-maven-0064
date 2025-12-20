@@ -22,6 +22,8 @@
 - pkg:maven/global.namespace.bali/bali-annotation@0.11.7?classifier=sources
 - pkg:maven/global.namespace.bali/bali-annotation@0.11.8
 - pkg:maven/global.namespace.bali/bali-annotation@0.11.8?classifier=sources
+- pkg:maven/global.namespace.bali/bali-annotation@0.12.0
+- pkg:maven/global.namespace.bali/bali-annotation@0.12.0?classifier=sources
 - pkg:maven/global.namespace.bali/bali-annotation@0.8.0
 - pkg:maven/global.namespace.bali/bali-annotation@0.8.0?classifier=sources
 - pkg:maven/global.namespace.bali/bali-annotation@0.9.0

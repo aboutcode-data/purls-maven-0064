@@ -468,6 +468,8 @@
 - pkg:maven/org.finos.legend.engine/legend-engine-server@4.4.8?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-server@4.40.0
 - pkg:maven/org.finos.legend.engine/legend-engine-server@4.40.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-server@4.40.3
+- pkg:maven/org.finos.legend.engine/legend-engine-server@4.40.3?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-server@4.5.0
 - pkg:maven/org.finos.legend.engine/legend-engine-server@4.5.0?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-server@4.6.0

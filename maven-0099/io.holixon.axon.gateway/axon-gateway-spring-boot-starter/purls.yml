@@ -5,3 +5,4 @@
 - pkg:maven/io.holixon.axon.gateway/axon-gateway-spring-boot-starter@1.1.1
 - pkg:maven/io.holixon.axon.gateway/axon-gateway-spring-boot-starter@1.1.2
 - pkg:maven/io.holixon.axon.gateway/axon-gateway-spring-boot-starter@2.0.0
+- pkg:maven/io.holixon.axon.gateway/axon-gateway-spring-boot-starter@2.1.0

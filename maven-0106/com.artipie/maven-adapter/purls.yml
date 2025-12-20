@@ -52,6 +52,8 @@
 - pkg:maven/com.artipie/maven-adapter@0.9.9?classifier=sources
 - pkg:maven/com.artipie/maven-adapter@v0.30.13
 - pkg:maven/com.artipie/maven-adapter@v0.30.13?classifier=sources
+- pkg:maven/com.artipie/maven-adapter@v0.30.14
+- pkg:maven/com.artipie/maven-adapter@v0.30.14?classifier=sources
 - pkg:maven/com.artipie/maven-adapter@v1.17.10
 - pkg:maven/com.artipie/maven-adapter@v1.17.10?classifier=sources
 - pkg:maven/com.artipie/maven-adapter@v1.17.2

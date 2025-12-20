@@ -1,0 +1,2 @@
+- pkg:maven/io.mosip.testrig.apirig.automationtests/automationtests@1.2.0.1
+- pkg:maven/io.mosip.testrig.apirig.automationtests/automationtests@1.2.0.1?classifier=sources

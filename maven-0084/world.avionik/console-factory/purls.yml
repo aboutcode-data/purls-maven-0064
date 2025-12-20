@@ -1,0 +1,2 @@
+- pkg:maven/world.avionik/console-factory@1.0.1
+- pkg:maven/world.avionik/console-factory@1.0.1?classifier=sources

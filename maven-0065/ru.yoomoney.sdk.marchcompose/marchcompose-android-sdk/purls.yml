@@ -1,3 +1,5 @@
 - pkg:maven/ru.yoomoney.sdk.marchcompose/marchcompose-android-sdk@1.0.1?classifier=sources
 - pkg:maven/ru.yoomoney.sdk.marchcompose/marchcompose-android-sdk@1.0.4?classifier=sources
 - pkg:maven/ru.yoomoney.sdk.marchcompose/marchcompose-android-sdk@1.1.0?classifier=sources
+- pkg:maven/ru.yoomoney.sdk.marchcompose/marchcompose-android-sdk@1.1.1?classifier=sources
+- pkg:maven/ru.yoomoney.sdk.marchcompose/marchcompose-android-sdk@1.1.2?classifier=sources

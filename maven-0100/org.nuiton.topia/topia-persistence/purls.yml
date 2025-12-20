@@ -231,3 +231,4 @@
 - pkg:maven/org.nuiton.topia/topia-persistence@3.8.1
 - pkg:maven/org.nuiton.topia/topia-persistence@3.8.1?classifier=sources
 - pkg:maven/org.nuiton.topia/topia-persistence@3.8?classifier=sources
+- pkg:maven/org.nuiton.topia/topia-persistence@4.0?classifier=sources

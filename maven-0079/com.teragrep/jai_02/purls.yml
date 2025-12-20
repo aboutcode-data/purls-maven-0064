@@ -1,0 +1,2 @@
+- pkg:maven/com.teragrep/jai_02@1.0.2
+- pkg:maven/com.teragrep/jai_02@1.0.2?classifier=sources

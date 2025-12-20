@@ -24,6 +24,8 @@
 - pkg:maven/global.namespace.bali/bali-java@0.11.7?classifier=sources
 - pkg:maven/global.namespace.bali/bali-java@0.11.8
 - pkg:maven/global.namespace.bali/bali-java@0.11.8?classifier=sources
+- pkg:maven/global.namespace.bali/bali-java@0.12.0
+- pkg:maven/global.namespace.bali/bali-java@0.12.0?classifier=sources
 - pkg:maven/global.namespace.bali/bali-java@0.2.0
 - pkg:maven/global.namespace.bali/bali-java@0.2.0?classifier=sources
 - pkg:maven/global.namespace.bali/bali-java@0.2.1

@@ -1,1 +1,4 @@
 - pkg:maven/com.strumenta.kolasu/language-server-testing@1.0.0?classifier=sources
+- pkg:maven/com.strumenta.kolasu/language-server-testing@1.0.2?classifier=sources
+- pkg:maven/com.strumenta.kolasu/language-server-testing@1.0.3?classifier=sources
+- pkg:maven/com.strumenta.kolasu/language-server-testing@1.0.4?classifier=sources

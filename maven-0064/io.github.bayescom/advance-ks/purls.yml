@@ -8,3 +8,5 @@
 - pkg:maven/io.github.bayescom/advance-ks@4.3.1_3355_core?type=aar
 - pkg:maven/io.github.bayescom/advance-ks@4.3.2_3359?type=aar
 - pkg:maven/io.github.bayescom/advance-ks@4.3.2_3359_core?type=aar
+- pkg:maven/io.github.bayescom/advance-ks@4.3.3_3359?type=aar
+- pkg:maven/io.github.bayescom/advance-ks@4.3.3_3359_core?type=aar

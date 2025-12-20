@@ -150,6 +150,8 @@
 - pkg:maven/com.approvaltests/approvaltests-tests@22.3.3?classifier=sources
 - pkg:maven/com.approvaltests/approvaltests-tests@22.4.0
 - pkg:maven/com.approvaltests/approvaltests-tests@22.4.0?classifier=sources
+- pkg:maven/com.approvaltests/approvaltests-tests@23.0.0
+- pkg:maven/com.approvaltests/approvaltests-tests@23.0.0?classifier=sources
 - pkg:maven/com.approvaltests/approvaltests-tests@7.0.0
 - pkg:maven/com.approvaltests/approvaltests-tests@7.0.0?classifier=sources
 - pkg:maven/com.approvaltests/approvaltests-tests@8.0.0

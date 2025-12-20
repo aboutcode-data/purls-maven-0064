@@ -1,0 +1,2 @@
+- pkg:maven/io.github.sttk/stringcase@0.1.0
+- pkg:maven/io.github.sttk/stringcase@0.1.0?classifier=sources

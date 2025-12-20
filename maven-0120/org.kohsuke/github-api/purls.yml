@@ -144,6 +144,10 @@
 - pkg:maven/org.kohsuke/github-api@1.319?classifier=sources
 - pkg:maven/org.kohsuke/github-api@1.31?classifier=sources
 - pkg:maven/org.kohsuke/github-api@1.32
+- pkg:maven/org.kohsuke/github-api@1.320
+- pkg:maven/org.kohsuke/github-api@1.320?classifier=sources
+- pkg:maven/org.kohsuke/github-api@1.321
+- pkg:maven/org.kohsuke/github-api@1.321?classifier=sources
 - pkg:maven/org.kohsuke/github-api@1.32?classifier=sources
 - pkg:maven/org.kohsuke/github-api@1.33
 - pkg:maven/org.kohsuke/github-api@1.33?classifier=sources

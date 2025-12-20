@@ -95,3 +95,5 @@
 - pkg:maven/org.wso2.carbon.extension.identity.oauth.addons/org.wso2.carbon.identity.oauth2.token.handler.clientauth.jwt@2.4.4?classifier=sources
 - pkg:maven/org.wso2.carbon.extension.identity.oauth.addons/org.wso2.carbon.identity.oauth2.token.handler.clientauth.jwt@2.4.9
 - pkg:maven/org.wso2.carbon.extension.identity.oauth.addons/org.wso2.carbon.identity.oauth2.token.handler.clientauth.jwt@2.4.9?classifier=sources
+- pkg:maven/org.wso2.carbon.extension.identity.oauth.addons/org.wso2.carbon.identity.oauth2.token.handler.clientauth.jwt@2.5.3
+- pkg:maven/org.wso2.carbon.extension.identity.oauth.addons/org.wso2.carbon.identity.oauth2.token.handler.clientauth.jwt@2.5.3?classifier=sources

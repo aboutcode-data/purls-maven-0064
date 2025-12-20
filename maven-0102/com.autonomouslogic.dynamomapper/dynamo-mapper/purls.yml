@@ -42,3 +42,4 @@
 - pkg:maven/com.autonomouslogic.dynamomapper/dynamo-mapper@2.1.6?classifier=sources
 - pkg:maven/com.autonomouslogic.dynamomapper/dynamo-mapper@2.1.7?classifier=sources
 - pkg:maven/com.autonomouslogic.dynamomapper/dynamo-mapper@2.1.8?classifier=sources
+- pkg:maven/com.autonomouslogic.dynamomapper/dynamo-mapper@2.1.9?classifier=sources

@@ -18,4 +18,7 @@
 - pkg:maven/net.engawapg.lib/zoomable@1.6.0-beta3?classifier=sources
 - pkg:maven/net.engawapg.lib/zoomable@1.6.0-beta4?classifier=sources
 - pkg:maven/net.engawapg.lib/zoomable@1.6.0?classifier=sources
+- pkg:maven/net.engawapg.lib/zoomable@1.6.1-beta01?classifier=sources
+- pkg:maven/net.engawapg.lib/zoomable@1.6.1?classifier=sources
 - pkg:maven/net.engawapg.lib/zoomable@1.7.0-beta01?classifier=sources
+- pkg:maven/net.engawapg.lib/zoomable@1.7.0-beta02?classifier=sources

@@ -60,3 +60,7 @@
 - pkg:maven/com.immomo.cosmos.mediax/magiceffect@1.0.1-20240223141700?type=aar
 - pkg:maven/com.immomo.cosmos.mediax/magiceffect@1.0.1-20240223155100?classifier=sources
 - pkg:maven/com.immomo.cosmos.mediax/magiceffect@1.0.1-20240223155100?type=aar
+- pkg:maven/com.immomo.cosmos.mediax/magiceffect@1.0.1-20240304151700?classifier=sources
+- pkg:maven/com.immomo.cosmos.mediax/magiceffect@1.0.1-20240304151700?type=aar
+- pkg:maven/com.immomo.cosmos.mediax/magiceffect@1.0.2-20240314103800?classifier=sources
+- pkg:maven/com.immomo.cosmos.mediax/magiceffect@1.0.2-20240314103800?type=aar

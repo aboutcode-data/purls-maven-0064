@@ -2,3 +2,4 @@
 - pkg:maven/com.google.privacy.differentialprivacy/differentialprivacy@1.1.0?classifier=sources
 - pkg:maven/com.google.privacy.differentialprivacy/differentialprivacy@2.0.0?classifier=sources
 - pkg:maven/com.google.privacy.differentialprivacy/differentialprivacy@2.1.0?classifier=sources
+- pkg:maven/com.google.privacy.differentialprivacy/differentialprivacy@3.0.0?classifier=sources

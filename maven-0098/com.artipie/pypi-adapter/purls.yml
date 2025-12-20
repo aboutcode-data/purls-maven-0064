@@ -38,6 +38,8 @@
 - pkg:maven/com.artipie/pypi-adapter@0.7?classifier=sources
 - pkg:maven/com.artipie/pypi-adapter@v0.30.13
 - pkg:maven/com.artipie/pypi-adapter@v0.30.13?classifier=sources
+- pkg:maven/com.artipie/pypi-adapter@v0.30.14
+- pkg:maven/com.artipie/pypi-adapter@v0.30.14?classifier=sources
 - pkg:maven/com.artipie/pypi-adapter@v0.8.0
 - pkg:maven/com.artipie/pypi-adapter@v0.8.0?classifier=sources
 - pkg:maven/com.artipie/pypi-adapter@v0.8.1

@@ -156,3 +156,15 @@
 - pkg:maven/dev.vality/damsel@1.619-da17a84?classifier=sources
 - pkg:maven/dev.vality/damsel@1.620-a2f3317
 - pkg:maven/dev.vality/damsel@1.620-a2f3317?classifier=sources
+- pkg:maven/dev.vality/damsel@1.621-7057dad
+- pkg:maven/dev.vality/damsel@1.621-7057dad?classifier=sources
+- pkg:maven/dev.vality/damsel@1.622-72b39f3
+- pkg:maven/dev.vality/damsel@1.622-72b39f3?classifier=sources
+- pkg:maven/dev.vality/damsel@1.623-f8e56c6
+- pkg:maven/dev.vality/damsel@1.623-f8e56c6?classifier=sources
+- pkg:maven/dev.vality/damsel@1.624-781e192
+- pkg:maven/dev.vality/damsel@1.624-781e192?classifier=sources
+- pkg:maven/dev.vality/damsel@1.625-108eb44
+- pkg:maven/dev.vality/damsel@1.625-108eb44?classifier=sources
+- pkg:maven/dev.vality/damsel@1.626-b04aba8
+- pkg:maven/dev.vality/damsel@1.626-b04aba8?classifier=sources

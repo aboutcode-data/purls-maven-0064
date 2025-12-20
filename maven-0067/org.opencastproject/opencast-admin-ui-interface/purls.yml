@@ -3,3 +3,6 @@
 - pkg:maven/org.opencastproject/opencast-admin-ui-interface@14.2
 - pkg:maven/org.opencastproject/opencast-admin-ui-interface@14.3
 - pkg:maven/org.opencastproject/opencast-admin-ui-interface@14.5
+- pkg:maven/org.opencastproject/opencast-admin-ui-interface@14.6
+- pkg:maven/org.opencastproject/opencast-admin-ui-interface@14.7
+- pkg:maven/org.opencastproject/opencast-admin-ui-interface@15.1

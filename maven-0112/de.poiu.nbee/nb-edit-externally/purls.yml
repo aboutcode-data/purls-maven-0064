@@ -1,0 +1,2 @@
+- pkg:maven/de.poiu.nbee/nb-edit-externally@1.0.2?classifier=sources
+- pkg:maven/de.poiu.nbee/nb-edit-externally@1.0.3?classifier=sources

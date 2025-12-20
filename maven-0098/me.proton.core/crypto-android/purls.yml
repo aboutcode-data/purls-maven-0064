@@ -67,6 +67,11 @@
 - pkg:maven/me.proton.core/crypto-android@2.0.0?classifier=sources
 - pkg:maven/me.proton.core/crypto-android@20.0.0?classifier=sources
 - pkg:maven/me.proton.core/crypto-android@21.0.0?classifier=sources
+- pkg:maven/me.proton.core/crypto-android@21.1.0?classifier=sources
+- pkg:maven/me.proton.core/crypto-android@21.2.0?classifier=sources
+- pkg:maven/me.proton.core/crypto-android@21.2.1?classifier=sources
+- pkg:maven/me.proton.core/crypto-android@22.0.0?classifier=sources
+- pkg:maven/me.proton.core/crypto-android@22.1.0?classifier=sources
 - pkg:maven/me.proton.core/crypto-android@3.0.0?classifier=sources
 - pkg:maven/me.proton.core/crypto-android@4.0.0?classifier=sources
 - pkg:maven/me.proton.core/crypto-android@4.1.0?classifier=sources

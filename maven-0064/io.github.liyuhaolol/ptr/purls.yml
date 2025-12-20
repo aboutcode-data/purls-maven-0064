@@ -1,0 +1,2 @@
+- pkg:maven/io.github.liyuhaolol/ptr@1.0.13?classifier=sources
+- pkg:maven/io.github.liyuhaolol/ptr@1.0.13?type=aar

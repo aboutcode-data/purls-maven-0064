@@ -1,2 +1,12 @@
 - pkg:maven/io.trino/trino-filesystem-cache-alluxio@439
 - pkg:maven/io.trino/trino-filesystem-cache-alluxio@439?classifier=sources
+- pkg:maven/io.trino/trino-filesystem-cache-alluxio@440
+- pkg:maven/io.trino/trino-filesystem-cache-alluxio@440?classifier=sources
+- pkg:maven/io.trino/trino-filesystem-cache-alluxio@441
+- pkg:maven/io.trino/trino-filesystem-cache-alluxio@441?classifier=sources
+- pkg:maven/io.trino/trino-filesystem-cache-alluxio@442
+- pkg:maven/io.trino/trino-filesystem-cache-alluxio@442?classifier=sources
+- pkg:maven/io.trino/trino-filesystem-cache-alluxio@443
+- pkg:maven/io.trino/trino-filesystem-cache-alluxio@443?classifier=sources
+- pkg:maven/io.trino/trino-filesystem-cache-alluxio@444
+- pkg:maven/io.trino/trino-filesystem-cache-alluxio@444?classifier=sources

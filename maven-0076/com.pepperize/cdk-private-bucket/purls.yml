@@ -720,3 +720,9 @@
 - pkg:maven/com.pepperize/cdk-private-bucket@0.0.484?classifier=sources
 - pkg:maven/com.pepperize/cdk-private-bucket@0.0.485
 - pkg:maven/com.pepperize/cdk-private-bucket@0.0.485?classifier=sources
+- pkg:maven/com.pepperize/cdk-private-bucket@0.0.486
+- pkg:maven/com.pepperize/cdk-private-bucket@0.0.486?classifier=sources
+- pkg:maven/com.pepperize/cdk-private-bucket@0.0.487
+- pkg:maven/com.pepperize/cdk-private-bucket@0.0.487?classifier=sources
+- pkg:maven/com.pepperize/cdk-private-bucket@0.0.488
+- pkg:maven/com.pepperize/cdk-private-bucket@0.0.488?classifier=sources
