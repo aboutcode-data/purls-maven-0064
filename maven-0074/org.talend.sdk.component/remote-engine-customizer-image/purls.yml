@@ -122,6 +122,7 @@
 - pkg:maven/org.talend.sdk.component/remote-engine-customizer-image@1.64.1
 - pkg:maven/org.talend.sdk.component/remote-engine-customizer-image@1.64.2
 - pkg:maven/org.talend.sdk.component/remote-engine-customizer-image@1.64.3
+- pkg:maven/org.talend.sdk.component/remote-engine-customizer-image@1.64.4
 - pkg:maven/org.talend.sdk.component/remote-engine-customizer-image@1.65.0M1
 - pkg:maven/org.talend.sdk.component/remote-engine-customizer-image@1.65.0M2
 - pkg:maven/org.talend.sdk.component/remote-engine-customizer-image@1.65.0M3

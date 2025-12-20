@@ -21,4 +21,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-source-ant@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-source-ant@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-source-ant@RELEASE210?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-java-source-ant@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-source-ant@RELEASE90?classifier=sources

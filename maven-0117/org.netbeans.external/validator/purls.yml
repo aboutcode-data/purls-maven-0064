@@ -18,4 +18,5 @@
 - pkg:maven/org.netbeans.external/validator@RELEASE190
 - pkg:maven/org.netbeans.external/validator@RELEASE200
 - pkg:maven/org.netbeans.external/validator@RELEASE210
+- pkg:maven/org.netbeans.external/validator@RELEASE220
 - pkg:maven/org.netbeans.external/validator@RELEASE90

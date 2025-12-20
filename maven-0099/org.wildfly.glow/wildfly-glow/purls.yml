@@ -34,3 +34,5 @@
 - pkg:maven/org.wildfly.glow/wildfly-glow@1.0.2.Final?classifier=sources
 - pkg:maven/org.wildfly.glow/wildfly-glow@1.0.3.Final?classifier=sources
 - pkg:maven/org.wildfly.glow/wildfly-glow@1.0.4.Final?classifier=sources
+- pkg:maven/org.wildfly.glow/wildfly-glow@1.0.5.Final?classifier=sources
+- pkg:maven/org.wildfly.glow/wildfly-glow@1.0.6.Final?classifier=sources

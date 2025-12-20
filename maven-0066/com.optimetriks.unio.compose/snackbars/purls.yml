@@ -1,1 +1,5 @@
 - pkg:maven/com.optimetriks.unio.compose/snackbars@0.0.2?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/snackbars@0.0.3?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/snackbars@4?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/snackbars@6?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/snackbars@7?classifier=sources

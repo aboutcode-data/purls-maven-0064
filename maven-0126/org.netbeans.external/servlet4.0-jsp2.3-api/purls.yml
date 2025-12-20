@@ -2,3 +2,4 @@
 - pkg:maven/org.netbeans.external/servlet4.0-jsp2.3-api@RELEASE190
 - pkg:maven/org.netbeans.external/servlet4.0-jsp2.3-api@RELEASE200
 - pkg:maven/org.netbeans.external/servlet4.0-jsp2.3-api@RELEASE210
+- pkg:maven/org.netbeans.external/servlet4.0-jsp2.3-api@RELEASE220

@@ -10,6 +10,12 @@
 - pkg:maven/uk.autores/annotations@11.0.22-beta?classifier=sources
 - pkg:maven/uk.autores/annotations@11.0.26-beta
 - pkg:maven/uk.autores/annotations@11.0.26-beta?classifier=sources
+- pkg:maven/uk.autores/annotations@11.0.27-beta
+- pkg:maven/uk.autores/annotations@11.0.27-beta?classifier=sources
+- pkg:maven/uk.autores/annotations@11.0.28-beta
+- pkg:maven/uk.autores/annotations@11.0.28-beta?classifier=sources
+- pkg:maven/uk.autores/annotations@11.0.29-beta
+- pkg:maven/uk.autores/annotations@11.0.29-beta?classifier=sources
 - pkg:maven/uk.autores/annotations@11.0.3-alpha
 - pkg:maven/uk.autores/annotations@11.0.3-alpha?classifier=sources
 - pkg:maven/uk.autores/annotations@11.0.5-alpha
@@ -42,6 +48,12 @@
 - pkg:maven/uk.autores/annotations@8.0.22-beta?classifier=sources
 - pkg:maven/uk.autores/annotations@8.0.26-beta
 - pkg:maven/uk.autores/annotations@8.0.26-beta?classifier=sources
+- pkg:maven/uk.autores/annotations@8.0.27-beta
+- pkg:maven/uk.autores/annotations@8.0.27-beta?classifier=sources
+- pkg:maven/uk.autores/annotations@8.0.28-beta
+- pkg:maven/uk.autores/annotations@8.0.28-beta?classifier=sources
+- pkg:maven/uk.autores/annotations@8.0.29-beta
+- pkg:maven/uk.autores/annotations@8.0.29-beta?classifier=sources
 - pkg:maven/uk.autores/annotations@8.0.3-alpha
 - pkg:maven/uk.autores/annotations@8.0.3-alpha?classifier=sources
 - pkg:maven/uk.autores/annotations@8.0.4-alpha

@@ -1,1 +1,2 @@
 - pkg:maven/io.github.bonede/tree-sitter-gleam@0.33.0?classifier=sources
+- pkg:maven/io.github.bonede/tree-sitter-gleam@1.0.0?classifier=sources

@@ -74,6 +74,10 @@
 - pkg:maven/io.camunda.spring/java-common@8.4.2-rc2
 - pkg:maven/io.camunda.spring/java-common@8.4.2-rc2?classifier=sources
 - pkg:maven/io.camunda.spring/java-common@8.4.2?classifier=sources
+- pkg:maven/io.camunda.spring/java-common@8.4.3
+- pkg:maven/io.camunda.spring/java-common@8.4.3?classifier=sources
+- pkg:maven/io.camunda.spring/java-common@8.4.4
+- pkg:maven/io.camunda.spring/java-common@8.4.4?classifier=sources
 - pkg:maven/io.camunda.spring/java-common@8.5.0
 - pkg:maven/io.camunda.spring/java-common@8.5.0-alpha2
 - pkg:maven/io.camunda.spring/java-common@8.5.0-alpha2?classifier=sources
@@ -84,3 +88,7 @@
 - pkg:maven/io.camunda.spring/java-common@8.5.0?classifier=sources
 - pkg:maven/io.camunda.spring/java-common@8.5.1
 - pkg:maven/io.camunda.spring/java-common@8.5.1?classifier=sources
+- pkg:maven/io.camunda.spring/java-common@8.5.2
+- pkg:maven/io.camunda.spring/java-common@8.5.2?classifier=sources
+- pkg:maven/io.camunda.spring/java-common@8.5.3
+- pkg:maven/io.camunda.spring/java-common@8.5.3?classifier=sources

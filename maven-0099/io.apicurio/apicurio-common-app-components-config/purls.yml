@@ -35,3 +35,4 @@
 - pkg:maven/io.apicurio/apicurio-common-app-components-config@1.1.0
 - pkg:maven/io.apicurio/apicurio-common-app-components-config@1.1.0.CR1
 - pkg:maven/io.apicurio/apicurio-common-app-components-config@1.1.0.CR2
+- pkg:maven/io.apicurio/apicurio-common-app-components-config@1.2.0

@@ -8,3 +8,4 @@
 - pkg:maven/io.github.animatedledstrip/animatedledstrip-server@0.6?classifier=sources
 - pkg:maven/io.github.animatedledstrip/animatedledstrip-server@0.7
 - pkg:maven/io.github.animatedledstrip/animatedledstrip-server@0.7?classifier=sources
+- pkg:maven/io.github.animatedledstrip/animatedledstrip-server@1.1.2?classifier=sources

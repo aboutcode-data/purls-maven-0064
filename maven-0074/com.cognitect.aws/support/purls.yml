@@ -24,3 +24,5 @@
 - pkg:maven/com.cognitect.aws/support@847.2.1365.0?classifier=sources
 - pkg:maven/com.cognitect.aws/support@847.2.1387.0
 - pkg:maven/com.cognitect.aws/support@847.2.1387.0?classifier=sources
+- pkg:maven/com.cognitect.aws/support@869.2.1616.0
+- pkg:maven/com.cognitect.aws/support@869.2.1616.0?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/tech.fullink.sdk/fullink-sdk-java@1.0.5?classifier=sources
 - pkg:maven/tech.fullink.sdk/fullink-sdk-java@1.0.6
 - pkg:maven/tech.fullink.sdk/fullink-sdk-java@1.0.6?classifier=sources
+- pkg:maven/tech.fullink.sdk/fullink-sdk-java@1.0.7
+- pkg:maven/tech.fullink.sdk/fullink-sdk-java@1.0.7?classifier=sources

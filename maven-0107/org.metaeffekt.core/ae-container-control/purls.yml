@@ -1,0 +1,2 @@
+- pkg:maven/org.metaeffekt.core/ae-container-control@0.112.0
+- pkg:maven/org.metaeffekt.core/ae-container-control@0.112.0?classifier=sources

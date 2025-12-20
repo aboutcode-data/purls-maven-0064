@@ -19,3 +19,4 @@
 - pkg:maven/com.distrimind.util/Utils@6.1.0-STABLE?classifier=sources
 - pkg:maven/com.distrimind.util/Utils@6.1.1-STABLE?classifier=sources
 - pkg:maven/com.distrimind.util/Utils@6.1.2-STABLE?classifier=sources
+- pkg:maven/com.distrimind.util/Utils@6.2.0-STABLE?classifier=sources

@@ -18,3 +18,5 @@
 - pkg:maven/org.camunda.bpm.extension/camunda-bpm-mail-extension-run@7.20.0?classifier=sources
 - pkg:maven/org.camunda.bpm.extension/camunda-bpm-mail-extension-run@7.20.1
 - pkg:maven/org.camunda.bpm.extension/camunda-bpm-mail-extension-run@7.20.1?classifier=sources
+- pkg:maven/org.camunda.bpm.extension/camunda-bpm-mail-extension-run@7.21.0
+- pkg:maven/org.camunda.bpm.extension/camunda-bpm-mail-extension-run@7.21.0?classifier=sources

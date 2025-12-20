@@ -56,3 +56,5 @@
 - pkg:maven/com.mchange/mchange-commons-java@0.2.9?classifier=sources
 - pkg:maven/com.mchange/mchange-commons-java@0.3.0
 - pkg:maven/com.mchange/mchange-commons-java@0.3.0?classifier=sources
+- pkg:maven/com.mchange/mchange-commons-java@0.3.1
+- pkg:maven/com.mchange/mchange-commons-java@0.3.1?classifier=sources

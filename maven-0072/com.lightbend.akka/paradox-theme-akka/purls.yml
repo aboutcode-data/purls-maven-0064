@@ -34,3 +34,5 @@
 - pkg:maven/com.lightbend.akka/paradox-theme-akka@0.54?classifier=sources
 - pkg:maven/com.lightbend.akka/paradox-theme-akka@0.55
 - pkg:maven/com.lightbend.akka/paradox-theme-akka@0.55?classifier=sources
+- pkg:maven/com.lightbend.akka/paradox-theme-akka@0.57
+- pkg:maven/com.lightbend.akka/paradox-theme-akka@0.57?classifier=sources

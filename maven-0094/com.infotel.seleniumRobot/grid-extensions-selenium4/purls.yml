@@ -50,3 +50,7 @@
 - pkg:maven/com.infotel.seleniumRobot/grid-extensions-selenium4@5.0.8?classifier=sources
 - pkg:maven/com.infotel.seleniumRobot/grid-extensions-selenium4@5.0.9
 - pkg:maven/com.infotel.seleniumRobot/grid-extensions-selenium4@5.0.9?classifier=sources
+- pkg:maven/com.infotel.seleniumRobot/grid-extensions-selenium4@5.1.0
+- pkg:maven/com.infotel.seleniumRobot/grid-extensions-selenium4@5.1.0?classifier=sources
+- pkg:maven/com.infotel.seleniumRobot/grid-extensions-selenium4@5.1.1
+- pkg:maven/com.infotel.seleniumRobot/grid-extensions-selenium4@5.1.1?classifier=sources

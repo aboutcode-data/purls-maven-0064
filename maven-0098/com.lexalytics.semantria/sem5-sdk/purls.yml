@@ -12,3 +12,5 @@
 - pkg:maven/com.lexalytics.semantria/sem5-sdk@6.15.0?classifier=sources
 - pkg:maven/com.lexalytics.semantria/sem5-sdk@6.2.2
 - pkg:maven/com.lexalytics.semantria/sem5-sdk@6.2.2?classifier=sources
+- pkg:maven/com.lexalytics.semantria/sem5-sdk@6.24.1
+- pkg:maven/com.lexalytics.semantria/sem5-sdk@6.24.1?classifier=sources

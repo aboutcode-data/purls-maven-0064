@@ -1,1 +1,2 @@
 - pkg:maven/org.forgerock/ping-protect@4.4.0?classifier=sources
+- pkg:maven/org.forgerock/ping-protect@4.4.1-beta1?classifier=sources

@@ -68,9 +68,13 @@
 - pkg:maven/io.lighty.resources/start-script@18.2.0?classifier=sources
 - pkg:maven/io.lighty.resources/start-script@18.3.0
 - pkg:maven/io.lighty.resources/start-script@18.3.0?classifier=sources
+- pkg:maven/io.lighty.resources/start-script@18.4.0
+- pkg:maven/io.lighty.resources/start-script@18.4.0?classifier=sources
 - pkg:maven/io.lighty.resources/start-script@19.0.0
 - pkg:maven/io.lighty.resources/start-script@19.0.0?classifier=sources
 - pkg:maven/io.lighty.resources/start-script@19.1.0
 - pkg:maven/io.lighty.resources/start-script@19.1.0?classifier=sources
 - pkg:maven/io.lighty.resources/start-script@19.2.0
 - pkg:maven/io.lighty.resources/start-script@19.2.0?classifier=sources
+- pkg:maven/io.lighty.resources/start-script@20.0.0
+- pkg:maven/io.lighty.resources/start-script@20.0.0?classifier=sources

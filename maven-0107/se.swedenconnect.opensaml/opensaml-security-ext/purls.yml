@@ -34,3 +34,5 @@
 - pkg:maven/se.swedenconnect.opensaml/opensaml-security-ext@4.0.0?classifier=sources
 - pkg:maven/se.swedenconnect.opensaml/opensaml-security-ext@4.0.1
 - pkg:maven/se.swedenconnect.opensaml/opensaml-security-ext@4.0.1?classifier=sources
+- pkg:maven/se.swedenconnect.opensaml/opensaml-security-ext@4.1.0
+- pkg:maven/se.swedenconnect.opensaml/opensaml-security-ext@4.1.0?classifier=sources

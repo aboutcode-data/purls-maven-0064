@@ -16,6 +16,10 @@
 - pkg:maven/com.zuora.sdk/zuora-java@1.1.0-beta.351.4?classifier=sources
 - pkg:maven/com.zuora.sdk/zuora-java@1.1.0-beta.352.1
 - pkg:maven/com.zuora.sdk/zuora-java@1.1.0-beta.352.1?classifier=sources
+- pkg:maven/com.zuora.sdk/zuora-java@1.1.0-beta.352.3
+- pkg:maven/com.zuora.sdk/zuora-java@1.1.0-beta.352.3?classifier=sources
+- pkg:maven/com.zuora.sdk/zuora-java@1.1.0-beta.353.1
+- pkg:maven/com.zuora.sdk/zuora-java@1.1.0-beta.353.1?classifier=sources
 - pkg:maven/com.zuora.sdk/zuora-java@1.1.0.351.3
 - pkg:maven/com.zuora.sdk/zuora-java@1.1.0.351.3?classifier=sources
 - pkg:maven/com.zuora.sdk/zuora-java@1.1.0.351.4
@@ -24,3 +28,5 @@
 - pkg:maven/com.zuora.sdk/zuora-java@1.1.0.351.5?classifier=sources
 - pkg:maven/com.zuora.sdk/zuora-java@1.1.0.352.1
 - pkg:maven/com.zuora.sdk/zuora-java@1.1.0.352.1?classifier=sources
+- pkg:maven/com.zuora.sdk/zuora-java@1.1.0.352.2
+- pkg:maven/com.zuora.sdk/zuora-java@1.1.0.352.2?classifier=sources

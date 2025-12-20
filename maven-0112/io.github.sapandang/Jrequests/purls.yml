@@ -1,1 +1,2 @@
 - pkg:maven/io.github.sapandang/Jrequests@1.0?classifier=sources
+- pkg:maven/io.github.sapandang/Jrequests@1.1?classifier=sources

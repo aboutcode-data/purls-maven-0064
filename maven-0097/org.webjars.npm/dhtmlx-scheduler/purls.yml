@@ -16,3 +16,4 @@
 - pkg:maven/org.webjars.npm/dhtmlx-scheduler@7.0.2?classifier=sources
 - pkg:maven/org.webjars.npm/dhtmlx-scheduler@7.0.3
 - pkg:maven/org.webjars.npm/dhtmlx-scheduler@7.0.3?classifier=sources
+- pkg:maven/org.webjars.npm/dhtmlx-scheduler@7.0.4

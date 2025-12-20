@@ -1,0 +1,1 @@
+- pkg:maven/org.mvnpm/esbuild-plugin-vue3@0.4.2?classifier=sources

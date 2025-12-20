@@ -14,3 +14,5 @@
 - pkg:maven/com.illposed.osc/javaosc-ui@0.7?classifier=sources
 - pkg:maven/com.illposed.osc/javaosc-ui@0.8
 - pkg:maven/com.illposed.osc/javaosc-ui@0.8?classifier=sources
+- pkg:maven/com.illposed.osc/javaosc-ui@0.9
+- pkg:maven/com.illposed.osc/javaosc-ui@0.9?classifier=sources

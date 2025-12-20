@@ -35,4 +35,6 @@
 - pkg:maven/fr.pacifista.api.server.players.sync.service/pacifista-server-players-sync-service@1.5.2.2?classifier=sources
 - pkg:maven/fr.pacifista.api.server.players.sync.service/pacifista-server-players-sync-service@1.5.2.3
 - pkg:maven/fr.pacifista.api.server.players.sync.service/pacifista-server-players-sync-service@1.5.2.3?classifier=sources
+- pkg:maven/fr.pacifista.api.server.players.sync.service/pacifista-server-players-sync-service@1.5.2.4
+- pkg:maven/fr.pacifista.api.server.players.sync.service/pacifista-server-players-sync-service@1.5.2.4?classifier=sources
 - pkg:maven/fr.pacifista.api.server.players.sync.service/pacifista-server-players-sync-service@1.5.2?classifier=sources

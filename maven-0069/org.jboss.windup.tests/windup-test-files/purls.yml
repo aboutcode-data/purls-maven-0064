@@ -84,3 +84,4 @@
 - pkg:maven/org.jboss.windup.tests/windup-test-files@6.3.5.Final
 - pkg:maven/org.jboss.windup.tests/windup-test-files@6.3.6.Final
 - pkg:maven/org.jboss.windup.tests/windup-test-files@6.3.7.Final
+- pkg:maven/org.jboss.windup.tests/windup-test-files@6.3.8.Final

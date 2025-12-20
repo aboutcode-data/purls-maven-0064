@@ -20,3 +20,5 @@
 - pkg:maven/be.yildiz-games/module-messaging-activemq@1.0.7?classifier=sources
 - pkg:maven/be.yildiz-games/module-messaging-activemq@1.0.8
 - pkg:maven/be.yildiz-games/module-messaging-activemq@1.0.8?classifier=sources
+- pkg:maven/be.yildiz-games/module-messaging-activemq@2.0.0
+- pkg:maven/be.yildiz-games/module-messaging-activemq@2.0.0?classifier=sources

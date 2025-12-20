@@ -128,6 +128,8 @@
 - pkg:maven/com.google.apis/google-api-services-admob@v1-rev20230327-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-admob@v1-rev20230425-2.0.0
 - pkg:maven/com.google.apis/google-api-services-admob@v1-rev20230425-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-admob@v1-rev20240514-2.0.0
+- pkg:maven/com.google.apis/google-api-services-admob@v1-rev20240514-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-admob@v1-rev23-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-admob@v1-rev23-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-admob@v1-rev23-1.25.0
@@ -224,3 +226,5 @@
 - pkg:maven/com.google.apis/google-api-services-admob@v1beta-rev20231113-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-admob@v1beta-rev20240201-2.0.0
 - pkg:maven/com.google.apis/google-api-services-admob@v1beta-rev20240201-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-admob@v1beta-rev20240514-2.0.0
+- pkg:maven/com.google.apis/google-api-services-admob@v1beta-rev20240514-2.0.0?classifier=sources

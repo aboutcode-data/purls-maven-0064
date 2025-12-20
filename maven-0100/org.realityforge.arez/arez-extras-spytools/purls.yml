@@ -18,3 +18,5 @@
 - pkg:maven/org.realityforge.arez/arez-extras-spytools@0.207?classifier=sources
 - pkg:maven/org.realityforge.arez/arez-extras-spytools@0.208
 - pkg:maven/org.realityforge.arez/arez-extras-spytools@0.208?classifier=sources
+- pkg:maven/org.realityforge.arez/arez-extras-spytools@0.209
+- pkg:maven/org.realityforge.arez/arez-extras-spytools@0.209?classifier=sources

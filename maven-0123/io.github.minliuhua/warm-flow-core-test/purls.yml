@@ -27,3 +27,9 @@
 - pkg:maven/io.github.minliuhua/warm-flow-core-test@1.1.51
 - pkg:maven/io.github.minliuhua/warm-flow-core-test@1.1.6
 - pkg:maven/io.github.minliuhua/warm-flow-core-test@1.1.7
+- pkg:maven/io.github.minliuhua/warm-flow-core-test@1.1.80
+- pkg:maven/io.github.minliuhua/warm-flow-core-test@1.1.80?classifier=sources
+- pkg:maven/io.github.minliuhua/warm-flow-core-test@1.1.90
+- pkg:maven/io.github.minliuhua/warm-flow-core-test@1.1.90?classifier=sources
+- pkg:maven/io.github.minliuhua/warm-flow-core-test@1.1.91
+- pkg:maven/io.github.minliuhua/warm-flow-core-test@1.1.91?classifier=sources

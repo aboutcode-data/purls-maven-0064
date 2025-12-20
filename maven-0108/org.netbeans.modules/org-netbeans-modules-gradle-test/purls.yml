@@ -20,3 +20,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-test@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-test@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-test@RELEASE210?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-test@RELEASE220?classifier=sources

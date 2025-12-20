@@ -1,0 +1,2 @@
+- pkg:maven/eu.joaocosta/interim_native0.5_3@0.2.0
+- pkg:maven/eu.joaocosta/interim_native0.5_3@0.2.0?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/com.ngrok/ngrok-java-17@0.6.0?classifier=sources
 - pkg:maven/com.ngrok/ngrok-java-17@1.0.0
 - pkg:maven/com.ngrok/ngrok-java-17@1.0.0?classifier=sources
+- pkg:maven/com.ngrok/ngrok-java-17@1.0.1
+- pkg:maven/com.ngrok/ngrok-java-17@1.0.1?classifier=sources

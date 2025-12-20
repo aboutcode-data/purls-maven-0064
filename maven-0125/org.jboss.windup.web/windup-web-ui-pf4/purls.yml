@@ -102,3 +102,5 @@
 - pkg:maven/org.jboss.windup.web/windup-web-ui-pf4@6.3.6.Final?type=war
 - pkg:maven/org.jboss.windup.web/windup-web-ui-pf4@6.3.7.Final?classifier=sources
 - pkg:maven/org.jboss.windup.web/windup-web-ui-pf4@6.3.7.Final?type=war
+- pkg:maven/org.jboss.windup.web/windup-web-ui-pf4@6.3.8.Final?classifier=sources
+- pkg:maven/org.jboss.windup.web/windup-web-ui-pf4@6.3.8.Final?type=war

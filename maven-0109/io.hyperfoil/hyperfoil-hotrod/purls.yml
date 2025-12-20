@@ -25,3 +25,5 @@
 - pkg:maven/io.hyperfoil/hyperfoil-hotrod@0.25
 - pkg:maven/io.hyperfoil/hyperfoil-hotrod@0.25.1
 - pkg:maven/io.hyperfoil/hyperfoil-hotrod@0.25.2
+- pkg:maven/io.hyperfoil/hyperfoil-hotrod@0.26
+- pkg:maven/io.hyperfoil/hyperfoil-hotrod@0.26?classifier=sources

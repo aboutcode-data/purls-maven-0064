@@ -8,3 +8,5 @@
 - pkg:maven/org.omnifaces.arquillian/glassfish-container-common@1.3?classifier=sources
 - pkg:maven/org.omnifaces.arquillian/glassfish-container-common@1.4
 - pkg:maven/org.omnifaces.arquillian/glassfish-container-common@1.4?classifier=sources
+- pkg:maven/org.omnifaces.arquillian/glassfish-container-common@1.5
+- pkg:maven/org.omnifaces.arquillian/glassfish-container-common@1.5?classifier=sources
