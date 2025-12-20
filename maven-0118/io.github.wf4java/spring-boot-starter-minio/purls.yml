@@ -1,0 +1,2 @@
+- pkg:maven/io.github.wf4java/spring-boot-starter-minio@1.0
+- pkg:maven/io.github.wf4java/spring-boot-starter-minio@1.0?classifier=sources

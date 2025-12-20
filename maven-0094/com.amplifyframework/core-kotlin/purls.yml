@@ -178,6 +178,7 @@
 - pkg:maven/com.amplifyframework/core-kotlin@2.14.6?classifier=sources
 - pkg:maven/com.amplifyframework/core-kotlin@2.14.7?classifier=sources
 - pkg:maven/com.amplifyframework/core-kotlin@2.14.8?classifier=sources
+- pkg:maven/com.amplifyframework/core-kotlin@2.14.9?classifier=sources
 - pkg:maven/com.amplifyframework/core-kotlin@2.3.0?classifier=sources
 - pkg:maven/com.amplifyframework/core-kotlin@2.4.0?classifier=sources
 - pkg:maven/com.amplifyframework/core-kotlin@2.4.1?classifier=sources

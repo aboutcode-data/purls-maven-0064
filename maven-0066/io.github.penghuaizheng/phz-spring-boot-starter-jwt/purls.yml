@@ -1,0 +1,2 @@
+- pkg:maven/io.github.penghuaizheng/phz-spring-boot-starter-jwt@1.0.0-snapshot
+- pkg:maven/io.github.penghuaizheng/phz-spring-boot-starter-jwt@1.0.0-snapshot?classifier=sources

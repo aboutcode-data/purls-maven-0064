@@ -1,0 +1,10 @@
+- pkg:maven/com.google.apis/google-api-services-apphub@v1-rev20231208-2.0.0
+- pkg:maven/com.google.apis/google-api-services-apphub@v1-rev20231208-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-apphub@v1-rev20240104-2.0.0
+- pkg:maven/com.google.apis/google-api-services-apphub@v1-rev20240104-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-apphub@v1-rev20240116-2.0.0
+- pkg:maven/com.google.apis/google-api-services-apphub@v1-rev20240116-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-apphub@v1alpha-rev20231129-2.0.0
+- pkg:maven/com.google.apis/google-api-services-apphub@v1alpha-rev20231129-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-apphub@v1alpha-rev20240104-2.0.0
+- pkg:maven/com.google.apis/google-api-services-apphub@v1alpha-rev20240104-2.0.0?classifier=sources

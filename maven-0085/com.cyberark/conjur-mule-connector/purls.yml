@@ -1,0 +1,2 @@
+- pkg:maven/com.cyberark/conjur-mule-connector@1.0.2
+- pkg:maven/com.cyberark/conjur-mule-connector@1.0.2?classifier=sources

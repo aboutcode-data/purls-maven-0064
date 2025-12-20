@@ -88,6 +88,10 @@
 - pkg:maven/com.google.cloud/google-cloud-tpu@2.32.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-tpu@2.33.0
 - pkg:maven/com.google.cloud/google-cloud-tpu@2.33.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-tpu@2.34.0
+- pkg:maven/com.google.cloud/google-cloud-tpu@2.34.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-tpu@2.35.0
+- pkg:maven/com.google.cloud/google-cloud-tpu@2.35.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-tpu@2.4.0
 - pkg:maven/com.google.cloud/google-cloud-tpu@2.4.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-tpu@2.5.0

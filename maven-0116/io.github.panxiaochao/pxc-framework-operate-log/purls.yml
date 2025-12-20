@@ -6,5 +6,7 @@
 - pkg:maven/io.github.panxiaochao/pxc-framework-operate-log@2.0.2?classifier=sources
 - pkg:maven/io.github.panxiaochao/pxc-framework-operate-log@2.0.3
 - pkg:maven/io.github.panxiaochao/pxc-framework-operate-log@2.0.3?classifier=sources
+- pkg:maven/io.github.panxiaochao/pxc-framework-operate-log@2.0.4
+- pkg:maven/io.github.panxiaochao/pxc-framework-operate-log@2.0.4?classifier=sources
 - pkg:maven/io.github.panxiaochao/pxc-framework-operate-log@2022-2.7-1.5
 - pkg:maven/io.github.panxiaochao/pxc-framework-operate-log@2022-2.7-1.5?classifier=sources

@@ -18,3 +18,9 @@
 - pkg:maven/io.mogdb/mogdb-jdbc@5.0.0.3.og?classifier=sources
 - pkg:maven/io.mogdb/mogdb-jdbc@5.0.0.3.pg
 - pkg:maven/io.mogdb/mogdb-jdbc@5.0.0.3.pg?classifier=sources
+- pkg:maven/io.mogdb/mogdb-jdbc@5.0.0.4.mg
+- pkg:maven/io.mogdb/mogdb-jdbc@5.0.0.4.mg?classifier=sources
+- pkg:maven/io.mogdb/mogdb-jdbc@5.0.0.4.og
+- pkg:maven/io.mogdb/mogdb-jdbc@5.0.0.4.og?classifier=sources
+- pkg:maven/io.mogdb/mogdb-jdbc@5.0.0.4.pg
+- pkg:maven/io.mogdb/mogdb-jdbc@5.0.0.4.pg?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.foodtechlab/common-entities-api@4.0.0
+- pkg:maven/io.foodtechlab/common-entities-api@4.0.0?classifier=sources

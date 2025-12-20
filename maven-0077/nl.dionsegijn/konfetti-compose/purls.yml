@@ -6,3 +6,4 @@
 - pkg:maven/nl.dionsegijn/konfetti-compose@2.0.2?classifier=sources
 - pkg:maven/nl.dionsegijn/konfetti-compose@2.0.3?classifier=sources
 - pkg:maven/nl.dionsegijn/konfetti-compose@2.0.4?classifier=sources
+- pkg:maven/nl.dionsegijn/konfetti-compose@2.1.0-beta01?classifier=sources

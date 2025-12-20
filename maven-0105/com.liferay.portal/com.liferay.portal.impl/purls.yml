@@ -3094,3 +3094,11 @@
 - pkg:maven/com.liferay.portal/com.liferay.portal.impl@95.0.0?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.portal.impl@96.0.0
 - pkg:maven/com.liferay.portal/com.liferay.portal.impl@96.0.0?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.portal.impl@97.0.0
+- pkg:maven/com.liferay.portal/com.liferay.portal.impl@97.0.0?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.portal.impl@98.0.0
+- pkg:maven/com.liferay.portal/com.liferay.portal.impl@98.0.0?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.portal.impl@98.0.1
+- pkg:maven/com.liferay.portal/com.liferay.portal.impl@98.0.1?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.portal.impl@98.1.0
+- pkg:maven/com.liferay.portal/com.liferay.portal.impl@98.1.0?classifier=sources

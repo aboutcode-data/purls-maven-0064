@@ -10,3 +10,4 @@
 - pkg:maven/org.jetbrains.kotlinx/lincheck@2.22?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/lincheck@2.23-IDEA-PLUGIN?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/lincheck@2.23?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/lincheck@2.24?classifier=sources

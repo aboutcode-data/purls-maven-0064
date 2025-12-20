@@ -71,3 +71,5 @@
 - pkg:maven/org.codenarc/CodeNarc@3.2.0?classifier=sources
 - pkg:maven/org.codenarc/CodeNarc@3.3.0-groovy-4.0?classifier=sources
 - pkg:maven/org.codenarc/CodeNarc@3.3.0?classifier=sources
+- pkg:maven/org.codenarc/CodeNarc@3.4.0-groovy-4.0?classifier=sources
+- pkg:maven/org.codenarc/CodeNarc@3.4.0?classifier=sources

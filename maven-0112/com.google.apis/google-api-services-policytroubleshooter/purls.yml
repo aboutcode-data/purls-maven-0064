@@ -70,6 +70,10 @@
 - pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1-rev20230129-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1-rev20230806-2.0.0
 - pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1-rev20230806-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1-rev20231217-2.0.0
+- pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1-rev20231217-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1-rev20240121-2.0.0
+- pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1-rev20240121-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1-rev3-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1-rev3-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1-rev3-1.25.0
@@ -198,6 +202,10 @@
 - pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1beta-rev20230129-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1beta-rev20230806-2.0.0
 - pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1beta-rev20230806-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1beta-rev20231217-2.0.0
+- pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1beta-rev20231217-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1beta-rev20240121-2.0.0
+- pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1beta-rev20240121-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1beta-rev6-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1beta-rev6-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-policytroubleshooter@v1beta-rev6-1.25.0

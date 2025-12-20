@@ -8,6 +8,8 @@
 - pkg:maven/org.webjars.npm/fastq@1.15.0?classifier=sources
 - pkg:maven/org.webjars.npm/fastq@1.16.0
 - pkg:maven/org.webjars.npm/fastq@1.16.0?classifier=sources
+- pkg:maven/org.webjars.npm/fastq@1.17.0
+- pkg:maven/org.webjars.npm/fastq@1.17.0?classifier=sources
 - pkg:maven/org.webjars.npm/fastq@1.6.0
 - pkg:maven/org.webjars.npm/fastq@1.6.0?classifier=sources
 - pkg:maven/org.webjars.npm/fastq@1.8.0

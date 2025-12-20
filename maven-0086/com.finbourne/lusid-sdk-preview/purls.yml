@@ -628,6 +628,10 @@
 - pkg:maven/com.finbourne/lusid-sdk-preview@1.3.211?classifier=sources
 - pkg:maven/com.finbourne/lusid-sdk-preview@1.3.212
 - pkg:maven/com.finbourne/lusid-sdk-preview@1.3.212?classifier=sources
+- pkg:maven/com.finbourne/lusid-sdk-preview@1.3.213
+- pkg:maven/com.finbourne/lusid-sdk-preview@1.3.213?classifier=sources
+- pkg:maven/com.finbourne/lusid-sdk-preview@1.3.214
+- pkg:maven/com.finbourne/lusid-sdk-preview@1.3.214?classifier=sources
 - pkg:maven/com.finbourne/lusid-sdk-preview@1.3.21?classifier=sources
 - pkg:maven/com.finbourne/lusid-sdk-preview@1.3.22
 - pkg:maven/com.finbourne/lusid-sdk-preview@1.3.22?classifier=sources

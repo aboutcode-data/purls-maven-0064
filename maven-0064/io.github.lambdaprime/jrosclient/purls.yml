@@ -2,3 +2,4 @@
 - pkg:maven/io.github.lambdaprime/jrosclient@5.0?classifier=sources
 - pkg:maven/io.github.lambdaprime/jrosclient@6.0?classifier=sources
 - pkg:maven/io.github.lambdaprime/jrosclient@7.0?classifier=sources
+- pkg:maven/io.github.lambdaprime/jrosclient@8.0?classifier=sources

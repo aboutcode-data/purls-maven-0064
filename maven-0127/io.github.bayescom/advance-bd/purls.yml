@@ -5,3 +5,5 @@
 - pkg:maven/io.github.bayescom/advance-bd@4.3.0_rr2_9313?type=aar
 - pkg:maven/io.github.bayescom/advance-bd@4.3.1_9324?type=aar
 - pkg:maven/io.github.bayescom/advance-bd@4.3.1_9324_core?type=aar
+- pkg:maven/io.github.bayescom/advance-bd@4.3.2_9332?type=aar
+- pkg:maven/io.github.bayescom/advance-bd@4.3.2_9332_core?type=aar

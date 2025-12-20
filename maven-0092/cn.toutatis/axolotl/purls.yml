@@ -1,0 +1,10 @@
+- pkg:maven/cn.toutatis/axolotl@0.0.0-ALPHA
+- pkg:maven/cn.toutatis/axolotl@0.0.0-ALPHA-8
+- pkg:maven/cn.toutatis/axolotl@0.0.0-ALPHA-8?classifier=sources
+- pkg:maven/cn.toutatis/axolotl@0.0.0-ALPHA?classifier=sources
+- pkg:maven/cn.toutatis/axolotl@0.0.1-ALPHA-8
+- pkg:maven/cn.toutatis/axolotl@0.0.1-ALPHA-8?classifier=sources
+- pkg:maven/cn.toutatis/axolotl@0.0.2-ALPHA-8
+- pkg:maven/cn.toutatis/axolotl@0.0.2-ALPHA-8?classifier=sources
+- pkg:maven/cn.toutatis/axolotl@0.0.3-ALPHA-8
+- pkg:maven/cn.toutatis/axolotl@0.0.3-ALPHA-8?classifier=sources

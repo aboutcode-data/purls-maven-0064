@@ -39,3 +39,4 @@
 - pkg:maven/io.github.palexdev/mfxcore@11.6.4?classifier=sources
 - pkg:maven/io.github.palexdev/mfxcore@11.7.0?classifier=sources
 - pkg:maven/io.github.palexdev/mfxcore@11.8.0?classifier=sources
+- pkg:maven/io.github.palexdev/mfxcore@11.8.1?classifier=sources

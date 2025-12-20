@@ -52,3 +52,5 @@
 - pkg:maven/com.github.ddm4j/spring-boot-api-document@2.6.0?classifier=sources
 - pkg:maven/com.github.ddm4j/spring-boot-api-document@2.7.0
 - pkg:maven/com.github.ddm4j/spring-boot-api-document@2.7.0?classifier=sources
+- pkg:maven/com.github.ddm4j/spring-boot-api-document@2.7.1
+- pkg:maven/com.github.ddm4j/spring-boot-api-document@2.7.1?classifier=sources

@@ -3,6 +3,11 @@
 - pkg:maven/org.ossreviewtoolkit.clients/nexus-iq-client@1.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/nexus-iq-client@10.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/nexus-iq-client@11.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/nexus-iq-client@12.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/nexus-iq-client@13.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/nexus-iq-client@14.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/nexus-iq-client@15.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/nexus-iq-client@15.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/nexus-iq-client@2.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/nexus-iq-client@3.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/nexus-iq-client@4.0.0?classifier=sources

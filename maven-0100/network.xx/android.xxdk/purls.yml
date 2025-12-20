@@ -1,0 +1,2 @@
+- pkg:maven/network.xx/android.xxdk@4.7.2?classifier=sources
+- pkg:maven/network.xx/android.xxdk@4.7.2?type=aar

@@ -27,6 +27,20 @@
 - pkg:maven/com.pulumi/aiven@6.1.0-alpha.1680282819%2Bb47976e5?classifier=sources
 - pkg:maven/com.pulumi/aiven@6.1.0?classifier=sources
 - pkg:maven/com.pulumi/aiven@6.1.1?classifier=sources
+- pkg:maven/com.pulumi/aiven@6.10.0-alpha.1704345367%2Bfa5e2c47?classifier=sources
+- pkg:maven/com.pulumi/aiven@6.10.0-alpha.1704358627%2Be8a94611?classifier=sources
+- pkg:maven/com.pulumi/aiven@6.10.0?classifier=sources
+- pkg:maven/com.pulumi/aiven@6.10.1?classifier=sources
+- pkg:maven/com.pulumi/aiven@6.11.0-alpha.1704428276%2B82c07282?classifier=sources
+- pkg:maven/com.pulumi/aiven@6.11.0-alpha.1704742657%2B556c1112?classifier=sources
+- pkg:maven/com.pulumi/aiven@6.11.0-alpha.1705192031%2Bcfdfff01?classifier=sources
+- pkg:maven/com.pulumi/aiven@6.11.0-alpha.1705199230%2Bfd05e002?classifier=sources
+- pkg:maven/com.pulumi/aiven@6.11.1?classifier=sources
+- pkg:maven/com.pulumi/aiven@6.12.0-alpha.1705434301%2Bc6c61961?classifier=sources
+- pkg:maven/com.pulumi/aiven@6.12.0-alpha.1705468566%2Ba7c9d5f8?classifier=sources
+- pkg:maven/com.pulumi/aiven@6.12.0-alpha.1705641324%2Be164f456?classifier=sources
+- pkg:maven/com.pulumi/aiven@6.12.0-alpha.1705969370%2Be1a78dae?classifier=sources
+- pkg:maven/com.pulumi/aiven@6.12.0-alpha.1705986971%2Bac82c5ae?classifier=sources
 - pkg:maven/com.pulumi/aiven@6.2.0-alpha.1680908281%2Bc795a662?classifier=sources
 - pkg:maven/com.pulumi/aiven@6.2.0-alpha.1681926758%2B48bf0ecf?classifier=sources
 - pkg:maven/com.pulumi/aiven@6.2.0-alpha.1682024783%2B4dbd7e68?classifier=sources
@@ -117,3 +131,6 @@
 - pkg:maven/com.pulumi/aiven@6.8.0-alpha.1703135688%2Bfece5696?classifier=sources
 - pkg:maven/com.pulumi/aiven@6.8.0-alpha.1703654079%2B3abce365?classifier=sources
 - pkg:maven/com.pulumi/aiven@6.8.0-alpha.1703714850%2Bbb072e4a?classifier=sources
+- pkg:maven/com.pulumi/aiven@6.8.0-alpha.1703757123%2B484bf6e1?classifier=sources
+- pkg:maven/com.pulumi/aiven@6.9.0-alpha.1703826917%2B47c500be?classifier=sources
+- pkg:maven/com.pulumi/aiven@6.9.0-alpha.1704258951%2B535ae3d0?classifier=sources

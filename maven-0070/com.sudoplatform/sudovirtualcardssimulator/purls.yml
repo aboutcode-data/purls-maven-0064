@@ -22,3 +22,5 @@
 - pkg:maven/com.sudoplatform/sudovirtualcardssimulator@7.0.0?type=aar
 - pkg:maven/com.sudoplatform/sudovirtualcardssimulator@8.0.0?classifier=sources
 - pkg:maven/com.sudoplatform/sudovirtualcardssimulator@8.0.0?type=aar
+- pkg:maven/com.sudoplatform/sudovirtualcardssimulator@9.0.0?classifier=sources
+- pkg:maven/com.sudoplatform/sudovirtualcardssimulator@9.0.0?type=aar

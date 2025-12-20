@@ -33,6 +33,8 @@
 - pkg:maven/com.ig.orchestrations.chart.data/chart-data-java-binding@0.4.21?classifier=sources
 - pkg:maven/com.ig.orchestrations.chart.data/chart-data-java-binding@0.4.24
 - pkg:maven/com.ig.orchestrations.chart.data/chart-data-java-binding@0.4.24?classifier=sources
+- pkg:maven/com.ig.orchestrations.chart.data/chart-data-java-binding@0.4.26
+- pkg:maven/com.ig.orchestrations.chart.data/chart-data-java-binding@0.4.26?classifier=sources
 - pkg:maven/com.ig.orchestrations.chart.data/chart-data-java-binding@0.4.2?classifier=sources
 - pkg:maven/com.ig.orchestrations.chart.data/chart-data-java-binding@0.4.3
 - pkg:maven/com.ig.orchestrations.chart.data/chart-data-java-binding@0.4.3?classifier=sources

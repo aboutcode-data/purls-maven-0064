@@ -250,3 +250,7 @@
 - pkg:maven/com.palantir.cassandra/cassandra-manager-objects@0.94.0-rc6?classifier=sources
 - pkg:maven/com.palantir.cassandra/cassandra-manager-objects@0.94.0?classifier=sources
 - pkg:maven/com.palantir.cassandra/cassandra-manager-objects@0.95.0?classifier=sources
+- pkg:maven/com.palantir.cassandra/cassandra-manager-objects@0.96.0-rc1?classifier=sources
+- pkg:maven/com.palantir.cassandra/cassandra-manager-objects@0.96.0?classifier=sources
+- pkg:maven/com.palantir.cassandra/cassandra-manager-objects@0.97.0?classifier=sources
+- pkg:maven/com.palantir.cassandra/cassandra-manager-objects@0.98.0?classifier=sources

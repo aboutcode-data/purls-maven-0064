@@ -72,3 +72,5 @@
 - pkg:maven/io.lighty.core/lighty-clustering@19.0.0?classifier=sources
 - pkg:maven/io.lighty.core/lighty-clustering@19.1.0
 - pkg:maven/io.lighty.core/lighty-clustering@19.1.0?classifier=sources
+- pkg:maven/io.lighty.core/lighty-clustering@19.2.0
+- pkg:maven/io.lighty.core/lighty-clustering@19.2.0?classifier=sources

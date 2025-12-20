@@ -486,3 +486,5 @@
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-car@3.1.896?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-car@3.1.920
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-car@3.1.920?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-car@3.1.948
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-car@3.1.948?classifier=sources

@@ -1,3 +1,4 @@
+- pkg:maven/io.github.raamcosta.compose-destinations/wear-core@1.10.0?classifier=sources
 - pkg:maven/io.github.raamcosta.compose-destinations/wear-core@1.5.30-beta?classifier=sources
 - pkg:maven/io.github.raamcosta.compose-destinations/wear-core@1.5.32-beta?classifier=sources
 - pkg:maven/io.github.raamcosta.compose-destinations/wear-core@1.5.33-beta?classifier=sources
@@ -43,3 +44,11 @@
 - pkg:maven/io.github.raamcosta.compose-destinations/wear-core@1.9.53?classifier=sources
 - pkg:maven/io.github.raamcosta.compose-destinations/wear-core@1.9.54?classifier=sources
 - pkg:maven/io.github.raamcosta.compose-destinations/wear-core@1.9.55?classifier=sources
+- pkg:maven/io.github.raamcosta.compose-destinations/wear-core@1.9.56?classifier=sources
+- pkg:maven/io.github.raamcosta.compose-destinations/wear-core@1.9.57?classifier=sources
+- pkg:maven/io.github.raamcosta.compose-destinations/wear-core@1.9.58?classifier=sources
+- pkg:maven/io.github.raamcosta.compose-destinations/wear-core@1.9.59?classifier=sources
+- pkg:maven/io.github.raamcosta.compose-destinations/wear-core@1.9.60?classifier=sources
+- pkg:maven/io.github.raamcosta.compose-destinations/wear-core@1.9.61?classifier=sources
+- pkg:maven/io.github.raamcosta.compose-destinations/wear-core@1.9.62?classifier=sources
+- pkg:maven/io.github.raamcosta.compose-destinations/wear-core@1.9.63?classifier=sources

@@ -20,3 +20,5 @@
 - pkg:maven/net.sf.okapi.testutilities/okapi-ui-harness@1.44.0?classifier=sources
 - pkg:maven/net.sf.okapi.testutilities/okapi-ui-harness@1.45.0
 - pkg:maven/net.sf.okapi.testutilities/okapi-ui-harness@1.45.0?classifier=sources
+- pkg:maven/net.sf.okapi.testutilities/okapi-ui-harness@1.46.0
+- pkg:maven/net.sf.okapi.testutilities/okapi-ui-harness@1.46.0?classifier=sources

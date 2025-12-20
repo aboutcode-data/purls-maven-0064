@@ -1,1 +1,2 @@
 - pkg:maven/io.kestra.plugin/plugin-ansible@0.13.0?classifier=sources
+- pkg:maven/io.kestra.plugin/plugin-ansible@0.14.0?classifier=sources

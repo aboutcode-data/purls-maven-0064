@@ -696,6 +696,8 @@
 - pkg:maven/com.google.apis/google-api-services-tpu@v2-rev20230707-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-tpu@v2-rev20230803-2.0.0
 - pkg:maven/com.google.apis/google-api-services-tpu@v2-rev20230803-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-tpu@v2-rev20240111-2.0.0
+- pkg:maven/com.google.apis/google-api-services-tpu@v2-rev20240111-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-tpu@v2alpha1-rev20210915-1.32.1
 - pkg:maven/com.google.apis/google-api-services-tpu@v2alpha1-rev20210915-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-tpu@v2alpha1-rev20211021-1.32.1
@@ -750,3 +752,5 @@
 - pkg:maven/com.google.apis/google-api-services-tpu@v2alpha1-rev20231102-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-tpu@v2alpha1-rev20231130-2.0.0
 - pkg:maven/com.google.apis/google-api-services-tpu@v2alpha1-rev20231130-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-tpu@v2alpha1-rev20240111-2.0.0
+- pkg:maven/com.google.apis/google-api-services-tpu@v2alpha1-rev20240111-2.0.0?classifier=sources
