@@ -90,3 +90,7 @@
 - pkg:maven/dev.vality/swag-payments@1.649-77c86a5-client?classifier=sources
 - pkg:maven/dev.vality/swag-payments@1.649-77c86a5-server
 - pkg:maven/dev.vality/swag-payments@1.649-77c86a5-server?classifier=sources
+- pkg:maven/dev.vality/swag-payments@1.650-5dc6d9f-client
+- pkg:maven/dev.vality/swag-payments@1.650-5dc6d9f-client?classifier=sources
+- pkg:maven/dev.vality/swag-payments@1.650-5dc6d9f-server
+- pkg:maven/dev.vality/swag-payments@1.650-5dc6d9f-server?classifier=sources

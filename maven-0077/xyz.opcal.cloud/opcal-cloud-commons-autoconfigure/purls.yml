@@ -132,6 +132,8 @@
 - pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-autoconfigure@3.1.7.0?classifier=sources
 - pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-autoconfigure@3.1.8.0
 - pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-autoconfigure@3.1.8.0?classifier=sources
+- pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-autoconfigure@3.1.9.0
+- pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-autoconfigure@3.1.9.0?classifier=sources
 - pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-autoconfigure@3.2.0.0
 - pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-autoconfigure@3.2.0.0?classifier=sources
 - pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-autoconfigure@3.2.1.0
@@ -140,3 +142,5 @@
 - pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-autoconfigure@3.2.1.1?classifier=sources
 - pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-autoconfigure@3.2.2.0
 - pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-autoconfigure@3.2.2.0?classifier=sources
+- pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-autoconfigure@3.2.3.0
+- pkg:maven/xyz.opcal.cloud/opcal-cloud-commons-autoconfigure@3.2.3.0?classifier=sources

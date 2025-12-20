@@ -1,0 +1,2 @@
+- pkg:maven/com.zuora.sdk/zuora-java@1.1.0-beta.348.1
+- pkg:maven/com.zuora.sdk/zuora-java@1.1.0-beta.348.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.jakewharton.diffuse/reports@0.2.0?classifier=sources
+- pkg:maven/com.jakewharton.diffuse/reports@0.3.0?classifier=sources

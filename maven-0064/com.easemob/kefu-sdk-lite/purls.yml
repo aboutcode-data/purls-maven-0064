@@ -42,3 +42,4 @@
 - pkg:maven/com.easemob/kefu-sdk-lite@1.3.3.7.im.4.0.2?type=aar
 - pkg:maven/com.easemob/kefu-sdk-lite@1.3.3.8.android14?classifier=sources
 - pkg:maven/com.easemob/kefu-sdk-lite@1.3.3.8.android14?type=aar
+- pkg:maven/com.easemob/kefu-sdk-lite@1.3.3.8?classifier=sources

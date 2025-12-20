@@ -154,4 +154,6 @@
 - pkg:maven/io.imqa/imqa-mpm-injector@2.25.7?classifier=sources
 - pkg:maven/io.imqa/imqa-mpm-injector@2.25.8
 - pkg:maven/io.imqa/imqa-mpm-injector@2.25.8?classifier=sources
+- pkg:maven/io.imqa/imqa-mpm-injector@2.25.9
+- pkg:maven/io.imqa/imqa-mpm-injector@2.25.9?classifier=sources
 - pkg:maven/io.imqa/imqa-mpm-injector@2.3.0?classifier=sources

@@ -11,6 +11,8 @@
 - pkg:maven/com.azure.spring/spring-cloud-azure-trace-sleuth@4.12.0?classifier=sources
 - pkg:maven/com.azure.spring/spring-cloud-azure-trace-sleuth@4.13.0?classifier=sources
 - pkg:maven/com.azure.spring/spring-cloud-azure-trace-sleuth@4.14.0?classifier=sources
+- pkg:maven/com.azure.spring/spring-cloud-azure-trace-sleuth@4.15.0?classifier=sources
+- pkg:maven/com.azure.spring/spring-cloud-azure-trace-sleuth@4.16.0?classifier=sources
 - pkg:maven/com.azure.spring/spring-cloud-azure-trace-sleuth@4.2.0
 - pkg:maven/com.azure.spring/spring-cloud-azure-trace-sleuth@4.2.0?classifier=sources
 - pkg:maven/com.azure.spring/spring-cloud-azure-trace-sleuth@4.3.0

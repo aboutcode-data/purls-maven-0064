@@ -35,4 +35,6 @@
 - pkg:maven/net.corda/corda-tools-explorer@4.9.7?classifier=sources
 - pkg:maven/net.corda/corda-tools-explorer@4.9.8
 - pkg:maven/net.corda/corda-tools-explorer@4.9.8?classifier=sources
+- pkg:maven/net.corda/corda-tools-explorer@4.9.9
+- pkg:maven/net.corda/corda-tools-explorer@4.9.9?classifier=sources
 - pkg:maven/net.corda/corda-tools-explorer@4.9?classifier=sources

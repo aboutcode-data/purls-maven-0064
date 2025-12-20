@@ -64,6 +64,9 @@
 - pkg:maven/com.trackier/android-sdk@1.6.48?classifier=sources
 - pkg:maven/com.trackier/android-sdk@1.6.4?classifier=sources
 - pkg:maven/com.trackier/android-sdk@1.6.4?type=aar
+- pkg:maven/com.trackier/android-sdk@1.6.50?classifier=sources
+- pkg:maven/com.trackier/android-sdk@1.6.51?classifier=sources
+- pkg:maven/com.trackier/android-sdk@1.6.52?classifier=sources
 - pkg:maven/com.trackier/android-sdk@1.6.5?classifier=sources
 - pkg:maven/com.trackier/android-sdk@1.6.5?type=aar
 - pkg:maven/com.trackier/android-sdk@1.6.6?classifier=sources

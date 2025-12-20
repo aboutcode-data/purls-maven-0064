@@ -7,6 +7,7 @@
 - pkg:maven/com.shazam.chimprunner/chimprunner@3.14.0?classifier=sources
 - pkg:maven/com.shazam.chimprunner/chimprunner@3.15.0?classifier=sources
 - pkg:maven/com.shazam.chimprunner/chimprunner@3.16.0?classifier=sources
+- pkg:maven/com.shazam.chimprunner/chimprunner@3.17.0?classifier=sources
 - pkg:maven/com.shazam.chimprunner/chimprunner@3.2.0?classifier=sources
 - pkg:maven/com.shazam.chimprunner/chimprunner@3.3.0?classifier=sources
 - pkg:maven/com.shazam.chimprunner/chimprunner@3.4.0?classifier=sources

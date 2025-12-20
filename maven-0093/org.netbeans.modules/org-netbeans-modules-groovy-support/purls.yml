@@ -20,3 +20,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-support@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-support@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-support@RELEASE200?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-support@RELEASE210?classifier=sources

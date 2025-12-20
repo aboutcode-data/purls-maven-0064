@@ -1,1 +1,3 @@
 - pkg:maven/land.sungbin.composeinvestigator/composeinvestigator-gradle-plugin@0.1.0-dev?classifier=sources
+- pkg:maven/land.sungbin.composeinvestigator/composeinvestigator-gradle-plugin@1.5.10-0.1.0?classifier=sources
+- pkg:maven/land.sungbin.composeinvestigator/composeinvestigator-gradle-plugin@1.5.10-0.1.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/space.iseki.dcc/gradle-plugin@0.1?classifier=sources
+- pkg:maven/space.iseki.dcc/gradle-plugin@0.2?classifier=sources

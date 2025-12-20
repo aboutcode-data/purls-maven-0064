@@ -14,3 +14,4 @@
 - pkg:maven/me.hsgamer/hscore-database-client-h2@4.3.28?classifier=sources
 - pkg:maven/me.hsgamer/hscore-database-client-h2@4.3.29
 - pkg:maven/me.hsgamer/hscore-database-client-h2@4.3.29?classifier=sources
+- pkg:maven/me.hsgamer/hscore-database-client-h2@4.3.30?classifier=sources

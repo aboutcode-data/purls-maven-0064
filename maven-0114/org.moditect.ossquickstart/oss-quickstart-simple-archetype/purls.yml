@@ -1,1 +1,2 @@
 - pkg:maven/org.moditect.ossquickstart/oss-quickstart-simple-archetype@1.0.0.Alpha1?classifier=sources
+- pkg:maven/org.moditect.ossquickstart/oss-quickstart-simple-archetype@1.0.0.Beta1?classifier=sources

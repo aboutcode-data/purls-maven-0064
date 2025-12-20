@@ -20,4 +20,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-core-startup@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-core-startup@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-core-startup@RELEASE200?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-core-startup@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-core-startup@RELEASE90?classifier=sources

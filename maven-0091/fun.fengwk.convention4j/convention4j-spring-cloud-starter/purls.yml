@@ -1,0 +1,14 @@
+- pkg:maven/fun.fengwk.convention4j/convention4j-spring-cloud-starter@0.0.19
+- pkg:maven/fun.fengwk.convention4j/convention4j-spring-cloud-starter@0.0.19?classifier=sources
+- pkg:maven/fun.fengwk.convention4j/convention4j-spring-cloud-starter@0.0.20
+- pkg:maven/fun.fengwk.convention4j/convention4j-spring-cloud-starter@0.0.20?classifier=sources
+- pkg:maven/fun.fengwk.convention4j/convention4j-spring-cloud-starter@0.0.21
+- pkg:maven/fun.fengwk.convention4j/convention4j-spring-cloud-starter@0.0.22
+- pkg:maven/fun.fengwk.convention4j/convention4j-spring-cloud-starter@0.0.22?classifier=sources
+- pkg:maven/fun.fengwk.convention4j/convention4j-spring-cloud-starter@0.0.23
+- pkg:maven/fun.fengwk.convention4j/convention4j-spring-cloud-starter@0.0.24
+- pkg:maven/fun.fengwk.convention4j/convention4j-spring-cloud-starter@0.0.24?classifier=sources
+- pkg:maven/fun.fengwk.convention4j/convention4j-spring-cloud-starter@0.0.25
+- pkg:maven/fun.fengwk.convention4j/convention4j-spring-cloud-starter@0.0.25?classifier=sources
+- pkg:maven/fun.fengwk.convention4j/convention4j-spring-cloud-starter@0.0.27
+- pkg:maven/fun.fengwk.convention4j/convention4j-spring-cloud-starter@0.0.27?classifier=sources

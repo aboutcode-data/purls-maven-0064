@@ -118,3 +118,7 @@
 - pkg:maven/org.alluxio/alluxio-core-transport@307?classifier=sources
 - pkg:maven/org.alluxio/alluxio-core-transport@308
 - pkg:maven/org.alluxio/alluxio-core-transport@308?classifier=sources
+- pkg:maven/org.alluxio/alluxio-core-transport@309
+- pkg:maven/org.alluxio/alluxio-core-transport@309?classifier=sources
+- pkg:maven/org.alluxio/alluxio-core-transport@310
+- pkg:maven/org.alluxio/alluxio-core-transport@310?classifier=sources

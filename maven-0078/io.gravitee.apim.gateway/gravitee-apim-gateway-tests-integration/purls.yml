@@ -51,6 +51,7 @@
 - pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-tests-integration@3.20.26
 - pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-tests-integration@3.20.27
 - pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-tests-integration@3.20.28
+- pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-tests-integration@3.20.29
 - pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-tests-integration@3.20.3
 - pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-tests-integration@3.20.4
 - pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-tests-integration@3.20.5

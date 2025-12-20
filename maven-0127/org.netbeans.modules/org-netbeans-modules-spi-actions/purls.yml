@@ -20,4 +20,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-spi-actions@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-spi-actions@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-spi-actions@RELEASE200?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-spi-actions@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-spi-actions@RELEASE90?classifier=sources

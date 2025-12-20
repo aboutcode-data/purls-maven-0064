@@ -5,3 +5,5 @@
 - pkg:maven/community.flock.wirespec.compiler/lib-jvm@0.8.39?classifier=sources
 - pkg:maven/community.flock.wirespec.compiler/lib-jvm@0.8.42?classifier=sources
 - pkg:maven/community.flock.wirespec.compiler/lib-jvm@0.8.44?classifier=sources
+- pkg:maven/community.flock.wirespec.compiler/lib-jvm@0.8.45?classifier=sources
+- pkg:maven/community.flock.wirespec.compiler/lib-jvm@0.8.46?classifier=sources

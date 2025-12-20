@@ -1,3 +1,4 @@
 - pkg:maven/org.apache.streams/apache-streams@0.5.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.streams/apache-streams@0.6.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.streams/apache-streams@0.6.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.streams/apache-streams@0.7.0?classifier=source-release&type=zip

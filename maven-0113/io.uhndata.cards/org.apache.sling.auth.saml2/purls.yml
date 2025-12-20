@@ -1,0 +1,2 @@
+- pkg:maven/io.uhndata.cards/org.apache.sling.auth.saml2@0.2.6.cards.2?classifier=source-release&type=zip
+- pkg:maven/io.uhndata.cards/org.apache.sling.auth.saml2@0.2.6.cards.2?classifier=sources

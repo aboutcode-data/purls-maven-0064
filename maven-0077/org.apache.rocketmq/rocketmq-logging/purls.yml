@@ -38,6 +38,8 @@
 - pkg:maven/org.apache.rocketmq/rocketmq-logging@4.9.6?classifier=sources
 - pkg:maven/org.apache.rocketmq/rocketmq-logging@4.9.7
 - pkg:maven/org.apache.rocketmq/rocketmq-logging@4.9.7?classifier=sources
+- pkg:maven/org.apache.rocketmq/rocketmq-logging@4.9.8
+- pkg:maven/org.apache.rocketmq/rocketmq-logging@4.9.8?classifier=sources
 - pkg:maven/org.apache.rocketmq/rocketmq-logging@5.0.0
 - pkg:maven/org.apache.rocketmq/rocketmq-logging@5.0.0-ALPHA
 - pkg:maven/org.apache.rocketmq/rocketmq-logging@5.0.0-ALPHA?classifier=sources

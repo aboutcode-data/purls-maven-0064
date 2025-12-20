@@ -7,3 +7,4 @@
 - pkg:maven/io.grpc/grpc-util@1.60.2?classifier=sources
 - pkg:maven/io.grpc/grpc-util@1.61.0?classifier=sources
 - pkg:maven/io.grpc/grpc-util@1.61.1?classifier=sources
+- pkg:maven/io.grpc/grpc-util@1.62.2?classifier=sources

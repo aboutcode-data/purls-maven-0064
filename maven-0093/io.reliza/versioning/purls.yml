@@ -42,3 +42,4 @@
 - pkg:maven/io.reliza/versioning@2022.04.3?classifier=sources
 - pkg:maven/io.reliza/versioning@2023.07.10?classifier=sources
 - pkg:maven/io.reliza/versioning@2023.07.12?classifier=sources
+- pkg:maven/io.reliza/versioning@2023.07.17?classifier=sources

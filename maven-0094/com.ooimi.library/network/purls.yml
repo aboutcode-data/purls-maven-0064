@@ -27,3 +27,4 @@
 - pkg:maven/com.ooimi.library/network@1.2.6?classifier=sources
 - pkg:maven/com.ooimi.library/network@1.2.7?classifier=sources
 - pkg:maven/com.ooimi.library/network@1.2.8?classifier=sources
+- pkg:maven/com.ooimi.library/network@1.2.9?classifier=sources

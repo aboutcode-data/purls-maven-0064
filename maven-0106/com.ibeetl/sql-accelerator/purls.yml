@@ -44,3 +44,5 @@
 - pkg:maven/com.ibeetl/sql-accelerator@3.28.1-RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/sql-accelerator@3.29.0-RELEASE
 - pkg:maven/com.ibeetl/sql-accelerator@3.29.0-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-accelerator@3.30.0-RELEASE
+- pkg:maven/com.ibeetl/sql-accelerator@3.30.0-RELEASE?classifier=sources

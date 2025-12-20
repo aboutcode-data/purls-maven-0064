@@ -1,2 +1,4 @@
 - pkg:maven/cn.jdevelops/spring-quartz-quick@2.0.6
 - pkg:maven/cn.jdevelops/spring-quartz-quick@2.0.6?classifier=sources
+- pkg:maven/cn.jdevelops/spring-quartz-quick@2.0.7
+- pkg:maven/cn.jdevelops/spring-quartz-quick@2.0.7?classifier=sources

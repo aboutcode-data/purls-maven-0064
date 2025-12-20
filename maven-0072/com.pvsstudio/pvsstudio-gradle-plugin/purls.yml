@@ -33,3 +33,4 @@
 - pkg:maven/com.pvsstudio/pvsstudio-gradle-plugin@7.27.75620?classifier=sources
 - pkg:maven/com.pvsstudio/pvsstudio-gradle-plugin@7.28.77071?classifier=sources
 - pkg:maven/com.pvsstudio/pvsstudio-gradle-plugin@7.28.77080?classifier=sources
+- pkg:maven/com.pvsstudio/pvsstudio-gradle-plugin@7.29.79138?classifier=sources

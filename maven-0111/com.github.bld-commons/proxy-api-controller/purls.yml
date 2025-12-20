@@ -1,2 +1,4 @@
 - pkg:maven/com.github.bld-commons/proxy-api-controller@1.0.0
 - pkg:maven/com.github.bld-commons/proxy-api-controller@1.0.0?classifier=sources
+- pkg:maven/com.github.bld-commons/proxy-api-controller@3.0.0
+- pkg:maven/com.github.bld-commons/proxy-api-controller@3.0.0?classifier=sources

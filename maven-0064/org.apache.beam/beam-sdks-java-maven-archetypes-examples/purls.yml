@@ -69,6 +69,7 @@
 - pkg:maven/org.apache.beam/beam-sdks-java-maven-archetypes-examples@2.51.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-maven-archetypes-examples@2.52.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-maven-archetypes-examples@2.53.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-maven-archetypes-examples@2.54.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-maven-archetypes-examples@2.6.0
 - pkg:maven/org.apache.beam/beam-sdks-java-maven-archetypes-examples@2.6.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-maven-archetypes-examples@2.7.0

@@ -49,3 +49,5 @@
 - pkg:maven/org.apache.camel.kafkaconnector/camel-kafka-connector-aggregator@3.21.0?classifier=src&type=zip
 - pkg:maven/org.apache.camel.kafkaconnector/camel-kafka-connector-aggregator@4.0.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.camel.kafkaconnector/camel-kafka-connector-aggregator@4.0.0?classifier=src&type=zip
+- pkg:maven/org.apache.camel.kafkaconnector/camel-kafka-connector-aggregator@4.0.3?classifier=source-release&type=zip
+- pkg:maven/org.apache.camel.kafkaconnector/camel-kafka-connector-aggregator@4.0.3?classifier=src&type=zip

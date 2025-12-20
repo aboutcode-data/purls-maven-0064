@@ -1020,3 +1020,5 @@
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-mongodb@3.1.936?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-mongodb@3.1.938
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-mongodb@3.1.938?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-mongodb@3.1.959
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-mongodb@3.1.959?classifier=sources

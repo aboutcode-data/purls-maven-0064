@@ -50,6 +50,7 @@
 - pkg:maven/com.pulumi/tls@5.0.0-alpha.0%2B7c9d3d42?classifier=sources
 - pkg:maven/com.pulumi/tls@5.0.0-alpha.0?classifier=sources
 - pkg:maven/com.pulumi/tls@5.0.0?classifier=sources
+- pkg:maven/com.pulumi/tls@5.0.1?classifier=sources
 - pkg:maven/com.pulumi/tls@5.1.0-alpha.1678404056%2B91972659?classifier=sources
 - pkg:maven/com.pulumi/tls@5.1.0-alpha.1678809636%2Bab688245?classifier=sources
 - pkg:maven/com.pulumi/tls@5.1.0-alpha.1678890591%2Bfcd01c73?classifier=sources
@@ -98,4 +99,19 @@
 - pkg:maven/com.pulumi/tls@5.1.0-alpha.1705436735%2Bc16592b8?classifier=sources
 - pkg:maven/com.pulumi/tls@5.1.0-alpha.1705592927%2B937b9cda?classifier=sources
 - pkg:maven/com.pulumi/tls@5.1.0-alpha.1705992264%2B4a9a77ce?classifier=sources
+- pkg:maven/com.pulumi/tls@5.1.0-alpha.1706311389%2Bdd93b773?classifier=sources
+- pkg:maven/com.pulumi/tls@5.1.0-alpha.1706750024%2B576591f2?classifier=sources
+- pkg:maven/com.pulumi/tls@5.1.0-alpha.1706815125%2B8a1f1fc0?classifier=sources
+- pkg:maven/com.pulumi/tls@5.1.0-alpha.1706831564%2B36089ccb?classifier=sources
+- pkg:maven/com.pulumi/tls@5.1.0-alpha.1707288896%2Bd141e6b2?classifier=sources
+- pkg:maven/com.pulumi/tls@5.1.0-alpha.1707499337%2B9d66f756?classifier=sources
+- pkg:maven/com.pulumi/tls@5.1.0-alpha.1707548034%2Be74cb97c?classifier=sources
+- pkg:maven/com.pulumi/tls@5.1.0-alpha.1707893888%2Be3bad7eb?classifier=sources
+- pkg:maven/com.pulumi/tls@5.1.0-alpha.1707981145%2B9ea0b236?classifier=sources
+- pkg:maven/com.pulumi/tls@5.1.0-alpha.1708066581%2B91197762?classifier=sources
+- pkg:maven/com.pulumi/tls@5.1.0-alpha.1708498620%2Bbcbdf0e4?classifier=sources
+- pkg:maven/com.pulumi/tls@5.1.0-alpha.1708671725%2Bffe0eeb9?classifier=sources
+- pkg:maven/com.pulumi/tls@5.1.0-alpha.1709017592%2Ba2ce8adf?classifier=sources
+- pkg:maven/com.pulumi/tls@5.1.0-alpha.1709104550%2Be003e438?classifier=sources
+- pkg:maven/com.pulumi/tls@5.1.0-alpha.1709121825%2Be0f362c9?classifier=sources
 - pkg:maven/com.pulumi/tls@v4.7.0-alpha.1657285216%2B364315ad?classifier=sources

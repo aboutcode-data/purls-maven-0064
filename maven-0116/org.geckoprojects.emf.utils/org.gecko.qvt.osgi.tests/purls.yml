@@ -1,0 +1,2 @@
+- pkg:maven/org.geckoprojects.emf.utils/org.gecko.qvt.osgi.tests@2.0.0
+- pkg:maven/org.geckoprojects.emf.utils/org.gecko.qvt.osgi.tests@2.0.0?classifier=sources

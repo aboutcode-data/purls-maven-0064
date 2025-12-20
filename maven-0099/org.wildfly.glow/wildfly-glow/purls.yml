@@ -24,3 +24,4 @@
 - pkg:maven/org.wildfly.glow/wildfly-glow@1.0.0.Beta6?classifier=sources
 - pkg:maven/org.wildfly.glow/wildfly-glow@1.0.0.Beta7?classifier=sources
 - pkg:maven/org.wildfly.glow/wildfly-glow@1.0.0.Beta8?classifier=sources
+- pkg:maven/org.wildfly.glow/wildfly-glow@1.0.0.Beta9?classifier=sources

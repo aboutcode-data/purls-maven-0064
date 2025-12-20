@@ -7,3 +7,4 @@
 - pkg:maven/com.github.nalukit.archetype/modular-springboot-webapp@2022.2.8?classifier=sources
 - pkg:maven/com.github.nalukit.archetype/modular-springboot-webapp@2022.9.14?classifier=sources
 - pkg:maven/com.github.nalukit.archetype/modular-springboot-webapp@2024.1.23?classifier=sources
+- pkg:maven/com.github.nalukit.archetype/modular-springboot-webapp@2024.2.6?classifier=sources

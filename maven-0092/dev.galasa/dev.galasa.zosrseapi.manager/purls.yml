@@ -10,3 +10,4 @@
 - pkg:maven/dev.galasa/dev.galasa.zosrseapi.manager@0.16.0?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.zosrseapi.manager@0.21.0?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.zosrseapi.manager@0.25.0?classifier=sources
+- pkg:maven/dev.galasa/dev.galasa.zosrseapi.manager@0.31.0?classifier=sources

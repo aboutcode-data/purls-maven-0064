@@ -8,3 +8,5 @@
 - pkg:maven/com.uid2/attestation-gcp@1.4.0-4f52af81fa?classifier=sources
 - pkg:maven/com.uid2/attestation-gcp@1.4.2-dd1920710d
 - pkg:maven/com.uid2/attestation-gcp@1.4.2-dd1920710d?classifier=sources
+- pkg:maven/com.uid2/attestation-gcp@2.0.0-21f950573a
+- pkg:maven/com.uid2/attestation-gcp@2.0.0-21f950573a?classifier=sources

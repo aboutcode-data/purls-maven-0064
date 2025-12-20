@@ -57,3 +57,7 @@
 - pkg:maven/com.datadoghq/ddprof@0.94.0?classifier=sources
 - pkg:maven/com.datadoghq/ddprof@0.95.0?classifier=sources
 - pkg:maven/com.datadoghq/ddprof@0.96.0?classifier=sources
+- pkg:maven/com.datadoghq/ddprof@0.97.0?classifier=sources
+- pkg:maven/com.datadoghq/ddprof@0.98.0?classifier=sources
+- pkg:maven/com.datadoghq/ddprof@0.99.0?classifier=sources
+- pkg:maven/com.datadoghq/ddprof@1.1.0?classifier=sources

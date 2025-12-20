@@ -12,3 +12,5 @@
 - pkg:maven/br.com.swconsultoria/java-efd-icms@3.12.1?classifier=sources
 - pkg:maven/br.com.swconsultoria/java-efd-icms@3.12.2
 - pkg:maven/br.com.swconsultoria/java-efd-icms@3.12.2?classifier=sources
+- pkg:maven/br.com.swconsultoria/java-efd-icms@3.16.1
+- pkg:maven/br.com.swconsultoria/java-efd-icms@3.16.1?classifier=sources

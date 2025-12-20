@@ -1,2 +1,4 @@
 - pkg:maven/com.cyfrania/logback-slack-appender@1.0
 - pkg:maven/com.cyfrania/logback-slack-appender@1.0?classifier=sources
+- pkg:maven/com.cyfrania/logback-slack-appender@1.1
+- pkg:maven/com.cyfrania/logback-slack-appender@1.1?classifier=sources

@@ -60,3 +60,8 @@
 - pkg:maven/com.adobe.aem/core-forms-components-af-core@2.0.82
 - pkg:maven/com.adobe.aem/core-forms-components-af-core@2.0.84
 - pkg:maven/com.adobe.aem/core-forms-components-af-core@2.0.86
+- pkg:maven/com.adobe.aem/core-forms-components-af-core@2.0.88
+- pkg:maven/com.adobe.aem/core-forms-components-af-core@2.0.90
+- pkg:maven/com.adobe.aem/core-forms-components-af-core@2.0.92-eds
+- pkg:maven/com.adobe.aem/core-forms-components-af-core@2.0.94-eds
+- pkg:maven/com.adobe.aem/core-forms-components-af-core@2.0.96-eds

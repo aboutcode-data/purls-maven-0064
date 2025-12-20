@@ -20,3 +20,7 @@
 - pkg:maven/io.github.ayfri.kore/oop@1.1.2-24w03a?classifier=sources
 - pkg:maven/io.github.ayfri.kore/oop@1.1.2-24w03b?classifier=sources
 - pkg:maven/io.github.ayfri.kore/oop@1.1.3-24w04a?classifier=sources
+- pkg:maven/io.github.ayfri.kore/oop@1.2.0-24w05a?classifier=sources
+- pkg:maven/io.github.ayfri.kore/oop@1.2.0-24w05b?classifier=sources
+- pkg:maven/io.github.ayfri.kore/oop@1.2.0-24w06a?classifier=sources
+- pkg:maven/io.github.ayfri.kore/oop@1.2.0-24w07a?classifier=sources

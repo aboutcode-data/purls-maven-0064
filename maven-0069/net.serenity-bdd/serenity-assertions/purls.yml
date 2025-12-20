@@ -440,3 +440,5 @@
 - pkg:maven/net.serenity-bdd/serenity-assertions@4.0.8?classifier=sources
 - pkg:maven/net.serenity-bdd/serenity-assertions@4.1.0
 - pkg:maven/net.serenity-bdd/serenity-assertions@4.1.0?classifier=sources
+- pkg:maven/net.serenity-bdd/serenity-assertions@4.1.3
+- pkg:maven/net.serenity-bdd/serenity-assertions@4.1.3?classifier=sources

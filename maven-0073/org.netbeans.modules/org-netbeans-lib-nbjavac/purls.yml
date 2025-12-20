@@ -20,4 +20,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-lib-nbjavac@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-lib-nbjavac@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-lib-nbjavac@RELEASE200?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-lib-nbjavac@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-lib-nbjavac@RELEASE90?classifier=sources
