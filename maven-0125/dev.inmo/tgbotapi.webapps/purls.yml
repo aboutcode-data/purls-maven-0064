@@ -51,6 +51,9 @@
 - pkg:maven/dev.inmo/tgbotapi.webapps@2.2.2?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.webapps@20.0.0?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.webapps@20.0.1?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.webapps@21.0.0?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.webapps@21.0.1?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.webapps@22.0.0?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.webapps@3.0.0?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.webapps@3.0.1?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.webapps@3.0.2?classifier=sources

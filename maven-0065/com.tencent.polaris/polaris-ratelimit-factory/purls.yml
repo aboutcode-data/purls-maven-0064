@@ -143,9 +143,13 @@
 - pkg:maven/com.tencent.polaris/polaris-ratelimit-factory@1.9.6?classifier=sources
 - pkg:maven/com.tencent.polaris/polaris-ratelimit-factory@1.9.7
 - pkg:maven/com.tencent.polaris/polaris-ratelimit-factory@1.9.7?classifier=sources
+- pkg:maven/com.tencent.polaris/polaris-ratelimit-factory@2.0.0.0
 - pkg:maven/com.tencent.polaris/polaris-ratelimit-factory@2.0.0.0-RC1
 - pkg:maven/com.tencent.polaris/polaris-ratelimit-factory@2.0.0.0-RC1?classifier=sources
 - pkg:maven/com.tencent.polaris/polaris-ratelimit-factory@2.0.0.0-RC2
 - pkg:maven/com.tencent.polaris/polaris-ratelimit-factory@2.0.0.0-RC2?classifier=sources
 - pkg:maven/com.tencent.polaris/polaris-ratelimit-factory@2.0.0.0-RC3
 - pkg:maven/com.tencent.polaris/polaris-ratelimit-factory@2.0.0.0-RC3?classifier=sources
+- pkg:maven/com.tencent.polaris/polaris-ratelimit-factory@2.0.0.0-RC5
+- pkg:maven/com.tencent.polaris/polaris-ratelimit-factory@2.0.0.0-RC5?classifier=sources
+- pkg:maven/com.tencent.polaris/polaris-ratelimit-factory@2.0.0.0?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/com.oracle.cloud.spring/spring-cloud-oci-starter-nosql@1.3.0
+- pkg:maven/com.oracle.cloud.spring/spring-cloud-oci-starter-nosql@1.3.1

@@ -1,2 +1,4 @@
 - pkg:maven/org.infinispan/infinispan-counter-api@15.1.0.Dev05
 - pkg:maven/org.infinispan/infinispan-counter-api@15.1.0.Dev05?classifier=sources
+- pkg:maven/org.infinispan/infinispan-counter-api@15.1.0.Final
+- pkg:maven/org.infinispan/infinispan-counter-api@15.1.0.Final?classifier=sources

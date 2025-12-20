@@ -1,3 +1,5 @@
+- pkg:maven/org.drools/drools-legacy-test-util@10.0.0
+- pkg:maven/org.drools/drools-legacy-test-util@10.0.0?classifier=sources
 - pkg:maven/org.drools/drools-legacy-test-util@7.53.0.Final
 - pkg:maven/org.drools/drools-legacy-test-util@7.53.1.Final
 - pkg:maven/org.drools/drools-legacy-test-util@7.54.0.Beta1

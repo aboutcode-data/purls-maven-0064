@@ -170,3 +170,6 @@
 - pkg:maven/com.pulumi/dnsimple@4.3.0-alpha.1731649183?classifier=sources
 - pkg:maven/com.pulumi/dnsimple@4.3.0-alpha.1731735228?classifier=sources
 - pkg:maven/com.pulumi/dnsimple@4.3.0-alpha.1732276842?classifier=sources
+- pkg:maven/com.pulumi/dnsimple@4.3.0-alpha.1732599309?classifier=sources
+- pkg:maven/com.pulumi/dnsimple@4.3.0-alpha.1732685532?classifier=sources
+- pkg:maven/com.pulumi/dnsimple@4.3.0-alpha.1732771882?classifier=sources

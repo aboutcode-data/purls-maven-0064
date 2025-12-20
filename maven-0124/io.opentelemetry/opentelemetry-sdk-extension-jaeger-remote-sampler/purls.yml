@@ -77,6 +77,7 @@
 - pkg:maven/io.opentelemetry/opentelemetry-sdk-extension-jaeger-remote-sampler@1.43.0?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-sdk-extension-jaeger-remote-sampler@1.44.0?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-sdk-extension-jaeger-remote-sampler@1.44.1?classifier=sources
+- pkg:maven/io.opentelemetry/opentelemetry-sdk-extension-jaeger-remote-sampler@1.45.0?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-sdk-extension-jaeger-remote-sampler@1.5.0?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-sdk-extension-jaeger-remote-sampler@1.6.0?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-sdk-extension-jaeger-remote-sampler@1.7.0?classifier=sources

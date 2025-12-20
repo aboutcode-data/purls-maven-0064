@@ -1,5 +1,7 @@
 - pkg:maven/com.github.frtu.libs/lib-spring-boot-ai-os@2.0.10
 - pkg:maven/com.github.frtu.libs/lib-spring-boot-ai-os@2.0.10?classifier=sources
+- pkg:maven/com.github.frtu.libs/lib-spring-boot-ai-os@2.0.11
+- pkg:maven/com.github.frtu.libs/lib-spring-boot-ai-os@2.0.11?classifier=sources
 - pkg:maven/com.github.frtu.libs/lib-spring-boot-ai-os@2.0.8
 - pkg:maven/com.github.frtu.libs/lib-spring-boot-ai-os@2.0.8?classifier=sources
 - pkg:maven/com.github.frtu.libs/lib-spring-boot-ai-os@2.0.9

@@ -3,3 +3,4 @@
 - pkg:maven/app.softwork.serviceloader/kotlin-plugin@0.0.12?classifier=sources
 - pkg:maven/app.softwork.serviceloader/kotlin-plugin@0.0.13?classifier=sources
 - pkg:maven/app.softwork.serviceloader/kotlin-plugin@0.0.14?classifier=sources
+- pkg:maven/app.softwork.serviceloader/kotlin-plugin@0.0.15?classifier=sources

@@ -440,6 +440,7 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.frontend.taglib@23.2.4?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.frontend.taglib@23.2.5?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.frontend.taglib@23.2.6?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.frontend.taglib@23.2.7?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.frontend.taglib@3.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.frontend.taglib@3.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.frontend.taglib@3.0.0?classifier=sources-commercial

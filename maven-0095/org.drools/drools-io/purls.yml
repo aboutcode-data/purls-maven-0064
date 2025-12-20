@@ -1,3 +1,5 @@
+- pkg:maven/org.drools/drools-io@10.0.0
+- pkg:maven/org.drools/drools-io@10.0.0?classifier=sources
 - pkg:maven/org.drools/drools-io@8.25.0.Beta
 - pkg:maven/org.drools/drools-io@8.25.0.Beta?classifier=sources
 - pkg:maven/org.drools/drools-io@8.26.0.Beta

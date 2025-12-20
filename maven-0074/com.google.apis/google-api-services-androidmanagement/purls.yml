@@ -488,6 +488,10 @@
 - pkg:maven/com.google.apis/google-api-services-androidmanagement@v1-rev20241104-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-androidmanagement@v1-rev20241114-2.0.0
 - pkg:maven/com.google.apis/google-api-services-androidmanagement@v1-rev20241114-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-androidmanagement@v1-rev20241120-2.0.0
+- pkg:maven/com.google.apis/google-api-services-androidmanagement@v1-rev20241120-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-androidmanagement@v1-rev20241204-2.0.0
+- pkg:maven/com.google.apis/google-api-services-androidmanagement@v1-rev20241204-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-androidmanagement@v1-rev22-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-androidmanagement@v1-rev22-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-androidmanagement@v1-rev22-1.21.0

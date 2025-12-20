@@ -16,3 +16,4 @@
 - pkg:maven/com.powsybl/powsybl-metrix-distribution@2.5.0
 - pkg:maven/com.powsybl/powsybl-metrix-distribution@2.5.1
 - pkg:maven/com.powsybl/powsybl-metrix-distribution@2.5.2
+- pkg:maven/com.powsybl/powsybl-metrix-distribution@2.6.0

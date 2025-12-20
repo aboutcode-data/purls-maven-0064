@@ -4,3 +4,5 @@
 - pkg:maven/com.cognitect.aws/kinesis-video-webrtc-storage@847.2.1365.0?classifier=sources
 - pkg:maven/com.cognitect.aws/kinesis-video-webrtc-storage@869.2.1687.0
 - pkg:maven/com.cognitect.aws/kinesis-video-webrtc-storage@869.2.1687.0?classifier=sources
+- pkg:maven/com.cognitect.aws/kinesis-video-webrtc-storage@871.2.29.35
+- pkg:maven/com.cognitect.aws/kinesis-video-webrtc-storage@871.2.29.35?classifier=sources

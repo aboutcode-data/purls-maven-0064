@@ -34,3 +34,4 @@
 - pkg:maven/org.apache.beam/beam-sdks-java-io-google-cloud-platform-expansion-service@2.58.1?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-google-cloud-platform-expansion-service@2.59.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-google-cloud-platform-expansion-service@2.60.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-io-google-cloud-platform-expansion-service@2.61.0?classifier=sources

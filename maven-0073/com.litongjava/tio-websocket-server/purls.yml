@@ -60,3 +60,7 @@
 - pkg:maven/com.litongjava/tio-websocket-server@3.7.3.v20241005-RELEASE?classifier=sources
 - pkg:maven/com.litongjava/tio-websocket-server@3.7.3.v20241006-RELEASE
 - pkg:maven/com.litongjava/tio-websocket-server@3.7.3.v20241006-RELEASE?classifier=sources
+- pkg:maven/com.litongjava/tio-websocket-server@3.7.3.v20241130-RELEASE
+- pkg:maven/com.litongjava/tio-websocket-server@3.7.3.v20241130-RELEASE?classifier=sources
+- pkg:maven/com.litongjava/tio-websocket-server@3.7.3.v20241201-RELEASE
+- pkg:maven/com.litongjava/tio-websocket-server@3.7.3.v20241201-RELEASE?classifier=sources

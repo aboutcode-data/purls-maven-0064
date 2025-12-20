@@ -1,0 +1,4 @@
+- pkg:maven/de.rmgk.scitzen/scitzen_3@1.4
+- pkg:maven/de.rmgk.scitzen/scitzen_3@1.4.0
+- pkg:maven/de.rmgk.scitzen/scitzen_3@1.4.0?classifier=sources
+- pkg:maven/de.rmgk.scitzen/scitzen_3@1.4?classifier=sources

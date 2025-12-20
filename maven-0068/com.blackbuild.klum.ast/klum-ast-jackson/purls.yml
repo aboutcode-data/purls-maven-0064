@@ -23,6 +23,8 @@
 - pkg:maven/com.blackbuild.klum.ast/klum-ast-jackson@2.0.0-rc.33?classifier=sources
 - pkg:maven/com.blackbuild.klum.ast/klum-ast-jackson@2.0.0-rc.34?classifier=sources
 - pkg:maven/com.blackbuild.klum.ast/klum-ast-jackson@2.0.0-rc.35?classifier=sources
+- pkg:maven/com.blackbuild.klum.ast/klum-ast-jackson@2.0.0-rc.36?classifier=sources
+- pkg:maven/com.blackbuild.klum.ast/klum-ast-jackson@2.0.0-rc.37?classifier=sources
 - pkg:maven/com.blackbuild.klum.ast/klum-ast-jackson@2.0.0-rc.7?classifier=sources
 - pkg:maven/com.blackbuild.klum.ast/klum-ast-jackson@2.0.0-rc.8?classifier=sources
 - pkg:maven/com.blackbuild.klum.ast/klum-ast-jackson@2.0.0-rc.9?classifier=sources

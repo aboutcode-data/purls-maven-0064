@@ -22,3 +22,5 @@
 - pkg:maven/io.github.zenwave360.zenwave-sdk/e2e@1.6.3?classifier=sources
 - pkg:maven/io.github.zenwave360.zenwave-sdk/e2e@1.6.4
 - pkg:maven/io.github.zenwave360.zenwave-sdk/e2e@1.6.4?classifier=sources
+- pkg:maven/io.github.zenwave360.zenwave-sdk/e2e@1.6.5
+- pkg:maven/io.github.zenwave360.zenwave-sdk/e2e@1.6.5?classifier=sources

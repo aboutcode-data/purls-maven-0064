@@ -68,6 +68,10 @@
 - pkg:maven/com.liferay.portal/com.liferay.portal.impl@108.0.2?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.portal.impl@108.1.0
 - pkg:maven/com.liferay.portal/com.liferay.portal.impl@108.1.0?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.portal.impl@108.1.1
+- pkg:maven/com.liferay.portal/com.liferay.portal.impl@108.1.1?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.portal.impl@109.0.0
+- pkg:maven/com.liferay.portal/com.liferay.portal.impl@109.0.0?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.portal.impl@11.0.0
 - pkg:maven/com.liferay.portal/com.liferay.portal.impl@11.0.0?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.portal.impl@11.0.1

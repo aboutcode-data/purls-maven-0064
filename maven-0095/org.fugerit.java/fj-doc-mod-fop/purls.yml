@@ -438,6 +438,10 @@
 - pkg:maven/org.fugerit.java/fj-doc-mod-fop@8.11.3?classifier=sources
 - pkg:maven/org.fugerit.java/fj-doc-mod-fop@8.11.4
 - pkg:maven/org.fugerit.java/fj-doc-mod-fop@8.11.4?classifier=sources
+- pkg:maven/org.fugerit.java/fj-doc-mod-fop@8.11.5
+- pkg:maven/org.fugerit.java/fj-doc-mod-fop@8.11.5?classifier=sources
+- pkg:maven/org.fugerit.java/fj-doc-mod-fop@8.11.6
+- pkg:maven/org.fugerit.java/fj-doc-mod-fop@8.11.6?classifier=sources
 - pkg:maven/org.fugerit.java/fj-doc-mod-fop@8.4.6
 - pkg:maven/org.fugerit.java/fj-doc-mod-fop@8.4.6?classifier=sources
 - pkg:maven/org.fugerit.java/fj-doc-mod-fop@8.5.0

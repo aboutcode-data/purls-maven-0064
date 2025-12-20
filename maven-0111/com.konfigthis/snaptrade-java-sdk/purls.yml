@@ -183,6 +183,8 @@
 - pkg:maven/com.konfigthis/snaptrade-java-sdk@5.0.56?classifier=sources
 - pkg:maven/com.konfigthis/snaptrade-java-sdk@5.0.57
 - pkg:maven/com.konfigthis/snaptrade-java-sdk@5.0.57?classifier=sources
+- pkg:maven/com.konfigthis/snaptrade-java-sdk@5.0.58
+- pkg:maven/com.konfigthis/snaptrade-java-sdk@5.0.58?classifier=sources
 - pkg:maven/com.konfigthis/snaptrade-java-sdk@5.0.5?classifier=sources
 - pkg:maven/com.konfigthis/snaptrade-java-sdk@5.0.6
 - pkg:maven/com.konfigthis/snaptrade-java-sdk@5.0.6?classifier=sources

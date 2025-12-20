@@ -19,3 +19,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-typescript-editor@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-typescript-editor@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-typescript-editor@RELEASE230?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-typescript-editor@RELEASE240?classifier=sources

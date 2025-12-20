@@ -54,3 +54,5 @@
 - pkg:maven/com.zuora.sdk/zuora-java@1.1.354.10a3
 - pkg:maven/com.zuora.sdk/zuora-java@1.1.354.10a3?classifier=sources
 - pkg:maven/com.zuora.sdk/zuora-java@1.1.354.1?classifier=sources
+- pkg:maven/com.zuora.sdk/zuora-java@1.1.354.2
+- pkg:maven/com.zuora.sdk/zuora-java@1.1.354.2?classifier=sources

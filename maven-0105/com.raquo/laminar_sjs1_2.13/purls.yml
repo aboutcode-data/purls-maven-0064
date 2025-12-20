@@ -74,3 +74,5 @@
 - pkg:maven/com.raquo/laminar_sjs1_2.13@17.0.0?classifier=sources
 - pkg:maven/com.raquo/laminar_sjs1_2.13@17.1.0
 - pkg:maven/com.raquo/laminar_sjs1_2.13@17.1.0?classifier=sources
+- pkg:maven/com.raquo/laminar_sjs1_2.13@17.2.0
+- pkg:maven/com.raquo/laminar_sjs1_2.13@17.2.0?classifier=sources

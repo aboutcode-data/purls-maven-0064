@@ -184,3 +184,7 @@
 - pkg:maven/com.pulumi/ns1@3.5.0-alpha.1731392296?classifier=sources
 - pkg:maven/com.pulumi/ns1@3.5.0-alpha.1731652154?classifier=sources
 - pkg:maven/com.pulumi/ns1@3.5.0-alpha.1731737098?classifier=sources
+- pkg:maven/com.pulumi/ns1@3.5.0-alpha.1732601130?classifier=sources
+- pkg:maven/com.pulumi/ns1@3.5.0-alpha.1732687204?classifier=sources
+- pkg:maven/com.pulumi/ns1@3.5.0-alpha.1732773575?classifier=sources
+- pkg:maven/com.pulumi/ns1@3.5.0?classifier=sources

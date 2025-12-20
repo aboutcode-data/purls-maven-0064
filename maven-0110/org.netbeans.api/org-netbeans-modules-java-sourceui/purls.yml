@@ -23,4 +23,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-java-sourceui@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-java-sourceui@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-java-sourceui@RELEASE230?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-java-sourceui@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-java-sourceui@RELEASE90?classifier=sources

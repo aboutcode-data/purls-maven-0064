@@ -4,6 +4,12 @@
 - pkg:maven/io.github.odys-z/antson@0.9.0?classifier=sources
 - pkg:maven/io.github.odys-z/antson@0.9.1
 - pkg:maven/io.github.odys-z/antson@0.9.10
+- pkg:maven/io.github.odys-z/antson@0.9.100
+- pkg:maven/io.github.odys-z/antson@0.9.100?classifier=sources
+- pkg:maven/io.github.odys-z/antson@0.9.101
+- pkg:maven/io.github.odys-z/antson@0.9.101?classifier=sources
+- pkg:maven/io.github.odys-z/antson@0.9.102
+- pkg:maven/io.github.odys-z/antson@0.9.102?classifier=sources
 - pkg:maven/io.github.odys-z/antson@0.9.10?classifier=sources
 - pkg:maven/io.github.odys-z/antson@0.9.11
 - pkg:maven/io.github.odys-z/antson@0.9.11?classifier=sources
@@ -185,4 +191,6 @@
 - pkg:maven/io.github.odys-z/antson@0.9.97?classifier=sources
 - pkg:maven/io.github.odys-z/antson@0.9.98
 - pkg:maven/io.github.odys-z/antson@0.9.98?classifier=sources
+- pkg:maven/io.github.odys-z/antson@0.9.99
+- pkg:maven/io.github.odys-z/antson@0.9.99?classifier=sources
 - pkg:maven/io.github.odys-z/antson@0.9.9?classifier=sources

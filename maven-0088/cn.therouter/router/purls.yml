@@ -127,3 +127,5 @@
 - pkg:maven/cn.therouter/router@1.2.3-beta25?classifier=sources
 - pkg:maven/cn.therouter/router@1.2.3-beta26?classifier=sources
 - pkg:maven/cn.therouter/router@1.2.3-rc1?classifier=sources
+- pkg:maven/cn.therouter/router@1.2.4-rc2?classifier=sources
+- pkg:maven/cn.therouter/router@1.2.4-rc3?classifier=sources

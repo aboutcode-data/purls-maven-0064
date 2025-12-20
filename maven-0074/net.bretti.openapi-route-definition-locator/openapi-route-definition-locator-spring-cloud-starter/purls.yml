@@ -21,3 +21,7 @@
 - pkg:maven/net.bretti.openapi-route-definition-locator/openapi-route-definition-locator-spring-cloud-starter@1.0.0-sc-2021.0?classifier=sources
 - pkg:maven/net.bretti.openapi-route-definition-locator/openapi-route-definition-locator-spring-cloud-starter@1.0.0-sc-2022.0?classifier=sources
 - pkg:maven/net.bretti.openapi-route-definition-locator/openapi-route-definition-locator-spring-cloud-starter@1.0.0-sc-2023.0?classifier=sources
+- pkg:maven/net.bretti.openapi-route-definition-locator/openapi-route-definition-locator-spring-cloud-starter@1.0.1-sc-2021.0?classifier=sources
+- pkg:maven/net.bretti.openapi-route-definition-locator/openapi-route-definition-locator-spring-cloud-starter@1.0.1-sc-2022.0?classifier=sources
+- pkg:maven/net.bretti.openapi-route-definition-locator/openapi-route-definition-locator-spring-cloud-starter@1.0.1-sc-2023.0?classifier=sources
+- pkg:maven/net.bretti.openapi-route-definition-locator/openapi-route-definition-locator-spring-cloud-starter@1.0.1-sc-2024.0?classifier=sources

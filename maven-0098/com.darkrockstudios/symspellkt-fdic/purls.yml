@@ -1,0 +1,4 @@
+- pkg:maven/com.darkrockstudios/symspellkt-fdic@3.0.0?classifier=sources
+- pkg:maven/com.darkrockstudios/symspellkt-fdic@3.0.2?classifier=sources
+- pkg:maven/com.darkrockstudios/symspellkt-fdic@3.0.4?classifier=sources
+- pkg:maven/com.darkrockstudios/symspellkt-fdic@3.0.7?classifier=sources

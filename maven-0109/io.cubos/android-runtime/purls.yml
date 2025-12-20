@@ -16,6 +16,7 @@
 - pkg:maven/io.cubos/android-runtime@0.0.0-dev.20240722194106?classifier=sources
 - pkg:maven/io.cubos/android-runtime@0.0.0-dev.20240801113003?classifier=sources
 - pkg:maven/io.cubos/android-runtime@0.0.0-dev.20240801131318?classifier=sources
+- pkg:maven/io.cubos/android-runtime@0.0.0-dev.20241213164811?classifier=sources
 - pkg:maven/io.cubos/android-runtime@0.0.0?classifier=sources
 - pkg:maven/io.cubos/android-runtime@0.0.2?classifier=sources
 - pkg:maven/io.cubos/android-runtime@20221222232614?classifier=sources

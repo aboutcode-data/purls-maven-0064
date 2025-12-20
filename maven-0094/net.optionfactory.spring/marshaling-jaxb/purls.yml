@@ -60,3 +60,13 @@
 - pkg:maven/net.optionfactory.spring/marshaling-jaxb@20.0?classifier=sources
 - pkg:maven/net.optionfactory.spring/marshaling-jaxb@20.1
 - pkg:maven/net.optionfactory.spring/marshaling-jaxb@20.1?classifier=sources
+- pkg:maven/net.optionfactory.spring/marshaling-jaxb@20.2
+- pkg:maven/net.optionfactory.spring/marshaling-jaxb@20.2?classifier=sources
+- pkg:maven/net.optionfactory.spring/marshaling-jaxb@20.3
+- pkg:maven/net.optionfactory.spring/marshaling-jaxb@20.3?classifier=sources
+- pkg:maven/net.optionfactory.spring/marshaling-jaxb@20.4
+- pkg:maven/net.optionfactory.spring/marshaling-jaxb@20.4?classifier=sources
+- pkg:maven/net.optionfactory.spring/marshaling-jaxb@20.5
+- pkg:maven/net.optionfactory.spring/marshaling-jaxb@20.5?classifier=sources
+- pkg:maven/net.optionfactory.spring/marshaling-jaxb@21.0
+- pkg:maven/net.optionfactory.spring/marshaling-jaxb@21.0?classifier=sources

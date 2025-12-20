@@ -107,6 +107,15 @@
 - pkg:maven/io.github.lsd-consulting/lsd-junit5@7.0.82?classifier=sources
 - pkg:maven/io.github.lsd-consulting/lsd-junit5@7.0.83?classifier=sources
 - pkg:maven/io.github.lsd-consulting/lsd-junit5@7.0.85?classifier=sources
+- pkg:maven/io.github.lsd-consulting/lsd-junit5@7.0.86?classifier=sources
+- pkg:maven/io.github.lsd-consulting/lsd-junit5@7.0.87?classifier=sources
+- pkg:maven/io.github.lsd-consulting/lsd-junit5@7.0.88?classifier=sources
+- pkg:maven/io.github.lsd-consulting/lsd-junit5@7.0.89?classifier=sources
 - pkg:maven/io.github.lsd-consulting/lsd-junit5@7.0.8?classifier=sources
+- pkg:maven/io.github.lsd-consulting/lsd-junit5@7.0.90?classifier=sources
+- pkg:maven/io.github.lsd-consulting/lsd-junit5@7.0.91?classifier=sources
+- pkg:maven/io.github.lsd-consulting/lsd-junit5@7.0.92?classifier=sources
+- pkg:maven/io.github.lsd-consulting/lsd-junit5@7.0.93?classifier=sources
+- pkg:maven/io.github.lsd-consulting/lsd-junit5@7.0.94?classifier=sources
 - pkg:maven/io.github.lsd-consulting/lsd-junit5@7.0.9?classifier=sources
 - pkg:maven/io.github.lsd-consulting/lsd-junit5@v1.0.3-1-gb02cb0d.dirty?classifier=sources

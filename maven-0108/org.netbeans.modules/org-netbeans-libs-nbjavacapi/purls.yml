@@ -9,3 +9,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-nbjavacapi@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-nbjavacapi@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-nbjavacapi@RELEASE230?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-libs-nbjavacapi@RELEASE240?classifier=sources

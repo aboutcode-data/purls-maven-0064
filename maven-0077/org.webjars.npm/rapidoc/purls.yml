@@ -12,3 +12,4 @@
 - pkg:maven/org.webjars.npm/rapidoc@9.3.3?classifier=sources
 - pkg:maven/org.webjars.npm/rapidoc@9.3.4
 - pkg:maven/org.webjars.npm/rapidoc@9.3.4?classifier=sources
+- pkg:maven/org.webjars.npm/rapidoc@9.3.8

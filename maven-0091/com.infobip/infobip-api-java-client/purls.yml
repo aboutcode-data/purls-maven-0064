@@ -39,3 +39,7 @@
 - pkg:maven/com.infobip/infobip-api-java-client@4.3.2?classifier=sources
 - pkg:maven/com.infobip/infobip-api-java-client@4.4.0
 - pkg:maven/com.infobip/infobip-api-java-client@4.4.0?classifier=sources
+- pkg:maven/com.infobip/infobip-api-java-client@5.0.0
+- pkg:maven/com.infobip/infobip-api-java-client@5.0.0?classifier=sources
+- pkg:maven/com.infobip/infobip-api-java-client@5.1.0
+- pkg:maven/com.infobip/infobip-api-java-client@5.1.0?classifier=sources

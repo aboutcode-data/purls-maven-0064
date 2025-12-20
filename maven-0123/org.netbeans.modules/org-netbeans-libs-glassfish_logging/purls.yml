@@ -22,3 +22,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-glassfish_logging@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-glassfish_logging@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-glassfish_logging@RELEASE230?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-libs-glassfish_logging@RELEASE240?classifier=sources

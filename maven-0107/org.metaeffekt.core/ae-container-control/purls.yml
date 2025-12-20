@@ -32,3 +32,11 @@
 - pkg:maven/org.metaeffekt.core/ae-container-control@0.127.0?classifier=sources
 - pkg:maven/org.metaeffekt.core/ae-container-control@0.128.0
 - pkg:maven/org.metaeffekt.core/ae-container-control@0.128.0?classifier=sources
+- pkg:maven/org.metaeffekt.core/ae-container-control@0.129.0
+- pkg:maven/org.metaeffekt.core/ae-container-control@0.129.0?classifier=sources
+- pkg:maven/org.metaeffekt.core/ae-container-control@0.130.0
+- pkg:maven/org.metaeffekt.core/ae-container-control@0.130.0?classifier=sources
+- pkg:maven/org.metaeffekt.core/ae-container-control@0.131.0
+- pkg:maven/org.metaeffekt.core/ae-container-control@0.131.0?classifier=sources
+- pkg:maven/org.metaeffekt.core/ae-container-control@0.132.0
+- pkg:maven/org.metaeffekt.core/ae-container-control@0.132.0?classifier=sources

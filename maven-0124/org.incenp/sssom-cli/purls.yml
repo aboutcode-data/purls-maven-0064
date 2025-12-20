@@ -28,3 +28,5 @@
 - pkg:maven/org.incenp/sssom-cli@0.8.0?classifier=sources
 - pkg:maven/org.incenp/sssom-cli@0.9.0
 - pkg:maven/org.incenp/sssom-cli@0.9.0?classifier=sources
+- pkg:maven/org.incenp/sssom-cli@1.0.0
+- pkg:maven/org.incenp/sssom-cli@1.0.0?classifier=sources
