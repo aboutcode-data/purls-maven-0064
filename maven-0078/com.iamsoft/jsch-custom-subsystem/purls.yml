@@ -2,3 +2,5 @@
 - pkg:maven/com.iamsoft/jsch-custom-subsystem@11.0.0?classifier=sources
 - pkg:maven/com.iamsoft/jsch-custom-subsystem@17.0.0
 - pkg:maven/com.iamsoft/jsch-custom-subsystem@17.0.0?classifier=sources
+- pkg:maven/com.iamsoft/jsch-custom-subsystem@21.0.0
+- pkg:maven/com.iamsoft/jsch-custom-subsystem@21.0.0?classifier=sources

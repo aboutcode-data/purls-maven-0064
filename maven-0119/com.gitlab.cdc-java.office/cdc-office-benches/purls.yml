@@ -68,3 +68,7 @@
 - pkg:maven/com.gitlab.cdc-java.office/cdc-office-benches@0.30.2?classifier=sources
 - pkg:maven/com.gitlab.cdc-java.office/cdc-office-benches@0.31.0
 - pkg:maven/com.gitlab.cdc-java.office/cdc-office-benches@0.31.0?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.office/cdc-office-benches@0.50.0
+- pkg:maven/com.gitlab.cdc-java.office/cdc-office-benches@0.50.0?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.office/cdc-office-benches@0.51.0
+- pkg:maven/com.gitlab.cdc-java.office/cdc-office-benches@0.51.0?classifier=sources

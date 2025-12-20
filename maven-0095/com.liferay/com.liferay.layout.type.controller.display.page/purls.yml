@@ -160,6 +160,7 @@
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.display.page@1.0.57?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.display.page@1.0.58
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.display.page@1.0.58?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.display.page@1.0.59?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.display.page@1.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.display.page@1.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.display.page@1.0.6
@@ -298,6 +299,7 @@
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.display.page@2.0.46
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.display.page@2.0.46?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.display.page@2.0.47?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.display.page@2.0.48?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.display.page@2.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.display.page@2.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.display.page@2.0.5
@@ -423,6 +425,7 @@
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.display.page@3.0.43?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.display.page@3.0.44?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.display.page@3.0.45?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.type.controller.display.page@3.0.46?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.display.page@3.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.display.page@3.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.layout.type.controller.display.page@3.0.5

@@ -9,6 +9,8 @@
 - pkg:maven/de.telekom.phonenumber/normalizer@1.1.13?classifier=sources
 - pkg:maven/de.telekom.phonenumber/normalizer@1.1.15
 - pkg:maven/de.telekom.phonenumber/normalizer@1.1.15?classifier=sources
+- pkg:maven/de.telekom.phonenumber/normalizer@1.1.16
+- pkg:maven/de.telekom.phonenumber/normalizer@1.1.16?classifier=sources
 - pkg:maven/de.telekom.phonenumber/normalizer@1.1.1?classifier=sources
 - pkg:maven/de.telekom.phonenumber/normalizer@1.1.2-Snapshot
 - pkg:maven/de.telekom.phonenumber/normalizer@1.1.2-Snapshot?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/io.trino.gateway/proxyserver@3
 - pkg:maven/io.trino.gateway/proxyserver@3?classifier=sources
+- pkg:maven/io.trino.gateway/proxyserver@4
+- pkg:maven/io.trino.gateway/proxyserver@4?classifier=sources

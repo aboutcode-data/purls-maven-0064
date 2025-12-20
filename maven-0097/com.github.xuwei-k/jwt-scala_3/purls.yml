@@ -6,3 +6,5 @@
 - pkg:maven/com.github.xuwei-k/jwt-scala_3@1.9.0?classifier=sources
 - pkg:maven/com.github.xuwei-k/jwt-scala_3@2.0.0
 - pkg:maven/com.github.xuwei-k/jwt-scala_3@2.0.0?classifier=sources
+- pkg:maven/com.github.xuwei-k/jwt-scala_3@3.0.0
+- pkg:maven/com.github.xuwei-k/jwt-scala_3@3.0.0?classifier=sources

@@ -281,6 +281,7 @@
 - pkg:maven/com.liferay/com.liferay.dynamic.data.lists.form.web@2.0.73
 - pkg:maven/com.liferay/com.liferay.dynamic.data.lists.form.web@2.0.73?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.lists.form.web@2.0.73?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.dynamic.data.lists.form.web@2.0.74?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.lists.form.web@2.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.lists.form.web@2.0.7?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.dynamic.data.lists.form.web@2.0.8

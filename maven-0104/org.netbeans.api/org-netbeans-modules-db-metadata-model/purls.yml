@@ -15,3 +15,4 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-db-metadata-model@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-db-metadata-model@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-db-metadata-model@RELEASE190?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-db-metadata-model@RELEASE200?classifier=sources

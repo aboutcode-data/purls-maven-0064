@@ -40,3 +40,4 @@
 - pkg:maven/com.github.michaelgantman/MgntUtils@1.6.0.5?classifier=sources
 - pkg:maven/com.github.michaelgantman/MgntUtils@1.6.0.6?classifier=sources
 - pkg:maven/com.github.michaelgantman/MgntUtils@1.7.0.0?classifier=sources
+- pkg:maven/com.github.michaelgantman/MgntUtils@1.7.0.1?classifier=sources

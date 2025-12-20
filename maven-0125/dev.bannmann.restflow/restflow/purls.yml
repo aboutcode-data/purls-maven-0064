@@ -1,4 +1,6 @@
 - pkg:maven/dev.bannmann.restflow/restflow@0.10
 - pkg:maven/dev.bannmann.restflow/restflow@0.10?classifier=sources
+- pkg:maven/dev.bannmann.restflow/restflow@0.11
+- pkg:maven/dev.bannmann.restflow/restflow@0.11?classifier=sources
 - pkg:maven/dev.bannmann.restflow/restflow@0.9
 - pkg:maven/dev.bannmann.restflow/restflow@0.9?classifier=sources

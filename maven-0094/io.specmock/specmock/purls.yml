@@ -1,0 +1,2 @@
+- pkg:maven/io.specmock/specmock@0.0.0?classifier=sources
+- pkg:maven/io.specmock/specmock@0.0.1?classifier=sources

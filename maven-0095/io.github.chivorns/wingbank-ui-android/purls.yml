@@ -1,1 +1,2 @@
 - pkg:maven/io.github.chivorns/wingbank-ui-android@1.0.0-stg-7?classifier=sources
+- pkg:maven/io.github.chivorns/wingbank-ui-android@1.2.0-beta1?classifier=sources

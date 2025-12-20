@@ -132,3 +132,5 @@
 - pkg:maven/no.mnemonic.messaging/documentchannel@1.4.4?classifier=sources
 - pkg:maven/no.mnemonic.messaging/documentchannel@1.4.6
 - pkg:maven/no.mnemonic.messaging/documentchannel@1.4.6?classifier=sources
+- pkg:maven/no.mnemonic.messaging/documentchannel@1.4.7
+- pkg:maven/no.mnemonic.messaging/documentchannel@1.4.7?classifier=sources

@@ -19,4 +19,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-applemenu@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-applemenu@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-applemenu@RELEASE190?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-applemenu@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-applemenu@RELEASE90?classifier=sources

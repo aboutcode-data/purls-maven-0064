@@ -45,3 +45,4 @@
 - pkg:maven/org.apache.tika/tika@2.8.0?classifier=src&type=zip
 - pkg:maven/org.apache.tika/tika@2.9.0?classifier=src&type=zip
 - pkg:maven/org.apache.tika/tika@2.9.1?classifier=src&type=zip
+- pkg:maven/org.apache.tika/tika@3.0.0-BETA?classifier=src&type=zip

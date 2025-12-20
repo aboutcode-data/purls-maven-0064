@@ -1,0 +1,2 @@
+- pkg:maven/io.github.air-iot/sdk-encrypt-starter@4.1.12
+- pkg:maven/io.github.air-iot/sdk-encrypt-starter@4.1.12?classifier=sources

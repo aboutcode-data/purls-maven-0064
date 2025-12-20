@@ -4,3 +4,5 @@
 - pkg:maven/top.sssd/ddns4j-spring-boot-starter@1.0.2?classifier=sources
 - pkg:maven/top.sssd/ddns4j-spring-boot-starter@1.0.3
 - pkg:maven/top.sssd/ddns4j-spring-boot-starter@1.0.3?classifier=sources
+- pkg:maven/top.sssd/ddns4j-spring-boot-starter@1.0.4
+- pkg:maven/top.sssd/ddns4j-spring-boot-starter@1.0.4?classifier=sources

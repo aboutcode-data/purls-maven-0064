@@ -378,12 +378,18 @@
 - pkg:maven/org.apache.camel/camel-itest@3.20.7?classifier=sources
 - pkg:maven/org.apache.camel/camel-itest@3.20.8
 - pkg:maven/org.apache.camel/camel-itest@3.20.8?classifier=sources
+- pkg:maven/org.apache.camel/camel-itest@3.20.9
+- pkg:maven/org.apache.camel/camel-itest@3.20.9?classifier=sources
 - pkg:maven/org.apache.camel/camel-itest@3.21.0
 - pkg:maven/org.apache.camel/camel-itest@3.21.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-itest@3.21.1
 - pkg:maven/org.apache.camel/camel-itest@3.21.1?classifier=sources
 - pkg:maven/org.apache.camel/camel-itest@3.21.2
 - pkg:maven/org.apache.camel/camel-itest@3.21.2?classifier=sources
+- pkg:maven/org.apache.camel/camel-itest@3.21.3
+- pkg:maven/org.apache.camel/camel-itest@3.21.3?classifier=sources
+- pkg:maven/org.apache.camel/camel-itest@3.22.0
+- pkg:maven/org.apache.camel/camel-itest@3.22.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-itest@3.3.0
 - pkg:maven/org.apache.camel/camel-itest@3.3.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-itest@3.4.0
@@ -446,3 +452,5 @@
 - pkg:maven/org.apache.camel/camel-itest@4.1.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-itest@4.2.0
 - pkg:maven/org.apache.camel/camel-itest@4.2.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-itest@4.3.0
+- pkg:maven/org.apache.camel/camel-itest@4.3.0?classifier=sources

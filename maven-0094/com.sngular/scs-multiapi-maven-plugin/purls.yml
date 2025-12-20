@@ -72,3 +72,5 @@
 - pkg:maven/com.sngular/scs-multiapi-maven-plugin@5.1.0?classifier=sources
 - pkg:maven/com.sngular/scs-multiapi-maven-plugin@5.1.1
 - pkg:maven/com.sngular/scs-multiapi-maven-plugin@5.1.1?classifier=sources
+- pkg:maven/com.sngular/scs-multiapi-maven-plugin@5.2.1
+- pkg:maven/com.sngular/scs-multiapi-maven-plugin@5.2.1?classifier=sources

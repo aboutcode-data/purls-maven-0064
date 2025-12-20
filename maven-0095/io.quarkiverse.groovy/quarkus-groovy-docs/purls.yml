@@ -8,3 +8,5 @@
 - pkg:maven/io.quarkiverse.groovy/quarkus-groovy-docs@3.4.1
 - pkg:maven/io.quarkiverse.groovy/quarkus-groovy-docs@3.5.0
 - pkg:maven/io.quarkiverse.groovy/quarkus-groovy-docs@3.5.2
+- pkg:maven/io.quarkiverse.groovy/quarkus-groovy-docs@3.6.0
+- pkg:maven/io.quarkiverse.groovy/quarkus-groovy-docs@3.6.1

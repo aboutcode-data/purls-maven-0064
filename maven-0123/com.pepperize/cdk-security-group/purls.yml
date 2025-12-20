@@ -842,3 +842,17 @@
 - pkg:maven/com.pepperize/cdk-security-group@0.0.545?classifier=sources
 - pkg:maven/com.pepperize/cdk-security-group@0.0.546
 - pkg:maven/com.pepperize/cdk-security-group@0.0.546?classifier=sources
+- pkg:maven/com.pepperize/cdk-security-group@0.0.547
+- pkg:maven/com.pepperize/cdk-security-group@0.0.547?classifier=sources
+- pkg:maven/com.pepperize/cdk-security-group@0.0.548
+- pkg:maven/com.pepperize/cdk-security-group@0.0.548?classifier=sources
+- pkg:maven/com.pepperize/cdk-security-group@0.0.549
+- pkg:maven/com.pepperize/cdk-security-group@0.0.549?classifier=sources
+- pkg:maven/com.pepperize/cdk-security-group@0.0.550
+- pkg:maven/com.pepperize/cdk-security-group@0.0.550?classifier=sources
+- pkg:maven/com.pepperize/cdk-security-group@0.0.551
+- pkg:maven/com.pepperize/cdk-security-group@0.0.551?classifier=sources
+- pkg:maven/com.pepperize/cdk-security-group@0.0.552
+- pkg:maven/com.pepperize/cdk-security-group@0.0.552?classifier=sources
+- pkg:maven/com.pepperize/cdk-security-group@0.0.553
+- pkg:maven/com.pepperize/cdk-security-group@0.0.553?classifier=sources

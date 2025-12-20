@@ -57,3 +57,13 @@
 - pkg:maven/com.pulumi/dnsimple@3.5.0-alpha.1700198883%2B7d22cc30?classifier=sources
 - pkg:maven/com.pulumi/dnsimple@3.5.0-alpha.1700544192%2B264d36f8?classifier=sources
 - pkg:maven/com.pulumi/dnsimple@3.5.0-alpha.1700612770%2Bbf034c64?classifier=sources
+- pkg:maven/com.pulumi/dnsimple@3.5.0-alpha.1701790304%2B8f926151?classifier=sources
+- pkg:maven/com.pulumi/dnsimple@3.5.0-alpha.1701840497%2B11ce545f?classifier=sources
+- pkg:maven/com.pulumi/dnsimple@3.5.0-alpha.1702348906%2Bd797d6d8?classifier=sources
+- pkg:maven/com.pulumi/dnsimple@3.5.0-alpha.1702354927%2B1eb8a6b0?classifier=sources
+- pkg:maven/com.pulumi/dnsimple@3.5.0-alpha.1702445193%2Bcfd25d30?classifier=sources
+- pkg:maven/com.pulumi/dnsimple@3.5.0-alpha.1702588554%2Be874471c?classifier=sources
+- pkg:maven/com.pulumi/dnsimple@3.5.0-alpha.1703040129%2B8dbdecdf?classifier=sources
+- pkg:maven/com.pulumi/dnsimple@3.5.0-alpha.1703136667%2Be04e77cf?classifier=sources
+- pkg:maven/com.pulumi/dnsimple@3.5.0-alpha.1703655176%2B65fd0baa?classifier=sources
+- pkg:maven/com.pulumi/dnsimple@3.5.0-alpha.1703714776%2B0ab11a96?classifier=sources

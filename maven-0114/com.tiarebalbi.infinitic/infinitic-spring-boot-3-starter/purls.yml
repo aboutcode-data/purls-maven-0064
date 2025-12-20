@@ -1,2 +1,3 @@
 - pkg:maven/com.tiarebalbi.infinitic/infinitic-spring-boot-3-starter@1.0.0?classifier=sources
 - pkg:maven/com.tiarebalbi.infinitic/infinitic-spring-boot-3-starter@1.0.1?classifier=sources
+- pkg:maven/com.tiarebalbi.infinitic/infinitic-spring-boot-3-starter@1.1.0?classifier=sources

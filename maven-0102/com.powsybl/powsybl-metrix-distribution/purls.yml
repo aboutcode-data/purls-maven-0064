@@ -4,4 +4,8 @@
 - pkg:maven/com.powsybl/powsybl-metrix-distribution@1.0.5
 - pkg:maven/com.powsybl/powsybl-metrix-distribution@1.1.0
 - pkg:maven/com.powsybl/powsybl-metrix-distribution@1.1.1
+- pkg:maven/com.powsybl/powsybl-metrix-distribution@1.1.2
+- pkg:maven/com.powsybl/powsybl-metrix-distribution@1.1.3
 - pkg:maven/com.powsybl/powsybl-metrix-distribution@2.0.0
+- pkg:maven/com.powsybl/powsybl-metrix-distribution@2.0.1
+- pkg:maven/com.powsybl/powsybl-metrix-distribution@2.0.2

@@ -64,3 +64,5 @@
 - pkg:maven/dev.aherscu.qa/qa-orcanos-publisher-maven-plugin@0.0.7?classifier=sources
 - pkg:maven/dev.aherscu.qa/qa-orcanos-publisher-maven-plugin@0.0.8
 - pkg:maven/dev.aherscu.qa/qa-orcanos-publisher-maven-plugin@0.0.8?classifier=sources
+- pkg:maven/dev.aherscu.qa/qa-orcanos-publisher-maven-plugin@1.0.1
+- pkg:maven/dev.aherscu.qa/qa-orcanos-publisher-maven-plugin@1.0.1?classifier=sources

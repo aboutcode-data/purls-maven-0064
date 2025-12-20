@@ -1,3 +1,4 @@
 - pkg:maven/de.vertama/divi-openapi-client@2023.10.24.1?classifier=sources
 - pkg:maven/de.vertama/divi-openapi-client@2023.10.24?classifier=sources
 - pkg:maven/de.vertama/divi-openapi-client@2023.11.27?classifier=sources
+- pkg:maven/de.vertama/divi-openapi-client@2023.12.17?classifier=sources

@@ -58,6 +58,7 @@
 - pkg:maven/com.liferay/com.liferay.ip.geocoder.sample.web@2.0.26
 - pkg:maven/com.liferay/com.liferay.ip.geocoder.sample.web@2.0.26?classifier=sources
 - pkg:maven/com.liferay/com.liferay.ip.geocoder.sample.web@2.0.26?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.ip.geocoder.sample.web@2.0.27?classifier=sources
 - pkg:maven/com.liferay/com.liferay.ip.geocoder.sample.web@2.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.ip.geocoder.sample.web@2.0.3
 - pkg:maven/com.liferay/com.liferay.ip.geocoder.sample.web@2.0.3?classifier=sources

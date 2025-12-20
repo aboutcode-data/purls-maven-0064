@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/sucrase@3.33.0?classifier=sources
 - pkg:maven/org.webjars.npm/sucrase@3.34.0
 - pkg:maven/org.webjars.npm/sucrase@3.34.0?classifier=sources
+- pkg:maven/org.webjars.npm/sucrase@3.35.0
+- pkg:maven/org.webjars.npm/sucrase@3.35.0?classifier=sources

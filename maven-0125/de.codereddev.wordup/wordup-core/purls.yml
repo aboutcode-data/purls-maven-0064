@@ -8,3 +8,4 @@
 - pkg:maven/de.codereddev.wordup/wordup-core@0.2.2?type=aar
 - pkg:maven/de.codereddev.wordup/wordup-core@0.2.3?classifier=sources
 - pkg:maven/de.codereddev.wordup/wordup-core@0.2.3?type=aar
+- pkg:maven/de.codereddev.wordup/wordup-core@0.2.4?classifier=sources

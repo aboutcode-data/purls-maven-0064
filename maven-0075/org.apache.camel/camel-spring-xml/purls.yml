@@ -42,9 +42,12 @@
 - pkg:maven/org.apache.camel/camel-spring-xml@3.20.6?classifier=sources
 - pkg:maven/org.apache.camel/camel-spring-xml@3.20.7?classifier=sources
 - pkg:maven/org.apache.camel/camel-spring-xml@3.20.8?classifier=sources
+- pkg:maven/org.apache.camel/camel-spring-xml@3.20.9?classifier=sources
 - pkg:maven/org.apache.camel/camel-spring-xml@3.21.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-spring-xml@3.21.1?classifier=sources
 - pkg:maven/org.apache.camel/camel-spring-xml@3.21.2?classifier=sources
+- pkg:maven/org.apache.camel/camel-spring-xml@3.21.3?classifier=sources
+- pkg:maven/org.apache.camel/camel-spring-xml@3.22.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-spring-xml@3.9.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-spring-xml@4.0.0-M1?classifier=sources
 - pkg:maven/org.apache.camel/camel-spring-xml@4.0.0-M2?classifier=sources
@@ -57,3 +60,4 @@
 - pkg:maven/org.apache.camel/camel-spring-xml@4.0.3?classifier=sources
 - pkg:maven/org.apache.camel/camel-spring-xml@4.1.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-spring-xml@4.2.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-spring-xml@4.3.0?classifier=sources

@@ -1,6 +1,8 @@
 - pkg:maven/org.ossreviewtoolkit.clients/scanoss-client@1.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/scanoss-client@1.0.1?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/scanoss-client@1.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/scanoss-client@10.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/scanoss-client@11.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/scanoss-client@2.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/scanoss-client@3.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/scanoss-client@4.0.0?classifier=sources
@@ -11,3 +13,5 @@
 - pkg:maven/org.ossreviewtoolkit.clients/scanoss-client@6.1.1?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/scanoss-client@7.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/scanoss-client@7.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/scanoss-client@8.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/scanoss-client@9.0.0?classifier=sources

@@ -65,6 +65,9 @@
 - pkg:maven/eu.hansolo/medusa@2.8?classifier=sources
 - pkg:maven/eu.hansolo/medusa@2.9
 - pkg:maven/eu.hansolo/medusa@2.9?classifier=sources
+- pkg:maven/eu.hansolo/medusa@21.0.0?classifier=sources
+- pkg:maven/eu.hansolo/medusa@21.0.1?classifier=sources
+- pkg:maven/eu.hansolo/medusa@21.0.3?classifier=sources
 - pkg:maven/eu.hansolo/medusa@3.0
 - pkg:maven/eu.hansolo/medusa@3.0?classifier=sources
 - pkg:maven/eu.hansolo/medusa@3.1

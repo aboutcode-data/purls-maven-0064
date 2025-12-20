@@ -10,3 +10,4 @@
 - pkg:maven/com.thetransactioncompany/jsonrpc2-access-filter@1.7.1
 - pkg:maven/com.thetransactioncompany/jsonrpc2-access-filter@1.7.1?classifier=sources
 - pkg:maven/com.thetransactioncompany/jsonrpc2-access-filter@1.7?classifier=sources
+- pkg:maven/com.thetransactioncompany/jsonrpc2-access-filter@2.0?classifier=sources

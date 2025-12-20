@@ -1,0 +1,2 @@
+- pkg:maven/dev.i-whammy/gauge-annotation-processor@0.1.0
+- pkg:maven/dev.i-whammy/gauge-annotation-processor@0.1.0?classifier=sources

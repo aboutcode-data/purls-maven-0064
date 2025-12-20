@@ -12,3 +12,4 @@
 - pkg:maven/com.bradyid/BradySdk@1.4.6?classifier=sources
 - pkg:maven/com.bradyid/BradySdk@1.4.7?classifier=sources
 - pkg:maven/com.bradyid/BradySdk@1.5.0?classifier=sources
+- pkg:maven/com.bradyid/BradySdk@1.5.1?classifier=sources

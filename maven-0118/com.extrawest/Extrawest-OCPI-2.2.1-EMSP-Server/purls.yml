@@ -1,1 +1,2 @@
+- pkg:maven/com.extrawest/Extrawest-OCPI-2.2.1-EMSP-Server@2023.11.21?classifier=sources
 - pkg:maven/com.extrawest/Extrawest-OCPI-2.2.1-EMSP-Server@2023.7.12?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/no.entur.logging.cloud/netty-grpc@1.3.2?classifier=sources

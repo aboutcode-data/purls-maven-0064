@@ -1,0 +1,4 @@
+- pkg:maven/uk.bot-by.ijhttp-tools/ijhttp-command-line@1.1.1
+- pkg:maven/uk.bot-by.ijhttp-tools/ijhttp-command-line@1.1.1?classifier=sources
+- pkg:maven/uk.bot-by.ijhttp-tools/ijhttp-command-line@1.2.0
+- pkg:maven/uk.bot-by.ijhttp-tools/ijhttp-command-line@1.2.0?classifier=sources

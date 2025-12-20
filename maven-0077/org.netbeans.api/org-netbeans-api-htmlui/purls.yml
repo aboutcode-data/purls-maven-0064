@@ -19,4 +19,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-api-htmlui@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-api-htmlui@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-api-htmlui@RELEASE190?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-api-htmlui@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-api-htmlui@RELEASE90?classifier=sources

@@ -14,3 +14,4 @@
 - pkg:maven/org.availlang/avail-stdlib@2.0.0.alpha22-1.6.1.alpha13?classifier=sources
 - pkg:maven/org.availlang/avail-stdlib@2.0.0.alpha23-1.6.1.alpha14?classifier=sources
 - pkg:maven/org.availlang/avail-stdlib@2.0.0.alpha23-1.6.1.alpha15?classifier=sources
+- pkg:maven/org.availlang/avail-stdlib@2.0.0.alpha28-1.6.1.alpha17?classifier=sources

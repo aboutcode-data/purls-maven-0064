@@ -1,2 +1,3 @@
 - pkg:maven/org.apache.portals.pluto.demo/applicant-mvcbean-cdi-jsp-portlet@3.1.0?type=war
 - pkg:maven/org.apache.portals.pluto.demo/applicant-mvcbean-cdi-jsp-portlet@3.1.1?type=war
+- pkg:maven/org.apache.portals.pluto.demo/applicant-mvcbean-cdi-jsp-portlet@3.1.2?type=war

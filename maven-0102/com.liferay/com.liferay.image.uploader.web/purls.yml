@@ -117,6 +117,7 @@
 - pkg:maven/com.liferay/com.liferay.image.uploader.web@1.0.47
 - pkg:maven/com.liferay/com.liferay.image.uploader.web@1.0.47?classifier=sources
 - pkg:maven/com.liferay/com.liferay.image.uploader.web@1.0.47?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.image.uploader.web@1.0.48?classifier=sources
 - pkg:maven/com.liferay/com.liferay.image.uploader.web@1.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.image.uploader.web@1.0.5
 - pkg:maven/com.liferay/com.liferay.image.uploader.web@1.0.5?classifier=sources
@@ -200,6 +201,7 @@
 - pkg:maven/com.liferay/com.liferay.image.uploader.web@2.0.3
 - pkg:maven/com.liferay/com.liferay.image.uploader.web@2.0.30
 - pkg:maven/com.liferay/com.liferay.image.uploader.web@2.0.30?classifier=sources
+- pkg:maven/com.liferay/com.liferay.image.uploader.web@2.0.31?classifier=sources
 - pkg:maven/com.liferay/com.liferay.image.uploader.web@2.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.image.uploader.web@2.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.image.uploader.web@2.0.4
@@ -307,6 +309,7 @@
 - pkg:maven/com.liferay/com.liferay.image.uploader.web@3.0.34?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.image.uploader.web@3.0.35
 - pkg:maven/com.liferay/com.liferay.image.uploader.web@3.0.35?classifier=sources
+- pkg:maven/com.liferay/com.liferay.image.uploader.web@3.0.36?classifier=sources
 - pkg:maven/com.liferay/com.liferay.image.uploader.web@3.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.image.uploader.web@3.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.image.uploader.web@3.0.4
@@ -408,6 +411,7 @@
 - pkg:maven/com.liferay/com.liferay.image.uploader.web@4.0.32?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.image.uploader.web@4.0.33
 - pkg:maven/com.liferay/com.liferay.image.uploader.web@4.0.33?classifier=sources
+- pkg:maven/com.liferay/com.liferay.image.uploader.web@4.0.34?classifier=sources
 - pkg:maven/com.liferay/com.liferay.image.uploader.web@4.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.image.uploader.web@4.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.image.uploader.web@4.0.4
@@ -536,6 +540,7 @@
 - pkg:maven/com.liferay/com.liferay.image.uploader.web@5.0.41?classifier=sources
 - pkg:maven/com.liferay/com.liferay.image.uploader.web@5.0.42?classifier=sources
 - pkg:maven/com.liferay/com.liferay.image.uploader.web@5.0.43?classifier=sources
+- pkg:maven/com.liferay/com.liferay.image.uploader.web@5.0.44?classifier=sources
 - pkg:maven/com.liferay/com.liferay.image.uploader.web@5.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.image.uploader.web@5.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.image.uploader.web@5.0.5

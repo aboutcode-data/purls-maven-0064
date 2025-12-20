@@ -85,6 +85,7 @@
 - pkg:maven/com.liferay/com.liferay.map.taglib@1.1.31
 - pkg:maven/com.liferay/com.liferay.map.taglib@1.1.31?classifier=sources
 - pkg:maven/com.liferay/com.liferay.map.taglib@1.1.31?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.map.taglib@1.1.32?classifier=sources
 - pkg:maven/com.liferay/com.liferay.map.taglib@1.1.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.map.taglib@1.1.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.map.taglib@1.1.4

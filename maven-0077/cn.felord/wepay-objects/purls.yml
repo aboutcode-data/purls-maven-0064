@@ -6,3 +6,9 @@
 - pkg:maven/cn.felord/wepay-objects@1.2.2?classifier=sources
 - pkg:maven/cn.felord/wepay-objects@1.2.3
 - pkg:maven/cn.felord/wepay-objects@1.2.3?classifier=sources
+- pkg:maven/cn.felord/wepay-objects@1.2.4
+- pkg:maven/cn.felord/wepay-objects@1.2.4?classifier=sources
+- pkg:maven/cn.felord/wepay-objects@1.2.5
+- pkg:maven/cn.felord/wepay-objects@1.2.5?classifier=sources
+- pkg:maven/cn.felord/wepay-objects@1.2.6.RC
+- pkg:maven/cn.felord/wepay-objects@1.2.6.RC?classifier=sources

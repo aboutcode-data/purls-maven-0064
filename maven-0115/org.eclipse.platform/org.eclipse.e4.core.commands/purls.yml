@@ -34,3 +34,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.core.commands@1.1.0?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.core.commands@1.1.100
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.core.commands@1.1.100?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.e4.core.commands@1.1.200
+- pkg:maven/org.eclipse.platform/org.eclipse.e4.core.commands@1.1.200?classifier=sources
