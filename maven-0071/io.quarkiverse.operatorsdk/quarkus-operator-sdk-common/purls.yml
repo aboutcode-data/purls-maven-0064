@@ -162,3 +162,5 @@
 - pkg:maven/io.quarkiverse.operatorsdk/quarkus-operator-sdk-common@6.8.2?classifier=sources
 - pkg:maven/io.quarkiverse.operatorsdk/quarkus-operator-sdk-common@6.8.3
 - pkg:maven/io.quarkiverse.operatorsdk/quarkus-operator-sdk-common@6.8.3?classifier=sources
+- pkg:maven/io.quarkiverse.operatorsdk/quarkus-operator-sdk-common@6.8.4?classifier=sources
+- pkg:maven/io.quarkiverse.operatorsdk/quarkus-operator-sdk-common@6.9.0?classifier=sources

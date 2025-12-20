@@ -6,3 +6,5 @@
 - pkg:maven/com.github.hiwepy/pac4j-biz@1.0.2.RELEASE?classifier=sources
 - pkg:maven/com.github.hiwepy/pac4j-biz@6.0.x.20241003.RELEASE
 - pkg:maven/com.github.hiwepy/pac4j-biz@6.0.x.20241003.RELEASE?classifier=sources
+- pkg:maven/com.github.hiwepy/pac4j-biz@6.1.x.20241003.RELEASE
+- pkg:maven/com.github.hiwepy/pac4j-biz@6.1.x.20241003.RELEASE?classifier=sources

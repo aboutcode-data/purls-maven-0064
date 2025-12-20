@@ -50,3 +50,5 @@
 - pkg:maven/org.liquibase/liquibase-commercial@4.29.1?classifier=sources
 - pkg:maven/org.liquibase/liquibase-commercial@4.29.2
 - pkg:maven/org.liquibase/liquibase-commercial@4.29.2?classifier=sources
+- pkg:maven/org.liquibase/liquibase-commercial@4.30.0
+- pkg:maven/org.liquibase/liquibase-commercial@4.30.0?classifier=sources

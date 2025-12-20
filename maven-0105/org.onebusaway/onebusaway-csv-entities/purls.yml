@@ -19,3 +19,4 @@
 - pkg:maven/org.onebusaway/onebusaway-csv-entities@3.2.2?classifier=sources
 - pkg:maven/org.onebusaway/onebusaway-csv-entities@3.2.3?classifier=sources
 - pkg:maven/org.onebusaway/onebusaway-csv-entities@3.2.4?classifier=sources
+- pkg:maven/org.onebusaway/onebusaway-csv-entities@4.0.0?classifier=sources

@@ -156,5 +156,9 @@
 - pkg:maven/io.github.Kloping/SpringTool@0.6.3-L1?classifier=sources
 - pkg:maven/io.github.Kloping/SpringTool@0.6.3-L2
 - pkg:maven/io.github.Kloping/SpringTool@0.6.3-L2?classifier=sources
+- pkg:maven/io.github.Kloping/SpringTool@0.6.3-R
 - pkg:maven/io.github.Kloping/SpringTool@0.6.3-R1
 - pkg:maven/io.github.Kloping/SpringTool@0.6.3-R1?classifier=sources
+- pkg:maven/io.github.Kloping/SpringTool@0.6.3-R2
+- pkg:maven/io.github.Kloping/SpringTool@0.6.3-R2?classifier=sources
+- pkg:maven/io.github.Kloping/SpringTool@0.6.3-R?classifier=sources

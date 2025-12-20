@@ -6,6 +6,15 @@
 - pkg:maven/aws.smithy.kotlin/telemetry-provider-micrometer@1.3.15?classifier=sources
 - pkg:maven/aws.smithy.kotlin/telemetry-provider-micrometer@1.3.16?classifier=sources
 - pkg:maven/aws.smithy.kotlin/telemetry-provider-micrometer@1.3.17?classifier=sources
+- pkg:maven/aws.smithy.kotlin/telemetry-provider-micrometer@1.3.18?classifier=sources
+- pkg:maven/aws.smithy.kotlin/telemetry-provider-micrometer@1.3.19?classifier=sources
+- pkg:maven/aws.smithy.kotlin/telemetry-provider-micrometer@1.3.20?classifier=sources
+- pkg:maven/aws.smithy.kotlin/telemetry-provider-micrometer@1.3.21?classifier=sources
+- pkg:maven/aws.smithy.kotlin/telemetry-provider-micrometer@1.3.22?classifier=sources
+- pkg:maven/aws.smithy.kotlin/telemetry-provider-micrometer@1.3.23?classifier=sources
+- pkg:maven/aws.smithy.kotlin/telemetry-provider-micrometer@1.3.24?classifier=sources
+- pkg:maven/aws.smithy.kotlin/telemetry-provider-micrometer@1.3.25?classifier=sources
+- pkg:maven/aws.smithy.kotlin/telemetry-provider-micrometer@1.3.26?classifier=sources
 - pkg:maven/aws.smithy.kotlin/telemetry-provider-micrometer@1.3.4?classifier=sources
 - pkg:maven/aws.smithy.kotlin/telemetry-provider-micrometer@1.3.5?classifier=sources
 - pkg:maven/aws.smithy.kotlin/telemetry-provider-micrometer@1.3.6?classifier=sources

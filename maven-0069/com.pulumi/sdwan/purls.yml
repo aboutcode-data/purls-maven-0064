@@ -27,3 +27,14 @@
 - pkg:maven/com.pulumi/sdwan@0.2.0-alpha.1728108400?classifier=sources
 - pkg:maven/com.pulumi/sdwan@0.2.0-alpha.1728367536?classifier=sources
 - pkg:maven/com.pulumi/sdwan@0.2.0-alpha.1729058803?classifier=sources
+- pkg:maven/com.pulumi/sdwan@0.2.0-alpha.1730181615?classifier=sources
+- pkg:maven/com.pulumi/sdwan@0.2.0-alpha.1730451699?classifier=sources
+- pkg:maven/com.pulumi/sdwan@0.2.0?classifier=sources
+- pkg:maven/com.pulumi/sdwan@0.3.0-alpha.1730527138?classifier=sources
+- pkg:maven/com.pulumi/sdwan@0.3.0-alpha.1730872946?classifier=sources
+- pkg:maven/com.pulumi/sdwan@0.3.0-alpha.1731032487?classifier=sources
+- pkg:maven/com.pulumi/sdwan@0.3.0-alpha.1731088396?classifier=sources
+- pkg:maven/com.pulumi/sdwan@0.3.0-alpha.1731133602?classifier=sources
+- pkg:maven/com.pulumi/sdwan@0.3.0-alpha.1731393497?classifier=sources
+- pkg:maven/com.pulumi/sdwan@0.3.0-alpha.1731653554?classifier=sources
+- pkg:maven/com.pulumi/sdwan@0.3.0-alpha.1731738244?classifier=sources

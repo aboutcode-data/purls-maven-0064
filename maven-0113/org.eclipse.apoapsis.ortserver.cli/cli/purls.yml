@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.apoapsis.ortserver.cli/cli@0.1.0-RC3?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.cli/cli@0.1.0-RC4?classifier=sources

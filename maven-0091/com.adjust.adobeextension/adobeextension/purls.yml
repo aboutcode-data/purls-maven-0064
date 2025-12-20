@@ -6,3 +6,4 @@
 - pkg:maven/com.adjust.adobeextension/adobeextension@1.0.2?classifier=sources
 - pkg:maven/com.adjust.adobeextension/adobeextension@1.1.0?classifier=sources
 - pkg:maven/com.adjust.adobeextension/adobeextension@2.0.0?classifier=sources
+- pkg:maven/com.adjust.adobeextension/adobeextension@3.0.0?classifier=sources

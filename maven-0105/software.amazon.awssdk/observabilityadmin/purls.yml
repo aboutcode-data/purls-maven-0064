@@ -1,0 +1,2 @@
+- pkg:maven/software.amazon.awssdk/observabilityadmin@2.29.23
+- pkg:maven/software.amazon.awssdk/observabilityadmin@2.29.23?classifier=sources

@@ -18,3 +18,5 @@
 - pkg:maven/com.flowlogix.depchain/unit-test@36
 - pkg:maven/com.flowlogix.depchain/unit-test@37
 - pkg:maven/com.flowlogix.depchain/unit-test@38
+- pkg:maven/com.flowlogix.depchain/unit-test@39
+- pkg:maven/com.flowlogix.depchain/unit-test@40

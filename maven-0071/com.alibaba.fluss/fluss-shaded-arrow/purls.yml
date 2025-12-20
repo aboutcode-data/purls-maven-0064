@@ -1,0 +1,4 @@
+- pkg:maven/com.alibaba.fluss/fluss-shaded-arrow@15.0.0-2.2
+- pkg:maven/com.alibaba.fluss/fluss-shaded-arrow@15.0.0-2.2?classifier=sources
+- pkg:maven/com.alibaba.fluss/fluss-shaded-arrow@16.1.0-2.2
+- pkg:maven/com.alibaba.fluss/fluss-shaded-arrow@16.1.0-2.2?classifier=sources

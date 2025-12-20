@@ -12,3 +12,6 @@
 - pkg:maven/io.github.bluegroundltd/fixtures-annotations@1.0.8-alpha01?classifier=sources
 - pkg:maven/io.github.bluegroundltd/fixtures-annotations@1.0.8-alpha02?classifier=sources
 - pkg:maven/io.github.bluegroundltd/fixtures-annotations@1.0.8-alpha03?classifier=sources
+- pkg:maven/io.github.bluegroundltd/fixtures-annotations@2.0.0-alpha01?classifier=sources
+- pkg:maven/io.github.bluegroundltd/fixtures-annotations@2.0.0-alpha02?classifier=sources
+- pkg:maven/io.github.bluegroundltd/fixtures-annotations@2.0.0-rc01?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/org.neo4j.gds/ml-configs@2.12.0?classifier=sources

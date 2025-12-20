@@ -7,3 +7,7 @@
 - pkg:maven/com.affise/module-link@1.6.43?classifier=sources
 - pkg:maven/com.affise/module-link@1.6.44?classifier=sources
 - pkg:maven/com.affise/module-link@1.6.45?classifier=sources
+- pkg:maven/com.affise/module-link@1.6.46?classifier=sources
+- pkg:maven/com.affise/module-link@1.6.47?classifier=sources
+- pkg:maven/com.affise/module-link@1.6.48?classifier=sources
+- pkg:maven/com.affise/module-link@1.6.49?classifier=sources

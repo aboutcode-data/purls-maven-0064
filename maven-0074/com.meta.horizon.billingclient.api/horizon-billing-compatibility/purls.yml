@@ -1,0 +1,2 @@
+- pkg:maven/com.meta.horizon.billingclient.api/horizon-billing-compatibility@1.0.0
+- pkg:maven/com.meta.horizon.billingclient.api/horizon-billing-compatibility@1.0.0?classifier=sources

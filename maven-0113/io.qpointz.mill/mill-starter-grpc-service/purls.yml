@@ -1,1 +1,2 @@
 - pkg:maven/io.qpointz.mill/mill-starter-grpc-service@0.4.0?classifier=sources
+- pkg:maven/io.qpointz.mill/mill-starter-grpc-service@0.4.1?classifier=sources

@@ -22,6 +22,7 @@
 - pkg:maven/com.moderntreasury/modern-treasury-java-core@2.20.0?classifier=sources
 - pkg:maven/com.moderntreasury/modern-treasury-java-core@2.21.0?classifier=sources
 - pkg:maven/com.moderntreasury/modern-treasury-java-core@2.21.1?classifier=sources
+- pkg:maven/com.moderntreasury/modern-treasury-java-core@2.22.0?classifier=sources
 - pkg:maven/com.moderntreasury/modern-treasury-java-core@2.3.0?classifier=sources
 - pkg:maven/com.moderntreasury/modern-treasury-java-core@2.4.0?classifier=sources
 - pkg:maven/com.moderntreasury/modern-treasury-java-core@2.4.1?classifier=sources
@@ -31,3 +32,4 @@
 - pkg:maven/com.moderntreasury/modern-treasury-java-core@2.7.0?classifier=sources
 - pkg:maven/com.moderntreasury/modern-treasury-java-core@2.8.0?classifier=sources
 - pkg:maven/com.moderntreasury/modern-treasury-java-core@2.9.0?classifier=sources
+- pkg:maven/com.moderntreasury/modern-treasury-java-core@3.0.0?classifier=sources

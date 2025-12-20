@@ -1,0 +1,2 @@
+- pkg:maven/cc.catman.jsonpath/objectpath@0.0.4?classifier=sources
+- pkg:maven/cc.catman.jsonpath/objectpath@0.0.5?classifier=sources

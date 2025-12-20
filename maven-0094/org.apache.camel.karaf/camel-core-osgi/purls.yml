@@ -150,3 +150,5 @@
 - pkg:maven/org.apache.camel.karaf/camel-core-osgi@3.9.0?classifier=sources
 - pkg:maven/org.apache.camel.karaf/camel-core-osgi@4.7.0
 - pkg:maven/org.apache.camel.karaf/camel-core-osgi@4.7.0?classifier=sources
+- pkg:maven/org.apache.camel.karaf/camel-core-osgi@4.8.1
+- pkg:maven/org.apache.camel.karaf/camel-core-osgi@4.8.1?classifier=sources

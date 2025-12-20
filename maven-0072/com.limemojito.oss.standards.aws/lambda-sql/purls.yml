@@ -1,0 +1,2 @@
+- pkg:maven/com.limemojito.oss.standards.aws/lambda-sql@15.0.1
+- pkg:maven/com.limemojito.oss.standards.aws/lambda-sql@15.0.1?classifier=sources

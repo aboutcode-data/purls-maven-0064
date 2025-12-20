@@ -38,6 +38,10 @@
 - pkg:maven/com.kazurayam/materialstore@0.17.1?classifier=sources
 - pkg:maven/com.kazurayam/materialstore@0.17.2?classifier=sources
 - pkg:maven/com.kazurayam/materialstore@0.17.3?classifier=sources
+- pkg:maven/com.kazurayam/materialstore@0.18.1?classifier=sources
+- pkg:maven/com.kazurayam/materialstore@0.18.2?classifier=sources
+- pkg:maven/com.kazurayam/materialstore@0.18.3?classifier=sources
+- pkg:maven/com.kazurayam/materialstore@0.18.4?classifier=sources
 - pkg:maven/com.kazurayam/materialstore@0.2.0?classifier=sources
 - pkg:maven/com.kazurayam/materialstore@0.3.0?classifier=sources
 - pkg:maven/com.kazurayam/materialstore@0.3.1?classifier=sources

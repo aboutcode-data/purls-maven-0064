@@ -70,3 +70,5 @@
 - pkg:maven/com.github.haifengl/smile-plot@3.1.0?classifier=sources
 - pkg:maven/com.github.haifengl/smile-plot@3.1.1
 - pkg:maven/com.github.haifengl/smile-plot@3.1.1?classifier=sources
+- pkg:maven/com.github.haifengl/smile-plot@4.0.0
+- pkg:maven/com.github.haifengl/smile-plot@4.0.0?classifier=sources

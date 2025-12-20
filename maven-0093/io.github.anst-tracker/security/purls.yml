@@ -42,3 +42,5 @@
 - pkg:maven/io.github.anst-tracker/security@0.5.1?classifier=sources
 - pkg:maven/io.github.anst-tracker/security@0.5.3
 - pkg:maven/io.github.anst-tracker/security@0.5.3?classifier=sources
+- pkg:maven/io.github.anst-tracker/security@0.5.4
+- pkg:maven/io.github.anst-tracker/security@0.5.4?classifier=sources

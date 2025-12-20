@@ -1,5 +1,10 @@
 - pkg:maven/ai.ancf.lmos/arc-bom@0.1.1?classifier=sources
 - pkg:maven/ai.ancf.lmos/arc-bom@0.1.5?classifier=sources
+- pkg:maven/ai.ancf.lmos/arc-bom@0.100.0?classifier=sources
+- pkg:maven/ai.ancf.lmos/arc-bom@0.101.0?classifier=sources
+- pkg:maven/ai.ancf.lmos/arc-bom@0.102.0?classifier=sources
+- pkg:maven/ai.ancf.lmos/arc-bom@0.103.0?classifier=sources
+- pkg:maven/ai.ancf.lmos/arc-bom@0.104.0?classifier=sources
 - pkg:maven/ai.ancf.lmos/arc-bom@0.2.0?classifier=sources
 - pkg:maven/ai.ancf.lmos/arc-bom@0.74.0?classifier=sources
 - pkg:maven/ai.ancf.lmos/arc-bom@0.78.0?classifier=sources
@@ -11,3 +16,13 @@
 - pkg:maven/ai.ancf.lmos/arc-bom@0.84.0?classifier=sources
 - pkg:maven/ai.ancf.lmos/arc-bom@0.85.0?classifier=sources
 - pkg:maven/ai.ancf.lmos/arc-bom@0.86.0?classifier=sources
+- pkg:maven/ai.ancf.lmos/arc-bom@0.87.0?classifier=sources
+- pkg:maven/ai.ancf.lmos/arc-bom@0.88.0?classifier=sources
+- pkg:maven/ai.ancf.lmos/arc-bom@0.89.0?classifier=sources
+- pkg:maven/ai.ancf.lmos/arc-bom@0.90.0?classifier=sources
+- pkg:maven/ai.ancf.lmos/arc-bom@0.91.0?classifier=sources
+- pkg:maven/ai.ancf.lmos/arc-bom@0.92.0?classifier=sources
+- pkg:maven/ai.ancf.lmos/arc-bom@0.93.0?classifier=sources
+- pkg:maven/ai.ancf.lmos/arc-bom@0.98.0?classifier=sources
+- pkg:maven/ai.ancf.lmos/arc-bom@0.99.0?classifier=sources
+- pkg:maven/ai.ancf.lmos/arc-bom@0.99.1?classifier=sources

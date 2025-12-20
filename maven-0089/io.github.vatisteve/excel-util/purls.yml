@@ -10,5 +10,7 @@
 - pkg:maven/io.github.vatisteve/excel-util@0.2.1-poi317-alpha
 - pkg:maven/io.github.vatisteve/excel-util@0.2.1-poi317-alpha?classifier=sources
 - pkg:maven/io.github.vatisteve/excel-util@0.2.1?classifier=sources
+- pkg:maven/io.github.vatisteve/excel-util@0.3.0
+- pkg:maven/io.github.vatisteve/excel-util@0.3.0?classifier=sources
 - pkg:maven/io.github.vatisteve/excel-util@1.0.0-poi317
 - pkg:maven/io.github.vatisteve/excel-util@1.0.0-poi317?classifier=sources

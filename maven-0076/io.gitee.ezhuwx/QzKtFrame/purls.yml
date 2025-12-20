@@ -12,3 +12,4 @@
 - pkg:maven/io.gitee.ezhuwx/QzKtFrame@2.0.1.30?classifier=sources
 - pkg:maven/io.gitee.ezhuwx/QzKtFrame@2.0.1.32?classifier=sources
 - pkg:maven/io.gitee.ezhuwx/QzKtFrame@2.0.1.42?classifier=sources
+- pkg:maven/io.gitee.ezhuwx/QzKtFrame@2.0.1.50?classifier=sources

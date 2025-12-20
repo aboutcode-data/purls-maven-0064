@@ -1,0 +1,2 @@
+- pkg:maven/io.github.pan-xun/seal-generate@1.0-RELEASE?classifier=sources
+- pkg:maven/io.github.pan-xun/seal-generate@1.1-RELEASE?classifier=sources

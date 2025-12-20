@@ -1,0 +1,2 @@
+- pkg:maven/com.alibaba.fluss/fluss-shaded-jackson@2.15.3-2.2
+- pkg:maven/com.alibaba.fluss/fluss-shaded-jackson@2.15.3-2.2?classifier=sources

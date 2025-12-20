@@ -1,0 +1,2 @@
+- pkg:maven/com.julianpeeters/dc10-core_native0.5_3@0.5.1
+- pkg:maven/com.julianpeeters/dc10-core_native0.5_3@0.5.1?classifier=sources

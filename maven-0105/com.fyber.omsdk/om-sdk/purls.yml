@@ -4,3 +4,4 @@
 - pkg:maven/com.fyber.omsdk/om-sdk@1.4.2?classifier=sources
 - pkg:maven/com.fyber.omsdk/om-sdk@1.4.9?classifier=sources
 - pkg:maven/com.fyber.omsdk/om-sdk@1.5.0?classifier=sources
+- pkg:maven/com.fyber.omsdk/om-sdk@1.5.1?classifier=sources

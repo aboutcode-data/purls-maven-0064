@@ -1,1 +1,2 @@
 - pkg:maven/com.razorpay/standard-core@1.6.40?classifier=sources
+- pkg:maven/com.razorpay/standard-core@1.6.41?classifier=sources

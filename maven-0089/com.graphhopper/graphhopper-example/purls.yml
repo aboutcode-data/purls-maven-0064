@@ -1,3 +1,5 @@
+- pkg:maven/com.graphhopper/graphhopper-example@10.0
+- pkg:maven/com.graphhopper/graphhopper-example@10.0?classifier=sources
 - pkg:maven/com.graphhopper/graphhopper-example@3.0
 - pkg:maven/com.graphhopper/graphhopper-example@3.0-pre1
 - pkg:maven/com.graphhopper/graphhopper-example@3.0-pre1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.anyline/anyline-data-jdbc-transwarp@8.7.2-20241107
+- pkg:maven/org.anyline/anyline-data-jdbc-transwarp@8.7.2-20241107?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-transwarp@8.7.2-20241120
+- pkg:maven/org.anyline/anyline-data-jdbc-transwarp@8.7.2-20241120?classifier=sources

@@ -13,6 +13,7 @@
 - pkg:maven/io.netty/netty-testsuite-native@4.1.112.Final
 - pkg:maven/io.netty/netty-testsuite-native@4.1.113.Final
 - pkg:maven/io.netty/netty-testsuite-native@4.1.114.Final
+- pkg:maven/io.netty/netty-testsuite-native@4.1.115.Final
 - pkg:maven/io.netty/netty-testsuite-native@4.1.59.Final
 - pkg:maven/io.netty/netty-testsuite-native@4.1.60.Final
 - pkg:maven/io.netty/netty-testsuite-native@4.1.61.Final
@@ -59,3 +60,4 @@
 - pkg:maven/io.netty/netty-testsuite-native@4.2.0.Alpha3
 - pkg:maven/io.netty/netty-testsuite-native@4.2.0.Alpha4
 - pkg:maven/io.netty/netty-testsuite-native@4.2.0.Alpha5
+- pkg:maven/io.netty/netty-testsuite-native@4.2.0.Beta1

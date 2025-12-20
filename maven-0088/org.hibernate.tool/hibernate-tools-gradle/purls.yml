@@ -1,6 +1,7 @@
 - pkg:maven/org.hibernate.tool/hibernate-tools-gradle@6.5.3.Final
 - pkg:maven/org.hibernate.tool/hibernate-tools-gradle@6.6.0.Final
 - pkg:maven/org.hibernate.tool/hibernate-tools-gradle@6.6.1.Final
+- pkg:maven/org.hibernate.tool/hibernate-tools-gradle@6.6.2.Final
 - pkg:maven/org.hibernate.tool/hibernate-tools-gradle@7.0.0.Alpha2
 - pkg:maven/org.hibernate.tool/hibernate-tools-gradle@7.0.0.Alpha3
 - pkg:maven/org.hibernate.tool/hibernate-tools-gradle@7.0.0.Beta1

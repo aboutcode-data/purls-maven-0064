@@ -50,3 +50,11 @@
 - pkg:maven/fi.evolver/evolver-basics-spring@6.2.2?classifier=sources
 - pkg:maven/fi.evolver/evolver-basics-spring@6.3.0
 - pkg:maven/fi.evolver/evolver-basics-spring@6.3.0?classifier=sources
+- pkg:maven/fi.evolver/evolver-basics-spring@6.4.0
+- pkg:maven/fi.evolver/evolver-basics-spring@6.4.0?classifier=sources
+- pkg:maven/fi.evolver/evolver-basics-spring@6.4.1
+- pkg:maven/fi.evolver/evolver-basics-spring@6.4.1?classifier=sources
+- pkg:maven/fi.evolver/evolver-basics-spring@6.4.2
+- pkg:maven/fi.evolver/evolver-basics-spring@6.4.2?classifier=sources
+- pkg:maven/fi.evolver/evolver-basics-spring@6.4.3
+- pkg:maven/fi.evolver/evolver-basics-spring@6.4.3?classifier=sources

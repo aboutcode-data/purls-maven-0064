@@ -59,3 +59,5 @@
 - pkg:maven/org.komapper/komapper-sqlcommenter@2.2.2?classifier=sources
 - pkg:maven/org.komapper/komapper-sqlcommenter@3.0.0?classifier=sources
 - pkg:maven/org.komapper/komapper-sqlcommenter@3.1.0?classifier=sources
+- pkg:maven/org.komapper/komapper-sqlcommenter@4.0.0?classifier=sources
+- pkg:maven/org.komapper/komapper-sqlcommenter@5.0.0?classifier=sources

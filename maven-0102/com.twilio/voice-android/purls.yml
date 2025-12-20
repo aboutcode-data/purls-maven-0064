@@ -76,3 +76,4 @@
 - pkg:maven/com.twilio/voice-android@6.6.2?classifier=sources
 - pkg:maven/com.twilio/voice-android@6.6.3?classifier=sources
 - pkg:maven/com.twilio/voice-android@6.6.4?classifier=sources
+- pkg:maven/com.twilio/voice-android@6.7.0?classifier=sources

@@ -894,6 +894,8 @@
 - pkg:maven/io.github.cdklabs/cdkenterpriseiac@0.0.511?classifier=sources
 - pkg:maven/io.github.cdklabs/cdkenterpriseiac@0.0.512
 - pkg:maven/io.github.cdklabs/cdkenterpriseiac@0.0.512?classifier=sources
+- pkg:maven/io.github.cdklabs/cdkenterpriseiac@0.0.513
+- pkg:maven/io.github.cdklabs/cdkenterpriseiac@0.0.513?classifier=sources
 - pkg:maven/io.github.cdklabs/cdkenterpriseiac@0.0.51?classifier=sources
 - pkg:maven/io.github.cdklabs/cdkenterpriseiac@0.0.52
 - pkg:maven/io.github.cdklabs/cdkenterpriseiac@0.0.52?classifier=sources

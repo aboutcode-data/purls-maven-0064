@@ -182,6 +182,10 @@
 - pkg:maven/io.netty/netty-tcnative@2.0.66.Final?classifier=sources
 - pkg:maven/io.netty/netty-tcnative@2.0.67.Final
 - pkg:maven/io.netty/netty-tcnative@2.0.67.Final?classifier=sources
+- pkg:maven/io.netty/netty-tcnative@2.0.68.Final
+- pkg:maven/io.netty/netty-tcnative@2.0.68.Final?classifier=sources
+- pkg:maven/io.netty/netty-tcnative@2.0.69.Final
+- pkg:maven/io.netty/netty-tcnative@2.0.69.Final?classifier=sources
 - pkg:maven/io.netty/netty-tcnative@2.0.7.Final
 - pkg:maven/io.netty/netty-tcnative@2.0.7.Final?classifier=sources
 - pkg:maven/io.netty/netty-tcnative@2.0.8.Final

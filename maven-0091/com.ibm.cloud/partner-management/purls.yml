@@ -1,0 +1,4 @@
+- pkg:maven/com.ibm.cloud/partner-management@0.59.0
+- pkg:maven/com.ibm.cloud/partner-management@0.59.0?classifier=sources
+- pkg:maven/com.ibm.cloud/partner-management@0.60.0
+- pkg:maven/com.ibm.cloud/partner-management@0.60.0?classifier=sources

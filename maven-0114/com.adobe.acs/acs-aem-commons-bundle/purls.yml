@@ -209,3 +209,11 @@
 - pkg:maven/com.adobe.acs/acs-aem-commons-bundle@6.7.0?classifier=sources
 - pkg:maven/com.adobe.acs/acs-aem-commons-bundle@6.8.0
 - pkg:maven/com.adobe.acs/acs-aem-commons-bundle@6.8.0?classifier=sources
+- pkg:maven/com.adobe.acs/acs-aem-commons-bundle@6.9.0
+- pkg:maven/com.adobe.acs/acs-aem-commons-bundle@6.9.0?classifier=sources
+- pkg:maven/com.adobe.acs/acs-aem-commons-bundle@6.9.2
+- pkg:maven/com.adobe.acs/acs-aem-commons-bundle@6.9.2?classifier=sources
+- pkg:maven/com.adobe.acs/acs-aem-commons-bundle@6.9.4
+- pkg:maven/com.adobe.acs/acs-aem-commons-bundle@6.9.4?classifier=sources
+- pkg:maven/com.adobe.acs/acs-aem-commons-bundle@6.9.6
+- pkg:maven/com.adobe.acs/acs-aem-commons-bundle@6.9.6?classifier=sources
