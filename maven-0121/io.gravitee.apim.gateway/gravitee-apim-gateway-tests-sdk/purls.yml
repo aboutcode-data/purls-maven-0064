@@ -219,6 +219,8 @@
 - pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-tests-sdk@4.0.25?classifier=sources
 - pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-tests-sdk@4.0.26
 - pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-tests-sdk@4.0.26?classifier=sources
+- pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-tests-sdk@4.0.27
+- pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-tests-sdk@4.0.27?classifier=sources
 - pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-tests-sdk@4.0.2?classifier=sources
 - pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-tests-sdk@4.0.3
 - pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-tests-sdk@4.0.3?classifier=sources
@@ -253,6 +255,8 @@
 - pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-tests-sdk@4.1.16?classifier=sources
 - pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-tests-sdk@4.1.17
 - pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-tests-sdk@4.1.17?classifier=sources
+- pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-tests-sdk@4.1.18
+- pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-tests-sdk@4.1.18?classifier=sources
 - pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-tests-sdk@4.1.1?classifier=sources
 - pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-tests-sdk@4.1.2
 - pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-tests-sdk@4.1.2?classifier=sources
@@ -279,6 +283,8 @@
 - pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-tests-sdk@4.2.10?classifier=sources
 - pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-tests-sdk@4.2.11
 - pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-tests-sdk@4.2.11?classifier=sources
+- pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-tests-sdk@4.2.12
+- pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-tests-sdk@4.2.12?classifier=sources
 - pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-tests-sdk@4.2.1?classifier=sources
 - pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-tests-sdk@4.2.2
 - pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-tests-sdk@4.2.2?classifier=sources
@@ -312,3 +318,5 @@
 - pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-tests-sdk@4.3.5?classifier=sources
 - pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-tests-sdk@4.3.6
 - pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-tests-sdk@4.3.6?classifier=sources
+- pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-tests-sdk@4.3.7
+- pkg:maven/io.gravitee.apim.gateway/gravitee-apim-gateway-tests-sdk@4.3.7?classifier=sources

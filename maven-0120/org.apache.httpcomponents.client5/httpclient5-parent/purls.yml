@@ -18,3 +18,4 @@
 - pkg:maven/org.apache.httpcomponents.client5/httpclient5-parent@5.3?classifier=source-release&type=zip
 - pkg:maven/org.apache.httpcomponents.client5/httpclient5-parent@5.4-alpha1?classifier=source-release&type=zip
 - pkg:maven/org.apache.httpcomponents.client5/httpclient5-parent@5.4-alpha2?classifier=source-release&type=zip
+- pkg:maven/org.apache.httpcomponents.client5/httpclient5-parent@5.4-beta1?classifier=source-release&type=zip

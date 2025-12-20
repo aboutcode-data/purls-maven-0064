@@ -26,3 +26,6 @@
 - pkg:maven/com.redis/riot-file@2.9.0?classifier=sources
 - pkg:maven/com.redis/riot-file@3.2.2?classifier=sources
 - pkg:maven/com.redis/riot-file@3.2.3?classifier=sources
+- pkg:maven/com.redis/riot-file@4.0.0?classifier=sources
+- pkg:maven/com.redis/riot-file@4.0.1?classifier=sources
+- pkg:maven/com.redis/riot-file@4.0.2?classifier=sources

@@ -1,3 +1,4 @@
+- pkg:maven/com.pulumi/consul@0.0.1?classifier=sources
 - pkg:maven/com.pulumi/consul@3.10.0-alpha.1690521695%2B22f36c17?classifier=sources
 - pkg:maven/com.pulumi/consul@3.10.0-alpha.1691040254%2Be79d6734?classifier=sources
 - pkg:maven/com.pulumi/consul@3.10.0-alpha.1691127573%2B8fa47d09?classifier=sources
@@ -32,6 +33,8 @@
 - pkg:maven/com.pulumi/consul@3.11.0-alpha.1700499767%2B2490bee8?classifier=sources
 - pkg:maven/com.pulumi/consul@3.11.0?classifier=sources
 - pkg:maven/com.pulumi/consul@3.11.2?classifier=sources
+- pkg:maven/com.pulumi/consul@3.11.3-alpha.1716576025?classifier=sources
+- pkg:maven/com.pulumi/consul@3.11.3?classifier=sources
 - pkg:maven/com.pulumi/consul@3.12.0-alpha.1700544072%2Bbd70d6fe?classifier=sources
 - pkg:maven/com.pulumi/consul@3.12.0-alpha.1700613643%2Be86c9892?classifier=sources
 - pkg:maven/com.pulumi/consul@3.12.0-alpha.1701790328%2Bf5d4473b?classifier=sources
@@ -91,6 +94,16 @@
 - pkg:maven/com.pulumi/consul@3.12.0-alpha.1715336047%2B908c24d?classifier=sources
 - pkg:maven/com.pulumi/consul@3.12.0-alpha.1715754739%2B058393e?classifier=sources
 - pkg:maven/com.pulumi/consul@3.12.0-alpha.1715923616?classifier=sources
+- pkg:maven/com.pulumi/consul@3.12.0-alpha.1716960262?classifier=sources
+- pkg:maven/com.pulumi/consul@3.12.0-alpha.1717132936?classifier=sources
+- pkg:maven/com.pulumi/consul@3.12.0-alpha.1717478730?classifier=sources
+- pkg:maven/com.pulumi/consul@3.12.0-alpha.1717540486?classifier=sources
+- pkg:maven/com.pulumi/consul@3.12.0-alpha.1717716959?classifier=sources
+- pkg:maven/com.pulumi/consul@3.12.0-alpha.1718083386?classifier=sources
+- pkg:maven/com.pulumi/consul@3.12.0-alpha.1718169751?classifier=sources
+- pkg:maven/com.pulumi/consul@3.12.0-alpha.1718256254?classifier=sources
+- pkg:maven/com.pulumi/consul@3.12.0-alpha.1718342483?classifier=sources
+- pkg:maven/com.pulumi/consul@3.12.0-alpha.1718428837?classifier=sources
 - pkg:maven/com.pulumi/consul@3.7.0?classifier=sources
 - pkg:maven/com.pulumi/consul@3.8.0-alpha.1673416230%2B665c5598?classifier=sources
 - pkg:maven/com.pulumi/consul@3.8.0-alpha.1673555842%2B0d662652?classifier=sources

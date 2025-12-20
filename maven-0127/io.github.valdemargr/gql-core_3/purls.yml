@@ -507,6 +507,8 @@
 - pkg:maven/io.github.valdemargr/gql-core_3@0.3.5-29-555f367?classifier=sources
 - pkg:maven/io.github.valdemargr/gql-core_3@0.3.5-3-d2edd7f
 - pkg:maven/io.github.valdemargr/gql-core_3@0.3.5-3-d2edd7f?classifier=sources
+- pkg:maven/io.github.valdemargr/gql-core_3@0.3.5-31-46b3227
+- pkg:maven/io.github.valdemargr/gql-core_3@0.3.5-31-46b3227?classifier=sources
 - pkg:maven/io.github.valdemargr/gql-core_3@0.3.5-4-358da28
 - pkg:maven/io.github.valdemargr/gql-core_3@0.3.5-4-358da28?classifier=sources
 - pkg:maven/io.github.valdemargr/gql-core_3@0.3.5-5-d29cfe4

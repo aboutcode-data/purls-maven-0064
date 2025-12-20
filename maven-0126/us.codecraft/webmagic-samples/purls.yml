@@ -34,3 +34,5 @@
 - pkg:maven/us.codecraft/webmagic-samples@0.9.0?classifier=sources
 - pkg:maven/us.codecraft/webmagic-samples@0.9.1
 - pkg:maven/us.codecraft/webmagic-samples@0.9.1?classifier=sources
+- pkg:maven/us.codecraft/webmagic-samples@1.0.0
+- pkg:maven/us.codecraft/webmagic-samples@1.0.0?classifier=sources

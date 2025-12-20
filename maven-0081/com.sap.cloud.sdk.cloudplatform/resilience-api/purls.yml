@@ -1,3 +1,5 @@
+- pkg:maven/com.sap.cloud.sdk.cloudplatform/resilience-api@5.10.0
+- pkg:maven/com.sap.cloud.sdk.cloudplatform/resilience-api@5.10.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.cloudplatform/resilience-api@5.2.0
 - pkg:maven/com.sap.cloud.sdk.cloudplatform/resilience-api@5.2.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.cloudplatform/resilience-api@5.3.0

@@ -1,2 +1,5 @@
 - pkg:maven/com.styra/opa@0.6.18?classifier=sources
 - pkg:maven/com.styra/opa@0.7.0?classifier=sources
+- pkg:maven/com.styra/opa@0.8.0?classifier=sources
+- pkg:maven/com.styra/opa@0.8.1?classifier=sources
+- pkg:maven/com.styra/opa@1.0.0?classifier=sources

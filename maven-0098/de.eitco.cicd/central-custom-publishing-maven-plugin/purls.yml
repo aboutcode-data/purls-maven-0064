@@ -1,0 +1,1 @@
+- pkg:maven/de.eitco.cicd/central-custom-publishing-maven-plugin@0.0.1?classifier=sources

@@ -1,0 +1,11 @@
+- pkg:maven/com.pulumi/sdwan@0.0.1?classifier=sources
+- pkg:maven/com.pulumi/sdwan@0.1.1?classifier=sources
+- pkg:maven/com.pulumi/sdwan@0.2.0-alpha.1717147084?classifier=sources
+- pkg:maven/com.pulumi/sdwan@0.2.0-alpha.1717618676?classifier=sources
+- pkg:maven/com.pulumi/sdwan@0.2.0-alpha.1717629834?classifier=sources
+- pkg:maven/com.pulumi/sdwan@0.2.0-alpha.1717727976?classifier=sources
+- pkg:maven/com.pulumi/sdwan@0.2.0-alpha.1718087122?classifier=sources
+- pkg:maven/com.pulumi/sdwan@0.2.0-alpha.1718173210?classifier=sources
+- pkg:maven/com.pulumi/sdwan@0.2.0-alpha.1718259568?classifier=sources
+- pkg:maven/com.pulumi/sdwan@0.2.0-alpha.1718345943?classifier=sources
+- pkg:maven/com.pulumi/sdwan@0.2.0-alpha.1718432660?classifier=sources

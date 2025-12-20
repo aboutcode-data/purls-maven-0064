@@ -98,3 +98,7 @@
 - pkg:maven/com.myzlab.ksearch.springboot.jpa/k@2.5.1-alpha?classifier=sources
 - pkg:maven/com.myzlab.ksearch.springboot.jpa/k@2.5.1.1-alpha
 - pkg:maven/com.myzlab.ksearch.springboot.jpa/k@2.5.1.1-alpha?classifier=sources
+- pkg:maven/com.myzlab.ksearch.springboot.jpa/k@2.5.2.alpha
+- pkg:maven/com.myzlab.ksearch.springboot.jpa/k@2.5.2.alpha?classifier=sources
+- pkg:maven/com.myzlab.ksearch.springboot.jpa/k@2.5.3.alpha
+- pkg:maven/com.myzlab.ksearch.springboot.jpa/k@2.5.3.alpha?classifier=sources

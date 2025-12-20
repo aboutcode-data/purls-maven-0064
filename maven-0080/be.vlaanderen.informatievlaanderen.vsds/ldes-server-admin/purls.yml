@@ -6,3 +6,5 @@
 - pkg:maven/be.vlaanderen.informatievlaanderen.vsds/ldes-server-admin@2.14.0?classifier=sources
 - pkg:maven/be.vlaanderen.informatievlaanderen.vsds/ldes-server-admin@2.3.0
 - pkg:maven/be.vlaanderen.informatievlaanderen.vsds/ldes-server-admin@2.3.0?classifier=sources
+- pkg:maven/be.vlaanderen.informatievlaanderen.vsds/ldes-server-admin@3.0.0
+- pkg:maven/be.vlaanderen.informatievlaanderen.vsds/ldes-server-admin@3.0.0?classifier=sources

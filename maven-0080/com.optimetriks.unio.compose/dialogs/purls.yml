@@ -3,3 +3,4 @@
 - pkg:maven/com.optimetriks.unio.compose/dialogs@4?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/dialogs@6?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/dialogs@7?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/dialogs@8?classifier=sources

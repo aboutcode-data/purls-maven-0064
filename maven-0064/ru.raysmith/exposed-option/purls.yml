@@ -1,1 +1,2 @@
 - pkg:maven/ru.raysmith/exposed-option@1.7?classifier=sources
+- pkg:maven/ru.raysmith/exposed-option@2.0?classifier=sources

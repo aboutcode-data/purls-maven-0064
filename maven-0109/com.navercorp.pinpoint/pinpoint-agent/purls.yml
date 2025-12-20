@@ -26,3 +26,5 @@
 - pkg:maven/com.navercorp.pinpoint/pinpoint-agent@2.5.3?type=zip
 - pkg:maven/com.navercorp.pinpoint/pinpoint-agent@2.5.4?classifier=sources
 - pkg:maven/com.navercorp.pinpoint/pinpoint-agent@2.5.4?type=zip
+- pkg:maven/com.navercorp.pinpoint/pinpoint-agent@3.0.0?classifier=sources
+- pkg:maven/com.navercorp.pinpoint/pinpoint-agent@3.0.0?type=zip

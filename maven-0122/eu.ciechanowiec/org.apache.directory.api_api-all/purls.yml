@@ -1,0 +1,4 @@
+- pkg:maven/eu.ciechanowiec/org.apache.directory.api_api-all@2.1.1
+- pkg:maven/eu.ciechanowiec/org.apache.directory.api_api-all@2.1.1?classifier=sources
+- pkg:maven/eu.ciechanowiec/org.apache.directory.api_api-all@2.1.5
+- pkg:maven/eu.ciechanowiec/org.apache.directory.api_api-all@2.1.5?classifier=sources

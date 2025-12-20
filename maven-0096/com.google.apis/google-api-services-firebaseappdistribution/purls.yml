@@ -6,5 +6,7 @@
 - pkg:maven/com.google.apis/google-api-services-firebaseappdistribution@v1-rev20230426-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-firebaseappdistribution@v1-rev20230808-2.0.0
 - pkg:maven/com.google.apis/google-api-services-firebaseappdistribution@v1-rev20230808-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-firebaseappdistribution@v1-rev20240605-2.0.0
+- pkg:maven/com.google.apis/google-api-services-firebaseappdistribution@v1-rev20240605-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-firebaseappdistribution@v1alpha-rev20231221-2.0.0
 - pkg:maven/com.google.apis/google-api-services-firebaseappdistribution@v1alpha-rev20231221-2.0.0?classifier=sources

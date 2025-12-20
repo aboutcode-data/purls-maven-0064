@@ -1,1 +1,4 @@
 - pkg:maven/net.stoerr.ai.aigenpipeline/aigenpipeline-commandline@0.2.0?classifier=sources
+- pkg:maven/net.stoerr.ai.aigenpipeline/aigenpipeline-commandline@1.0.0?classifier=sources
+- pkg:maven/net.stoerr.ai.aigenpipeline/aigenpipeline-commandline@1.1.0?classifier=sources
+- pkg:maven/net.stoerr.ai.aigenpipeline/aigenpipeline-commandline@2.0.0?classifier=sources

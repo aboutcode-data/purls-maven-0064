@@ -38,6 +38,8 @@
 - pkg:maven/com.dlsc.jfxcentral/model@1.35.0?classifier=sources
 - pkg:maven/com.dlsc.jfxcentral/model@1.36.0
 - pkg:maven/com.dlsc.jfxcentral/model@1.36.0?classifier=sources
+- pkg:maven/com.dlsc.jfxcentral/model@1.41.0
+- pkg:maven/com.dlsc.jfxcentral/model@1.41.0?classifier=sources
 - pkg:maven/com.dlsc.jfxcentral/model@1.6.0
 - pkg:maven/com.dlsc.jfxcentral/model@1.6.0?classifier=sources
 - pkg:maven/com.dlsc.jfxcentral/model@1.9.0

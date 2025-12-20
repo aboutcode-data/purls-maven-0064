@@ -1,2 +1,7 @@
 - pkg:maven/no.vegvesen.nvdb.reststop/reststop-webapp@4.0.0-preview-1?type=war
+- pkg:maven/no.vegvesen.nvdb.reststop/reststop-webapp@4.0.0-preview-2?type=war
+- pkg:maven/no.vegvesen.nvdb.reststop/reststop-webapp@4.0.0-preview-3?type=war
+- pkg:maven/no.vegvesen.nvdb.reststop/reststop-webapp@4.0.0-preview-4?type=war
+- pkg:maven/no.vegvesen.nvdb.reststop/reststop-webapp@4.0.0-preview-5?type=war
+- pkg:maven/no.vegvesen.nvdb.reststop/reststop-webapp@4.0.0-preview-6?type=war
 - pkg:maven/no.vegvesen.nvdb.reststop/reststop-webapp@4.0.0-preview?type=war

@@ -31,6 +31,9 @@
 - pkg:maven/ai.optfor/spring-openai-api@0.3.18?classifier=sources
 - pkg:maven/ai.optfor/spring-openai-api@0.3.19?classifier=sources
 - pkg:maven/ai.optfor/spring-openai-api@0.3.1?classifier=sources
+- pkg:maven/ai.optfor/spring-openai-api@0.3.20?classifier=sources
+- pkg:maven/ai.optfor/spring-openai-api@0.3.22?classifier=sources
+- pkg:maven/ai.optfor/spring-openai-api@0.3.23?classifier=sources
 - pkg:maven/ai.optfor/spring-openai-api@0.3.2?classifier=sources
 - pkg:maven/ai.optfor/spring-openai-api@0.3.3?classifier=sources
 - pkg:maven/ai.optfor/spring-openai-api@0.3.4?classifier=sources

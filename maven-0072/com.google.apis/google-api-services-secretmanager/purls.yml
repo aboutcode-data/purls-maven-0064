@@ -110,6 +110,10 @@
 - pkg:maven/com.google.apis/google-api-services-secretmanager@v1-rev20240314-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-secretmanager@v1-rev20240424-2.0.0
 - pkg:maven/com.google.apis/google-api-services-secretmanager@v1-rev20240424-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-secretmanager@v1-rev20240523-2.0.0
+- pkg:maven/com.google.apis/google-api-services-secretmanager@v1-rev20240523-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-secretmanager@v1-rev20240527-2.0.0
+- pkg:maven/com.google.apis/google-api-services-secretmanager@v1-rev20240527-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-secretmanager@v1-rev3-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-secretmanager@v1-rev3-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-secretmanager@v1-rev3-1.25.0
@@ -220,6 +224,10 @@
 - pkg:maven/com.google.apis/google-api-services-secretmanager@v1beta1-rev20240314-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-secretmanager@v1beta1-rev20240424-2.0.0
 - pkg:maven/com.google.apis/google-api-services-secretmanager@v1beta1-rev20240424-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-secretmanager@v1beta1-rev20240523-2.0.0
+- pkg:maven/com.google.apis/google-api-services-secretmanager@v1beta1-rev20240523-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-secretmanager@v1beta1-rev20240527-2.0.0
+- pkg:maven/com.google.apis/google-api-services-secretmanager@v1beta1-rev20240527-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-secretmanager@v1beta1-rev3-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-secretmanager@v1beta1-rev3-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-secretmanager@v1beta1-rev3-1.25.0
@@ -250,3 +258,7 @@
 - pkg:maven/com.google.apis/google-api-services-secretmanager@v1beta2-rev20240314-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-secretmanager@v1beta2-rev20240424-2.0.0
 - pkg:maven/com.google.apis/google-api-services-secretmanager@v1beta2-rev20240424-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-secretmanager@v1beta2-rev20240523-2.0.0
+- pkg:maven/com.google.apis/google-api-services-secretmanager@v1beta2-rev20240523-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-secretmanager@v1beta2-rev20240527-2.0.0
+- pkg:maven/com.google.apis/google-api-services-secretmanager@v1beta2-rev20240527-2.0.0?classifier=sources

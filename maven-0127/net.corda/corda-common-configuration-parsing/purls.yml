@@ -14,6 +14,7 @@
 - pkg:maven/net.corda/corda-common-configuration-parsing@4.11.3
 - pkg:maven/net.corda/corda-common-configuration-parsing@4.11.3?classifier=sources
 - pkg:maven/net.corda/corda-common-configuration-parsing@4.11?classifier=sources
+- pkg:maven/net.corda/corda-common-configuration-parsing@4.12?classifier=sources
 - pkg:maven/net.corda/corda-common-configuration-parsing@4.3
 - pkg:maven/net.corda/corda-common-configuration-parsing@4.3?classifier=sources
 - pkg:maven/net.corda/corda-common-configuration-parsing@4.4

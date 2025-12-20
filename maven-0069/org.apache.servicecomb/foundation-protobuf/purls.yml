@@ -125,6 +125,10 @@
 - pkg:maven/org.apache.servicecomb/foundation-protobuf@2.8.15?classifier=sources
 - pkg:maven/org.apache.servicecomb/foundation-protobuf@2.8.16
 - pkg:maven/org.apache.servicecomb/foundation-protobuf@2.8.16?classifier=sources
+- pkg:maven/org.apache.servicecomb/foundation-protobuf@2.8.17
+- pkg:maven/org.apache.servicecomb/foundation-protobuf@2.8.17?classifier=sources
+- pkg:maven/org.apache.servicecomb/foundation-protobuf@2.8.18
+- pkg:maven/org.apache.servicecomb/foundation-protobuf@2.8.18?classifier=sources
 - pkg:maven/org.apache.servicecomb/foundation-protobuf@2.8.1?classifier=sources
 - pkg:maven/org.apache.servicecomb/foundation-protobuf@2.8.2
 - pkg:maven/org.apache.servicecomb/foundation-protobuf@2.8.2?classifier=sources
@@ -154,3 +158,5 @@
 - pkg:maven/org.apache.servicecomb/foundation-protobuf@3.1.1?classifier=sources
 - pkg:maven/org.apache.servicecomb/foundation-protobuf@3.1.2
 - pkg:maven/org.apache.servicecomb/foundation-protobuf@3.1.2?classifier=sources
+- pkg:maven/org.apache.servicecomb/foundation-protobuf@3.2.0
+- pkg:maven/org.apache.servicecomb/foundation-protobuf@3.2.0?classifier=sources
