@@ -1,0 +1,4 @@
+- pkg:maven/dev.ikm.elk/elk-owlapi@0.25.0
+- pkg:maven/dev.ikm.elk/elk-owlapi@0.25.0?classifier=sources
+- pkg:maven/dev.ikm.elk/elk-owlapi@0.28.0
+- pkg:maven/dev.ikm.elk/elk-owlapi@0.28.0?classifier=sources

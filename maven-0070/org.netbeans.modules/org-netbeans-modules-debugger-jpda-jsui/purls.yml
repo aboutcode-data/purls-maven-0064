@@ -22,4 +22,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-debugger-jpda-jsui@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-debugger-jpda-jsui@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-debugger-jpda-jsui@RELEASE220?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-debugger-jpda-jsui@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-debugger-jpda-jsui@RELEASE90?classifier=sources

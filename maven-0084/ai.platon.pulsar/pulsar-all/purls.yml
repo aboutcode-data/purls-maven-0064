@@ -58,6 +58,10 @@
 - pkg:maven/ai.platon.pulsar/pulsar-all@1.12.4?classifier=sources
 - pkg:maven/ai.platon.pulsar/pulsar-all@1.12.7
 - pkg:maven/ai.platon.pulsar/pulsar-all@1.12.7?classifier=sources
+- pkg:maven/ai.platon.pulsar/pulsar-all@1.12.8
+- pkg:maven/ai.platon.pulsar/pulsar-all@1.12.8?classifier=sources
+- pkg:maven/ai.platon.pulsar/pulsar-all@1.13.1
+- pkg:maven/ai.platon.pulsar/pulsar-all@1.13.2
 - pkg:maven/ai.platon.pulsar/pulsar-all@1.8.2
 - pkg:maven/ai.platon.pulsar/pulsar-all@1.8.2?classifier=sources
 - pkg:maven/ai.platon.pulsar/pulsar-all@1.8.3

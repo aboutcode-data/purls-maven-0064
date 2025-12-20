@@ -9,3 +9,4 @@
 - pkg:maven/org.mvnpm.at.babel/compat-data@7.24.9?classifier=sources
 - pkg:maven/org.mvnpm.at.babel/compat-data@7.25.0?classifier=sources
 - pkg:maven/org.mvnpm.at.babel/compat-data@7.25.2?classifier=sources
+- pkg:maven/org.mvnpm.at.babel/compat-data@7.25.4?classifier=sources

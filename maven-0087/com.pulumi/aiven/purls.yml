@@ -125,6 +125,17 @@
 - pkg:maven/com.pulumi/aiven@6.2.0-alpha.1684191618%2Bd324a45d?classifier=sources
 - pkg:maven/com.pulumi/aiven@6.2.0?classifier=sources
 - pkg:maven/com.pulumi/aiven@6.21.0-alpha.1722057299?classifier=sources
+- pkg:maven/com.pulumi/aiven@6.21.0-alpha.1722856076?classifier=sources
+- pkg:maven/com.pulumi/aiven@6.21.0?classifier=sources
+- pkg:maven/com.pulumi/aiven@6.22.0-alpha.1722921580?classifier=sources
+- pkg:maven/com.pulumi/aiven@6.22.0-alpha.1723007981?classifier=sources
+- pkg:maven/com.pulumi/aiven@6.23.0-alpha.1724317892?classifier=sources
+- pkg:maven/com.pulumi/aiven@6.23.0?classifier=sources
+- pkg:maven/com.pulumi/aiven@6.23.1-alpha.1724340440?classifier=sources
+- pkg:maven/com.pulumi/aiven@6.23.1?classifier=sources
+- pkg:maven/com.pulumi/aiven@6.24.0-alpha.1724476498?classifier=sources
+- pkg:maven/com.pulumi/aiven@6.24.0-alpha.1724786715?classifier=sources
+- pkg:maven/com.pulumi/aiven@6.24.0-alpha.1724908978?classifier=sources
 - pkg:maven/com.pulumi/aiven@6.3.0-alpha.1684214755%2B7ae20b92?classifier=sources
 - pkg:maven/com.pulumi/aiven@6.3.0-alpha.1684387394%2Bd85051a2?classifier=sources
 - pkg:maven/com.pulumi/aiven@6.3.0-alpha.1684862833%2B3fd494b1?classifier=sources

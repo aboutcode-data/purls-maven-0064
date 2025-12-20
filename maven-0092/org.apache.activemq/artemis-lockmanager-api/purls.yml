@@ -6,3 +6,5 @@
 - pkg:maven/org.apache.activemq/artemis-lockmanager-api@2.35.0?classifier=sources
 - pkg:maven/org.apache.activemq/artemis-lockmanager-api@2.36.0
 - pkg:maven/org.apache.activemq/artemis-lockmanager-api@2.36.0?classifier=sources
+- pkg:maven/org.apache.activemq/artemis-lockmanager-api@2.37.0
+- pkg:maven/org.apache.activemq/artemis-lockmanager-api@2.37.0?classifier=sources

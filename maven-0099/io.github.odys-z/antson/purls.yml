@@ -149,6 +149,12 @@
 - pkg:maven/io.github.odys-z/antson@0.9.79?classifier=sources
 - pkg:maven/io.github.odys-z/antson@0.9.7?classifier=sources
 - pkg:maven/io.github.odys-z/antson@0.9.8
+- pkg:maven/io.github.odys-z/antson@0.9.80
+- pkg:maven/io.github.odys-z/antson@0.9.80?classifier=sources
+- pkg:maven/io.github.odys-z/antson@0.9.81
+- pkg:maven/io.github.odys-z/antson@0.9.81?classifier=sources
+- pkg:maven/io.github.odys-z/antson@0.9.82
+- pkg:maven/io.github.odys-z/antson@0.9.82?classifier=sources
 - pkg:maven/io.github.odys-z/antson@0.9.8?classifier=sources
 - pkg:maven/io.github.odys-z/antson@0.9.9
 - pkg:maven/io.github.odys-z/antson@0.9.9?classifier=sources

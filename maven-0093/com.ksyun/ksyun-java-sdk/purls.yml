@@ -56,3 +56,5 @@
 - pkg:maven/com.ksyun/ksyun-java-sdk@1.3.7?classifier=sources
 - pkg:maven/com.ksyun/ksyun-java-sdk@1.4.3
 - pkg:maven/com.ksyun/ksyun-java-sdk@1.4.3?classifier=sources
+- pkg:maven/com.ksyun/ksyun-java-sdk@1.5.3
+- pkg:maven/com.ksyun/ksyun-java-sdk@1.5.3?classifier=sources

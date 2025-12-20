@@ -5,3 +5,4 @@
 - pkg:maven/no.vegvesen.nvdb.reststop/reststop-webapp@4.0.0-preview-5?type=war
 - pkg:maven/no.vegvesen.nvdb.reststop/reststop-webapp@4.0.0-preview-6?type=war
 - pkg:maven/no.vegvesen.nvdb.reststop/reststop-webapp@4.0.0-preview?type=war
+- pkg:maven/no.vegvesen.nvdb.reststop/reststop-webapp@4.0.0?type=war

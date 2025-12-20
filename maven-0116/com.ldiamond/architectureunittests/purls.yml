@@ -2,3 +2,4 @@
 - pkg:maven/com.ldiamond/architectureunittests@1.0.0
 - pkg:maven/com.ldiamond/architectureunittests@1.0.0?classifier=sources
 - pkg:maven/com.ldiamond/architectureunittests@1.1.0?classifier=sources
+- pkg:maven/com.ldiamond/architectureunittests@2.0.0?classifier=sources

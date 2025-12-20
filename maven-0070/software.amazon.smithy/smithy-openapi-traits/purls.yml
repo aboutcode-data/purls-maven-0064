@@ -14,3 +14,4 @@
 - pkg:maven/software.amazon.smithy/smithy-openapi-traits@1.48.0?classifier=sources
 - pkg:maven/software.amazon.smithy/smithy-openapi-traits@1.49.0?classifier=sources
 - pkg:maven/software.amazon.smithy/smithy-openapi-traits@1.50.0?classifier=sources
+- pkg:maven/software.amazon.smithy/smithy-openapi-traits@1.51.0?classifier=sources

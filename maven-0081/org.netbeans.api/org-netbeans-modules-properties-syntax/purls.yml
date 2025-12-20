@@ -22,4 +22,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-properties-syntax@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-properties-syntax@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-properties-syntax@RELEASE220?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-properties-syntax@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-properties-syntax@RELEASE90?classifier=sources

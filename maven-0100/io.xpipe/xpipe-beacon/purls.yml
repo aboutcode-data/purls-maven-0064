@@ -88,6 +88,7 @@
 - pkg:maven/io.xpipe/xpipe-beacon@10.2.1?classifier=sources
 - pkg:maven/io.xpipe/xpipe-beacon@10.2.2?classifier=sources
 - pkg:maven/io.xpipe/xpipe-beacon@10.2?classifier=sources
+- pkg:maven/io.xpipe/xpipe-beacon@11.0?classifier=sources
 - pkg:maven/io.xpipe/xpipe-beacon@8.0.1?classifier=sources
 - pkg:maven/io.xpipe/xpipe-beacon@8.0?classifier=sources
 - pkg:maven/io.xpipe/xpipe-beacon@8.1?classifier=sources

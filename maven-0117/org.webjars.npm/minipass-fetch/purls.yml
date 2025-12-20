@@ -8,3 +8,4 @@
 - pkg:maven/org.webjars.npm/minipass-fetch@1.4.1?classifier=sources
 - pkg:maven/org.webjars.npm/minipass-fetch@2.1.2
 - pkg:maven/org.webjars.npm/minipass-fetch@2.1.2?classifier=sources
+- pkg:maven/org.webjars.npm/minipass-fetch@3.0.5

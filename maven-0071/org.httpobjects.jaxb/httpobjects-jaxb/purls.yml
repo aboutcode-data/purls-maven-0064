@@ -1,2 +1,6 @@
 - pkg:maven/org.httpobjects.jaxb/httpobjects-jaxb@0.27.0
 - pkg:maven/org.httpobjects.jaxb/httpobjects-jaxb@0.27.0?classifier=sources
+- pkg:maven/org.httpobjects.jaxb/httpobjects-jaxb@0.53.0?classifier=sources
+- pkg:maven/org.httpobjects.jaxb/httpobjects-jaxb@0.54.0?classifier=sources
+- pkg:maven/org.httpobjects.jaxb/httpobjects-jaxb@0.55.0?classifier=sources
+- pkg:maven/org.httpobjects.jaxb/httpobjects-jaxb@1.0.0.pre1?classifier=sources

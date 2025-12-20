@@ -1,3 +1,6 @@
 - pkg:maven/com.onixbyte/devkit-utils@1.4.0?classifier=sources
 - pkg:maven/com.onixbyte/devkit-utils@1.4.1?classifier=sources
 - pkg:maven/com.onixbyte/devkit-utils@1.5.0?classifier=sources
+- pkg:maven/com.onixbyte/devkit-utils@1.6.0?classifier=sources
+- pkg:maven/com.onixbyte/devkit-utils@1.6.1?classifier=sources
+- pkg:maven/com.onixbyte/devkit-utils@1.6.2?classifier=sources

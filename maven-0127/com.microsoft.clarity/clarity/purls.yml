@@ -14,3 +14,4 @@
 - pkg:maven/com.microsoft.clarity/clarity@2.3.0?classifier=sources
 - pkg:maven/com.microsoft.clarity/clarity@2.4.0?classifier=sources
 - pkg:maven/com.microsoft.clarity/clarity@2.5.0?classifier=sources
+- pkg:maven/com.microsoft.clarity/clarity@2.5.1?classifier=sources

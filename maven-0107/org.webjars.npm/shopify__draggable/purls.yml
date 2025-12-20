@@ -1,2 +1,3 @@
 - pkg:maven/org.webjars.npm/shopify__draggable@1.0.0-beta.9
 - pkg:maven/org.webjars.npm/shopify__draggable@1.0.0-beta.9?classifier=sources
+- pkg:maven/org.webjars.npm/shopify__draggable@1.1.3

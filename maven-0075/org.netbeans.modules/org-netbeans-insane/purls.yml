@@ -22,4 +22,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-insane@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-insane@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-insane@RELEASE220?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-insane@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-insane@RELEASE90?classifier=sources

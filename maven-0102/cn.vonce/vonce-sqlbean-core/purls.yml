@@ -68,6 +68,13 @@
 - pkg:maven/cn.vonce/vonce-sqlbean-core@1.1.8-beta4
 - pkg:maven/cn.vonce/vonce-sqlbean-core@1.1.8-beta4?classifier=sources
 - pkg:maven/cn.vonce/vonce-sqlbean-core@1.1.8?classifier=sources
+- pkg:maven/cn.vonce/vonce-sqlbean-core@1.2.0
+- pkg:maven/cn.vonce/vonce-sqlbean-core@1.2.0-android-beta1
+- pkg:maven/cn.vonce/vonce-sqlbean-core@1.2.0-android-beta1?classifier=sources
+- pkg:maven/cn.vonce/vonce-sqlbean-core@1.2.0-android-beta2
+- pkg:maven/cn.vonce/vonce-sqlbean-core@1.2.0-android-beta2?classifier=sources
+- pkg:maven/cn.vonce/vonce-sqlbean-core@1.2.0-android-beta3
+- pkg:maven/cn.vonce/vonce-sqlbean-core@1.2.0-android-beta3?classifier=sources
 - pkg:maven/cn.vonce/vonce-sqlbean-core@1.2.0-beta
 - pkg:maven/cn.vonce/vonce-sqlbean-core@1.2.0-beta1
 - pkg:maven/cn.vonce/vonce-sqlbean-core@1.2.0-beta11
@@ -116,3 +123,10 @@
 - pkg:maven/cn.vonce/vonce-sqlbean-core@1.2.0-beta9
 - pkg:maven/cn.vonce/vonce-sqlbean-core@1.2.0-beta9?classifier=sources
 - pkg:maven/cn.vonce/vonce-sqlbean-core@1.2.0-beta?classifier=sources
+- pkg:maven/cn.vonce/vonce-sqlbean-core@1.2.0?classifier=sources
+- pkg:maven/cn.vonce/vonce-sqlbean-core@1.2.1
+- pkg:maven/cn.vonce/vonce-sqlbean-core@1.2.1?classifier=sources
+- pkg:maven/cn.vonce/vonce-sqlbean-core@1.2.2
+- pkg:maven/cn.vonce/vonce-sqlbean-core@1.2.2?classifier=sources
+- pkg:maven/cn.vonce/vonce-sqlbean-core@1.2.3
+- pkg:maven/cn.vonce/vonce-sqlbean-core@1.2.3?classifier=sources

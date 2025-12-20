@@ -22,3 +22,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-api-templates@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-api-templates@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-api-templates@RELEASE220?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-api-templates@RELEASE230?classifier=sources

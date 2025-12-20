@@ -10,3 +10,5 @@
 - pkg:maven/com.uid2/attestation-gcp@1.4.2-dd1920710d?classifier=sources
 - pkg:maven/com.uid2/attestation-gcp@2.0.0-21f950573a
 - pkg:maven/com.uid2/attestation-gcp@2.0.0-21f950573a?classifier=sources
+- pkg:maven/com.uid2/attestation-gcp@2.1.0
+- pkg:maven/com.uid2/attestation-gcp@2.1.0?classifier=sources

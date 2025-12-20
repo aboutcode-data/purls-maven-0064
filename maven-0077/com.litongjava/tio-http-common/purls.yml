@@ -46,3 +46,5 @@
 - pkg:maven/com.litongjava/tio-http-common@3.7.3.v20240701-RELEASE?classifier=sources
 - pkg:maven/com.litongjava/tio-http-common@3.7.3.v20240801-RELEASE
 - pkg:maven/com.litongjava/tio-http-common@3.7.3.v20240801-RELEASE?classifier=sources
+- pkg:maven/com.litongjava/tio-http-common@3.7.3.v20240812-RELEASE
+- pkg:maven/com.litongjava/tio-http-common@3.7.3.v20240812-RELEASE?classifier=sources

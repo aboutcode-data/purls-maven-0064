@@ -1,5 +1,6 @@
 - pkg:maven/org.terrier/terrier-assemblies@5.0
 - pkg:maven/org.terrier/terrier-assemblies@5.1
+- pkg:maven/org.terrier/terrier-assemblies@5.10
 - pkg:maven/org.terrier/terrier-assemblies@5.2
 - pkg:maven/org.terrier/terrier-assemblies@5.3
 - pkg:maven/org.terrier/terrier-assemblies@5.4

@@ -1,1 +1,2 @@
 - pkg:maven/org.mvnpm.at.jamescoyle/svg-icon@0.1.1?classifier=sources
+- pkg:maven/org.mvnpm.at.jamescoyle/svg-icon@0.2.1?classifier=sources

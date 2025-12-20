@@ -1,0 +1,4 @@
+- pkg:maven/org.metaeffekt.core/ae-dependency-analysis-plugin@0.119.0
+- pkg:maven/org.metaeffekt.core/ae-dependency-analysis-plugin@0.119.0?classifier=sources
+- pkg:maven/org.metaeffekt.core/ae-dependency-analysis-plugin@0.120.0
+- pkg:maven/org.metaeffekt.core/ae-dependency-analysis-plugin@0.120.0?classifier=sources

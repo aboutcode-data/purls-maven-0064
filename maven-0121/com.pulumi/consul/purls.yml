@@ -105,6 +105,16 @@
 - pkg:maven/com.pulumi/consul@3.12.0-alpha.1718342483?classifier=sources
 - pkg:maven/com.pulumi/consul@3.12.0-alpha.1718428837?classifier=sources
 - pkg:maven/com.pulumi/consul@3.12.0-alpha.1722057841?classifier=sources
+- pkg:maven/com.pulumi/consul@3.12.0-alpha.1722856947?classifier=sources
+- pkg:maven/com.pulumi/consul@3.12.0?classifier=sources
+- pkg:maven/com.pulumi/consul@3.12.1-alpha.1724432942?classifier=sources
+- pkg:maven/com.pulumi/consul@3.12.1?classifier=sources
+- pkg:maven/com.pulumi/consul@3.13.0-alpha.1722922080?classifier=sources
+- pkg:maven/com.pulumi/consul@3.13.0-alpha.1723008442?classifier=sources
+- pkg:maven/com.pulumi/consul@3.13.0-alpha.1723453804?classifier=sources
+- pkg:maven/com.pulumi/consul@3.13.0-alpha.1723819672?classifier=sources
+- pkg:maven/com.pulumi/consul@3.13.0-alpha.1724476994?classifier=sources
+- pkg:maven/com.pulumi/consul@3.13.0-alpha.1724909327?classifier=sources
 - pkg:maven/com.pulumi/consul@3.7.0?classifier=sources
 - pkg:maven/com.pulumi/consul@3.8.0-alpha.1673416230%2B665c5598?classifier=sources
 - pkg:maven/com.pulumi/consul@3.8.0-alpha.1673555842%2B0d662652?classifier=sources

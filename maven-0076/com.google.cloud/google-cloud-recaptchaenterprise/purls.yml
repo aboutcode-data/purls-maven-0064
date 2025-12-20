@@ -250,6 +250,8 @@
 - pkg:maven/com.google.cloud/google-cloud-recaptchaenterprise@3.43.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-recaptchaenterprise@3.44.0
 - pkg:maven/com.google.cloud/google-cloud-recaptchaenterprise@3.44.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-recaptchaenterprise@3.45.0
+- pkg:maven/com.google.cloud/google-cloud-recaptchaenterprise@3.45.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-recaptchaenterprise@3.5.0
 - pkg:maven/com.google.cloud/google-cloud-recaptchaenterprise@3.5.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-recaptchaenterprise@3.6.0

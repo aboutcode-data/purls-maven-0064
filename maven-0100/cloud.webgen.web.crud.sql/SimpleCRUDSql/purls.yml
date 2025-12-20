@@ -1,0 +1,6 @@
+- pkg:maven/cloud.webgen.web.crud.sql/SimpleCRUDSql@1.0.0?classifier=sources
+- pkg:maven/cloud.webgen.web.crud.sql/SimpleCRUDSql@1.0.11?classifier=sources
+- pkg:maven/cloud.webgen.web.crud.sql/SimpleCRUDSql@1.0.1?classifier=sources
+- pkg:maven/cloud.webgen.web.crud.sql/SimpleCRUDSql@1.0.2?classifier=sources
+- pkg:maven/cloud.webgen.web.crud.sql/SimpleCRUDSql@1.0.4?classifier=sources
+- pkg:maven/cloud.webgen.web.crud.sql/SimpleCRUDSql@1.0.5?classifier=sources

@@ -1,5 +1,7 @@
 - pkg:maven/no.hasmac/hasmac-json-ld@0.1.0
 - pkg:maven/no.hasmac/hasmac-json-ld@0.1.0?classifier=sources
+- pkg:maven/no.hasmac/hasmac-json-ld@0.10.0
+- pkg:maven/no.hasmac/hasmac-json-ld@0.10.0?classifier=sources
 - pkg:maven/no.hasmac/hasmac-json-ld@0.2.0
 - pkg:maven/no.hasmac/hasmac-json-ld@0.2.0?classifier=sources
 - pkg:maven/no.hasmac/hasmac-json-ld@0.3.0

@@ -68,3 +68,5 @@
 - pkg:maven/io.trino/trino-filesystem-s3@452?classifier=sources
 - pkg:maven/io.trino/trino-filesystem-s3@453
 - pkg:maven/io.trino/trino-filesystem-s3@453?classifier=sources
+- pkg:maven/io.trino/trino-filesystem-s3@454
+- pkg:maven/io.trino/trino-filesystem-s3@454?classifier=sources

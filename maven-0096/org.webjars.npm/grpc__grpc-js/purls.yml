@@ -10,3 +10,4 @@
 - pkg:maven/org.webjars.npm/grpc__grpc-js@1.7.3?classifier=sources
 - pkg:maven/org.webjars.npm/grpc__grpc-js@1.8.9
 - pkg:maven/org.webjars.npm/grpc__grpc-js@1.8.9?classifier=sources
+- pkg:maven/org.webjars.npm/grpc__grpc-js@1.9.15

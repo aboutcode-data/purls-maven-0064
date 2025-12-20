@@ -8,3 +8,5 @@
 - pkg:maven/network.oxalis.commons/commons-certvalidator@4.0.0?classifier=sources
 - pkg:maven/network.oxalis.commons/commons-certvalidator@4.1.0
 - pkg:maven/network.oxalis.commons/commons-certvalidator@4.1.0?classifier=sources
+- pkg:maven/network.oxalis.commons/commons-certvalidator@4.2.0
+- pkg:maven/network.oxalis.commons/commons-certvalidator@4.2.0?classifier=sources

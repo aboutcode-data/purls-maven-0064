@@ -22,4 +22,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-core-multiview@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-core-multiview@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-core-multiview@RELEASE220?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-core-multiview@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-core-multiview@RELEASE90?classifier=sources

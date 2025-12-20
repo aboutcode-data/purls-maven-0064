@@ -1,0 +1,1 @@
+- pkg:maven/org.mvnpm/uglifyjs-webpack-plugin@2.2.0?classifier=sources

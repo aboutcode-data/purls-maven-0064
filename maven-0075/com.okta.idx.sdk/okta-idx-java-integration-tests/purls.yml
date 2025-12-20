@@ -19,3 +19,4 @@
 - pkg:maven/com.okta.idx.sdk/okta-idx-java-integration-tests@3.0.5
 - pkg:maven/com.okta.idx.sdk/okta-idx-java-integration-tests@3.0.6
 - pkg:maven/com.okta.idx.sdk/okta-idx-java-integration-tests@3.0.7
+- pkg:maven/com.okta.idx.sdk/okta-idx-java-integration-tests@4.0.0

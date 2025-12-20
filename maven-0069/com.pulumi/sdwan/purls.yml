@@ -10,3 +10,6 @@
 - pkg:maven/com.pulumi/sdwan@0.2.0-alpha.1718345943?classifier=sources
 - pkg:maven/com.pulumi/sdwan@0.2.0-alpha.1718432660?classifier=sources
 - pkg:maven/com.pulumi/sdwan@0.2.0-alpha.1722062445?classifier=sources
+- pkg:maven/com.pulumi/sdwan@0.2.0-alpha.1723010246?classifier=sources
+- pkg:maven/com.pulumi/sdwan@0.2.0-alpha.1724479130?classifier=sources
+- pkg:maven/com.pulumi/sdwan@0.2.0-alpha.1724911491?classifier=sources

@@ -141,6 +141,8 @@
 - pkg:maven/com.github.wz2cool/mybatis-dynamic-query@3.2.31-snapshot
 - pkg:maven/com.github.wz2cool/mybatis-dynamic-query@3.2.31-snapshot?classifier=sources
 - pkg:maven/com.github.wz2cool/mybatis-dynamic-query@3.2.31?classifier=sources
+- pkg:maven/com.github.wz2cool/mybatis-dynamic-query@3.2.32
+- pkg:maven/com.github.wz2cool/mybatis-dynamic-query@3.2.32?classifier=sources
 - pkg:maven/com.github.wz2cool/mybatis-dynamic-query@3.2.3?classifier=sources
 - pkg:maven/com.github.wz2cool/mybatis-dynamic-query@3.2.4
 - pkg:maven/com.github.wz2cool/mybatis-dynamic-query@3.2.4?classifier=sources

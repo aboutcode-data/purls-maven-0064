@@ -1,0 +1,2 @@
+- pkg:maven/org.voidzero/influx-jdbc@0.1.0?classifier=sources
+- pkg:maven/org.voidzero/influx-jdbc@1.1.0?classifier=sources

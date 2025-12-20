@@ -17,3 +17,4 @@
 - pkg:maven/com.worldpay.access/access-checkout-android@2.5.2?classifier=sources
 - pkg:maven/com.worldpay.access/access-checkout-android@2.6.0?classifier=sources
 - pkg:maven/com.worldpay.access/access-checkout-android@3.0.0?classifier=sources
+- pkg:maven/com.worldpay.access/access-checkout-android@4.0.0?classifier=sources

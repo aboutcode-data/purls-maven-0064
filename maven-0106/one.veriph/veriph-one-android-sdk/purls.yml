@@ -1,3 +1,5 @@
+- pkg:maven/one.veriph/veriph-one-android-sdk@1.0.10-kotlin1_9-rc1?classifier=sources
+- pkg:maven/one.veriph/veriph-one-android-sdk@1.0.10-kotlin1_9?classifier=sources
 - pkg:maven/one.veriph/veriph-one-android-sdk@1.0.10?classifier=sources
 - pkg:maven/one.veriph/veriph-one-android-sdk@1.0.8?classifier=sources
 - pkg:maven/one.veriph/veriph-one-android-sdk@1.0.9?classifier=sources

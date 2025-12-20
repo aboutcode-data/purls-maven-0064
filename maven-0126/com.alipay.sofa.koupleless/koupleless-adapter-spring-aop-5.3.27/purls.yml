@@ -1,0 +1,2 @@
+- pkg:maven/com.alipay.sofa.koupleless/koupleless-adapter-spring-aop-5.3.27@1.2.1
+- pkg:maven/com.alipay.sofa.koupleless/koupleless-adapter-spring-aop-5.3.27@1.2.1?classifier=sources

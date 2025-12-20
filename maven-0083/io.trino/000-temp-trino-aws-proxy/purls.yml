@@ -1,0 +1,2 @@
+- pkg:maven/io.trino/000-temp-trino-aws-proxy@1
+- pkg:maven/io.trino/000-temp-trino-aws-proxy@1?classifier=sources
