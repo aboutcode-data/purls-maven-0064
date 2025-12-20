@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/uppy__remote-sources@1.0.2
 - pkg:maven/org.webjars.npm/uppy__remote-sources@1.0.2?classifier=sources
+- pkg:maven/org.webjars.npm/uppy__remote-sources@1.0.4
+- pkg:maven/org.webjars.npm/uppy__remote-sources@1.0.4?classifier=sources

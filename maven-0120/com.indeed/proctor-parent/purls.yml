@@ -1,3 +1,6 @@
+- pkg:maven/com.indeed/proctor-parent@1.9.100-b65ab83?classifier=sources
+- pkg:maven/com.indeed/proctor-parent@1.9.101-97e1d92?classifier=sources
+- pkg:maven/com.indeed/proctor-parent@1.9.102-c6772f0?classifier=sources
 - pkg:maven/com.indeed/proctor-parent@1.9.90-43065d6?classifier=sources
 - pkg:maven/com.indeed/proctor-parent@1.9.91-dev-experimental-proc-1295-3801753?classifier=sources
 - pkg:maven/com.indeed/proctor-parent@1.9.91-dev-experimental-proc-1295-595fa33?classifier=sources

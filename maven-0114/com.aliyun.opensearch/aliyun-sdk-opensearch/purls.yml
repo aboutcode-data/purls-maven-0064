@@ -24,3 +24,5 @@
 - pkg:maven/com.aliyun.opensearch/aliyun-sdk-opensearch@3.9.0?classifier=sources
 - pkg:maven/com.aliyun.opensearch/aliyun-sdk-opensearch@4.0.0
 - pkg:maven/com.aliyun.opensearch/aliyun-sdk-opensearch@4.0.0?classifier=sources
+- pkg:maven/com.aliyun.opensearch/aliyun-sdk-opensearch@5.1.0
+- pkg:maven/com.aliyun.opensearch/aliyun-sdk-opensearch@5.1.0?classifier=sources

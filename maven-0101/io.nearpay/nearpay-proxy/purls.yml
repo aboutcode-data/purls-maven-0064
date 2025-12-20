@@ -37,7 +37,14 @@
 - pkg:maven/io.nearpay/nearpay-proxy@0.0.35?classifier=sources
 - pkg:maven/io.nearpay/nearpay-proxy@0.0.36?classifier=sources
 - pkg:maven/io.nearpay/nearpay-proxy@0.0.37?classifier=sources
+- pkg:maven/io.nearpay/nearpay-proxy@0.0.38?classifier=sources
+- pkg:maven/io.nearpay/nearpay-proxy@0.0.39?classifier=sources
 - pkg:maven/io.nearpay/nearpay-proxy@0.0.3?classifier=sources
+- pkg:maven/io.nearpay/nearpay-proxy@0.0.40?classifier=sources
+- pkg:maven/io.nearpay/nearpay-proxy@0.0.41?classifier=sources
+- pkg:maven/io.nearpay/nearpay-proxy@0.0.42?classifier=sources
+- pkg:maven/io.nearpay/nearpay-proxy@0.0.43?classifier=sources
+- pkg:maven/io.nearpay/nearpay-proxy@0.0.44?classifier=sources
 - pkg:maven/io.nearpay/nearpay-proxy@0.0.4?classifier=sources
 - pkg:maven/io.nearpay/nearpay-proxy@0.0.5?classifier=sources
 - pkg:maven/io.nearpay/nearpay-proxy@0.0.6?classifier=sources

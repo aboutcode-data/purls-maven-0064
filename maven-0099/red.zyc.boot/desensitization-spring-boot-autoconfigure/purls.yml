@@ -6,3 +6,5 @@
 - pkg:maven/red.zyc.boot/desensitization-spring-boot-autoconfigure@1.0.7?classifier=sources
 - pkg:maven/red.zyc.boot/desensitization-spring-boot-autoconfigure@1.0.8
 - pkg:maven/red.zyc.boot/desensitization-spring-boot-autoconfigure@1.0.8?classifier=sources
+- pkg:maven/red.zyc.boot/desensitization-spring-boot-autoconfigure@2.0.0
+- pkg:maven/red.zyc.boot/desensitization-spring-boot-autoconfigure@2.0.0?classifier=sources

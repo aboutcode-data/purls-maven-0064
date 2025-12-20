@@ -6,3 +6,5 @@
 - pkg:maven/dev.resteasy.tools/ide-config@2.0.2.Final?classifier=sources
 - pkg:maven/dev.resteasy.tools/ide-config@2.0.3.Final
 - pkg:maven/dev.resteasy.tools/ide-config@2.0.3.Final?classifier=sources
+- pkg:maven/dev.resteasy.tools/ide-config@2.0.4.Final
+- pkg:maven/dev.resteasy.tools/ide-config@2.0.4.Final?classifier=sources

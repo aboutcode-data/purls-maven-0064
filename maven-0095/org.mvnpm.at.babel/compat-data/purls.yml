@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.babel/compat-data@7.22.20?classifier=sources
+- pkg:maven/org.mvnpm.at.babel/compat-data@7.23.2?classifier=sources

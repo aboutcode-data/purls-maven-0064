@@ -1,3 +1,5 @@
 - pkg:maven/org.lsposed.lsplant/lsplant-standalone@5.0?classifier=sources
 - pkg:maven/org.lsposed.lsplant/lsplant-standalone@5.1?classifier=sources
 - pkg:maven/org.lsposed.lsplant/lsplant-standalone@5.2?classifier=sources
+- pkg:maven/org.lsposed.lsplant/lsplant-standalone@6.0?classifier=sources
+- pkg:maven/org.lsposed.lsplant/lsplant-standalone@6.1?classifier=sources

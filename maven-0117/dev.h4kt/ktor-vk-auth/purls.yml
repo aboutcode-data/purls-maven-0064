@@ -1,0 +1,2 @@
+- pkg:maven/dev.h4kt/ktor-vk-auth@1.0.1?classifier=sources
+- pkg:maven/dev.h4kt/ktor-vk-auth@1.0?classifier=sources

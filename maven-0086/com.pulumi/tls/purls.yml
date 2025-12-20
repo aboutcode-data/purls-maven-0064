@@ -7,6 +7,11 @@
 - pkg:maven/com.pulumi/tls@4.11.0-alpha.1694817414%2Bee960343?classifier=sources
 - pkg:maven/com.pulumi/tls@4.11.0-alpha.1695072823%2Be061ca2b?classifier=sources
 - pkg:maven/com.pulumi/tls@4.11.0?classifier=sources
+- pkg:maven/com.pulumi/tls@4.12.0-alpha.1696283714%2B7aa960dc?classifier=sources
+- pkg:maven/com.pulumi/tls@4.12.0-alpha.1696371378%2B187f8e5d?classifier=sources
+- pkg:maven/com.pulumi/tls@4.12.0-alpha.1696608053%2B642f85f3?classifier=sources
+- pkg:maven/com.pulumi/tls@4.12.0-alpha.1696883350%2Bd68c5fa0?classifier=sources
+- pkg:maven/com.pulumi/tls@4.12.0-alpha.1697134372%2B20ab754a?classifier=sources
 - pkg:maven/com.pulumi/tls@4.6.1?classifier=sources
 - pkg:maven/com.pulumi/tls@4.7.0-alpha.1662043469%2Bcfb5fa94?classifier=sources
 - pkg:maven/com.pulumi/tls@4.7.0-alpha.1663282617%2Bc2b2da70?classifier=sources

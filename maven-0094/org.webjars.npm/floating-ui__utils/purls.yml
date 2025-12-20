@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/floating-ui__utils@0.1.2?classifier=sources
 - pkg:maven/org.webjars.npm/floating-ui__utils@0.1.4
 - pkg:maven/org.webjars.npm/floating-ui__utils@0.1.4?classifier=sources
+- pkg:maven/org.webjars.npm/floating-ui__utils@0.1.6
+- pkg:maven/org.webjars.npm/floating-ui__utils@0.1.6?classifier=sources

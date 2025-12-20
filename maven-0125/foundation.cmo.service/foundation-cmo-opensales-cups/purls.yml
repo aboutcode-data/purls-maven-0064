@@ -1,0 +1,4 @@
+- pkg:maven/foundation.cmo.service/foundation-cmo-opensales-cups@1.0.14
+- pkg:maven/foundation.cmo.service/foundation-cmo-opensales-cups@1.0.14?classifier=sources
+- pkg:maven/foundation.cmo.service/foundation-cmo-opensales-cups@1.0.15
+- pkg:maven/foundation.cmo.service/foundation-cmo-opensales-cups@1.0.15?classifier=sources

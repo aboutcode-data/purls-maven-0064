@@ -22,3 +22,5 @@
 - pkg:maven/com.ibeetl/sql-accelerator@3.25.5-RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/sql-accelerator@3.25.6-RELEASE
 - pkg:maven/com.ibeetl/sql-accelerator@3.25.6-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-accelerator@3.26.0-RELEASE
+- pkg:maven/com.ibeetl/sql-accelerator@3.26.0-RELEASE?classifier=sources

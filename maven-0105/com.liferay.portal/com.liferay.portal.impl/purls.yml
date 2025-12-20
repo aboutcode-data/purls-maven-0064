@@ -3052,7 +3052,17 @@
 - pkg:maven/com.liferay.portal/com.liferay.portal.impl@88.0.0?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.portal.impl@88.0.1
 - pkg:maven/com.liferay.portal/com.liferay.portal.impl@88.0.1?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.portal.impl@89.0.0
+- pkg:maven/com.liferay.portal/com.liferay.portal.impl@89.0.0?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.portal.impl@89.0.1
+- pkg:maven/com.liferay.portal/com.liferay.portal.impl@89.0.1?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.portal.impl@89.0.2
+- pkg:maven/com.liferay.portal/com.liferay.portal.impl@89.0.2?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.portal.impl@9.0.0
 - pkg:maven/com.liferay.portal/com.liferay.portal.impl@9.0.0?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.portal.impl@9.1.0
 - pkg:maven/com.liferay.portal/com.liferay.portal.impl@9.1.0?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.portal.impl@90.0.0
+- pkg:maven/com.liferay.portal/com.liferay.portal.impl@90.0.0?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.portal.impl@91.0.0
+- pkg:maven/com.liferay.portal/com.liferay.portal.impl@91.0.0?classifier=sources

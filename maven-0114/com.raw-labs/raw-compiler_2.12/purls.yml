@@ -77,6 +77,12 @@
 - pkg:maven/com.raw-labs/raw-compiler_2.12@0.24.23?classifier=sources
 - pkg:maven/com.raw-labs/raw-compiler_2.12@0.24.24
 - pkg:maven/com.raw-labs/raw-compiler_2.12@0.24.24?classifier=sources
+- pkg:maven/com.raw-labs/raw-compiler_2.12@0.24.25
+- pkg:maven/com.raw-labs/raw-compiler_2.12@0.24.25?classifier=sources
+- pkg:maven/com.raw-labs/raw-compiler_2.12@0.24.26
+- pkg:maven/com.raw-labs/raw-compiler_2.12@0.24.26?classifier=sources
+- pkg:maven/com.raw-labs/raw-compiler_2.12@0.24.27
+- pkg:maven/com.raw-labs/raw-compiler_2.12@0.24.27?classifier=sources
 - pkg:maven/com.raw-labs/raw-compiler_2.12@0.24.2?classifier=sources
 - pkg:maven/com.raw-labs/raw-compiler_2.12@0.24.3
 - pkg:maven/com.raw-labs/raw-compiler_2.12@0.24.3?classifier=sources

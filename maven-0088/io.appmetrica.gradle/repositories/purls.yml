@@ -3,3 +3,12 @@
 - pkg:maven/io.appmetrica.gradle/repositories@2.0.0-beta%2B51?classifier=sources
 - pkg:maven/io.appmetrica.gradle/repositories@2.0.0-beta%2B52?classifier=sources
 - pkg:maven/io.appmetrica.gradle/repositories@2.0.0-beta%2B53?classifier=sources
+- pkg:maven/io.appmetrica.gradle/repositories@2.0.0-beta%2B54?classifier=sources
+- pkg:maven/io.appmetrica.gradle/repositories@2.0.0-beta%2B55?classifier=sources
+- pkg:maven/io.appmetrica.gradle/repositories@2.0.0-beta%2B56?classifier=sources
+- pkg:maven/io.appmetrica.gradle/repositories@2.0.0-beta%2B57?classifier=sources
+- pkg:maven/io.appmetrica.gradle/repositories@2.0.0-beta%2B59?classifier=sources
+- pkg:maven/io.appmetrica.gradle/repositories@2.0.0-beta%2B60?classifier=sources
+- pkg:maven/io.appmetrica.gradle/repositories@2.0.0-beta%2B61?classifier=sources
+- pkg:maven/io.appmetrica.gradle/repositories@2.0.0-beta%2B62?classifier=sources
+- pkg:maven/io.appmetrica.gradle/repositories@2.0.0-beta%2B63?classifier=sources

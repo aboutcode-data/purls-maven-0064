@@ -86,3 +86,5 @@
 - pkg:maven/cn.therouter/router@1.2.0-rc4?type=aar
 - pkg:maven/cn.therouter/router@1.2.0-rc5?classifier=sources
 - pkg:maven/cn.therouter/router@1.2.0-rc5?type=aar
+- pkg:maven/cn.therouter/router@1.2.0-rc6?classifier=sources
+- pkg:maven/cn.therouter/router@1.2.0-rc6?type=aar

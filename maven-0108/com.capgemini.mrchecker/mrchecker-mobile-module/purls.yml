@@ -54,6 +54,10 @@
 - pkg:maven/com.capgemini.mrchecker/mrchecker-mobile-module@2023.04.03?classifier=sources
 - pkg:maven/com.capgemini.mrchecker/mrchecker-mobile-module@2023.04.04
 - pkg:maven/com.capgemini.mrchecker/mrchecker-mobile-module@2023.04.04?classifier=sources
+- pkg:maven/com.capgemini.mrchecker/mrchecker-mobile-module@2023.10.04
+- pkg:maven/com.capgemini.mrchecker/mrchecker-mobile-module@2023.10.04?classifier=sources
+- pkg:maven/com.capgemini.mrchecker/mrchecker-mobile-module@2023.10.10
+- pkg:maven/com.capgemini.mrchecker/mrchecker-mobile-module@2023.10.10?classifier=sources
 - pkg:maven/com.capgemini.mrchecker/mrchecker-mobile-module@7.2.0.1
 - pkg:maven/com.capgemini.mrchecker/mrchecker-mobile-module@7.2.0.1.1
 - pkg:maven/com.capgemini.mrchecker/mrchecker-mobile-module@7.2.0.1.1?classifier=sources

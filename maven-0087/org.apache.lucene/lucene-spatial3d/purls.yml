@@ -149,3 +149,4 @@
 - pkg:maven/org.apache.lucene/lucene-spatial3d@9.5.0?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-spatial3d@9.6.0?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-spatial3d@9.7.0?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-spatial3d@9.8.0?classifier=sources

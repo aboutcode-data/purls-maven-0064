@@ -1,6 +1,10 @@
+- pkg:maven/se.kuseman.payloadbuilder/payloadbuilder-bytes@1.0.0
 - pkg:maven/se.kuseman.payloadbuilder/payloadbuilder-bytes@1.0.0-RC2
 - pkg:maven/se.kuseman.payloadbuilder/payloadbuilder-bytes@1.0.0-RC2?classifier=sources
 - pkg:maven/se.kuseman.payloadbuilder/payloadbuilder-bytes@1.0.0-RC3
 - pkg:maven/se.kuseman.payloadbuilder/payloadbuilder-bytes@1.0.0-RC3?classifier=sources
+- pkg:maven/se.kuseman.payloadbuilder/payloadbuilder-bytes@1.0.0?classifier=sources
+- pkg:maven/se.kuseman.payloadbuilder/payloadbuilder-bytes@1.0.2
+- pkg:maven/se.kuseman.payloadbuilder/payloadbuilder-bytes@1.0.2?classifier=sources
 - pkg:maven/se.kuseman.payloadbuilder/payloadbuilder-bytes@v1.0.0-RC1
 - pkg:maven/se.kuseman.payloadbuilder/payloadbuilder-bytes@v1.0.0-RC1?classifier=sources

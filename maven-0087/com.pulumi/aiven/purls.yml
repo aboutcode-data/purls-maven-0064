@@ -72,3 +72,16 @@
 - pkg:maven/com.pulumi/aiven@6.7.0-alpha.1693252524%2Bc6772dd1?classifier=sources
 - pkg:maven/com.pulumi/aiven@6.7.0-alpha.1694131986%2B4ed45252?classifier=sources
 - pkg:maven/com.pulumi/aiven@6.7.0-alpha.1694473326%2Bb42958a0?classifier=sources
+- pkg:maven/com.pulumi/aiven@6.7.0-alpha.1695820359%2B307945cc?classifier=sources
+- pkg:maven/com.pulumi/aiven@6.7.0-alpha.1695883131%2B8f8480fc?classifier=sources
+- pkg:maven/com.pulumi/aiven@6.7.0?classifier=sources
+- pkg:maven/com.pulumi/aiven@6.7.1?classifier=sources
+- pkg:maven/com.pulumi/aiven@6.8.0-alpha.1696284100%2B93ff849b?classifier=sources
+- pkg:maven/com.pulumi/aiven@6.8.0-alpha.1696359310%2Bc7f8db84?classifier=sources
+- pkg:maven/com.pulumi/aiven@6.8.0-alpha.1696437735%2Beb8f781f?classifier=sources
+- pkg:maven/com.pulumi/aiven@6.8.0-alpha.1696437772%2Be9123052?classifier=sources
+- pkg:maven/com.pulumi/aiven@6.8.0-alpha.1696484619%2Ba204119d?classifier=sources
+- pkg:maven/com.pulumi/aiven@6.8.0-alpha.1696569455%2B60bfbfe4?classifier=sources
+- pkg:maven/com.pulumi/aiven@6.8.0-alpha.1696655885%2B6d706b49?classifier=sources
+- pkg:maven/com.pulumi/aiven@6.8.0-alpha.1696872932%2B19f4e783?classifier=sources
+- pkg:maven/com.pulumi/aiven@6.8.0-alpha.1697087873%2Bb4d33bb6?classifier=sources

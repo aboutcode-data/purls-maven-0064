@@ -48,6 +48,14 @@
 - pkg:maven/com.liferay.portal/com.liferay.util.taglib@17.1.1?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.util.taglib@18.0.0
 - pkg:maven/com.liferay.portal/com.liferay.util.taglib@18.0.0?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.util.taglib@19.0.0
+- pkg:maven/com.liferay.portal/com.liferay.util.taglib@19.0.0?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.util.taglib@19.0.1
+- pkg:maven/com.liferay.portal/com.liferay.util.taglib@19.0.1?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.util.taglib@19.0.2
+- pkg:maven/com.liferay.portal/com.liferay.util.taglib@19.0.2?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.util.taglib@19.0.3
+- pkg:maven/com.liferay.portal/com.liferay.util.taglib@19.0.3?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.util.taglib@2.0.0
 - pkg:maven/com.liferay.portal/com.liferay.util.taglib@2.0.0?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.util.taglib@2.1.0
@@ -196,6 +204,8 @@
 - pkg:maven/com.liferay.portal/com.liferay.util.taglib@2.9.1?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.util.taglib@2.9.2
 - pkg:maven/com.liferay.portal/com.liferay.util.taglib@2.9.2?classifier=sources
+- pkg:maven/com.liferay.portal/com.liferay.util.taglib@20.0.0
+- pkg:maven/com.liferay.portal/com.liferay.util.taglib@20.0.0?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.util.taglib@3.0.0
 - pkg:maven/com.liferay.portal/com.liferay.util.taglib@3.0.0?classifier=sources
 - pkg:maven/com.liferay.portal/com.liferay.util.taglib@3.1.0

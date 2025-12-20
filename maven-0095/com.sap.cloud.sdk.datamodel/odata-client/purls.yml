@@ -152,6 +152,8 @@
 - pkg:maven/com.sap.cloud.sdk.datamodel/odata-client@4.22.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.datamodel/odata-client@4.23.0
 - pkg:maven/com.sap.cloud.sdk.datamodel/odata-client@4.23.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.datamodel/odata-client@4.24.0
+- pkg:maven/com.sap.cloud.sdk.datamodel/odata-client@4.24.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.datamodel/odata-client@4.3.0
 - pkg:maven/com.sap.cloud.sdk.datamodel/odata-client@4.3.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.datamodel/odata-client@4.4.0

@@ -29,3 +29,8 @@
 - pkg:maven/com.arkivanov.decompose/extensions-compose-jetbrains-macosarm64@2.1.0-compose-experimental-alpha-07?classifier=sources
 - pkg:maven/com.arkivanov.decompose/extensions-compose-jetbrains-macosarm64@2.1.0-compose-experimental-alpha-08?classifier=sources
 - pkg:maven/com.arkivanov.decompose/extensions-compose-jetbrains-macosarm64@2.1.0-compose-experimental-beta-01?classifier=sources
+- pkg:maven/com.arkivanov.decompose/extensions-compose-jetbrains-macosarm64@2.1.0-compose-experimental?classifier=sources
+- pkg:maven/com.arkivanov.decompose/extensions-compose-jetbrains-macosarm64@2.1.1-compose-experimental?classifier=sources
+- pkg:maven/com.arkivanov.decompose/extensions-compose-jetbrains-macosarm64@2.1.2-compose-experimental?classifier=sources
+- pkg:maven/com.arkivanov.decompose/extensions-compose-jetbrains-macosarm64@2.2.0-compose-experimental-alpha01?classifier=sources
+- pkg:maven/com.arkivanov.decompose/extensions-compose-jetbrains-macosarm64@2.2.0-compose-experimental-alpha02?classifier=sources

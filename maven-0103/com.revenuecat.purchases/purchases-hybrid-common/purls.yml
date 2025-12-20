@@ -127,4 +127,6 @@
 - pkg:maven/com.revenuecat.purchases/purchases-hybrid-common@6.1.2?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-hybrid-common@6.1.3?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-hybrid-common@6.2.0?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-hybrid-common@6.3.0?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-hybrid-common@7.0.0?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-hybrid-common@AMAZON.RC1?classifier=sources

@@ -2,3 +2,6 @@
 - pkg:maven/mx.openpay/sdk-terminal-library-openpay@1.0.1?classifier=sources
 - pkg:maven/mx.openpay/sdk-terminal-library-openpay@1.0.2?classifier=sources
 - pkg:maven/mx.openpay/sdk-terminal-library-openpay@1.0.3?classifier=sources
+- pkg:maven/mx.openpay/sdk-terminal-library-openpay@1.0.4?classifier=sources
+- pkg:maven/mx.openpay/sdk-terminal-library-openpay@1.0.5?classifier=sources
+- pkg:maven/mx.openpay/sdk-terminal-library-openpay@1.1.0?classifier=sources

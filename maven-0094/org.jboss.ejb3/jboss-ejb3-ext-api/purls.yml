@@ -31,3 +31,6 @@
 - pkg:maven/org.jboss.ejb3/jboss-ejb3-ext-api@2.3.0.Final
 - pkg:maven/org.jboss.ejb3/jboss-ejb3-ext-api@2.3.0.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.ejb3/jboss-ejb3-ext-api@2.3.0.Final?classifier=sources
+- pkg:maven/org.jboss.ejb3/jboss-ejb3-ext-api@2.4.0.Final
+- pkg:maven/org.jboss.ejb3/jboss-ejb3-ext-api@2.4.0.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.ejb3/jboss-ejb3-ext-api@2.4.0.Final?classifier=sources

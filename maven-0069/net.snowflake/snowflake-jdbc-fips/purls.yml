@@ -83,6 +83,8 @@
 - pkg:maven/net.snowflake/snowflake-jdbc-fips@3.13.32?classifier=sources
 - pkg:maven/net.snowflake/snowflake-jdbc-fips@3.13.33
 - pkg:maven/net.snowflake/snowflake-jdbc-fips@3.13.33?classifier=sources
+- pkg:maven/net.snowflake/snowflake-jdbc-fips@3.13.34
+- pkg:maven/net.snowflake/snowflake-jdbc-fips@3.13.34?classifier=sources
 - pkg:maven/net.snowflake/snowflake-jdbc-fips@3.13.3?classifier=sources
 - pkg:maven/net.snowflake/snowflake-jdbc-fips@3.13.4
 - pkg:maven/net.snowflake/snowflake-jdbc-fips@3.13.4?classifier=sources
@@ -100,3 +102,5 @@
 - pkg:maven/net.snowflake/snowflake-jdbc-fips@3.14.0?classifier=sources
 - pkg:maven/net.snowflake/snowflake-jdbc-fips@3.14.1
 - pkg:maven/net.snowflake/snowflake-jdbc-fips@3.14.1?classifier=sources
+- pkg:maven/net.snowflake/snowflake-jdbc-fips@3.14.2
+- pkg:maven/net.snowflake/snowflake-jdbc-fips@3.14.2?classifier=sources

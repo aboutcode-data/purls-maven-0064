@@ -6,3 +6,5 @@
 - pkg:maven/me.binwang.scala2grpc/generator_2.13@0.1.2?classifier=sources
 - pkg:maven/me.binwang.scala2grpc/generator_2.13@1.0.0
 - pkg:maven/me.binwang.scala2grpc/generator_2.13@1.0.0?classifier=sources
+- pkg:maven/me.binwang.scala2grpc/generator_2.13@1.0.1
+- pkg:maven/me.binwang.scala2grpc/generator_2.13@1.0.1?classifier=sources

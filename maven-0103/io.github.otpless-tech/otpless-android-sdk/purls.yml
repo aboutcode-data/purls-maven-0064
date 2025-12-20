@@ -10,3 +10,5 @@
 - pkg:maven/io.github.otpless-tech/otpless-android-sdk@2.1.5?type=aar
 - pkg:maven/io.github.otpless-tech/otpless-android-sdk@2.1.6?classifier=sources
 - pkg:maven/io.github.otpless-tech/otpless-android-sdk@2.1.6?type=aar
+- pkg:maven/io.github.otpless-tech/otpless-android-sdk@2.1.7?classifier=sources
+- pkg:maven/io.github.otpless-tech/otpless-android-sdk@2.1.7?type=aar

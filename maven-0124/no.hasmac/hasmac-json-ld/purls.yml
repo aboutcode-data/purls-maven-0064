@@ -1,0 +1,2 @@
+- pkg:maven/no.hasmac/hasmac-json-ld@0.1.0
+- pkg:maven/no.hasmac/hasmac-json-ld@0.1.0?classifier=sources

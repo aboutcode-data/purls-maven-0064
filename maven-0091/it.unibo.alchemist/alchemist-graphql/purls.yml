@@ -1,0 +1,2 @@
+- pkg:maven/it.unibo.alchemist/alchemist-graphql@28.4.2?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-graphql@28.4.3?classifier=sources

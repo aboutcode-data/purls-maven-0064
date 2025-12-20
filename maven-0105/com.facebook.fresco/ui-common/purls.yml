@@ -6,3 +6,4 @@
 - pkg:maven/com.facebook.fresco/ui-common@2.6.0?classifier=sources
 - pkg:maven/com.facebook.fresco/ui-common@3.0.0?classifier=sources
 - pkg:maven/com.facebook.fresco/ui-common@3.1.0?classifier=sources
+- pkg:maven/com.facebook.fresco/ui-common@3.1.1?classifier=sources

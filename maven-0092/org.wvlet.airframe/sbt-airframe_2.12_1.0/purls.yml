@@ -1,3 +1,7 @@
+- pkg:maven/org.wvlet.airframe/sbt-airframe_2.12_1.0@23.10.0
+- pkg:maven/org.wvlet.airframe/sbt-airframe_2.12_1.0@23.10.0?classifier=sources
+- pkg:maven/org.wvlet.airframe/sbt-airframe_2.12_1.0@23.11.0
+- pkg:maven/org.wvlet.airframe/sbt-airframe_2.12_1.0@23.11.0?classifier=sources
 - pkg:maven/org.wvlet.airframe/sbt-airframe_2.12_1.0@23.5.7
 - pkg:maven/org.wvlet.airframe/sbt-airframe_2.12_1.0@23.5.7?classifier=sources
 - pkg:maven/org.wvlet.airframe/sbt-airframe_2.12_1.0@23.6.0
@@ -36,3 +40,5 @@
 - pkg:maven/org.wvlet.airframe/sbt-airframe_2.12_1.0@23.9.1?classifier=sources
 - pkg:maven/org.wvlet.airframe/sbt-airframe_2.12_1.0@23.9.2
 - pkg:maven/org.wvlet.airframe/sbt-airframe_2.12_1.0@23.9.2?classifier=sources
+- pkg:maven/org.wvlet.airframe/sbt-airframe_2.12_1.0@23.9.3
+- pkg:maven/org.wvlet.airframe/sbt-airframe_2.12_1.0@23.9.3?classifier=sources

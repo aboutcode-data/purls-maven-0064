@@ -1,0 +1,8 @@
+- pkg:maven/org.ops4j.pax.web/pax-web-jetty-keycloak18@8.0.23
+- pkg:maven/org.ops4j.pax.web/pax-web-jetty-keycloak18@8.0.23?classifier=sources
+- pkg:maven/org.ops4j.pax.web/pax-web-jetty-keycloak18@8.0.24
+- pkg:maven/org.ops4j.pax.web/pax-web-jetty-keycloak18@8.0.24?classifier=sources
+- pkg:maven/org.ops4j.pax.web/pax-web-jetty-keycloak18@9.0.12
+- pkg:maven/org.ops4j.pax.web/pax-web-jetty-keycloak18@9.0.12?classifier=sources
+- pkg:maven/org.ops4j.pax.web/pax-web-jetty-keycloak18@9.0.13
+- pkg:maven/org.ops4j.pax.web/pax-web-jetty-keycloak18@9.0.13?classifier=sources

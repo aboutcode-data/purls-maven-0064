@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.beam/beam-sdks-java-io-azure-cosmos@2.50.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-io-azure-cosmos@2.51.0?classifier=sources

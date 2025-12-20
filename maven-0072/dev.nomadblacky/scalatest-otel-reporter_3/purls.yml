@@ -1,0 +1,2 @@
+- pkg:maven/dev.nomadblacky/scalatest-otel-reporter_3@0.1.0-alpha
+- pkg:maven/dev.nomadblacky/scalatest-otel-reporter_3@0.1.0-alpha?classifier=sources

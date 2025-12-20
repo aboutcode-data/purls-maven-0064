@@ -13,3 +13,4 @@
 - pkg:maven/nz.net.ultraq.jaxb/jaxb-utilities@2.0.0
 - pkg:maven/nz.net.ultraq.jaxb/jaxb-utilities@2.0.0?classifier=sources
 - pkg:maven/nz.net.ultraq.jaxb/jaxb-utilities@2.1.0?classifier=sources
+- pkg:maven/nz.net.ultraq.jaxb/jaxb-utilities@3.0.0?classifier=sources

@@ -40,3 +40,5 @@
 - pkg:maven/com.yeepay.yop.sdk/yop-java-sdk-base@4.4.3?classifier=sources
 - pkg:maven/com.yeepay.yop.sdk/yop-java-sdk-base@4.4.4
 - pkg:maven/com.yeepay.yop.sdk/yop-java-sdk-base@4.4.4?classifier=sources
+- pkg:maven/com.yeepay.yop.sdk/yop-java-sdk-base@4.4.5
+- pkg:maven/com.yeepay.yop.sdk/yop-java-sdk-base@4.4.5?classifier=sources

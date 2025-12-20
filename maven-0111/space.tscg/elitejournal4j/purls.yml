@@ -1,1 +1,4 @@
 - pkg:maven/space.tscg/elitejournal4j@mono?classifier=sources
+- pkg:maven/space.tscg/elitejournal4j@v37-final?classifier=sources
+- pkg:maven/space.tscg/elitejournal4j@v37-local?classifier=sources
+- pkg:maven/space.tscg/elitejournal4j@v37?classifier=sources

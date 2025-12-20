@@ -101,6 +101,12 @@
 - pkg:maven/io.spinnaker.kork/kork-moniker@7.188.0?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-moniker@7.189.0?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-moniker@7.190.0?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-moniker@7.191.0?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-moniker@7.192.0?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-moniker@7.193.0?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-moniker@7.194.0?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-moniker@7.195.0?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-moniker@7.196.0?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-moniker@7.92.2?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-moniker@7.92.4?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-moniker@7.92.5?classifier=sources

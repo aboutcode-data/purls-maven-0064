@@ -170,3 +170,5 @@
 - pkg:maven/org.jbehave/jbehave-scala@5.1.1
 - pkg:maven/org.jbehave/jbehave-scala@5.1.1?classifier=sources
 - pkg:maven/org.jbehave/jbehave-scala@5.1?classifier=sources
+- pkg:maven/org.jbehave/jbehave-scala@5.2.0
+- pkg:maven/org.jbehave/jbehave-scala@5.2.0?classifier=sources

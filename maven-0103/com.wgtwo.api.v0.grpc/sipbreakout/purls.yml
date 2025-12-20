@@ -8,3 +8,5 @@
 - pkg:maven/com.wgtwo.api.v0.grpc/sipbreakout@0.1.5?classifier=sources
 - pkg:maven/com.wgtwo.api.v0.grpc/sipbreakout@0.1.6
 - pkg:maven/com.wgtwo.api.v0.grpc/sipbreakout@0.1.6?classifier=sources
+- pkg:maven/com.wgtwo.api.v0.grpc/sipbreakout@0.1.7
+- pkg:maven/com.wgtwo.api.v0.grpc/sipbreakout@0.1.7?classifier=sources

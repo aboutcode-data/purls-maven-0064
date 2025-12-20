@@ -1,0 +1,2 @@
+- pkg:maven/io.appflags/appflags-sdk-java@1.0.0
+- pkg:maven/io.appflags/appflags-sdk-java@1.0.0?classifier=sources

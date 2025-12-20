@@ -6,3 +6,4 @@
 - pkg:maven/com.juul.kable/exceptions-jvm@0.25.2?classifier=sources
 - pkg:maven/com.juul.kable/exceptions-jvm@0.26.0?classifier=sources
 - pkg:maven/com.juul.kable/exceptions-jvm@0.27.0?classifier=sources
+- pkg:maven/com.juul.kable/exceptions-jvm@0.28.0-rc?classifier=sources

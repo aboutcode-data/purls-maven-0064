@@ -12,3 +12,5 @@
 - pkg:maven/org.cloudsimplus/cloudsimplus@8.4.0?classifier=sources
 - pkg:maven/org.cloudsimplus/cloudsimplus@8.5.0
 - pkg:maven/org.cloudsimplus/cloudsimplus@8.5.0?classifier=sources
+- pkg:maven/org.cloudsimplus/cloudsimplus@8.5.1
+- pkg:maven/org.cloudsimplus/cloudsimplus@8.5.1?classifier=sources

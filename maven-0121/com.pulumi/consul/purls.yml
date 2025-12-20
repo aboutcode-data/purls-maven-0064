@@ -7,6 +7,11 @@
 - pkg:maven/com.pulumi/consul@3.10.0-alpha.1693460341%2B24031b1d?classifier=sources
 - pkg:maven/com.pulumi/consul@3.10.0-alpha.1693978030%2B6d19bbce?classifier=sources
 - pkg:maven/com.pulumi/consul@3.10.0-alpha.1694637663%2B440ed3b5?classifier=sources
+- pkg:maven/com.pulumi/consul@3.10.0-alpha.1695846358%2B989529e5?classifier=sources
+- pkg:maven/com.pulumi/consul@3.10.0-alpha.1696570271%2B46d88576?classifier=sources
+- pkg:maven/com.pulumi/consul@3.10.0-alpha.1696656776%2B15036b6c?classifier=sources
+- pkg:maven/com.pulumi/consul@3.10.0-alpha.1696874040%2B67218d8a?classifier=sources
+- pkg:maven/com.pulumi/consul@3.10.0-alpha.1697088884%2Bd39c3883?classifier=sources
 - pkg:maven/com.pulumi/consul@3.7.0?classifier=sources
 - pkg:maven/com.pulumi/consul@3.8.0-alpha.1673416230%2B665c5598?classifier=sources
 - pkg:maven/com.pulumi/consul@3.8.0-alpha.1673555842%2B0d662652?classifier=sources

@@ -110,6 +110,10 @@
 - pkg:maven/com.google.cloud/google-cloud-billing@2.23.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-billing@2.24.0
 - pkg:maven/com.google.cloud/google-cloud-billing@2.24.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-billing@2.27.0
+- pkg:maven/com.google.cloud/google-cloud-billing@2.27.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-billing@2.28.0
+- pkg:maven/com.google.cloud/google-cloud-billing@2.28.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-billing@2.3.0
 - pkg:maven/com.google.cloud/google-cloud-billing@2.3.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-billing@2.3.1

@@ -18,3 +18,5 @@
 - pkg:maven/com.anaptecs.jeaf.rest/jeaf-rest-composite-type-impl-kryo@1.8.0?classifier=sources
 - pkg:maven/com.anaptecs.jeaf.rest/jeaf-rest-composite-type-impl-kryo@1.9.0
 - pkg:maven/com.anaptecs.jeaf.rest/jeaf-rest-composite-type-impl-kryo@1.9.0?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.rest/jeaf-rest-composite-type-impl-kryo@1.9.1
+- pkg:maven/com.anaptecs.jeaf.rest/jeaf-rest-composite-type-impl-kryo@1.9.1?classifier=sources

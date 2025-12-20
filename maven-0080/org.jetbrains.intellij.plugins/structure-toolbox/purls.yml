@@ -7,3 +7,6 @@
 - pkg:maven/org.jetbrains.intellij.plugins/structure-toolbox@3.259?classifier=sources
 - pkg:maven/org.jetbrains.intellij.plugins/structure-toolbox@3.260?classifier=sources
 - pkg:maven/org.jetbrains.intellij.plugins/structure-toolbox@3.261?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/structure-toolbox@3.262?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/structure-toolbox@3.263?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/structure-toolbox@3.264?classifier=sources

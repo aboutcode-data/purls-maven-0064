@@ -44,3 +44,4 @@
 - pkg:maven/com.sksamuel.scrimage/scrimage-scala_2.13@4.0.8?classifier=sources
 - pkg:maven/com.sksamuel.scrimage/scrimage-scala_2.13@4.0.9?classifier=sources
 - pkg:maven/com.sksamuel.scrimage/scrimage-scala_2.13@4.1.0?classifier=sources
+- pkg:maven/com.sksamuel.scrimage/scrimage-scala_2.13@4.1.1?classifier=sources

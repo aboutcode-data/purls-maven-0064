@@ -60,6 +60,11 @@
 - pkg:maven/com.yahoo.maha/maha-postgres-executor@6.137?classifier=sources
 - pkg:maven/com.yahoo.maha/maha-postgres-executor@6.138
 - pkg:maven/com.yahoo.maha/maha-postgres-executor@6.138?classifier=sources
+- pkg:maven/com.yahoo.maha/maha-postgres-executor@6.142
+- pkg:maven/com.yahoo.maha/maha-postgres-executor@6.142?classifier=sources
+- pkg:maven/com.yahoo.maha/maha-postgres-executor@6.147?classifier=sources
+- pkg:maven/com.yahoo.maha/maha-postgres-executor@6.152
+- pkg:maven/com.yahoo.maha/maha-postgres-executor@6.152?classifier=sources
 - pkg:maven/com.yahoo.maha/maha-postgres-executor@6.53
 - pkg:maven/com.yahoo.maha/maha-postgres-executor@6.53?classifier=sources
 - pkg:maven/com.yahoo.maha/maha-postgres-executor@6.54

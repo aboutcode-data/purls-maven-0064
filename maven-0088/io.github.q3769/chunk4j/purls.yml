@@ -88,3 +88,5 @@
 - pkg:maven/io.github.q3769/chunk4j@20230621.0.0?classifier=sources
 - pkg:maven/io.github.q3769/chunk4j@20230729.0.0
 - pkg:maven/io.github.q3769/chunk4j@20230729.0.0?classifier=sources
+- pkg:maven/io.github.q3769/chunk4j@20230729.0.20230929
+- pkg:maven/io.github.q3769/chunk4j@20230729.0.20230929?classifier=sources

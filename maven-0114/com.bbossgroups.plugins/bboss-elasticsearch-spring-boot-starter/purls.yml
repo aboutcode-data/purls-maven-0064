@@ -290,3 +290,4 @@
 - pkg:maven/com.bbossgroups.plugins/bboss-elasticsearch-spring-boot-starter@7.0.7?classifier=sources
 - pkg:maven/com.bbossgroups.plugins/bboss-elasticsearch-spring-boot-starter@7.0.8?classifier=sources
 - pkg:maven/com.bbossgroups.plugins/bboss-elasticsearch-spring-boot-starter@7.0.9?classifier=sources
+- pkg:maven/com.bbossgroups.plugins/bboss-elasticsearch-spring-boot-starter@7.1.0?classifier=sources
