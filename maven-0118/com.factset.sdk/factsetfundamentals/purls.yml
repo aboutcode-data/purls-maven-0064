@@ -3,6 +3,7 @@
 - pkg:maven/com.factset.sdk/factsetfundamentals@0.9.0?classifier=sources
 - pkg:maven/com.factset.sdk/factsetfundamentals@0.9.1?classifier=sources
 - pkg:maven/com.factset.sdk/factsetfundamentals@1.0.0?classifier=sources
+- pkg:maven/com.factset.sdk/factsetfundamentals@1.0.10?classifier=sources
 - pkg:maven/com.factset.sdk/factsetfundamentals@1.0.1?classifier=sources
 - pkg:maven/com.factset.sdk/factsetfundamentals@1.0.2?classifier=sources
 - pkg:maven/com.factset.sdk/factsetfundamentals@1.0.3?classifier=sources
@@ -11,6 +12,7 @@
 - pkg:maven/com.factset.sdk/factsetfundamentals@1.0.6?classifier=sources
 - pkg:maven/com.factset.sdk/factsetfundamentals@1.0.7?classifier=sources
 - pkg:maven/com.factset.sdk/factsetfundamentals@1.0.8?classifier=sources
+- pkg:maven/com.factset.sdk/factsetfundamentals@1.0.9?classifier=sources
 - pkg:maven/com.factset.sdk/factsetfundamentals@2.0.0?classifier=sources
 - pkg:maven/com.factset.sdk/factsetfundamentals@2.0.1?classifier=sources
 - pkg:maven/com.factset.sdk/factsetfundamentals@2.1.0?classifier=sources
@@ -18,3 +20,6 @@
 - pkg:maven/com.factset.sdk/factsetfundamentals@2.1.2?classifier=sources
 - pkg:maven/com.factset.sdk/factsetfundamentals@2.2.0?classifier=sources
 - pkg:maven/com.factset.sdk/factsetfundamentals@2.2.1?classifier=sources
+- pkg:maven/com.factset.sdk/factsetfundamentals@2.2.2?classifier=sources
+- pkg:maven/com.factset.sdk/factsetfundamentals@2.2.3?classifier=sources
+- pkg:maven/com.factset.sdk/factsetfundamentals@3.0.0?classifier=sources

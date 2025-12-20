@@ -22,3 +22,7 @@
 - pkg:maven/fi.evolver/evolver-basics-spring@4.0.2?classifier=sources
 - pkg:maven/fi.evolver/evolver-basics-spring@4.0.3
 - pkg:maven/fi.evolver/evolver-basics-spring@4.0.3?classifier=sources
+- pkg:maven/fi.evolver/evolver-basics-spring@4.1.0
+- pkg:maven/fi.evolver/evolver-basics-spring@4.1.0?classifier=sources
+- pkg:maven/fi.evolver/evolver-basics-spring@4.1.1
+- pkg:maven/fi.evolver/evolver-basics-spring@4.1.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.kahlkn/baibao@1.0.0.20240113.beta
+- pkg:maven/com.github.kahlkn/baibao@1.0.0.20240113.beta?classifier=sources

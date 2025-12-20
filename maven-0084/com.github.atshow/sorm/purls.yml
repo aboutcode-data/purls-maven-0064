@@ -75,4 +75,6 @@
 - pkg:maven/com.github.atshow/sorm@1.0.46?classifier=sources
 - pkg:maven/com.github.atshow/sorm@1.0.47
 - pkg:maven/com.github.atshow/sorm@1.0.47?classifier=sources
+- pkg:maven/com.github.atshow/sorm@1.0.48
+- pkg:maven/com.github.atshow/sorm@1.0.48?classifier=sources
 - pkg:maven/com.github.atshow/sorm@1.0?classifier=sources

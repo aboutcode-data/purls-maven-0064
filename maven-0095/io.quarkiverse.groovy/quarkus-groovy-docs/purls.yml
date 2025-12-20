@@ -1,5 +1,6 @@
 - pkg:maven/io.quarkiverse.groovy/quarkus-groovy-docs@3.0.0
 - pkg:maven/io.quarkiverse.groovy/quarkus-groovy-docs@3.1.0
+- pkg:maven/io.quarkiverse.groovy/quarkus-groovy-docs@3.10.0
 - pkg:maven/io.quarkiverse.groovy/quarkus-groovy-docs@3.2.0
 - pkg:maven/io.quarkiverse.groovy/quarkus-groovy-docs@3.2.1
 - pkg:maven/io.quarkiverse.groovy/quarkus-groovy-docs@3.2.2
@@ -17,3 +18,5 @@
 - pkg:maven/io.quarkiverse.groovy/quarkus-groovy-docs@3.8.1
 - pkg:maven/io.quarkiverse.groovy/quarkus-groovy-docs@3.9.0
 - pkg:maven/io.quarkiverse.groovy/quarkus-groovy-docs@3.9.1
+- pkg:maven/io.quarkiverse.groovy/quarkus-groovy-docs@3.9.2
+- pkg:maven/io.quarkiverse.groovy/quarkus-groovy-docs@3.9.3

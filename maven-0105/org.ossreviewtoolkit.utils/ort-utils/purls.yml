@@ -20,6 +20,10 @@
 - pkg:maven/org.ossreviewtoolkit.utils/ort-utils@2.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.utils/ort-utils@20.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.utils/ort-utils@20.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/ort-utils@21.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/ort-utils@22.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/ort-utils@22.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/ort-utils@22.2.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.utils/ort-utils@3.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.utils/ort-utils@4.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.utils/ort-utils@5.0.0?classifier=sources

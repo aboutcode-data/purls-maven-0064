@@ -1,0 +1,2 @@
+- pkg:maven/pt.kcry/blake3_native0.5_3@3.1.2
+- pkg:maven/pt.kcry/blake3_native0.5_3@3.1.2?classifier=sources

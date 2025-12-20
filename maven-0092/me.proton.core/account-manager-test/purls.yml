@@ -1,2 +1,4 @@
 - pkg:maven/me.proton.core/account-manager-test@22.0.0?classifier=sources
 - pkg:maven/me.proton.core/account-manager-test@22.1.0?classifier=sources
+- pkg:maven/me.proton.core/account-manager-test@22.2.0?classifier=sources
+- pkg:maven/me.proton.core/account-manager-test@23.0.0?classifier=sources

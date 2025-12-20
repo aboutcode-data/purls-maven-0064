@@ -2,3 +2,5 @@
 - pkg:maven/org.scala-lang/scala2-sbt-bridge@2.13.12?classifier=sources
 - pkg:maven/org.scala-lang/scala2-sbt-bridge@2.13.13
 - pkg:maven/org.scala-lang/scala2-sbt-bridge@2.13.13?classifier=sources
+- pkg:maven/org.scala-lang/scala2-sbt-bridge@2.13.14
+- pkg:maven/org.scala-lang/scala2-sbt-bridge@2.13.14?classifier=sources

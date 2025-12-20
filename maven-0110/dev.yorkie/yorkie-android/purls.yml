@@ -9,5 +9,6 @@
 - pkg:maven/dev.yorkie/yorkie-android@0.4.15-rc3?classifier=sources
 - pkg:maven/dev.yorkie/yorkie-android@0.4.15-rc?classifier=sources
 - pkg:maven/dev.yorkie/yorkie-android@0.4.15?classifier=sources
+- pkg:maven/dev.yorkie/yorkie-android@0.4.16?classifier=sources
 - pkg:maven/dev.yorkie/yorkie-android@0.4.6?classifier=sources
 - pkg:maven/dev.yorkie/yorkie-android@0.4.7?classifier=sources

@@ -64,3 +64,7 @@
 - pkg:maven/com.gu.play-secret-rotation/play-v27_2.13@7.1.0?classifier=sources
 - pkg:maven/com.gu.play-secret-rotation/play-v27_2.13@7.1.1
 - pkg:maven/com.gu.play-secret-rotation/play-v27_2.13@7.1.1?classifier=sources
+- pkg:maven/com.gu.play-secret-rotation/play-v27_2.13@8.0.0
+- pkg:maven/com.gu.play-secret-rotation/play-v27_2.13@8.0.0-PREVIEW.fix-forgotten-CSRFTokenSigner.2024-04-03T1117.eca69ca4
+- pkg:maven/com.gu.play-secret-rotation/play-v27_2.13@8.0.0-PREVIEW.fix-forgotten-CSRFTokenSigner.2024-04-03T1117.eca69ca4?classifier=sources
+- pkg:maven/com.gu.play-secret-rotation/play-v27_2.13@8.0.0?classifier=sources

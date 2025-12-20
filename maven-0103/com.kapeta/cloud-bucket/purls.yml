@@ -12,3 +12,5 @@
 - pkg:maven/com.kapeta/cloud-bucket@0.1.5?classifier=sources
 - pkg:maven/com.kapeta/cloud-bucket@1.0.0
 - pkg:maven/com.kapeta/cloud-bucket@1.0.0?classifier=sources
+- pkg:maven/com.kapeta/cloud-bucket@1.1.0
+- pkg:maven/com.kapeta/cloud-bucket@1.1.0?classifier=sources

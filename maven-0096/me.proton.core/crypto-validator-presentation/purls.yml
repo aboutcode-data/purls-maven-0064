@@ -50,6 +50,8 @@
 - pkg:maven/me.proton.core/crypto-validator-presentation@21.2.1?classifier=sources
 - pkg:maven/me.proton.core/crypto-validator-presentation@22.0.0?classifier=sources
 - pkg:maven/me.proton.core/crypto-validator-presentation@22.1.0?classifier=sources
+- pkg:maven/me.proton.core/crypto-validator-presentation@22.2.0?classifier=sources
+- pkg:maven/me.proton.core/crypto-validator-presentation@23.0.0?classifier=sources
 - pkg:maven/me.proton.core/crypto-validator-presentation@5.2.0?classifier=sources
 - pkg:maven/me.proton.core/crypto-validator-presentation@5.2.1?classifier=sources
 - pkg:maven/me.proton.core/crypto-validator-presentation@5.2.2?classifier=sources

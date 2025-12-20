@@ -16,3 +16,5 @@
 - pkg:maven/software.coley/lljzip@2.1.4?classifier=sources
 - pkg:maven/software.coley/lljzip@2.2.0?classifier=sources
 - pkg:maven/software.coley/lljzip@2.3.0?classifier=sources
+- pkg:maven/software.coley/lljzip@2.4.0?classifier=sources
+- pkg:maven/software.coley/lljzip@2.5.0?classifier=sources

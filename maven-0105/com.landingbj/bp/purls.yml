@@ -1,0 +1,2 @@
+- pkg:maven/com.landingbj/bp@1.0.0?classifier=sources
+- pkg:maven/com.landingbj/bp@1.0?classifier=sources

@@ -25,3 +25,4 @@
 - pkg:maven/io.github.jimmy-j/facesdk@2.5.1?classifier=sources
 - pkg:maven/io.github.jimmy-j/facesdk@2.5.2?classifier=sources
 - pkg:maven/io.github.jimmy-j/facesdk@2.5.3?classifier=sources
+- pkg:maven/io.github.jimmy-j/facesdk@2.5.4?classifier=sources

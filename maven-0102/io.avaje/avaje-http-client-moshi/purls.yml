@@ -1,0 +1,2 @@
+- pkg:maven/io.avaje/avaje-http-client-moshi@2.4
+- pkg:maven/io.avaje/avaje-http-client-moshi@2.4?classifier=sources

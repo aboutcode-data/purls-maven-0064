@@ -1,0 +1,2 @@
+- pkg:maven/net.corda.gradle.plugin/corda-runtime-gradle-plugin@5.2.0.0
+- pkg:maven/net.corda.gradle.plugin/corda-runtime-gradle-plugin@5.2.0.0?classifier=sources

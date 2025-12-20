@@ -15,6 +15,7 @@
 - pkg:maven/com.sensorsdata.analytics.android/encrypt@0.2.10?classifier=sources
 - pkg:maven/com.sensorsdata.analytics.android/encrypt@0.2.11?classifier=sources
 - pkg:maven/com.sensorsdata.analytics.android/encrypt@0.2.12?classifier=sources
+- pkg:maven/com.sensorsdata.analytics.android/encrypt@0.2.13?classifier=sources
 - pkg:maven/com.sensorsdata.analytics.android/encrypt@0.2.1?classifier=sources
 - pkg:maven/com.sensorsdata.analytics.android/encrypt@0.2.2?classifier=sources
 - pkg:maven/com.sensorsdata.analytics.android/encrypt@0.2.3?classifier=sources
@@ -24,3 +25,4 @@
 - pkg:maven/com.sensorsdata.analytics.android/encrypt@0.2.7?classifier=sources
 - pkg:maven/com.sensorsdata.analytics.android/encrypt@0.2.8?classifier=sources
 - pkg:maven/com.sensorsdata.analytics.android/encrypt@0.2.9?classifier=sources
+- pkg:maven/com.sensorsdata.analytics.android/encrypt@0.3.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.scalikejdbc/scalikejdbc-orm_3@4.3.0
+- pkg:maven/org.scalikejdbc/scalikejdbc-orm_3@4.3.0?classifier=sources

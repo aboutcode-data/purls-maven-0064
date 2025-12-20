@@ -24,3 +24,7 @@
 - pkg:maven/cn.toutatis/axolotl@0.0.8-ALPHA-8?classifier=sources
 - pkg:maven/cn.toutatis/axolotl@0.0.9-ALPHA-8
 - pkg:maven/cn.toutatis/axolotl@0.0.9-ALPHA-8?classifier=sources
+- pkg:maven/cn.toutatis/axolotl@1.0.13
+- pkg:maven/cn.toutatis/axolotl@1.0.13?classifier=sources
+- pkg:maven/cn.toutatis/axolotl@1.0.14-8
+- pkg:maven/cn.toutatis/axolotl@1.0.14-8?classifier=sources

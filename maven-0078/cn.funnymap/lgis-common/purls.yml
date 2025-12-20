@@ -1,0 +1,5 @@
+- pkg:maven/cn.funnymap/lgis-common@0.1.0?classifier=sources
+- pkg:maven/cn.funnymap/lgis-common@0.2.0?classifier=sources
+- pkg:maven/cn.funnymap/lgis-common@0.2.2?classifier=sources
+- pkg:maven/cn.funnymap/lgis-common@0.2.3?classifier=sources
+- pkg:maven/cn.funnymap/lgis-common@0.2.4?classifier=sources

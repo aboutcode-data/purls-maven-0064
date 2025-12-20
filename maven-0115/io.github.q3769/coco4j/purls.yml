@@ -16,3 +16,9 @@
 - pkg:maven/io.github.q3769/coco4j@5.0.0?classifier=sources
 - pkg:maven/io.github.q3769/coco4j@6.0.0
 - pkg:maven/io.github.q3769/coco4j@6.0.0?classifier=sources
+- pkg:maven/io.github.q3769/coco4j@7.0.0
+- pkg:maven/io.github.q3769/coco4j@7.0.0?classifier=sources
+- pkg:maven/io.github.q3769/coco4j@8.0.0
+- pkg:maven/io.github.q3769/coco4j@8.0.0?classifier=sources
+- pkg:maven/io.github.q3769/coco4j@9.0.0
+- pkg:maven/io.github.q3769/coco4j@9.0.0?classifier=sources

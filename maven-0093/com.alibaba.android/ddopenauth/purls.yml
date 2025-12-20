@@ -1,4 +1,5 @@
 - pkg:maven/com.alibaba.android/ddopenauth@1.5.0.10?type=aar
+- pkg:maven/com.alibaba.android/ddopenauth@1.5.0.11?type=aar
 - pkg:maven/com.alibaba.android/ddopenauth@1.5.0.7?type=aar
 - pkg:maven/com.alibaba.android/ddopenauth@1.5.0.8?type=aar
 - pkg:maven/com.alibaba.android/ddopenauth@1.5.0.9?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/de.thatscalaguy/nats4cats-service_3@0.3.0
+- pkg:maven/de.thatscalaguy/nats4cats-service_3@0.3.0?classifier=sources

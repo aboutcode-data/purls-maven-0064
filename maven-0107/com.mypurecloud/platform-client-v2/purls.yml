@@ -300,6 +300,14 @@
 - pkg:maven/com.mypurecloud/platform-client-v2@201.0.0?classifier=sources
 - pkg:maven/com.mypurecloud/platform-client-v2@201.1.0
 - pkg:maven/com.mypurecloud/platform-client-v2@201.1.0?classifier=sources
+- pkg:maven/com.mypurecloud/platform-client-v2@202.0.0
+- pkg:maven/com.mypurecloud/platform-client-v2@202.0.0?classifier=sources
+- pkg:maven/com.mypurecloud/platform-client-v2@203.0.0
+- pkg:maven/com.mypurecloud/platform-client-v2@203.0.0?classifier=sources
+- pkg:maven/com.mypurecloud/platform-client-v2@204.0.0
+- pkg:maven/com.mypurecloud/platform-client-v2@204.0.0?classifier=sources
+- pkg:maven/com.mypurecloud/platform-client-v2@204.1.0
+- pkg:maven/com.mypurecloud/platform-client-v2@204.1.0?classifier=sources
 - pkg:maven/com.mypurecloud/platform-client-v2@21.0.0
 - pkg:maven/com.mypurecloud/platform-client-v2@21.0.0?classifier=sources
 - pkg:maven/com.mypurecloud/platform-client-v2@22.0.0

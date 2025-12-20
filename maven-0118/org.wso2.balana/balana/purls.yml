@@ -13,6 +13,15 @@
 - pkg:maven/org.wso2.balana/balana@1.2.10?classifier=source-release&type=zip
 - pkg:maven/org.wso2.balana/balana@1.2.11?classifier=source-release&type=zip
 - pkg:maven/org.wso2.balana/balana@1.2.12?classifier=source-release&type=zip
+- pkg:maven/org.wso2.balana/balana@1.2.14?classifier=source-release&type=zip
+- pkg:maven/org.wso2.balana/balana@1.2.15?classifier=source-release&type=zip
+- pkg:maven/org.wso2.balana/balana@1.2.16?classifier=source-release&type=zip
+- pkg:maven/org.wso2.balana/balana@1.2.17?classifier=source-release&type=zip
+- pkg:maven/org.wso2.balana/balana@1.2.18?classifier=source-release&type=zip
+- pkg:maven/org.wso2.balana/balana@1.2.19?classifier=source-release&type=zip
+- pkg:maven/org.wso2.balana/balana@1.2.20?classifier=source-release&type=zip
+- pkg:maven/org.wso2.balana/balana@1.2.21?classifier=source-release&type=zip
+- pkg:maven/org.wso2.balana/balana@1.2.22?classifier=source-release&type=zip
 - pkg:maven/org.wso2.balana/balana@1.2.2?classifier=source-release&type=zip
 - pkg:maven/org.wso2.balana/balana@1.2.3?classifier=source-release&type=zip
 - pkg:maven/org.wso2.balana/balana@1.2.5?classifier=source-release&type=zip

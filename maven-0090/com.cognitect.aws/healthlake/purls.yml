@@ -12,3 +12,5 @@
 - pkg:maven/com.cognitect.aws/healthlake@847.2.1398.0?classifier=sources
 - pkg:maven/com.cognitect.aws/healthlake@857.2.1574.0
 - pkg:maven/com.cognitect.aws/healthlake@857.2.1574.0?classifier=sources
+- pkg:maven/com.cognitect.aws/healthlake@868.2.1599.0
+- pkg:maven/com.cognitect.aws/healthlake@868.2.1599.0?classifier=sources

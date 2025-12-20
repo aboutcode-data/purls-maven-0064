@@ -1,0 +1,2 @@
+- pkg:maven/software.xdev/testcontainers-junit4-mock@1.0.1
+- pkg:maven/software.xdev/testcontainers-junit4-mock@1.0.1?classifier=sources

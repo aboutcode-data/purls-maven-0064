@@ -1,2 +1,4 @@
 - pkg:maven/com.fjellsoftware.javafunctionalutils/javafunctionalutils@1.0
 - pkg:maven/com.fjellsoftware.javafunctionalutils/javafunctionalutils@1.0?classifier=sources
+- pkg:maven/com.fjellsoftware.javafunctionalutils/javafunctionalutils@2.0
+- pkg:maven/com.fjellsoftware.javafunctionalutils/javafunctionalutils@2.0?classifier=sources

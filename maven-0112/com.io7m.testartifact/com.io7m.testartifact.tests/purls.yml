@@ -1,0 +1,2 @@
+- pkg:maven/com.io7m.testartifact/com.io7m.testartifact.tests@0.0.7
+- pkg:maven/com.io7m.testartifact/com.io7m.testartifact.tests@0.0.7?classifier=sources

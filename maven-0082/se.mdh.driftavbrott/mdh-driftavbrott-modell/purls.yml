@@ -10,3 +10,7 @@
 - pkg:maven/se.mdh.driftavbrott/mdh-driftavbrott-modell@1.5.0?classifier=sources
 - pkg:maven/se.mdh.driftavbrott/mdh-driftavbrott-modell@1.5.1
 - pkg:maven/se.mdh.driftavbrott/mdh-driftavbrott-modell@1.5.1?classifier=sources
+- pkg:maven/se.mdh.driftavbrott/mdh-driftavbrott-modell@1.6.0
+- pkg:maven/se.mdh.driftavbrott/mdh-driftavbrott-modell@1.6.0?classifier=sources
+- pkg:maven/se.mdh.driftavbrott/mdh-driftavbrott-modell@1.6.1
+- pkg:maven/se.mdh.driftavbrott/mdh-driftavbrott-modell@1.6.1?classifier=sources

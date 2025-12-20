@@ -113,3 +113,5 @@
 - pkg:maven/cn.therouter/router@1.2.2-rc8?type=aar
 - pkg:maven/cn.therouter/router@1.2.2-rc9?classifier=sources
 - pkg:maven/cn.therouter/router@1.2.2-rc9?type=aar
+- pkg:maven/cn.therouter/router@1.2.2?classifier=sources
+- pkg:maven/cn.therouter/router@1.2.2?type=aar

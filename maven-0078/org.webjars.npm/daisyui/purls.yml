@@ -8,6 +8,10 @@
 - pkg:maven/org.webjars.npm/daisyui@3.7.3?classifier=sources
 - pkg:maven/org.webjars.npm/daisyui@3.9.4
 - pkg:maven/org.webjars.npm/daisyui@3.9.4?classifier=sources
+- pkg:maven/org.webjars.npm/daisyui@4.10.1
+- pkg:maven/org.webjars.npm/daisyui@4.10.1?classifier=sources
+- pkg:maven/org.webjars.npm/daisyui@4.10.5
+- pkg:maven/org.webjars.npm/daisyui@4.11.1
 - pkg:maven/org.webjars.npm/daisyui@4.5.0
 - pkg:maven/org.webjars.npm/daisyui@4.5.0?classifier=sources
 - pkg:maven/org.webjars.npm/daisyui@4.6.0

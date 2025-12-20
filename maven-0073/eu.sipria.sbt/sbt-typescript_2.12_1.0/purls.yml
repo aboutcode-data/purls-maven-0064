@@ -1,0 +1,2 @@
+- pkg:maven/eu.sipria.sbt/sbt-typescript_2.12_1.0@0.7.1
+- pkg:maven/eu.sipria.sbt/sbt-typescript_2.12_1.0@0.7.1?classifier=sources

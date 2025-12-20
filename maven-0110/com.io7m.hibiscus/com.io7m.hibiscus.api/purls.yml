@@ -14,3 +14,5 @@
 - pkg:maven/com.io7m.hibiscus/com.io7m.hibiscus.api@0.0.7?classifier=sources
 - pkg:maven/com.io7m.hibiscus/com.io7m.hibiscus.api@0.0.8
 - pkg:maven/com.io7m.hibiscus/com.io7m.hibiscus.api@0.0.8?classifier=sources
+- pkg:maven/com.io7m.hibiscus/com.io7m.hibiscus.api@1.0.0-beta0001
+- pkg:maven/com.io7m.hibiscus/com.io7m.hibiscus.api@1.0.0-beta0001?classifier=sources
