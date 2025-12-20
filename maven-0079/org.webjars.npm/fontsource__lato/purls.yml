@@ -2,3 +2,4 @@
 - pkg:maven/org.webjars.npm/fontsource__lato@4.2.2?classifier=sources
 - pkg:maven/org.webjars.npm/fontsource__lato@4.5.0
 - pkg:maven/org.webjars.npm/fontsource__lato@4.5.0?classifier=sources
+- pkg:maven/org.webjars.npm/fontsource__lato@5.1.0

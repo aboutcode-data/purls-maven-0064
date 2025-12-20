@@ -1,1 +1,2 @@
+- pkg:maven/org.mvnpm/yargs-parser@18.1.3?classifier=sources
 - pkg:maven/org.mvnpm/yargs-parser@21.1.1?classifier=sources

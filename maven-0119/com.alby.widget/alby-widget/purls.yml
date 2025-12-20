@@ -1,0 +1,2 @@
+- pkg:maven/com.alby.widget/alby-widget@0.0.15?classifier=sources
+- pkg:maven/com.alby.widget/alby-widget@0.1.1?classifier=sources

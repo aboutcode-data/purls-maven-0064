@@ -88,3 +88,5 @@
 - pkg:maven/org.eclipse.tycho.extras/tycho-document-bundle-plugin@4.0.7?classifier=sources
 - pkg:maven/org.eclipse.tycho.extras/tycho-document-bundle-plugin@4.0.8
 - pkg:maven/org.eclipse.tycho.extras/tycho-document-bundle-plugin@4.0.8?classifier=sources
+- pkg:maven/org.eclipse.tycho.extras/tycho-document-bundle-plugin@4.0.9
+- pkg:maven/org.eclipse.tycho.extras/tycho-document-bundle-plugin@4.0.9?classifier=sources

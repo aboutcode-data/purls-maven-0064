@@ -2,3 +2,9 @@
 - pkg:maven/org.metaeffekt.core/ae-dependency-analysis-plugin@0.119.0?classifier=sources
 - pkg:maven/org.metaeffekt.core/ae-dependency-analysis-plugin@0.120.0
 - pkg:maven/org.metaeffekt.core/ae-dependency-analysis-plugin@0.120.0?classifier=sources
+- pkg:maven/org.metaeffekt.core/ae-dependency-analysis-plugin@0.121.0
+- pkg:maven/org.metaeffekt.core/ae-dependency-analysis-plugin@0.121.0?classifier=sources
+- pkg:maven/org.metaeffekt.core/ae-dependency-analysis-plugin@0.122.0
+- pkg:maven/org.metaeffekt.core/ae-dependency-analysis-plugin@0.122.0?classifier=sources
+- pkg:maven/org.metaeffekt.core/ae-dependency-analysis-plugin@0.123.0
+- pkg:maven/org.metaeffekt.core/ae-dependency-analysis-plugin@0.123.0?classifier=sources

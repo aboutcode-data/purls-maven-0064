@@ -13,3 +13,4 @@
 - pkg:maven/com.factset.sdk/factsetownershipreportbuilder@1.0.9?classifier=sources
 - pkg:maven/com.factset.sdk/factsetownershipreportbuilder@2.0.0?classifier=sources
 - pkg:maven/com.factset.sdk/factsetownershipreportbuilder@3.0.0?classifier=sources
+- pkg:maven/com.factset.sdk/factsetownershipreportbuilder@3.0.1?classifier=sources

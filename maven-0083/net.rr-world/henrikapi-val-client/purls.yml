@@ -1,0 +1,2 @@
+- pkg:maven/net.rr-world/henrikapi-val-client@1.0.0
+- pkg:maven/net.rr-world/henrikapi-val-client@1.0.0?classifier=sources

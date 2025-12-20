@@ -206,6 +206,8 @@
 - pkg:maven/org.eclipse.xtext/org.eclipse.xtext.web@2.36.0.M3
 - pkg:maven/org.eclipse.xtext/org.eclipse.xtext.web@2.36.0.M3?classifier=sources
 - pkg:maven/org.eclipse.xtext/org.eclipse.xtext.web@2.36.0?classifier=sources
+- pkg:maven/org.eclipse.xtext/org.eclipse.xtext.web@2.37.0.M0
+- pkg:maven/org.eclipse.xtext/org.eclipse.xtext.web@2.37.0.M0?classifier=sources
 - pkg:maven/org.eclipse.xtext/org.eclipse.xtext.web@2.9.0
 - pkg:maven/org.eclipse.xtext/org.eclipse.xtext.web@2.9.0.beta1
 - pkg:maven/org.eclipse.xtext/org.eclipse.xtext.web@2.9.0.beta1?classifier=sources

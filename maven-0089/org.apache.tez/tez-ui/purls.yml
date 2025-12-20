@@ -6,6 +6,8 @@
 - pkg:maven/org.apache.tez/tez-ui@0.10.2?type=war
 - pkg:maven/org.apache.tez/tez-ui@0.10.3?classifier=sources
 - pkg:maven/org.apache.tez/tez-ui@0.10.3?type=war
+- pkg:maven/org.apache.tez/tez-ui@0.10.4?classifier=sources
+- pkg:maven/org.apache.tez/tez-ui@0.10.4?type=war
 - pkg:maven/org.apache.tez/tez-ui@0.6.0?classifier=sources
 - pkg:maven/org.apache.tez/tez-ui@0.6.0?type=war
 - pkg:maven/org.apache.tez/tez-ui@0.6.1?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/de.rub.nds/x509-attacker@2.0.0
 - pkg:maven/de.rub.nds/x509-attacker@2.0.0?classifier=sources
+- pkg:maven/de.rub.nds/x509-attacker@3.1.0
+- pkg:maven/de.rub.nds/x509-attacker@3.1.0?classifier=sources

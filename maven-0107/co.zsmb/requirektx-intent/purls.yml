@@ -3,3 +3,4 @@
 - pkg:maven/co.zsmb/requirektx-intent@1.3.0?classifier=sources
 - pkg:maven/co.zsmb/requirektx-intent@2.0.0-alpha01?classifier=sources
 - pkg:maven/co.zsmb/requirektx-intent@2.0.0-alpha02?classifier=sources
+- pkg:maven/co.zsmb/requirektx-intent@2.0.0-alpha03?classifier=sources

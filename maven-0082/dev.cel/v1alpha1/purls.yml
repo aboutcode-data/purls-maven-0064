@@ -18,3 +18,7 @@
 - pkg:maven/dev.cel/v1alpha1@0.5.2?classifier=sources
 - pkg:maven/dev.cel/v1alpha1@0.6.0
 - pkg:maven/dev.cel/v1alpha1@0.6.0?classifier=sources
+- pkg:maven/dev.cel/v1alpha1@0.7.0
+- pkg:maven/dev.cel/v1alpha1@0.7.0?classifier=sources
+- pkg:maven/dev.cel/v1alpha1@0.7.1
+- pkg:maven/dev.cel/v1alpha1@0.7.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.vanillabp.businesscockpit/openapi-generator-fixes@0.0.3
+- pkg:maven/io.vanillabp.businesscockpit/openapi-generator-fixes@0.0.3?classifier=sources

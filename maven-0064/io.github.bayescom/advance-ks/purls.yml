@@ -16,3 +16,5 @@
 - pkg:maven/io.github.bayescom/advance-ks@4.3.5_3363_core?type=aar
 - pkg:maven/io.github.bayescom/advance-ks@5.1.1_3363?type=aar
 - pkg:maven/io.github.bayescom/advance-ks@5.1.1_3363_core?type=aar
+- pkg:maven/io.github.bayescom/advance-ks@5.1.2_3363?type=aar
+- pkg:maven/io.github.bayescom/advance-ks@5.1.2_3363_core?type=aar

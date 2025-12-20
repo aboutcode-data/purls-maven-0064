@@ -1,0 +1,2 @@
+- pkg:maven/com.ibm.cloud.eventstreams/adminrest@1.3.1
+- pkg:maven/com.ibm.cloud.eventstreams/adminrest@1.3.1?classifier=sources

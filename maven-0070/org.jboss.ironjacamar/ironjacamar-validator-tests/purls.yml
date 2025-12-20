@@ -26,6 +26,7 @@
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-validator-tests@1.5.9.Final
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-validator-tests@3.0.0.Final
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-validator-tests@3.0.1.Final
+- pkg:maven/org.jboss.ironjacamar/ironjacamar-validator-tests@3.0.10.Final
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-validator-tests@3.0.2.Final
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-validator-tests@3.0.2.SP1
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-validator-tests@3.0.3.Final

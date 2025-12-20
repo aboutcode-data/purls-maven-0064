@@ -332,3 +332,7 @@
 - pkg:maven/com.gitee.l0km/sql2java-base@4.3.7?classifier=sources
 - pkg:maven/com.gitee.l0km/sql2java-base@4.3.8
 - pkg:maven/com.gitee.l0km/sql2java-base@4.3.8?classifier=sources
+- pkg:maven/com.gitee.l0km/sql2java-base@4.3.9
+- pkg:maven/com.gitee.l0km/sql2java-base@4.3.9?classifier=sources
+- pkg:maven/com.gitee.l0km/sql2java-base@4.4.0
+- pkg:maven/com.gitee.l0km/sql2java-base@4.4.0?classifier=sources

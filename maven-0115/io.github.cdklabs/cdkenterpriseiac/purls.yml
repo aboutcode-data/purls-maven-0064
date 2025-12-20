@@ -884,8 +884,16 @@
 - pkg:maven/io.github.cdklabs/cdkenterpriseiac@0.0.507?classifier=sources
 - pkg:maven/io.github.cdklabs/cdkenterpriseiac@0.0.508
 - pkg:maven/io.github.cdklabs/cdkenterpriseiac@0.0.508?classifier=sources
+- pkg:maven/io.github.cdklabs/cdkenterpriseiac@0.0.509
+- pkg:maven/io.github.cdklabs/cdkenterpriseiac@0.0.509?classifier=sources
 - pkg:maven/io.github.cdklabs/cdkenterpriseiac@0.0.50?classifier=sources
 - pkg:maven/io.github.cdklabs/cdkenterpriseiac@0.0.51
+- pkg:maven/io.github.cdklabs/cdkenterpriseiac@0.0.510
+- pkg:maven/io.github.cdklabs/cdkenterpriseiac@0.0.510?classifier=sources
+- pkg:maven/io.github.cdklabs/cdkenterpriseiac@0.0.511
+- pkg:maven/io.github.cdklabs/cdkenterpriseiac@0.0.511?classifier=sources
+- pkg:maven/io.github.cdklabs/cdkenterpriseiac@0.0.512
+- pkg:maven/io.github.cdklabs/cdkenterpriseiac@0.0.512?classifier=sources
 - pkg:maven/io.github.cdklabs/cdkenterpriseiac@0.0.51?classifier=sources
 - pkg:maven/io.github.cdklabs/cdkenterpriseiac@0.0.52
 - pkg:maven/io.github.cdklabs/cdkenterpriseiac@0.0.52?classifier=sources

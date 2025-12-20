@@ -38,3 +38,7 @@
 - pkg:maven/fi.evolver/evolver-basics-spring@5.1.1?classifier=sources
 - pkg:maven/fi.evolver/evolver-basics-spring@6.0.0
 - pkg:maven/fi.evolver/evolver-basics-spring@6.0.0?classifier=sources
+- pkg:maven/fi.evolver/evolver-basics-spring@6.0.1-debug-1
+- pkg:maven/fi.evolver/evolver-basics-spring@6.0.1-debug-1?classifier=sources
+- pkg:maven/fi.evolver/evolver-basics-spring@6.1.0
+- pkg:maven/fi.evolver/evolver-basics-spring@6.1.0?classifier=sources

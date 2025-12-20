@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.helm/quarkus-helm-spi@1.2.4
+- pkg:maven/io.quarkiverse.helm/quarkus-helm-spi@1.2.4?classifier=sources

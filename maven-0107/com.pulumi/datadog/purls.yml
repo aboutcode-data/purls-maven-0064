@@ -175,3 +175,14 @@
 - pkg:maven/com.pulumi/datadog@4.32.2?classifier=sources
 - pkg:maven/com.pulumi/datadog@4.33.0-alpha.1724661446?classifier=sources
 - pkg:maven/com.pulumi/datadog@4.33.0-alpha.1724909583?classifier=sources
+- pkg:maven/com.pulumi/datadog@4.33.0-alpha.1724995967?classifier=sources
+- pkg:maven/com.pulumi/datadog@4.33.0-alpha.1725686907?classifier=sources
+- pkg:maven/com.pulumi/datadog@4.33.0-alpha.1725946412?classifier=sources
+- pkg:maven/com.pulumi/datadog@4.33.0-alpha.1725976847?classifier=sources
+- pkg:maven/com.pulumi/datadog@4.33.0?classifier=sources
+- pkg:maven/com.pulumi/datadog@4.33.1-alpha.1726164893?classifier=sources
+- pkg:maven/com.pulumi/datadog@4.33.1?classifier=sources
+- pkg:maven/com.pulumi/datadog@4.34.0-alpha.1726032738?classifier=sources
+- pkg:maven/com.pulumi/datadog@4.34.0-alpha.1726205558?classifier=sources
+- pkg:maven/com.pulumi/datadog@4.34.0-alpha.1726291918?classifier=sources
+- pkg:maven/com.pulumi/datadog@4.34.0-alpha.1726724041?classifier=sources

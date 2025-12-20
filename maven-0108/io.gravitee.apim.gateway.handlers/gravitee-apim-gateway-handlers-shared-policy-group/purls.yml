@@ -1,0 +1,2 @@
+- pkg:maven/io.gravitee.apim.gateway.handlers/gravitee-apim-gateway-handlers-shared-policy-group@4.5.0-alpha.1
+- pkg:maven/io.gravitee.apim.gateway.handlers/gravitee-apim-gateway-handlers-shared-policy-group@4.5.0-alpha.1?classifier=sources

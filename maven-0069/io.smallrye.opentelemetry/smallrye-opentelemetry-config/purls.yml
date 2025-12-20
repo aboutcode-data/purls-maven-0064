@@ -22,3 +22,4 @@
 - pkg:maven/io.smallrye.opentelemetry/smallrye-opentelemetry-config@2.6.0?classifier=sources
 - pkg:maven/io.smallrye.opentelemetry/smallrye-opentelemetry-config@2.7.0
 - pkg:maven/io.smallrye.opentelemetry/smallrye-opentelemetry-config@2.7.0?classifier=sources
+- pkg:maven/io.smallrye.opentelemetry/smallrye-opentelemetry-config@2.8.0?classifier=sources

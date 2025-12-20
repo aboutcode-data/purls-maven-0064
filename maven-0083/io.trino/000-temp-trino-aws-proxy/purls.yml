@@ -1,2 +1,6 @@
 - pkg:maven/io.trino/000-temp-trino-aws-proxy@1
 - pkg:maven/io.trino/000-temp-trino-aws-proxy@1?classifier=sources
+- pkg:maven/io.trino/000-temp-trino-aws-proxy@2
+- pkg:maven/io.trino/000-temp-trino-aws-proxy@2?classifier=sources
+- pkg:maven/io.trino/000-temp-trino-aws-proxy@3
+- pkg:maven/io.trino/000-temp-trino-aws-proxy@3?classifier=sources

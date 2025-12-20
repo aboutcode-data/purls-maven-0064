@@ -1,2 +1,4 @@
 - pkg:maven/io.github.priyagupta108/setup-test-java@1.0.0?classifier=sources
 - pkg:maven/io.github.priyagupta108/setup-test-java@1.0.1?classifier=sources
+- pkg:maven/io.github.priyagupta108/setup-test-java@1.0.4?classifier=sources
+- pkg:maven/io.github.priyagupta108/setup-test-java@1.0.5?classifier=sources

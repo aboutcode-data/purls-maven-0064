@@ -20,3 +20,5 @@
 - pkg:maven/com.cognitect.aws/route53domains@848.2.1400.0?classifier=sources
 - pkg:maven/com.cognitect.aws/route53domains@857.2.1574.0
 - pkg:maven/com.cognitect.aws/route53domains@857.2.1574.0?classifier=sources
+- pkg:maven/com.cognitect.aws/route53domains@869.2.1687.0
+- pkg:maven/com.cognitect.aws/route53domains@869.2.1687.0?classifier=sources

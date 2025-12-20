@@ -59,4 +59,5 @@
 - pkg:maven/eu.mihosoft.vmf/vmf-gradle-plugin@0.2.9.1?classifier=sources
 - pkg:maven/eu.mihosoft.vmf/vmf-gradle-plugin@0.2.9.2?classifier=sources
 - pkg:maven/eu.mihosoft.vmf/vmf-gradle-plugin@0.2.9.3?classifier=sources
+- pkg:maven/eu.mihosoft.vmf/vmf-gradle-plugin@0.2.9.4?classifier=sources
 - pkg:maven/eu.mihosoft.vmf/vmf-gradle-plugin@0.2?classifier=sources

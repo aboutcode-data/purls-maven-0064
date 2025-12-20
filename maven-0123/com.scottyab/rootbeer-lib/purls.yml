@@ -16,3 +16,4 @@
 - pkg:maven/com.scottyab/rootbeer-lib@0.0.9?type=aar
 - pkg:maven/com.scottyab/rootbeer-lib@0.1.0?classifier=sources
 - pkg:maven/com.scottyab/rootbeer-lib@0.1.0?type=aar
+- pkg:maven/com.scottyab/rootbeer-lib@0.1.1?classifier=sources

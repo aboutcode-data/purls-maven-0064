@@ -1,3 +1,5 @@
+- pkg:maven/fr.ird.observe/toolkit-server@10.0.0
+- pkg:maven/fr.ird.observe/toolkit-server@10.0.0?classifier=sources
 - pkg:maven/fr.ird.observe/toolkit-server@6.1.0
 - pkg:maven/fr.ird.observe/toolkit-server@6.1.0?classifier=sources
 - pkg:maven/fr.ird.observe/toolkit-server@6.1.1

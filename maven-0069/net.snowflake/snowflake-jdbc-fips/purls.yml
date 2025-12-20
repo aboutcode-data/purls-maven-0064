@@ -122,3 +122,5 @@
 - pkg:maven/net.snowflake/snowflake-jdbc-fips@3.17.0?classifier=sources
 - pkg:maven/net.snowflake/snowflake-jdbc-fips@3.18.0
 - pkg:maven/net.snowflake/snowflake-jdbc-fips@3.18.0?classifier=sources
+- pkg:maven/net.snowflake/snowflake-jdbc-fips@3.19.0
+- pkg:maven/net.snowflake/snowflake-jdbc-fips@3.19.0?classifier=sources

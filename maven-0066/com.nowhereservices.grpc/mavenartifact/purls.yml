@@ -1,0 +1,2 @@
+- pkg:maven/com.nowhereservices.grpc/mavenartifact@0.0.7-RELEASE?classifier=sources
+- pkg:maven/com.nowhereservices.grpc/mavenartifact@0.1.0-dev.0%2B5e77cc6?classifier=sources

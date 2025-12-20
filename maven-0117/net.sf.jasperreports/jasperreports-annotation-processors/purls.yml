@@ -54,3 +54,5 @@
 - pkg:maven/net.sf.jasperreports/jasperreports-annotation-processors@6.9.0?classifier=sources
 - pkg:maven/net.sf.jasperreports/jasperreports-annotation-processors@7.0.0
 - pkg:maven/net.sf.jasperreports/jasperreports-annotation-processors@7.0.0?classifier=sources
+- pkg:maven/net.sf.jasperreports/jasperreports-annotation-processors@7.0.1
+- pkg:maven/net.sf.jasperreports/jasperreports-annotation-processors@7.0.1?classifier=sources

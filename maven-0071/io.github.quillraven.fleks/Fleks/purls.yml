@@ -22,4 +22,5 @@
 - pkg:maven/io.github.quillraven.fleks/Fleks@2.6?classifier=sources
 - pkg:maven/io.github.quillraven.fleks/Fleks@2.7?classifier=sources
 - pkg:maven/io.github.quillraven.fleks/Fleks@2.8?classifier=sources
+- pkg:maven/io.github.quillraven.fleks/Fleks@2.9?classifier=sources
 - pkg:maven/io.github.quillraven.fleks/Fleks@preRelease-20211120?classifier=sources

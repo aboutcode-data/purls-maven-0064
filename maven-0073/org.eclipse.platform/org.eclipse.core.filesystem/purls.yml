@@ -8,6 +8,8 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.core.filesystem@1.10.300?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.core.filesystem@1.10.400
 - pkg:maven/org.eclipse.platform/org.eclipse.core.filesystem@1.10.400?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.core.filesystem@1.11.0
+- pkg:maven/org.eclipse.platform/org.eclipse.core.filesystem@1.11.0?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.core.filesystem@1.6.1
 - pkg:maven/org.eclipse.platform/org.eclipse.core.filesystem@1.6.1?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.core.filesystem@1.7.0
