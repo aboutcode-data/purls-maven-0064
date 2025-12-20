@@ -36,3 +36,5 @@
 - pkg:maven/org.opencrx/opencrx-core@5.2.2?classifier=sources
 - pkg:maven/org.opencrx/opencrx-core@5.3.0
 - pkg:maven/org.opencrx/opencrx-core@5.3.0?classifier=sources
+- pkg:maven/org.opencrx/opencrx-core@5.3.2
+- pkg:maven/org.opencrx/opencrx-core@5.3.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.rlemaitre/pillars-rabbitmq-fs2-tests_3@0.4.4
+- pkg:maven/com.rlemaitre/pillars-rabbitmq-fs2-tests_3@0.4.4?classifier=sources

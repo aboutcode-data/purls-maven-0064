@@ -1,0 +1,3 @@
+- pkg:maven/dev.sitar/dnskotlin-mingwx64@0.5.1?classifier=sources
+- pkg:maven/dev.sitar/dnskotlin-mingwx64@0.6.0?classifier=sources
+- pkg:maven/dev.sitar/dnskotlin-mingwx64@0.7.0?classifier=sources

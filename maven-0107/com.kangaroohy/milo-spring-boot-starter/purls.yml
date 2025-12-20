@@ -16,3 +16,9 @@
 - pkg:maven/com.kangaroohy/milo-spring-boot-starter@3.1.0.6.13?classifier=sources
 - pkg:maven/com.kangaroohy/milo-spring-boot-starter@3.1.1.0.6.13
 - pkg:maven/com.kangaroohy/milo-spring-boot-starter@3.1.1.0.6.13?classifier=sources
+- pkg:maven/com.kangaroohy/milo-spring-boot-starter@3.1.2.0.6.15
+- pkg:maven/com.kangaroohy/milo-spring-boot-starter@3.1.2.0.6.15?classifier=sources
+- pkg:maven/com.kangaroohy/milo-spring-boot-starter@3.1.3.0.6.15
+- pkg:maven/com.kangaroohy/milo-spring-boot-starter@3.1.3.0.6.15?classifier=sources
+- pkg:maven/com.kangaroohy/milo-spring-boot-starter@3.1.4.0.6.15
+- pkg:maven/com.kangaroohy/milo-spring-boot-starter@3.1.4.0.6.15?classifier=sources

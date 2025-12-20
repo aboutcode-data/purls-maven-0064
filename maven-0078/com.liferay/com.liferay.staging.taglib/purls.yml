@@ -701,6 +701,7 @@
 - pkg:maven/com.liferay/com.liferay.staging.taglib@8.0.22?classifier=sources
 - pkg:maven/com.liferay/com.liferay.staging.taglib@8.0.23?classifier=sources
 - pkg:maven/com.liferay/com.liferay.staging.taglib@8.0.24?classifier=sources
+- pkg:maven/com.liferay/com.liferay.staging.taglib@8.0.25?classifier=sources
 - pkg:maven/com.liferay/com.liferay.staging.taglib@8.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.staging.taglib@8.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.staging.taglib@8.0.4?classifier=sources

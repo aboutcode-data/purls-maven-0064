@@ -34,3 +34,4 @@
 - pkg:maven/com.moderntreasury/modern-treasury-java-core@2.9.0?classifier=sources
 - pkg:maven/com.moderntreasury/modern-treasury-java-core@3.0.0?classifier=sources
 - pkg:maven/com.moderntreasury/modern-treasury-java-core@3.1.0?classifier=sources
+- pkg:maven/com.moderntreasury/modern-treasury-java-core@4.0.0?classifier=sources

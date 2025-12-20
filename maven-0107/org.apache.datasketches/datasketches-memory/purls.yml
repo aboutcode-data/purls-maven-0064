@@ -19,3 +19,5 @@
 - pkg:maven/org.apache.datasketches/datasketches-memory@4.0.0?classifier=sources
 - pkg:maven/org.apache.datasketches/datasketches-memory@4.1.0
 - pkg:maven/org.apache.datasketches/datasketches-memory@4.1.0?classifier=sources
+- pkg:maven/org.apache.datasketches/datasketches-memory@5.0.0
+- pkg:maven/org.apache.datasketches/datasketches-memory@5.0.0?classifier=sources

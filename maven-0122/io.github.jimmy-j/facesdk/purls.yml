@@ -31,3 +31,4 @@
 - pkg:maven/io.github.jimmy-j/facesdk@2.5.7?classifier=sources
 - pkg:maven/io.github.jimmy-j/facesdk@2.5.8?classifier=sources
 - pkg:maven/io.github.jimmy-j/facesdk@2.5.9?classifier=sources
+- pkg:maven/io.github.jimmy-j/facesdk@2.6.0?classifier=sources

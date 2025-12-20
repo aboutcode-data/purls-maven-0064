@@ -33,6 +33,7 @@
 - pkg:maven/com.pulumi/sdwan@0.2.1?classifier=sources
 - pkg:maven/com.pulumi/sdwan@0.2.2?classifier=sources
 - pkg:maven/com.pulumi/sdwan@0.2.3?classifier=sources
+- pkg:maven/com.pulumi/sdwan@0.2.4?classifier=sources
 - pkg:maven/com.pulumi/sdwan@0.3.0-alpha.1730527138?classifier=sources
 - pkg:maven/com.pulumi/sdwan@0.3.0-alpha.1730872946?classifier=sources
 - pkg:maven/com.pulumi/sdwan@0.3.0-alpha.1731032487?classifier=sources

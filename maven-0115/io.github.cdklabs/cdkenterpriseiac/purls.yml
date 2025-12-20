@@ -920,6 +920,10 @@
 - pkg:maven/io.github.cdklabs/cdkenterpriseiac@0.0.523?classifier=sources
 - pkg:maven/io.github.cdklabs/cdkenterpriseiac@0.0.524
 - pkg:maven/io.github.cdklabs/cdkenterpriseiac@0.0.524?classifier=sources
+- pkg:maven/io.github.cdklabs/cdkenterpriseiac@0.0.525
+- pkg:maven/io.github.cdklabs/cdkenterpriseiac@0.0.525?classifier=sources
+- pkg:maven/io.github.cdklabs/cdkenterpriseiac@0.0.526
+- pkg:maven/io.github.cdklabs/cdkenterpriseiac@0.0.526?classifier=sources
 - pkg:maven/io.github.cdklabs/cdkenterpriseiac@0.0.52?classifier=sources
 - pkg:maven/io.github.cdklabs/cdkenterpriseiac@0.0.53
 - pkg:maven/io.github.cdklabs/cdkenterpriseiac@0.0.53?classifier=sources

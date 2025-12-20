@@ -3,3 +3,5 @@
 - pkg:maven/com.linecorp.centraldogma/centraldogma-client-java-armeria-xds@0.70.0?classifier=sources
 - pkg:maven/com.linecorp.centraldogma/centraldogma-client-java-armeria-xds@0.71.0?classifier=sources
 - pkg:maven/com.linecorp.centraldogma/centraldogma-client-java-armeria-xds@0.72.0?classifier=sources
+- pkg:maven/com.linecorp.centraldogma/centraldogma-client-java-armeria-xds@0.73.0?classifier=sources
+- pkg:maven/com.linecorp.centraldogma/centraldogma-client-java-armeria-xds@0.73.1?classifier=sources

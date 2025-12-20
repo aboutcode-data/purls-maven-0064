@@ -39,3 +39,4 @@
 - pkg:maven/io.envoyproxy.controlplane/test@1.0.44
 - pkg:maven/io.envoyproxy.controlplane/test@1.0.45
 - pkg:maven/io.envoyproxy.controlplane/test@1.0.46
+- pkg:maven/io.envoyproxy.controlplane/test@1.0.47

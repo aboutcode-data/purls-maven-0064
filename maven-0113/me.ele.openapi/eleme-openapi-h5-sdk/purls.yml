@@ -6,6 +6,8 @@
 - pkg:maven/me.ele.openapi/eleme-openapi-h5-sdk@1.0.10-RELEASE?classifier=sources
 - pkg:maven/me.ele.openapi/eleme-openapi-h5-sdk@1.0.11-RELEASE
 - pkg:maven/me.ele.openapi/eleme-openapi-h5-sdk@1.0.11-RELEASE?classifier=sources
+- pkg:maven/me.ele.openapi/eleme-openapi-h5-sdk@1.0.12-RELEASE
+- pkg:maven/me.ele.openapi/eleme-openapi-h5-sdk@1.0.12-RELEASE?classifier=sources
 - pkg:maven/me.ele.openapi/eleme-openapi-h5-sdk@1.0.2-RELEASE
 - pkg:maven/me.ele.openapi/eleme-openapi-h5-sdk@1.0.2-RELEASE?classifier=sources
 - pkg:maven/me.ele.openapi/eleme-openapi-h5-sdk@1.0.3-RELEASE

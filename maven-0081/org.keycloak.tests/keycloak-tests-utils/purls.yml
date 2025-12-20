@@ -1,0 +1,2 @@
+- pkg:maven/org.keycloak.tests/keycloak-tests-utils@26.1.0
+- pkg:maven/org.keycloak.tests/keycloak-tests-utils@26.1.0?classifier=sources

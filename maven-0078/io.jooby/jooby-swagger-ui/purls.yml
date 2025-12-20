@@ -81,3 +81,4 @@
 - pkg:maven/io.jooby/jooby-swagger-ui@3.5.3
 - pkg:maven/io.jooby/jooby-swagger-ui@3.5.4
 - pkg:maven/io.jooby/jooby-swagger-ui@3.5.5
+- pkg:maven/io.jooby/jooby-swagger-ui@3.6.0

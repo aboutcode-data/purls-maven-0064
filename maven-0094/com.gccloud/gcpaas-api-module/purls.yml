@@ -1,0 +1,2 @@
+- pkg:maven/com.gccloud/gcpaas-api-module@2.3.5.RELEASE
+- pkg:maven/com.gccloud/gcpaas-api-module@2.3.5.RELEASE?classifier=sources

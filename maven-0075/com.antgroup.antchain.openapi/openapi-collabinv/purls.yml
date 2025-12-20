@@ -1,2 +1,4 @@
+- pkg:maven/com.antgroup.antchain.openapi/openapi-collabinv@1.0.12
+- pkg:maven/com.antgroup.antchain.openapi/openapi-collabinv@1.0.12?classifier=sources
 - pkg:maven/com.antgroup.antchain.openapi/openapi-collabinv@1.0.9
 - pkg:maven/com.antgroup.antchain.openapi/openapi-collabinv@1.0.9?classifier=sources

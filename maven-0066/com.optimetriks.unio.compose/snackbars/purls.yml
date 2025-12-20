@@ -3,6 +3,12 @@
 - pkg:maven/com.optimetriks.unio.compose/snackbars@12?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/snackbars@17?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/snackbars@18?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/snackbars@22?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/snackbars@24?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/snackbars@34?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/snackbars@36?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/snackbars@40?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/snackbars@46?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/snackbars@4?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/snackbars@6?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/snackbars@7?classifier=sources

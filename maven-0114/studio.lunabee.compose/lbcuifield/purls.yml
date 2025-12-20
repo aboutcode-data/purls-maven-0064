@@ -1,2 +1,5 @@
 - pkg:maven/studio.lunabee.compose/lbcuifield@1.0.0?classifier=sources
 - pkg:maven/studio.lunabee.compose/lbcuifield@1.1.0?classifier=sources
+- pkg:maven/studio.lunabee.compose/lbcuifield@1.2.0-dev-329?classifier=sources
+- pkg:maven/studio.lunabee.compose/lbcuifield@1.2.0-dev-332?classifier=sources
+- pkg:maven/studio.lunabee.compose/lbcuifield@1.2.0-rc-335?classifier=sources

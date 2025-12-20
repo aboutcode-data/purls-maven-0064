@@ -34,3 +34,5 @@
 - pkg:maven/cn.jiguang.sdk.ad.adapter/baidu-enhanced@9.371.09061?type=aar
 - pkg:maven/cn.jiguang.sdk.ad.adapter/baidu-enhanced@9.371.11111?classifier=sources
 - pkg:maven/cn.jiguang.sdk.ad.adapter/baidu-enhanced@9.371.11111?type=aar
+- pkg:maven/cn.jiguang.sdk.ad.adapter/baidu-enhanced@9.371.11112?classifier=sources
+- pkg:maven/cn.jiguang.sdk.ad.adapter/baidu-enhanced@9.371.11112?type=aar

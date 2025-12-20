@@ -11,3 +11,4 @@
 - pkg:maven/com.github.winter-cardinal/winter-cardinal@1.1.0?classifier=sources
 - pkg:maven/com.github.winter-cardinal/winter-cardinal@2.0.0?classifier=sources
 - pkg:maven/com.github.winter-cardinal/winter-cardinal@2.1.0?classifier=sources
+- pkg:maven/com.github.winter-cardinal/winter-cardinal@2.4.0?classifier=sources

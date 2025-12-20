@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.apoapsis.ortserver.tasks/tasks@0.1.0-RC10?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.tasks/tasks@0.1.0-RC9?classifier=sources

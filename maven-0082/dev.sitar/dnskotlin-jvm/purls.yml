@@ -1,2 +1,7 @@
 - pkg:maven/dev.sitar/dnskotlin-jvm@0.2.0?classifier=sources
 - pkg:maven/dev.sitar/dnskotlin-jvm@0.2.1?classifier=sources
+- pkg:maven/dev.sitar/dnskotlin-jvm@0.3.0?classifier=sources
+- pkg:maven/dev.sitar/dnskotlin-jvm@0.5.0?classifier=sources
+- pkg:maven/dev.sitar/dnskotlin-jvm@0.5.1?classifier=sources
+- pkg:maven/dev.sitar/dnskotlin-jvm@0.6.0?classifier=sources
+- pkg:maven/dev.sitar/dnskotlin-jvm@0.7.0?classifier=sources

@@ -2,3 +2,6 @@
 - pkg:maven/studio.lunabee.compose/lbctheme@1.1.0?classifier=sources
 - pkg:maven/studio.lunabee.compose/lbctheme@1.2.0?classifier=sources
 - pkg:maven/studio.lunabee.compose/lbctheme@1.4.0?classifier=sources
+- pkg:maven/studio.lunabee.compose/lbctheme@1.5.0-dev-329?classifier=sources
+- pkg:maven/studio.lunabee.compose/lbctheme@1.5.0-dev-332?classifier=sources
+- pkg:maven/studio.lunabee.compose/lbctheme@1.5.0-rc-335?classifier=sources

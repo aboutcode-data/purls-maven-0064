@@ -7,3 +7,4 @@
 - pkg:maven/org.webjars.npm/vue-multiselect@2.1.7
 - pkg:maven/org.webjars.npm/vue-multiselect@2.1.7?classifier=sources
 - pkg:maven/org.webjars.npm/vue-multiselect@3.0.0
+- pkg:maven/org.webjars.npm/vue-multiselect@3.1.0

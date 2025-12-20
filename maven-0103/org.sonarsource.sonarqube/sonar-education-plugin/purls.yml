@@ -12,6 +12,7 @@
 - pkg:maven/org.sonarsource.sonarqube/sonar-education-plugin@10.6.0.92116?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-education-plugin@10.7.0.96327?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-education-plugin@24.12.0.100206?classifier=sources
+- pkg:maven/org.sonarsource.sonarqube/sonar-education-plugin@25.1.0.102122?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-education-plugin@9.6.0.59041?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-education-plugin@9.6.1.59531?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-education-plugin@9.7.0.61563?classifier=sources

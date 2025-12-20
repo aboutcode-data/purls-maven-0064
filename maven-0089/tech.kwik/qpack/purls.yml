@@ -1,1 +1,2 @@
 - pkg:maven/tech.kwik/qpack@1.0.2?classifier=sources
+- pkg:maven/tech.kwik/qpack@2.0?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/org.mvnpm/htmx-ext-response-targets@2.0.0?classifier=sources
+- pkg:maven/org.mvnpm/htmx-ext-response-targets@2.0.2?classifier=sources

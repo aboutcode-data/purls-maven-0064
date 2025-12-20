@@ -90,3 +90,5 @@
 - pkg:maven/org.wso2.is/api-resources-full@7.0.0-beta6?type=war
 - pkg:maven/org.wso2.is/api-resources-full@7.1.0-m1?classifier=sources
 - pkg:maven/org.wso2.is/api-resources-full@7.1.0-m1?type=war
+- pkg:maven/org.wso2.is/api-resources-full@7.1.0-m7?classifier=sources
+- pkg:maven/org.wso2.is/api-resources-full@7.1.0-m7?type=war

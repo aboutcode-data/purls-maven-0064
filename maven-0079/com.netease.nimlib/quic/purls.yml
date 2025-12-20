@@ -2,8 +2,12 @@
 - pkg:maven/com.netease.nimlib/quic@9.16.600?type=aar
 - pkg:maven/com.netease.nimlib/quic@9.16.700?classifier=sources
 - pkg:maven/com.netease.nimlib/quic@9.16.700?type=aar
+- pkg:maven/com.netease.nimlib/quic@9.16.800?classifier=sources
+- pkg:maven/com.netease.nimlib/quic@9.16.800?type=aar
 - pkg:maven/com.netease.nimlib/quic@9.18.500?classifier=sources
 - pkg:maven/com.netease.nimlib/quic@9.18.500?type=aar
+- pkg:maven/com.netease.nimlib/quic@9.18.501?classifier=sources
+- pkg:maven/com.netease.nimlib/quic@9.18.501?type=aar
 - pkg:maven/com.netease.nimlib/quic@9.19.3?classifier=sources
 - pkg:maven/com.netease.nimlib/quic@9.19.3?type=aar
 - pkg:maven/com.netease.nimlib/quic@9.19.4?classifier=sources
