@@ -1,2 +1,4 @@
 - pkg:maven/dev.bluepitaya/laminar-dragging_sjs1_2.13@1.0
 - pkg:maven/dev.bluepitaya/laminar-dragging_sjs1_2.13@1.0?classifier=sources
+- pkg:maven/dev.bluepitaya/laminar-dragging_sjs1_2.13@1.1
+- pkg:maven/dev.bluepitaya/laminar-dragging_sjs1_2.13@1.1?classifier=sources

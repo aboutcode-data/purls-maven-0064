@@ -1,0 +1,2 @@
+- pkg:maven/io.github.dudiao/powerjob-remote-smart-http@0.0.3
+- pkg:maven/io.github.dudiao/powerjob-remote-smart-http@0.0.3?classifier=sources

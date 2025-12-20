@@ -70,3 +70,7 @@
 - pkg:maven/net.e6tech/elements-web-tomcat@2.6.45?classifier=sources
 - pkg:maven/net.e6tech/elements-web-tomcat@2.6.46
 - pkg:maven/net.e6tech/elements-web-tomcat@2.6.46?classifier=sources
+- pkg:maven/net.e6tech/elements-web-tomcat@2.6.47
+- pkg:maven/net.e6tech/elements-web-tomcat@2.6.47?classifier=sources
+- pkg:maven/net.e6tech/elements-web-tomcat@2.7.0
+- pkg:maven/net.e6tech/elements-web-tomcat@2.7.0?classifier=sources

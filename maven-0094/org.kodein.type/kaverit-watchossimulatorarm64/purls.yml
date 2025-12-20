@@ -8,3 +8,4 @@
 - pkg:maven/org.kodein.type/kaverit-watchossimulatorarm64@2.4.0?classifier=sources
 - pkg:maven/org.kodein.type/kaverit-watchossimulatorarm64@2.5.0?classifier=sources
 - pkg:maven/org.kodein.type/kaverit-watchossimulatorarm64@2.6.0?classifier=sources
+- pkg:maven/org.kodein.type/kaverit-watchossimulatorarm64@2.7.0?classifier=sources

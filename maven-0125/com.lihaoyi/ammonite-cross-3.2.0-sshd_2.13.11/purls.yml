@@ -3,4 +3,8 @@
 - pkg:maven/com.lihaoyi/ammonite-cross-3.2.0-sshd_2.13.11@2.5.8-2-159ff8f6
 - pkg:maven/com.lihaoyi/ammonite-cross-3.2.0-sshd_2.13.11@2.5.8-2-159ff8f6?classifier=sources
 - pkg:maven/com.lihaoyi/ammonite-cross-3.2.0-sshd_2.13.11@2.5.9
+- pkg:maven/com.lihaoyi/ammonite-cross-3.2.0-sshd_2.13.11@2.5.9-1-6321610a
+- pkg:maven/com.lihaoyi/ammonite-cross-3.2.0-sshd_2.13.11@2.5.9-1-6321610a?classifier=sources
+- pkg:maven/com.lihaoyi/ammonite-cross-3.2.0-sshd_2.13.11@2.5.9-2-7633e640
+- pkg:maven/com.lihaoyi/ammonite-cross-3.2.0-sshd_2.13.11@2.5.9-2-7633e640?classifier=sources
 - pkg:maven/com.lihaoyi/ammonite-cross-3.2.0-sshd_2.13.11@2.5.9?classifier=sources

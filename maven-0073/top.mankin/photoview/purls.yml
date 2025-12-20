@@ -1,0 +1,2 @@
+- pkg:maven/top.mankin/photoview@2.3.1?classifier=sources
+- pkg:maven/top.mankin/photoview@2.3.2?classifier=sources

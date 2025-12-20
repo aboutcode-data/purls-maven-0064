@@ -1,0 +1,2 @@
+- pkg:maven/com.tambapps.marcel/marcl@0.0.1
+- pkg:maven/com.tambapps.marcel/marcl@0.0.1?classifier=sources

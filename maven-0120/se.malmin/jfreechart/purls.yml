@@ -1,0 +1,2 @@
+- pkg:maven/se.malmin/jfreechart@1.5.3
+- pkg:maven/se.malmin/jfreechart@1.5.3?classifier=sources

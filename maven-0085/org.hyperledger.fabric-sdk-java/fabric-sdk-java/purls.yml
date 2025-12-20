@@ -101,6 +101,8 @@
 - pkg:maven/org.hyperledger.fabric-sdk-java/fabric-sdk-java@2.2.22?classifier=sources
 - pkg:maven/org.hyperledger.fabric-sdk-java/fabric-sdk-java@2.2.23
 - pkg:maven/org.hyperledger.fabric-sdk-java/fabric-sdk-java@2.2.23?classifier=sources
+- pkg:maven/org.hyperledger.fabric-sdk-java/fabric-sdk-java@2.2.24
+- pkg:maven/org.hyperledger.fabric-sdk-java/fabric-sdk-java@2.2.24?classifier=sources
 - pkg:maven/org.hyperledger.fabric-sdk-java/fabric-sdk-java@2.2.2?classifier=sources
 - pkg:maven/org.hyperledger.fabric-sdk-java/fabric-sdk-java@2.2.3
 - pkg:maven/org.hyperledger.fabric-sdk-java/fabric-sdk-java@2.2.3?classifier=sources

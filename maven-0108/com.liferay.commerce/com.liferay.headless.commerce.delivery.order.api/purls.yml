@@ -35,3 +35,4 @@
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.delivery.order.api@2.5.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.delivery.order.api@2.6.0
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.delivery.order.api@2.6.0?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.delivery.order.api@3.0.0?classifier=sources

@@ -36,3 +36,4 @@
 - pkg:maven/io.netty/netty-testsuite-native@4.1.94.Final
 - pkg:maven/io.netty/netty-testsuite-native@4.1.95.Final
 - pkg:maven/io.netty/netty-testsuite-native@4.1.96.Final
+- pkg:maven/io.netty/netty-testsuite-native@4.1.97.Final

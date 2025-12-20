@@ -50,6 +50,8 @@
 - pkg:maven/io.sentry/sentry-spring-boot-starter-jakarta@6.27.0?classifier=sources
 - pkg:maven/io.sentry/sentry-spring-boot-starter-jakarta@6.28.0
 - pkg:maven/io.sentry/sentry-spring-boot-starter-jakarta@6.28.0?classifier=sources
+- pkg:maven/io.sentry/sentry-spring-boot-starter-jakarta@6.29.0
+- pkg:maven/io.sentry/sentry-spring-boot-starter-jakarta@6.29.0?classifier=sources
 - pkg:maven/io.sentry/sentry-spring-boot-starter-jakarta@6.7.0
 - pkg:maven/io.sentry/sentry-spring-boot-starter-jakarta@6.7.0-alpha.1
 - pkg:maven/io.sentry/sentry-spring-boot-starter-jakarta@6.7.0-alpha.1?classifier=sources

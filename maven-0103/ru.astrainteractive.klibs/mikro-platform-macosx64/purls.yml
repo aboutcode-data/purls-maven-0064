@@ -1,1 +1,2 @@
 - pkg:maven/ru.astrainteractive.klibs/mikro-platform-macosx64@1.0.0?classifier=sources
+- pkg:maven/ru.astrainteractive.klibs/mikro-platform-macosx64@1.0.1?classifier=sources

@@ -57,3 +57,5 @@
 - pkg:maven/com.launchdarkly/launchdarkly-android-client-sdk@4.2.3?classifier=sources
 - pkg:maven/com.launchdarkly/launchdarkly-android-client-sdk@4.3.0?classifier=sources
 - pkg:maven/com.launchdarkly/launchdarkly-android-client-sdk@5.0.0?classifier=sources
+- pkg:maven/com.launchdarkly/launchdarkly-android-client-sdk@5.0.1?classifier=sources
+- pkg:maven/com.launchdarkly/launchdarkly-android-client-sdk@5.0.2?classifier=sources

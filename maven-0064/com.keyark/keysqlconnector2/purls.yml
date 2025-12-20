@@ -1,1 +1,2 @@
 - pkg:maven/com.keyark/keysqlconnector2@3.2.2?classifier=sources
+- pkg:maven/com.keyark/keysqlconnector2@3.2.3?classifier=sources

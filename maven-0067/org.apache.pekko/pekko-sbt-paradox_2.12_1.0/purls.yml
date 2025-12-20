@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.pekko/pekko-sbt-paradox_2.12_1.0@1.0.0
+- pkg:maven/org.apache.pekko/pekko-sbt-paradox_2.12_1.0@1.0.0?classifier=sources

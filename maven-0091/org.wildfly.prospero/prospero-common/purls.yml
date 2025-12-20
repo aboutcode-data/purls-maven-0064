@@ -16,3 +16,5 @@
 - pkg:maven/org.wildfly.prospero/prospero-common@1.0.2.Final?classifier=sources
 - pkg:maven/org.wildfly.prospero/prospero-common@1.0.3.Final
 - pkg:maven/org.wildfly.prospero/prospero-common@1.0.3.Final?classifier=sources
+- pkg:maven/org.wildfly.prospero/prospero-common@1.1.0.Final
+- pkg:maven/org.wildfly.prospero/prospero-common@1.1.0.Final?classifier=sources

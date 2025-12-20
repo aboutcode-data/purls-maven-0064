@@ -24,3 +24,5 @@
 - pkg:maven/com.dukescript.nbjavac/nb-javac@jdk-20%2B34?classifier=sources
 - pkg:maven/com.dukescript.nbjavac/nb-javac@jdk-21%2B26
 - pkg:maven/com.dukescript.nbjavac/nb-javac@jdk-21%2B26?classifier=sources
+- pkg:maven/com.dukescript.nbjavac/nb-javac@jdk-21u
+- pkg:maven/com.dukescript.nbjavac/nb-javac@jdk-21u?classifier=sources

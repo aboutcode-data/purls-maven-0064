@@ -42,3 +42,5 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-alinlp@1.8.15?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-alinlp@1.8.16
 - pkg:maven/com.aliyun/aliyun-java-sdk-alinlp@1.8.16?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-alinlp@1.8.17
+- pkg:maven/com.aliyun/aliyun-java-sdk-alinlp@1.8.17?classifier=sources

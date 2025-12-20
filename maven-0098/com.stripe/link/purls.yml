@@ -51,7 +51,15 @@
 - pkg:maven/com.stripe/link@20.28.0?classifier=sources
 - pkg:maven/com.stripe/link@20.28.1?classifier=sources
 - pkg:maven/com.stripe/link@20.28.2?classifier=sources
+- pkg:maven/com.stripe/link@20.28.3?classifier=sources
+- pkg:maven/com.stripe/link@20.29.0?classifier=sources
+- pkg:maven/com.stripe/link@20.29.1?classifier=sources
+- pkg:maven/com.stripe/link@20.29.2?classifier=sources
 - pkg:maven/com.stripe/link@20.3.0?classifier=sources
+- pkg:maven/com.stripe/link@20.30.0?classifier=sources
+- pkg:maven/com.stripe/link@20.30.1?classifier=sources
+- pkg:maven/com.stripe/link@20.30.2?classifier=sources
+- pkg:maven/com.stripe/link@20.31.0?classifier=sources
 - pkg:maven/com.stripe/link@20.4.0?classifier=sources
 - pkg:maven/com.stripe/link@20.5.0?classifier=sources
 - pkg:maven/com.stripe/link@20.6.1?classifier=sources

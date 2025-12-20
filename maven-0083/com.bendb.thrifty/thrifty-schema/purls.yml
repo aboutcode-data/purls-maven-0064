@@ -6,3 +6,4 @@
 - pkg:maven/com.bendb.thrifty/thrifty-schema@0.1.3?classifier=sources
 - pkg:maven/com.bendb.thrifty/thrifty-schema@0.1.4
 - pkg:maven/com.bendb.thrifty/thrifty-schema@0.1.4?classifier=sources
+- pkg:maven/com.bendb.thrifty/thrifty-schema@3.1.0?classifier=sources

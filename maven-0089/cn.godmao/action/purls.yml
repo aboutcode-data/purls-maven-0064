@@ -1,0 +1,2 @@
+- pkg:maven/cn.godmao/action@1.1.5.1.Beat
+- pkg:maven/cn.godmao/action@1.1.5.1.Beat?classifier=sources

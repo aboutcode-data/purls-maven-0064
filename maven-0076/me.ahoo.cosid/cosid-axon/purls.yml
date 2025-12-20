@@ -55,3 +55,4 @@
 - pkg:maven/me.ahoo.cosid/cosid-axon@2.3.3?classifier=sources
 - pkg:maven/me.ahoo.cosid/cosid-axon@2.4.0?classifier=sources
 - pkg:maven/me.ahoo.cosid/cosid-axon@2.5.0?classifier=sources
+- pkg:maven/me.ahoo.cosid/cosid-axon@2.5.2?classifier=sources

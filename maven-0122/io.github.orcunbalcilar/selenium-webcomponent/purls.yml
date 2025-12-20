@@ -1,0 +1,4 @@
+- pkg:maven/io.github.orcunbalcilar/selenium-webcomponent@1.0.0
+- pkg:maven/io.github.orcunbalcilar/selenium-webcomponent@1.0.0?classifier=sources
+- pkg:maven/io.github.orcunbalcilar/selenium-webcomponent@1.1.0
+- pkg:maven/io.github.orcunbalcilar/selenium-webcomponent@1.1.0?classifier=sources

@@ -117,3 +117,4 @@
 - pkg:maven/io.dekorate/knative-spring-starter@3.6.0
 - pkg:maven/io.dekorate/knative-spring-starter@3.6.1
 - pkg:maven/io.dekorate/knative-spring-starter@3.7.0
+- pkg:maven/io.dekorate/knative-spring-starter@4.0.0

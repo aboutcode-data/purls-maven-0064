@@ -1,0 +1,2 @@
+- pkg:maven/com.minlessika.core/minlessika-core@0.2
+- pkg:maven/com.minlessika.core/minlessika-core@0.2?classifier=sources

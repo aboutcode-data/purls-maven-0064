@@ -19,3 +19,4 @@
 - pkg:maven/io.github.jimmy-j/facesdk@2.0.8?classifier=sources
 - pkg:maven/io.github.jimmy-j/facesdk@2.0.9?classifier=sources
 - pkg:maven/io.github.jimmy-j/facesdk@2.2.0?classifier=sources
+- pkg:maven/io.github.jimmy-j/facesdk@2.4.0?classifier=sources

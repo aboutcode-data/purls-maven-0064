@@ -36,3 +36,5 @@
 - pkg:maven/io.github.openfeign/feign-annotation-error-decoder@12.3?classifier=sources
 - pkg:maven/io.github.openfeign/feign-annotation-error-decoder@12.4
 - pkg:maven/io.github.openfeign/feign-annotation-error-decoder@12.4?classifier=sources
+- pkg:maven/io.github.openfeign/feign-annotation-error-decoder@12.5
+- pkg:maven/io.github.openfeign/feign-annotation-error-decoder@12.5?classifier=sources

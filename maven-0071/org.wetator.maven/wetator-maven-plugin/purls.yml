@@ -5,3 +5,4 @@
 - pkg:maven/org.wetator.maven/wetator-maven-plugin@2.2.0
 - pkg:maven/org.wetator.maven/wetator-maven-plugin@2.3.0
 - pkg:maven/org.wetator.maven/wetator-maven-plugin@2.4.0
+- pkg:maven/org.wetator.maven/wetator-maven-plugin@3.5.0

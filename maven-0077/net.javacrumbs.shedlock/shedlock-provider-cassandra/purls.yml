@@ -84,6 +84,10 @@
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-cassandra@4.43.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-cassandra@4.44.0
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-cassandra@4.44.0?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-cassandra@4.45.0
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-cassandra@4.45.0?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-cassandra@4.46.0
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-cassandra@4.46.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-cassandra@4.5.0
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-cassandra@4.5.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-cassandra@4.5.1
@@ -122,3 +126,7 @@
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-cassandra@5.5.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-cassandra@5.6.0
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-cassandra@5.6.0?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-cassandra@5.7.0
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-cassandra@5.7.0?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-cassandra@5.8.0
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-cassandra@5.8.0?classifier=sources

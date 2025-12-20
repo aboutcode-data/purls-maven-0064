@@ -1,0 +1,1 @@
+- pkg:maven/com.github.davidfantasy/flink-connector-mqtt@1.1.0?classifier=sources

@@ -33,3 +33,4 @@
 - pkg:maven/io.openlineage/openlineage-proxy@0.8.2?classifier=sources
 - pkg:maven/io.openlineage/openlineage-proxy@0.9.0?classifier=sources
 - pkg:maven/io.openlineage/openlineage-proxy@1.0.0?classifier=sources
+- pkg:maven/io.openlineage/openlineage-proxy@1.1.0?classifier=sources

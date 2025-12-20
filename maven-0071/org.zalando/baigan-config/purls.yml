@@ -27,6 +27,8 @@
 - pkg:maven/org.zalando/baigan-config@0.19.3?classifier=sources
 - pkg:maven/org.zalando/baigan-config@0.20.0
 - pkg:maven/org.zalando/baigan-config@0.20.0?classifier=sources
+- pkg:maven/org.zalando/baigan-config@0.21.0
+- pkg:maven/org.zalando/baigan-config@0.21.0?classifier=sources
 - pkg:maven/org.zalando/baigan-config@0.9.0
 - pkg:maven/org.zalando/baigan-config@0.9.1
 - pkg:maven/org.zalando/baigan-config@0.9.3

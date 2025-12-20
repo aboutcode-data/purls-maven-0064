@@ -30,3 +30,11 @@
 - pkg:maven/com.datadoghq/ddprof@0.68.0?classifier=sources
 - pkg:maven/com.datadoghq/ddprof@0.69.0?classifier=sources
 - pkg:maven/com.datadoghq/ddprof@0.70.0?classifier=sources
+- pkg:maven/com.datadoghq/ddprof@0.70.1?classifier=sources
+- pkg:maven/com.datadoghq/ddprof@0.71.0?classifier=sources
+- pkg:maven/com.datadoghq/ddprof@0.72.0?classifier=sources
+- pkg:maven/com.datadoghq/ddprof@0.73.0?classifier=sources
+- pkg:maven/com.datadoghq/ddprof@0.74.0?classifier=sources
+- pkg:maven/com.datadoghq/ddprof@0.76.0?classifier=sources
+- pkg:maven/com.datadoghq/ddprof@0.77.0?classifier=sources
+- pkg:maven/com.datadoghq/ddprof@0.78.0?classifier=sources

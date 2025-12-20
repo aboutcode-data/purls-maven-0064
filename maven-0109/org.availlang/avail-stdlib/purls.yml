@@ -9,3 +9,8 @@
 - pkg:maven/org.availlang/avail-stdlib@2.0.0.alpha20-1.6.1.alpha09?classifier=sources
 - pkg:maven/org.availlang/avail-stdlib@2.0.0.alpha20-1.6.1.alpha10?classifier=sources
 - pkg:maven/org.availlang/avail-stdlib@2.0.0.alpha21-1.6.1.alpha10?classifier=sources
+- pkg:maven/org.availlang/avail-stdlib@2.0.0.alpha22-1.6.1.alpha11?classifier=sources
+- pkg:maven/org.availlang/avail-stdlib@2.0.0.alpha22-1.6.1.alpha12?classifier=sources
+- pkg:maven/org.availlang/avail-stdlib@2.0.0.alpha22-1.6.1.alpha13?classifier=sources
+- pkg:maven/org.availlang/avail-stdlib@2.0.0.alpha23-1.6.1.alpha14?classifier=sources
+- pkg:maven/org.availlang/avail-stdlib@2.0.0.alpha23-1.6.1.alpha15?classifier=sources

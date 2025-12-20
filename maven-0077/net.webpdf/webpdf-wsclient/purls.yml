@@ -12,3 +12,5 @@
 - pkg:maven/net.webpdf/webpdf-wsclient@2.0.3?classifier=sources
 - pkg:maven/net.webpdf/webpdf-wsclient@9.0.0
 - pkg:maven/net.webpdf/webpdf-wsclient@9.0.0?classifier=sources
+- pkg:maven/net.webpdf/webpdf-wsclient@9.0.1
+- pkg:maven/net.webpdf/webpdf-wsclient@9.0.1?classifier=sources

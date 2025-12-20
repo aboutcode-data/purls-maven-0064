@@ -64,3 +64,5 @@
 - pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-web-api-service@3.4.2?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-web-api-service@3.5.0
 - pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-web-api-service@3.5.0?classifier=sources
+- pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-web-api-service@3.6.0
+- pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-web-api-service@3.6.0?classifier=sources

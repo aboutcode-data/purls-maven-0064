@@ -1,0 +1,2 @@
+- pkg:maven/dev.hcf.ganymede/jupyterlab-client@2.1.2.20230910
+- pkg:maven/dev.hcf.ganymede/jupyterlab-client@2.1.2.20230910?classifier=sources

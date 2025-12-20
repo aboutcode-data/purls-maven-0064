@@ -1,0 +1,2 @@
+- pkg:maven/io.github.hbaykuslar/simple-query-builder@0.1.17
+- pkg:maven/io.github.hbaykuslar/simple-query-builder@0.1.17?classifier=sources

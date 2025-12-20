@@ -1,6 +1,7 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-table@8.1.4-pre.352-compat?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-table@8.1.4-pre.352?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-table@8.1.4-pre.353?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-table@8.10.0-pre.625?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-table@8.2.2-pre.354?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-table@8.2.3-pre.355?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-table@8.2.3-pre.356?classifier=sources
@@ -313,3 +314,11 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-table@8.9.3-pre.614?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-table@8.9.3-pre.615?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-table@8.9.3-pre.616?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-table@8.9.3-pre.617?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-table@8.9.3-pre.618?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-table@8.9.3-pre.619?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-table@8.9.3-pre.620?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-table@8.9.3-pre.621?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-table@8.9.3-pre.622?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-table@8.9.3-pre.623?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-table@8.9.7-pre.624?classifier=sources

@@ -80,3 +80,9 @@
 - pkg:maven/io.ep2p/kademlia-api@5.1.0-RELEASE?classifier=sources
 - pkg:maven/io.ep2p/kademlia-api@5.1.1-RELEASE
 - pkg:maven/io.ep2p/kademlia-api@5.1.1-RELEASE?classifier=sources
+- pkg:maven/io.ep2p/kademlia-api@5.1.2-RC-1
+- pkg:maven/io.ep2p/kademlia-api@5.1.2-RC-1?classifier=sources
+- pkg:maven/io.ep2p/kademlia-api@5.1.2-RC-3
+- pkg:maven/io.ep2p/kademlia-api@5.1.2-RC-3?classifier=sources
+- pkg:maven/io.ep2p/kademlia-api@5.1.2-RELEASE
+- pkg:maven/io.ep2p/kademlia-api@5.1.2-RELEASE?classifier=sources

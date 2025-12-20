@@ -2314,6 +2314,16 @@
 - pkg:maven/com.liferay/com.liferay.gradle.plugins@14.0.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gradle.plugins@14.0.16?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.gradle.plugins@14.0.17
+- pkg:maven/com.liferay/com.liferay.gradle.plugins@14.0.170?classifier=sources
+- pkg:maven/com.liferay/com.liferay.gradle.plugins@14.0.171?classifier=sources
+- pkg:maven/com.liferay/com.liferay.gradle.plugins@14.0.172?classifier=sources
+- pkg:maven/com.liferay/com.liferay.gradle.plugins@14.0.173?classifier=sources
+- pkg:maven/com.liferay/com.liferay.gradle.plugins@14.0.174?classifier=sources
+- pkg:maven/com.liferay/com.liferay.gradle.plugins@14.0.175?classifier=sources
+- pkg:maven/com.liferay/com.liferay.gradle.plugins@14.0.176?classifier=sources
+- pkg:maven/com.liferay/com.liferay.gradle.plugins@14.0.177?classifier=sources
+- pkg:maven/com.liferay/com.liferay.gradle.plugins@14.0.178?classifier=sources
+- pkg:maven/com.liferay/com.liferay.gradle.plugins@14.0.179?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gradle.plugins@14.0.17?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gradle.plugins@14.0.17?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.gradle.plugins@14.0.18

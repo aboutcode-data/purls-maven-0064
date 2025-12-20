@@ -18,4 +18,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-xsl@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-xsl@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-xsl@RELEASE180?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-xsl@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-xsl@RELEASE90?classifier=sources

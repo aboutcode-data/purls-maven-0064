@@ -1,0 +1,2 @@
+- pkg:maven/software.amazon.smithy/smithy-openapi-traits@1.37.0?classifier=sources
+- pkg:maven/software.amazon.smithy/smithy-openapi-traits@1.38.0?classifier=sources

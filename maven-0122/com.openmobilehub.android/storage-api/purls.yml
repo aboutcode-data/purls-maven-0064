@@ -1,1 +1,2 @@
 - pkg:maven/com.openmobilehub.android/storage-api@1.0.3-rc?classifier=sources
+- pkg:maven/com.openmobilehub.android/storage-api@1.0.5-beta?classifier=sources

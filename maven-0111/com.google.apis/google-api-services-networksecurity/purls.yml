@@ -74,3 +74,9 @@
 - pkg:maven/com.google.apis/google-api-services-networksecurity@v1beta1-rev20230420-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-networksecurity@v1beta1-rev20230719-2.0.0
 - pkg:maven/com.google.apis/google-api-services-networksecurity@v1beta1-rev20230719-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-networksecurity@v1beta1-rev20230814-2.0.0
+- pkg:maven/com.google.apis/google-api-services-networksecurity@v1beta1-rev20230814-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-networksecurity@v1beta1-rev20230831-2.0.0
+- pkg:maven/com.google.apis/google-api-services-networksecurity@v1beta1-rev20230831-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-networksecurity@v1beta1-rev20230918-2.0.0
+- pkg:maven/com.google.apis/google-api-services-networksecurity@v1beta1-rev20230918-2.0.0?classifier=sources

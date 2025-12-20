@@ -26,3 +26,5 @@
 - pkg:maven/cn.org.opendfl/task-tool@2.2?classifier=sources
 - pkg:maven/cn.org.opendfl/task-tool@2.3
 - pkg:maven/cn.org.opendfl/task-tool@2.3?classifier=sources
+- pkg:maven/cn.org.opendfl/task-tool@2.4
+- pkg:maven/cn.org.opendfl/task-tool@2.4?classifier=sources

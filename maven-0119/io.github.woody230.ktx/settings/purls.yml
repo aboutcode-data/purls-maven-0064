@@ -2,3 +2,4 @@
 - pkg:maven/io.github.woody230.ktx/settings@4.1.0?classifier=sources
 - pkg:maven/io.github.woody230.ktx/settings@5.0.0?classifier=sources
 - pkg:maven/io.github.woody230.ktx/settings@6.0.0?classifier=sources
+- pkg:maven/io.github.woody230.ktx/settings@6.1.0?classifier=sources

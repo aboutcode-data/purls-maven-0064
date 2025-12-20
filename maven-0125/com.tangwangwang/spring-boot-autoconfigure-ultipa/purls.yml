@@ -1,0 +1,2 @@
+- pkg:maven/com.tangwangwang/spring-boot-autoconfigure-ultipa@1.0.0-alpha
+- pkg:maven/com.tangwangwang/spring-boot-autoconfigure-ultipa@1.0.0-alpha?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/cloud.iothub/mobile@0.0.3?type=aar
+- pkg:maven/cloud.iothub/mobile@0.0.4?type=aar
+- pkg:maven/cloud.iothub/mobile@0.0.5?type=aar
+- pkg:maven/cloud.iothub/mobile@0.0.6?type=aar

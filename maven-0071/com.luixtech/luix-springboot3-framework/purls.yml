@@ -1,0 +1,6 @@
+- pkg:maven/com.luixtech/luix-springboot3-framework@1.2.1.9
+- pkg:maven/com.luixtech/luix-springboot3-framework@1.2.1.9?classifier=sources
+- pkg:maven/com.luixtech/luix-springboot3-framework@1.2.2.0
+- pkg:maven/com.luixtech/luix-springboot3-framework@1.2.2.0?classifier=sources
+- pkg:maven/com.luixtech/luix-springboot3-framework@1.2.2.1
+- pkg:maven/com.luixtech/luix-springboot3-framework@1.2.2.1?classifier=sources

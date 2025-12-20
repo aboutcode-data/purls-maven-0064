@@ -1,2 +1,4 @@
 - pkg:maven/io.github.bayescom/advance-ks@4.3.0_3344?type=aar
 - pkg:maven/io.github.bayescom/advance-ks@4.3.0_3344_core?type=aar
+- pkg:maven/io.github.bayescom/advance-ks@4.3.0_rr1_33511?type=aar
+- pkg:maven/io.github.bayescom/advance-ks@4.3.0_rr1_33511_core?type=aar

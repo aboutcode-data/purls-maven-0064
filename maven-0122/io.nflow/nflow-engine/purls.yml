@@ -58,3 +58,5 @@
 - pkg:maven/io.nflow/nflow-engine@7.4.0?classifier=sources
 - pkg:maven/io.nflow/nflow-engine@8.0.0
 - pkg:maven/io.nflow/nflow-engine@8.0.0?classifier=sources
+- pkg:maven/io.nflow/nflow-engine@9.0.0
+- pkg:maven/io.nflow/nflow-engine@9.0.0?classifier=sources

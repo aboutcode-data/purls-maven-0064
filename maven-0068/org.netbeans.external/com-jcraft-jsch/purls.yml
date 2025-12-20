@@ -14,3 +14,4 @@
 - pkg:maven/org.netbeans.external/com-jcraft-jsch@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.external/com-jcraft-jsch@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.external/com-jcraft-jsch@RELEASE180?classifier=sources
+- pkg:maven/org.netbeans.external/com-jcraft-jsch@RELEASE190?classifier=sources

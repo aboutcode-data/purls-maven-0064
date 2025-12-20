@@ -13,3 +13,4 @@
 - pkg:maven/com.atatctech/hephaestus@1.0.2b0?classifier=sources
 - pkg:maven/com.atatctech/hephaestus@1.0.2b1?classifier=sources
 - pkg:maven/com.atatctech/hephaestus@1.0.3?classifier=sources
+- pkg:maven/com.atatctech/hephaestus@1.0.4?classifier=sources

@@ -109,3 +109,5 @@
 - pkg:maven/org.apache.tika/tika-core@2.7.0?classifier=sources
 - pkg:maven/org.apache.tika/tika-core@2.8.0
 - pkg:maven/org.apache.tika/tika-core@2.8.0?classifier=sources
+- pkg:maven/org.apache.tika/tika-core@2.9.0
+- pkg:maven/org.apache.tika/tika-core@2.9.0?classifier=sources

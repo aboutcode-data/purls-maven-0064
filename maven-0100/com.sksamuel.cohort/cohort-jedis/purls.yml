@@ -1,0 +1,2 @@
+- pkg:maven/com.sksamuel.cohort/cohort-jedis@2.2.0?classifier=sources
+- pkg:maven/com.sksamuel.cohort/cohort-jedis@2.2.1?classifier=sources
