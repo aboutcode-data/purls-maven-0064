@@ -358,6 +358,8 @@
 - pkg:maven/com.google.cloud/google-cloud-iot@2.76.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-iot@2.77.0
 - pkg:maven/com.google.cloud/google-cloud-iot@2.77.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-iot@2.78.0
+- pkg:maven/com.google.cloud/google-cloud-iot@2.78.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-iot@2.8.0
 - pkg:maven/com.google.cloud/google-cloud-iot@2.8.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-iot@2.9.0

@@ -13,3 +13,4 @@
 - pkg:maven/no.sikt/graphitron-javapoet@6.1.3?classifier=sources
 - pkg:maven/no.sikt/graphitron-javapoet@6.2.0?classifier=sources
 - pkg:maven/no.sikt/graphitron-javapoet@7.0.0?classifier=sources
+- pkg:maven/no.sikt/graphitron-javapoet@7.1.0?classifier=sources

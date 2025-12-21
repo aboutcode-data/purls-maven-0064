@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.types/uuid@8.3.4
+- pkg:maven/org.mvnpm.at.types/uuid@8.3.4?classifier=sources

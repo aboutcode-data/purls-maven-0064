@@ -16,3 +16,4 @@
 - pkg:maven/io.alapierre.crypto/digital-signature-common@1.17?classifier=sources
 - pkg:maven/io.alapierre.crypto/digital-signature-common@1.9
 - pkg:maven/io.alapierre.crypto/digital-signature-common@1.9?classifier=sources
+- pkg:maven/io.alapierre.crypto/digital-signature-common@2.0.3?classifier=sources

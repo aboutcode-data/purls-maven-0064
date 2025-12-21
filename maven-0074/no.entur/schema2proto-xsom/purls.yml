@@ -11,6 +11,7 @@
 - pkg:maven/no.entur/schema2proto-xsom@1.104.0?classifier=sources
 - pkg:maven/no.entur/schema2proto-xsom@1.105.0?classifier=sources
 - pkg:maven/no.entur/schema2proto-xsom@1.106.0?classifier=sources
+- pkg:maven/no.entur/schema2proto-xsom@1.107.0?classifier=sources
 - pkg:maven/no.entur/schema2proto-xsom@1.10?classifier=sources
 - pkg:maven/no.entur/schema2proto-xsom@1.11
 - pkg:maven/no.entur/schema2proto-xsom@1.11?classifier=sources

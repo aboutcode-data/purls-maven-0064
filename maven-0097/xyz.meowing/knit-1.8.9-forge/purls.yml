@@ -10,3 +10,4 @@
 - pkg:maven/xyz.meowing/knit-1.8.9-forge@110?classifier=sources
 - pkg:maven/xyz.meowing/knit-1.8.9-forge@111?classifier=sources
 - pkg:maven/xyz.meowing/knit-1.8.9-forge@112?classifier=sources
+- pkg:maven/xyz.meowing/knit-1.8.9-forge@113?classifier=sources

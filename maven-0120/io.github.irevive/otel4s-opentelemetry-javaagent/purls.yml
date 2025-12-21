@@ -2,3 +2,4 @@
 - pkg:maven/io.github.irevive/otel4s-opentelemetry-javaagent@0.0.2?classifier=sources
 - pkg:maven/io.github.irevive/otel4s-opentelemetry-javaagent@0.0.3?classifier=sources
 - pkg:maven/io.github.irevive/otel4s-opentelemetry-javaagent@0.0.4?classifier=sources
+- pkg:maven/io.github.irevive/otel4s-opentelemetry-javaagent@2.21.0?classifier=sources

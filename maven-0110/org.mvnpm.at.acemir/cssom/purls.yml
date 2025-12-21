@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.acemir/cssom@0.9.19
+- pkg:maven/org.mvnpm.at.acemir/cssom@0.9.19?classifier=sources

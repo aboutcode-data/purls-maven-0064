@@ -23,3 +23,5 @@
 - pkg:maven/io.github.c-fraser/graph-guard-validate@0.24.4?classifier=sources
 - pkg:maven/io.github.c-fraser/graph-guard-validate@0.24.5?classifier=sources
 - pkg:maven/io.github.c-fraser/graph-guard-validate@0.25.0?classifier=sources
+- pkg:maven/io.github.c-fraser/graph-guard-validate@1.0.0?classifier=sources
+- pkg:maven/io.github.c-fraser/graph-guard-validate@1.0.1?classifier=sources

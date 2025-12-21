@@ -6,4 +6,9 @@
 - pkg:maven/com.nsr-ai/nsr-ai-api@1.2.1-Beta?classifier=sources
 - pkg:maven/com.nsr-ai/nsr-ai-api@1.2.2-Beta?classifier=sources
 - pkg:maven/com.nsr-ai/nsr-ai-api@1.2?classifier=sources
+- pkg:maven/com.nsr-ai/nsr-ai-api@1.4-Beta?classifier=sources
+- pkg:maven/com.nsr-ai/nsr-ai-api@1.5-Beta?classifier=sources
+- pkg:maven/com.nsr-ai/nsr-ai-api@1.5-pre?classifier=sources
+- pkg:maven/com.nsr-ai/nsr-ai-api@1.6-pre?classifier=sources
+- pkg:maven/com.nsr-ai/nsr-ai-api@1.6.1-pre?classifier=sources
 - pkg:maven/com.nsr-ai/nsr-ai-api@2.0?classifier=sources

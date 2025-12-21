@@ -1,0 +1,2 @@
+- pkg:maven/com.msg91.lib/hellosdk@1.0.0?classifier=sources
+- pkg:maven/com.msg91.lib/hellosdk@1.0.1?classifier=sources

@@ -3,3 +3,4 @@
 - pkg:maven/com.enterprisesframework.boot/operation-overlord@2.3.5.2?classifier=sources
 - pkg:maven/com.enterprisesframework.boot/operation-overlord@2.3.5.3?classifier=sources
 - pkg:maven/com.enterprisesframework.boot/operation-overlord@2.3.5.4?classifier=sources
+- pkg:maven/com.enterprisesframework.boot/operation-overlord@2.3.5.5?classifier=sources

@@ -21,3 +21,4 @@
 - pkg:maven/com.raygun/raygun4android@5.0.0-alpha2?classifier=sources
 - pkg:maven/com.raygun/raygun4android@5.0.0-alpha3?classifier=sources
 - pkg:maven/com.raygun/raygun4android@5.0.0?classifier=sources
+- pkg:maven/com.raygun/raygun4android@5.0.1?classifier=sources

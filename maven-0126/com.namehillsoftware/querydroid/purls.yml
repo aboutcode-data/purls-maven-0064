@@ -6,3 +6,4 @@
 - pkg:maven/com.namehillsoftware/querydroid@0.5.0?classifier=sources
 - pkg:maven/com.namehillsoftware/querydroid@0.5.2?classifier=sources
 - pkg:maven/com.namehillsoftware/querydroid@0.6.0?classifier=sources
+- pkg:maven/com.namehillsoftware/querydroid@0.8.2?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/io.jstuff/log-front-test@6.2?classifier=sources
+- pkg:maven/io.jstuff/log-front-test@7.0?classifier=sources

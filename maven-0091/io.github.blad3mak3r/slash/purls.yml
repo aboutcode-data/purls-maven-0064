@@ -2,3 +2,4 @@
 - pkg:maven/io.github.blad3mak3r/slash@0.15.0?classifier=sources
 - pkg:maven/io.github.blad3mak3r/slash@0.15.1?classifier=sources
 - pkg:maven/io.github.blad3mak3r/slash@0.16.0-rc.1?classifier=sources
+- pkg:maven/io.github.blad3mak3r/slash@0.16.0?classifier=sources

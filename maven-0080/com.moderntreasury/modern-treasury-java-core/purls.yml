@@ -47,6 +47,8 @@
 - pkg:maven/com.moderntreasury/modern-treasury-java-core@7.10.0?classifier=sources
 - pkg:maven/com.moderntreasury/modern-treasury-java-core@7.11.0?classifier=sources
 - pkg:maven/com.moderntreasury/modern-treasury-java-core@7.12.0?classifier=sources
+- pkg:maven/com.moderntreasury/modern-treasury-java-core@7.13.0?classifier=sources
+- pkg:maven/com.moderntreasury/modern-treasury-java-core@7.14.0?classifier=sources
 - pkg:maven/com.moderntreasury/modern-treasury-java-core@7.2.0?classifier=sources
 - pkg:maven/com.moderntreasury/modern-treasury-java-core@7.2.1?classifier=sources
 - pkg:maven/com.moderntreasury/modern-treasury-java-core@7.3.0?classifier=sources

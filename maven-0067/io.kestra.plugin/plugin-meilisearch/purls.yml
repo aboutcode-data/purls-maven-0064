@@ -5,3 +5,4 @@
 - pkg:maven/io.kestra.plugin/plugin-meilisearch@0.23.0?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-meilisearch@0.24.0?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-meilisearch@1.0.0?classifier=sources
+- pkg:maven/io.kestra.plugin/plugin-meilisearch@1.1.0?classifier=sources

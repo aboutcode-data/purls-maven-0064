@@ -42,3 +42,5 @@
 - pkg:maven/com.powsybl/powsybl-flow-decomposition@2.8.1?classifier=sources
 - pkg:maven/com.powsybl/powsybl-flow-decomposition@2.9.0
 - pkg:maven/com.powsybl/powsybl-flow-decomposition@2.9.0?classifier=sources
+- pkg:maven/com.powsybl/powsybl-flow-decomposition@3.0.0?classifier=sources
+- pkg:maven/com.powsybl/powsybl-flow-decomposition@3.0.1?classifier=sources

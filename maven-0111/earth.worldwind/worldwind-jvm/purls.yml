@@ -171,3 +171,6 @@
 - pkg:maven/earth.worldwind/worldwind-jvm@1.8.9?classifier=sources
 - pkg:maven/earth.worldwind/worldwind-jvm@1.9.0?classifier=sources
 - pkg:maven/earth.worldwind/worldwind-jvm@1.9.1?classifier=sources
+- pkg:maven/earth.worldwind/worldwind-jvm@1.9.2?classifier=sources
+- pkg:maven/earth.worldwind/worldwind-jvm@1.9.3?classifier=sources
+- pkg:maven/earth.worldwind/worldwind-jvm@1.9.4?classifier=sources

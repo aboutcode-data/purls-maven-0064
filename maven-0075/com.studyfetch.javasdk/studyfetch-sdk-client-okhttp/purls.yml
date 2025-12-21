@@ -17,4 +17,6 @@
 - pkg:maven/com.studyfetch.javasdk/studyfetch-sdk-client-okhttp@0.1.0-alpha.26?classifier=sources
 - pkg:maven/com.studyfetch.javasdk/studyfetch-sdk-client-okhttp@0.1.0-alpha.27?classifier=sources
 - pkg:maven/com.studyfetch.javasdk/studyfetch-sdk-client-okhttp@0.1.0-alpha.28?classifier=sources
+- pkg:maven/com.studyfetch.javasdk/studyfetch-sdk-client-okhttp@0.1.0-alpha.29?classifier=sources
+- pkg:maven/com.studyfetch.javasdk/studyfetch-sdk-client-okhttp@0.1.0-alpha.30?classifier=sources
 - pkg:maven/com.studyfetch.javasdk/studyfetch-sdk-client-okhttp@0.1.0-alpha.9?classifier=sources

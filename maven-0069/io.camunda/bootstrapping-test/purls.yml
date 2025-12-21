@@ -55,3 +55,5 @@
 - pkg:maven/io.camunda/bootstrapping-test@8.7.4?classifier=sources
 - pkg:maven/io.camunda/bootstrapping-test@8.8.0
 - pkg:maven/io.camunda/bootstrapping-test@8.8.0?classifier=sources
+- pkg:maven/io.camunda/bootstrapping-test@8.8.1
+- pkg:maven/io.camunda/bootstrapping-test@8.8.1?classifier=sources

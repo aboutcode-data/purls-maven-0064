@@ -1,0 +1,14 @@
+- pkg:maven/guru.nicks.commons/job-executor@1.10.0?classifier=sources
+- pkg:maven/guru.nicks.commons/job-executor@1.11.0?classifier=sources
+- pkg:maven/guru.nicks.commons/job-executor@1.13.0?classifier=sources
+- pkg:maven/guru.nicks.commons/job-executor@1.14.0?classifier=sources
+- pkg:maven/guru.nicks.commons/job-executor@1.15.1?classifier=sources
+- pkg:maven/guru.nicks.commons/job-executor@1.16.0?classifier=sources
+- pkg:maven/guru.nicks.commons/job-executor@1.16.1?classifier=sources
+- pkg:maven/guru.nicks.commons/job-executor@1.17.0?classifier=sources
+- pkg:maven/guru.nicks.commons/job-executor@1.9.0?classifier=sources
+- pkg:maven/guru.nicks.commons/job-executor@1.9.1?classifier=sources
+- pkg:maven/guru.nicks.commons/job-executor@1.9.2?classifier=sources
+- pkg:maven/guru.nicks.commons/job-executor@1.9.3?classifier=sources
+- pkg:maven/guru.nicks.commons/job-executor@25.11.3.0?classifier=sources
+- pkg:maven/guru.nicks.commons/job-executor@25.11.4.0?classifier=sources

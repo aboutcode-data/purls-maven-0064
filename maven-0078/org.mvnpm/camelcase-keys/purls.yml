@@ -1,5 +1,7 @@
 - pkg:maven/org.mvnpm/camelcase-keys@10.0.0
 - pkg:maven/org.mvnpm/camelcase-keys@10.0.0?classifier=sources
+- pkg:maven/org.mvnpm/camelcase-keys@10.0.1
+- pkg:maven/org.mvnpm/camelcase-keys@10.0.1?classifier=sources
 - pkg:maven/org.mvnpm/camelcase-keys@2.1.0?classifier=sources
 - pkg:maven/org.mvnpm/camelcase-keys@6.2.2?classifier=sources
 - pkg:maven/org.mvnpm/camelcase-keys@9.1.3?classifier=sources

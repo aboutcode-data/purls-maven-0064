@@ -2,3 +2,4 @@
 - pkg:maven/ca.twoducks/bom-grandchild@1.4-sup?classifier=sources
 - pkg:maven/ca.twoducks/bom-grandchild@1.5-wik?classifier=sources
 - pkg:maven/ca.twoducks/bom-grandchild@1.6-alsowik?classifier=sources
+- pkg:maven/ca.twoducks/bom-grandchild@1.7-alsowik?classifier=sources

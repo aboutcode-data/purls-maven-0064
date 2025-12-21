@@ -90,6 +90,7 @@
 - pkg:maven/com.github.jnr/jnr-unixsocket@0.38.22?classifier=sources
 - pkg:maven/com.github.jnr/jnr-unixsocket@0.38.23
 - pkg:maven/com.github.jnr/jnr-unixsocket@0.38.23?classifier=sources
+- pkg:maven/com.github.jnr/jnr-unixsocket@0.38.24?classifier=sources
 - pkg:maven/com.github.jnr/jnr-unixsocket@0.38.2?classifier=sources
 - pkg:maven/com.github.jnr/jnr-unixsocket@0.38.3
 - pkg:maven/com.github.jnr/jnr-unixsocket@0.38.3?classifier=sources

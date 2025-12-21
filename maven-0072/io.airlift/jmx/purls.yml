@@ -491,3 +491,13 @@
 - pkg:maven/io.airlift/jmx@364?classifier=sources
 - pkg:maven/io.airlift/jmx@365?classifier=sources
 - pkg:maven/io.airlift/jmx@366?classifier=sources
+- pkg:maven/io.airlift/jmx@367?classifier=sources
+- pkg:maven/io.airlift/jmx@368?classifier=sources
+- pkg:maven/io.airlift/jmx@369?classifier=sources
+- pkg:maven/io.airlift/jmx@370?classifier=sources
+- pkg:maven/io.airlift/jmx@371?classifier=sources
+- pkg:maven/io.airlift/jmx@372?classifier=sources
+- pkg:maven/io.airlift/jmx@373?classifier=sources
+- pkg:maven/io.airlift/jmx@374?classifier=sources
+- pkg:maven/io.airlift/jmx@375?classifier=sources
+- pkg:maven/io.airlift/jmx@376?classifier=sources

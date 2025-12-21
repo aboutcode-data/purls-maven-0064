@@ -1,2 +1,5 @@
 - pkg:maven/io.hyphenate/chat-call-kit@1.0.0?classifier=sources
 - pkg:maven/io.hyphenate/chat-call-kit@4.16.0?classifier=sources
+- pkg:maven/io.hyphenate/chat-call-kit@4.17.0?classifier=sources
+- pkg:maven/io.hyphenate/chat-call-kit@4.18.0?classifier=sources
+- pkg:maven/io.hyphenate/chat-call-kit@4.18.1?classifier=sources

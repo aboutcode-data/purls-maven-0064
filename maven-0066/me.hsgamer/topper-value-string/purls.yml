@@ -19,3 +19,6 @@
 - pkg:maven/me.hsgamer/topper-value-string@4.5.2?classifier=sources
 - pkg:maven/me.hsgamer/topper-value-string@4.6.0?classifier=sources
 - pkg:maven/me.hsgamer/topper-value-string@4.7.0?classifier=sources
+- pkg:maven/me.hsgamer/topper-value-string@4.8.0?classifier=sources
+- pkg:maven/me.hsgamer/topper-value-string@4.9.0?classifier=sources
+- pkg:maven/me.hsgamer/topper-value-string@4.9.1?classifier=sources

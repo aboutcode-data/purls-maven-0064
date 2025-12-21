@@ -25,6 +25,7 @@
 - pkg:maven/io.github.zhoujunlin94/meet-web@1.2.7?classifier=sources
 - pkg:maven/io.github.zhoujunlin94/meet-web@1.2.8?classifier=sources
 - pkg:maven/io.github.zhoujunlin94/meet-web@1.2.9?classifier=sources
+- pkg:maven/io.github.zhoujunlin94/meet-web@2.0.0?classifier=sources
 - pkg:maven/io.github.zhoujunlin94/meet-web@3.0.10?classifier=sources
 - pkg:maven/io.github.zhoujunlin94/meet-web@3.0.11?classifier=sources
 - pkg:maven/io.github.zhoujunlin94/meet-web@3.0.12?classifier=sources
@@ -45,4 +46,5 @@
 - pkg:maven/io.github.zhoujunlin94/meet-web@3.2.0?classifier=sources
 - pkg:maven/io.github.zhoujunlin94/meet-web@3.2.1?classifier=sources
 - pkg:maven/io.github.zhoujunlin94/meet-web@3.2.2?classifier=sources
+- pkg:maven/io.github.zhoujunlin94/meet-web@3.2.3.2?classifier=sources
 - pkg:maven/io.github.zhoujunlin94/meet-web@3.2.3?classifier=sources

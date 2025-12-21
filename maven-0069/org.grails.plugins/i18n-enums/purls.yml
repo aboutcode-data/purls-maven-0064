@@ -1,1 +1,2 @@
 - pkg:maven/org.grails.plugins/i18n-enums@7.0.0?classifier=sources
+- pkg:maven/org.grails.plugins/i18n-enums@7.0.1?classifier=sources

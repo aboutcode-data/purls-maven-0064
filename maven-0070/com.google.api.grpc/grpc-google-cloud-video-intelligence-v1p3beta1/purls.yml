@@ -122,6 +122,8 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-video-intelligence-v1p3beta1@0.165.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-video-intelligence-v1p3beta1@0.166.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-video-intelligence-v1p3beta1@0.166.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-video-intelligence-v1p3beta1@0.167.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-video-intelligence-v1p3beta1@0.167.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-video-intelligence-v1p3beta1@0.49.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-video-intelligence-v1p3beta1@0.49.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-video-intelligence-v1p3beta1@0.50.0

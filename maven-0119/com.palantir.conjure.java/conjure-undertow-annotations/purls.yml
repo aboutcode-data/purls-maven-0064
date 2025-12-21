@@ -138,7 +138,13 @@
 - pkg:maven/com.palantir.conjure.java/conjure-undertow-annotations@8.56.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java/conjure-undertow-annotations@8.57.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java/conjure-undertow-annotations@8.58.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java/conjure-undertow-annotations@8.59.0-rc1?classifier=sources
+- pkg:maven/com.palantir.conjure.java/conjure-undertow-annotations@8.59.0-rc2?classifier=sources
+- pkg:maven/com.palantir.conjure.java/conjure-undertow-annotations@8.59.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java/conjure-undertow-annotations@8.6.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java/conjure-undertow-annotations@8.60.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java/conjure-undertow-annotations@8.61.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java/conjure-undertow-annotations@8.62.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java/conjure-undertow-annotations@8.7.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java/conjure-undertow-annotations@8.8.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java/conjure-undertow-annotations@8.9.0-rc1?classifier=sources

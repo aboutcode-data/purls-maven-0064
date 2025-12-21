@@ -171,3 +171,5 @@
 - pkg:maven/org.danilopianini/gradle-kotlin-qa@0.95.0?classifier=sources
 - pkg:maven/org.danilopianini/gradle-kotlin-qa@0.95.1?classifier=sources
 - pkg:maven/org.danilopianini/gradle-kotlin-qa@0.95.2?classifier=sources
+- pkg:maven/org.danilopianini/gradle-kotlin-qa@0.95.3?classifier=sources
+- pkg:maven/org.danilopianini/gradle-kotlin-qa@0.96.0?classifier=sources

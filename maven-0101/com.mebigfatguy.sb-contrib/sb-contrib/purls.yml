@@ -24,3 +24,5 @@
 - pkg:maven/com.mebigfatguy.sb-contrib/sb-contrib@7.6.7?classifier=sources
 - pkg:maven/com.mebigfatguy.sb-contrib/sb-contrib@7.6.8?classifier=sources
 - pkg:maven/com.mebigfatguy.sb-contrib/sb-contrib@7.6.9?classifier=sources
+- pkg:maven/com.mebigfatguy.sb-contrib/sb-contrib@7.7.0
+- pkg:maven/com.mebigfatguy.sb-contrib/sb-contrib@7.7.0?classifier=sources

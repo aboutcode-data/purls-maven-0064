@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.types/aws-lambda@8.10.157
+- pkg:maven/org.mvnpm.at.types/aws-lambda@8.10.157?classifier=sources

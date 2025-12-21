@@ -1,0 +1,2 @@
+- pkg:maven/hu.rtspro.mike/mike-cli-maven-plugin@1.0.13.PATCH01?classifier=sources
+- pkg:maven/hu.rtspro.mike/mike-cli-maven-plugin@1.0.13?classifier=sources

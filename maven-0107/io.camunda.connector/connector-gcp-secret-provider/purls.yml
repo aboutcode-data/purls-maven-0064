@@ -187,6 +187,8 @@
 - pkg:maven/io.camunda.connector/connector-gcp-secret-provider@8.6.2
 - pkg:maven/io.camunda.connector/connector-gcp-secret-provider@8.6.20
 - pkg:maven/io.camunda.connector/connector-gcp-secret-provider@8.6.20?classifier=sources
+- pkg:maven/io.camunda.connector/connector-gcp-secret-provider@8.6.21
+- pkg:maven/io.camunda.connector/connector-gcp-secret-provider@8.6.21?classifier=sources
 - pkg:maven/io.camunda.connector/connector-gcp-secret-provider@8.6.2?classifier=sources
 - pkg:maven/io.camunda.connector/connector-gcp-secret-provider@8.6.5
 - pkg:maven/io.camunda.connector/connector-gcp-secret-provider@8.6.5?classifier=sources

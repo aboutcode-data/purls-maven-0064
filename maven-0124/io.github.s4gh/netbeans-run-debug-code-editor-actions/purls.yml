@@ -1,1 +1,2 @@
 - pkg:maven/io.github.s4gh/netbeans-run-debug-code-editor-actions@1.0?classifier=sources
+- pkg:maven/io.github.s4gh/netbeans-run-debug-code-editor-actions@1.1?classifier=sources

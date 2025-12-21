@@ -8,3 +8,5 @@
 - pkg:maven/io.agora/rtm-java@2.2.4.1-beta?classifier=sources
 - pkg:maven/io.agora/rtm-java@2.2.5-beta
 - pkg:maven/io.agora/rtm-java@2.2.5-beta?classifier=sources
+- pkg:maven/io.agora/rtm-java@2.2.6-beta
+- pkg:maven/io.agora/rtm-java@2.2.6-beta?classifier=sources

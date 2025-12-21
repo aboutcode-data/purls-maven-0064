@@ -14,3 +14,4 @@
 - pkg:maven/io.kestra.plugin/plugin-ansible@0.23.0?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-ansible@0.24.0?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-ansible@1.0.0?classifier=sources
+- pkg:maven/io.kestra.plugin/plugin-ansible@1.1.0?classifier=sources

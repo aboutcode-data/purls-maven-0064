@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.druid/druid-multi-stage-query@35.0.0
+- pkg:maven/org.apache.druid/druid-multi-stage-query@35.0.0?classifier=sources

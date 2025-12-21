@@ -1,0 +1,2 @@
+- pkg:maven/com.biit-solutions.drools/plugin-manager-core@2.1.103?classifier=sources
+- pkg:maven/com.biit-solutions.drools/plugin-manager-core@2.1.104?classifier=sources

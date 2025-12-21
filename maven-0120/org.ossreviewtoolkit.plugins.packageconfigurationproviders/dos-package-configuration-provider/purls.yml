@@ -81,3 +81,6 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.packageconfigurationproviders/dos-package-configuration-provider@70.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packageconfigurationproviders/dos-package-configuration-provider@70.0.1?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packageconfigurationproviders/dos-package-configuration-provider@70.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packageconfigurationproviders/dos-package-configuration-provider@71.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packageconfigurationproviders/dos-package-configuration-provider@71.0.1?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packageconfigurationproviders/dos-package-configuration-provider@71.1.0?classifier=sources

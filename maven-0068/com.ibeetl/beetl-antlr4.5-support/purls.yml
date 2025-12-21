@@ -48,3 +48,4 @@
 - pkg:maven/com.ibeetl/beetl-antlr4.5-support@3.19.1.RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/beetl-antlr4.5-support@3.19.2.RELEASE
 - pkg:maven/com.ibeetl/beetl-antlr4.5-support@3.19.2.RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/beetl-antlr4.5-support@3.20.0.RELEASE?classifier=sources

@@ -3,6 +3,8 @@
 - pkg:maven/io.agora.rtc/full-screen-sharing-special@4.2.6.202-build.1?type=aar
 - pkg:maven/io.agora.rtc/full-screen-sharing-special@4.2.6.204-build.1?type=aar
 - pkg:maven/io.agora.rtc/full-screen-sharing-special@4.2.6.205-build.1?type=aar
+- pkg:maven/io.agora.rtc/full-screen-sharing-special@4.2.7.125-build.1?type=aar
+- pkg:maven/io.agora.rtc/full-screen-sharing-special@4.2.7.125-build.2?type=aar
 - pkg:maven/io.agora.rtc/full-screen-sharing-special@4.3.2.150-build.1?type=aar
 - pkg:maven/io.agora.rtc/full-screen-sharing-special@4.3.2.155-build.1?type=aar
 - pkg:maven/io.agora.rtc/full-screen-sharing-special@4.3.2.156-build.1?type=aar
@@ -13,6 +15,7 @@
 - pkg:maven/io.agora.rtc/full-screen-sharing-special@4.5.1.161-build.1?type=aar
 - pkg:maven/io.agora.rtc/full-screen-sharing-special@4.5.1.230-build.4?type=aar
 - pkg:maven/io.agora.rtc/full-screen-sharing-special@4.5.2.145-build.1?type=aar
+- pkg:maven/io.agora.rtc/full-screen-sharing-special@4.5.2.163-build.2?type=aar
 - pkg:maven/io.agora.rtc/full-screen-sharing-special@4.5.2.2-lite.1?type=aar
 - pkg:maven/io.agora.rtc/full-screen-sharing-special@4.5.2.3-build.1?type=aar
 - pkg:maven/io.agora.rtc/full-screen-sharing-special@4.5.2.3-gxz.1?type=aar

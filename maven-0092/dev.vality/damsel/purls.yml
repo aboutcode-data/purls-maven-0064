@@ -245,6 +245,7 @@
 - pkg:maven/dev.vality/damsel@1.672-32ce54d?classifier=sources
 - pkg:maven/dev.vality/damsel@1.673-f831d3a?classifier=sources
 - pkg:maven/dev.vality/damsel@1.674-237169f-epic-1?classifier=sources
+- pkg:maven/dev.vality/damsel@1.674-368f05b?classifier=sources
 - pkg:maven/dev.vality/damsel@1.675-9408042-epic-1?classifier=sources
 - pkg:maven/dev.vality/damsel@1.676-ebe97fb-epic-1?classifier=sources
 - pkg:maven/dev.vality/damsel@1.677-16a4f87-epic-1?classifier=sources
