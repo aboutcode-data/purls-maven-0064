@@ -17,6 +17,7 @@
 - pkg:maven/org.ops4j.pax.web/pax-web-jetty-keycloak18@8.0.31
 - pkg:maven/org.ops4j.pax.web/pax-web-jetty-keycloak18@8.0.31?classifier=sources
 - pkg:maven/org.ops4j.pax.web/pax-web-jetty-keycloak18@8.0.32?classifier=sources
+- pkg:maven/org.ops4j.pax.web/pax-web-jetty-keycloak18@8.0.33?classifier=sources
 - pkg:maven/org.ops4j.pax.web/pax-web-jetty-keycloak18@9.0.12
 - pkg:maven/org.ops4j.pax.web/pax-web-jetty-keycloak18@9.0.12?classifier=sources
 - pkg:maven/org.ops4j.pax.web/pax-web-jetty-keycloak18@9.0.13
@@ -36,3 +37,4 @@
 - pkg:maven/org.ops4j.pax.web/pax-web-jetty-keycloak18@9.0.20
 - pkg:maven/org.ops4j.pax.web/pax-web-jetty-keycloak18@9.0.20?classifier=sources
 - pkg:maven/org.ops4j.pax.web/pax-web-jetty-keycloak18@9.0.21?classifier=sources
+- pkg:maven/org.ops4j.pax.web/pax-web-jetty-keycloak18@9.0.22?classifier=sources

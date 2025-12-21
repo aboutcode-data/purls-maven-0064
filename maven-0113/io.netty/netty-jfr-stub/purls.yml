@@ -1,1 +1,2 @@
 - pkg:maven/io.netty/netty-jfr-stub@4.2.3.Final?classifier=sources
+- pkg:maven/io.netty/netty-jfr-stub@4.2.4.Final?classifier=sources

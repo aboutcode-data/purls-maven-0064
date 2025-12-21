@@ -1,2 +1,5 @@
 - pkg:maven/io.agora.rtc/full-screen-sharing-special@4.0.0-rc.2?type=aar
 - pkg:maven/io.agora.rtc/full-screen-sharing-special@4.2.6.202-build.1?type=aar
+- pkg:maven/io.agora.rtc/full-screen-sharing-special@4.2.6.204-build.1?type=aar
+- pkg:maven/io.agora.rtc/full-screen-sharing-special@4.3.2.150-build.1?type=aar
+- pkg:maven/io.agora.rtc/full-screen-sharing-special@4.5.2.145-build.1?type=aar

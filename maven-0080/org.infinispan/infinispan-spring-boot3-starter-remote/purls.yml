@@ -48,6 +48,7 @@
 - pkg:maven/org.infinispan/infinispan-spring-boot3-starter-remote@14.0.33.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-spring-boot3-starter-remote@14.0.34.Final
 - pkg:maven/org.infinispan/infinispan-spring-boot3-starter-remote@14.0.34.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-spring-boot3-starter-remote@14.0.35.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-spring-boot3-starter-remote@14.0.7.Final
 - pkg:maven/org.infinispan/infinispan-spring-boot3-starter-remote@14.0.7.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-spring-boot3-starter-remote@14.0.8.Final
@@ -92,6 +93,8 @@
 - pkg:maven/org.infinispan/infinispan-spring-boot3-starter-remote@15.0.14.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-spring-boot3-starter-remote@15.0.15.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-spring-boot3-starter-remote@15.0.16.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-spring-boot3-starter-remote@15.0.17.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-spring-boot3-starter-remote@15.0.18.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-spring-boot3-starter-remote@15.0.2.Final
 - pkg:maven/org.infinispan/infinispan-spring-boot3-starter-remote@15.0.2.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-spring-boot3-starter-remote@15.0.3.Final
@@ -147,4 +150,7 @@
 - pkg:maven/org.infinispan/infinispan-spring-boot3-starter-remote@15.2.2.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-spring-boot3-starter-remote@15.2.3.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-spring-boot3-starter-remote@15.2.4.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-spring-boot3-starter-remote@15.2.5.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-spring-boot3-starter-remote@16.0.0.Dev01?classifier=sources
+- pkg:maven/org.infinispan/infinispan-spring-boot3-starter-remote@16.0.0.Dev02?classifier=sources
+- pkg:maven/org.infinispan/infinispan-spring-boot3-starter-remote@16.0.0.Dev03?classifier=sources

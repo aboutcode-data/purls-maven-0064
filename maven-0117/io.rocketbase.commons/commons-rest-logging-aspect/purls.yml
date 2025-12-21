@@ -121,3 +121,5 @@
 - pkg:maven/io.rocketbase.commons/commons-rest-logging-aspect@3.3.2
 - pkg:maven/io.rocketbase.commons/commons-rest-logging-aspect@3.3.2?classifier=sources
 - pkg:maven/io.rocketbase.commons/commons-rest-logging-aspect@3.4.3?classifier=sources
+- pkg:maven/io.rocketbase.commons/commons-rest-logging-aspect@3.5.0?classifier=sources
+- pkg:maven/io.rocketbase.commons/commons-rest-logging-aspect@3.5.1?classifier=sources

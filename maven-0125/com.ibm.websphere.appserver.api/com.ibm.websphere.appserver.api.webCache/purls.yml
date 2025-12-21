@@ -1,6 +1,7 @@
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.webCache@1.0.0
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.webCache@1.1.0
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.webCache@1.1.10
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.webCache@1.1.103?classifier=sources
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.webCache@1.1.11
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.webCache@1.1.12
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.webCache@1.1.13

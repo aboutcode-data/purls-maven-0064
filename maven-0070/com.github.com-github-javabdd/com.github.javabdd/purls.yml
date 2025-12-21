@@ -2,6 +2,7 @@
 - pkg:maven/com.github.com-github-javabdd/com.github.javabdd@1.0.0?classifier=sources
 - pkg:maven/com.github.com-github-javabdd/com.github.javabdd@1.0.1
 - pkg:maven/com.github.com-github-javabdd/com.github.javabdd@1.0.1?classifier=sources
+- pkg:maven/com.github.com-github-javabdd/com.github.javabdd@10.0.0?classifier=sources
 - pkg:maven/com.github.com-github-javabdd/com.github.javabdd@2.0.0
 - pkg:maven/com.github.com-github-javabdd/com.github.javabdd@2.0.0?classifier=sources
 - pkg:maven/com.github.com-github-javabdd/com.github.javabdd@3.0.0

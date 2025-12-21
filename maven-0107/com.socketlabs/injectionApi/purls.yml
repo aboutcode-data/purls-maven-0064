@@ -22,3 +22,5 @@
 - pkg:maven/com.socketlabs/injectionApi@1.4.2?classifier=sources
 - pkg:maven/com.socketlabs/injectionApi@1.4.4
 - pkg:maven/com.socketlabs/injectionApi@1.4.4?classifier=sources
+- pkg:maven/com.socketlabs/injectionApi@2.0.1
+- pkg:maven/com.socketlabs/injectionApi@2.0.1?classifier=sources

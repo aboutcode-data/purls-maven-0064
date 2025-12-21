@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/maplibre-gl@4.7.1
+- pkg:maven/org.mvnpm/maplibre-gl@4.7.1?classifier=sources

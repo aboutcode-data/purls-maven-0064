@@ -1,3 +1,4 @@
+- pkg:maven/uk.autores/format@17.1.0?classifier=sources
 - pkg:maven/uk.autores/format@8.0.0-beta
 - pkg:maven/uk.autores/format@8.0.0-beta?classifier=sources
 - pkg:maven/uk.autores/format@8.0.1-beta

@@ -49,6 +49,9 @@
 - pkg:maven/com.stytch.java/sdk@7.20.3?classifier=sources
 - pkg:maven/com.stytch.java/sdk@7.20.4?classifier=sources
 - pkg:maven/com.stytch.java/sdk@7.21.0?classifier=sources
+- pkg:maven/com.stytch.java/sdk@7.22.0?classifier=sources
+- pkg:maven/com.stytch.java/sdk@7.23.0?classifier=sources
+- pkg:maven/com.stytch.java/sdk@7.24.0?classifier=sources
 - pkg:maven/com.stytch.java/sdk@7.3.0?classifier=sources
 - pkg:maven/com.stytch.java/sdk@7.4.0?classifier=sources
 - pkg:maven/com.stytch.java/sdk@7.5.0?classifier=sources

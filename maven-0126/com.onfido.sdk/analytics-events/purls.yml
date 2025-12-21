@@ -1,1 +1,4 @@
 - pkg:maven/com.onfido.sdk/analytics-events@0.0.124?classifier=sources
+- pkg:maven/com.onfido.sdk/analytics-events@0.0.126?classifier=sources
+- pkg:maven/com.onfido.sdk/analytics-events@0.0.127?classifier=sources
+- pkg:maven/com.onfido.sdk/analytics-events@0.0.128?classifier=sources

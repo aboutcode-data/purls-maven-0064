@@ -1,1 +1,2 @@
 - pkg:maven/dev.mindspace.utils/kotlin-string-expand@0.2.8?classifier=sources
+- pkg:maven/dev.mindspace.utils/kotlin-string-expand@0.3?classifier=sources

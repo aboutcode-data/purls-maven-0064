@@ -24,5 +24,7 @@
 - pkg:maven/cn.xphsc/spring-data-jpamapper@2.0.2?classifier=sources
 - pkg:maven/cn.xphsc/spring-data-jpamapper@2.0.3
 - pkg:maven/cn.xphsc/spring-data-jpamapper@2.0.3?classifier=sources
+- pkg:maven/cn.xphsc/spring-data-jpamapper@2.0.4?classifier=sources
 - pkg:maven/cn.xphsc/spring-data-jpamapper@3.0.0
 - pkg:maven/cn.xphsc/spring-data-jpamapper@3.0.0?classifier=sources
+- pkg:maven/cn.xphsc/spring-data-jpamapper@3.0.1?classifier=sources

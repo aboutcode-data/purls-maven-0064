@@ -13,3 +13,4 @@
 - pkg:maven/com.aliyun/alibabacloud-vpcipam20230228@2.0.3
 - pkg:maven/com.aliyun/alibabacloud-vpcipam20230228@2.0.3?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-vpcipam20230228@2.0.4?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-vpcipam20230228@2.0.5?classifier=sources

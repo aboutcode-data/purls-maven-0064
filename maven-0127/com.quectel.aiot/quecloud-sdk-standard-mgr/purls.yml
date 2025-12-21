@@ -4,3 +4,4 @@
 - pkg:maven/com.quectel.aiot/quecloud-sdk-standard-mgr@2.0.0.RELEASE?classifier=sources
 - pkg:maven/com.quectel.aiot/quecloud-sdk-standard-mgr@2.1.0.RELEASE
 - pkg:maven/com.quectel.aiot/quecloud-sdk-standard-mgr@2.1.0.RELEASE?classifier=sources
+- pkg:maven/com.quectel.aiot/quecloud-sdk-standard-mgr@2.1.1.RELEASE?classifier=sources

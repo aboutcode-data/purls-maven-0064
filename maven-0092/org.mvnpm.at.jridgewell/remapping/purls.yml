@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.jridgewell/remapping@2.3.4
+- pkg:maven/org.mvnpm.at.jridgewell/remapping@2.3.4?classifier=sources

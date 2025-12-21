@@ -37,3 +37,6 @@
 - pkg:maven/org.apache.opendal/opendal@0.47.9
 - pkg:maven/org.apache.opendal/opendal@0.47.9?classifier=source-release&type=zip
 - pkg:maven/org.apache.opendal/opendal@0.47.9?classifier=sources
+- pkg:maven/org.apache.opendal/opendal@0.48.0
+- pkg:maven/org.apache.opendal/opendal@0.48.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.opendal/opendal@0.48.0?classifier=sources

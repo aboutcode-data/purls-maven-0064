@@ -5,3 +5,6 @@
 - pkg:maven/com.alby.widget/alby-widget@0.3.0?classifier=sources
 - pkg:maven/com.alby.widget/alby-widget@0.4.0?classifier=sources
 - pkg:maven/com.alby.widget/alby-widget@0.5.1?classifier=sources
+- pkg:maven/com.alby.widget/alby-widget@0.6.1?classifier=sources
+- pkg:maven/com.alby.widget/alby-widget@0.6.2?classifier=sources
+- pkg:maven/com.alby.widget/alby-widget@0.6.3?classifier=sources

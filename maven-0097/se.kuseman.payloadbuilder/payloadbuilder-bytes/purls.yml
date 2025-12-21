@@ -30,5 +30,6 @@
 - pkg:maven/se.kuseman.payloadbuilder/payloadbuilder-bytes@1.9.3?classifier=sources
 - pkg:maven/se.kuseman.payloadbuilder/payloadbuilder-bytes@1.9.4
 - pkg:maven/se.kuseman.payloadbuilder/payloadbuilder-bytes@1.9.4?classifier=sources
+- pkg:maven/se.kuseman.payloadbuilder/payloadbuilder-bytes@1.9.5?classifier=sources
 - pkg:maven/se.kuseman.payloadbuilder/payloadbuilder-bytes@v1.0.0-RC1
 - pkg:maven/se.kuseman.payloadbuilder/payloadbuilder-bytes@v1.0.0-RC1?classifier=sources

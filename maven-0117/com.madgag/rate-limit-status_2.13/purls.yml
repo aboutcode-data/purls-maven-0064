@@ -6,3 +6,7 @@
 - pkg:maven/com.madgag/rate-limit-status_2.13@0.7?classifier=sources
 - pkg:maven/com.madgag/rate-limit-status_2.13@0.8.0
 - pkg:maven/com.madgag/rate-limit-status_2.13@0.8.0?classifier=sources
+- pkg:maven/com.madgag/rate-limit-status_2.13@1.0.0
+- pkg:maven/com.madgag/rate-limit-status_2.13@1.0.0?classifier=sources
+- pkg:maven/com.madgag/rate-limit-status_2.13@1.0.1
+- pkg:maven/com.madgag/rate-limit-status_2.13@1.0.1?classifier=sources

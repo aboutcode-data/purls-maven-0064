@@ -64,6 +64,8 @@
 - pkg:maven/dev.soundness/anticipation-time@0.39.0?classifier=sources
 - pkg:maven/dev.soundness/anticipation-time@0.4.0
 - pkg:maven/dev.soundness/anticipation-time@0.4.0?classifier=sources
+- pkg:maven/dev.soundness/anticipation-time@0.40.0
+- pkg:maven/dev.soundness/anticipation-time@0.40.0?classifier=sources
 - pkg:maven/dev.soundness/anticipation-time@0.5.0
 - pkg:maven/dev.soundness/anticipation-time@0.5.0?classifier=sources
 - pkg:maven/dev.soundness/anticipation-time@0.6.0

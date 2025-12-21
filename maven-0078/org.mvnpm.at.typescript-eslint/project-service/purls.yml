@@ -14,3 +14,9 @@
 - pkg:maven/org.mvnpm.at.typescript-eslint/project-service@8.36.0?classifier=sources
 - pkg:maven/org.mvnpm.at.typescript-eslint/project-service@8.37.0
 - pkg:maven/org.mvnpm.at.typescript-eslint/project-service@8.37.0?classifier=sources
+- pkg:maven/org.mvnpm.at.typescript-eslint/project-service@8.38.0
+- pkg:maven/org.mvnpm.at.typescript-eslint/project-service@8.38.0?classifier=sources
+- pkg:maven/org.mvnpm.at.typescript-eslint/project-service@8.39.0
+- pkg:maven/org.mvnpm.at.typescript-eslint/project-service@8.39.0?classifier=sources
+- pkg:maven/org.mvnpm.at.typescript-eslint/project-service@8.39.1
+- pkg:maven/org.mvnpm.at.typescript-eslint/project-service@8.39.1?classifier=sources

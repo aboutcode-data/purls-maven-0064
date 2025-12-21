@@ -1,1 +1,2 @@
 - pkg:maven/in.payu/payu-sdk@7.10.0?classifier=sources
+- pkg:maven/in.payu/payu-sdk@7.10.1?classifier=sources

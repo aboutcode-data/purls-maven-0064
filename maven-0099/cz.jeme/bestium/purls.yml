@@ -1,2 +1,6 @@
 - pkg:maven/cz.jeme/bestium@1.0.0?classifier=sources
 - pkg:maven/cz.jeme/bestium@1.1.0?classifier=sources
+- pkg:maven/cz.jeme/bestium@2.0.0?classifier=sources
+- pkg:maven/cz.jeme/bestium@3.0.0?classifier=sources
+- pkg:maven/cz.jeme/bestium@3.0.1?classifier=sources
+- pkg:maven/cz.jeme/bestium@3.1.0?classifier=sources

@@ -68,6 +68,8 @@
 - pkg:maven/com.pyrus/servicedesk@1.5.7?classifier=sources
 - pkg:maven/com.pyrus/servicedesk@1.5.8?classifier=sources
 - pkg:maven/com.pyrus/servicedesk@1.5.9?classifier=sources
+- pkg:maven/com.pyrus/servicedesk@1.6.01?classifier=sources
+- pkg:maven/com.pyrus/servicedesk@1.7.01?classifier=sources
 - pkg:maven/com.pyrus/servicedesk@debug-1.5.01?classifier=sources
 - pkg:maven/com.pyrus/servicedesk@debug-1.5.02?classifier=sources
 - pkg:maven/com.pyrus/servicedesk@debug-1.5.1?classifier=sources

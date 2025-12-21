@@ -1,0 +1,2 @@
+- pkg:maven/io.github.edadma/cross_platform_3@0.0.14
+- pkg:maven/io.github.edadma/cross_platform_3@0.0.14?classifier=sources

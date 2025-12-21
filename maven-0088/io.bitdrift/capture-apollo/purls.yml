@@ -1,0 +1,2 @@
+- pkg:maven/io.bitdrift/capture-apollo@0.18.0?classifier=sources
+- pkg:maven/io.bitdrift/capture-apollo@0.18.1?classifier=sources

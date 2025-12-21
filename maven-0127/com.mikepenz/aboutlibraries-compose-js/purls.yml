@@ -52,3 +52,4 @@
 - pkg:maven/com.mikepenz/aboutlibraries-compose-js@12.2.3?classifier=sources
 - pkg:maven/com.mikepenz/aboutlibraries-compose-js@12.2.4?classifier=sources
 - pkg:maven/com.mikepenz/aboutlibraries-compose-js@13.0.0-a01?classifier=sources
+- pkg:maven/com.mikepenz/aboutlibraries-compose-js@13.0.0-a02?classifier=sources

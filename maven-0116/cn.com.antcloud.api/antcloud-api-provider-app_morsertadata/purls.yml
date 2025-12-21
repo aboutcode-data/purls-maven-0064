@@ -8,3 +8,5 @@
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-app_morsertadata@3.0.3?classifier=sources
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-app_morsertadata@3.0.4
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-app_morsertadata@3.0.4?classifier=sources
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-app_morsertadata@5.0.0?classifier=sources
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-app_morsertadata@6.0.0?classifier=sources

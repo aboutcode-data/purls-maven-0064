@@ -32,6 +32,10 @@
 - pkg:maven/org.neo4j/neo4j-index@2025.06.1?classifier=sources
 - pkg:maven/org.neo4j/neo4j-index@2025.06.2
 - pkg:maven/org.neo4j/neo4j-index@2025.06.2?classifier=sources
+- pkg:maven/org.neo4j/neo4j-index@2025.07.0
+- pkg:maven/org.neo4j/neo4j-index@2025.07.0?classifier=sources
+- pkg:maven/org.neo4j/neo4j-index@2025.07.1
+- pkg:maven/org.neo4j/neo4j-index@2025.07.1?classifier=sources
 - pkg:maven/org.neo4j/neo4j-index@3.2.0
 - pkg:maven/org.neo4j/neo4j-index@3.2.0-alpha03
 - pkg:maven/org.neo4j/neo4j-index@3.2.0-alpha03?classifier=sources
@@ -565,6 +569,8 @@
 - pkg:maven/org.neo4j/neo4j-index@5.26.0
 - pkg:maven/org.neo4j/neo4j-index@5.26.0?classifier=sources
 - pkg:maven/org.neo4j/neo4j-index@5.26.1
+- pkg:maven/org.neo4j/neo4j-index@5.26.10
+- pkg:maven/org.neo4j/neo4j-index@5.26.10?classifier=sources
 - pkg:maven/org.neo4j/neo4j-index@5.26.1?classifier=sources
 - pkg:maven/org.neo4j/neo4j-index@5.26.2
 - pkg:maven/org.neo4j/neo4j-index@5.26.2?classifier=sources

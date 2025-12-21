@@ -24,3 +24,5 @@
 - pkg:maven/org.mvnpm.at.babel/compat-data@7.27.2?classifier=sources
 - pkg:maven/org.mvnpm.at.babel/compat-data@7.27.7
 - pkg:maven/org.mvnpm.at.babel/compat-data@7.27.7?classifier=sources
+- pkg:maven/org.mvnpm.at.babel/compat-data@7.28.0
+- pkg:maven/org.mvnpm.at.babel/compat-data@7.28.0?classifier=sources

@@ -296,3 +296,6 @@
 - pkg:maven/org.infinispan.protostream/protostream@6.0.0.Dev07
 - pkg:maven/org.infinispan.protostream/protostream@6.0.0.Dev07?classifier=sources
 - pkg:maven/org.infinispan.protostream/protostream@6.0.0.Dev08?classifier=sources
+- pkg:maven/org.infinispan.protostream/protostream@6.0.0.Dev09?classifier=sources
+- pkg:maven/org.infinispan.protostream/protostream@6.0.0.Dev10?classifier=sources
+- pkg:maven/org.infinispan.protostream/protostream@6.0.0.Dev11?classifier=sources

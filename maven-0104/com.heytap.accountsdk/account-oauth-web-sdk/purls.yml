@@ -3,3 +3,4 @@
 - pkg:maven/com.heytap.accountsdk/account-oauth-web-sdk@1.0.4?type=aar
 - pkg:maven/com.heytap.accountsdk/account-oauth-web-sdk@1.1.1?type=aar
 - pkg:maven/com.heytap.accountsdk/account-oauth-web-sdk@1.1.2?type=aar
+- pkg:maven/com.heytap.accountsdk/account-oauth-web-sdk@1.1.3?type=aar

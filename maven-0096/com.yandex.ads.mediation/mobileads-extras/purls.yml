@@ -4,7 +4,10 @@
 - pkg:maven/com.yandex.ads.mediation/mobileads-extras@7.12.3.0?classifier=sources
 - pkg:maven/com.yandex.ads.mediation/mobileads-extras@7.13.0.0?classifier=sources
 - pkg:maven/com.yandex.ads.mediation/mobileads-extras@7.14.0.0?classifier=sources
+- pkg:maven/com.yandex.ads.mediation/mobileads-extras@7.14.1-unity.0?classifier=sources
 - pkg:maven/com.yandex.ads.mediation/mobileads-extras@7.14.1.0?classifier=sources
+- pkg:maven/com.yandex.ads.mediation/mobileads-extras@7.15.0-unity.0?classifier=sources
+- pkg:maven/com.yandex.ads.mediation/mobileads-extras@7.15.0.0?classifier=sources
 - pkg:maven/com.yandex.ads.mediation/mobileads-extras@7.3.0.0?classifier=sources
 - pkg:maven/com.yandex.ads.mediation/mobileads-extras@7.4.0.0?classifier=sources
 - pkg:maven/com.yandex.ads.mediation/mobileads-extras@7.5.0.0?classifier=sources

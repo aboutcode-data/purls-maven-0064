@@ -19,4 +19,5 @@
 - pkg:maven/de.firemage.autograder/autograder-cmd@0.6.4?classifier=sources
 - pkg:maven/de.firemage.autograder/autograder-cmd@0.6.6?classifier=sources
 - pkg:maven/de.firemage.autograder/autograder-cmd@0.6.8?classifier=sources
+- pkg:maven/de.firemage.autograder/autograder-cmd@6.8.10?classifier=sources
 - pkg:maven/de.firemage.autograder/autograder-cmd@6.8.9?classifier=sources

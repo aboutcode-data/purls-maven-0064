@@ -1,0 +1,4 @@
+- pkg:maven/io.github.mikybars/openapi-generator-mill-plugin_mill1_3@0.1.0
+- pkg:maven/io.github.mikybars/openapi-generator-mill-plugin_mill1_3@0.1.0?classifier=sources
+- pkg:maven/io.github.mikybars/openapi-generator-mill-plugin_mill1_3@7.14.0
+- pkg:maven/io.github.mikybars/openapi-generator-mill-plugin_mill1_3@7.14.0?classifier=sources

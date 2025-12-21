@@ -6,3 +6,9 @@
 - pkg:maven/org.mvnpm.at.carbon/icon-helpers@10.59.0?classifier=sources
 - pkg:maven/org.mvnpm.at.carbon/icon-helpers@10.61.0
 - pkg:maven/org.mvnpm.at.carbon/icon-helpers@10.61.0?classifier=sources
+- pkg:maven/org.mvnpm.at.carbon/icon-helpers@10.62.0
+- pkg:maven/org.mvnpm.at.carbon/icon-helpers@10.62.0?classifier=sources
+- pkg:maven/org.mvnpm.at.carbon/icon-helpers@10.63.0
+- pkg:maven/org.mvnpm.at.carbon/icon-helpers@10.63.0?classifier=sources
+- pkg:maven/org.mvnpm.at.carbon/icon-helpers@10.64.0
+- pkg:maven/org.mvnpm.at.carbon/icon-helpers@10.64.0?classifier=sources

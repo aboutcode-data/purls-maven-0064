@@ -822,3 +822,5 @@
 - pkg:maven/com.google.apis/google-api-services-tpu@v2alpha1-rev20250423-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-tpu@v2alpha1-rev20250616-2.0.0
 - pkg:maven/com.google.apis/google-api-services-tpu@v2alpha1-rev20250616-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-tpu@v2alpha1-rev20250715-2.0.0
+- pkg:maven/com.google.apis/google-api-services-tpu@v2alpha1-rev20250715-2.0.0?classifier=sources

@@ -4,3 +4,7 @@
 - pkg:maven/org.mvnpm.at.supabase/realtime-js@2.11.13?classifier=sources
 - pkg:maven/org.mvnpm.at.supabase/realtime-js@2.11.15
 - pkg:maven/org.mvnpm.at.supabase/realtime-js@2.11.15?classifier=sources
+- pkg:maven/org.mvnpm.at.supabase/realtime-js@2.15.0
+- pkg:maven/org.mvnpm.at.supabase/realtime-js@2.15.0?classifier=sources
+- pkg:maven/org.mvnpm.at.supabase/realtime-js@2.15.1
+- pkg:maven/org.mvnpm.at.supabase/realtime-js@2.15.1?classifier=sources

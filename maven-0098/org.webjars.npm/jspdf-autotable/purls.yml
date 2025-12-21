@@ -10,3 +10,4 @@
 - pkg:maven/org.webjars.npm/jspdf-autotable@3.2.11?classifier=sources
 - pkg:maven/org.webjars.npm/jspdf-autotable@3.5.20
 - pkg:maven/org.webjars.npm/jspdf-autotable@3.5.20?classifier=sources
+- pkg:maven/org.webjars.npm/jspdf-autotable@3.8.4

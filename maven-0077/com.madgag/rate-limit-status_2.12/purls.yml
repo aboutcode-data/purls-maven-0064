@@ -14,3 +14,7 @@
 - pkg:maven/com.madgag/rate-limit-status_2.12@0.7?classifier=sources
 - pkg:maven/com.madgag/rate-limit-status_2.12@0.8.0
 - pkg:maven/com.madgag/rate-limit-status_2.12@0.8.0?classifier=sources
+- pkg:maven/com.madgag/rate-limit-status_2.12@1.0.0
+- pkg:maven/com.madgag/rate-limit-status_2.12@1.0.0?classifier=sources
+- pkg:maven/com.madgag/rate-limit-status_2.12@1.0.1
+- pkg:maven/com.madgag/rate-limit-status_2.12@1.0.1?classifier=sources

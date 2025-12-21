@@ -1,0 +1,2 @@
+- pkg:maven/io.github.kevenzxd/oxsdk-amazon@9.10.3.4?classifier=sources
+- pkg:maven/io.github.kevenzxd/oxsdk-amazon@9.10.3.7?classifier=sources

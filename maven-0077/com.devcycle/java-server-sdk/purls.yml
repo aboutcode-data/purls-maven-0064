@@ -49,3 +49,8 @@
 - pkg:maven/com.devcycle/java-server-sdk@2.6.0?classifier=sources
 - pkg:maven/com.devcycle/java-server-sdk@2.6.1?classifier=sources
 - pkg:maven/com.devcycle/java-server-sdk@2.6.2?classifier=sources
+- pkg:maven/com.devcycle/java-server-sdk@2.6.3?classifier=sources
+- pkg:maven/com.devcycle/java-server-sdk@2.7.0?classifier=sources
+- pkg:maven/com.devcycle/java-server-sdk@2.8.0?classifier=sources
+- pkg:maven/com.devcycle/java-server-sdk@2.8.1?classifier=sources
+- pkg:maven/com.devcycle/java-server-sdk@2.9.0?classifier=sources

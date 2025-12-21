@@ -2,3 +2,4 @@
 - pkg:maven/io.avaje/avaje-simple-logger@0.2?classifier=sources
 - pkg:maven/io.avaje/avaje-simple-logger@0.3?classifier=sources
 - pkg:maven/io.avaje/avaje-simple-logger@0.4?classifier=sources
+- pkg:maven/io.avaje/avaje-simple-logger@0.5?classifier=sources

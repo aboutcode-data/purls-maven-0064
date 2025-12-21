@@ -16,6 +16,10 @@
 - pkg:maven/org.neo4j/cypher-shell-integration-test@2025.06.1?classifier=sources
 - pkg:maven/org.neo4j/cypher-shell-integration-test@2025.06.2
 - pkg:maven/org.neo4j/cypher-shell-integration-test@2025.06.2?classifier=sources
+- pkg:maven/org.neo4j/cypher-shell-integration-test@2025.07.0
+- pkg:maven/org.neo4j/cypher-shell-integration-test@2025.07.0?classifier=sources
+- pkg:maven/org.neo4j/cypher-shell-integration-test@2025.07.1
+- pkg:maven/org.neo4j/cypher-shell-integration-test@2025.07.1?classifier=sources
 - pkg:maven/org.neo4j/cypher-shell-integration-test@3.5.26
 - pkg:maven/org.neo4j/cypher-shell-integration-test@3.5.26?classifier=sources
 - pkg:maven/org.neo4j/cypher-shell-integration-test@4.0.11
@@ -261,6 +265,8 @@
 - pkg:maven/org.neo4j/cypher-shell-integration-test@5.26.0
 - pkg:maven/org.neo4j/cypher-shell-integration-test@5.26.0?classifier=sources
 - pkg:maven/org.neo4j/cypher-shell-integration-test@5.26.1
+- pkg:maven/org.neo4j/cypher-shell-integration-test@5.26.10
+- pkg:maven/org.neo4j/cypher-shell-integration-test@5.26.10?classifier=sources
 - pkg:maven/org.neo4j/cypher-shell-integration-test@5.26.1?classifier=sources
 - pkg:maven/org.neo4j/cypher-shell-integration-test@5.26.2
 - pkg:maven/org.neo4j/cypher-shell-integration-test@5.26.2?classifier=sources

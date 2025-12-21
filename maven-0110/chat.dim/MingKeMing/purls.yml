@@ -50,3 +50,4 @@
 - pkg:maven/chat.dim/MingKeMing@1.1.0?classifier=sources
 - pkg:maven/chat.dim/MingKeMing@1.2.0
 - pkg:maven/chat.dim/MingKeMing@1.2.0?classifier=sources
+- pkg:maven/chat.dim/MingKeMing@2.0.0?classifier=sources

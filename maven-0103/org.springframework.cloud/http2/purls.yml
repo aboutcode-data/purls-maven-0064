@@ -1,2 +1,3 @@
 - pkg:maven/org.springframework.cloud/http2@4.1.9?classifier=sources
 - pkg:maven/org.springframework.cloud/http2@4.2.4?classifier=sources
+- pkg:maven/org.springframework.cloud/http2@5.0.0-M1?classifier=sources

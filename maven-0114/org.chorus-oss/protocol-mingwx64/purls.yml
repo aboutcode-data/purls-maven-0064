@@ -2,6 +2,10 @@
 - pkg:maven/org.chorus-oss/protocol-mingwx64@v800.10?classifier=sources
 - pkg:maven/org.chorus-oss/protocol-mingwx64@v800.11?classifier=sources
 - pkg:maven/org.chorus-oss/protocol-mingwx64@v800.12?classifier=sources
+- pkg:maven/org.chorus-oss/protocol-mingwx64@v800.13?classifier=sources
+- pkg:maven/org.chorus-oss/protocol-mingwx64@v800.14?classifier=sources
+- pkg:maven/org.chorus-oss/protocol-mingwx64@v800.15?classifier=sources
+- pkg:maven/org.chorus-oss/protocol-mingwx64@v800.16?classifier=sources
 - pkg:maven/org.chorus-oss/protocol-mingwx64@v800.1?classifier=sources
 - pkg:maven/org.chorus-oss/protocol-mingwx64@v800.2?classifier=sources
 - pkg:maven/org.chorus-oss/protocol-mingwx64@v800.3?classifier=sources
@@ -13,6 +17,10 @@
 - pkg:maven/org.chorus-oss/protocol-mingwx64@v800.9?classifier=sources
 - pkg:maven/org.chorus-oss/protocol-mingwx64@v818.0?classifier=sources
 - pkg:maven/org.chorus-oss/protocol-mingwx64@v818.10?classifier=sources
+- pkg:maven/org.chorus-oss/protocol-mingwx64@v818.11?classifier=sources
+- pkg:maven/org.chorus-oss/protocol-mingwx64@v818.12?classifier=sources
+- pkg:maven/org.chorus-oss/protocol-mingwx64@v818.13?classifier=sources
+- pkg:maven/org.chorus-oss/protocol-mingwx64@v818.14?classifier=sources
 - pkg:maven/org.chorus-oss/protocol-mingwx64@v818.1?classifier=sources
 - pkg:maven/org.chorus-oss/protocol-mingwx64@v818.2?classifier=sources
 - pkg:maven/org.chorus-oss/protocol-mingwx64@v818.3?classifier=sources
@@ -27,3 +35,8 @@
 - pkg:maven/org.chorus-oss/protocol-mingwx64@v819.2?classifier=sources
 - pkg:maven/org.chorus-oss/protocol-mingwx64@v819.3?classifier=sources
 - pkg:maven/org.chorus-oss/protocol-mingwx64@v819.4?classifier=sources
+- pkg:maven/org.chorus-oss/protocol-mingwx64@v819.5?classifier=sources
+- pkg:maven/org.chorus-oss/protocol-mingwx64@v819.6?classifier=sources
+- pkg:maven/org.chorus-oss/protocol-mingwx64@v819.7?classifier=sources
+- pkg:maven/org.chorus-oss/protocol-mingwx64@v819.8?classifier=sources
+- pkg:maven/org.chorus-oss/protocol-mingwx64@v827.0?classifier=sources

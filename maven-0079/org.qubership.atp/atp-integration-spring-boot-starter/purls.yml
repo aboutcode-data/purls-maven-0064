@@ -1,1 +1,2 @@
 - pkg:maven/org.qubership.atp/atp-integration-spring-boot-starter@0.2.38?classifier=sources
+- pkg:maven/org.qubership.atp/atp-integration-spring-boot-starter@0.2.39?classifier=sources

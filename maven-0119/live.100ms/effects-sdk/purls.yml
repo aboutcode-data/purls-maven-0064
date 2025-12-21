@@ -1,1 +1,2 @@
 - pkg:maven/live.100ms/effects-sdk@2.9.0?classifier=sources
+- pkg:maven/live.100ms/effects-sdk@2.9.1?type=aar
