@@ -26,6 +26,7 @@
 - pkg:maven/com.palantir.metricschema/gradle-metric-schema@0.35.0?classifier=sources
 - pkg:maven/com.palantir.metricschema/gradle-metric-schema@0.37.0?classifier=sources
 - pkg:maven/com.palantir.metricschema/gradle-metric-schema@0.38.0?classifier=sources
+- pkg:maven/com.palantir.metricschema/gradle-metric-schema@0.39.0?classifier=sources
 - pkg:maven/com.palantir.metricschema/gradle-metric-schema@0.4.0
 - pkg:maven/com.palantir.metricschema/gradle-metric-schema@0.4.0?classifier=sources
 - pkg:maven/com.palantir.metricschema/gradle-metric-schema@0.4.1

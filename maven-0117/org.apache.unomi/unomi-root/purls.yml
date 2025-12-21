@@ -27,3 +27,4 @@
 - pkg:maven/org.apache.unomi/unomi-root@2.6.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.unomi/unomi-root@2.6.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.unomi/unomi-root@2.7.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.unomi/unomi-root@3.0.0?classifier=source-release&type=zip

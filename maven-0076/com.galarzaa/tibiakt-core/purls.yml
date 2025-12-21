@@ -19,3 +19,4 @@
 - pkg:maven/com.galarzaa/tibiakt-core@0.8.1?classifier=sources
 - pkg:maven/com.galarzaa/tibiakt-core@0.9.0?classifier=sources
 - pkg:maven/com.galarzaa/tibiakt-core@1.0.0?classifier=sources
+- pkg:maven/com.galarzaa/tibiakt-core@2.0.0?classifier=sources

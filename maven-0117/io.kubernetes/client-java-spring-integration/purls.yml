@@ -98,6 +98,10 @@
 - pkg:maven/io.kubernetes/client-java-spring-integration@24.0.0-legacy
 - pkg:maven/io.kubernetes/client-java-spring-integration@24.0.0-legacy?classifier=sources
 - pkg:maven/io.kubernetes/client-java-spring-integration@24.0.0?classifier=sources
+- pkg:maven/io.kubernetes/client-java-spring-integration@25.0.0
+- pkg:maven/io.kubernetes/client-java-spring-integration@25.0.0-legacy
+- pkg:maven/io.kubernetes/client-java-spring-integration@25.0.0-legacy?classifier=sources
+- pkg:maven/io.kubernetes/client-java-spring-integration@25.0.0?classifier=sources
 - pkg:maven/io.kubernetes/client-java-spring-integration@8.0.2
 - pkg:maven/io.kubernetes/client-java-spring-integration@8.0.2?classifier=sources
 - pkg:maven/io.kubernetes/client-java-spring-integration@9.0.0

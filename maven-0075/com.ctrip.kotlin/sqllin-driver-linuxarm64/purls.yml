@@ -9,3 +9,4 @@
 - pkg:maven/com.ctrip.kotlin/sqllin-driver-linuxarm64@1.4.2?classifier=sources
 - pkg:maven/com.ctrip.kotlin/sqllin-driver-linuxarm64@1.4.3?classifier=sources
 - pkg:maven/com.ctrip.kotlin/sqllin-driver-linuxarm64@1.4.4?classifier=sources
+- pkg:maven/com.ctrip.kotlin/sqllin-driver-linuxarm64@2.1.0?classifier=sources

@@ -1,2 +1,3 @@
 - pkg:maven/com.globalmentor/globalmentor-java-model@0.17.0
 - pkg:maven/com.globalmentor/globalmentor-java-model@0.17.0?classifier=sources
+- pkg:maven/com.globalmentor/globalmentor-java-model@0.21.0?classifier=sources

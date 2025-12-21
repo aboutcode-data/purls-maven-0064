@@ -10,3 +10,4 @@
 - pkg:maven/io.imqa/imqa-android-sdk@1.0.25?classifier=sources
 - pkg:maven/io.imqa/imqa-android-sdk@1.0.2?classifier=sources
 - pkg:maven/io.imqa/imqa-android-sdk@1.0.6?classifier=sources
+- pkg:maven/io.imqa/imqa-android-sdk@1.1.0?classifier=sources

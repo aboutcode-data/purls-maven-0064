@@ -7,3 +7,4 @@
 - pkg:maven/com.pubnub/pubnub-kotlin-docs@10.6.0?classifier=sources
 - pkg:maven/com.pubnub/pubnub-kotlin-docs@11.0.0?classifier=sources
 - pkg:maven/com.pubnub/pubnub-kotlin-docs@12.0.0?classifier=sources
+- pkg:maven/com.pubnub/pubnub-kotlin-docs@12.0.1?classifier=sources

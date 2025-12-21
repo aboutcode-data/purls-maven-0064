@@ -1,1 +1,3 @@
 - pkg:maven/com.ksptool/assembly-check-point-calculator@2.2J?classifier=sources
+- pkg:maven/com.ksptool/assembly-check-point-calculator@2.2P?classifier=sources
+- pkg:maven/com.ksptool/assembly-check-point-calculator@2.2S-RC1?classifier=sources

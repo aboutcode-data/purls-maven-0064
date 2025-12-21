@@ -162,6 +162,8 @@
 - pkg:maven/io.spinnaker.front50/front50-web@main-120?classifier=sources
 - pkg:maven/io.spinnaker.front50/front50-web@main-121?classifier=sources
 - pkg:maven/io.spinnaker.front50/front50-web@main-122?classifier=sources
+- pkg:maven/io.spinnaker.front50/front50-web@main-123?classifier=sources
+- pkg:maven/io.spinnaker.front50/front50-web@main-124?classifier=sources
 - pkg:maven/io.spinnaker.front50/front50-web@main-12?classifier=sources
 - pkg:maven/io.spinnaker.front50/front50-web@main-13?classifier=sources
 - pkg:maven/io.spinnaker.front50/front50-web@main-14?classifier=sources

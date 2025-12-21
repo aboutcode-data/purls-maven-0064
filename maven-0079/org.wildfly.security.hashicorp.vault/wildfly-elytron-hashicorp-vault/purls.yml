@@ -2,3 +2,5 @@
 - pkg:maven/org.wildfly.security.hashicorp.vault/wildfly-elytron-hashicorp-vault@0.1.0-Alpha?classifier=sources
 - pkg:maven/org.wildfly.security.hashicorp.vault/wildfly-elytron-hashicorp-vault@0.1.1-Alpha?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.security.hashicorp.vault/wildfly-elytron-hashicorp-vault@0.1.1-Alpha?classifier=sources
+- pkg:maven/org.wildfly.security.hashicorp.vault/wildfly-elytron-hashicorp-vault@1.0.0.Alpha1?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.security.hashicorp.vault/wildfly-elytron-hashicorp-vault@1.0.0.Alpha1?classifier=sources

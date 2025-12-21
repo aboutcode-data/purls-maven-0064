@@ -1,2 +1,3 @@
 - pkg:maven/org.webjars.npm/chainpad-netflux@0.12.9
 - pkg:maven/org.webjars.npm/chainpad-netflux@0.12.9?classifier=sources
+- pkg:maven/org.webjars.npm/chainpad-netflux@1.3.0

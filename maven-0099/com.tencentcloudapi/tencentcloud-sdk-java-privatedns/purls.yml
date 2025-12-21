@@ -27,6 +27,7 @@
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-privatedns@3.1.1319?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-privatedns@3.1.1350?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-privatedns@3.1.1357?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-privatedns@3.1.1368?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-privatedns@3.1.266
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-privatedns@3.1.266?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-privatedns@3.1.267

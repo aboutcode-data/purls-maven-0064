@@ -1,1 +1,2 @@
 - pkg:maven/com.radixdlt/radix-engine-toolkit-kotlin@1.0.3-fcd8536?classifier=sources
+- pkg:maven/com.radixdlt/radix-engine-toolkit-kotlin@2.3.0?classifier=sources

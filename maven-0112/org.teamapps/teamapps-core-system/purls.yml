@@ -28,6 +28,7 @@
 - pkg:maven/org.teamapps/teamapps-core-system@0.23?classifier=sources
 - pkg:maven/org.teamapps/teamapps-core-system@0.24
 - pkg:maven/org.teamapps/teamapps-core-system@0.24?classifier=sources
+- pkg:maven/org.teamapps/teamapps-core-system@0.25?classifier=sources
 - pkg:maven/org.teamapps/teamapps-core-system@0.3
 - pkg:maven/org.teamapps/teamapps-core-system@0.3?classifier=sources
 - pkg:maven/org.teamapps/teamapps-core-system@0.4

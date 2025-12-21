@@ -46,6 +46,7 @@
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.jaxrs20@1.1.105?classifier=sources
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.jaxrs20@1.1.106?classifier=sources
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.jaxrs20@1.1.107?classifier=sources
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.jaxrs20@1.1.108?classifier=sources
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.jaxrs20@1.1.51
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.jaxrs20@1.1.52
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.jaxrs20@1.1.53

@@ -24,3 +24,6 @@
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-core-test-utils@10.34.0.83431?classifier=sources
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-core-test-utils@10.34.1.83453?classifier=sources
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-core-test-utils@10.35.0.83547?classifier=sources
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-core-test-utils@10.36.0.83732?classifier=sources
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-core-test-utils@10.37.0.83877?classifier=sources
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-core-test-utils@10.37.1.83894?classifier=sources

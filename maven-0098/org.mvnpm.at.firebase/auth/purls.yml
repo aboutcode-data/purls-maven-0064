@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.firebase/auth@1.11.1
+- pkg:maven/org.mvnpm.at.firebase/auth@1.11.1?classifier=sources

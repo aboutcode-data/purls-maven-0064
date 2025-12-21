@@ -7,3 +7,7 @@
 - pkg:maven/org.mvnpm.at.inquirer/figures@1.0.14?classifier=sources
 - pkg:maven/org.mvnpm.at.inquirer/figures@1.0.15
 - pkg:maven/org.mvnpm.at.inquirer/figures@1.0.15?classifier=sources
+- pkg:maven/org.mvnpm.at.inquirer/figures@2.0.0
+- pkg:maven/org.mvnpm.at.inquirer/figures@2.0.0?classifier=sources
+- pkg:maven/org.mvnpm.at.inquirer/figures@2.0.1
+- pkg:maven/org.mvnpm.at.inquirer/figures@2.0.1?classifier=sources

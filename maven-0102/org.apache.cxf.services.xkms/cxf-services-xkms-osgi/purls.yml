@@ -220,3 +220,5 @@
 - pkg:maven/org.apache.cxf.services.xkms/cxf-services-xkms-osgi@3.6.7?classifier=sources
 - pkg:maven/org.apache.cxf.services.xkms/cxf-services-xkms-osgi@3.6.8
 - pkg:maven/org.apache.cxf.services.xkms/cxf-services-xkms-osgi@3.6.8?classifier=sources
+- pkg:maven/org.apache.cxf.services.xkms/cxf-services-xkms-osgi@3.6.9
+- pkg:maven/org.apache.cxf.services.xkms/cxf-services-xkms-osgi@3.6.9?classifier=sources

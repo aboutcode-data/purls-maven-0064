@@ -196,6 +196,8 @@
 - pkg:maven/io.spinnaker.orca/orca-webhook@main-120?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-webhook@main-121?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-webhook@main-122?classifier=sources
+- pkg:maven/io.spinnaker.orca/orca-webhook@main-123?classifier=sources
+- pkg:maven/io.spinnaker.orca/orca-webhook@main-124?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-webhook@main-12?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-webhook@main-13?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-webhook@main-14?classifier=sources

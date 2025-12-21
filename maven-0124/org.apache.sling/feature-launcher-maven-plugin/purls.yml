@@ -16,3 +16,6 @@
 - pkg:maven/org.apache.sling/feature-launcher-maven-plugin@0.1.8
 - pkg:maven/org.apache.sling/feature-launcher-maven-plugin@0.1.8?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/feature-launcher-maven-plugin@0.1.8?classifier=sources
+- pkg:maven/org.apache.sling/feature-launcher-maven-plugin@1.0.0
+- pkg:maven/org.apache.sling/feature-launcher-maven-plugin@1.0.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/feature-launcher-maven-plugin@1.0.0?classifier=sources

@@ -3,3 +3,4 @@
 - pkg:maven/io.github.dornol/idkit@0.2.0?classifier=sources
 - pkg:maven/io.github.dornol/idkit@1.0.0?classifier=sources
 - pkg:maven/io.github.dornol/idkit@1.1.0?classifier=sources
+- pkg:maven/io.github.dornol/idkit@1.2.0?classifier=sources

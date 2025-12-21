@@ -162,3 +162,4 @@
 - pkg:maven/berlin.yuna/command-line-util@2025.09.2560417?classifier=sources
 - pkg:maven/berlin.yuna/command-line-util@2025.09.2650419?classifier=sources
 - pkg:maven/berlin.yuna/command-line-util@2025.10.2850418?classifier=sources
+- pkg:maven/berlin.yuna/command-line-util@2025.11.3050418?classifier=sources

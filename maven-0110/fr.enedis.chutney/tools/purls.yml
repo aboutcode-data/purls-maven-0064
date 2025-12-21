@@ -6,3 +6,4 @@
 - pkg:maven/fr.enedis.chutney/tools@3.2.2?classifier=sources
 - pkg:maven/fr.enedis.chutney/tools@3.3.0?classifier=sources
 - pkg:maven/fr.enedis.chutney/tools@3.4.0?classifier=sources
+- pkg:maven/fr.enedis.chutney/tools@4.0.0?classifier=sources

@@ -26,3 +26,4 @@
 - pkg:maven/org.webjars.npm/daisyui@5.3.10
 - pkg:maven/org.webjars.npm/daisyui@5.3.7
 - pkg:maven/org.webjars.npm/daisyui@5.3.9
+- pkg:maven/org.webjars.npm/daisyui@5.5.5

@@ -6,3 +6,4 @@
 - pkg:maven/com.microblink/blinkid-core@7.4.0?type=aar
 - pkg:maven/com.microblink/blinkid-core@7.5.0?type=aar
 - pkg:maven/com.microblink/blinkid-core@7.6.0?type=aar
+- pkg:maven/com.microblink/blinkid-core@7.6.1?type=aar

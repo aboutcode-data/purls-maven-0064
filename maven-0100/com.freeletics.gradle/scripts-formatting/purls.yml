@@ -37,6 +37,14 @@
 - pkg:maven/com.freeletics.gradle/scripts-formatting@0.30.2?classifier=sources
 - pkg:maven/com.freeletics.gradle/scripts-formatting@0.31.0?classifier=sources
 - pkg:maven/com.freeletics.gradle/scripts-formatting@0.32.0?classifier=sources
+- pkg:maven/com.freeletics.gradle/scripts-formatting@0.33.0?classifier=sources
+- pkg:maven/com.freeletics.gradle/scripts-formatting@0.33.1?classifier=sources
+- pkg:maven/com.freeletics.gradle/scripts-formatting@0.34.0?classifier=sources
+- pkg:maven/com.freeletics.gradle/scripts-formatting@0.34.1?classifier=sources
+- pkg:maven/com.freeletics.gradle/scripts-formatting@0.34.2?classifier=sources
+- pkg:maven/com.freeletics.gradle/scripts-formatting@0.35.0?classifier=sources
+- pkg:maven/com.freeletics.gradle/scripts-formatting@0.36.0?classifier=sources
+- pkg:maven/com.freeletics.gradle/scripts-formatting@0.36.1?classifier=sources
 - pkg:maven/com.freeletics.gradle/scripts-formatting@0.7.0?classifier=sources
 - pkg:maven/com.freeletics.gradle/scripts-formatting@0.7.2?classifier=sources
 - pkg:maven/com.freeletics.gradle/scripts-formatting@0.8.0?classifier=sources

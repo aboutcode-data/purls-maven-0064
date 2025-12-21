@@ -11,3 +11,4 @@
 - pkg:maven/me.hsgamer/topper-spigot-value-statistic@4.0.0?classifier=sources
 - pkg:maven/me.hsgamer/topper-spigot-value-statistic@4.1.0?classifier=sources
 - pkg:maven/me.hsgamer/topper-spigot-value-statistic@4.2.0?classifier=sources
+- pkg:maven/me.hsgamer/topper-spigot-value-statistic@4.3.0?classifier=sources

@@ -130,6 +130,7 @@
 - pkg:maven/com.couchbase.client/scala-client_2.12@1.8.1?classifier=sources
 - pkg:maven/com.couchbase.client/scala-client_2.12@1.8.2?classifier=sources
 - pkg:maven/com.couchbase.client/scala-client_2.12@1.8.3?classifier=sources
+- pkg:maven/com.couchbase.client/scala-client_2.12@3.10.0?classifier=sources
 - pkg:maven/com.couchbase.client/scala-client_2.12@3.9.0?classifier=sources
 - pkg:maven/com.couchbase.client/scala-client_2.12@3.9.1?classifier=sources
 - pkg:maven/com.couchbase.client/scala-client_2.12@3.9.2?classifier=sources

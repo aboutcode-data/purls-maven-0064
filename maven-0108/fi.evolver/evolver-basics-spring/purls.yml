@@ -88,3 +88,6 @@
 - pkg:maven/fi.evolver/evolver-basics-spring@6.9.2?classifier=sources
 - pkg:maven/fi.evolver/evolver-basics-spring@7.0.0?classifier=sources
 - pkg:maven/fi.evolver/evolver-basics-spring@7.1.0?classifier=sources
+- pkg:maven/fi.evolver/evolver-basics-spring@7.2.0?classifier=sources
+- pkg:maven/fi.evolver/evolver-basics-spring@7.2.1?classifier=sources
+- pkg:maven/fi.evolver/evolver-basics-spring@7.2.2?classifier=sources

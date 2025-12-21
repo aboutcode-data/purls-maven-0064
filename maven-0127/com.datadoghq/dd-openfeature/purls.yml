@@ -1,0 +1,2 @@
+- pkg:maven/com.datadoghq/dd-openfeature@1.56.0?classifier=sources
+- pkg:maven/com.datadoghq/dd-openfeature@1.56.1?classifier=sources

@@ -6,3 +6,4 @@
 - pkg:maven/com.io7m.looseleaf/com.io7m.looseleaf.grafana@2.0.0?classifier=sources
 - pkg:maven/com.io7m.looseleaf/com.io7m.looseleaf.grafana@3.0.0
 - pkg:maven/com.io7m.looseleaf/com.io7m.looseleaf.grafana@3.0.0?classifier=sources
+- pkg:maven/com.io7m.looseleaf/com.io7m.looseleaf.grafana@4.0.0?classifier=sources

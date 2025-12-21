@@ -1,1 +1,2 @@
 - pkg:maven/cl.kanopus.util/klib-deploy-sql@3.0.0?classifier=sources
+- pkg:maven/cl.kanopus.util/klib-deploy-sql@3.58.0?classifier=sources

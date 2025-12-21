@@ -27,6 +27,7 @@
 - pkg:maven/no.entur/netex-protobuf@1.118.0?classifier=sources
 - pkg:maven/no.entur/netex-protobuf@1.119.0?classifier=sources
 - pkg:maven/no.entur/netex-protobuf@1.12
+- pkg:maven/no.entur/netex-protobuf@1.120.0?classifier=sources
 - pkg:maven/no.entur/netex-protobuf@1.13
 - pkg:maven/no.entur/netex-protobuf@1.14
 - pkg:maven/no.entur/netex-protobuf@1.15

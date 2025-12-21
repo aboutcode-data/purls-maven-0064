@@ -26,6 +26,8 @@
 - pkg:maven/com.github.backtrace-labs.backtrace-android/backtrace-library@3.10.1?classifier=sources
 - pkg:maven/com.github.backtrace-labs.backtrace-android/backtrace-library@3.10.2?classifier=sources
 - pkg:maven/com.github.backtrace-labs.backtrace-android/backtrace-library@3.10.3?classifier=sources
+- pkg:maven/com.github.backtrace-labs.backtrace-android/backtrace-library@3.10.4?classifier=sources
+- pkg:maven/com.github.backtrace-labs.backtrace-android/backtrace-library@3.10.5?classifier=sources
 - pkg:maven/com.github.backtrace-labs.backtrace-android/backtrace-library@3.2.0?classifier=sources
 - pkg:maven/com.github.backtrace-labs.backtrace-android/backtrace-library@3.2.0?type=aar
 - pkg:maven/com.github.backtrace-labs.backtrace-android/backtrace-library@3.2.1?classifier=sources

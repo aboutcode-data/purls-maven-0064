@@ -1,3 +1,4 @@
+- pkg:maven/dev.ktml/ktml-runtime-wasm-js@0.1.10?classifier=sources
 - pkg:maven/dev.ktml/ktml-runtime-wasm-js@0.1.1?classifier=sources
 - pkg:maven/dev.ktml/ktml-runtime-wasm-js@0.1.8?classifier=sources
 - pkg:maven/dev.ktml/ktml-runtime-wasm-js@0.1.9?classifier=sources

@@ -1,1 +1,4 @@
 - pkg:maven/io.github.darvil82/terminal-text-formatter@2.2.0?classifier=sources
+- pkg:maven/io.github.darvil82/terminal-text-formatter@2.3.0?classifier=sources
+- pkg:maven/io.github.darvil82/terminal-text-formatter@2.3.0b?classifier=sources
+- pkg:maven/io.github.darvil82/terminal-text-formatter@2.3.0c?classifier=sources

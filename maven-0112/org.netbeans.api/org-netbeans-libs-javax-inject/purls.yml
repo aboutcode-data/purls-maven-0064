@@ -2,3 +2,4 @@
 - pkg:maven/org.netbeans.api/org-netbeans-libs-javax-inject@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-javax-inject@RELEASE260?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-javax-inject@RELEASE270?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-libs-javax-inject@RELEASE280?classifier=sources

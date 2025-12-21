@@ -7,3 +7,6 @@
 - pkg:maven/com.cta4j/cta4j-java-sdk@2.0.1?classifier=sources
 - pkg:maven/com.cta4j/cta4j-java-sdk@2.0.2?classifier=sources
 - pkg:maven/com.cta4j/cta4j-java-sdk@3.0.0?classifier=sources
+- pkg:maven/com.cta4j/cta4j-java-sdk@3.0.1?classifier=sources
+- pkg:maven/com.cta4j/cta4j-java-sdk@3.0.2?classifier=sources
+- pkg:maven/com.cta4j/cta4j-java-sdk@3.0.3?classifier=sources

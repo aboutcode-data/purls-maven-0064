@@ -199,4 +199,5 @@
 - pkg:maven/com.pulumi/tls@5.2.0?classifier=sources
 - pkg:maven/com.pulumi/tls@5.2.1?classifier=sources
 - pkg:maven/com.pulumi/tls@5.2.2?classifier=sources
+- pkg:maven/com.pulumi/tls@5.2.3?classifier=sources
 - pkg:maven/com.pulumi/tls@v4.7.0-alpha.1657285216%2B364315ad?classifier=sources

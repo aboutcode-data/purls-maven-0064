@@ -6,3 +6,5 @@
 - pkg:maven/dk.kvalitetsit/spring-prometheus-app-info@2.0.2?classifier=sources
 - pkg:maven/dk.kvalitetsit/spring-prometheus-app-info@2.0.3
 - pkg:maven/dk.kvalitetsit/spring-prometheus-app-info@2.0.3?classifier=sources
+- pkg:maven/dk.kvalitetsit/spring-prometheus-app-info@3.0.0?classifier=sources
+- pkg:maven/dk.kvalitetsit/spring-prometheus-app-info@3.0.1?classifier=sources

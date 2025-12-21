@@ -1,0 +1,2 @@
+- pkg:maven/com.ksptool/assembly-text-processor@2.2P?classifier=sources
+- pkg:maven/com.ksptool/assembly-text-processor@2.2S-RC1?classifier=sources

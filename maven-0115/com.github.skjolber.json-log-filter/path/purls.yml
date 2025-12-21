@@ -32,3 +32,4 @@
 - pkg:maven/com.github.skjolber.json-log-filter/path@4.1.3?classifier=sources
 - pkg:maven/com.github.skjolber.json-log-filter/path@4.1.4?classifier=sources
 - pkg:maven/com.github.skjolber.json-log-filter/path@5.0.0?classifier=sources
+- pkg:maven/com.github.skjolber.json-log-filter/path@5.0.1?classifier=sources

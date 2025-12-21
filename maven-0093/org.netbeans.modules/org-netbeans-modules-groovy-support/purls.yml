@@ -27,3 +27,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-support@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-support@RELEASE260?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-support@RELEASE270?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-groovy-support@RELEASE280?classifier=sources

@@ -1,0 +1,3 @@
+- pkg:maven/ru.spb.tksoft/tk-service-nats@2.0.2?classifier=sources
+- pkg:maven/ru.spb.tksoft/tk-service-nats@2.0.3?classifier=sources
+- pkg:maven/ru.spb.tksoft/tk-service-nats@2.0.4?classifier=sources

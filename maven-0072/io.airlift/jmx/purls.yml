@@ -501,3 +501,11 @@
 - pkg:maven/io.airlift/jmx@374?classifier=sources
 - pkg:maven/io.airlift/jmx@375?classifier=sources
 - pkg:maven/io.airlift/jmx@376?classifier=sources
+- pkg:maven/io.airlift/jmx@377?classifier=sources
+- pkg:maven/io.airlift/jmx@378?classifier=sources
+- pkg:maven/io.airlift/jmx@379?classifier=sources
+- pkg:maven/io.airlift/jmx@380?classifier=sources
+- pkg:maven/io.airlift/jmx@381?classifier=sources
+- pkg:maven/io.airlift/jmx@382?classifier=sources
+- pkg:maven/io.airlift/jmx@383?classifier=sources
+- pkg:maven/io.airlift/jmx@384?classifier=sources

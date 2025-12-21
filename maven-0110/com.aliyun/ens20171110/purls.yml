@@ -132,3 +132,6 @@
 - pkg:maven/com.aliyun/ens20171110@9.2.2?classifier=sources
 - pkg:maven/com.aliyun/ens20171110@9.3.0?classifier=sources
 - pkg:maven/com.aliyun/ens20171110@9.3.1?classifier=sources
+- pkg:maven/com.aliyun/ens20171110@9.4.0?classifier=sources
+- pkg:maven/com.aliyun/ens20171110@9.4.1?classifier=sources
+- pkg:maven/com.aliyun/ens20171110@9.5.0?classifier=sources

@@ -27,4 +27,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-spi-navigator@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-spi-navigator@RELEASE260?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-spi-navigator@RELEASE270?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-spi-navigator@RELEASE280?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-spi-navigator@RELEASE90?classifier=sources
