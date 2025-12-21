@@ -72,3 +72,6 @@
 - pkg:maven/io.deephaven/deephaven-plugin-gc-app@0.39.8?classifier=sources
 - pkg:maven/io.deephaven/deephaven-plugin-gc-app@0.40.0?classifier=sources
 - pkg:maven/io.deephaven/deephaven-plugin-gc-app@0.40.1?classifier=sources
+- pkg:maven/io.deephaven/deephaven-plugin-gc-app@0.40.2?classifier=sources
+- pkg:maven/io.deephaven/deephaven-plugin-gc-app@0.40.3?classifier=sources
+- pkg:maven/io.deephaven/deephaven-plugin-gc-app@0.40.4?classifier=sources

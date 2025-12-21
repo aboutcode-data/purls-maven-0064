@@ -131,3 +131,4 @@
 - pkg:maven/com.imsweb/validation-edits-seer@025-06?classifier=sources
 - pkg:maven/com.imsweb/validation-edits-seer@025-07?classifier=sources
 - pkg:maven/com.imsweb/validation-edits-seer@025-08?classifier=sources
+- pkg:maven/com.imsweb/validation-edits-seer@025-09?classifier=sources

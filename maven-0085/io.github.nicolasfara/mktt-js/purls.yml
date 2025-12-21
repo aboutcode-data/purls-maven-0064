@@ -116,3 +116,6 @@
 - pkg:maven/io.github.nicolasfara/mktt-js@2.0.1-dev1o%2B8091a84?classifier=sources
 - pkg:maven/io.github.nicolasfara/mktt-js@2.0.1-dev1t%2B8b72fbb?classifier=sources
 - pkg:maven/io.github.nicolasfara/mktt-js@2.0.1-dev1u%2B301a0d4?classifier=sources
+- pkg:maven/io.github.nicolasfara/mktt-js@2.0.1-dev1v%2B9076114?classifier=sources
+- pkg:maven/io.github.nicolasfara/mktt-js@2.0.1-dev1w%2B17e04b9?classifier=sources
+- pkg:maven/io.github.nicolasfara/mktt-js@2.0.1-dev1x%2B8d23fa0?classifier=sources

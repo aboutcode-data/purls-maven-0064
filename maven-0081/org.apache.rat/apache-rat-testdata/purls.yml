@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.rat/apache-rat-testdata@0.17
+- pkg:maven/org.apache.rat/apache-rat-testdata@0.17?classifier=sources

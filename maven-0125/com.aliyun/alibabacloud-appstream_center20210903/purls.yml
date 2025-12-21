@@ -9,3 +9,4 @@
 - pkg:maven/com.aliyun/alibabacloud-appstream_center20210903@2.0.2
 - pkg:maven/com.aliyun/alibabacloud-appstream_center20210903@2.0.2?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-appstream_center20210903@2.0.3?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-appstream_center20210903@2.0.4?classifier=sources

@@ -44,6 +44,7 @@
 - pkg:maven/fi.evolver/evolver-basics-spring@6.1.0?classifier=sources
 - pkg:maven/fi.evolver/evolver-basics-spring@6.10.0?classifier=sources
 - pkg:maven/fi.evolver/evolver-basics-spring@6.11.0?classifier=sources
+- pkg:maven/fi.evolver/evolver-basics-spring@6.12.0?classifier=sources
 - pkg:maven/fi.evolver/evolver-basics-spring@6.2.0
 - pkg:maven/fi.evolver/evolver-basics-spring@6.2.0?classifier=sources
 - pkg:maven/fi.evolver/evolver-basics-spring@6.2.1
@@ -83,3 +84,4 @@
 - pkg:maven/fi.evolver/evolver-basics-spring@6.9.1
 - pkg:maven/fi.evolver/evolver-basics-spring@6.9.1?classifier=sources
 - pkg:maven/fi.evolver/evolver-basics-spring@6.9.2?classifier=sources
+- pkg:maven/fi.evolver/evolver-basics-spring@7.0.0?classifier=sources

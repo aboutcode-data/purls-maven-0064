@@ -64,3 +64,4 @@
 - pkg:maven/io.wcm.samples/io.wcm.wcm.core.components.examples-core@2.0.4-2.25.4?classifier=sources
 - pkg:maven/io.wcm.samples/io.wcm.wcm.core.components.examples-core@2.0.6-2.25.4
 - pkg:maven/io.wcm.samples/io.wcm.wcm.core.components.examples-core@2.0.6-2.25.4?classifier=sources
+- pkg:maven/io.wcm.samples/io.wcm.wcm.core.components.examples-core@2.0.8-2.25.4?classifier=sources

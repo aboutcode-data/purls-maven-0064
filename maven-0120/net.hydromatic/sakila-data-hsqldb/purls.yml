@@ -1,0 +1,2 @@
+- pkg:maven/net.hydromatic/sakila-data-hsqldb@0.1?classifier=source-release&type=zip
+- pkg:maven/net.hydromatic/sakila-data-hsqldb@0.1?classifier=sources

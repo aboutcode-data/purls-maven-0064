@@ -1,0 +1,2 @@
+- pkg:maven/ch.epfl.scala/sbt-scalafix_sbt2_3@0.14.4
+- pkg:maven/ch.epfl.scala/sbt-scalafix_sbt2_3@0.14.4?classifier=sources

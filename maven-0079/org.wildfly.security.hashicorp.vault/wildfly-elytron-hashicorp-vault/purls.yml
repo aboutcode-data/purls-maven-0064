@@ -1,0 +1,2 @@
+- pkg:maven/org.wildfly.security.hashicorp.vault/wildfly-elytron-hashicorp-vault@0.1.0-Alpha?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.security.hashicorp.vault/wildfly-elytron-hashicorp-vault@0.1.0-Alpha?classifier=sources

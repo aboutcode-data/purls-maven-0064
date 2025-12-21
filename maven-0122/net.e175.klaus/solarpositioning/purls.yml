@@ -33,6 +33,7 @@
 - pkg:maven/net.e175.klaus/solarpositioning@2.0.0
 - pkg:maven/net.e175.klaus/solarpositioning@2.0.0?classifier=sources
 - pkg:maven/net.e175.klaus/solarpositioning@2.0.1
+- pkg:maven/net.e175.klaus/solarpositioning@2.0.10?classifier=sources
 - pkg:maven/net.e175.klaus/solarpositioning@2.0.1?classifier=sources
 - pkg:maven/net.e175.klaus/solarpositioning@2.0.2
 - pkg:maven/net.e175.klaus/solarpositioning@2.0.2?classifier=sources

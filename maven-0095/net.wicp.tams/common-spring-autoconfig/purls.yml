@@ -28,3 +28,4 @@
 - pkg:maven/net.wicp.tams/common-spring-autoconfig@7.0.0?classifier=sources
 - pkg:maven/net.wicp.tams/common-spring-autoconfig@7.0.1?classifier=sources
 - pkg:maven/net.wicp.tams/common-spring-autoconfig@7.0.2?classifier=sources
+- pkg:maven/net.wicp.tams/common-spring-autoconfig@7.0.4?classifier=sources

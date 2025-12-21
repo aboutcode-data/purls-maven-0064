@@ -1,2 +1,4 @@
 - pkg:maven/tz.co.asoft/krest-core-wasm-js@3.2.1?classifier=sources
 - pkg:maven/tz.co.asoft/krest-core-wasm-js@3.2.2?classifier=sources
+- pkg:maven/tz.co.asoft/krest-core-wasm-js@3.2.4?classifier=sources
+- pkg:maven/tz.co.asoft/krest-core-wasm-js@3.2.5?classifier=sources

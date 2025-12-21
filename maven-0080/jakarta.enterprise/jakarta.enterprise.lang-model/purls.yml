@@ -25,5 +25,6 @@
 - pkg:maven/jakarta.enterprise/jakarta.enterprise.lang-model@4.1.0.RC1
 - pkg:maven/jakarta.enterprise/jakarta.enterprise.lang-model@4.1.0.RC1?classifier=sources
 - pkg:maven/jakarta.enterprise/jakarta.enterprise.lang-model@4.1.0?classifier=sources
+- pkg:maven/jakarta.enterprise/jakarta.enterprise.lang-model@5.0.0-M1?classifier=sources
 - pkg:maven/jakarta.enterprise/jakarta.enterprise.lang-model@5.0.0.Alpha1
 - pkg:maven/jakarta.enterprise/jakarta.enterprise.lang-model@5.0.0.Alpha1?classifier=sources

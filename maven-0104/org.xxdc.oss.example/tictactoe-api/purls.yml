@@ -2,3 +2,5 @@
 - pkg:maven/org.xxdc.oss.example/tictactoe-api@2.0.15-jdk24?classifier=sources
 - pkg:maven/org.xxdc.oss.example/tictactoe-api@2.0.16-jdk24?classifier=sources
 - pkg:maven/org.xxdc.oss.example/tictactoe-api@2.1.1-jdk24?classifier=sources
+- pkg:maven/org.xxdc.oss.example/tictactoe-api@3.0.0-jdk25?classifier=sources
+- pkg:maven/org.xxdc.oss.example/tictactoe-api@3.1.0-jdk25?classifier=sources

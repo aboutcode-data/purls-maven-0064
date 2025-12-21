@@ -145,3 +145,5 @@
 - pkg:maven/io.wcm/io.wcm.handler.media@2.4.2
 - pkg:maven/io.wcm/io.wcm.handler.media@2.4.2?classifier=sources
 - pkg:maven/io.wcm/io.wcm.handler.media@2.5.0?classifier=sources
+- pkg:maven/io.wcm/io.wcm.handler.media@2.5.2?classifier=sources
+- pkg:maven/io.wcm/io.wcm.handler.media@2.5.4?classifier=sources

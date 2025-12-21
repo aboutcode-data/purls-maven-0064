@@ -1,3 +1,4 @@
 - pkg:maven/org.octri.authentication/authentication_lib@2.2.0?classifier=sources
 - pkg:maven/org.octri.authentication/authentication_lib@2.2.1?classifier=sources
 - pkg:maven/org.octri.authentication/authentication_lib@2.3.0?classifier=sources
+- pkg:maven/org.octri.authentication/authentication_lib@3.0.0?classifier=sources

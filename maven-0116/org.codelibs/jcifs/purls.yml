@@ -85,3 +85,4 @@
 - pkg:maven/org.codelibs/jcifs@2.1.8?classifier=sources
 - pkg:maven/org.codelibs/jcifs@2.1.9
 - pkg:maven/org.codelibs/jcifs@2.1.9?classifier=sources
+- pkg:maven/org.codelibs/jcifs@3.0.0?classifier=sources

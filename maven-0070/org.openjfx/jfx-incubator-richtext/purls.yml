@@ -26,8 +26,18 @@
 - pkg:maven/org.openjfx/jfx-incubator-richtext@25-ea%2B28?classifier=sources
 - pkg:maven/org.openjfx/jfx-incubator-richtext@25-ea%2B29
 - pkg:maven/org.openjfx/jfx-incubator-richtext@25-ea%2B29?classifier=sources
+- pkg:maven/org.openjfx/jfx-incubator-richtext@25.0.1
+- pkg:maven/org.openjfx/jfx-incubator-richtext@25.0.1?classifier=sources
 - pkg:maven/org.openjfx/jfx-incubator-richtext@25?classifier=sources
 - pkg:maven/org.openjfx/jfx-incubator-richtext@26-ea%2B1
+- pkg:maven/org.openjfx/jfx-incubator-richtext@26-ea%2B10
+- pkg:maven/org.openjfx/jfx-incubator-richtext@26-ea%2B10?classifier=sources
+- pkg:maven/org.openjfx/jfx-incubator-richtext@26-ea%2B11
+- pkg:maven/org.openjfx/jfx-incubator-richtext@26-ea%2B11?classifier=sources
+- pkg:maven/org.openjfx/jfx-incubator-richtext@26-ea%2B12
+- pkg:maven/org.openjfx/jfx-incubator-richtext@26-ea%2B12?classifier=sources
+- pkg:maven/org.openjfx/jfx-incubator-richtext@26-ea%2B13
+- pkg:maven/org.openjfx/jfx-incubator-richtext@26-ea%2B13?classifier=sources
 - pkg:maven/org.openjfx/jfx-incubator-richtext@26-ea%2B1?classifier=sources
 - pkg:maven/org.openjfx/jfx-incubator-richtext@26-ea%2B2
 - pkg:maven/org.openjfx/jfx-incubator-richtext@26-ea%2B2?classifier=sources
@@ -37,3 +47,5 @@
 - pkg:maven/org.openjfx/jfx-incubator-richtext@26-ea%2B6?classifier=sources
 - pkg:maven/org.openjfx/jfx-incubator-richtext@26-ea%2B7
 - pkg:maven/org.openjfx/jfx-incubator-richtext@26-ea%2B7?classifier=sources
+- pkg:maven/org.openjfx/jfx-incubator-richtext@26-ea%2B9
+- pkg:maven/org.openjfx/jfx-incubator-richtext@26-ea%2B9?classifier=sources

@@ -78,6 +78,7 @@
 - pkg:maven/com.stripe/link@20.37.2?classifier=sources
 - pkg:maven/com.stripe/link@20.37.3?classifier=sources
 - pkg:maven/com.stripe/link@20.37.4?classifier=sources
+- pkg:maven/com.stripe/link@20.37.5?classifier=sources
 - pkg:maven/com.stripe/link@20.38.0?classifier=sources
 - pkg:maven/com.stripe/link@20.39.0?classifier=sources
 - pkg:maven/com.stripe/link@20.4.0?classifier=sources

@@ -1,5 +1,11 @@
 - pkg:maven/com.google.ossexitgate.test.n1/cronk@1.0
 - pkg:maven/com.google.ossexitgate.test.n1/cronk@1.0?classifier=sources
+- pkg:maven/com.google.ossexitgate.test.n1/cronk@1.1
+- pkg:maven/com.google.ossexitgate.test.n1/cronk@1.1?classifier=sources
+- pkg:maven/com.google.ossexitgate.test.n1/cronk@1.2
+- pkg:maven/com.google.ossexitgate.test.n1/cronk@1.2?classifier=sources
+- pkg:maven/com.google.ossexitgate.test.n1/cronk@2.0
+- pkg:maven/com.google.ossexitgate.test.n1/cronk@2.0?classifier=sources
 - pkg:maven/com.google.ossexitgate.test.n1/cronk@3.0?classifier=sources
 - pkg:maven/com.google.ossexitgate.test.n1/cronk@3.1?classifier=sources
 - pkg:maven/com.google.ossexitgate.test.n1/cronk@5.2

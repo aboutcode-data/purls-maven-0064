@@ -60,3 +60,7 @@
 - pkg:maven/io.github.palexdev/mfxcore@24.4.0?classifier=sources
 - pkg:maven/io.github.palexdev/mfxcore@24.5.0?classifier=sources
 - pkg:maven/io.github.palexdev/mfxcore@25.1.0?classifier=sources
+- pkg:maven/io.github.palexdev/mfxcore@25.2.0?classifier=sources
+- pkg:maven/io.github.palexdev/mfxcore@25.3.0?classifier=sources
+- pkg:maven/io.github.palexdev/mfxcore@25.3.1?classifier=sources
+- pkg:maven/io.github.palexdev/mfxcore@25.3.2?classifier=sources

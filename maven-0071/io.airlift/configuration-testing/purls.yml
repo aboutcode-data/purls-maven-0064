@@ -47,3 +47,6 @@
 - pkg:maven/io.airlift/configuration-testing@361?classifier=sources
 - pkg:maven/io.airlift/configuration-testing@362?classifier=sources
 - pkg:maven/io.airlift/configuration-testing@363?classifier=sources
+- pkg:maven/io.airlift/configuration-testing@364?classifier=sources
+- pkg:maven/io.airlift/configuration-testing@365?classifier=sources
+- pkg:maven/io.airlift/configuration-testing@366?classifier=sources

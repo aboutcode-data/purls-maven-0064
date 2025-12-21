@@ -1,0 +1,2 @@
+- pkg:maven/com.synehq.jdbc/redis-jdbc-driver@1.0.0?classifier=sources
+- pkg:maven/com.synehq.jdbc/redis-jdbc-driver@1.0.1?classifier=sources

@@ -1,0 +1,5 @@
+- pkg:maven/dev.abbasian/exoboost@1.0.0?classifier=sources
+- pkg:maven/dev.abbasian/exoboost@1.0.1-alpha01?classifier=sources
+- pkg:maven/dev.abbasian/exoboost@1.0.1-alpha02?classifier=sources
+- pkg:maven/dev.abbasian/exoboost@1.0.1-alpha05?classifier=sources
+- pkg:maven/dev.abbasian/exoboost@1.0.1?classifier=sources

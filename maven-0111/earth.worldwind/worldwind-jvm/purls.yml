@@ -159,6 +159,7 @@
 - pkg:maven/earth.worldwind/worldwind-jvm@1.8.0?classifier=sources
 - pkg:maven/earth.worldwind/worldwind-jvm@1.8.10?classifier=sources
 - pkg:maven/earth.worldwind/worldwind-jvm@1.8.11?classifier=sources
+- pkg:maven/earth.worldwind/worldwind-jvm@1.8.12?classifier=sources
 - pkg:maven/earth.worldwind/worldwind-jvm@1.8.1?classifier=sources
 - pkg:maven/earth.worldwind/worldwind-jvm@1.8.2?classifier=sources
 - pkg:maven/earth.worldwind/worldwind-jvm@1.8.3?classifier=sources
@@ -168,3 +169,5 @@
 - pkg:maven/earth.worldwind/worldwind-jvm@1.8.7?classifier=sources
 - pkg:maven/earth.worldwind/worldwind-jvm@1.8.8?classifier=sources
 - pkg:maven/earth.worldwind/worldwind-jvm@1.8.9?classifier=sources
+- pkg:maven/earth.worldwind/worldwind-jvm@1.9.0?classifier=sources
+- pkg:maven/earth.worldwind/worldwind-jvm@1.9.1?classifier=sources

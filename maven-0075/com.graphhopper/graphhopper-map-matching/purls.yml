@@ -4,6 +4,7 @@
 - pkg:maven/com.graphhopper/graphhopper-map-matching@10.1?classifier=sources
 - pkg:maven/com.graphhopper/graphhopper-map-matching@10.2
 - pkg:maven/com.graphhopper/graphhopper-map-matching@10.2?classifier=sources
+- pkg:maven/com.graphhopper/graphhopper-map-matching@11.0?classifier=sources
 - pkg:maven/com.graphhopper/graphhopper-map-matching@3.0
 - pkg:maven/com.graphhopper/graphhopper-map-matching@3.0-pre1
 - pkg:maven/com.graphhopper/graphhopper-map-matching@3.0-pre1?classifier=sources

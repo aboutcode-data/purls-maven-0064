@@ -2,3 +2,4 @@
 - pkg:maven/co.blitzz/cobrowse-sdk-android@0.0.2?classifier=sources
 - pkg:maven/co.blitzz/cobrowse-sdk-android@1.0.0?classifier=sources
 - pkg:maven/co.blitzz/cobrowse-sdk-android@1.0.1?classifier=sources
+- pkg:maven/co.blitzz/cobrowse-sdk-android@1.0.2?classifier=sources

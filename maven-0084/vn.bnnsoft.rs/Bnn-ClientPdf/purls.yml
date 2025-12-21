@@ -7,3 +7,6 @@
 - pkg:maven/vn.bnnsoft.rs/Bnn-ClientPdf@1.6.0?classifier=sources
 - pkg:maven/vn.bnnsoft.rs/Bnn-ClientPdf@1.7.0?classifier=sources
 - pkg:maven/vn.bnnsoft.rs/Bnn-ClientPdf@1.8.0?classifier=sources
+- pkg:maven/vn.bnnsoft.rs/Bnn-ClientPdf@2.1.0?classifier=sources
+- pkg:maven/vn.bnnsoft.rs/Bnn-ClientPdf@2.2.0?classifier=sources
+- pkg:maven/vn.bnnsoft.rs/Bnn-ClientPdf@2.3.0?classifier=sources

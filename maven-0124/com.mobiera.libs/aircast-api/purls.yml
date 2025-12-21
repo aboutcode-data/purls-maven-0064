@@ -65,6 +65,7 @@
 - pkg:maven/com.mobiera.libs/aircast-api@2.75?classifier=sources
 - pkg:maven/com.mobiera.libs/aircast-api@2.76?classifier=sources
 - pkg:maven/com.mobiera.libs/aircast-api@2.77?classifier=sources
+- pkg:maven/com.mobiera.libs/aircast-api@2.78?classifier=sources
 - pkg:maven/com.mobiera.libs/aircast-api@2.7?classifier=sources
 - pkg:maven/com.mobiera.libs/aircast-api@2.8?classifier=sources
 - pkg:maven/com.mobiera.libs/aircast-api@2.9?classifier=sources

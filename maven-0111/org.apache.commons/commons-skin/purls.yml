@@ -13,3 +13,6 @@
 - pkg:maven/org.apache.commons/commons-skin@5.1.0?classifier=sources
 - pkg:maven/org.apache.commons/commons-skin@5.1.0?classifier=src&type=tar.gz
 - pkg:maven/org.apache.commons/commons-skin@5.1.0?classifier=src&type=zip
+- pkg:maven/org.apache.commons/commons-skin@5.2.0?classifier=sources
+- pkg:maven/org.apache.commons/commons-skin@5.2.0?classifier=src&type=tar.gz
+- pkg:maven/org.apache.commons/commons-skin@5.2.0?classifier=src&type=zip

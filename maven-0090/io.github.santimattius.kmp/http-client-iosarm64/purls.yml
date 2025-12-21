@@ -1,1 +1,2 @@
 - pkg:maven/io.github.santimattius.kmp/http-client-iosarm64@1.0.0-ALPHA01?classifier=sources
+- pkg:maven/io.github.santimattius.kmp/http-client-iosarm64@1.0.0?classifier=sources

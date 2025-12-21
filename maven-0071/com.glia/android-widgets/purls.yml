@@ -30,3 +30,4 @@
 - pkg:maven/com.glia/android-widgets@3.1.2?classifier=sources
 - pkg:maven/com.glia/android-widgets@3.2.0?classifier=sources
 - pkg:maven/com.glia/android-widgets@3.2.2?classifier=sources
+- pkg:maven/com.glia/android-widgets@3.3.0?classifier=sources

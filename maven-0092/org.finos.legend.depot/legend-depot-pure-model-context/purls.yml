@@ -345,6 +345,9 @@
 - pkg:maven/org.finos.legend.depot/legend-depot-pure-model-context@2.74.0?classifier=sources
 - pkg:maven/org.finos.legend.depot/legend-depot-pure-model-context@2.74.1?classifier=sources
 - pkg:maven/org.finos.legend.depot/legend-depot-pure-model-context@2.75.0?classifier=sources
+- pkg:maven/org.finos.legend.depot/legend-depot-pure-model-context@2.76.0?classifier=sources
+- pkg:maven/org.finos.legend.depot/legend-depot-pure-model-context@2.77.1?classifier=sources
+- pkg:maven/org.finos.legend.depot/legend-depot-pure-model-context@2.78.0?classifier=sources
 - pkg:maven/org.finos.legend.depot/legend-depot-pure-model-context@2.8.0
 - pkg:maven/org.finos.legend.depot/legend-depot-pure-model-context@2.8.0?classifier=sources
 - pkg:maven/org.finos.legend.depot/legend-depot-pure-model-context@2.9.0

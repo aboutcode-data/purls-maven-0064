@@ -1,0 +1,2 @@
+- pkg:maven/org.bsc.langgraph4j/langgraph4j-oracle-saver@1.7.0?classifier=sources
+- pkg:maven/org.bsc.langgraph4j/langgraph4j-oracle-saver@1.7.1?classifier=sources

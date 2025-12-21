@@ -50,3 +50,5 @@
 - pkg:maven/me.lemire.integercompression/JavaFastPFOR@0.1.9?classifier=sources
 - pkg:maven/me.lemire.integercompression/JavaFastPFOR@0.2.1
 - pkg:maven/me.lemire.integercompression/JavaFastPFOR@0.2.1?classifier=sources
+- pkg:maven/me.lemire.integercompression/JavaFastPFOR@0.3.7?classifier=sources
+- pkg:maven/me.lemire.integercompression/JavaFastPFOR@0.3.8?classifier=sources

@@ -65,6 +65,7 @@
 - pkg:maven/org.apache.syncope/syncope@3.0.11?classifier=source-release&type=zip
 - pkg:maven/org.apache.syncope/syncope@3.0.12?classifier=source-release&type=zip
 - pkg:maven/org.apache.syncope/syncope@3.0.13?classifier=source-release&type=zip
+- pkg:maven/org.apache.syncope/syncope@3.0.14?classifier=source-release&type=zip
 - pkg:maven/org.apache.syncope/syncope@3.0.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.syncope/syncope@3.0.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.syncope/syncope@3.0.3?classifier=source-release&type=zip
@@ -78,3 +79,4 @@
 - pkg:maven/org.apache.syncope/syncope@4.0.0-M1?classifier=source-release&type=zip
 - pkg:maven/org.apache.syncope/syncope@4.0.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.syncope/syncope@4.0.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.syncope/syncope@4.0.2?classifier=source-release&type=zip

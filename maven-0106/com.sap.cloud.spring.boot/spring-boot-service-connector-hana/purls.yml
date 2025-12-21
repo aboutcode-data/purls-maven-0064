@@ -186,3 +186,5 @@
 - pkg:maven/com.sap.cloud.spring.boot/spring-boot-service-connector-hana@3.3.3?classifier=sources
 - pkg:maven/com.sap.cloud.spring.boot/spring-boot-service-connector-hana@3.3.5
 - pkg:maven/com.sap.cloud.spring.boot/spring-boot-service-connector-hana@3.3.5?classifier=sources
+- pkg:maven/com.sap.cloud.spring.boot/spring-boot-service-connector-hana@3.3.8
+- pkg:maven/com.sap.cloud.spring.boot/spring-boot-service-connector-hana@3.3.8?classifier=sources

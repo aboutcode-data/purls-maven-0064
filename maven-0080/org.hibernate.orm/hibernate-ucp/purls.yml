@@ -31,6 +31,10 @@
 - pkg:maven/org.hibernate.orm/hibernate-ucp@6.6.28.Final?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-ucp@6.6.29.Final?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-ucp@6.6.3.Final?classifier=sources
+- pkg:maven/org.hibernate.orm/hibernate-ucp@6.6.30.Final?classifier=sources
+- pkg:maven/org.hibernate.orm/hibernate-ucp@6.6.31.Final?classifier=sources
+- pkg:maven/org.hibernate.orm/hibernate-ucp@6.6.32.Final?classifier=sources
+- pkg:maven/org.hibernate.orm/hibernate-ucp@6.6.33.Final?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-ucp@6.6.4.Final?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-ucp@6.6.5.Final?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-ucp@6.6.6.Final?classifier=sources

@@ -86,3 +86,4 @@
 - pkg:maven/org.openbase/jul.visual.javafx@3.4.0?classifier=sources
 - pkg:maven/org.openbase/jul.visual.javafx@3.5.0?classifier=sources
 - pkg:maven/org.openbase/jul.visual.javafx@3.6.0?classifier=sources
+- pkg:maven/org.openbase/jul.visual.javafx@3.7.2?classifier=sources

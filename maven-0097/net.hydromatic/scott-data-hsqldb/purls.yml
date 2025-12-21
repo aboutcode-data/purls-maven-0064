@@ -4,3 +4,5 @@
 - pkg:maven/net.hydromatic/scott-data-hsqldb@0.2
 - pkg:maven/net.hydromatic/scott-data-hsqldb@0.2?classifier=source-release&type=zip
 - pkg:maven/net.hydromatic/scott-data-hsqldb@0.2?classifier=sources
+- pkg:maven/net.hydromatic/scott-data-hsqldb@0.3?classifier=source-release&type=zip
+- pkg:maven/net.hydromatic/scott-data-hsqldb@0.3?classifier=sources

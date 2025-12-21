@@ -1,1 +1,2 @@
 - pkg:maven/nl.tno/rti1516e@0.0.3?classifier=sources
+- pkg:maven/nl.tno/rti1516e@1.0.0?classifier=sources

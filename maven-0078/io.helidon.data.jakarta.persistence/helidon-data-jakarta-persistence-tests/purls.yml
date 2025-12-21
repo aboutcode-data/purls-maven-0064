@@ -2,3 +2,4 @@
 - pkg:maven/io.helidon.data.jakarta.persistence/helidon-data-jakarta-persistence-tests@4.3.0-M2
 - pkg:maven/io.helidon.data.jakarta.persistence/helidon-data-jakarta-persistence-tests@4.3.0-M3
 - pkg:maven/io.helidon.data.jakarta.persistence/helidon-data-jakarta-persistence-tests@4.3.0-M4
+- pkg:maven/io.helidon.data.jakarta.persistence/helidon-data-jakarta-persistence-tests@4.3.1

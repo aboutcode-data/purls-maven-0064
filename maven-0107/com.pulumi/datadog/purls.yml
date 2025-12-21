@@ -238,3 +238,4 @@
 - pkg:maven/com.pulumi/datadog@4.54.0?classifier=sources
 - pkg:maven/com.pulumi/datadog@4.55.0?classifier=sources
 - pkg:maven/com.pulumi/datadog@4.56.0?classifier=sources
+- pkg:maven/com.pulumi/datadog@4.57.0?classifier=sources

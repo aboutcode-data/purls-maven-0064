@@ -1,1 +1,2 @@
 - pkg:maven/ca.trackerforce/dot-path-ql@1.2.0?classifier=sources
+- pkg:maven/ca.trackerforce/dot-path-ql@1.2.1?classifier=sources

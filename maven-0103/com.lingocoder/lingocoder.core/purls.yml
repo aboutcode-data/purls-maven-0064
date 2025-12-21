@@ -30,3 +30,4 @@
 - pkg:maven/com.lingocoder/lingocoder.core@0.5.8?classifier=sources
 - pkg:maven/com.lingocoder/lingocoder.core@0.5.9
 - pkg:maven/com.lingocoder/lingocoder.core@0.5.9?classifier=sources
+- pkg:maven/com.lingocoder/lingocoder.core@0.6.0?classifier=sources

@@ -40,3 +40,5 @@
 - pkg:maven/org.chorus-oss/protocol-jvm@v819.7?classifier=sources
 - pkg:maven/org.chorus-oss/protocol-jvm@v819.8?classifier=sources
 - pkg:maven/org.chorus-oss/protocol-jvm@v827.0?classifier=sources
+- pkg:maven/org.chorus-oss/protocol-jvm@v844.0?classifier=sources
+- pkg:maven/org.chorus-oss/protocol-jvm@v844.1?classifier=sources
