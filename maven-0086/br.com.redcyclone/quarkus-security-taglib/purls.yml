@@ -1,0 +1,2 @@
+- pkg:maven/br.com.redcyclone/quarkus-security-taglib@1.0.0?classifier=sources
+- pkg:maven/br.com.redcyclone/quarkus-security-taglib@1.1.0?classifier=sources

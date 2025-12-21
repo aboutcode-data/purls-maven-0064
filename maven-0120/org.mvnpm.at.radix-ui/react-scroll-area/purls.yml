@@ -1,3 +1,5 @@
+- pkg:maven/org.mvnpm.at.radix-ui/react-scroll-area@1.2.10
+- pkg:maven/org.mvnpm.at.radix-ui/react-scroll-area@1.2.10?classifier=sources
 - pkg:maven/org.mvnpm.at.radix-ui/react-scroll-area@1.2.3?classifier=sources
 - pkg:maven/org.mvnpm.at.radix-ui/react-scroll-area@1.2.4?classifier=sources
 - pkg:maven/org.mvnpm.at.radix-ui/react-scroll-area@1.2.5

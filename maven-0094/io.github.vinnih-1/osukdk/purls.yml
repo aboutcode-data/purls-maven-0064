@@ -1,3 +1,7 @@
 - pkg:maven/io.github.vinnih-1/osukdk@0.1.0-alpha?classifier=sources
 - pkg:maven/io.github.vinnih-1/osukdk@0.2.0-alpha?classifier=sources
 - pkg:maven/io.github.vinnih-1/osukdk@0.3.0-alpha?classifier=sources
+- pkg:maven/io.github.vinnih-1/osukdk@0.3.1-alpha?classifier=sources
+- pkg:maven/io.github.vinnih-1/osukdk@1.0.0-beta?classifier=sources
+- pkg:maven/io.github.vinnih-1/osukdk@1.0.1-beta?classifier=sources
+- pkg:maven/io.github.vinnih-1/osukdk@1.0.2-beta?classifier=sources

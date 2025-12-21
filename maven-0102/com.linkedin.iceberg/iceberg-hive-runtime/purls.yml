@@ -54,3 +54,4 @@
 - pkg:maven/com.linkedin.iceberg/iceberg-hive-runtime@0.11.1.8?classifier=sources
 - pkg:maven/com.linkedin.iceberg/iceberg-hive-runtime@0.11.1.9
 - pkg:maven/com.linkedin.iceberg/iceberg-hive-runtime@0.11.1.9?classifier=sources
+- pkg:maven/com.linkedin.iceberg/iceberg-hive-runtime@1.2.0.0-rc2?classifier=sources

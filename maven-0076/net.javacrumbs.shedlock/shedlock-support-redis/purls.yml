@@ -1,3 +1,4 @@
+- pkg:maven/net.javacrumbs.shedlock/shedlock-support-redis@6.10.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-support-redis@6.7.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-support-redis@6.8.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-support-redis@6.9.0?classifier=sources

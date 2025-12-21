@@ -169,3 +169,4 @@
 - pkg:maven/com.github.librepdf/pdf-toolbox@2.2.3?classifier=sources
 - pkg:maven/com.github.librepdf/pdf-toolbox@2.2.4?classifier=sources
 - pkg:maven/com.github.librepdf/pdf-toolbox@2.4.0?classifier=sources
+- pkg:maven/com.github.librepdf/pdf-toolbox@3.0.0?classifier=sources

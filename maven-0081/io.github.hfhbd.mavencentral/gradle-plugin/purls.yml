@@ -6,6 +6,9 @@
 - pkg:maven/io.github.hfhbd.mavencentral/gradle-plugin@0.0.15?classifier=sources
 - pkg:maven/io.github.hfhbd.mavencentral/gradle-plugin@0.0.16?classifier=sources
 - pkg:maven/io.github.hfhbd.mavencentral/gradle-plugin@0.0.17?classifier=sources
+- pkg:maven/io.github.hfhbd.mavencentral/gradle-plugin@0.0.19?classifier=sources
+- pkg:maven/io.github.hfhbd.mavencentral/gradle-plugin@0.0.22?classifier=sources
+- pkg:maven/io.github.hfhbd.mavencentral/gradle-plugin@0.0.23?classifier=sources
 - pkg:maven/io.github.hfhbd.mavencentral/gradle-plugin@0.0.3?classifier=sources
 - pkg:maven/io.github.hfhbd.mavencentral/gradle-plugin@0.0.4?classifier=sources
 - pkg:maven/io.github.hfhbd.mavencentral/gradle-plugin@0.0.5?classifier=sources

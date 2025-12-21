@@ -30,3 +30,4 @@
 - pkg:maven/com.inteligr8/ban-maven-plugin@1.4.0?classifier=sources
 - pkg:maven/com.inteligr8/ban-maven-plugin@1.4.1
 - pkg:maven/com.inteligr8/ban-maven-plugin@1.4.1?classifier=sources
+- pkg:maven/com.inteligr8/ban-maven-plugin@1.4.2?classifier=sources

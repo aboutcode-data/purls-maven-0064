@@ -3,6 +3,7 @@
 - pkg:maven/org.firstinspires.ftc/RobotServer@10.1.1?classifier=sources
 - pkg:maven/org.firstinspires.ftc/RobotServer@10.2.0?classifier=sources
 - pkg:maven/org.firstinspires.ftc/RobotServer@10.3.0?classifier=sources
+- pkg:maven/org.firstinspires.ftc/RobotServer@11.0.0?classifier=sources
 - pkg:maven/org.firstinspires.ftc/RobotServer@6.2.0?classifier=sources
 - pkg:maven/org.firstinspires.ftc/RobotServer@6.2.1?classifier=sources
 - pkg:maven/org.firstinspires.ftc/RobotServer@7.0.0?classifier=sources

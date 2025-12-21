@@ -1,5 +1,6 @@
 - pkg:maven/org.teasoft/bee-all@1.17.21
 - pkg:maven/org.teasoft/bee-all@1.17.21?classifier=sources
+- pkg:maven/org.teasoft/bee-all@1.17.25?classifier=sources
 - pkg:maven/org.teasoft/bee-all@2.1
 - pkg:maven/org.teasoft/bee-all@2.1.7
 - pkg:maven/org.teasoft/bee-all@2.1.7?classifier=sources

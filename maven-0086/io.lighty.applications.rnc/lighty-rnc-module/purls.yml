@@ -84,3 +84,4 @@
 - pkg:maven/io.lighty.applications.rnc/lighty-rnc-module@21.1.0?classifier=sources
 - pkg:maven/io.lighty.applications.rnc/lighty-rnc-module@21.2.0
 - pkg:maven/io.lighty.applications.rnc/lighty-rnc-module@21.2.0?classifier=sources
+- pkg:maven/io.lighty.applications.rnc/lighty-rnc-module@22.0.0?classifier=sources

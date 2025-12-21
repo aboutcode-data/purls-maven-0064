@@ -22,6 +22,7 @@
 - pkg:maven/org.webjars.npm/sap-theming__theming-base-content@11.18.2
 - pkg:maven/org.webjars.npm/sap-theming__theming-base-content@11.19.0
 - pkg:maven/org.webjars.npm/sap-theming__theming-base-content@11.24.0
+- pkg:maven/org.webjars.npm/sap-theming__theming-base-content@11.29.3
 - pkg:maven/org.webjars.npm/sap-theming__theming-base-content@11.3.2
 - pkg:maven/org.webjars.npm/sap-theming__theming-base-content@11.3.2?classifier=sources
 - pkg:maven/org.webjars.npm/sap-theming__theming-base-content@11.4.2

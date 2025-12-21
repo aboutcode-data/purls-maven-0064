@@ -11,6 +11,7 @@
 - pkg:maven/com.jeequan/jeepay-sdk-java@max-3.8.6?classifier=sources
 - pkg:maven/com.jeequan/jeepay-sdk-java@max-3.8.7?classifier=sources
 - pkg:maven/com.jeequan/jeepay-sdk-java@max-3.8.8?classifier=sources
+- pkg:maven/com.jeequan/jeepay-sdk-java@max-3.8.9?classifier=sources
 - pkg:maven/com.jeequan/jeepay-sdk-java@max3.8.5?classifier=sources
 - pkg:maven/com.jeequan/jeepay-sdk-java@pls-1.0.0
 - pkg:maven/com.jeequan/jeepay-sdk-java@pls-1.0.0?classifier=sources

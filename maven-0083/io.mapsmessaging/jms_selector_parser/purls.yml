@@ -4,3 +4,5 @@
 - pkg:maven/io.mapsmessaging/jms_selector_parser@1.1.14?classifier=sources
 - pkg:maven/io.mapsmessaging/jms_selector_parser@1.1.15
 - pkg:maven/io.mapsmessaging/jms_selector_parser@1.1.15?classifier=sources
+- pkg:maven/io.mapsmessaging/jms_selector_parser@2.0.0?classifier=sources
+- pkg:maven/io.mapsmessaging/jms_selector_parser@ml-2.0.0?classifier=sources

@@ -8,3 +8,4 @@
 - pkg:maven/tz.co.asoft/kida-api-jvm@2.0.18?classifier=sources
 - pkg:maven/tz.co.asoft/kida-api-jvm@3.1.14?classifier=sources
 - pkg:maven/tz.co.asoft/kida-api-jvm@3.2.1?classifier=sources
+- pkg:maven/tz.co.asoft/kida-api-jvm@3.2.2?classifier=sources

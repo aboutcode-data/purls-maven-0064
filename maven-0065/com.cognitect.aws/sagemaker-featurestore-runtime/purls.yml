@@ -16,3 +16,4 @@
 - pkg:maven/com.cognitect.aws/sagemaker-featurestore-runtime@857.2.1574.0?classifier=sources
 - pkg:maven/com.cognitect.aws/sagemaker-featurestore-runtime@871.2.29.35
 - pkg:maven/com.cognitect.aws/sagemaker-featurestore-runtime@871.2.29.35?classifier=sources
+- pkg:maven/com.cognitect.aws/sagemaker-featurestore-runtime@871.2.32.30?classifier=sources

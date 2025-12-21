@@ -30,3 +30,4 @@
 - pkg:maven/com.facebook.presto/presto-lark-sheets@0.291?classifier=sources
 - pkg:maven/com.facebook.presto/presto-lark-sheets@0.292?classifier=sources
 - pkg:maven/com.facebook.presto/presto-lark-sheets@0.293?classifier=sources
+- pkg:maven/com.facebook.presto/presto-lark-sheets@0.294?classifier=sources

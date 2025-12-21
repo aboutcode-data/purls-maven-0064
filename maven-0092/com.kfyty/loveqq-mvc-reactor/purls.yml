@@ -1,0 +1,2 @@
+- pkg:maven/com.kfyty/loveqq-mvc-reactor@1.1.5-java8?classifier=sources
+- pkg:maven/com.kfyty/loveqq-mvc-reactor@1.1.5?classifier=sources

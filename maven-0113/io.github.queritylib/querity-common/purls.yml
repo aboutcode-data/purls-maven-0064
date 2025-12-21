@@ -1,3 +1,4 @@
 - pkg:maven/io.github.queritylib/querity-common@3.0.0?classifier=sources
 - pkg:maven/io.github.queritylib/querity-common@3.1.0?classifier=sources
 - pkg:maven/io.github.queritylib/querity-common@3.2.0?classifier=sources
+- pkg:maven/io.github.queritylib/querity-common@3.3.1?classifier=sources

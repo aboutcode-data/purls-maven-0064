@@ -102,3 +102,4 @@
 - pkg:maven/com.facebook.presto/presto-druid@0.291?classifier=sources
 - pkg:maven/com.facebook.presto/presto-druid@0.292?classifier=sources
 - pkg:maven/com.facebook.presto/presto-druid@0.293?classifier=sources
+- pkg:maven/com.facebook.presto/presto-druid@0.294?classifier=sources

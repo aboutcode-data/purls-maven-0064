@@ -25,3 +25,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-amazon@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-amazon@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-amazon@RELEASE260?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-libs-amazon@RELEASE270?classifier=sources

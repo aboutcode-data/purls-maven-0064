@@ -30,3 +30,5 @@
 - pkg:maven/org.jetbrains.scala/sbt-structure-extractor_2.10_0.13@2025.2.8?classifier=sources
 - pkg:maven/org.jetbrains.scala/sbt-structure-extractor_2.10_0.13@2025.3.0
 - pkg:maven/org.jetbrains.scala/sbt-structure-extractor_2.10_0.13@2025.3.0?classifier=sources
+- pkg:maven/org.jetbrains.scala/sbt-structure-extractor_2.10_0.13@2025.3.1
+- pkg:maven/org.jetbrains.scala/sbt-structure-extractor_2.10_0.13@2025.3.1?classifier=sources

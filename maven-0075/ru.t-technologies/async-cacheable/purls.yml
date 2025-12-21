@@ -1,0 +1,4 @@
+- pkg:maven/ru.t-technologies/async-cacheable@1.0.0?classifier=sources
+- pkg:maven/ru.t-technologies/async-cacheable@1.1.0?classifier=sources
+- pkg:maven/ru.t-technologies/async-cacheable@2.0.0?classifier=sources
+- pkg:maven/ru.t-technologies/async-cacheable@2.1.0?classifier=sources

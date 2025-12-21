@@ -1214,3 +1214,5 @@
 - pkg:maven/com.amazonaws/aws-java-sdk-billingconductor@1.12.787?classifier=sources
 - pkg:maven/com.amazonaws/aws-java-sdk-billingconductor@1.12.788
 - pkg:maven/com.amazonaws/aws-java-sdk-billingconductor@1.12.788?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-billingconductor@1.12.789
+- pkg:maven/com.amazonaws/aws-java-sdk-billingconductor@1.12.789?classifier=sources

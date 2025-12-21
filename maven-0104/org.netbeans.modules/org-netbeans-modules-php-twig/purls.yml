@@ -26,3 +26,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-twig@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-twig@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-twig@RELEASE260?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-twig@RELEASE270?classifier=sources

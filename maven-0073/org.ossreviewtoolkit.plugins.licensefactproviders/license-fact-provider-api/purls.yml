@@ -1,0 +1,4 @@
+- pkg:maven/org.ossreviewtoolkit.plugins.licensefactproviders/license-fact-provider-api@67.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.licensefactproviders/license-fact-provider-api@67.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.licensefactproviders/license-fact-provider-api@68.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.licensefactproviders/license-fact-provider-api@68.1.0?classifier=sources

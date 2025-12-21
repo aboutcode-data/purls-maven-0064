@@ -1,0 +1,2 @@
+- pkg:maven/ai.djl.genai/genai@0.34.0
+- pkg:maven/ai.djl.genai/genai@0.34.0?classifier=sources

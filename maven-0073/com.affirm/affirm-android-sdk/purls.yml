@@ -71,6 +71,10 @@
 - pkg:maven/com.affirm/affirm-android-sdk@2.0.2?type=aar
 - pkg:maven/com.affirm/affirm-android-sdk@2.0.30?classifier=sources
 - pkg:maven/com.affirm/affirm-android-sdk@2.0.30?type=aar
+- pkg:maven/com.affirm/affirm-android-sdk@2.0.31?classifier=sources
+- pkg:maven/com.affirm/affirm-android-sdk@2.0.31?type=aar
+- pkg:maven/com.affirm/affirm-android-sdk@2.0.32?classifier=sources
+- pkg:maven/com.affirm/affirm-android-sdk@2.0.32?type=aar
 - pkg:maven/com.affirm/affirm-android-sdk@2.0.3?classifier=sources
 - pkg:maven/com.affirm/affirm-android-sdk@2.0.3?type=aar
 - pkg:maven/com.affirm/affirm-android-sdk@2.0.4?classifier=sources

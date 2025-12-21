@@ -1,0 +1,2 @@
+- pkg:maven/software.amazon.awssdk.iotdevicesdk/aws-iot-device-sdk-android@1.27.2?classifier=sources
+- pkg:maven/software.amazon.awssdk.iotdevicesdk/aws-iot-device-sdk-android@1.27.3?classifier=sources

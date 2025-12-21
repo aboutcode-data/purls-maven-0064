@@ -9,5 +9,8 @@
 - pkg:maven/com.seeq.names/common-seeq-names@66.14.1-v202504012130?classifier=sources
 - pkg:maven/com.seeq.names/common-seeq-names@66.14.1-v202504021205?classifier=sources
 - pkg:maven/com.seeq.names/common-seeq-names@66.14.4-v202504151737?classifier=sources
+- pkg:maven/com.seeq.names/common-seeq-names@66.41.1-v202508261900?classifier=sources
+- pkg:maven/com.seeq.names/common-seeq-names@66.41.2-v202508271853?classifier=sources
+- pkg:maven/com.seeq.names/common-seeq-names@66.43.0-v202509021614?classifier=sources
 - pkg:maven/com.seeq.names/common-seeq-names@66.9.0-v202501291951?classifier=sources
 - pkg:maven/com.seeq.names/common-seeq-names@66.9.0-v202501302008?classifier=sources

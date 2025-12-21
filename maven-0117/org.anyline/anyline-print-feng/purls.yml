@@ -12,6 +12,9 @@
 - pkg:maven/org.anyline/anyline-print-feng@8.7.2-20250630?classifier=sources
 - pkg:maven/org.anyline/anyline-print-feng@8.7.2-20250805?classifier=sources
 - pkg:maven/org.anyline/anyline-print-feng@8.7.2-20250806?classifier=sources
+- pkg:maven/org.anyline/anyline-print-feng@8.7.2-20250818?classifier=sources
+- pkg:maven/org.anyline/anyline-print-feng@8.7.2-20250826?classifier=sources
+- pkg:maven/org.anyline/anyline-print-feng@8.7.2-20250827?classifier=sources
 - pkg:maven/org.anyline/anyline-print-feng@8.7.2-jdk11-20250502
 - pkg:maven/org.anyline/anyline-print-feng@8.7.2-jdk11-20250502?classifier=sources
 - pkg:maven/org.anyline/anyline-print-feng@8.7.2-jdk11-20250509
@@ -25,6 +28,9 @@
 - pkg:maven/org.anyline/anyline-print-feng@8.7.2-jdk11-20250630
 - pkg:maven/org.anyline/anyline-print-feng@8.7.2-jdk11-20250630?classifier=sources
 - pkg:maven/org.anyline/anyline-print-feng@8.7.2-jdk11-20250806?classifier=sources
+- pkg:maven/org.anyline/anyline-print-feng@8.7.2-jdk11-20250818?classifier=sources
+- pkg:maven/org.anyline/anyline-print-feng@8.7.2-jdk11-20250826?classifier=sources
+- pkg:maven/org.anyline/anyline-print-feng@8.7.2-jdk11-20250827?classifier=sources
 - pkg:maven/org.anyline/anyline-print-feng@8.7.2-jdk17-20250502
 - pkg:maven/org.anyline/anyline-print-feng@8.7.2-jdk17-20250502?classifier=sources
 - pkg:maven/org.anyline/anyline-print-feng@8.7.2-jdk17-20250509
@@ -38,6 +44,9 @@
 - pkg:maven/org.anyline/anyline-print-feng@8.7.2-jdk17-20250630
 - pkg:maven/org.anyline/anyline-print-feng@8.7.2-jdk17-20250630?classifier=sources
 - pkg:maven/org.anyline/anyline-print-feng@8.7.2-jdk17-20250806?classifier=sources
+- pkg:maven/org.anyline/anyline-print-feng@8.7.2-jdk17-20250818?classifier=sources
+- pkg:maven/org.anyline/anyline-print-feng@8.7.2-jdk17-20250826?classifier=sources
+- pkg:maven/org.anyline/anyline-print-feng@8.7.2-jdk17-20250827?classifier=sources
 - pkg:maven/org.anyline/anyline-print-feng@8.7.2-jdk21-20250502
 - pkg:maven/org.anyline/anyline-print-feng@8.7.2-jdk21-20250502?classifier=sources
 - pkg:maven/org.anyline/anyline-print-feng@8.7.2-jdk21-20250509
@@ -51,3 +60,6 @@
 - pkg:maven/org.anyline/anyline-print-feng@8.7.2-jdk21-20250630
 - pkg:maven/org.anyline/anyline-print-feng@8.7.2-jdk21-20250630?classifier=sources
 - pkg:maven/org.anyline/anyline-print-feng@8.7.2-jdk21-20250806?classifier=sources
+- pkg:maven/org.anyline/anyline-print-feng@8.7.2-jdk21-20250818?classifier=sources
+- pkg:maven/org.anyline/anyline-print-feng@8.7.2-jdk21-20250826?classifier=sources
+- pkg:maven/org.anyline/anyline-print-feng@8.7.2-jdk21-20250827?classifier=sources

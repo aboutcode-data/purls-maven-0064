@@ -94,3 +94,4 @@
 - pkg:maven/io.lighty.resources/start-script@21.1.0?classifier=sources
 - pkg:maven/io.lighty.resources/start-script@21.2.0
 - pkg:maven/io.lighty.resources/start-script@21.2.0?classifier=sources
+- pkg:maven/io.lighty.resources/start-script@22.0.0?classifier=sources

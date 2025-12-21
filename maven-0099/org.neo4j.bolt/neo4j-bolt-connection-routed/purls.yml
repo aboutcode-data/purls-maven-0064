@@ -22,3 +22,13 @@
 - pkg:maven/org.neo4j.bolt/neo4j-bolt-connection-routed@6.0.2?classifier=sources
 - pkg:maven/org.neo4j.bolt/neo4j-bolt-connection-routed@7.0.0
 - pkg:maven/org.neo4j.bolt/neo4j-bolt-connection-routed@7.0.0?classifier=sources
+- pkg:maven/org.neo4j.bolt/neo4j-bolt-connection-routed@8.0.0
+- pkg:maven/org.neo4j.bolt/neo4j-bolt-connection-routed@8.0.0?classifier=sources
+- pkg:maven/org.neo4j.bolt/neo4j-bolt-connection-routed@8.0.1
+- pkg:maven/org.neo4j.bolt/neo4j-bolt-connection-routed@8.0.1?classifier=sources
+- pkg:maven/org.neo4j.bolt/neo4j-bolt-connection-routed@8.1.0
+- pkg:maven/org.neo4j.bolt/neo4j-bolt-connection-routed@8.1.0?classifier=sources
+- pkg:maven/org.neo4j.bolt/neo4j-bolt-connection-routed@8.2.0
+- pkg:maven/org.neo4j.bolt/neo4j-bolt-connection-routed@8.2.0?classifier=sources
+- pkg:maven/org.neo4j.bolt/neo4j-bolt-connection-routed@8.3.0
+- pkg:maven/org.neo4j.bolt/neo4j-bolt-connection-routed@8.3.0?classifier=sources

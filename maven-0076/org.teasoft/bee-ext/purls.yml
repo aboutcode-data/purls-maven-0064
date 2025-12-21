@@ -3,6 +3,7 @@
 - pkg:maven/org.teasoft/bee-ext@1.17
 - pkg:maven/org.teasoft/bee-ext@1.17.21
 - pkg:maven/org.teasoft/bee-ext@1.17.21?classifier=sources
+- pkg:maven/org.teasoft/bee-ext@1.17.25?classifier=sources
 - pkg:maven/org.teasoft/bee-ext@1.17?classifier=sources
 - pkg:maven/org.teasoft/bee-ext@1.8
 - pkg:maven/org.teasoft/bee-ext@1.8.15

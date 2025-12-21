@@ -121,6 +121,7 @@
 - pkg:maven/com.adobe.aem/core-forms-components-af-core@3.0.112
 - pkg:maven/com.adobe.aem/core-forms-components-af-core@3.0.114
 - pkg:maven/com.adobe.aem/core-forms-components-af-core@3.0.116
+- pkg:maven/com.adobe.aem/core-forms-components-af-core@3.0.118
 - pkg:maven/com.adobe.aem/core-forms-components-af-core@3.0.12
 - pkg:maven/com.adobe.aem/core-forms-components-af-core@3.0.14
 - pkg:maven/com.adobe.aem/core-forms-components-af-core@3.0.16

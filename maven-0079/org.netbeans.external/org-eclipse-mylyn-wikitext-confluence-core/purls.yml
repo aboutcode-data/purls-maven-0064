@@ -22,3 +22,4 @@
 - pkg:maven/org.netbeans.external/org-eclipse-mylyn-wikitext-confluence-core@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.external/org-eclipse-mylyn-wikitext-confluence-core@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.external/org-eclipse-mylyn-wikitext-confluence-core@RELEASE260?classifier=sources
+- pkg:maven/org.netbeans.external/org-eclipse-mylyn-wikitext-confluence-core@RELEASE270?classifier=sources

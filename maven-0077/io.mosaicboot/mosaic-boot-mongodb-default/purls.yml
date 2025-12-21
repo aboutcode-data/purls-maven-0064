@@ -1,4 +1,5 @@
 - pkg:maven/io.mosaicboot/mosaic-boot-mongodb-default@0.0.1-rc11?classifier=sources
 - pkg:maven/io.mosaicboot/mosaic-boot-mongodb-default@0.0.1-rc12?classifier=sources
+- pkg:maven/io.mosaicboot/mosaic-boot-mongodb-default@0.0.1-rc15?classifier=sources
 - pkg:maven/io.mosaicboot/mosaic-boot-mongodb-default@0.0.1-rc3?classifier=sources
 - pkg:maven/io.mosaicboot/mosaic-boot-mongodb-default@0.0.1-rc5?classifier=sources

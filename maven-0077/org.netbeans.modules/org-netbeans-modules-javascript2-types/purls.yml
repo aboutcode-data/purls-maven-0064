@@ -26,3 +26,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-types@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-types@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-types@RELEASE260?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-types@RELEASE270?classifier=sources

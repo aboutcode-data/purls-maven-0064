@@ -22,3 +22,12 @@
 - pkg:maven/com.zaneschepke/amneziawg-android@1.5.0?classifier=sources
 - pkg:maven/com.zaneschepke/amneziawg-android@1.6.0?classifier=sources
 - pkg:maven/com.zaneschepke/amneziawg-android@1.6.1?classifier=sources
+- pkg:maven/com.zaneschepke/amneziawg-android@1.6.2?classifier=sources
+- pkg:maven/com.zaneschepke/amneziawg-android@2.0.0?classifier=sources
+- pkg:maven/com.zaneschepke/amneziawg-android@2.0.1?classifier=sources
+- pkg:maven/com.zaneschepke/amneziawg-android@2.0.2?classifier=sources
+- pkg:maven/com.zaneschepke/amneziawg-android@2.0.3?classifier=sources
+- pkg:maven/com.zaneschepke/amneziawg-android@2.0.4?classifier=sources
+- pkg:maven/com.zaneschepke/amneziawg-android@2.0.5?classifier=sources
+- pkg:maven/com.zaneschepke/amneziawg-android@2.0.6?classifier=sources
+- pkg:maven/com.zaneschepke/amneziawg-android@2.0.7?classifier=sources

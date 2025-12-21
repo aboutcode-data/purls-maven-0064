@@ -36,6 +36,9 @@
 - pkg:maven/com.regnosys.rune-fpml/rosetta-source@0.15.0?classifier=sources
 - pkg:maven/com.regnosys.rune-fpml/rosetta-source@0.16.0?classifier=sources
 - pkg:maven/com.regnosys.rune-fpml/rosetta-source@0.16.1?classifier=sources
+- pkg:maven/com.regnosys.rune-fpml/rosetta-source@0.17.0?classifier=sources
+- pkg:maven/com.regnosys.rune-fpml/rosetta-source@0.17.1?classifier=sources
+- pkg:maven/com.regnosys.rune-fpml/rosetta-source@0.17.2?classifier=sources
 - pkg:maven/com.regnosys.rune-fpml/rosetta-source@0.2.0
 - pkg:maven/com.regnosys.rune-fpml/rosetta-source@0.2.0?classifier=sources
 - pkg:maven/com.regnosys.rune-fpml/rosetta-source@0.3.0

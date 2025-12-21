@@ -7,6 +7,7 @@
 - pkg:maven/com.exasol/exasol-jdbc@25.2.2?classifier=sources
 - pkg:maven/com.exasol/exasol-jdbc@25.2.3?classifier=sources
 - pkg:maven/com.exasol/exasol-jdbc@25.2.4?classifier=sources
+- pkg:maven/com.exasol/exasol-jdbc@25.2.5?classifier=sources
 - pkg:maven/com.exasol/exasol-jdbc@7.1.16?classifier=sources
 - pkg:maven/com.exasol/exasol-jdbc@7.1.17?classifier=sources
 - pkg:maven/com.exasol/exasol-jdbc@7.1.19?classifier=sources

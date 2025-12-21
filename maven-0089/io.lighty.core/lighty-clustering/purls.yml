@@ -94,3 +94,4 @@
 - pkg:maven/io.lighty.core/lighty-clustering@21.1.0?classifier=sources
 - pkg:maven/io.lighty.core/lighty-clustering@21.2.0
 - pkg:maven/io.lighty.core/lighty-clustering@21.2.0?classifier=sources
+- pkg:maven/io.lighty.core/lighty-clustering@22.0.0?classifier=sources

@@ -30,3 +30,8 @@
 - pkg:maven/net.bretti.openapi-route-definition-locator/openapi-route-definition-locator-core@1.0.2-sc-2023.0?classifier=sources
 - pkg:maven/net.bretti.openapi-route-definition-locator/openapi-route-definition-locator-core@1.0.2-sc-2024.0?classifier=sources
 - pkg:maven/net.bretti.openapi-route-definition-locator/openapi-route-definition-locator-core@1.0.2-sc-2025.0?classifier=sources
+- pkg:maven/net.bretti.openapi-route-definition-locator/openapi-route-definition-locator-core@1.1.0-sc-2021.0?classifier=sources
+- pkg:maven/net.bretti.openapi-route-definition-locator/openapi-route-definition-locator-core@1.1.0-sc-2022.0?classifier=sources
+- pkg:maven/net.bretti.openapi-route-definition-locator/openapi-route-definition-locator-core@1.1.0-sc-2023.0?classifier=sources
+- pkg:maven/net.bretti.openapi-route-definition-locator/openapi-route-definition-locator-core@1.1.0-sc-2024.0?classifier=sources
+- pkg:maven/net.bretti.openapi-route-definition-locator/openapi-route-definition-locator-core@1.1.0-sc-2025.0?classifier=sources

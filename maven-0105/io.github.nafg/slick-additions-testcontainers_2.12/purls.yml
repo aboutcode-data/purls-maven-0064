@@ -1,2 +1,4 @@
 - pkg:maven/io.github.nafg/slick-additions-testcontainers_2.12@0.15.0
 - pkg:maven/io.github.nafg/slick-additions-testcontainers_2.12@0.15.0?classifier=sources
+- pkg:maven/io.github.nafg/slick-additions-testcontainers_2.12@0.16.0
+- pkg:maven/io.github.nafg/slick-additions-testcontainers_2.12@0.16.0?classifier=sources

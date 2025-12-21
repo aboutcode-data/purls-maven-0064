@@ -38,3 +38,4 @@
 - pkg:maven/com.litongjava/api-table@1.5.3?classifier=sources
 - pkg:maven/com.litongjava/api-table@1.5.4
 - pkg:maven/com.litongjava/api-table@1.5.4?classifier=sources
+- pkg:maven/com.litongjava/api-table@1.5.5?classifier=sources

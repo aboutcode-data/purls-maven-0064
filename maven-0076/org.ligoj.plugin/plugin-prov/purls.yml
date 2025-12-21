@@ -114,3 +114,4 @@
 - pkg:maven/org.ligoj.plugin/plugin-prov@3.2.0?classifier=sources
 - pkg:maven/org.ligoj.plugin/plugin-prov@3.2.2
 - pkg:maven/org.ligoj.plugin/plugin-prov@3.2.2?classifier=sources
+- pkg:maven/org.ligoj.plugin/plugin-prov@3.2.3?classifier=sources

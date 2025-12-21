@@ -26,4 +26,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-html-editor-lib@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-html-editor-lib@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-html-editor-lib@RELEASE260?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-html-editor-lib@RELEASE270?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-html-editor-lib@RELEASE90?classifier=sources

@@ -57,3 +57,6 @@
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.jetty@25.1.6?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.jetty@25.2.0-beta.0?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.jetty@25.2.0-beta.2?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.jetty@25.2.0-beta.5?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.jetty@25.2.1?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.jetty@25.2.3?classifier=sources

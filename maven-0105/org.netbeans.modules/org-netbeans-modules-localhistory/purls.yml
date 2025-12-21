@@ -26,4 +26,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-localhistory@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-localhistory@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-localhistory@RELEASE260?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-localhistory@RELEASE270?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-localhistory@RELEASE90?classifier=sources
