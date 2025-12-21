@@ -49,3 +49,4 @@
 - pkg:maven/cn.jiguang.sdk.plugin/vivo@5.5.3?type=aar
 - pkg:maven/cn.jiguang.sdk.plugin/vivo@5.5.4?classifier=sources
 - pkg:maven/cn.jiguang.sdk.plugin/vivo@5.6.0?classifier=sources
+- pkg:maven/cn.jiguang.sdk.plugin/vivo@5.6.1?classifier=sources

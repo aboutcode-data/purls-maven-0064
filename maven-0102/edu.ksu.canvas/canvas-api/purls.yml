@@ -32,3 +32,5 @@
 - pkg:maven/edu.ksu.canvas/canvas-api@1.8.0?classifier=sources
 - pkg:maven/edu.ksu.canvas/canvas-api@2.0.0
 - pkg:maven/edu.ksu.canvas/canvas-api@2.0.0?classifier=sources
+- pkg:maven/edu.ksu.canvas/canvas-api@2.0.1
+- pkg:maven/edu.ksu.canvas/canvas-api@2.0.1?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/io.gitlab.qfoundation/qfoundation@3.18.0?classifier=sources
 - pkg:maven/io.gitlab.qfoundation/qfoundation@3.18.2?classifier=sources
 - pkg:maven/io.gitlab.qfoundation/qfoundation@3.19.0?classifier=sources
+- pkg:maven/io.gitlab.qfoundation/qfoundation@3.20.0?classifier=sources
+- pkg:maven/io.gitlab.qfoundation/qfoundation@3.20.1?classifier=sources

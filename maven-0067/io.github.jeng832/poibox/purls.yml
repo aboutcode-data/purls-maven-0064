@@ -1,3 +1,4 @@
 - pkg:maven/io.github.jeng832/poibox@0.5.1?classifier=sources
 - pkg:maven/io.github.jeng832/poibox@0.5.2?classifier=sources
 - pkg:maven/io.github.jeng832/poibox@0.6.0?classifier=sources
+- pkg:maven/io.github.jeng832/poibox@1.0.0-candidate?classifier=sources

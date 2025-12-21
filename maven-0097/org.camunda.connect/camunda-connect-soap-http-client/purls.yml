@@ -76,6 +76,7 @@
 - pkg:maven/org.camunda.connect/camunda-connect-soap-http-client@7.22.0-alpha6
 - pkg:maven/org.camunda.connect/camunda-connect-soap-http-client@7.22.0-alpha6?classifier=sources
 - pkg:maven/org.camunda.connect/camunda-connect-soap-http-client@7.22.0?classifier=sources
+- pkg:maven/org.camunda.connect/camunda-connect-soap-http-client@7.23.0
 - pkg:maven/org.camunda.connect/camunda-connect-soap-http-client@7.23.0-alpha1
 - pkg:maven/org.camunda.connect/camunda-connect-soap-http-client@7.23.0-alpha1?classifier=sources
 - pkg:maven/org.camunda.connect/camunda-connect-soap-http-client@7.23.0-alpha2
@@ -84,3 +85,6 @@
 - pkg:maven/org.camunda.connect/camunda-connect-soap-http-client@7.23.0-alpha3?classifier=sources
 - pkg:maven/org.camunda.connect/camunda-connect-soap-http-client@7.23.0-alpha4
 - pkg:maven/org.camunda.connect/camunda-connect-soap-http-client@7.23.0-alpha4?classifier=sources
+- pkg:maven/org.camunda.connect/camunda-connect-soap-http-client@7.23.0-alpha5
+- pkg:maven/org.camunda.connect/camunda-connect-soap-http-client@7.23.0-alpha5?classifier=sources
+- pkg:maven/org.camunda.connect/camunda-connect-soap-http-client@7.23.0?classifier=sources

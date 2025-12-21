@@ -6,3 +6,5 @@
 - pkg:maven/org.eclipse.pass/pass-core-test-config@1.14.1?classifier=sources
 - pkg:maven/org.eclipse.pass/pass-core-test-config@1.15.0
 - pkg:maven/org.eclipse.pass/pass-core-test-config@1.15.0?classifier=sources
+- pkg:maven/org.eclipse.pass/pass-core-test-config@2.0.0
+- pkg:maven/org.eclipse.pass/pass-core-test-config@2.0.0?classifier=sources

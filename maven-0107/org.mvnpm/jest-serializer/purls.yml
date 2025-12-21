@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/jest-serializer@26.6.2?classifier=sources
+- pkg:maven/org.mvnpm/jest-serializer@28.0.0?classifier=sources

@@ -2,3 +2,11 @@
 - pkg:maven/uk.autores/format@8.0.0-beta?classifier=sources
 - pkg:maven/uk.autores/format@8.0.1-beta
 - pkg:maven/uk.autores/format@8.0.1-beta?classifier=sources
+- pkg:maven/uk.autores/format@8.0.2-beta
+- pkg:maven/uk.autores/format@8.0.2-beta?classifier=sources
+- pkg:maven/uk.autores/format@8.0.3-beta
+- pkg:maven/uk.autores/format@8.0.3-beta?classifier=sources
+- pkg:maven/uk.autores/format@8.0.4-beta
+- pkg:maven/uk.autores/format@8.0.4-beta?classifier=sources
+- pkg:maven/uk.autores/format@8.1.0
+- pkg:maven/uk.autores/format@8.1.0?classifier=sources

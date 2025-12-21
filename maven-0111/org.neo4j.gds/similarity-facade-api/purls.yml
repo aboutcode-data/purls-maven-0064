@@ -6,3 +6,4 @@
 - pkg:maven/org.neo4j.gds/similarity-facade-api@2.13.3?classifier=sources
 - pkg:maven/org.neo4j.gds/similarity-facade-api@2.14.0?classifier=sources
 - pkg:maven/org.neo4j.gds/similarity-facade-api@2.15.0?classifier=sources
+- pkg:maven/org.neo4j.gds/similarity-facade-api@2.16.0?classifier=sources

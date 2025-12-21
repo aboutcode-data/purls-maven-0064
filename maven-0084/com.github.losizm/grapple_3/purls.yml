@@ -14,5 +14,9 @@
 - pkg:maven/com.github.losizm/grapple_3@15.0.0?classifier=sources
 - pkg:maven/com.github.losizm/grapple_3@15.1.0
 - pkg:maven/com.github.losizm/grapple_3@15.1.0?classifier=sources
+- pkg:maven/com.github.losizm/grapple_3@16.0.0
+- pkg:maven/com.github.losizm/grapple_3@16.0.0?classifier=sources
+- pkg:maven/com.github.losizm/grapple_3@17.0.0
+- pkg:maven/com.github.losizm/grapple_3@17.0.0?classifier=sources
 - pkg:maven/com.github.losizm/grapple_3@9.0.0
 - pkg:maven/com.github.losizm/grapple_3@9.0.0?classifier=sources

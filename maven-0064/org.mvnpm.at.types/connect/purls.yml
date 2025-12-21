@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.types/connect@3.4.36?classifier=sources
+- pkg:maven/org.mvnpm.at.types/connect@3.4.38?classifier=sources

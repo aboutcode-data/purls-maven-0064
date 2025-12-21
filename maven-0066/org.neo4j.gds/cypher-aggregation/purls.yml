@@ -31,6 +31,7 @@
 - pkg:maven/org.neo4j.gds/cypher-aggregation@2.13.3?classifier=sources
 - pkg:maven/org.neo4j.gds/cypher-aggregation@2.14.0?classifier=sources
 - pkg:maven/org.neo4j.gds/cypher-aggregation@2.15.0?classifier=sources
+- pkg:maven/org.neo4j.gds/cypher-aggregation@2.16.0?classifier=sources
 - pkg:maven/org.neo4j.gds/cypher-aggregation@2.2.0-alpha01?classifier=sources
 - pkg:maven/org.neo4j.gds/cypher-aggregation@2.2.0-alpha02?classifier=sources
 - pkg:maven/org.neo4j.gds/cypher-aggregation@2.2.0-alpha03?classifier=sources
@@ -93,6 +94,7 @@
 - pkg:maven/org.neo4j.gds/cypher-aggregation@2.6.6?classifier=sources
 - pkg:maven/org.neo4j.gds/cypher-aggregation@2.6.7?classifier=sources
 - pkg:maven/org.neo4j.gds/cypher-aggregation@2.6.8?classifier=sources
+- pkg:maven/org.neo4j.gds/cypher-aggregation@2.6.9?classifier=sources
 - pkg:maven/org.neo4j.gds/cypher-aggregation@2.7.0-alpha01?classifier=sources
 - pkg:maven/org.neo4j.gds/cypher-aggregation@2.7.0-alpha02?classifier=sources
 - pkg:maven/org.neo4j.gds/cypher-aggregation@2.7.0-alpha03?classifier=sources

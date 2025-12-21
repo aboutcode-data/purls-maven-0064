@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/jstransformer@0.0.2?classifier=sources
+- pkg:maven/org.mvnpm/jstransformer@1.0.0?classifier=sources

@@ -35,3 +35,5 @@
 - pkg:maven/com.blr19c.falowp/falowp-bot-system@2.2.1?classifier=sources
 - pkg:maven/com.blr19c.falowp/falowp-bot-system@2.2.2-fix1?classifier=sources
 - pkg:maven/com.blr19c.falowp/falowp-bot-system@2.2.2?classifier=sources
+- pkg:maven/com.blr19c.falowp/falowp-bot-system@2.2.3?classifier=sources
+- pkg:maven/com.blr19c.falowp/falowp-bot-system@2.2.4?classifier=sources

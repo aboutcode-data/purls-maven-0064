@@ -42,3 +42,7 @@
 - pkg:maven/ch.exense.step/step-framework-server-plugins@2.2.2?classifier=sources
 - pkg:maven/ch.exense.step/step-framework-server-plugins@2.2.3
 - pkg:maven/ch.exense.step/step-framework-server-plugins@2.2.3?classifier=sources
+- pkg:maven/ch.exense.step/step-framework-server-plugins@2.3.0
+- pkg:maven/ch.exense.step/step-framework-server-plugins@2.3.0?classifier=sources
+- pkg:maven/ch.exense.step/step-framework-server-plugins@2.3.1
+- pkg:maven/ch.exense.step/step-framework-server-plugins@2.3.1?classifier=sources

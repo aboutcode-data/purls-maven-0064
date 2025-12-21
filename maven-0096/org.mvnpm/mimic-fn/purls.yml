@@ -1,2 +1,4 @@
+- pkg:maven/org.mvnpm/mimic-fn@1.2.0?classifier=sources
 - pkg:maven/org.mvnpm/mimic-fn@2.1.0?classifier=sources
+- pkg:maven/org.mvnpm/mimic-fn@4.0.0?classifier=sources
 - pkg:maven/org.mvnpm/mimic-fn@5.0.0?classifier=sources

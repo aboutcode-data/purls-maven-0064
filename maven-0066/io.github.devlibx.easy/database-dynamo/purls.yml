@@ -126,6 +126,8 @@
 - pkg:maven/io.github.devlibx.easy/database-dynamo@0.0.151?classifier=sources
 - pkg:maven/io.github.devlibx.easy/database-dynamo@0.0.153
 - pkg:maven/io.github.devlibx.easy/database-dynamo@0.0.153?classifier=sources
+- pkg:maven/io.github.devlibx.easy/database-dynamo@0.0.154
+- pkg:maven/io.github.devlibx.easy/database-dynamo@0.0.154?classifier=sources
 - pkg:maven/io.github.devlibx.easy/database-dynamo@0.0.52
 - pkg:maven/io.github.devlibx.easy/database-dynamo@0.0.52?classifier=sources
 - pkg:maven/io.github.devlibx.easy/database-dynamo@0.0.53

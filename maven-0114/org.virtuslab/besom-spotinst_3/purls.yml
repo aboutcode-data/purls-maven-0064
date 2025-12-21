@@ -1,3 +1,5 @@
+- pkg:maven/org.virtuslab/besom-spotinst_3@3.114.0-core.0.4
+- pkg:maven/org.virtuslab/besom-spotinst_3@3.114.0-core.0.4?classifier=sources
 - pkg:maven/org.virtuslab/besom-spotinst_3@3.53.0-core.0.1.0
 - pkg:maven/org.virtuslab/besom-spotinst_3@3.53.0-core.0.1.0?classifier=sources
 - pkg:maven/org.virtuslab/besom-spotinst_3@3.67.1-core.0.2

@@ -8,3 +8,7 @@
 - pkg:maven/com.google.apis/google-api-services-addressvalidation@v1-rev20241110-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-addressvalidation@v1-rev20241120-2.0.0
 - pkg:maven/com.google.apis/google-api-services-addressvalidation@v1-rev20241120-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-addressvalidation@v1-rev20250318-2.0.0
+- pkg:maven/com.google.apis/google-api-services-addressvalidation@v1-rev20250318-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-addressvalidation@v1-rev20250323-2.0.0
+- pkg:maven/com.google.apis/google-api-services-addressvalidation@v1-rev20250323-2.0.0?classifier=sources

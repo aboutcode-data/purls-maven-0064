@@ -81,3 +81,5 @@
 - pkg:maven/de.telekom.phonenumber/normalizer@1.3.7?classifier=sources
 - pkg:maven/de.telekom.phonenumber/normalizer@2.0.0
 - pkg:maven/de.telekom.phonenumber/normalizer@2.0.0?classifier=sources
+- pkg:maven/de.telekom.phonenumber/normalizer@2.0.1
+- pkg:maven/de.telekom.phonenumber/normalizer@2.0.1?classifier=sources

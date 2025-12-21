@@ -1,3 +1,6 @@
 - pkg:maven/org.mvnpm.at.types/react-dom@18.2.25?classifier=sources
 - pkg:maven/org.mvnpm.at.types/react-dom@18.3.0?classifier=sources
 - pkg:maven/org.mvnpm.at.types/react-dom@18.3.1?classifier=sources
+- pkg:maven/org.mvnpm.at.types/react-dom@19.0.4?classifier=sources
+- pkg:maven/org.mvnpm.at.types/react-dom@19.1.0?classifier=sources
+- pkg:maven/org.mvnpm.at.types/react-dom@19.1.1?classifier=sources

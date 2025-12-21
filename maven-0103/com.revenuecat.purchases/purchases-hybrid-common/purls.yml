@@ -84,6 +84,11 @@
 - pkg:maven/com.revenuecat.purchases/purchases-hybrid-common@13.23.0?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-hybrid-common@13.24.0?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-hybrid-common@13.25.0?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-hybrid-common@13.26.0-vc-beta.1?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-hybrid-common@13.26.0?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-hybrid-common@13.26.1?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-hybrid-common@13.27.0?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-hybrid-common@13.28.0?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-hybrid-common@13.3.0?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-hybrid-common@13.4.0?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-hybrid-common@13.5.0?classifier=sources

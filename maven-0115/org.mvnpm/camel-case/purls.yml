@@ -1,0 +1,4 @@
+- pkg:maven/org.mvnpm/camel-case@1.2.2?classifier=sources
+- pkg:maven/org.mvnpm/camel-case@3.0.0?classifier=sources
+- pkg:maven/org.mvnpm/camel-case@4.1.2?classifier=sources
+- pkg:maven/org.mvnpm/camel-case@5.0.0?classifier=sources

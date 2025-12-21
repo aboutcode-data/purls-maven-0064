@@ -1,3 +1,5 @@
+- pkg:maven/ru.d10xa/root_3@0.3.10
+- pkg:maven/ru.d10xa/root_3@0.3.10?classifier=sources
 - pkg:maven/ru.d10xa/root_3@0.3.5
 - pkg:maven/ru.d10xa/root_3@0.3.5?classifier=sources
 - pkg:maven/ru.d10xa/root_3@0.3.6
@@ -8,3 +10,7 @@
 - pkg:maven/ru.d10xa/root_3@0.3.8?classifier=sources
 - pkg:maven/ru.d10xa/root_3@0.3.9
 - pkg:maven/ru.d10xa/root_3@0.3.9?classifier=sources
+- pkg:maven/ru.d10xa/root_3@0.4.0
+- pkg:maven/ru.d10xa/root_3@0.4.0?classifier=sources
+- pkg:maven/ru.d10xa/root_3@0.4.1
+- pkg:maven/ru.d10xa/root_3@0.4.1?classifier=sources

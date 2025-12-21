@@ -104,3 +104,4 @@
 - pkg:maven/org.webjars.npm/pdfjs-dist@4.4.168
 - pkg:maven/org.webjars.npm/pdfjs-dist@4.6.82
 - pkg:maven/org.webjars.npm/pdfjs-dist@4.9.155
+- pkg:maven/org.webjars.npm/pdfjs-dist@5.0.375

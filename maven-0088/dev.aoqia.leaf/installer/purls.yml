@@ -1,0 +1,2 @@
+- pkg:maven/dev.aoqia.leaf/installer@0.1.0?classifier=sources
+- pkg:maven/dev.aoqia.leaf/installer@1.0.0?classifier=sources

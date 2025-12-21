@@ -1,3 +1,4 @@
 - pkg:maven/org.wso2.carbon.identity.outbound.auth.hypr/identity-outbound-auth-hypr@1.0.1?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.outbound.auth.hypr/identity-outbound-auth-hypr@1.0.2?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.outbound.auth.hypr/identity-outbound-auth-hypr@1.0.3?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.outbound.auth.hypr/identity-outbound-auth-hypr@2.0.1?classifier=source-release&type=zip

@@ -1,0 +1,3 @@
+- pkg:maven/io.github.temesoft/file-storage@1.3?classifier=sources
+- pkg:maven/io.github.temesoft/file-storage@1.4?classifier=sources
+- pkg:maven/io.github.temesoft/file-storage@1.5?classifier=sources

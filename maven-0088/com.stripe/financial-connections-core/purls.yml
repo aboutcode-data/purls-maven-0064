@@ -1,0 +1,3 @@
+- pkg:maven/com.stripe/financial-connections-core@21.7.0?classifier=sources
+- pkg:maven/com.stripe/financial-connections-core@21.7.1?classifier=sources
+- pkg:maven/com.stripe/financial-connections-core@21.8.0?classifier=sources

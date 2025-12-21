@@ -1,2 +1,16 @@
 - pkg:maven/io.airlift/configuration-testing@315?classifier=sources
 - pkg:maven/io.airlift/configuration-testing@316?classifier=sources
+- pkg:maven/io.airlift/configuration-testing@317?classifier=sources
+- pkg:maven/io.airlift/configuration-testing@318?classifier=sources
+- pkg:maven/io.airlift/configuration-testing@319?classifier=sources
+- pkg:maven/io.airlift/configuration-testing@320?classifier=sources
+- pkg:maven/io.airlift/configuration-testing@321?classifier=sources
+- pkg:maven/io.airlift/configuration-testing@322?classifier=sources
+- pkg:maven/io.airlift/configuration-testing@323?classifier=sources
+- pkg:maven/io.airlift/configuration-testing@324?classifier=sources
+- pkg:maven/io.airlift/configuration-testing@325?classifier=sources
+- pkg:maven/io.airlift/configuration-testing@326?classifier=sources
+- pkg:maven/io.airlift/configuration-testing@327?classifier=sources
+- pkg:maven/io.airlift/configuration-testing@328?classifier=sources
+- pkg:maven/io.airlift/configuration-testing@329?classifier=sources
+- pkg:maven/io.airlift/configuration-testing@330?classifier=sources

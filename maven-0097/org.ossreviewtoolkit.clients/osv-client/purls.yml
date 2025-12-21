@@ -77,6 +77,9 @@
 - pkg:maven/org.ossreviewtoolkit.clients/osv-client@52.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/osv-client@53.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/osv-client@54.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/osv-client@55.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/osv-client@55.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/osv-client@55.2.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/osv-client@6.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/osv-client@6.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/osv-client@6.1.1?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/com.raygun/raygun4android@4.0.2-beta1?type=aar
 - pkg:maven/com.raygun/raygun4android@4.1.0?classifier=sources
 - pkg:maven/com.raygun/raygun4android@4.1.1?classifier=sources
+- pkg:maven/com.raygun/raygun4android@4.2.0?classifier=sources
+- pkg:maven/com.raygun/raygun4android@4.2.1?classifier=sources

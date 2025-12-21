@@ -1,1 +1,2 @@
 - pkg:maven/org.mvnpm/plotly.js@2.34.0?classifier=sources
+- pkg:maven/org.mvnpm/plotly.js@3.0.1?classifier=sources

@@ -1,4 +1,8 @@
 - pkg:maven/io.camunda/readme-snippets@8.5.12
 - pkg:maven/io.camunda/readme-snippets@8.5.12?classifier=sources
+- pkg:maven/io.camunda/readme-snippets@8.5.13
+- pkg:maven/io.camunda/readme-snippets@8.5.13?classifier=sources
 - pkg:maven/io.camunda/readme-snippets@8.6.8
 - pkg:maven/io.camunda/readme-snippets@8.6.8?classifier=sources
+- pkg:maven/io.camunda/readme-snippets@8.6.9
+- pkg:maven/io.camunda/readme-snippets@8.6.9?classifier=sources

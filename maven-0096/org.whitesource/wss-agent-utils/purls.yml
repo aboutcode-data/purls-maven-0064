@@ -297,4 +297,6 @@
 - pkg:maven/org.whitesource/wss-agent-utils@2.9.9.90?classifier=sources
 - pkg:maven/org.whitesource/wss-agent-utils@2.9.9.97
 - pkg:maven/org.whitesource/wss-agent-utils@2.9.9.97?classifier=sources
+- pkg:maven/org.whitesource/wss-agent-utils@2.9.9.98
+- pkg:maven/org.whitesource/wss-agent-utils@2.9.9.98?classifier=sources
 - pkg:maven/org.whitesource/wss-agent-utils@2.9.9?classifier=sources

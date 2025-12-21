@@ -125,6 +125,11 @@
 - pkg:maven/io.xpipe/xpipe-beacon@15.2?classifier=sources
 - pkg:maven/io.xpipe/xpipe-beacon@15.3?classifier=sources
 - pkg:maven/io.xpipe/xpipe-beacon@15.4?classifier=sources
+- pkg:maven/io.xpipe/xpipe-beacon@15.5?classifier=sources
+- pkg:maven/io.xpipe/xpipe-beacon@15.6?classifier=sources
+- pkg:maven/io.xpipe/xpipe-beacon@15.7.1?classifier=sources
+- pkg:maven/io.xpipe/xpipe-beacon@15.7?classifier=sources
+- pkg:maven/io.xpipe/xpipe-beacon@15.8?classifier=sources
 - pkg:maven/io.xpipe/xpipe-beacon@8.0.1?classifier=sources
 - pkg:maven/io.xpipe/xpipe-beacon@8.0?classifier=sources
 - pkg:maven/io.xpipe/xpipe-beacon@8.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.virtuslab/besom-constellix_3@0.4.6-core.0.4
+- pkg:maven/org.virtuslab/besom-constellix_3@0.4.6-core.0.4?classifier=sources

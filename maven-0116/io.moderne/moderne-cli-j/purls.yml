@@ -51,3 +51,10 @@
 - pkg:maven/io.moderne/moderne-cli-j@1.0.3336?classifier=sources
 - pkg:maven/io.moderne/moderne-cli-j@1.0.3337?classifier=sources
 - pkg:maven/io.moderne/moderne-cli-j@1.0.3340?classifier=sources
+- pkg:maven/io.moderne/moderne-cli-j@1.0.3341?classifier=sources
+- pkg:maven/io.moderne/moderne-cli-j@1.0.3342?classifier=sources
+- pkg:maven/io.moderne/moderne-cli-j@1.0.3343?classifier=sources
+- pkg:maven/io.moderne/moderne-cli-j@1.0.3344?classifier=sources
+- pkg:maven/io.moderne/moderne-cli-j@1.0.3345?classifier=sources
+- pkg:maven/io.moderne/moderne-cli-j@1.0.3350?classifier=sources
+- pkg:maven/io.moderne/moderne-cli-j@1.0.3360?classifier=sources

@@ -70,5 +70,6 @@
 - pkg:maven/com.fifesoft/rsyntaxtextarea@3.5.2?classifier=sources
 - pkg:maven/com.fifesoft/rsyntaxtextarea@3.5.3?classifier=sources
 - pkg:maven/com.fifesoft/rsyntaxtextarea@3.5.4?classifier=sources
+- pkg:maven/com.fifesoft/rsyntaxtextarea@3.6.0?classifier=sources
 - pkg:maven/com.fifesoft/rsyntaxtextarea@r239
 - pkg:maven/com.fifesoft/rsyntaxtextarea@r239?classifier=sources

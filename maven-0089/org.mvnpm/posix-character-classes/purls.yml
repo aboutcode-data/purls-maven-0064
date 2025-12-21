@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/posix-character-classes@0.1.1?classifier=sources
+- pkg:maven/org.mvnpm/posix-character-classes@1.0.0?classifier=sources

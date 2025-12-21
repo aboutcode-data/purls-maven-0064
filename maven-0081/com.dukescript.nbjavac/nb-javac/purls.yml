@@ -38,3 +38,5 @@
 - pkg:maven/com.dukescript.nbjavac/nb-javac@jdk-23%2B35?classifier=sources
 - pkg:maven/com.dukescript.nbjavac/nb-javac@jdk-24%2B29
 - pkg:maven/com.dukescript.nbjavac/nb-javac@jdk-24%2B29?classifier=sources
+- pkg:maven/com.dukescript.nbjavac/nb-javac@jdk-24-ga
+- pkg:maven/com.dukescript.nbjavac/nb-javac@jdk-24-ga?classifier=sources

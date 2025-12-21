@@ -1,2 +1,4 @@
 - pkg:maven/com.wgzhao.addax/paimonwriter@4.2.4?classifier=sources
 - pkg:maven/com.wgzhao.addax/paimonwriter@4.3.0?classifier=sources
+- pkg:maven/com.wgzhao.addax/paimonwriter@5.0.0?classifier=sources
+- pkg:maven/com.wgzhao.addax/paimonwriter@5.1.0?classifier=sources

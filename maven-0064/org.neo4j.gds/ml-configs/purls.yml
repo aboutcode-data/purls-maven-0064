@@ -4,3 +4,4 @@
 - pkg:maven/org.neo4j.gds/ml-configs@2.13.3?classifier=sources
 - pkg:maven/org.neo4j.gds/ml-configs@2.14.0?classifier=sources
 - pkg:maven/org.neo4j.gds/ml-configs@2.15.0?classifier=sources
+- pkg:maven/org.neo4j.gds/ml-configs@2.16.0?classifier=sources

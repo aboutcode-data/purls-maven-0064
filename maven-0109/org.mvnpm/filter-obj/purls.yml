@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/filter-obj@5.1.0?classifier=sources
+- pkg:maven/org.mvnpm/filter-obj@6.1.0?classifier=sources
