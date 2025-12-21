@@ -356,3 +356,5 @@
 - pkg:maven/com.adobe.aem/aem-forms-sdk-api@2025.07.23.02-250700?classifier=sources
 - pkg:maven/com.adobe.aem/aem-forms-sdk-api@2025.07.23.02-250800
 - pkg:maven/com.adobe.aem/aem-forms-sdk-api@2025.07.23.02-250800?classifier=sources
+- pkg:maven/com.adobe.aem/aem-forms-sdk-api@2025.08.31.00-250800
+- pkg:maven/com.adobe.aem/aem-forms-sdk-api@2025.08.31.00-250800?classifier=sources

@@ -34,3 +34,5 @@
 - pkg:maven/com.google.apis/google-api-services-looker@v1-rev20250721-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-looker@v1-rev20250824-2.0.0
 - pkg:maven/com.google.apis/google-api-services-looker@v1-rev20250824-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-looker@v1-rev20250906-2.0.0
+- pkg:maven/com.google.apis/google-api-services-looker@v1-rev20250906-2.0.0?classifier=sources

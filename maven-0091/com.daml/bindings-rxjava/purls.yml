@@ -3172,3 +3172,15 @@
 - pkg:maven/com.daml/bindings-rxjava@3.4.0-snapshot.20250902.14169.0.v7de16e0c?classifier=sources
 - pkg:maven/com.daml/bindings-rxjava@3.4.0-snapshot.20250903.14173.0.v4cf54bab
 - pkg:maven/com.daml/bindings-rxjava@3.4.0-snapshot.20250903.14173.0.v4cf54bab?classifier=sources
+- pkg:maven/com.daml/bindings-rxjava@3.4.0-snapshot.20250904.14175.0.vf7bcb078
+- pkg:maven/com.daml/bindings-rxjava@3.4.0-snapshot.20250904.14175.0.vf7bcb078?classifier=sources
+- pkg:maven/com.daml/bindings-rxjava@3.4.0-snapshot.20250904.14179.0.v8db424cc
+- pkg:maven/com.daml/bindings-rxjava@3.4.0-snapshot.20250904.14179.0.v8db424cc?classifier=sources
+- pkg:maven/com.daml/bindings-rxjava@3.4.0-snapshot.20250905.14180.0.v911aea04
+- pkg:maven/com.daml/bindings-rxjava@3.4.0-snapshot.20250905.14180.0.v911aea04?classifier=sources
+- pkg:maven/com.daml/bindings-rxjava@3.4.0-snapshot.20250905.14182.0.v4bc093c6
+- pkg:maven/com.daml/bindings-rxjava@3.4.0-snapshot.20250905.14182.0.v4bc093c6?classifier=sources
+- pkg:maven/com.daml/bindings-rxjava@3.4.0-snapshot.20250908.14185.0.vd91c46d8
+- pkg:maven/com.daml/bindings-rxjava@3.4.0-snapshot.20250908.14185.0.vd91c46d8?classifier=sources
+- pkg:maven/com.daml/bindings-rxjava@3.4.0-snapshot.20250908.14186.0.v62791a1e
+- pkg:maven/com.daml/bindings-rxjava@3.4.0-snapshot.20250908.14186.0.v62791a1e?classifier=sources

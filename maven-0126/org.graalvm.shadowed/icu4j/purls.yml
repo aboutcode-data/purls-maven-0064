@@ -34,3 +34,5 @@
 - pkg:maven/org.graalvm.shadowed/icu4j@24.2.1?classifier=sources
 - pkg:maven/org.graalvm.shadowed/icu4j@24.2.2
 - pkg:maven/org.graalvm.shadowed/icu4j@24.2.2?classifier=sources
+- pkg:maven/org.graalvm.shadowed/icu4j@25.0.0
+- pkg:maven/org.graalvm.shadowed/icu4j@25.0.0?classifier=sources

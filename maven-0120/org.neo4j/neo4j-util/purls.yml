@@ -22,6 +22,8 @@
 - pkg:maven/org.neo4j/neo4j-util@2025.07.1?classifier=sources
 - pkg:maven/org.neo4j/neo4j-util@2025.08.0
 - pkg:maven/org.neo4j/neo4j-util@2025.08.0?classifier=sources
+- pkg:maven/org.neo4j/neo4j-util@2025.09.0
+- pkg:maven/org.neo4j/neo4j-util@2025.09.0?classifier=sources
 - pkg:maven/org.neo4j/neo4j-util@4.1.0
 - pkg:maven/org.neo4j/neo4j-util@4.1.0?classifier=sources
 - pkg:maven/org.neo4j/neo4j-util@4.1.1

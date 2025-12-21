@@ -29,3 +29,4 @@
 - pkg:maven/io.kestra.plugin/plugin-jdbc-dremio@0.23.0?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-jdbc-dremio@0.24.0?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-jdbc-dremio@0.24.1?classifier=sources
+- pkg:maven/io.kestra.plugin/plugin-jdbc-dremio@1.0.0?classifier=sources

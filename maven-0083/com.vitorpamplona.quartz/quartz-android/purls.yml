@@ -1,0 +1,2 @@
+- pkg:maven/com.vitorpamplona.quartz/quartz-android@1.03.0?classifier=sources
+- pkg:maven/com.vitorpamplona.quartz/quartz-android@unspecified?classifier=sources

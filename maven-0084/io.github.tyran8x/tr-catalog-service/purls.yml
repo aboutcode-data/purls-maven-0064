@@ -1,0 +1,2 @@
+- pkg:maven/io.github.tyran8x/tr-catalog-service@1.0.3?classifier=sources
+- pkg:maven/io.github.tyran8x/tr-catalog-service@1.0.4?classifier=sources

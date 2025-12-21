@@ -1,5 +1,6 @@
 - pkg:maven/org.umlg/sqlg-hikari@2.1.6
 - pkg:maven/org.umlg/sqlg-hikari@2.1.6?classifier=sources
+- pkg:maven/org.umlg/sqlg-hikari@2.1.7?classifier=sources
 - pkg:maven/org.umlg/sqlg-hikari@3.0.0
 - pkg:maven/org.umlg/sqlg-hikari@3.0.0?classifier=sources
 - pkg:maven/org.umlg/sqlg-hikari@3.0.1

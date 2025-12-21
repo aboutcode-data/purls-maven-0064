@@ -1,1 +1,2 @@
 - pkg:maven/org.entur.ror.helpers/stopplace-changelog-starter@5.44.0?classifier=sources
+- pkg:maven/org.entur.ror.helpers/stopplace-changelog-starter@5.46.0?classifier=sources

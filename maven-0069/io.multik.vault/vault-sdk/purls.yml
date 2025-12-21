@@ -1,1 +1,2 @@
 - pkg:maven/io.multik.vault/vault-sdk@1.0.0?classifier=sources
+- pkg:maven/io.multik.vault/vault-sdk@1.2.0?classifier=sources

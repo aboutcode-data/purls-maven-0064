@@ -1,0 +1,4 @@
+- pkg:maven/io.github.rickmvi/utility@1.10.03?classifier=sources
+- pkg:maven/io.github.rickmvi/utility@1.10.04?classifier=sources
+- pkg:maven/io.github.rickmvi/utility@1.10.05?classifier=sources
+- pkg:maven/io.github.rickmvi/utility@1.10.06?classifier=sources

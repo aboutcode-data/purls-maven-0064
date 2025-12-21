@@ -6,3 +6,7 @@
 - pkg:maven/no.sikt/graphitron-javapoet@5.1.4?classifier=sources
 - pkg:maven/no.sikt/graphitron-javapoet@5.2.0?classifier=sources
 - pkg:maven/no.sikt/graphitron-javapoet@5.3.0?classifier=sources
+- pkg:maven/no.sikt/graphitron-javapoet@6.0.0?classifier=sources
+- pkg:maven/no.sikt/graphitron-javapoet@6.1.0?classifier=sources
+- pkg:maven/no.sikt/graphitron-javapoet@6.1.1?classifier=sources
+- pkg:maven/no.sikt/graphitron-javapoet@6.1.2?classifier=sources

@@ -95,3 +95,4 @@
 - pkg:maven/org.webjars.npm/dompurify@3.2.4
 - pkg:maven/org.webjars.npm/dompurify@3.2.5
 - pkg:maven/org.webjars.npm/dompurify@3.2.6
+- pkg:maven/org.webjars.npm/dompurify@3.2.7

@@ -1,1 +1,2 @@
 - pkg:maven/us.ihmc/jros2@1.0.0?classifier=sources
+- pkg:maven/us.ihmc/jros2@1.0.1?classifier=sources

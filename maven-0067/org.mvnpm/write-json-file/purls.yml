@@ -1,3 +1,5 @@
 - pkg:maven/org.mvnpm/write-json-file@1.2.0?classifier=sources
 - pkg:maven/org.mvnpm/write-json-file@5.0.0?classifier=sources
 - pkg:maven/org.mvnpm/write-json-file@6.0.0?classifier=sources
+- pkg:maven/org.mvnpm/write-json-file@7.0.0
+- pkg:maven/org.mvnpm/write-json-file@7.0.0?classifier=sources

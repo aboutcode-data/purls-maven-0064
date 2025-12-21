@@ -10,3 +10,4 @@
 - pkg:maven/com.ibm.cics/com.ibm.cics.server.invocation@5.6-PH63855?classifier=sources
 - pkg:maven/com.ibm.cics/com.ibm.cics.server.invocation@6.1-PH63856?classifier=sources
 - pkg:maven/com.ibm.cics/com.ibm.cics.server.invocation@6.2-PH63856?classifier=sources
+- pkg:maven/com.ibm.cics/com.ibm.cics.server.invocation@6.3?classifier=sources

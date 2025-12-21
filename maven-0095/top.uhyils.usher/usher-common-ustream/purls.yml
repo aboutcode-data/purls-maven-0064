@@ -1,1 +1,2 @@
 - pkg:maven/top.uhyils.usher/usher-common-ustream@2.1.0.7.usher?classifier=sources
+- pkg:maven/top.uhyils.usher/usher-common-ustream@2.1.0.8.usher?classifier=sources

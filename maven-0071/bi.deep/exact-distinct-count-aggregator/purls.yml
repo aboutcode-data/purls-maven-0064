@@ -10,3 +10,4 @@
 - pkg:maven/bi.deep/exact-distinct-count-aggregator@31.0.0?classifier=sources
 - pkg:maven/bi.deep/exact-distinct-count-aggregator@32.0.1
 - pkg:maven/bi.deep/exact-distinct-count-aggregator@32.0.1?classifier=sources
+- pkg:maven/bi.deep/exact-distinct-count-aggregator@33.0.0?classifier=sources

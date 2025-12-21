@@ -73,6 +73,7 @@
 - pkg:maven/org.infinispan.protostream/protostream-processor@4.4.3.Final?classifier=sources
 - pkg:maven/org.infinispan.protostream/protostream-processor@4.4.4.Final
 - pkg:maven/org.infinispan.protostream/protostream-processor@4.4.4.Final?classifier=sources
+- pkg:maven/org.infinispan.protostream/protostream-processor@4.4.5.Final?classifier=sources
 - pkg:maven/org.infinispan.protostream/protostream-processor@4.5.0.CR1
 - pkg:maven/org.infinispan.protostream/protostream-processor@4.5.0.CR1?classifier=sources
 - pkg:maven/org.infinispan.protostream/protostream-processor@4.5.0.Dev01
@@ -158,3 +159,4 @@
 - pkg:maven/org.infinispan.protostream/protostream-processor@6.0.0.Dev10?classifier=sources
 - pkg:maven/org.infinispan.protostream/protostream-processor@6.0.0.Dev11?classifier=sources
 - pkg:maven/org.infinispan.protostream/protostream-processor@6.0.0.Dev12?classifier=sources
+- pkg:maven/org.infinispan.protostream/protostream-processor@6.0.0.Dev13?classifier=sources

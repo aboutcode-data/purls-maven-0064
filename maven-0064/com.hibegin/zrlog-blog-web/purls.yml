@@ -4,6 +4,7 @@
 - pkg:maven/com.hibegin/zrlog-blog-web@3.2.109?classifier=sources
 - pkg:maven/com.hibegin/zrlog-blog-web@3.2.111?classifier=sources
 - pkg:maven/com.hibegin/zrlog-blog-web@3.2.112?classifier=sources
+- pkg:maven/com.hibegin/zrlog-blog-web@3.2.115?classifier=sources
 - pkg:maven/com.hibegin/zrlog-blog-web@3.2.14?classifier=sources
 - pkg:maven/com.hibegin/zrlog-blog-web@3.2.1?classifier=sources
 - pkg:maven/com.hibegin/zrlog-blog-web@3.2.35?classifier=sources

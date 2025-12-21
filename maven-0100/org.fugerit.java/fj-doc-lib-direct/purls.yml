@@ -22,3 +22,5 @@
 - pkg:maven/org.fugerit.java/fj-doc-lib-direct@8.16.0?classifier=sources
 - pkg:maven/org.fugerit.java/fj-doc-lib-direct@8.16.1?classifier=sources
 - pkg:maven/org.fugerit.java/fj-doc-lib-direct@8.16.2?classifier=sources
+- pkg:maven/org.fugerit.java/fj-doc-lib-direct@8.16.3?classifier=sources
+- pkg:maven/org.fugerit.java/fj-doc-lib-direct@8.16.4?classifier=sources

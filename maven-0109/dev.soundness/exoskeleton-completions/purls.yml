@@ -48,3 +48,5 @@
 - pkg:maven/dev.soundness/exoskeleton-completions@0.39.0?classifier=sources
 - pkg:maven/dev.soundness/exoskeleton-completions@0.40.0
 - pkg:maven/dev.soundness/exoskeleton-completions@0.40.0?classifier=sources
+- pkg:maven/dev.soundness/exoskeleton-completions@0.41.0
+- pkg:maven/dev.soundness/exoskeleton-completions@0.41.0?classifier=sources

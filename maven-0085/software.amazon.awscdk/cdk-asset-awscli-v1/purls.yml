@@ -424,6 +424,10 @@
 - pkg:maven/software.amazon.awscdk/cdk-asset-awscli-v1@2.2.250?classifier=sources
 - pkg:maven/software.amazon.awscdk/cdk-asset-awscli-v1@2.2.251
 - pkg:maven/software.amazon.awscdk/cdk-asset-awscli-v1@2.2.251?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-asset-awscli-v1@2.2.252
+- pkg:maven/software.amazon.awscdk/cdk-asset-awscli-v1@2.2.252?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-asset-awscli-v1@2.2.253
+- pkg:maven/software.amazon.awscdk/cdk-asset-awscli-v1@2.2.253?classifier=sources
 - pkg:maven/software.amazon.awscdk/cdk-asset-awscli-v1@2.2.25?classifier=sources
 - pkg:maven/software.amazon.awscdk/cdk-asset-awscli-v1@2.2.26
 - pkg:maven/software.amazon.awscdk/cdk-asset-awscli-v1@2.2.26?classifier=sources

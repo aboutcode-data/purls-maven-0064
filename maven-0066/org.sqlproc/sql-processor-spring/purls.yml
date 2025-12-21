@@ -135,3 +135,4 @@
 - pkg:maven/org.sqlproc/sql-processor-spring@3.6.1
 - pkg:maven/org.sqlproc/sql-processor-spring@3.6.1?classifier=sources
 - pkg:maven/org.sqlproc/sql-processor-spring@3.7.0?classifier=sources
+- pkg:maven/org.sqlproc/sql-processor-spring@3.8.0?classifier=sources

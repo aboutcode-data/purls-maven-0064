@@ -158,3 +158,4 @@
 - pkg:maven/net.polyv/polyv-java-live-sdk@2.1.9.2
 - pkg:maven/net.polyv/polyv-java-live-sdk@2.1.9.2?classifier=sources
 - pkg:maven/net.polyv/polyv-java-live-sdk@2.1.9?classifier=sources
+- pkg:maven/net.polyv/polyv-java-live-sdk@2.2.0?classifier=sources

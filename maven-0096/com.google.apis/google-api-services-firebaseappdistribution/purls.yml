@@ -64,3 +64,9 @@
 - pkg:maven/com.google.apis/google-api-services-firebaseappdistribution@v1alpha-rev20250822-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-firebaseappdistribution@v1alpha-rev20250825-2.0.0
 - pkg:maven/com.google.apis/google-api-services-firebaseappdistribution@v1alpha-rev20250825-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-firebaseappdistribution@v1alpha-rev20250902-2.0.0
+- pkg:maven/com.google.apis/google-api-services-firebaseappdistribution@v1alpha-rev20250902-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-firebaseappdistribution@v1alpha-rev20250912-2.0.0
+- pkg:maven/com.google.apis/google-api-services-firebaseappdistribution@v1alpha-rev20250912-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-firebaseappdistribution@v1alpha-rev20250916-2.0.0
+- pkg:maven/com.google.apis/google-api-services-firebaseappdistribution@v1alpha-rev20250916-2.0.0?classifier=sources

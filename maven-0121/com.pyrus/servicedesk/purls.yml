@@ -1,8 +1,14 @@
+- pkg:maven/com.pyrus/servicedesk@0.0.01-alpha?classifier=sources
 - pkg:maven/com.pyrus/servicedesk@0.0.01?classifier=sources
+- pkg:maven/com.pyrus/servicedesk@0.0.02-alpha?classifier=sources
 - pkg:maven/com.pyrus/servicedesk@0.0.02?classifier=sources
+- pkg:maven/com.pyrus/servicedesk@0.0.03-alpha?classifier=sources
 - pkg:maven/com.pyrus/servicedesk@0.0.03?classifier=sources
+- pkg:maven/com.pyrus/servicedesk@0.0.04-alpha?classifier=sources
 - pkg:maven/com.pyrus/servicedesk@0.0.04?classifier=sources
+- pkg:maven/com.pyrus/servicedesk@0.0.05-alpha?classifier=sources
 - pkg:maven/com.pyrus/servicedesk@0.0.05?classifier=sources
+- pkg:maven/com.pyrus/servicedesk@0.0.06-alpha?classifier=sources
 - pkg:maven/com.pyrus/servicedesk@0.0.06?classifier=sources
 - pkg:maven/com.pyrus/servicedesk@0.0.07?classifier=sources
 - pkg:maven/com.pyrus/servicedesk@0.0.08?classifier=sources
@@ -70,6 +76,7 @@
 - pkg:maven/com.pyrus/servicedesk@1.5.9?classifier=sources
 - pkg:maven/com.pyrus/servicedesk@1.6.01?classifier=sources
 - pkg:maven/com.pyrus/servicedesk@1.7.01?classifier=sources
+- pkg:maven/com.pyrus/servicedesk@1.7.03?classifier=sources
 - pkg:maven/com.pyrus/servicedesk@debug-1.5.01?classifier=sources
 - pkg:maven/com.pyrus/servicedesk@debug-1.5.02?classifier=sources
 - pkg:maven/com.pyrus/servicedesk@debug-1.5.1?classifier=sources

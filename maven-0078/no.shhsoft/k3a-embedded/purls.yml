@@ -181,3 +181,9 @@
 - pkg:maven/no.shhsoft/k3a-embedded@0.5.9%2B3.9.0
 - pkg:maven/no.shhsoft/k3a-embedded@0.5.9%2B3.9.0?classifier=sources
 - pkg:maven/no.shhsoft/k3a-embedded@0.5.9?classifier=sources
+- pkg:maven/no.shhsoft/k3a-embedded@0.6.0%2B3.8.0?classifier=sources
+- pkg:maven/no.shhsoft/k3a-embedded@0.6.0%2B3.8.1?classifier=sources
+- pkg:maven/no.shhsoft/k3a-embedded@0.6.0%2B3.9.0?classifier=sources
+- pkg:maven/no.shhsoft/k3a-embedded@0.6.0%2B4.0.0?classifier=sources
+- pkg:maven/no.shhsoft/k3a-embedded@0.6.0%2B4.1.0?classifier=sources
+- pkg:maven/no.shhsoft/k3a-embedded@0.6.0?classifier=sources

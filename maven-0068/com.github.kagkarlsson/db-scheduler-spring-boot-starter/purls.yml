@@ -53,6 +53,7 @@
 - pkg:maven/com.github.kagkarlsson/db-scheduler-spring-boot-starter@15.5.0?classifier=sources
 - pkg:maven/com.github.kagkarlsson/db-scheduler-spring-boot-starter@15.6.0?classifier=sources
 - pkg:maven/com.github.kagkarlsson/db-scheduler-spring-boot-starter@16.0.0?classifier=sources
+- pkg:maven/com.github.kagkarlsson/db-scheduler-spring-boot-starter@16.1.0?classifier=sources
 - pkg:maven/com.github.kagkarlsson/db-scheduler-spring-boot-starter@6.0
 - pkg:maven/com.github.kagkarlsson/db-scheduler-spring-boot-starter@6.0?classifier=sources
 - pkg:maven/com.github.kagkarlsson/db-scheduler-spring-boot-starter@6.1

@@ -1,0 +1,2 @@
+- pkg:maven/io.orqueio.commons/orqueio-commons-testing@0.24.0-alpha?classifier=sources
+- pkg:maven/io.orqueio.commons/orqueio-commons-testing@1.0.0?classifier=sources

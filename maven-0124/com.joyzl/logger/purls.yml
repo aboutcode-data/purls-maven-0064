@@ -1,3 +1,5 @@
 - pkg:maven/com.joyzl/logger@1.1.1?classifier=sources
 - pkg:maven/com.joyzl/logger@3.0.0?classifier=sources
 - pkg:maven/com.joyzl/logger@3.0.2?classifier=sources
+- pkg:maven/com.joyzl/logger@3.0.4?classifier=sources
+- pkg:maven/com.joyzl/logger@3.0.5?classifier=sources

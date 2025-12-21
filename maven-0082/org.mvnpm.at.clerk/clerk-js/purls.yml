@@ -64,3 +64,11 @@
 - pkg:maven/org.mvnpm.at.clerk/clerk-js@5.92.0?classifier=sources
 - pkg:maven/org.mvnpm.at.clerk/clerk-js@5.92.1
 - pkg:maven/org.mvnpm.at.clerk/clerk-js@5.92.1?classifier=sources
+- pkg:maven/org.mvnpm.at.clerk/clerk-js@5.93.0
+- pkg:maven/org.mvnpm.at.clerk/clerk-js@5.93.0?classifier=sources
+- pkg:maven/org.mvnpm.at.clerk/clerk-js@5.94.0
+- pkg:maven/org.mvnpm.at.clerk/clerk-js@5.94.0?classifier=sources
+- pkg:maven/org.mvnpm.at.clerk/clerk-js@5.95.0
+- pkg:maven/org.mvnpm.at.clerk/clerk-js@5.95.0?classifier=sources
+- pkg:maven/org.mvnpm.at.clerk/clerk-js@5.96.0
+- pkg:maven/org.mvnpm.at.clerk/clerk-js@5.96.0?classifier=sources

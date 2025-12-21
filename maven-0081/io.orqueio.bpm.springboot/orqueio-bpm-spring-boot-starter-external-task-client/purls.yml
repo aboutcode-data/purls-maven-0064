@@ -1,0 +1,2 @@
+- pkg:maven/io.orqueio.bpm.springboot/orqueio-bpm-spring-boot-starter-external-task-client@0.24.0-alpha?classifier=sources
+- pkg:maven/io.orqueio.bpm.springboot/orqueio-bpm-spring-boot-starter-external-task-client@1.0.0?classifier=sources

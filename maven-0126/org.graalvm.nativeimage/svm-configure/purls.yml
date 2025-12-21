@@ -110,3 +110,5 @@
 - pkg:maven/org.graalvm.nativeimage/svm-configure@22.0.0.2
 - pkg:maven/org.graalvm.nativeimage/svm-configure@22.0.0.2?classifier=sources
 - pkg:maven/org.graalvm.nativeimage/svm-configure@22.0.0?classifier=sources
+- pkg:maven/org.graalvm.nativeimage/svm-configure@25.0.0
+- pkg:maven/org.graalvm.nativeimage/svm-configure@25.0.0?classifier=sources
