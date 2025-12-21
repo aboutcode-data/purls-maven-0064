@@ -24,3 +24,5 @@
 - pkg:maven/org.tango-controls/JTangoServer@9.7.2?classifier=sources
 - pkg:maven/org.tango-controls/JTangoServer@9.7.3
 - pkg:maven/org.tango-controls/JTangoServer@9.7.3?classifier=sources
+- pkg:maven/org.tango-controls/JTangoServer@9.7.4
+- pkg:maven/org.tango-controls/JTangoServer@9.7.4?classifier=sources

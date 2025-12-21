@@ -1,4 +1,7 @@
+- pkg:maven/org.mvnpm/iconv-lite@0.2.11?classifier=sources
+- pkg:maven/org.mvnpm/iconv-lite@0.2.7?classifier=sources
 - pkg:maven/org.mvnpm/iconv-lite@0.4.23?classifier=sources
 - pkg:maven/org.mvnpm/iconv-lite@0.4.24?classifier=sources
+- pkg:maven/org.mvnpm/iconv-lite@0.4.3?classifier=sources
 - pkg:maven/org.mvnpm/iconv-lite@0.6.0?classifier=sources
 - pkg:maven/org.mvnpm/iconv-lite@0.6.3?classifier=sources

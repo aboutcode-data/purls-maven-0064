@@ -1,0 +1,2 @@
+- pkg:maven/io.cdap.cdap/cdap-messaging-ext-spanner@6.11.0
+- pkg:maven/io.cdap.cdap/cdap-messaging-ext-spanner@6.11.0?classifier=sources

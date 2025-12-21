@@ -1,0 +1,2 @@
+- pkg:maven/io.github.nafg/slick-additions-testcontainers_2.13@0.14.0
+- pkg:maven/io.github.nafg/slick-additions-testcontainers_2.13@0.14.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/io.github.jiri-meluzin/maven-git-versioning-extension@9.10.0-PluginDepFix
+- pkg:maven/io.github.jiri-meluzin/maven-git-versioning-extension@9.10.0-PluginDepFix?classifier=sources
+- pkg:maven/io.github.jiri-meluzin/maven-git-versioning-extension@9.10.0-VFFix
+- pkg:maven/io.github.jiri-meluzin/maven-git-versioning-extension@9.10.0-VFFix?classifier=sources

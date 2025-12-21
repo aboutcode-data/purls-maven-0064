@@ -8,3 +8,4 @@
 - pkg:maven/de.otto/kafka-messaging-e2ee@2.2.0?classifier=sources
 - pkg:maven/de.otto/kafka-messaging-e2ee@2.2.5?classifier=sources
 - pkg:maven/de.otto/kafka-messaging-e2ee@2.2.6?classifier=sources
+- pkg:maven/de.otto/kafka-messaging-e2ee@2.2.7?classifier=sources

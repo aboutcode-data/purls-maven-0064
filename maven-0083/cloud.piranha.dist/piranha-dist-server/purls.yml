@@ -54,3 +54,7 @@
 - pkg:maven/cloud.piranha.dist/piranha-dist-server@24.9.0?type=zip
 - pkg:maven/cloud.piranha.dist/piranha-dist-server@25.1.0?classifier=sources
 - pkg:maven/cloud.piranha.dist/piranha-dist-server@25.1.0?type=zip
+- pkg:maven/cloud.piranha.dist/piranha-dist-server@25.2.0?classifier=sources
+- pkg:maven/cloud.piranha.dist/piranha-dist-server@25.2.0?type=zip
+- pkg:maven/cloud.piranha.dist/piranha-dist-server@25.3.0?classifier=sources
+- pkg:maven/cloud.piranha.dist/piranha-dist-server@25.3.0?type=zip

@@ -54,6 +54,12 @@
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-mongodb@3.1.1194?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-mongodb@3.1.1196
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-mongodb@3.1.1196?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-mongodb@3.1.1216
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-mongodb@3.1.1216?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-mongodb@3.1.1217
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-mongodb@3.1.1217?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-mongodb@3.1.1218
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-mongodb@3.1.1218?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-mongodb@3.1.179
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-mongodb@3.1.179?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-mongodb@3.1.180

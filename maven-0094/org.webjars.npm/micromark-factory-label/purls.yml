@@ -2,3 +2,4 @@
 - pkg:maven/org.webjars.npm/micromark-factory-label@1.0.2?classifier=sources
 - pkg:maven/org.webjars.npm/micromark-factory-label@1.1.0
 - pkg:maven/org.webjars.npm/micromark-factory-label@1.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/micromark-factory-label@2.0.1

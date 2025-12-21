@@ -18,3 +18,7 @@
 - pkg:maven/io.github.electrostat-lab/snaploader@1.0.0-zeta-3
 - pkg:maven/io.github.electrostat-lab/snaploader@1.0.0-zeta-3?classifier=sources
 - pkg:maven/io.github.electrostat-lab/snaploader@1.0.0-zeta?classifier=sources
+- pkg:maven/io.github.electrostat-lab/snaploader@1.1.0-alpha
+- pkg:maven/io.github.electrostat-lab/snaploader@1.1.0-alpha?classifier=sources
+- pkg:maven/io.github.electrostat-lab/snaploader@1.1.0-beta
+- pkg:maven/io.github.electrostat-lab/snaploader@1.1.0-beta?classifier=sources

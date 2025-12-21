@@ -4,3 +4,7 @@
 - pkg:maven/com.gu/janus-config-tools_2.13@0.0.6?classifier=sources
 - pkg:maven/com.gu/janus-config-tools_2.13@1.0.0
 - pkg:maven/com.gu/janus-config-tools_2.13@1.0.0?classifier=sources
+- pkg:maven/com.gu/janus-config-tools_2.13@2.0.0
+- pkg:maven/com.gu/janus-config-tools_2.13@2.0.0-PREVIEW.kciam-upgrade.2025-02-13T1423.aa8d44ad
+- pkg:maven/com.gu/janus-config-tools_2.13@2.0.0-PREVIEW.kciam-upgrade.2025-02-13T1423.aa8d44ad?classifier=sources
+- pkg:maven/com.gu/janus-config-tools_2.13@2.0.0?classifier=sources

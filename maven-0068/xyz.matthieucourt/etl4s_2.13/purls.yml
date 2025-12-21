@@ -2,3 +2,9 @@
 - pkg:maven/xyz.matthieucourt/etl4s_2.13@0.0.4?classifier=sources
 - pkg:maven/xyz.matthieucourt/etl4s_2.13@0.0.5
 - pkg:maven/xyz.matthieucourt/etl4s_2.13@0.0.5?classifier=sources
+- pkg:maven/xyz.matthieucourt/etl4s_2.13@0.0.7
+- pkg:maven/xyz.matthieucourt/etl4s_2.13@0.0.7?classifier=sources
+- pkg:maven/xyz.matthieucourt/etl4s_2.13@1.0.0
+- pkg:maven/xyz.matthieucourt/etl4s_2.13@1.0.0?classifier=sources
+- pkg:maven/xyz.matthieucourt/etl4s_2.13@1.0.1
+- pkg:maven/xyz.matthieucourt/etl4s_2.13@1.0.1?classifier=sources

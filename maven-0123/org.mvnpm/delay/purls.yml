@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/delay@5.0.0?classifier=sources
+- pkg:maven/org.mvnpm/delay@6.0.0?classifier=sources

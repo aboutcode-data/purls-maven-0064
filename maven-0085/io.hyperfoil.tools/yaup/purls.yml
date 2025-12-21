@@ -64,3 +64,5 @@
 - pkg:maven/io.hyperfoil.tools/yaup@0.9.3?classifier=sources
 - pkg:maven/io.hyperfoil.tools/yaup@0.9.4
 - pkg:maven/io.hyperfoil.tools/yaup@0.9.4?classifier=sources
+- pkg:maven/io.hyperfoil.tools/yaup@0.9.5
+- pkg:maven/io.hyperfoil.tools/yaup@0.9.5?classifier=sources

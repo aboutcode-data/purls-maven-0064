@@ -1,3 +1,4 @@
 - pkg:maven/io.github.haidubogdan.netbeans.modules/php-blade@2.4.9.1?classifier=sources
 - pkg:maven/io.github.haidubogdan.netbeans.modules/php-blade@2.4.9?classifier=sources
 - pkg:maven/io.github.haidubogdan.netbeans.modules/php-blade@2.5.0.0?classifier=sources
+- pkg:maven/io.github.haidubogdan.netbeans.modules/php-blade@2.5.1.0?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/io.github.droibit.oss-licenses-android/ui-wear@0.7.0?classifier=sources
+- pkg:maven/io.github.droibit.oss-licenses-android/ui-wear@0.7.1?classifier=sources

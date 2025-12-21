@@ -1,1 +1,2 @@
 - pkg:maven/org.mvnpm/node-gyp-build@4.8.1?classifier=sources
+- pkg:maven/org.mvnpm/node-gyp-build@4.8.4?classifier=sources

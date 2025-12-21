@@ -10,3 +10,4 @@
 - pkg:maven/org.webjars.npm/vfile-message@2.0.2?classifier=sources
 - pkg:maven/org.webjars.npm/vfile-message@2.0.4
 - pkg:maven/org.webjars.npm/vfile-message@2.0.4?classifier=sources
+- pkg:maven/org.webjars.npm/vfile-message@4.0.2

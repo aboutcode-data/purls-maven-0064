@@ -1,0 +1,4 @@
+- pkg:maven/de.cuioss.test/cui-test-mockwebserver-junit5@1.0.0
+- pkg:maven/de.cuioss.test/cui-test-mockwebserver-junit5@1.0.0?classifier=sources
+- pkg:maven/de.cuioss.test/cui-test-mockwebserver-junit5@1.1.0
+- pkg:maven/de.cuioss.test/cui-test-mockwebserver-junit5@1.1.0?classifier=sources

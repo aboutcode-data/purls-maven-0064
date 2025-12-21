@@ -27,3 +27,5 @@
 - pkg:maven/com.microsoft.gctoolkit/gctoolkit-api@3.0.4
 - pkg:maven/com.microsoft.gctoolkit/gctoolkit-api@3.0.4?classifier=sources
 - pkg:maven/com.microsoft.gctoolkit/gctoolkit-api@3.1.2?classifier=sources
+- pkg:maven/com.microsoft.gctoolkit/gctoolkit-api@3.4.0?classifier=sources
+- pkg:maven/com.microsoft.gctoolkit/gctoolkit-api@3.5.0?classifier=sources

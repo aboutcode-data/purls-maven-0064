@@ -1,3 +1,4 @@
 - pkg:maven/org.webjars.npm/hastscript@6.0.0
 - pkg:maven/org.webjars.npm/hastscript@6.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/hastscript@7.2.0
+- pkg:maven/org.webjars.npm/hastscript@9.0.1

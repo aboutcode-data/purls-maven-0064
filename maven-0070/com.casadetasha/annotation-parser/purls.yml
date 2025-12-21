@@ -4,3 +4,6 @@
 - pkg:maven/com.casadetasha/annotation-parser@0.2.2-alpha-1?classifier=sources
 - pkg:maven/com.casadetasha/annotation-parser@0.2.2-alpha-2?classifier=sources
 - pkg:maven/com.casadetasha/annotation-parser@0.2.2-alpha-4?classifier=sources
+- pkg:maven/com.casadetasha/annotation-parser@2.1.0-alpha2?classifier=sources
+- pkg:maven/com.casadetasha/annotation-parser@2.1.0-alpha3?classifier=sources
+- pkg:maven/com.casadetasha/annotation-parser@2.1.0-alpha?classifier=sources

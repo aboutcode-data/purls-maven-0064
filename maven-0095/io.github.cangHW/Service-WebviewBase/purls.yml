@@ -2,6 +2,7 @@
 - pkg:maven/io.github.cangHW/Service-WebviewBase@0.0.0.2?classifier=sources
 - pkg:maven/io.github.cangHW/Service-WebviewBase@0.0.0.3?classifier=sources
 - pkg:maven/io.github.cangHW/Service-WebviewBase@0.0.10?classifier=sources
+- pkg:maven/io.github.cangHW/Service-WebviewBase@0.0.11?classifier=sources
 - pkg:maven/io.github.cangHW/Service-WebviewBase@0.0.3?classifier=sources
 - pkg:maven/io.github.cangHW/Service-WebviewBase@0.0.4?classifier=sources
 - pkg:maven/io.github.cangHW/Service-WebviewBase@0.0.5?classifier=sources

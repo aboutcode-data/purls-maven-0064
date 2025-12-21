@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/write-json-file@1.2.0?classifier=sources
+- pkg:maven/org.mvnpm/write-json-file@5.0.0?classifier=sources

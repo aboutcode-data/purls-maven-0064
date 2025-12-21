@@ -8,6 +8,8 @@
 - pkg:maven/io.sdks/calculator-java-sdk@3.3.4?classifier=sources
 - pkg:maven/io.sdks/calculator-java-sdk@3.6.98
 - pkg:maven/io.sdks/calculator-java-sdk@3.6.98?classifier=sources
+- pkg:maven/io.sdks/calculator-java-sdk@6.7.689
+- pkg:maven/io.sdks/calculator-java-sdk@6.7.689?classifier=sources
 - pkg:maven/io.sdks/calculator-java-sdk@8.9.9
 - pkg:maven/io.sdks/calculator-java-sdk@8.9.9?classifier=sources
 - pkg:maven/io.sdks/calculator-java-sdk@9.5.1

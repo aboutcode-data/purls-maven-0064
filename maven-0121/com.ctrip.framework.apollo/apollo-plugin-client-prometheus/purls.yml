@@ -1,0 +1,2 @@
+- pkg:maven/com.ctrip.framework.apollo/apollo-plugin-client-prometheus@2.4.0
+- pkg:maven/com.ctrip.framework.apollo/apollo-plugin-client-prometheus@2.4.0?classifier=sources

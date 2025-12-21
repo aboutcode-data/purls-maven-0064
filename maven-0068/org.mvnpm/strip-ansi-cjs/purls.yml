@@ -1,0 +1,3 @@
+- pkg:maven/org.mvnpm/strip-ansi-cjs@1.0.0?classifier=sources
+- pkg:maven/org.mvnpm/strip-ansi-cjs@2.0.0?classifier=sources
+- pkg:maven/org.mvnpm/strip-ansi-cjs@8.0.0?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/com.gu/kcl-pekko-stream_2.13@0.1.0-PREVIEW.anprep-release.2025-01-16T1415.937816fd
 - pkg:maven/com.gu/kcl-pekko-stream_2.13@0.1.0-PREVIEW.anprep-release.2025-01-16T1415.937816fd?classifier=sources
 - pkg:maven/com.gu/kcl-pekko-stream_2.13@0.1.0?classifier=sources
+- pkg:maven/com.gu/kcl-pekko-stream_2.13@0.1.1-PREVIEW.ankcl-3-initial-release.2025-02-20T1631.ae4d5771
+- pkg:maven/com.gu/kcl-pekko-stream_2.13@0.1.1-PREVIEW.ankcl-3-initial-release.2025-02-20T1631.ae4d5771?classifier=sources

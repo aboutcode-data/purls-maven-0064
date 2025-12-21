@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/err-code@2.0.3?classifier=sources
+- pkg:maven/org.mvnpm/err-code@3.0.1?classifier=sources

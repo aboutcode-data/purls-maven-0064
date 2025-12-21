@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkus/quarkus-tls-registry-deployment-spi@3.21.0.CR1
+- pkg:maven/io.quarkus/quarkus-tls-registry-deployment-spi@3.21.0.CR1?classifier=sources

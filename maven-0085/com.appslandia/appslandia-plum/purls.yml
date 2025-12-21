@@ -144,6 +144,8 @@
 - pkg:maven/com.appslandia/appslandia-plum@19.14.0?classifier=sources
 - pkg:maven/com.appslandia/appslandia-plum@19.16.0
 - pkg:maven/com.appslandia/appslandia-plum@19.16.0?classifier=sources
+- pkg:maven/com.appslandia/appslandia-plum@19.17.0
+- pkg:maven/com.appslandia/appslandia-plum@19.17.0?classifier=sources
 - pkg:maven/com.appslandia/appslandia-plum@19.3.0
 - pkg:maven/com.appslandia/appslandia-plum@19.3.0?classifier=sources
 - pkg:maven/com.appslandia/appslandia-plum@19.3.1

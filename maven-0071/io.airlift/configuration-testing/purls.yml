@@ -1,0 +1,2 @@
+- pkg:maven/io.airlift/configuration-testing@315?classifier=sources
+- pkg:maven/io.airlift/configuration-testing@316?classifier=sources

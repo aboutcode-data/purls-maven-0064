@@ -1,0 +1,4 @@
+- pkg:maven/com.magine/http4s-karapace_sjs1_3@2.0-98dda6e
+- pkg:maven/com.magine/http4s-karapace_sjs1_3@2.0-98dda6e?classifier=sources
+- pkg:maven/com.magine/http4s-karapace_sjs1_3@2.0.1
+- pkg:maven/com.magine/http4s-karapace_sjs1_3@2.0.1?classifier=sources

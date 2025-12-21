@@ -130,6 +130,8 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-aivision@2.73.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-aivision@2.79.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-aivision@2.79.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-aivision@2.81.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-aivision@2.81.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-aivision@3.0.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-aivision@3.0.0-beta1
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-aivision@3.0.0-beta1?classifier=sources
@@ -324,8 +326,14 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-aivision@3.57.1?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-aivision@3.57.2
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-aivision@3.57.2?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-aivision@3.58.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-aivision@3.58.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-aivision@3.59.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-aivision@3.59.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-aivision@3.6.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-aivision@3.6.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-aivision@3.60.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-aivision@3.60.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-aivision@3.7.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-aivision@3.7.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-aivision@3.8.0

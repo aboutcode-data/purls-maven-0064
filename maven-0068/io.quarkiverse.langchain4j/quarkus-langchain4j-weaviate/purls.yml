@@ -1,0 +1,1 @@
+- pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-weaviate@0.26.0.CR1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.mi.ads/mint-gson@2.5
+- pkg:maven/com.mi.ads/mint-gson@2.5?classifier=sources

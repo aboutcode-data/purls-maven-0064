@@ -1,3 +1,5 @@
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-core-test-utils@10.13.0.79996?classifier=sources
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-core-test-utils@10.14.0.80189?classifier=sources
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-core-test-utils@10.15.0.80289?classifier=sources
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-core-test-utils@10.16.0.80440?classifier=sources
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-core-test-utils@10.17.0.80607?classifier=sources

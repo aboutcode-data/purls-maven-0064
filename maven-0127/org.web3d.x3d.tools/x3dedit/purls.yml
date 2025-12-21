@@ -9,3 +9,4 @@
 - pkg:maven/org.web3d.x3d.tools/x3dedit@4.0.35?classifier=sources
 - pkg:maven/org.web3d.x3d.tools/x3dedit@4.0.36?classifier=sources
 - pkg:maven/org.web3d.x3d.tools/x3dedit@4.0.36b?classifier=sources
+- pkg:maven/org.web3d.x3d.tools/x3dedit@4.0.37?classifier=sources

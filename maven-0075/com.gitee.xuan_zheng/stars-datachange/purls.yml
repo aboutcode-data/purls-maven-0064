@@ -40,3 +40,7 @@
 - pkg:maven/com.gitee.xuan_zheng/stars-datachange@1.8.0?classifier=sources
 - pkg:maven/com.gitee.xuan_zheng/stars-datachange@1.8.1
 - pkg:maven/com.gitee.xuan_zheng/stars-datachange@1.8.1?classifier=sources
+- pkg:maven/com.gitee.xuan_zheng/stars-datachange@2.0.0
+- pkg:maven/com.gitee.xuan_zheng/stars-datachange@2.0.0?classifier=sources
+- pkg:maven/com.gitee.xuan_zheng/stars-datachange@2.0.1
+- pkg:maven/com.gitee.xuan_zheng/stars-datachange@2.0.1?classifier=sources
