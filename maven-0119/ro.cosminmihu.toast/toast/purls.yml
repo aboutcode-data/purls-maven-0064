@@ -1,3 +1,4 @@
 - pkg:maven/ro.cosminmihu.toast/toast@0.0.5?classifier=sources
 - pkg:maven/ro.cosminmihu.toast/toast@0.0.7?classifier=sources
 - pkg:maven/ro.cosminmihu.toast/toast@1.0.0?classifier=sources
+- pkg:maven/ro.cosminmihu.toast/toast@1.0.1?classifier=sources

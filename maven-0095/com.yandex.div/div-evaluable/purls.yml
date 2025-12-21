@@ -132,6 +132,9 @@
 - pkg:maven/com.yandex.div/div-evaluable@32.2.0?classifier=sources
 - pkg:maven/com.yandex.div/div-evaluable@32.3.0?classifier=sources
 - pkg:maven/com.yandex.div/div-evaluable@32.4.0?classifier=sources
+- pkg:maven/com.yandex.div/div-evaluable@32.5.0?classifier=sources
+- pkg:maven/com.yandex.div/div-evaluable@32.6.0?classifier=sources
+- pkg:maven/com.yandex.div/div-evaluable@32.7.1?classifier=sources
 - pkg:maven/com.yandex.div/div-evaluable@4.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div-evaluable@5.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div-evaluable@6.0.0?classifier=sources

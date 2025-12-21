@@ -27,3 +27,4 @@
 - pkg:maven/com.braze/android-sdk-ui@34.0.0?classifier=sources
 - pkg:maven/com.braze/android-sdk-ui@35.0.0?classifier=sources
 - pkg:maven/com.braze/android-sdk-ui@36.0.0?classifier=sources
+- pkg:maven/com.braze/android-sdk-ui@37.0.0?classifier=sources

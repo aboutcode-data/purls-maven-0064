@@ -2,3 +2,4 @@
 - pkg:maven/com.clean-arch-enablers/cae-env-vars@2.0.0?classifier=sources
 - pkg:maven/com.clean-arch-enablers/cae-env-vars@3.0.0?classifier=sources
 - pkg:maven/com.clean-arch-enablers/cae-env-vars@4.0.0?classifier=sources
+- pkg:maven/com.clean-arch-enablers/cae-env-vars@5.0.0?classifier=sources

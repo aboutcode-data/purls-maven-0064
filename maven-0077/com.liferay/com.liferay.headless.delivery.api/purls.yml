@@ -748,6 +748,8 @@
 - pkg:maven/com.liferay/com.liferay.headless.delivery.api@51.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.delivery.api@52.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.delivery.api@53.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.delivery.api@54.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.delivery.api@54.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.delivery.api@6.0.0
 - pkg:maven/com.liferay/com.liferay.headless.delivery.api@6.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.delivery.api@6.0.0?classifier=sources-commercial

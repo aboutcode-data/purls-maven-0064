@@ -44,3 +44,4 @@
 - pkg:maven/com.dlsc.jfxcentral/model@1.6.0?classifier=sources
 - pkg:maven/com.dlsc.jfxcentral/model@1.9.0
 - pkg:maven/com.dlsc.jfxcentral/model@1.9.0?classifier=sources
+- pkg:maven/com.dlsc.jfxcentral/model@2.5.0?classifier=sources

@@ -43,4 +43,5 @@
 - pkg:maven/org.kie.kogito/kogito-spring-boot-archetype@1.44.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-spring-boot-archetype@1.44.1.Final?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-spring-boot-archetype@10.0.0?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-spring-boot-archetype@10.1.0?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-spring-boot-archetype@2.44.0.Alpha?classifier=sources

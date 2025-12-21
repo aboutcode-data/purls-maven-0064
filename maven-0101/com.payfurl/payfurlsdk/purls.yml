@@ -82,3 +82,4 @@
 - pkg:maven/com.payfurl/payfurlsdk@1.0.20250520?classifier=sources
 - pkg:maven/com.payfurl/payfurlsdk@1.0.20250521?classifier=sources
 - pkg:maven/com.payfurl/payfurlsdk@1.0.20250613?classifier=sources
+- pkg:maven/com.payfurl/payfurlsdk@1.0.20250707?classifier=sources

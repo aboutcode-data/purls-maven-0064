@@ -48,6 +48,7 @@
 - pkg:maven/io.getstream.client/stream-java@3.2.3?classifier=sources
 - pkg:maven/io.getstream.client/stream-java@3.2.4?classifier=sources
 - pkg:maven/io.getstream.client/stream-java@3.20.0?classifier=sources
+- pkg:maven/io.getstream.client/stream-java@3.22.0?classifier=sources
 - pkg:maven/io.getstream.client/stream-java@3.3.0?classifier=sources
 - pkg:maven/io.getstream.client/stream-java@3.4.0?classifier=sources
 - pkg:maven/io.getstream.client/stream-java@3.4.1?classifier=sources

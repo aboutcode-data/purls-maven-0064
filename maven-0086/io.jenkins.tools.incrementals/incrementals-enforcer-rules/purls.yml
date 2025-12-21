@@ -7,6 +7,7 @@
 - pkg:maven/io.jenkins.tools.incrementals/incrementals-enforcer-rules@1.0-beta-7
 - pkg:maven/io.jenkins.tools.incrementals/incrementals-enforcer-rules@1.0-beta-7?classifier=sources
 - pkg:maven/io.jenkins.tools.incrementals/incrementals-enforcer-rules@1.1
+- pkg:maven/io.jenkins.tools.incrementals/incrementals-enforcer-rules@1.10?classifier=sources
 - pkg:maven/io.jenkins.tools.incrementals/incrementals-enforcer-rules@1.1?classifier=sources
 - pkg:maven/io.jenkins.tools.incrementals/incrementals-enforcer-rules@1.2
 - pkg:maven/io.jenkins.tools.incrementals/incrementals-enforcer-rules@1.2?classifier=sources

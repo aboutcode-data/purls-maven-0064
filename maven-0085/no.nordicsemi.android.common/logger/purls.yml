@@ -18,3 +18,5 @@
 - pkg:maven/no.nordicsemi.android.common/logger@2.2.0?classifier=sources
 - pkg:maven/no.nordicsemi.android.common/logger@2.3.0?classifier=sources
 - pkg:maven/no.nordicsemi.android.common/logger@2.4.0?classifier=sources
+- pkg:maven/no.nordicsemi.android.common/logger@2.5.0?classifier=sources
+- pkg:maven/no.nordicsemi.android.common/logger@2.5.1?classifier=sources

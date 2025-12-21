@@ -2,3 +2,5 @@
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.control.modbus.toggle@4.0.0?classifier=sources
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.control.modbus.toggle@5.0.0
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.control.modbus.toggle@5.0.0?classifier=sources
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.control.modbus.toggle@6.0.0
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.control.modbus.toggle@6.0.0?classifier=sources

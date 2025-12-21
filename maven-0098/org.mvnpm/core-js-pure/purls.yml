@@ -38,3 +38,5 @@
 - pkg:maven/org.mvnpm/core-js-pure@3.42.0?classifier=sources
 - pkg:maven/org.mvnpm/core-js-pure@3.43.0
 - pkg:maven/org.mvnpm/core-js-pure@3.43.0?classifier=sources
+- pkg:maven/org.mvnpm/core-js-pure@3.44.0
+- pkg:maven/org.mvnpm/core-js-pure@3.44.0?classifier=sources

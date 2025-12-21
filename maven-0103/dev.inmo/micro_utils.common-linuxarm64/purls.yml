@@ -76,3 +76,4 @@
 - pkg:maven/dev.inmo/micro_utils.common-linuxarm64@0.25.6-test?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.common-linuxarm64@0.25.7?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.common-linuxarm64@0.25.8?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.common-linuxarm64@0.26.0?classifier=sources

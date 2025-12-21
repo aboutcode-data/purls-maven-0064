@@ -112,6 +112,8 @@
 - pkg:maven/ai.platon.pulsar/pulsar-all@2.2.1
 - pkg:maven/ai.platon.pulsar/pulsar-all@3.0.10
 - pkg:maven/ai.platon.pulsar/pulsar-all@3.0.12
+- pkg:maven/ai.platon.pulsar/pulsar-all@3.0.14
+- pkg:maven/ai.platon.pulsar/pulsar-all@3.0.15
 - pkg:maven/ai.platon.pulsar/pulsar-all@3.0.7
 - pkg:maven/ai.platon.pulsar/pulsar-all@3.0.8
 - pkg:maven/ai.platon.pulsar/pulsar-all@3.0.9

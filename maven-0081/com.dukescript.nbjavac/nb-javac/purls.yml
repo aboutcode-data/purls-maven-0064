@@ -40,3 +40,7 @@
 - pkg:maven/com.dukescript.nbjavac/nb-javac@jdk-24%2B29?classifier=sources
 - pkg:maven/com.dukescript.nbjavac/nb-javac@jdk-24-ga
 - pkg:maven/com.dukescript.nbjavac/nb-javac@jdk-24-ga?classifier=sources
+- pkg:maven/com.dukescript.nbjavac/nb-javac@jdk-25%2B31
+- pkg:maven/com.dukescript.nbjavac/nb-javac@jdk-25%2B31.1
+- pkg:maven/com.dukescript.nbjavac/nb-javac@jdk-25%2B31.1?classifier=sources
+- pkg:maven/com.dukescript.nbjavac/nb-javac@jdk-25%2B31?classifier=sources

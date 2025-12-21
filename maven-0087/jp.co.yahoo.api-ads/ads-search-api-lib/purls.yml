@@ -24,6 +24,10 @@
 - pkg:maven/jp.co.yahoo.api-ads/ads-search-api-lib@10.1.0-spring5
 - pkg:maven/jp.co.yahoo.api-ads/ads-search-api-lib@10.1.0-spring5?classifier=sources
 - pkg:maven/jp.co.yahoo.api-ads/ads-search-api-lib@10.1.0?classifier=sources
+- pkg:maven/jp.co.yahoo.api-ads/ads-search-api-lib@11.0.0
+- pkg:maven/jp.co.yahoo.api-ads/ads-search-api-lib@11.0.0-spring5
+- pkg:maven/jp.co.yahoo.api-ads/ads-search-api-lib@11.0.0-spring5?classifier=sources
+- pkg:maven/jp.co.yahoo.api-ads/ads-search-api-lib@11.0.0?classifier=sources
 - pkg:maven/jp.co.yahoo.api-ads/ads-search-api-lib@2.0.0
 - pkg:maven/jp.co.yahoo.api-ads/ads-search-api-lib@2.0.0?classifier=sources
 - pkg:maven/jp.co.yahoo.api-ads/ads-search-api-lib@2.1.0

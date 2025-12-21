@@ -1,1 +1,2 @@
 - pkg:maven/org.kie/kie-drools-yaml-archetype@10.0.0?classifier=sources
+- pkg:maven/org.kie/kie-drools-yaml-archetype@10.1.0?classifier=sources

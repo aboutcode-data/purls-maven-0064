@@ -86,3 +86,7 @@
 - pkg:maven/uk.gov.nationalarchives/secretsmanager-utils_2.13@0.1.281?classifier=sources
 - pkg:maven/uk.gov.nationalarchives/secretsmanager-utils_2.13@0.1.282
 - pkg:maven/uk.gov.nationalarchives/secretsmanager-utils_2.13@0.1.282?classifier=sources
+- pkg:maven/uk.gov.nationalarchives/secretsmanager-utils_2.13@0.1.283
+- pkg:maven/uk.gov.nationalarchives/secretsmanager-utils_2.13@0.1.283?classifier=sources
+- pkg:maven/uk.gov.nationalarchives/secretsmanager-utils_2.13@0.1.284
+- pkg:maven/uk.gov.nationalarchives/secretsmanager-utils_2.13@0.1.284?classifier=sources

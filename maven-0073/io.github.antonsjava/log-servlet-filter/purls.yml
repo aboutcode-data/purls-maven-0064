@@ -10,6 +10,8 @@
 - pkg:maven/io.github.antonsjava/log-servlet-filter@2.4?classifier=sources
 - pkg:maven/io.github.antonsjava/log-servlet-filter@2.5
 - pkg:maven/io.github.antonsjava/log-servlet-filter@2.5?classifier=sources
+- pkg:maven/io.github.antonsjava/log-servlet-filter@2.6
+- pkg:maven/io.github.antonsjava/log-servlet-filter@2.6?classifier=sources
 - pkg:maven/io.github.antonsjava/log-servlet-filter@3.0
 - pkg:maven/io.github.antonsjava/log-servlet-filter@3.0?classifier=sources
 - pkg:maven/io.github.antonsjava/log-servlet-filter@3.1
@@ -22,3 +24,7 @@
 - pkg:maven/io.github.antonsjava/log-servlet-filter@3.4?classifier=sources
 - pkg:maven/io.github.antonsjava/log-servlet-filter@3.5
 - pkg:maven/io.github.antonsjava/log-servlet-filter@3.5?classifier=sources
+- pkg:maven/io.github.antonsjava/log-servlet-filter@3.6
+- pkg:maven/io.github.antonsjava/log-servlet-filter@3.6?classifier=sources
+- pkg:maven/io.github.antonsjava/log-servlet-filter@3.7
+- pkg:maven/io.github.antonsjava/log-servlet-filter@3.7?classifier=sources

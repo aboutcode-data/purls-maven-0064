@@ -1,0 +1,4 @@
+- pkg:maven/io.github.timemachinelab/mosaic-starter@0.0.01-beta?classifier=sources
+- pkg:maven/io.github.timemachinelab/mosaic-starter@0.0.1-beta?classifier=sources
+- pkg:maven/io.github.timemachinelab/mosaic-starter@0.0.2-beta?classifier=sources
+- pkg:maven/io.github.timemachinelab/mosaic-starter@0.0.5-beta?classifier=sources

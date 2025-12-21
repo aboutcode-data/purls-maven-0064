@@ -5,7 +5,10 @@
 - pkg:maven/org.hibernate.tool/hibernate-tools-gradle@6.6.15.Final?classifier=sources
 - pkg:maven/org.hibernate.tool/hibernate-tools-gradle@6.6.16.Final?classifier=sources
 - pkg:maven/org.hibernate.tool/hibernate-tools-gradle@6.6.17.Final?classifier=sources
+- pkg:maven/org.hibernate.tool/hibernate-tools-gradle@6.6.18.Final?classifier=sources
+- pkg:maven/org.hibernate.tool/hibernate-tools-gradle@6.6.19.Final?classifier=sources
 - pkg:maven/org.hibernate.tool/hibernate-tools-gradle@6.6.2.Final
+- pkg:maven/org.hibernate.tool/hibernate-tools-gradle@6.6.20.Final?classifier=sources
 - pkg:maven/org.hibernate.tool/hibernate-tools-gradle@7.0.0.Alpha2
 - pkg:maven/org.hibernate.tool/hibernate-tools-gradle@7.0.0.Alpha3
 - pkg:maven/org.hibernate.tool/hibernate-tools-gradle@7.0.0.Beta1
@@ -13,3 +16,6 @@
 - pkg:maven/org.hibernate.tool/hibernate-tools-gradle@7.0.0.Final?classifier=sources
 - pkg:maven/org.hibernate.tool/hibernate-tools-gradle@7.0.1.Final?classifier=sources
 - pkg:maven/org.hibernate.tool/hibernate-tools-gradle@7.0.2.Final?classifier=sources
+- pkg:maven/org.hibernate.tool/hibernate-tools-gradle@7.0.3.Final?classifier=sources
+- pkg:maven/org.hibernate.tool/hibernate-tools-gradle@7.0.4.Final?classifier=sources
+- pkg:maven/org.hibernate.tool/hibernate-tools-gradle@7.0.5.Final?classifier=sources

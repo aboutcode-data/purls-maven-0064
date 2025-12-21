@@ -47,6 +47,7 @@
 - pkg:maven/io.qameta.allure/allure-commandline@2.32.2?classifier=sources
 - pkg:maven/io.qameta.allure/allure-commandline@2.33.0?classifier=sources
 - pkg:maven/io.qameta.allure/allure-commandline@2.34.0?classifier=sources
+- pkg:maven/io.qameta.allure/allure-commandline@2.34.1?classifier=sources
 - pkg:maven/io.qameta.allure/allure-commandline@2.8.0?classifier=sources
 - pkg:maven/io.qameta.allure/allure-commandline@2.8.1?classifier=sources
 - pkg:maven/io.qameta.allure/allure-commandline@2.9.0?classifier=sources

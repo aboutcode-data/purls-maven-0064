@@ -2,3 +2,5 @@
 - pkg:maven/com.google.apis/google-api-services-firebaseapphosting@v1-rev20250501-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-firebaseapphosting@v1beta-rev20250501-2.0.0
 - pkg:maven/com.google.apis/google-api-services-firebaseapphosting@v1beta-rev20250501-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-firebaseapphosting@v1beta-rev20250701-2.0.0
+- pkg:maven/com.google.apis/google-api-services-firebaseapphosting@v1beta-rev20250701-2.0.0?classifier=sources

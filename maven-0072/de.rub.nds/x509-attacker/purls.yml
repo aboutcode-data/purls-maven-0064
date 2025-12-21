@@ -13,3 +13,4 @@
 - pkg:maven/de.rub.nds/x509-attacker@4.2.3?classifier=sources
 - pkg:maven/de.rub.nds/x509-attacker@4.2.4?classifier=sources
 - pkg:maven/de.rub.nds/x509-attacker@4.3.0?classifier=sources
+- pkg:maven/de.rub.nds/x509-attacker@4.3.1?classifier=sources

@@ -71,6 +71,7 @@
 - pkg:maven/io.quarkiverse.logging.cloudwatch/quarkus-logging-cloudwatch@6.12.0
 - pkg:maven/io.quarkiverse.logging.cloudwatch/quarkus-logging-cloudwatch@6.12.0?classifier=sources
 - pkg:maven/io.quarkiverse.logging.cloudwatch/quarkus-logging-cloudwatch@6.13.0?classifier=sources
+- pkg:maven/io.quarkiverse.logging.cloudwatch/quarkus-logging-cloudwatch@6.14.0?classifier=sources
 - pkg:maven/io.quarkiverse.logging.cloudwatch/quarkus-logging-cloudwatch@6.2.0
 - pkg:maven/io.quarkiverse.logging.cloudwatch/quarkus-logging-cloudwatch@6.2.0?classifier=sources
 - pkg:maven/io.quarkiverse.logging.cloudwatch/quarkus-logging-cloudwatch@6.3.0

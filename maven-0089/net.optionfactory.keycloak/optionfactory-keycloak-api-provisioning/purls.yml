@@ -15,3 +15,6 @@
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-api-provisioning@7.1
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-api-provisioning@7.1?classifier=sources
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-api-provisioning@7.2?classifier=sources
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-api-provisioning@7.3?classifier=sources
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-api-provisioning@7.4?classifier=sources
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-api-provisioning@8.0?classifier=sources

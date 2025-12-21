@@ -1,0 +1,4 @@
+- pkg:maven/io.github.bbb99992/BaseDomain@1.02?classifier=sources
+- pkg:maven/io.github.bbb99992/BaseDomain@1.08?classifier=sources
+- pkg:maven/io.github.bbb99992/BaseDomain@1.09?classifier=sources
+- pkg:maven/io.github.bbb99992/BaseDomain@1.0?classifier=sources

@@ -9,3 +9,4 @@
 - pkg:maven/io.apicurio/apicurio-codegen-maven-plugin@1.1.1.Final
 - pkg:maven/io.apicurio/apicurio-codegen-maven-plugin@1.2.0.Final
 - pkg:maven/io.apicurio/apicurio-codegen-maven-plugin@1.2.1.Final
+- pkg:maven/io.apicurio/apicurio-codegen-maven-plugin@1.2.4.Final?classifier=sources

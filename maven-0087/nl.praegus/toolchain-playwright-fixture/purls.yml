@@ -76,3 +76,5 @@
 - pkg:maven/nl.praegus/toolchain-playwright-fixture@1.9.2?classifier=sources
 - pkg:maven/nl.praegus/toolchain-playwright-fixture@1.9.3
 - pkg:maven/nl.praegus/toolchain-playwright-fixture@1.9.3?classifier=sources
+- pkg:maven/nl.praegus/toolchain-playwright-fixture@1.9.4
+- pkg:maven/nl.praegus/toolchain-playwright-fixture@1.9.4?classifier=sources

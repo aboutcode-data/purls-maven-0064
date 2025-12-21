@@ -22,3 +22,5 @@
 - pkg:maven/io.airlift/configuration-testing@336?classifier=sources
 - pkg:maven/io.airlift/configuration-testing@337?classifier=sources
 - pkg:maven/io.airlift/configuration-testing@338?classifier=sources
+- pkg:maven/io.airlift/configuration-testing@339?classifier=sources
+- pkg:maven/io.airlift/configuration-testing@340?classifier=sources

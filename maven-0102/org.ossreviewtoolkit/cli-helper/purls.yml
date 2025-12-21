@@ -11,3 +11,6 @@
 - pkg:maven/org.ossreviewtoolkit/cli-helper@61.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/cli-helper@61.2.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/cli-helper@61.3.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/cli-helper@62.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/cli-helper@62.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/cli-helper@62.2.0?classifier=sources

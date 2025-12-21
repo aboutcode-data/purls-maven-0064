@@ -76,3 +76,6 @@
 - pkg:maven/de.gematik.idp/idp-test@29.2.2?classifier=sources
 - pkg:maven/de.gematik.idp/idp-test@29.2.4
 - pkg:maven/de.gematik.idp/idp-test@29.2.4?classifier=sources
+- pkg:maven/de.gematik.idp/idp-test@29.2.7?classifier=sources
+- pkg:maven/de.gematik.idp/idp-test@29.3.0?classifier=sources
+- pkg:maven/de.gematik.idp/idp-test@29.3.1?classifier=sources

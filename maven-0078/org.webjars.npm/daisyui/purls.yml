@@ -19,3 +19,4 @@
 - pkg:maven/org.webjars.npm/daisyui@4.6.0
 - pkg:maven/org.webjars.npm/daisyui@4.6.0?classifier=sources
 - pkg:maven/org.webjars.npm/daisyui@5.0.12
+- pkg:maven/org.webjars.npm/daisyui@5.0.43

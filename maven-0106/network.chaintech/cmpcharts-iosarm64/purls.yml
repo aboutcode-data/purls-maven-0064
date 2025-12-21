@@ -7,3 +7,4 @@
 - pkg:maven/network.chaintech/cmpcharts-iosarm64@2.0.2?classifier=sources
 - pkg:maven/network.chaintech/cmpcharts-iosarm64@2.0.3?classifier=sources
 - pkg:maven/network.chaintech/cmpcharts-iosarm64@2.0.4?classifier=sources
+- pkg:maven/network.chaintech/cmpcharts-iosarm64@2.0.5?classifier=sources

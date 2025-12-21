@@ -28,3 +28,7 @@
 - pkg:maven/dev.vality/swag-anapi-v2@1.86-0f6d0dc-server?classifier=sources
 - pkg:maven/dev.vality/swag-anapi-v2@1.87-dc90399-server
 - pkg:maven/dev.vality/swag-anapi-v2@1.87-dc90399-server?classifier=sources
+- pkg:maven/dev.vality/swag-anapi-v2@1.95-4741f96-client
+- pkg:maven/dev.vality/swag-anapi-v2@1.95-4741f96-client?classifier=sources
+- pkg:maven/dev.vality/swag-anapi-v2@1.95-4741f96-server
+- pkg:maven/dev.vality/swag-anapi-v2@1.95-4741f96-server?classifier=sources

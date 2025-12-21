@@ -203,6 +203,7 @@
 - pkg:maven/com.pulumi/aiven@6.4.0-alpha.1687670587%2B9d3e0832?classifier=sources
 - pkg:maven/com.pulumi/aiven@6.4.0-alpha.1687994445%2Bed717fc8?classifier=sources
 - pkg:maven/com.pulumi/aiven@6.4.0?classifier=sources
+- pkg:maven/com.pulumi/aiven@6.40.0?classifier=sources
 - pkg:maven/com.pulumi/aiven@6.5.0-alpha.1689312319%2B402bcef1?classifier=sources
 - pkg:maven/com.pulumi/aiven@6.5.0-alpha.1689690146%2Bf57acb18?classifier=sources
 - pkg:maven/com.pulumi/aiven@6.5.0?classifier=sources

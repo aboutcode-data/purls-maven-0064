@@ -1,0 +1,2 @@
+- pkg:maven/com.fengzijk/api-signature-spring-boot-starter@1.0.0?classifier=sources
+- pkg:maven/com.fengzijk/api-signature-spring-boot-starter@1.0.1?classifier=sources

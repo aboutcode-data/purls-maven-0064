@@ -1,0 +1,1 @@
+- pkg:maven/io.jenkins.lib/mock-javamail@2.3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/eu.mindfusion/diagramming@4.8
+- pkg:maven/eu.mindfusion/diagramming@4.8?classifier=sources

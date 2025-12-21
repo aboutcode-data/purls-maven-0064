@@ -357,6 +357,10 @@
 - pkg:maven/com.51degrees/device-detection.hash.engine.on-premise@4.4.242?classifier=sources
 - pkg:maven/com.51degrees/device-detection.hash.engine.on-premise@4.4.243?classifier=sources
 - pkg:maven/com.51degrees/device-detection.hash.engine.on-premise@4.4.244?classifier=sources
+- pkg:maven/com.51degrees/device-detection.hash.engine.on-premise@4.4.245?classifier=sources
+- pkg:maven/com.51degrees/device-detection.hash.engine.on-premise@4.4.246?classifier=sources
+- pkg:maven/com.51degrees/device-detection.hash.engine.on-premise@4.4.247?classifier=sources
+- pkg:maven/com.51degrees/device-detection.hash.engine.on-premise@4.4.248?classifier=sources
 - pkg:maven/com.51degrees/device-detection.hash.engine.on-premise@4.4.27
 - pkg:maven/com.51degrees/device-detection.hash.engine.on-premise@4.4.27?classifier=sources
 - pkg:maven/com.51degrees/device-detection.hash.engine.on-premise@4.4.28
@@ -618,3 +622,5 @@
 - pkg:maven/com.51degrees/device-detection.hash.engine.on-premise@4.5.0-alpha.371?classifier=sources
 - pkg:maven/com.51degrees/device-detection.hash.engine.on-premise@4.5.0-alpha.372?classifier=sources
 - pkg:maven/com.51degrees/device-detection.hash.engine.on-premise@4.5.0-alpha.373?classifier=sources
+- pkg:maven/com.51degrees/device-detection.hash.engine.on-premise@4.5.0-alpha.374?classifier=sources
+- pkg:maven/com.51degrees/device-detection.hash.engine.on-premise@4.5.0-alpha.376?classifier=sources

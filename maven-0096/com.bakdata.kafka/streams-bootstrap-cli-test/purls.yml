@@ -1,0 +1,2 @@
+- pkg:maven/com.bakdata.kafka/streams-bootstrap-cli-test@5.0.0?classifier=sources
+- pkg:maven/com.bakdata.kafka/streams-bootstrap-cli-test@5.0.1?classifier=sources

@@ -42,6 +42,7 @@
 - pkg:maven/io.github.odys-z/antson@0.9.116?classifier=sources
 - pkg:maven/io.github.odys-z/antson@0.9.117
 - pkg:maven/io.github.odys-z/antson@0.9.117?classifier=sources
+- pkg:maven/io.github.odys-z/antson@0.9.118?classifier=sources
 - pkg:maven/io.github.odys-z/antson@0.9.11?classifier=sources
 - pkg:maven/io.github.odys-z/antson@0.9.12
 - pkg:maven/io.github.odys-z/antson@0.9.12?classifier=sources

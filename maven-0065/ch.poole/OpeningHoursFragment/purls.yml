@@ -11,6 +11,8 @@
 - pkg:maven/ch.poole/OpeningHoursFragment@0.14.1?classifier=sources
 - pkg:maven/ch.poole/OpeningHoursFragment@0.14.2?classifier=sources
 - pkg:maven/ch.poole/OpeningHoursFragment@0.14.3?classifier=sources
+- pkg:maven/ch.poole/OpeningHoursFragment@0.15.0?classifier=sources
+- pkg:maven/ch.poole/OpeningHoursFragment@0.16.0?classifier=sources
 - pkg:maven/ch.poole/OpeningHoursFragment@0.9.1?classifier=sources
 - pkg:maven/ch.poole/OpeningHoursFragment@0.9.1?type=aar
 - pkg:maven/ch.poole/OpeningHoursFragment@0.9.2?classifier=sources
