@@ -1,3 +1,5 @@
+- pkg:maven/org.wso2.carbon.identity.application.authz.xacml/org.wso2.carbon.identity.entitlement.mgt.endpoint@2.4.18?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.application.authz.xacml/org.wso2.carbon.identity.entitlement.mgt.endpoint@2.4.18?type=war
 - pkg:maven/org.wso2.carbon.identity.application.authz.xacml/org.wso2.carbon.identity.entitlement.mgt.endpoint@2.4.6?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.application.authz.xacml/org.wso2.carbon.identity.entitlement.mgt.endpoint@2.4.6?type=war
 - pkg:maven/org.wso2.carbon.identity.application.authz.xacml/org.wso2.carbon.identity.entitlement.mgt.endpoint@2.4.7?classifier=sources

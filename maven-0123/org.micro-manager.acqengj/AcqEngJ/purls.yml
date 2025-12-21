@@ -150,3 +150,5 @@
 - pkg:maven/org.micro-manager.acqengj/AcqEngJ@0.38.0?classifier=sources
 - pkg:maven/org.micro-manager.acqengj/AcqEngJ@0.38.1
 - pkg:maven/org.micro-manager.acqengj/AcqEngJ@0.38.1?classifier=sources
+- pkg:maven/org.micro-manager.acqengj/AcqEngJ@0.38.2
+- pkg:maven/org.micro-manager.acqengj/AcqEngJ@0.38.2?classifier=sources

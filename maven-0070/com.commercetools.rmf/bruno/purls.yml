@@ -2,6 +2,8 @@
 - pkg:maven/com.commercetools.rmf/bruno@0.1.53?classifier=sources
 - pkg:maven/com.commercetools.rmf/bruno@0.1.54?classifier=sources
 - pkg:maven/com.commercetools.rmf/bruno@0.1.55?classifier=sources
+- pkg:maven/com.commercetools.rmf/bruno@0.1.56?classifier=sources
+- pkg:maven/com.commercetools.rmf/bruno@0.1.57?classifier=sources
 - pkg:maven/com.commercetools.rmf/bruno@1.0.0-20240523140420?classifier=sources
 - pkg:maven/com.commercetools.rmf/bruno@1.0.0-20240523202955?classifier=sources
 - pkg:maven/com.commercetools.rmf/bruno@1.0.0-20240524085953?classifier=sources

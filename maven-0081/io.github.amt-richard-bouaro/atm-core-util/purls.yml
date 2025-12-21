@@ -19,6 +19,11 @@
 - pkg:maven/io.github.amt-richard-bouaro/atm-core-util@1.0.22.12?classifier=sources
 - pkg:maven/io.github.amt-richard-bouaro/atm-core-util@1.0.22.13?classifier=sources
 - pkg:maven/io.github.amt-richard-bouaro/atm-core-util@1.0.22.14?classifier=sources
+- pkg:maven/io.github.amt-richard-bouaro/atm-core-util@1.0.22.15?classifier=sources
+- pkg:maven/io.github.amt-richard-bouaro/atm-core-util@1.0.22.16?classifier=sources
+- pkg:maven/io.github.amt-richard-bouaro/atm-core-util@1.0.22.17?classifier=sources
+- pkg:maven/io.github.amt-richard-bouaro/atm-core-util@1.0.22.18?classifier=sources
+- pkg:maven/io.github.amt-richard-bouaro/atm-core-util@1.0.22.19?classifier=sources
 - pkg:maven/io.github.amt-richard-bouaro/atm-core-util@1.0.22?classifier=sources
 - pkg:maven/io.github.amt-richard-bouaro/atm-core-util@1.0.2?classifier=sources
 - pkg:maven/io.github.amt-richard-bouaro/atm-core-util@1.0.4?classifier=sources

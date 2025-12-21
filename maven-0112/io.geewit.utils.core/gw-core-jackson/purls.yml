@@ -3,3 +3,5 @@
 - pkg:maven/io.geewit.utils.core/gw-core-jackson@2.0.93?classifier=sources
 - pkg:maven/io.geewit.utils.core/gw-core-jackson@2.0.94?classifier=sources
 - pkg:maven/io.geewit.utils.core/gw-core-jackson@2.0.95?classifier=sources
+- pkg:maven/io.geewit.utils.core/gw-core-jackson@3.0.0?classifier=sources
+- pkg:maven/io.geewit.utils.core/gw-core-jackson@3.0.1?classifier=sources

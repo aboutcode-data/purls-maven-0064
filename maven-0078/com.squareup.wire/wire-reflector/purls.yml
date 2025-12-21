@@ -60,3 +60,4 @@
 - pkg:maven/com.squareup.wire/wire-reflector@5.1.0?classifier=sources
 - pkg:maven/com.squareup.wire/wire-reflector@5.2.0?classifier=sources
 - pkg:maven/com.squareup.wire/wire-reflector@5.2.1?classifier=sources
+- pkg:maven/com.squareup.wire/wire-reflector@5.3.0?classifier=sources

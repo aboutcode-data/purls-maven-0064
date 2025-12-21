@@ -1,2 +1,3 @@
 - pkg:maven/org.webjars.npm/carbon__motion@11.16.1
 - pkg:maven/org.webjars.npm/carbon__motion@11.16.1?classifier=sources
+- pkg:maven/org.webjars.npm/carbon__motion@11.24.0

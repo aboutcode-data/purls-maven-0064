@@ -4,3 +4,5 @@
 - pkg:maven/one.veriph/veriph-one-android-sdk@1.0.8?classifier=sources
 - pkg:maven/one.veriph/veriph-one-android-sdk@1.0.9?classifier=sources
 - pkg:maven/one.veriph/veriph-one-android-sdk@1.1.0?classifier=sources
+- pkg:maven/one.veriph/veriph-one-android-sdk@1.1.1-alpha_24012701?classifier=sources
+- pkg:maven/one.veriph/veriph-one-android-sdk@1.1.1-alpha_24012801?classifier=sources

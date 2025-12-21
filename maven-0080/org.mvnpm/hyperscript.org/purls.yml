@@ -1,3 +1,4 @@
 - pkg:maven/org.mvnpm/hyperscript.org@0.9.12?classifier=sources
 - pkg:maven/org.mvnpm/hyperscript.org@0.9.13?classifier=sources
+- pkg:maven/org.mvnpm/hyperscript.org@0.9.14?classifier=sources
 - pkg:maven/org.mvnpm/hyperscript.org@0.9.8?classifier=sources

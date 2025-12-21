@@ -201,6 +201,8 @@
 - pkg:maven/com.konfigthis/snaptrade-java-sdk@5.0.69?classifier=sources
 - pkg:maven/com.konfigthis/snaptrade-java-sdk@5.0.6?classifier=sources
 - pkg:maven/com.konfigthis/snaptrade-java-sdk@5.0.7
+- pkg:maven/com.konfigthis/snaptrade-java-sdk@5.0.70
+- pkg:maven/com.konfigthis/snaptrade-java-sdk@5.0.70?classifier=sources
 - pkg:maven/com.konfigthis/snaptrade-java-sdk@5.0.7?classifier=sources
 - pkg:maven/com.konfigthis/snaptrade-java-sdk@5.0.8
 - pkg:maven/com.konfigthis/snaptrade-java-sdk@5.0.8?classifier=sources

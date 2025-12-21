@@ -58,3 +58,9 @@
 - pkg:maven/com.telnyx.sdk/telnyx@3.5.1?classifier=sources
 - pkg:maven/com.telnyx.sdk/telnyx@3.6.0?classifier=sources
 - pkg:maven/com.telnyx.sdk/telnyx@3.8.0?classifier=sources
+- pkg:maven/com.telnyx.sdk/telnyx@3.9.0
+- pkg:maven/com.telnyx.sdk/telnyx@3.9.0?classifier=sources
+- pkg:maven/com.telnyx.sdk/telnyx@4.0.3
+- pkg:maven/com.telnyx.sdk/telnyx@4.0.3?classifier=sources
+- pkg:maven/com.telnyx.sdk/telnyx@4.0.4
+- pkg:maven/com.telnyx.sdk/telnyx@4.0.4?classifier=sources

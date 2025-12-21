@@ -59,4 +59,6 @@
 - pkg:maven/com.nimbusds/c2id-server-jwkset@1.33.1?classifier=sources
 - pkg:maven/com.nimbusds/c2id-server-jwkset@1.33?classifier=sources
 - pkg:maven/com.nimbusds/c2id-server-jwkset@2.0
+- pkg:maven/com.nimbusds/c2id-server-jwkset@2.0.1
+- pkg:maven/com.nimbusds/c2id-server-jwkset@2.0.1?classifier=sources
 - pkg:maven/com.nimbusds/c2id-server-jwkset@2.0?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/org.beangle.ids/beangle-ids@0.3.21?classifier=sources
 - pkg:maven/org.beangle.ids/beangle-ids@0.3.22
 - pkg:maven/org.beangle.ids/beangle-ids@0.3.22?classifier=sources
+- pkg:maven/org.beangle.ids/beangle-ids@0.3.23
+- pkg:maven/org.beangle.ids/beangle-ids@0.3.23?classifier=sources

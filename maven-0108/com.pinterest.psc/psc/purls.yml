@@ -1,0 +1,6 @@
+- pkg:maven/com.pinterest.psc/psc@2.3.3
+- pkg:maven/com.pinterest.psc/psc@2.3.3?classifier=sources
+- pkg:maven/com.pinterest.psc/psc@3.3.1
+- pkg:maven/com.pinterest.psc/psc@3.3.1?classifier=sources
+- pkg:maven/com.pinterest.psc/psc@4.0.0
+- pkg:maven/com.pinterest.psc/psc@4.0.0?classifier=sources

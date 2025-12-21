@@ -7,3 +7,4 @@
 - pkg:maven/tech.smartboot.servlet/smart-servlet-spring-boot-starter@2.6?classifier=sources
 - pkg:maven/tech.smartboot.servlet/smart-servlet-spring-boot-starter@2.7?classifier=sources
 - pkg:maven/tech.smartboot.servlet/smart-servlet-spring-boot-starter@2.8?classifier=sources
+- pkg:maven/tech.smartboot.servlet/smart-servlet-spring-boot-starter@2.9?classifier=sources

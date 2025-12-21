@@ -1,0 +1,1 @@
+- pkg:maven/software.amazon.smithy.java/server-rpcv2-cbor@0.0.1?classifier=sources

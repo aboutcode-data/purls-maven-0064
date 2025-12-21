@@ -1,1 +1,3 @@
 - pkg:maven/org.cthing/assertj-gradle@1.0.0?classifier=sources
+- pkg:maven/org.cthing/assertj-gradle@2.0.0?classifier=sources
+- pkg:maven/org.cthing/assertj-gradle@3.0.0?classifier=sources

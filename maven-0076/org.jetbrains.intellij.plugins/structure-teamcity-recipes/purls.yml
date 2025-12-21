@@ -3,3 +3,6 @@
 - pkg:maven/org.jetbrains.intellij.plugins/structure-teamcity-recipes@3.292?classifier=sources
 - pkg:maven/org.jetbrains.intellij.plugins/structure-teamcity-recipes@3.293?classifier=sources
 - pkg:maven/org.jetbrains.intellij.plugins/structure-teamcity-recipes@3.294?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/structure-teamcity-recipes@3.295?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/structure-teamcity-recipes@3.296?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/structure-teamcity-recipes@3.297?classifier=sources

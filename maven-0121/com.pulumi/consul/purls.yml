@@ -111,6 +111,7 @@
 - pkg:maven/com.pulumi/consul@3.12.1?classifier=sources
 - pkg:maven/com.pulumi/consul@3.12.2?classifier=sources
 - pkg:maven/com.pulumi/consul@3.12.3?classifier=sources
+- pkg:maven/com.pulumi/consul@3.12.4?classifier=sources
 - pkg:maven/com.pulumi/consul@3.13.0-alpha.1722922080?classifier=sources
 - pkg:maven/com.pulumi/consul@3.13.0-alpha.1723008442?classifier=sources
 - pkg:maven/com.pulumi/consul@3.13.0-alpha.1723453804?classifier=sources

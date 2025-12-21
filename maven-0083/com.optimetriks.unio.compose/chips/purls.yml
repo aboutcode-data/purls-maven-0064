@@ -10,6 +10,7 @@
 - pkg:maven/com.optimetriks.unio.compose/chips@40?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/chips@46?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/chips@4?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/chips@68?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/chips@6?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/chips@7?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/chips@8?classifier=sources

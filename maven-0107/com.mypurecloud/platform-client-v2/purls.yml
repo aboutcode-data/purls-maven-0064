@@ -344,6 +344,8 @@
 - pkg:maven/com.mypurecloud/platform-client-v2@217.0.0?classifier=sources
 - pkg:maven/com.mypurecloud/platform-client-v2@217.1.0
 - pkg:maven/com.mypurecloud/platform-client-v2@217.1.0?classifier=sources
+- pkg:maven/com.mypurecloud/platform-client-v2@218.0.0
+- pkg:maven/com.mypurecloud/platform-client-v2@218.0.0?classifier=sources
 - pkg:maven/com.mypurecloud/platform-client-v2@22.0.0
 - pkg:maven/com.mypurecloud/platform-client-v2@22.0.0?classifier=sources
 - pkg:maven/com.mypurecloud/platform-client-v2@23.0.0

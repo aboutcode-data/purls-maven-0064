@@ -1,2 +1,4 @@
+- pkg:maven/net.sourceforge.pmd/pmd-rust@7.10.0
+- pkg:maven/net.sourceforge.pmd/pmd-rust@7.10.0?classifier=sources
 - pkg:maven/net.sourceforge.pmd/pmd-rust@7.9.0
 - pkg:maven/net.sourceforge.pmd/pmd-rust@7.9.0?classifier=sources

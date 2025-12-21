@@ -1,0 +1,2 @@
+- pkg:maven/com.zhongan.openapi/za-openapi-client@1.0.0-rc2?classifier=sources
+- pkg:maven/com.zhongan.openapi/za-openapi-client@1.0.0-rc?classifier=sources

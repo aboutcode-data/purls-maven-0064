@@ -16,6 +16,7 @@
 - pkg:maven/org.sonarsource.kotlin/sonar-kotlin-plugin@2.20.0.4382?classifier=sources
 - pkg:maven/org.sonarsource.kotlin/sonar-kotlin-plugin@2.21.0.5736?classifier=sources
 - pkg:maven/org.sonarsource.kotlin/sonar-kotlin-plugin@2.22.0.5972?classifier=sources
+- pkg:maven/org.sonarsource.kotlin/sonar-kotlin-plugin@2.23.0.6359?classifier=sources
 - pkg:maven/org.sonarsource.kotlin/sonar-kotlin-plugin@2.3.0.609?classifier=sources
 - pkg:maven/org.sonarsource.kotlin/sonar-kotlin-plugin@2.4.0.703?classifier=sources
 - pkg:maven/org.sonarsource.kotlin/sonar-kotlin-plugin@2.5.0.754?classifier=sources

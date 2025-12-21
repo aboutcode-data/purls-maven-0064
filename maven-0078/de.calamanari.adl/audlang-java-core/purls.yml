@@ -1,0 +1,2 @@
+- pkg:maven/de.calamanari.adl/audlang-java-core@1.0.8?classifier=sources
+- pkg:maven/de.calamanari.adl/audlang-java-core@1.0.9?classifier=sources

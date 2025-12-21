@@ -1,1 +1,2 @@
 - pkg:maven/org.mvnpm/react-chartjs-2@5.2.0?classifier=sources
+- pkg:maven/org.mvnpm/react-chartjs-2@5.3.0?classifier=sources

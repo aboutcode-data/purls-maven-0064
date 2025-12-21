@@ -69,3 +69,4 @@
 - pkg:maven/com.mikepenz/aboutlibraries-core-jvm@11.3.0?classifier=sources
 - pkg:maven/com.mikepenz/aboutlibraries-core-jvm@11.4.0-b01?classifier=sources
 - pkg:maven/com.mikepenz/aboutlibraries-core-jvm@11.4.0?classifier=sources
+- pkg:maven/com.mikepenz/aboutlibraries-core-jvm@11.5.0?classifier=sources

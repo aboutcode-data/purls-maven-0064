@@ -143,6 +143,8 @@
 - pkg:maven/io.camunda.spring/java-common@8.5.15?classifier=sources
 - pkg:maven/io.camunda.spring/java-common@8.5.16
 - pkg:maven/io.camunda.spring/java-common@8.5.16?classifier=sources
+- pkg:maven/io.camunda.spring/java-common@8.5.17
+- pkg:maven/io.camunda.spring/java-common@8.5.17?classifier=sources
 - pkg:maven/io.camunda.spring/java-common@8.5.1?classifier=sources
 - pkg:maven/io.camunda.spring/java-common@8.5.2
 - pkg:maven/io.camunda.spring/java-common@8.5.2?classifier=sources

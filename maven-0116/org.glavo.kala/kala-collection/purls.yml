@@ -44,3 +44,5 @@
 - pkg:maven/org.glavo.kala/kala-collection@0.78.0?classifier=sources
 - pkg:maven/org.glavo.kala/kala-collection@0.79.0?classifier=sources
 - pkg:maven/org.glavo.kala/kala-collection@0.80.0?classifier=sources
+- pkg:maven/org.glavo.kala/kala-collection@0.81.0?classifier=sources
+- pkg:maven/org.glavo.kala/kala-collection@0.82.0?classifier=sources

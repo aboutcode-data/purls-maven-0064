@@ -148,3 +148,5 @@
 - pkg:maven/eu.rssw.openedge.checks/openedge-checks@2.8.2?classifier=sources
 - pkg:maven/eu.rssw.openedge.checks/openedge-checks@2.9.0
 - pkg:maven/eu.rssw.openedge.checks/openedge-checks@2.9.0?classifier=sources
+- pkg:maven/eu.rssw.openedge.checks/openedge-checks@3.0.0
+- pkg:maven/eu.rssw.openedge.checks/openedge-checks@3.0.0?classifier=sources

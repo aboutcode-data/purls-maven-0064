@@ -2,3 +2,4 @@
 - pkg:maven/dev.oop778/bindings@0.2?classifier=sources
 - pkg:maven/dev.oop778/bindings@0.3?classifier=sources
 - pkg:maven/dev.oop778/bindings@0.4?classifier=sources
+- pkg:maven/dev.oop778/bindings@0.5?classifier=sources

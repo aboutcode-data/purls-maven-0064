@@ -10,6 +10,8 @@
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-tat@3.1.1142?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-tat@3.1.1147
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-tat@3.1.1147?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-tat@3.1.1193
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-tat@3.1.1193?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-tat@3.1.207
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-tat@3.1.207?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-tat@3.1.209

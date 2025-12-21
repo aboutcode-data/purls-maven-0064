@@ -2,3 +2,5 @@
 - pkg:maven/org.apache.hbase/hbase-openssl@2.6.0-hadoop3
 - pkg:maven/org.apache.hbase/hbase-openssl@2.6.1
 - pkg:maven/org.apache.hbase/hbase-openssl@2.6.1-hadoop3
+- pkg:maven/org.apache.hbase/hbase-openssl@2.6.2
+- pkg:maven/org.apache.hbase/hbase-openssl@2.6.2-hadoop3

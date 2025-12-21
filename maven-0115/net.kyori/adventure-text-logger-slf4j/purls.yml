@@ -7,3 +7,4 @@
 - pkg:maven/net.kyori/adventure-text-logger-slf4j@4.16.0?classifier=sources
 - pkg:maven/net.kyori/adventure-text-logger-slf4j@4.17.0?classifier=sources
 - pkg:maven/net.kyori/adventure-text-logger-slf4j@4.18.0?classifier=sources
+- pkg:maven/net.kyori/adventure-text-logger-slf4j@4.19.0?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-fault-tolerance@2.0.0.0-2021.0.9?classifier=sources
 - pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-fault-tolerance@2.0.0.0-2022.0.5
 - pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-fault-tolerance@2.0.0.0-2022.0.5?classifier=sources
+- pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-fault-tolerance@2.0.1.0-2021.0.9-RC1
+- pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-fault-tolerance@2.0.1.0-2021.0.9-RC1?classifier=sources

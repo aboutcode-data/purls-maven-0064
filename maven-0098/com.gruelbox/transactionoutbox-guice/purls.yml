@@ -40,3 +40,5 @@
 - pkg:maven/com.gruelbox/transactionoutbox-guice@5.5.447?classifier=sources
 - pkg:maven/com.gruelbox/transactionoutbox-guice@6.0.535
 - pkg:maven/com.gruelbox/transactionoutbox-guice@6.0.535?classifier=sources
+- pkg:maven/com.gruelbox/transactionoutbox-guice@6.0.553
+- pkg:maven/com.gruelbox/transactionoutbox-guice@6.0.553?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/dev.mccue/ppm@2024.10.13?classifier=sources
+- pkg:maven/dev.mccue/ppm@2025.01.17?classifier=sources

@@ -3,3 +3,5 @@
 - pkg:maven/com.razorpay/standard-core@1.6.42?classifier=sources
 - pkg:maven/com.razorpay/standard-core@1.6.43?classifier=sources
 - pkg:maven/com.razorpay/standard-core@1.6.44?classifier=sources
+- pkg:maven/com.razorpay/standard-core@1.6.45?classifier=sources
+- pkg:maven/com.razorpay/standard-core@1.6.46?classifier=sources

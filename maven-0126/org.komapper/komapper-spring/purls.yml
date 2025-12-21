@@ -36,3 +36,4 @@
 - pkg:maven/org.komapper/komapper-spring@4.0.0?classifier=sources
 - pkg:maven/org.komapper/komapper-spring@5.0.0?classifier=sources
 - pkg:maven/org.komapper/komapper-spring@5.1.0?classifier=sources
+- pkg:maven/org.komapper/komapper-spring@5.2.0?classifier=sources

@@ -60,3 +60,5 @@
 - pkg:maven/com.aliyun/credentials-java@0.3.8?classifier=sources
 - pkg:maven/com.aliyun/credentials-java@0.3.9
 - pkg:maven/com.aliyun/credentials-java@0.3.9?classifier=sources
+- pkg:maven/com.aliyun/credentials-java@1.0.0
+- pkg:maven/com.aliyun/credentials-java@1.0.0?classifier=sources

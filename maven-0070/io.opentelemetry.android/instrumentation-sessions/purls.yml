@@ -1,1 +1,2 @@
 - pkg:maven/io.opentelemetry.android/instrumentation-sessions@0.9.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.android/instrumentation-sessions@0.9.1-alpha?classifier=sources
