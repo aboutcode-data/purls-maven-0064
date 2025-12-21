@@ -82,6 +82,12 @@
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-ssl@3.1.1265?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-ssl@3.1.1267
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-ssl@3.1.1267?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-ssl@3.1.1271
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-ssl@3.1.1271?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-ssl@3.1.1279
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-ssl@3.1.1279?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-ssl@3.1.1285
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-ssl@3.1.1285?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-ssl@3.1.179
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-ssl@3.1.179?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-ssl@3.1.180

@@ -10,6 +10,10 @@
 - pkg:maven/com.google.maps/google-maps-area-insights@0.13.0?classifier=sources
 - pkg:maven/com.google.maps/google-maps-area-insights@0.14.0
 - pkg:maven/com.google.maps/google-maps-area-insights@0.14.0?classifier=sources
+- pkg:maven/com.google.maps/google-maps-area-insights@0.16.0
+- pkg:maven/com.google.maps/google-maps-area-insights@0.16.0?classifier=sources
+- pkg:maven/com.google.maps/google-maps-area-insights@0.17.0
+- pkg:maven/com.google.maps/google-maps-area-insights@0.17.0?classifier=sources
 - pkg:maven/com.google.maps/google-maps-area-insights@0.2.0
 - pkg:maven/com.google.maps/google-maps-area-insights@0.2.0?classifier=sources
 - pkg:maven/com.google.maps/google-maps-area-insights@0.3.0

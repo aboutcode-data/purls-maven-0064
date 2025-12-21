@@ -1,0 +1,2 @@
+- pkg:maven/studio.o7/agones-sdk@0.0.1
+- pkg:maven/studio.o7/agones-sdk@0.0.1?classifier=sources

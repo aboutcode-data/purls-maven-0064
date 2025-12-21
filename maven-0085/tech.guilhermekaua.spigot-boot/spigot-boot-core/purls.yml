@@ -1,0 +1,2 @@
+- pkg:maven/tech.guilhermekaua.spigot-boot/spigot-boot-core@2.0.0?classifier=sources
+- pkg:maven/tech.guilhermekaua.spigot-boot/spigot-boot-core@2.0.1?classifier=sources

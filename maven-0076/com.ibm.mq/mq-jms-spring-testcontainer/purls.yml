@@ -1,0 +1,1 @@
+- pkg:maven/com.ibm.mq/mq-jms-spring-testcontainer@3.5.1?classifier=sources

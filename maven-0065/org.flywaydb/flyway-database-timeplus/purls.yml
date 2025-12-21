@@ -2,3 +2,4 @@
 - pkg:maven/org.flywaydb/flyway-database-timeplus@10.17.0?classifier=sources
 - pkg:maven/org.flywaydb/flyway-database-timeplus@10.18.0
 - pkg:maven/org.flywaydb/flyway-database-timeplus@10.18.0?classifier=sources
+- pkg:maven/org.flywaydb/flyway-database-timeplus@10.20.0?classifier=sources

@@ -647,6 +647,7 @@
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.order.impl@4.0.11?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.order.impl@4.0.12
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.order.impl@4.0.120?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.order.impl@4.0.121?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.order.impl@4.0.12?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.order.impl@4.0.12?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.order.impl@4.0.13

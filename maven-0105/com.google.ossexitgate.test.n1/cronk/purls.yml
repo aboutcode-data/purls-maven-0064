@@ -1,0 +1,2 @@
+- pkg:maven/com.google.ossexitgate.test.n1/cronk@3.0?classifier=sources
+- pkg:maven/com.google.ossexitgate.test.n1/cronk@3.1?classifier=sources

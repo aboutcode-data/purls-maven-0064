@@ -1,0 +1,2 @@
+- pkg:maven/io.gitlab.shubham0204/sentence-embeddings@0.0.6?classifier=sources
+- pkg:maven/io.gitlab.shubham0204/sentence-embeddings@v6?classifier=sources

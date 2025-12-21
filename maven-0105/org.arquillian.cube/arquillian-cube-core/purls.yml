@@ -94,3 +94,4 @@
 - pkg:maven/org.arquillian.cube/arquillian-cube-core@1.9.2?classifier=sources
 - pkg:maven/org.arquillian.cube/arquillian-cube-core@2.0.0.Alpha1?classifier=sources
 - pkg:maven/org.arquillian.cube/arquillian-cube-core@2.0.0.Final?classifier=sources
+- pkg:maven/org.arquillian.cube/arquillian-cube-core@2.1.0.Alpha1?classifier=sources

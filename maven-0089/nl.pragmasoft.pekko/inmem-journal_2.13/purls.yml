@@ -2,3 +2,5 @@
 - pkg:maven/nl.pragmasoft.pekko/inmem-journal_2.13@1.0.5?classifier=sources
 - pkg:maven/nl.pragmasoft.pekko/inmem-journal_2.13@1.0.6
 - pkg:maven/nl.pragmasoft.pekko/inmem-journal_2.13@1.0.6?classifier=sources
+- pkg:maven/nl.pragmasoft.pekko/inmem-journal_2.13@1.1.0
+- pkg:maven/nl.pragmasoft.pekko/inmem-journal_2.13@1.1.0?classifier=sources

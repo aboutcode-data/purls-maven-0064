@@ -62,3 +62,4 @@
 - pkg:maven/com.vaadin/vaadin-testbench-shared@9.3.8?classifier=sources
 - pkg:maven/com.vaadin/vaadin-testbench-shared@9.3.9
 - pkg:maven/com.vaadin/vaadin-testbench-shared@9.3.9?classifier=sources
+- pkg:maven/com.vaadin/vaadin-testbench-shared@9.4.0?classifier=sources

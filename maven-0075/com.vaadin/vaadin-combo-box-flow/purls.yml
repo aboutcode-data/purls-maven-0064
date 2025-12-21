@@ -88,6 +88,7 @@
 - pkg:maven/com.vaadin/vaadin-combo-box-flow@14.12.7?classifier=sources
 - pkg:maven/com.vaadin/vaadin-combo-box-flow@14.12.8
 - pkg:maven/com.vaadin/vaadin-combo-box-flow@14.12.8?classifier=sources
+- pkg:maven/com.vaadin/vaadin-combo-box-flow@14.13.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-combo-box-flow@14.5.0
 - pkg:maven/com.vaadin/vaadin-combo-box-flow@14.5.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-combo-box-flow@14.5.1
@@ -585,6 +586,7 @@
 - pkg:maven/com.vaadin/vaadin-combo-box-flow@23.5.8?classifier=sources
 - pkg:maven/com.vaadin/vaadin-combo-box-flow@23.5.9
 - pkg:maven/com.vaadin/vaadin-combo-box-flow@23.5.9?classifier=sources
+- pkg:maven/com.vaadin/vaadin-combo-box-flow@23.6.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-combo-box-flow@24.0.0
 - pkg:maven/com.vaadin/vaadin-combo-box-flow@24.0.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-combo-box-flow@24.0.1
@@ -828,6 +830,8 @@
 - pkg:maven/com.vaadin/vaadin-combo-box-flow@24.7.4?classifier=sources
 - pkg:maven/com.vaadin/vaadin-combo-box-flow@24.7.5?classifier=sources
 - pkg:maven/com.vaadin/vaadin-combo-box-flow@24.7.6?classifier=sources
+- pkg:maven/com.vaadin/vaadin-combo-box-flow@24.7.7?classifier=sources
+- pkg:maven/com.vaadin/vaadin-combo-box-flow@24.8.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-combo-box-flow@3.0.0
 - pkg:maven/com.vaadin/vaadin-combo-box-flow@3.0.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-combo-box-flow@3.0.1

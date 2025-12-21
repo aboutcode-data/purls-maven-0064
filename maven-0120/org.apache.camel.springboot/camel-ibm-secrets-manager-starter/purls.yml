@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.camel.springboot/camel-ibm-secrets-manager-starter@4.11.0
 - pkg:maven/org.apache.camel.springboot/camel-ibm-secrets-manager-starter@4.11.0?classifier=sources
+- pkg:maven/org.apache.camel.springboot/camel-ibm-secrets-manager-starter@4.12.0
+- pkg:maven/org.apache.camel.springboot/camel-ibm-secrets-manager-starter@4.12.0?classifier=sources

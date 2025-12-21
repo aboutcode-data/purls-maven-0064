@@ -22,3 +22,4 @@
 - pkg:maven/com.cognitect.aws/marketplace-catalog@868.2.1599.0?classifier=sources
 - pkg:maven/com.cognitect.aws/marketplace-catalog@871.2.29.35
 - pkg:maven/com.cognitect.aws/marketplace-catalog@871.2.29.35?classifier=sources
+- pkg:maven/com.cognitect.aws/marketplace-catalog@871.2.31.64?classifier=sources

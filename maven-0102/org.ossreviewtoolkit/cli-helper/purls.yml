@@ -6,3 +6,8 @@
 - pkg:maven/org.ossreviewtoolkit/cli-helper@59.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/cli-helper@59.2.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/cli-helper@59.3.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/cli-helper@60.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/cli-helper@61.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/cli-helper@61.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/cli-helper@61.2.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/cli-helper@61.3.0?classifier=sources

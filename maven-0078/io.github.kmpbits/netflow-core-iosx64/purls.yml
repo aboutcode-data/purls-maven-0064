@@ -1,0 +1,2 @@
+- pkg:maven/io.github.kmpbits/netflow-core-iosx64@0.0.10-alpha01?classifier=sources
+- pkg:maven/io.github.kmpbits/netflow-core-iosx64@0.0.9-alpha01?classifier=sources

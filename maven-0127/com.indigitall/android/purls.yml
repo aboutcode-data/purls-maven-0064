@@ -136,3 +136,4 @@
 - pkg:maven/com.indigitall/android@4.9.8?type=aar
 - pkg:maven/com.indigitall/android@4.9.9?classifier=sources
 - pkg:maven/com.indigitall/android@4.9.9?type=aar
+- pkg:maven/com.indigitall/android@5.19.0?classifier=sources

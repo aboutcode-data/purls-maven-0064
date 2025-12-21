@@ -222,3 +222,7 @@
 - pkg:maven/dev.vality/damsel@1.653-35a8abf?classifier=sources
 - pkg:maven/dev.vality/damsel@1.654-ab44b9d
 - pkg:maven/dev.vality/damsel@1.654-ab44b9d?classifier=sources
+- pkg:maven/dev.vality/damsel@1.655-5ca4f4a
+- pkg:maven/dev.vality/damsel@1.655-5ca4f4a?classifier=sources
+- pkg:maven/dev.vality/damsel@1.656-ba74148
+- pkg:maven/dev.vality/damsel@1.656-ba74148?classifier=sources

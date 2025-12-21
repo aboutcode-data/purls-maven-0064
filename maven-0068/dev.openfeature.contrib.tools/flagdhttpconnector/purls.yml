@@ -1,0 +1,2 @@
+- pkg:maven/dev.openfeature.contrib.tools/flagdhttpconnector@0.0.2
+- pkg:maven/dev.openfeature.contrib.tools/flagdhttpconnector@0.0.2?classifier=sources

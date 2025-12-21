@@ -4,5 +4,6 @@
 - pkg:maven/org.eclipse.ecsp/helloWorldService@0.0.12?classifier=sources
 - pkg:maven/org.eclipse.ecsp/helloWorldService@0.0.14
 - pkg:maven/org.eclipse.ecsp/helloWorldService@0.0.14?classifier=sources
+- pkg:maven/org.eclipse.ecsp/helloWorldService@0.0.17?classifier=sources
 - pkg:maven/org.eclipse.ecsp/helloWorldService@0.0.7
 - pkg:maven/org.eclipse.ecsp/helloWorldService@0.0.7?classifier=sources

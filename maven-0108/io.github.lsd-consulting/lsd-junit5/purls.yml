@@ -77,6 +77,8 @@
 - pkg:maven/io.github.lsd-consulting/lsd-junit5@7.0.135?classifier=sources
 - pkg:maven/io.github.lsd-consulting/lsd-junit5@7.0.136?classifier=sources
 - pkg:maven/io.github.lsd-consulting/lsd-junit5@7.0.137?classifier=sources
+- pkg:maven/io.github.lsd-consulting/lsd-junit5@7.0.138?classifier=sources
+- pkg:maven/io.github.lsd-consulting/lsd-junit5@7.0.139?classifier=sources
 - pkg:maven/io.github.lsd-consulting/lsd-junit5@7.0.13?classifier=sources
 - pkg:maven/io.github.lsd-consulting/lsd-junit5@7.0.14?classifier=sources
 - pkg:maven/io.github.lsd-consulting/lsd-junit5@7.0.15?classifier=sources

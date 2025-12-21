@@ -1,0 +1,4 @@
+- pkg:maven/org.chorus-oss/protocol-mingwx64@v800.0?classifier=sources
+- pkg:maven/org.chorus-oss/protocol-mingwx64@v800.1?classifier=sources
+- pkg:maven/org.chorus-oss/protocol-mingwx64@v800.2?classifier=sources
+- pkg:maven/org.chorus-oss/protocol-mingwx64@v818.0?classifier=sources

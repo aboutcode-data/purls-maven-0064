@@ -36,3 +36,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.swt.tools.spies@3.109.400?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.swt.tools.spies@3.109.500
 - pkg:maven/org.eclipse.platform/org.eclipse.swt.tools.spies@3.109.500?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.swt.tools.spies@3.109.600
+- pkg:maven/org.eclipse.platform/org.eclipse.swt.tools.spies@3.109.600?classifier=sources

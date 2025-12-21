@@ -1,0 +1,4 @@
+- pkg:maven/net.quimmilho.minecraft/MilhQLibrary@0.0.1-00004?classifier=sources
+- pkg:maven/net.quimmilho.minecraft/MilhQLibrary@0.0.1.00001?classifier=sources
+- pkg:maven/net.quimmilho.minecraft/MilhQLibrary@0.0.1.00002?classifier=sources
+- pkg:maven/net.quimmilho.minecraft/MilhQLibrary@0.0.1.00003?classifier=sources

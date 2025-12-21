@@ -11,4 +11,5 @@
 - pkg:maven/io.github.sergeyboboshko/composeentity_ksp@1.0.19?classifier=sources
 - pkg:maven/io.github.sergeyboboshko/composeentity_ksp@1.0.20?classifier=sources
 - pkg:maven/io.github.sergeyboboshko/composeentity_ksp@1.0.21?classifier=sources
+- pkg:maven/io.github.sergeyboboshko/composeentity_ksp@1.0.22?classifier=sources
 - pkg:maven/io.github.sergeyboboshko/composeentity_ksp@1.0.9?classifier=sources

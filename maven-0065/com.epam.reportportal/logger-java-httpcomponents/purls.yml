@@ -8,3 +8,4 @@
 - pkg:maven/com.epam.reportportal/logger-java-httpcomponents@5.1.4?classifier=sources
 - pkg:maven/com.epam.reportportal/logger-java-httpcomponents@5.1.5?classifier=sources
 - pkg:maven/com.epam.reportportal/logger-java-httpcomponents@5.1.6?classifier=sources
+- pkg:maven/com.epam.reportportal/logger-java-httpcomponents@5.2.0?classifier=sources

@@ -254,3 +254,5 @@
 - pkg:maven/io.dekorate/jib-annotations@4.1.3?classifier=sources
 - pkg:maven/io.dekorate/jib-annotations@4.1.4
 - pkg:maven/io.dekorate/jib-annotations@4.1.4?classifier=sources
+- pkg:maven/io.dekorate/jib-annotations@4.1.5
+- pkg:maven/io.dekorate/jib-annotations@4.1.5?classifier=sources

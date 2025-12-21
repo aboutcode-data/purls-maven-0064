@@ -144,6 +144,10 @@
 - pkg:maven/com.orientechnologies/orientdb-teleporter@3.2.39?type=zip
 - pkg:maven/com.orientechnologies/orientdb-teleporter@3.2.3?classifier=sources
 - pkg:maven/com.orientechnologies/orientdb-teleporter@3.2.3?type=zip
+- pkg:maven/com.orientechnologies/orientdb-teleporter@3.2.40?classifier=sources
+- pkg:maven/com.orientechnologies/orientdb-teleporter@3.2.40?type=zip
+- pkg:maven/com.orientechnologies/orientdb-teleporter@3.2.41?classifier=sources
+- pkg:maven/com.orientechnologies/orientdb-teleporter@3.2.41?type=zip
 - pkg:maven/com.orientechnologies/orientdb-teleporter@3.2.4?classifier=sources
 - pkg:maven/com.orientechnologies/orientdb-teleporter@3.2.4?type=zip
 - pkg:maven/com.orientechnologies/orientdb-teleporter@3.2.5?classifier=sources

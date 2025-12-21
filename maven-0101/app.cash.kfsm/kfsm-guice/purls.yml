@@ -1,4 +1,6 @@
 - pkg:maven/app.cash.kfsm/kfsm-guice@0.10.0?classifier=sources
+- pkg:maven/app.cash.kfsm/kfsm-guice@0.10.1-20250523.0135-51182dc?classifier=sources
+- pkg:maven/app.cash.kfsm/kfsm-guice@0.10.1?classifier=sources
 - pkg:maven/app.cash.kfsm/kfsm-guice@0.8.1-20250423.0436-a3bf5dc?classifier=sources
 - pkg:maven/app.cash.kfsm/kfsm-guice@0.8.2?classifier=sources
 - pkg:maven/app.cash.kfsm/kfsm-guice@0.8.3?classifier=sources

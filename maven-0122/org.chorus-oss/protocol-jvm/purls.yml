@@ -1,0 +1,4 @@
+- pkg:maven/org.chorus-oss/protocol-jvm@v800.0?classifier=sources
+- pkg:maven/org.chorus-oss/protocol-jvm@v800.1?classifier=sources
+- pkg:maven/org.chorus-oss/protocol-jvm@v800.2?classifier=sources
+- pkg:maven/org.chorus-oss/protocol-jvm@v818.0?classifier=sources

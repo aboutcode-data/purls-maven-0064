@@ -1,1 +1,2 @@
 - pkg:maven/io.github.jaloon/javax-mail@1.6.2?classifier=sources
+- pkg:maven/io.github.jaloon/javax-mail@1.6.7?classifier=sources
