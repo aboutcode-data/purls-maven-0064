@@ -12,3 +12,4 @@
 - pkg:maven/org.eclipse.apoapsis.ortserver.tasks/tasks@0.2.0?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.tasks/tasks@0.3.0?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.tasks/tasks@0.4.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.tasks/tasks@0.5.0?classifier=sources

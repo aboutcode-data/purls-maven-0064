@@ -6,3 +6,4 @@
 - pkg:maven/com.mailersend/java-sdk@1.0.1?classifier=sources
 - pkg:maven/com.mailersend/java-sdk@1.1.2
 - pkg:maven/com.mailersend/java-sdk@1.1.2?classifier=sources
+- pkg:maven/com.mailersend/java-sdk@1.1.3?classifier=sources

@@ -25,4 +25,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-indent@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-indent@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-indent@RELEASE250?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-web-indent@RELEASE260?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-indent@RELEASE90?classifier=sources

@@ -15,3 +15,5 @@
 - pkg:maven/org.mvnpm/core-js-compat@3.39.0?classifier=sources
 - pkg:maven/org.mvnpm/core-js-compat@3.40.0?classifier=sources
 - pkg:maven/org.mvnpm/core-js-compat@3.41.0?classifier=sources
+- pkg:maven/org.mvnpm/core-js-compat@3.42.0
+- pkg:maven/org.mvnpm/core-js-compat@3.42.0?classifier=sources

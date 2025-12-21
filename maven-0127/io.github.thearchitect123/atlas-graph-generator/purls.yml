@@ -68,3 +68,4 @@
 - pkg:maven/io.github.thearchitect123/atlas-graph-generator@0.7.6?classifier=sources
 - pkg:maven/io.github.thearchitect123/atlas-graph-generator@0.7.8?classifier=sources
 - pkg:maven/io.github.thearchitect123/atlas-graph-generator@0.8.0?classifier=sources
+- pkg:maven/io.github.thearchitect123/atlas-graph-generator@0.8.2?classifier=sources

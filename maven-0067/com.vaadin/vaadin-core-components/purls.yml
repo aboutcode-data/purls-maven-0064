@@ -1,5 +1,6 @@
 - pkg:maven/com.vaadin/vaadin-core-components@24.6.0
 - pkg:maven/com.vaadin/vaadin-core-components@24.6.1
+- pkg:maven/com.vaadin/vaadin-core-components@24.6.10
 - pkg:maven/com.vaadin/vaadin-core-components@24.6.2
 - pkg:maven/com.vaadin/vaadin-core-components@24.6.3
 - pkg:maven/com.vaadin/vaadin-core-components@24.6.4
@@ -12,3 +13,4 @@
 - pkg:maven/com.vaadin/vaadin-core-components@24.7.1
 - pkg:maven/com.vaadin/vaadin-core-components@24.7.2
 - pkg:maven/com.vaadin/vaadin-core-components@24.7.3
+- pkg:maven/com.vaadin/vaadin-core-components@24.7.4

@@ -12,3 +12,5 @@
 - pkg:maven/com.commercetools/sbt-scraml_2.12_1.0@0.16.0?classifier=sources
 - pkg:maven/com.commercetools/sbt-scraml_2.12_1.0@0.17.0
 - pkg:maven/com.commercetools/sbt-scraml_2.12_1.0@0.17.0?classifier=sources
+- pkg:maven/com.commercetools/sbt-scraml_2.12_1.0@0.18.0
+- pkg:maven/com.commercetools/sbt-scraml_2.12_1.0@0.18.0?classifier=sources

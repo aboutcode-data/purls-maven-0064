@@ -3,3 +3,4 @@
 - pkg:maven/de.joergdev.mosy/mosy-backend-standalone@4.0.2?classifier=sources
 - pkg:maven/de.joergdev.mosy/mosy-backend-standalone@4.0.3?classifier=sources
 - pkg:maven/de.joergdev.mosy/mosy-backend-standalone@5.0.0?classifier=sources
+- pkg:maven/de.joergdev.mosy/mosy-backend-standalone@5.1.0?classifier=sources

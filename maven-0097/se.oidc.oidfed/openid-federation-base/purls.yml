@@ -1,3 +1,4 @@
 - pkg:maven/se.oidc.oidfed/openid-federation-base@2.0.0
 - pkg:maven/se.oidc.oidfed/openid-federation-base@2.0.0?classifier=sources
 - pkg:maven/se.oidc.oidfed/openid-federation-base@3.0.1?classifier=sources
+- pkg:maven/se.oidc.oidfed/openid-federation-base@4.0.0?classifier=sources

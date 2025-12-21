@@ -25,4 +25,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-subversion@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-subversion@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-subversion@RELEASE250?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-subversion@RELEASE260?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-subversion@RELEASE90?classifier=sources

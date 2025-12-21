@@ -1,5 +1,8 @@
 - pkg:maven/org.webjars.npm/github-com-twbs-icons@1.0.0
 - pkg:maven/org.webjars.npm/github-com-twbs-icons@1.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-twbs-icons@1.11.4
+- pkg:maven/org.webjars.npm/github-com-twbs-icons@1.12.0
+- pkg:maven/org.webjars.npm/github-com-twbs-icons@1.12.1
 - pkg:maven/org.webjars.npm/github-com-twbs-icons@1.5.0
 - pkg:maven/org.webjars.npm/github-com-twbs-icons@1.5.0?classifier=sources
 - pkg:maven/org.webjars.npm/github-com-twbs-icons@1.6.1

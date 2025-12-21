@@ -1,1 +1,2 @@
 - pkg:maven/beer.devs/fastnbt_nms_v1_21_5_mojangmap@1.4.7?classifier=sources
+- pkg:maven/beer.devs/fastnbt_nms_v1_21_5_mojangmap@1.4.8?classifier=sources

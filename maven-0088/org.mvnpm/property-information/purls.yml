@@ -10,3 +10,5 @@
 - pkg:maven/org.mvnpm/property-information@5.6.0?classifier=sources
 - pkg:maven/org.mvnpm/property-information@6.5.0?classifier=sources
 - pkg:maven/org.mvnpm/property-information@7.0.0?classifier=sources
+- pkg:maven/org.mvnpm/property-information@7.1.0
+- pkg:maven/org.mvnpm/property-information@7.1.0?classifier=sources

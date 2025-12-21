@@ -28,3 +28,4 @@
 - pkg:maven/io.github.guttenbase/guttenbase@4.1.4?classifier=sources
 - pkg:maven/io.github.guttenbase/guttenbase@4.2.0
 - pkg:maven/io.github.guttenbase/guttenbase@4.2.0?classifier=sources
+- pkg:maven/io.github.guttenbase/guttenbase@4.2.2?classifier=sources

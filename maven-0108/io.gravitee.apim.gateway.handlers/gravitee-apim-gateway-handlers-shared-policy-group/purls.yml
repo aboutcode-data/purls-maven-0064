@@ -17,6 +17,8 @@
 - pkg:maven/io.gravitee.apim.gateway.handlers/gravitee-apim-gateway-handlers-shared-policy-group@4.5.15?classifier=sources
 - pkg:maven/io.gravitee.apim.gateway.handlers/gravitee-apim-gateway-handlers-shared-policy-group@4.5.16
 - pkg:maven/io.gravitee.apim.gateway.handlers/gravitee-apim-gateway-handlers-shared-policy-group@4.5.16?classifier=sources
+- pkg:maven/io.gravitee.apim.gateway.handlers/gravitee-apim-gateway-handlers-shared-policy-group@4.5.17
+- pkg:maven/io.gravitee.apim.gateway.handlers/gravitee-apim-gateway-handlers-shared-policy-group@4.5.17?classifier=sources
 - pkg:maven/io.gravitee.apim.gateway.handlers/gravitee-apim-gateway-handlers-shared-policy-group@4.5.1?classifier=sources
 - pkg:maven/io.gravitee.apim.gateway.handlers/gravitee-apim-gateway-handlers-shared-policy-group@4.5.2
 - pkg:maven/io.gravitee.apim.gateway.handlers/gravitee-apim-gateway-handlers-shared-policy-group@4.5.2?classifier=sources
@@ -41,6 +43,8 @@
 - pkg:maven/io.gravitee.apim.gateway.handlers/gravitee-apim-gateway-handlers-shared-policy-group@4.6.1
 - pkg:maven/io.gravitee.apim.gateway.handlers/gravitee-apim-gateway-handlers-shared-policy-group@4.6.10
 - pkg:maven/io.gravitee.apim.gateway.handlers/gravitee-apim-gateway-handlers-shared-policy-group@4.6.10?classifier=sources
+- pkg:maven/io.gravitee.apim.gateway.handlers/gravitee-apim-gateway-handlers-shared-policy-group@4.6.11
+- pkg:maven/io.gravitee.apim.gateway.handlers/gravitee-apim-gateway-handlers-shared-policy-group@4.6.11?classifier=sources
 - pkg:maven/io.gravitee.apim.gateway.handlers/gravitee-apim-gateway-handlers-shared-policy-group@4.6.1?classifier=sources
 - pkg:maven/io.gravitee.apim.gateway.handlers/gravitee-apim-gateway-handlers-shared-policy-group@4.6.2
 - pkg:maven/io.gravitee.apim.gateway.handlers/gravitee-apim-gateway-handlers-shared-policy-group@4.6.2?classifier=sources
@@ -74,3 +78,5 @@
 - pkg:maven/io.gravitee.apim.gateway.handlers/gravitee-apim-gateway-handlers-shared-policy-group@4.7.3?classifier=sources
 - pkg:maven/io.gravitee.apim.gateway.handlers/gravitee-apim-gateway-handlers-shared-policy-group@4.7.4
 - pkg:maven/io.gravitee.apim.gateway.handlers/gravitee-apim-gateway-handlers-shared-policy-group@4.7.4?classifier=sources
+- pkg:maven/io.gravitee.apim.gateway.handlers/gravitee-apim-gateway-handlers-shared-policy-group@4.7.5
+- pkg:maven/io.gravitee.apim.gateway.handlers/gravitee-apim-gateway-handlers-shared-policy-group@4.7.5?classifier=sources

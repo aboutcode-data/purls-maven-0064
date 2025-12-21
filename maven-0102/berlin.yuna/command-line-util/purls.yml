@@ -139,6 +139,8 @@
 - pkg:maven/berlin.yuna/command-line-util@2.1.45?classifier=sources
 - pkg:maven/berlin.yuna/command-line-util@2.1.46
 - pkg:maven/berlin.yuna/command-line-util@2.1.46?classifier=sources
+- pkg:maven/berlin.yuna/command-line-util@2.1.47
+- pkg:maven/berlin.yuna/command-line-util@2.1.47?classifier=sources
 - pkg:maven/berlin.yuna/command-line-util@2.1.4?classifier=sources
 - pkg:maven/berlin.yuna/command-line-util@2.1.5
 - pkg:maven/berlin.yuna/command-line-util@2.1.5?classifier=sources

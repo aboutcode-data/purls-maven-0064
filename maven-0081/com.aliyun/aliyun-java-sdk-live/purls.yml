@@ -171,6 +171,8 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-live@3.9.64?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-live@3.9.65
 - pkg:maven/com.aliyun/aliyun-java-sdk-live@3.9.65?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-live@3.9.66
+- pkg:maven/com.aliyun/aliyun-java-sdk-live@3.9.66?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-live@3.9.6?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-live@3.9.7
 - pkg:maven/com.aliyun/aliyun-java-sdk-live@3.9.7?classifier=sources

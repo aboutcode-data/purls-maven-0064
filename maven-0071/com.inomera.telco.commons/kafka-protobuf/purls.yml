@@ -1,1 +1,2 @@
 - pkg:maven/com.inomera.telco.commons/kafka-protobuf@4.0.0?classifier=sources
+- pkg:maven/com.inomera.telco.commons/kafka-protobuf@4.0.1?classifier=sources

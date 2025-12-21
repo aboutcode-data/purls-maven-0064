@@ -1,2 +1,4 @@
 - pkg:maven/org.mvnpm.at.jest/types@26.6.2?classifier=sources
+- pkg:maven/org.mvnpm.at.jest/types@27.5.1
+- pkg:maven/org.mvnpm.at.jest/types@27.5.1?classifier=sources
 - pkg:maven/org.mvnpm.at.jest/types@29.6.3?classifier=sources

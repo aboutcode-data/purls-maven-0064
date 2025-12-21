@@ -10,5 +10,6 @@
 - pkg:maven/org.webjars.npm/codemirror__view@6.36.3
 - pkg:maven/org.webjars.npm/codemirror__view@6.36.4
 - pkg:maven/org.webjars.npm/codemirror__view@6.36.5
+- pkg:maven/org.webjars.npm/codemirror__view@6.36.8
 - pkg:maven/org.webjars.npm/codemirror__view@6.4.0
 - pkg:maven/org.webjars.npm/codemirror__view@6.4.0?classifier=sources

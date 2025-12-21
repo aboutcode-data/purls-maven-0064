@@ -62,6 +62,10 @@
 - pkg:maven/com.solace.connector.core.transform/pubsubplus-connector-transform-annotations@2.15.0?classifier=sources
 - pkg:maven/com.solace.connector.core.transform/pubsubplus-connector-transform-annotations@2.15.1
 - pkg:maven/com.solace.connector.core.transform/pubsubplus-connector-transform-annotations@2.15.1?classifier=sources
+- pkg:maven/com.solace.connector.core.transform/pubsubplus-connector-transform-annotations@2.15.2
+- pkg:maven/com.solace.connector.core.transform/pubsubplus-connector-transform-annotations@2.15.2?classifier=sources
+- pkg:maven/com.solace.connector.core.transform/pubsubplus-connector-transform-annotations@2.15.3
+- pkg:maven/com.solace.connector.core.transform/pubsubplus-connector-transform-annotations@2.15.3?classifier=sources
 - pkg:maven/com.solace.connector.core.transform/pubsubplus-connector-transform-annotations@2.8.1
 - pkg:maven/com.solace.connector.core.transform/pubsubplus-connector-transform-annotations@2.8.1?classifier=sources
 - pkg:maven/com.solace.connector.core.transform/pubsubplus-connector-transform-annotations@2.9.0

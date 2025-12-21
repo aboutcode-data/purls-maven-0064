@@ -25,4 +25,5 @@
 - pkg:maven/org.netbeans.external/resolver-1.2@RELEASE230
 - pkg:maven/org.netbeans.external/resolver-1.2@RELEASE240
 - pkg:maven/org.netbeans.external/resolver-1.2@RELEASE250
+- pkg:maven/org.netbeans.external/resolver-1.2@RELEASE260
 - pkg:maven/org.netbeans.external/resolver-1.2@RELEASE90

@@ -1,1 +1,2 @@
 - pkg:maven/org.icepear.echarts.snapshot/echarts-java-snapshot-phantomjs@1.0.0-alpha?classifier=sources
+- pkg:maven/org.icepear.echarts.snapshot/echarts-java-snapshot-phantomjs@1.0.0-beta?classifier=sources

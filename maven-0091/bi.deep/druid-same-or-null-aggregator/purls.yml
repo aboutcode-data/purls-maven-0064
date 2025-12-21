@@ -1,0 +1,2 @@
+- pkg:maven/bi.deep/druid-same-or-null-aggregator@32.0.1
+- pkg:maven/bi.deep/druid-same-or-null-aggregator@32.0.1?classifier=sources

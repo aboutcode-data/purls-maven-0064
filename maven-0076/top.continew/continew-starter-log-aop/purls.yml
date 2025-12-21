@@ -1,5 +1,6 @@
 - pkg:maven/top.continew/continew-starter-log-aop@2.10.0?classifier=sources
 - pkg:maven/top.continew/continew-starter-log-aop@2.11.0?classifier=sources
+- pkg:maven/top.continew/continew-starter-log-aop@2.12.0?classifier=sources
 - pkg:maven/top.continew/continew-starter-log-aop@2.8.0?classifier=sources
 - pkg:maven/top.continew/continew-starter-log-aop@2.8.1?classifier=sources
 - pkg:maven/top.continew/continew-starter-log-aop@2.8.2?classifier=sources

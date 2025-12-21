@@ -27,3 +27,4 @@
 - pkg:maven/ch.admin.bit.jeap/jeap-messaging-registry-maven-plugin@8.34.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-messaging-registry-maven-plugin@8.35.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-messaging-registry-maven-plugin@8.36.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-messaging-registry-maven-plugin@8.37.0?classifier=sources

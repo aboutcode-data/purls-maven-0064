@@ -1,0 +1,2 @@
+- pkg:maven/com.identityblitz/blitz_jdk@5.30.0.0000
+- pkg:maven/com.identityblitz/blitz_jdk@5.30.0.0000?classifier=sources

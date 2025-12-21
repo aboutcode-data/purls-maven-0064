@@ -25,4 +25,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-api-htmlui@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-api-htmlui@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-api-htmlui@RELEASE250?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-api-htmlui@RELEASE260?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-api-htmlui@RELEASE90?classifier=sources

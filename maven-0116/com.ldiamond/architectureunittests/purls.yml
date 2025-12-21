@@ -3,3 +3,7 @@
 - pkg:maven/com.ldiamond/architectureunittests@1.0.0?classifier=sources
 - pkg:maven/com.ldiamond/architectureunittests@1.1.0?classifier=sources
 - pkg:maven/com.ldiamond/architectureunittests@2.0.0?classifier=sources
+- pkg:maven/com.ldiamond/architectureunittests@3.0.0?classifier=sources
+- pkg:maven/com.ldiamond/architectureunittests@4.0.0?classifier=sources
+- pkg:maven/com.ldiamond/architectureunittests@4.0.1?classifier=sources
+- pkg:maven/com.ldiamond/architectureunittests@4.0.2?classifier=sources

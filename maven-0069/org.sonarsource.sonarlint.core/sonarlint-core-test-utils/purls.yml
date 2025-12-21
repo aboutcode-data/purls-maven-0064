@@ -7,3 +7,5 @@
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-core-test-utils@10.19.0.80932?classifier=sources
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-core-test-utils@10.19.1.80951?classifier=sources
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-core-test-utils@10.20.0.81055?classifier=sources
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-core-test-utils@10.21.0.81131?classifier=sources
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-core-test-utils@10.22.0.81232?classifier=sources

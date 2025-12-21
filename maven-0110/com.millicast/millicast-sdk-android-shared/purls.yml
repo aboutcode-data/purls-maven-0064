@@ -41,3 +41,4 @@
 - pkg:maven/com.millicast/millicast-sdk-android-shared@2.2.0?classifier=sources
 - pkg:maven/com.millicast/millicast-sdk-android-shared@2.3.0?classifier=sources
 - pkg:maven/com.millicast/millicast-sdk-android-shared@2.4.0?classifier=sources
+- pkg:maven/com.millicast/millicast-sdk-android-shared@2.4.1?classifier=sources

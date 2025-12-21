@@ -25,3 +25,4 @@
 - pkg:maven/org.webjars.npm/raw-body@2.5.1
 - pkg:maven/org.webjars.npm/raw-body@2.5.1?classifier=sources
 - pkg:maven/org.webjars.npm/raw-body@2.5.2
+- pkg:maven/org.webjars.npm/raw-body@3.0.0

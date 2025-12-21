@@ -12,3 +12,5 @@
 - pkg:maven/org.jetbrains.intellij.plugins/structure-teamcity-recipes@3.302?classifier=sources
 - pkg:maven/org.jetbrains.intellij.plugins/structure-teamcity-recipes@3.303?classifier=sources
 - pkg:maven/org.jetbrains.intellij.plugins/structure-teamcity-recipes@3.304?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/structure-teamcity-recipes@3.305?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/structure-teamcity-recipes@3.306?classifier=sources

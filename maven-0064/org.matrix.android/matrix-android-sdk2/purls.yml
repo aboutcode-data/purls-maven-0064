@@ -35,3 +35,4 @@
 - pkg:maven/org.matrix.android/matrix-android-sdk2@1.5.7?classifier=sources
 - pkg:maven/org.matrix.android/matrix-android-sdk2@1.5.8?classifier=sources
 - pkg:maven/org.matrix.android/matrix-android-sdk2@1.6.10?classifier=sources
+- pkg:maven/org.matrix.android/matrix-android-sdk2@1.6.36?classifier=sources

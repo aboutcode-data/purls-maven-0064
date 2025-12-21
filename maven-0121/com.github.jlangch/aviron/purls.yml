@@ -3,3 +3,5 @@
 - pkg:maven/com.github.jlangch/aviron@0.2.0?classifier=sources
 - pkg:maven/com.github.jlangch/aviron@1.0.0
 - pkg:maven/com.github.jlangch/aviron@1.0.0?classifier=sources
+- pkg:maven/com.github.jlangch/aviron@1.1.0
+- pkg:maven/com.github.jlangch/aviron@1.1.0?classifier=sources

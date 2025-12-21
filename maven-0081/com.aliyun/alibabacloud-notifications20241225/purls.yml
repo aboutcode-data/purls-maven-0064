@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun/alibabacloud-notifications20241225@1.0.0
+- pkg:maven/com.aliyun/alibabacloud-notifications20241225@1.0.0?classifier=sources

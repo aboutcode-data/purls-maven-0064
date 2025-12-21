@@ -1,0 +1,2 @@
+- pkg:maven/uk.co.bithatch/linid@0.9.0
+- pkg:maven/uk.co.bithatch/linid@0.9.0?classifier=sources

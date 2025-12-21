@@ -88,3 +88,5 @@
 - pkg:maven/org.dspace/dspace-api-lang@8.0.0?classifier=sources
 - pkg:maven/org.dspace/dspace-api-lang@8.0.1
 - pkg:maven/org.dspace/dspace-api-lang@8.0.1?classifier=sources
+- pkg:maven/org.dspace/dspace-api-lang@9.0.0
+- pkg:maven/org.dspace/dspace-api-lang@9.0.0?classifier=sources

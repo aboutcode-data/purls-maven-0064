@@ -12,3 +12,5 @@
 - pkg:maven/io.spring.javaformat/spring-javaformat-formatter-tests@0.0.41
 - pkg:maven/io.spring.javaformat/spring-javaformat-formatter-tests@0.0.42
 - pkg:maven/io.spring.javaformat/spring-javaformat-formatter-tests@0.0.43
+- pkg:maven/io.spring.javaformat/spring-javaformat-formatter-tests@0.0.44
+- pkg:maven/io.spring.javaformat/spring-javaformat-formatter-tests@0.0.45

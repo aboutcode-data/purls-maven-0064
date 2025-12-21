@@ -29,3 +29,5 @@
 - pkg:maven/com.factset.sdk/factsetfundamentals@3.1.2?classifier=sources
 - pkg:maven/com.factset.sdk/factsetfundamentals@3.2.0?classifier=sources
 - pkg:maven/com.factset.sdk/factsetfundamentals@3.2.1?classifier=sources
+- pkg:maven/com.factset.sdk/factsetfundamentals@3.3.0?classifier=sources
+- pkg:maven/com.factset.sdk/factsetfundamentals@3.3.1?classifier=sources

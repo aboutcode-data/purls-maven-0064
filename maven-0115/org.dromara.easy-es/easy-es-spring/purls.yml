@@ -1,1 +1,2 @@
 - pkg:maven/org.dromara.easy-es/easy-es-spring@2.1.0?classifier=sources
+- pkg:maven/org.dromara.easy-es/easy-es-spring@3.0.0?classifier=sources
