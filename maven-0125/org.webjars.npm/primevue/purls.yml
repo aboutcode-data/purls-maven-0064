@@ -31,3 +31,4 @@
 - pkg:maven/org.webjars.npm/primevue@3.49.0
 - pkg:maven/org.webjars.npm/primevue@3.49.0?classifier=sources
 - pkg:maven/org.webjars.npm/primevue@3.52.0
+- pkg:maven/org.webjars.npm/primevue@4.3.3

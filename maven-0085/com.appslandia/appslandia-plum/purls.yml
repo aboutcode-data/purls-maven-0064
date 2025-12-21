@@ -148,6 +148,16 @@
 - pkg:maven/com.appslandia/appslandia-plum@19.17.0?classifier=sources
 - pkg:maven/com.appslandia/appslandia-plum@19.18.0
 - pkg:maven/com.appslandia/appslandia-plum@19.18.0?classifier=sources
+- pkg:maven/com.appslandia/appslandia-plum@19.19.0
+- pkg:maven/com.appslandia/appslandia-plum@19.19.0?classifier=sources
+- pkg:maven/com.appslandia/appslandia-plum@19.19.1
+- pkg:maven/com.appslandia/appslandia-plum@19.19.1?classifier=sources
+- pkg:maven/com.appslandia/appslandia-plum@19.19.2
+- pkg:maven/com.appslandia/appslandia-plum@19.19.2?classifier=sources
+- pkg:maven/com.appslandia/appslandia-plum@19.19.3
+- pkg:maven/com.appslandia/appslandia-plum@19.19.3?classifier=sources
+- pkg:maven/com.appslandia/appslandia-plum@19.19.4
+- pkg:maven/com.appslandia/appslandia-plum@19.19.4?classifier=sources
 - pkg:maven/com.appslandia/appslandia-plum@19.3.0
 - pkg:maven/com.appslandia/appslandia-plum@19.3.0?classifier=sources
 - pkg:maven/com.appslandia/appslandia-plum@19.3.1

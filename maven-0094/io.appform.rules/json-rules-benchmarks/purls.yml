@@ -2,3 +2,5 @@
 - pkg:maven/io.appform.rules/json-rules-benchmarks@1.0.16-RC0
 - pkg:maven/io.appform.rules/json-rules-benchmarks@1.0.16-RC0?classifier=sources
 - pkg:maven/io.appform.rules/json-rules-benchmarks@1.0.16?classifier=sources
+- pkg:maven/io.appform.rules/json-rules-benchmarks@1.0.17
+- pkg:maven/io.appform.rules/json-rules-benchmarks@1.0.17?classifier=sources

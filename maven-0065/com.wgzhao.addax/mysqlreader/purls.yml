@@ -22,3 +22,5 @@
 - pkg:maven/com.wgzhao.addax/mysqlreader@4.3.0?classifier=sources
 - pkg:maven/com.wgzhao.addax/mysqlreader@5.0.0?classifier=sources
 - pkg:maven/com.wgzhao.addax/mysqlreader@5.1.0?classifier=sources
+- pkg:maven/com.wgzhao.addax/mysqlreader@5.1.1?classifier=sources
+- pkg:maven/com.wgzhao.addax/mysqlreader@5.1.2?classifier=sources

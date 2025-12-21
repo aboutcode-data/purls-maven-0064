@@ -1,0 +1,2 @@
+- pkg:maven/com.webforj/webforj-desktop-notification@25.00
+- pkg:maven/com.webforj/webforj-desktop-notification@25.00?classifier=sources

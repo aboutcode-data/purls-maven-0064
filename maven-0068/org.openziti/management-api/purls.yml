@@ -1,1 +1,2 @@
 - pkg:maven/org.openziti/management-api@0.28.1?classifier=sources
+- pkg:maven/org.openziti/management-api@0.29.2?classifier=sources

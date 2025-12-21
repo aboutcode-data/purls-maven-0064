@@ -1,1 +1,3 @@
 - pkg:maven/io.github.sbahmani/jalcal@1.6?classifier=sources
+- pkg:maven/io.github.sbahmani/jalcal@2.0?classifier=sources
+- pkg:maven/io.github.sbahmani/jalcal@2.1?classifier=sources

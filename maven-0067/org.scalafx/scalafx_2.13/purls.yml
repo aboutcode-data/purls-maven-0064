@@ -32,3 +32,5 @@
 - pkg:maven/org.scalafx/scalafx_2.13@22.0.0-R33?classifier=sources
 - pkg:maven/org.scalafx/scalafx_2.13@23.0.1-R34
 - pkg:maven/org.scalafx/scalafx_2.13@23.0.1-R34?classifier=sources
+- pkg:maven/org.scalafx/scalafx_2.13@24.0.0-R35
+- pkg:maven/org.scalafx/scalafx_2.13@24.0.0-R35?classifier=sources

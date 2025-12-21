@@ -40,3 +40,4 @@
 - pkg:maven/com.github.tonivade/claudb@2.1?classifier=sources
 - pkg:maven/com.github.tonivade/claudb@2.2?classifier=sources
 - pkg:maven/com.github.tonivade/claudb@2.3?classifier=sources
+- pkg:maven/com.github.tonivade/claudb@2.4?classifier=sources

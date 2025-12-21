@@ -1,1 +1,3 @@
 - pkg:maven/io.github.swapnil-musale/KDeviceInfo-desktop@0.0.7?classifier=sources
+- pkg:maven/io.github.swapnil-musale/KDeviceInfo-desktop@1.0.0?classifier=sources
+- pkg:maven/io.github.swapnil-musale/KDeviceInfo-desktop@1.0.1?classifier=sources

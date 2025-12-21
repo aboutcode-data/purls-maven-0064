@@ -1,0 +1,2 @@
+- pkg:maven/ca.weblite/swinky-jgoodies@0.0.17
+- pkg:maven/ca.weblite/swinky-jgoodies@0.0.17?classifier=sources

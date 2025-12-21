@@ -1,0 +1,1 @@
+- pkg:maven/io.github.shin1103/embulk-output-iceberg@0.2.0?classifier=sources

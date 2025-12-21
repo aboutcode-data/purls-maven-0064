@@ -17,3 +17,5 @@
 - pkg:maven/io.github.bayescom/advance-bd@5.1.1_9352_core?type=aar
 - pkg:maven/io.github.bayescom/advance-bd@5.1.2_9352?type=aar
 - pkg:maven/io.github.bayescom/advance-bd@5.1.2_9352_core?type=aar
+- pkg:maven/io.github.bayescom/advance-bd@5.1.4_9352?type=aar
+- pkg:maven/io.github.bayescom/advance-bd@5.1.4_9352_core?type=aar

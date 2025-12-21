@@ -84,6 +84,14 @@
 - pkg:maven/edu.gemini/lucuma-schemas-testkit_sjs1_3@0.128.0?classifier=sources
 - pkg:maven/edu.gemini/lucuma-schemas-testkit_sjs1_3@0.129.0
 - pkg:maven/edu.gemini/lucuma-schemas-testkit_sjs1_3@0.129.0?classifier=sources
+- pkg:maven/edu.gemini/lucuma-schemas-testkit_sjs1_3@0.130.0
+- pkg:maven/edu.gemini/lucuma-schemas-testkit_sjs1_3@0.130.0?classifier=sources
+- pkg:maven/edu.gemini/lucuma-schemas-testkit_sjs1_3@0.130.1
+- pkg:maven/edu.gemini/lucuma-schemas-testkit_sjs1_3@0.130.1?classifier=sources
+- pkg:maven/edu.gemini/lucuma-schemas-testkit_sjs1_3@0.131.0
+- pkg:maven/edu.gemini/lucuma-schemas-testkit_sjs1_3@0.131.0?classifier=sources
+- pkg:maven/edu.gemini/lucuma-schemas-testkit_sjs1_3@0.131.1
+- pkg:maven/edu.gemini/lucuma-schemas-testkit_sjs1_3@0.131.1?classifier=sources
 - pkg:maven/edu.gemini/lucuma-schemas-testkit_sjs1_3@0.42.0
 - pkg:maven/edu.gemini/lucuma-schemas-testkit_sjs1_3@0.42.0?classifier=sources
 - pkg:maven/edu.gemini/lucuma-schemas-testkit_sjs1_3@0.42.1

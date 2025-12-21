@@ -9,3 +9,4 @@
 - pkg:maven/com.muicc.pdf/pdfparser@1.8?classifier=sources
 - pkg:maven/com.muicc.pdf/pdfparser@1.9?classifier=sources
 - pkg:maven/com.muicc.pdf/pdfparser@2.0?classifier=sources
+- pkg:maven/com.muicc.pdf/pdfparser@2.1?classifier=sources

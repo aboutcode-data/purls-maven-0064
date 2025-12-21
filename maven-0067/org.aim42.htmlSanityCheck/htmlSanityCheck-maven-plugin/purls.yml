@@ -1,1 +1,2 @@
 - pkg:maven/org.aim42.htmlSanityCheck/htmlSanityCheck-maven-plugin@2.0.0-rc3?classifier=sources
+- pkg:maven/org.aim42.htmlSanityCheck/htmlSanityCheck-maven-plugin@2.0.0-rc4?classifier=sources

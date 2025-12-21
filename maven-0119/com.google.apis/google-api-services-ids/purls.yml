@@ -24,3 +24,5 @@
 - pkg:maven/com.google.apis/google-api-services-ids@v1-rev20250214-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-ids@v1-rev20250304-2.0.0
 - pkg:maven/com.google.apis/google-api-services-ids@v1-rev20250304-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-ids@v1-rev20250320-2.0.0
+- pkg:maven/com.google.apis/google-api-services-ids@v1-rev20250320-2.0.0?classifier=sources

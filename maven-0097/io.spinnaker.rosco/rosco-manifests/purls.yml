@@ -30,8 +30,10 @@
 - pkg:maven/io.spinnaker.rosco/rosco-manifests@1.22.0?classifier=sources
 - pkg:maven/io.spinnaker.rosco/rosco-manifests@1.22.1?classifier=sources
 - pkg:maven/io.spinnaker.rosco/rosco-manifests@1.23.0?classifier=sources
+- pkg:maven/io.spinnaker.rosco/rosco-manifests@1.23.1?classifier=sources
 - pkg:maven/io.spinnaker.rosco/rosco-manifests@1.24.0?classifier=sources
 - pkg:maven/io.spinnaker.rosco/rosco-manifests@1.25.0?classifier=sources
+- pkg:maven/io.spinnaker.rosco/rosco-manifests@1.26.0?classifier=sources
 - pkg:maven/io.spinnaker.rosco/rosco-manifests@1.7.2?classifier=sources
 - pkg:maven/io.spinnaker.rosco/rosco-manifests@1.7.3?classifier=sources
 - pkg:maven/io.spinnaker.rosco/rosco-manifests@1.7.4?classifier=sources
@@ -60,3 +62,10 @@
 - pkg:maven/io.spinnaker.rosco/rosco-manifests@1.8.6?classifier=sources
 - pkg:maven/io.spinnaker.rosco/rosco-manifests@1.8.7?classifier=sources
 - pkg:maven/io.spinnaker.rosco/rosco-manifests@1.9.0?classifier=sources
+- pkg:maven/io.spinnaker.rosco/rosco-manifests@2025.0-0?classifier=sources
+- pkg:maven/io.spinnaker.rosco/rosco-manifests@2025.0-1?classifier=sources
+- pkg:maven/io.spinnaker.rosco/rosco-manifests@2025.0.0?classifier=sources
+- pkg:maven/io.spinnaker.rosco/rosco-manifests@main-5?classifier=sources
+- pkg:maven/io.spinnaker.rosco/rosco-manifests@main-6?classifier=sources
+- pkg:maven/io.spinnaker.rosco/rosco-manifests@main-7?classifier=sources
+- pkg:maven/io.spinnaker.rosco/rosco-manifests@main-8?classifier=sources

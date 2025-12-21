@@ -1,4 +1,5 @@
 - pkg:maven/org.webjars.npm/ssri@10.0.6
+- pkg:maven/org.webjars.npm/ssri@12.0.0
 - pkg:maven/org.webjars.npm/ssri@5.1.0
 - pkg:maven/org.webjars.npm/ssri@5.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/ssri@5.2.1

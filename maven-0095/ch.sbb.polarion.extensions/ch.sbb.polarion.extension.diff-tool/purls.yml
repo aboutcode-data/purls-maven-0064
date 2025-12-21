@@ -4,3 +4,5 @@
 - pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.diff-tool@5.1.0?classifier=sources
 - pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.diff-tool@5.1.1
 - pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.diff-tool@5.1.1?classifier=sources
+- pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.diff-tool@5.1.2
+- pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.diff-tool@5.1.2?classifier=sources

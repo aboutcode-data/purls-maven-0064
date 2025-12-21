@@ -46,3 +46,5 @@
 - pkg:maven/com.limemojito.oss.standards.development-test/jar-lambda-poc@15.2.6?classifier=sources
 - pkg:maven/com.limemojito.oss.standards.development-test/jar-lambda-poc@15.2.7
 - pkg:maven/com.limemojito.oss.standards.development-test/jar-lambda-poc@15.2.7?classifier=sources
+- pkg:maven/com.limemojito.oss.standards.development-test/jar-lambda-poc@15.2.8
+- pkg:maven/com.limemojito.oss.standards.development-test/jar-lambda-poc@15.2.8?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.camel.karaf/camel-azure-storage-queue-test@4.10.3
+- pkg:maven/org.apache.camel.karaf/camel-azure-storage-queue-test@4.10.3?classifier=sources
+- pkg:maven/org.apache.camel.karaf/camel-azure-storage-queue-test@4.8.6
+- pkg:maven/org.apache.camel.karaf/camel-azure-storage-queue-test@4.8.6?classifier=sources

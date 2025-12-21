@@ -10,3 +10,7 @@
 - pkg:maven/uk.autores/format@8.0.4-beta?classifier=sources
 - pkg:maven/uk.autores/format@8.1.0
 - pkg:maven/uk.autores/format@8.1.0?classifier=sources
+- pkg:maven/uk.autores/format@8.1.3
+- pkg:maven/uk.autores/format@8.1.3?classifier=sources
+- pkg:maven/uk.autores/format@8.1.4
+- pkg:maven/uk.autores/format@8.1.4?classifier=sources

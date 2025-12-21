@@ -60,6 +60,15 @@
 - pkg:maven/io.spinnaker.fiat/fiat-github@1.53.0?classifier=sources
 - pkg:maven/io.spinnaker.fiat/fiat-github@1.54.0?classifier=sources
 - pkg:maven/io.spinnaker.fiat/fiat-github@1.54.1?classifier=sources
+- pkg:maven/io.spinnaker.fiat/fiat-github@1.54.2?classifier=sources
 - pkg:maven/io.spinnaker.fiat/fiat-github@1.55.0?classifier=sources
 - pkg:maven/io.spinnaker.fiat/fiat-github@1.56.0?classifier=sources
+- pkg:maven/io.spinnaker.fiat/fiat-github@1.57.0?classifier=sources
+- pkg:maven/io.spinnaker.fiat/fiat-github@2025.0-0?classifier=sources
+- pkg:maven/io.spinnaker.fiat/fiat-github@2025.0-1?classifier=sources
+- pkg:maven/io.spinnaker.fiat/fiat-github@2025.0.0?classifier=sources
+- pkg:maven/io.spinnaker.fiat/fiat-github@main-5?classifier=sources
+- pkg:maven/io.spinnaker.fiat/fiat-github@main-6?classifier=sources
+- pkg:maven/io.spinnaker.fiat/fiat-github@main-7?classifier=sources
+- pkg:maven/io.spinnaker.fiat/fiat-github@main-8?classifier=sources
 - pkg:maven/io.spinnaker.fiat/fiat-github@version-1.14.4?classifier=sources

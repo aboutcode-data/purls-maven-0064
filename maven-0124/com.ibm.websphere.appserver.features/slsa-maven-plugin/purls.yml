@@ -4,3 +4,4 @@
 - pkg:maven/com.ibm.websphere.appserver.features/slsa-maven-plugin@2.0.0
 - pkg:maven/com.ibm.websphere.appserver.features/slsa-maven-plugin@2.0.1
 - pkg:maven/com.ibm.websphere.appserver.features/slsa-maven-plugin@3.0.0
+- pkg:maven/com.ibm.websphere.appserver.features/slsa-maven-plugin@3.0.1

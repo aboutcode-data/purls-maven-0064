@@ -1,0 +1,2 @@
+- pkg:maven/org.ossreviewtoolkit/cli-helper@56.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/cli-helper@57.0.0?classifier=sources

@@ -1,1 +1,2 @@
+- pkg:maven/org.mvnpm/mdast-util-find-and-replace@1.1.1?classifier=sources
 - pkg:maven/org.mvnpm/mdast-util-find-and-replace@3.0.2?classifier=sources

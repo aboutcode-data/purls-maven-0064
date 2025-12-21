@@ -58,3 +58,5 @@
 - pkg:maven/com.trigyn/webjars@1.4.0?classifier=sources
 - pkg:maven/com.trigyn/webjars@1.4.1
 - pkg:maven/com.trigyn/webjars@1.4.1?classifier=sources
+- pkg:maven/com.trigyn/webjars@2.0
+- pkg:maven/com.trigyn/webjars@2.0?classifier=sources

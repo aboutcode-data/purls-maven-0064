@@ -1,0 +1,1 @@
+- pkg:maven/org.jreleaser/jreleaser-nexus3-java-sdk@1.18.0?classifier=sources

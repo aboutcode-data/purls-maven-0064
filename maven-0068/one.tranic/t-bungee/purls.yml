@@ -1,1 +1,2 @@
 - pkg:maven/one.tranic/t-bungee@1.0.0?classifier=sources
+- pkg:maven/one.tranic/t-bungee@1.0.1?classifier=sources

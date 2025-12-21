@@ -24,3 +24,5 @@
 - pkg:maven/gov.nasa.pds/registry-loader@1.0.0?classifier=sources
 - pkg:maven/gov.nasa.pds/registry-loader@1.0.1
 - pkg:maven/gov.nasa.pds/registry-loader@1.0.1?classifier=sources
+- pkg:maven/gov.nasa.pds/registry-loader@1.1.0
+- pkg:maven/gov.nasa.pds/registry-loader@1.1.0?classifier=sources

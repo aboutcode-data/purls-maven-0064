@@ -4,6 +4,8 @@
 - pkg:maven/org.neo4j.community/bolt-it@2025.02.0?classifier=sources
 - pkg:maven/org.neo4j.community/bolt-it@2025.03.0
 - pkg:maven/org.neo4j.community/bolt-it@2025.03.0?classifier=sources
+- pkg:maven/org.neo4j.community/bolt-it@2025.04.0
+- pkg:maven/org.neo4j.community/bolt-it@2025.04.0?classifier=sources
 - pkg:maven/org.neo4j.community/bolt-it@3.5.0
 - pkg:maven/org.neo4j.community/bolt-it@3.5.0-alpha02
 - pkg:maven/org.neo4j.community/bolt-it@3.5.0-alpha02?classifier=sources

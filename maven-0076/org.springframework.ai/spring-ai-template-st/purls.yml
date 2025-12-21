@@ -1,0 +1,2 @@
+- pkg:maven/org.springframework.ai/spring-ai-template-st@1.0.0-M8
+- pkg:maven/org.springframework.ai/spring-ai-template-st@1.0.0-M8?classifier=sources

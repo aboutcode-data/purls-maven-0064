@@ -38,3 +38,5 @@
 - pkg:maven/co.elastic.logging/logback-ecs-encoder@1.5.0?classifier=sources
 - pkg:maven/co.elastic.logging/logback-ecs-encoder@1.6.0
 - pkg:maven/co.elastic.logging/logback-ecs-encoder@1.6.0?classifier=sources
+- pkg:maven/co.elastic.logging/logback-ecs-encoder@1.7.0
+- pkg:maven/co.elastic.logging/logback-ecs-encoder@1.7.0?classifier=sources

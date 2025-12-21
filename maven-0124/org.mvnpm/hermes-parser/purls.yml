@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/hermes-parser@0.25.1
+- pkg:maven/org.mvnpm/hermes-parser@0.25.1?classifier=sources

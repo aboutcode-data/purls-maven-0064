@@ -1,0 +1,2 @@
+- pkg:maven/org.kopi/common@1.5.10?classifier=sources
+- pkg:maven/org.kopi/common@1.5.11?classifier=sources

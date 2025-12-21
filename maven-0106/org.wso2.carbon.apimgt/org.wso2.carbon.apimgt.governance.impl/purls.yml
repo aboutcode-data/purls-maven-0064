@@ -10,3 +10,5 @@
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.governance.impl@9.31.92?classifier=sources
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.governance.impl@9.31.93
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.governance.impl@9.31.93?classifier=sources
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.governance.impl@9.31.94
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.governance.impl@9.31.94?classifier=sources

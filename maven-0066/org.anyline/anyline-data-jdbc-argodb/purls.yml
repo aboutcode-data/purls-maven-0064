@@ -30,6 +30,8 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-argodb@8.7.2-20250401?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-argodb@8.7.2-20250404
 - pkg:maven/org.anyline/anyline-data-jdbc-argodb@8.7.2-20250404?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-argodb@8.7.2-20250502
+- pkg:maven/org.anyline/anyline-data-jdbc-argodb@8.7.2-20250502?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-argodb@8.7.2-jdk11-20241231
 - pkg:maven/org.anyline/anyline-data-jdbc-argodb@8.7.2-jdk11-20241231?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-argodb@8.7.2-jdk11-20250101

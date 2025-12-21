@@ -1,0 +1,4 @@
+- pkg:maven/gov.nasa.pds/nucleus-tools@0.0.6
+- pkg:maven/gov.nasa.pds/nucleus-tools@0.0.6?classifier=sources
+- pkg:maven/gov.nasa.pds/nucleus-tools@0.0.8
+- pkg:maven/gov.nasa.pds/nucleus-tools@0.0.8?classifier=sources

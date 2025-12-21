@@ -7,3 +7,4 @@
 - pkg:maven/org.webjars.npm/p-map@4.0.0
 - pkg:maven/org.webjars.npm/p-map@4.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/p-map@5.5.0
+- pkg:maven/org.webjars.npm/p-map@7.0.3

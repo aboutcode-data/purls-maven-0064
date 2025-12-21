@@ -1,0 +1,2 @@
+- pkg:maven/nl.w8mr.kasmine/core-jvm@0.0.3?classifier=sources
+- pkg:maven/nl.w8mr.kasmine/core-jvm@0.0.4?classifier=sources

@@ -68,6 +68,7 @@
 - pkg:maven/com.liferay/com.liferay.saml.persistence.service@2.0.52
 - pkg:maven/com.liferay/com.liferay.saml.persistence.service@2.0.52?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.persistence.service@2.0.53?classifier=sources
+- pkg:maven/com.liferay/com.liferay.saml.persistence.service@2.0.54?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.persistence.service@3.0.30
 - pkg:maven/com.liferay/com.liferay.saml.persistence.service@3.0.30?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.persistence.service@3.0.30?classifier=sources-commercial

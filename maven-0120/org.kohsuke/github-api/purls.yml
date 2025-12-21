@@ -276,6 +276,10 @@
 - pkg:maven/org.kohsuke/github-api@2.0-alpha-3?classifier=sources
 - pkg:maven/org.kohsuke/github-api@2.0-rc.1
 - pkg:maven/org.kohsuke/github-api@2.0-rc.1?classifier=sources
+- pkg:maven/org.kohsuke/github-api@2.0-rc.2
+- pkg:maven/org.kohsuke/github-api@2.0-rc.2?classifier=sources
+- pkg:maven/org.kohsuke/github-api@2.0-rc.3
+- pkg:maven/org.kohsuke/github-api@2.0-rc.3?classifier=sources
 - pkg:maven/org.kohsuke/github-api@2.0.0-alpha-1
 - pkg:maven/org.kohsuke/github-api@2.0.0-alpha-1?classifier=sources
 - pkg:maven/org.kohsuke/github-api@2.0.0-alpha-2

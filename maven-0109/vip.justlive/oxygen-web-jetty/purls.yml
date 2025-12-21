@@ -88,3 +88,4 @@
 - pkg:maven/vip.justlive/oxygen-web-jetty@3.0.9?classifier=sources
 - pkg:maven/vip.justlive/oxygen-web-jetty@4.0.0
 - pkg:maven/vip.justlive/oxygen-web-jetty@4.0.0?classifier=sources
+- pkg:maven/vip.justlive/oxygen-web-jetty@4.0.1?classifier=sources

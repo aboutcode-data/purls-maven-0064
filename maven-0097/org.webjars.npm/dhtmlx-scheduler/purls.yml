@@ -22,3 +22,4 @@
 - pkg:maven/org.webjars.npm/dhtmlx-scheduler@7.1.1
 - pkg:maven/org.webjars.npm/dhtmlx-scheduler@7.1.3
 - pkg:maven/org.webjars.npm/dhtmlx-scheduler@7.2.1
+- pkg:maven/org.webjars.npm/dhtmlx-scheduler@7.2.3

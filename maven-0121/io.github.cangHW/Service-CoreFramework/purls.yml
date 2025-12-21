@@ -53,3 +53,5 @@
 - pkg:maven/io.github.cangHW/Service-CoreFramework@0.4.7?classifier=sources
 - pkg:maven/io.github.cangHW/Service-CoreFramework@0.4.8?classifier=sources
 - pkg:maven/io.github.cangHW/Service-CoreFramework@0.4.9?classifier=sources
+- pkg:maven/io.github.cangHW/Service-CoreFramework@1.0.0?classifier=sources
+- pkg:maven/io.github.cangHW/Service-CoreFramework@1.0.1?classifier=sources

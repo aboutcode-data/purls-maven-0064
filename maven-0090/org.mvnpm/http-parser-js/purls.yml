@@ -1,1 +1,2 @@
+- pkg:maven/org.mvnpm/http-parser-js@0.5.10?classifier=sources
 - pkg:maven/org.mvnpm/http-parser-js@0.5.9?classifier=sources

@@ -2,6 +2,7 @@
 - pkg:maven/cloud.iothub/mobile@0.0.11?type=aar
 - pkg:maven/cloud.iothub/mobile@0.0.12?type=aar
 - pkg:maven/cloud.iothub/mobile@0.0.13?type=aar
+- pkg:maven/cloud.iothub/mobile@0.0.14?type=aar
 - pkg:maven/cloud.iothub/mobile@0.0.3?type=aar
 - pkg:maven/cloud.iothub/mobile@0.0.4?type=aar
 - pkg:maven/cloud.iothub/mobile@0.0.5?type=aar

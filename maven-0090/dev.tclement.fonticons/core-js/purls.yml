@@ -3,3 +3,4 @@
 - pkg:maven/dev.tclement.fonticons/core-js@1.4.0?classifier=sources
 - pkg:maven/dev.tclement.fonticons/core-js@1.4.1?classifier=sources
 - pkg:maven/dev.tclement.fonticons/core-js@2.0.0?classifier=sources
+- pkg:maven/dev.tclement.fonticons/core-js@2.1.0?classifier=sources

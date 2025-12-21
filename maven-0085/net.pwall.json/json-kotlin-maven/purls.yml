@@ -16,6 +16,10 @@
 - pkg:maven/net.pwall.json/json-kotlin-maven@0.116?classifier=sources
 - pkg:maven/net.pwall.json/json-kotlin-maven@0.118
 - pkg:maven/net.pwall.json/json-kotlin-maven@0.118?classifier=sources
+- pkg:maven/net.pwall.json/json-kotlin-maven@0.119
+- pkg:maven/net.pwall.json/json-kotlin-maven@0.119?classifier=sources
+- pkg:maven/net.pwall.json/json-kotlin-maven@0.120
+- pkg:maven/net.pwall.json/json-kotlin-maven@0.120?classifier=sources
 - pkg:maven/net.pwall.json/json-kotlin-maven@0.66
 - pkg:maven/net.pwall.json/json-kotlin-maven@0.66?classifier=sources
 - pkg:maven/net.pwall.json/json-kotlin-maven@0.67

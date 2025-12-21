@@ -33,6 +33,8 @@
 - pkg:maven/org.metaeffekt.core/ae-dependency-analysis-plugin@0.135.0
 - pkg:maven/org.metaeffekt.core/ae-dependency-analysis-plugin@0.135.0?classifier=sources
 - pkg:maven/org.metaeffekt.core/ae-dependency-analysis-plugin@0.135.1
+- pkg:maven/org.metaeffekt.core/ae-dependency-analysis-plugin@0.135.10
+- pkg:maven/org.metaeffekt.core/ae-dependency-analysis-plugin@0.135.10?classifier=sources
 - pkg:maven/org.metaeffekt.core/ae-dependency-analysis-plugin@0.135.1?classifier=sources
 - pkg:maven/org.metaeffekt.core/ae-dependency-analysis-plugin@0.135.2
 - pkg:maven/org.metaeffekt.core/ae-dependency-analysis-plugin@0.135.2?classifier=sources
@@ -48,3 +50,7 @@
 - pkg:maven/org.metaeffekt.core/ae-dependency-analysis-plugin@0.135.7?classifier=sources
 - pkg:maven/org.metaeffekt.core/ae-dependency-analysis-plugin@0.135.8
 - pkg:maven/org.metaeffekt.core/ae-dependency-analysis-plugin@0.135.8?classifier=sources
+- pkg:maven/org.metaeffekt.core/ae-dependency-analysis-plugin@0.135.9
+- pkg:maven/org.metaeffekt.core/ae-dependency-analysis-plugin@0.135.9?classifier=sources
+- pkg:maven/org.metaeffekt.core/ae-dependency-analysis-plugin@0.136.0
+- pkg:maven/org.metaeffekt.core/ae-dependency-analysis-plugin@0.136.0?classifier=sources

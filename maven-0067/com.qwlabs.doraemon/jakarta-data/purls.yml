@@ -18,3 +18,7 @@
 - pkg:maven/com.qwlabs.doraemon/jakarta-data@0.3.54?classifier=sources
 - pkg:maven/com.qwlabs.doraemon/jakarta-data@0.3.55?classifier=sources
 - pkg:maven/com.qwlabs.doraemon/jakarta-data@0.3.56?classifier=sources
+- pkg:maven/com.qwlabs.doraemon/jakarta-data@0.3.57?classifier=sources
+- pkg:maven/com.qwlabs.doraemon/jakarta-data@0.3.58?classifier=sources
+- pkg:maven/com.qwlabs.doraemon/jakarta-data@0.3.59?classifier=sources
+- pkg:maven/com.qwlabs.doraemon/jakarta-data@0.3.60?classifier=sources

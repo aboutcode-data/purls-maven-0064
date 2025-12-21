@@ -122,3 +122,11 @@
 - pkg:maven/software.amazon.awsconstructs/fargateopensearch@2.81.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/fargateopensearch@2.82.0
 - pkg:maven/software.amazon.awsconstructs/fargateopensearch@2.82.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/fargateopensearch@2.83.0
+- pkg:maven/software.amazon.awsconstructs/fargateopensearch@2.83.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/fargateopensearch@2.84.0
+- pkg:maven/software.amazon.awsconstructs/fargateopensearch@2.84.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/fargateopensearch@2.85.0
+- pkg:maven/software.amazon.awsconstructs/fargateopensearch@2.85.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/fargateopensearch@2.85.1
+- pkg:maven/software.amazon.awsconstructs/fargateopensearch@2.85.1?classifier=sources
